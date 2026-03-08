@@ -31,24 +31,24 @@ export function QuestionCard({
 
   const getChoiceStyle = (label: string) => {
     if (!answered) {
-      return 'border-slate-200 hover:border-blue-300 hover:bg-blue-50 cursor-pointer';
+      return 'border-slate-600 hover:border-blue-400 hover:bg-slate-700 cursor-pointer';
     }
     if (label === question.correctAnswer) {
-      return 'border-green-500 bg-green-50';
+      return 'border-green-500 bg-green-900/40';
     }
     if (label === selected && label !== question.correctAnswer) {
-      return 'border-red-500 bg-red-50';
+      return 'border-red-500 bg-red-900/40';
     }
-    return 'border-slate-200 opacity-60';
+    return 'border-slate-700 opacity-50';
   };
 
   const getChoiceIcon = (label: string) => {
     if (!answered) return null;
     if (label === question.correctAnswer) {
-      return <span className="text-green-600 font-bold ml-auto">&#10003;</span>;
+      return <span className="text-green-400 font-bold ml-auto">&#10003;</span>;
     }
     if (label === selected && label !== question.correctAnswer) {
-      return <span className="text-red-600 font-bold ml-auto">&#10007;</span>;
+      return <span className="text-red-400 font-bold ml-auto">&#10007;</span>;
     }
     return null;
   };
@@ -58,20 +58,20 @@ export function QuestionCard({
       {/* Header */}
       <div className="flex items-center justify-between mb-6">
         <div className="flex items-center gap-3">
-          <span className="text-sm font-medium text-slate-500">
+          <span className="text-sm font-medium text-slate-400">
             Question {index + 1} of {total}
           </span>
           <span className={`text-xs px-2 py-0.5 rounded font-medium ${
-            question.difficulty === 'hard' ? 'bg-red-100 text-red-700' : 'bg-amber-100 text-amber-700'
+            question.difficulty === 'hard' ? 'bg-red-900/50 text-red-400' : 'bg-amber-900/50 text-amber-400'
           }`}>
             {question.difficulty}
           </span>
         </div>
         <div className="flex items-center gap-2">
-          <span className="text-xs text-slate-400">{question.topicName}</span>
+          <span className="text-xs text-slate-500">{question.topicName}</span>
           <button
             onClick={onBookmark}
-            className={`p-1.5 rounded transition-colors ${isBookmarked ? 'text-amber-500' : 'text-slate-300 hover:text-amber-400'}`}
+            className={`p-1.5 rounded transition-colors ${isBookmarked ? 'text-amber-400' : 'text-slate-500 hover:text-amber-400'}`}
             title={isBookmarked ? 'Remove bookmark' : 'Bookmark this question'}
           >
             <svg className="w-5 h-5" fill={isBookmarked ? 'currentColor' : 'none'} viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" /></svg>
@@ -80,9 +80,9 @@ export function QuestionCard({
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-1.5 bg-slate-200 rounded-full mb-6">
+      <div className="w-full h-1.5 bg-slate-700 rounded-full mb-6">
         <div
-          className="h-full bg-blue-600 rounded-full transition-all duration-300"
+          className="h-full bg-blue-500 rounded-full transition-all duration-300"
           style={{ width: `${((index + 1) / total) * 100}%` }}
         />
       </div>
@@ -93,15 +93,15 @@ export function QuestionCard({
           <img
             src={`${import.meta.env.BASE_URL}data/images/${question.imageRef}`}
             alt="Clinical image"
-            className="max-h-72 rounded-lg border border-slate-200"
+            className="max-h-72 rounded-lg border border-slate-600"
             loading="lazy"
           />
         </div>
       )}
 
       {/* Stem */}
-      <div className="bg-white rounded-xl border border-slate-200 p-6 mb-6 shadow-sm">
-        <p className="text-slate-800 leading-relaxed whitespace-pre-line">{question.stem}</p>
+      <div className="bg-slate-800 rounded-xl border border-slate-700 p-6 mb-6 shadow-sm">
+        <p className="text-slate-200 leading-relaxed whitespace-pre-line">{question.stem}</p>
       </div>
 
       {/* Choices */}
@@ -116,11 +116,11 @@ export function QuestionCard({
             <span className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
               answered && choice.label === question.correctAnswer ? 'bg-green-600 text-white' :
               answered && choice.label === selected ? 'bg-red-600 text-white' :
-              'bg-slate-100 text-slate-600'
+              'bg-slate-700 text-slate-300'
             }`}>
               {choice.label}
             </span>
-            <span className="text-slate-700 flex-1">{choice.text}</span>
+            <span className="text-slate-300 flex-1">{choice.text}</span>
             {getChoiceIcon(choice.label)}
           </button>
         ))}
@@ -129,36 +129,36 @@ export function QuestionCard({
       {/* Explanation */}
       {answered && (
         <div className={`rounded-xl border-2 p-6 mb-6 ${
-          selected === question.correctAnswer ? 'border-green-300 bg-green-50' : 'border-red-300 bg-red-50'
+          selected === question.correctAnswer ? 'border-green-700 bg-green-900/30' : 'border-red-700 bg-red-900/30'
         }`}>
           <div className="flex items-center gap-2 mb-3">
             <span className={`text-lg font-bold ${
-              selected === question.correctAnswer ? 'text-green-700' : 'text-red-700'
+              selected === question.correctAnswer ? 'text-green-400' : 'text-red-400'
             }`}>
               {selected === question.correctAnswer ? 'Correct!' : 'Incorrect'}
             </span>
             {selected !== question.correctAnswer && (
-              <span className="text-sm text-slate-600">
+              <span className="text-sm text-slate-400">
                 — The correct answer is {question.correctAnswer}
               </span>
             )}
           </div>
-          <p className="text-slate-700 mb-4 leading-relaxed">{question.explanation.summary}</p>
+          <p className="text-slate-300 mb-4 leading-relaxed">{question.explanation.summary}</p>
 
           <div className="mb-4">
-            <h4 className="font-semibold text-slate-800 mb-1">Why {question.correctAnswer} is correct:</h4>
-            <p className="text-slate-600 leading-relaxed">{question.explanation.whyCorrect}</p>
+            <h4 className="font-semibold text-slate-200 mb-1">Why {question.correctAnswer} is correct:</h4>
+            <p className="text-slate-400 leading-relaxed">{question.explanation.whyCorrect}</p>
           </div>
 
           <div>
-            <h4 className="font-semibold text-slate-800 mb-2">Why the other choices are wrong:</h4>
+            <h4 className="font-semibold text-slate-200 mb-2">Why the other choices are wrong:</h4>
             <div className="space-y-2">
               {question.choices
                 .filter(c => c.label !== question.correctAnswer)
                 .map(c => (
                   <div key={c.label} className="flex gap-2">
                     <span className="font-medium text-slate-500 flex-shrink-0">{c.label}.</span>
-                    <p className="text-slate-600 text-sm leading-relaxed">
+                    <p className="text-slate-400 text-sm leading-relaxed">
                       {question.explanation.whyWrongByChoice[c.label]}
                     </p>
                   </div>
@@ -173,13 +173,13 @@ export function QuestionCard({
         <button
           onClick={onPrevious}
           disabled={!hasPrevious}
-          className="px-5 py-2.5 rounded-lg border border-slate-300 text-slate-600 hover:bg-slate-50 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
+          className="px-5 py-2.5 rounded-lg border border-slate-600 text-slate-400 hover:bg-slate-700 disabled:opacity-30 disabled:cursor-not-allowed transition-colors"
         >
           Previous
         </button>
         <button
           onClick={onEnd}
-          className="px-5 py-2.5 rounded-lg text-slate-500 hover:text-slate-700 hover:bg-slate-100 transition-colors"
+          className="px-5 py-2.5 rounded-lg text-slate-500 hover:text-slate-300 hover:bg-slate-700 transition-colors"
         >
           End Quiz
         </button>
@@ -187,7 +187,7 @@ export function QuestionCard({
           <button
             onClick={onNext}
             disabled={!answered}
-            className="px-5 py-2.5 rounded-lg bg-blue-600 text-white hover:bg-blue-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+            className="px-5 py-2.5 rounded-lg bg-blue-600 text-white hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
           >
             Next
           </button>
@@ -195,7 +195,7 @@ export function QuestionCard({
           <button
             onClick={onEnd}
             disabled={!answered}
-            className="px-5 py-2.5 rounded-lg bg-green-600 text-white hover:bg-green-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+            className="px-5 py-2.5 rounded-lg bg-green-600 text-white hover:bg-green-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
           >
             Finish
           </button>

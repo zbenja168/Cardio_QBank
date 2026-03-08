@@ -45,18 +45,18 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
   };
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      <header className="bg-white border-b border-slate-200 sticky top-0 z-10">
+    <div className="min-h-screen bg-slate-900">
+      <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div className="max-w-4xl mx-auto px-4 py-3 flex items-center gap-4">
-          <button onClick={onBack} className="text-slate-500 hover:text-slate-700">
+          <button onClick={onBack} className="text-slate-400 hover:text-slate-200">
             <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
           </button>
-          <h1 className="text-lg font-bold text-slate-900">Review</h1>
+          <h1 className="text-lg font-bold text-slate-100">Review</h1>
           <div className="flex gap-2 ml-auto">
             <button
               onClick={() => switchMode('bookmarked')}
               className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                mode === 'bookmarked' ? 'bg-amber-100 text-amber-700 font-medium' : 'text-slate-500 hover:bg-slate-100'
+                mode === 'bookmarked' ? 'bg-amber-900/50 text-amber-400 font-medium' : 'text-slate-400 hover:bg-slate-700'
               }`}
             >
               Bookmarked ({bookmarkedCount})
@@ -64,7 +64,7 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
             <button
               onClick={() => switchMode('incorrect')}
               className={`px-3 py-1.5 text-sm rounded-lg transition-colors ${
-                mode === 'incorrect' ? 'bg-red-100 text-red-700 font-medium' : 'text-slate-500 hover:bg-slate-100'
+                mode === 'incorrect' ? 'bg-red-900/50 text-red-400 font-medium' : 'text-slate-400 hover:bg-slate-700'
               }`}
             >
               Incorrect ({incorrectCount})
@@ -76,7 +76,7 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
       <main className="px-4 py-6">
         {filteredQuestions.length === 0 ? (
           <div className="max-w-4xl mx-auto text-center py-16">
-            <p className="text-slate-500 text-lg">
+            <p className="text-slate-400 text-lg">
               {mode === 'bookmarked' ? 'No bookmarked questions.' : 'No incorrect answers yet.'}
             </p>
             <button onClick={onBack} className="mt-4 px-6 py-2 rounded-lg bg-blue-600 text-white">

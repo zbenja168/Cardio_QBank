@@ -51,10 +51,10 @@ function App() {
 
   if (topicsHook.loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50">
+      <div className="min-h-screen flex items-center justify-center bg-slate-900">
         <div className="text-center">
           <div className="w-8 h-8 border-3 border-blue-600 border-t-transparent rounded-full animate-spin mx-auto mb-3" />
-          <p className="text-slate-500">Loading question bank...</p>
+          <p className="text-slate-400">Loading question bank...</p>
         </div>
       </div>
     );
@@ -62,18 +62,18 @@ function App() {
 
   if (!topicsHook.topics) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50">
-        <p className="text-red-500">Failed to load topics. Check that data/topics.json exists.</p>
+      <div className="min-h-screen flex items-center justify-center bg-slate-900">
+        <p className="text-red-400">Failed to load topics. Check that data/topics.json exists.</p>
       </div>
     );
   }
 
   if (questionsLoading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50">
+      <div className="min-h-screen flex items-center justify-center bg-slate-900">
         <div className="text-center">
           <div className="w-8 h-8 border-3 border-blue-600 border-t-transparent rounded-full animate-spin mx-auto mb-3" />
-          <p className="text-slate-500">Loading questions...</p>
+          <p className="text-slate-400">Loading questions...</p>
         </div>
       </div>
     );

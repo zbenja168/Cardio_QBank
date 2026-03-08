@@ -26,18 +26,18 @@ export function HomePage({
   const bookmarkCount = progress.bookmarkedQuestions.length;
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      <header className="bg-white border-b border-slate-200 sticky top-0 z-10">
+    <div className="min-h-screen bg-slate-900">
+      <header className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
         <div className="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-xl font-bold text-slate-900">CV QBank</h1>
-            <p className="text-sm text-slate-500">Cardiovascular Question Bank</p>
+            <h1 className="text-xl font-bold text-slate-100">CV QBank</h1>
+            <p className="text-sm text-slate-400">Cardiovascular Question Bank</p>
           </div>
           <div className="flex items-center gap-3">
             {stats.total > 0 && (
               <button
                 onClick={onGoToDashboard}
-                className="px-4 py-2 text-sm rounded-lg border border-slate-300 text-slate-600 hover:bg-slate-50 transition-colors"
+                className="px-4 py-2 text-sm rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors"
               >
                 Dashboard ({stats.percentage}%)
               </button>
@@ -45,7 +45,7 @@ export function HomePage({
             {bookmarkCount > 0 && (
               <button
                 onClick={onGoToReview}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-300 text-amber-700 hover:bg-amber-50 transition-colors"
+                className="px-4 py-2 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
               >
                 Bookmarked ({bookmarkCount})
               </button>
@@ -58,28 +58,28 @@ export function HomePage({
         {/* Stats summary */}
         {stats.total > 0 && (
           <div className="grid grid-cols-3 gap-4 mb-8">
-            <div className="bg-white rounded-xl border border-slate-200 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-800">{stats.total}</div>
-              <div className="text-sm text-slate-500">Answered</div>
+            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
+              <div className="text-2xl font-bold text-slate-200">{stats.total}</div>
+              <div className="text-sm text-slate-400">Answered</div>
             </div>
-            <div className="bg-white rounded-xl border border-slate-200 p-4 text-center">
-              <div className="text-2xl font-bold text-green-600">{stats.percentage}%</div>
-              <div className="text-sm text-slate-500">Correct</div>
+            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
+              <div className="text-2xl font-bold text-green-400">{stats.percentage}%</div>
+              <div className="text-sm text-slate-400">Correct</div>
             </div>
-            <div className="bg-white rounded-xl border border-slate-200 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-800">{topics.totalQuestions - stats.total}</div>
-              <div className="text-sm text-slate-500">Remaining</div>
+            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
+              <div className="text-2xl font-bold text-slate-200">{topics.totalQuestions - stats.total}</div>
+              <div className="text-sm text-slate-400">Remaining</div>
             </div>
           </div>
         )}
 
         {/* Filter controls */}
         <div className="flex items-center justify-between mb-4">
-          <h2 className="text-lg font-semibold text-slate-800">Select Topics</h2>
+          <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
           <div className="flex items-center gap-3">
-            <button onClick={onSelectAll} className="text-sm text-blue-600 hover:text-blue-800">Select All</button>
-            <span className="text-slate-300">|</span>
-            <button onClick={onClearAll} className="text-sm text-blue-600 hover:text-blue-800">Clear All</button>
+            <button onClick={onSelectAll} className="text-sm text-blue-400 hover:text-blue-300">Select All</button>
+            <span className="text-slate-600">|</span>
+            <button onClick={onClearAll} className="text-sm text-blue-400 hover:text-blue-300">Clear All</button>
           </div>
         </div>
 
@@ -97,11 +97,11 @@ export function HomePage({
         </div>
 
         {/* Start button */}
-        <div className="sticky bottom-0 bg-gradient-to-t from-slate-50 via-slate-50 to-transparent pt-4 pb-6">
+        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
           <button
             onClick={onStartQuiz}
             disabled={selectedCount === 0}
-            className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-700 disabled:bg-slate-300 disabled:cursor-not-allowed transition-colors shadow-lg"
+            className="w-full py-4 rounded-xl bg-blue-600 text-white font-semibold text-lg hover:bg-blue-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
           >
             {selectedCount > 0
               ? `Start Quiz (${selectedCount} questions)`
