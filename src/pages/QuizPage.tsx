@@ -96,6 +96,7 @@ export function QuizPage({
 
       <main className="px-4 py-6">
         <QuestionCard
+          key={currentQuestion.id}
           question={currentQuestion}
           index={currentIndex}
           total={questions.length}

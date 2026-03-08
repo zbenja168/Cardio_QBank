@@ -85,6 +85,7 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
           </div>
         ) : currentQuestion ? (
           <QuestionCard
+            key={currentQuestion.id}
             question={currentQuestion}
             index={currentIndex}
             total={filteredQuestions.length}
