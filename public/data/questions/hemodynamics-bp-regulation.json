@@ -1524,38 +1524,38 @@
       "id": "hb-033",
       "topicId": "humoral-regulation",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 72-year-old man with a history of chronic heart failure presents for a routine follow-up. Echocardiography reveals a dilated left ventricle with an ejection fraction of 25%. Laboratory studies show elevated serum levels of a peptide hormone that was originally discovered in porcine brain tissue. This hormone promotes natriuresis through multiple renal mechanisms. Which of the following best describes the primary site of release and stimulus for this hormone in this patient?",
+      "stem": "A 68-year-old man with a 10-year history of congestive heart failure presents with worsening dyspnea on exertion and bilateral lower extremity edema. His ejection fraction is 22%. Echocardiography shows severe biventricular dilation. Serum levels of a peptide biomarker commonly used to assess heart failure severity are markedly elevated. This biomarker promotes natriuresis through several mechanisms, including inhibition of sodium reabsorption in the renal tubules and suppression of the renin-angiotensin-aldosterone system. Which mechanism best explains how this biomarker ultimately reduces blood pressure?",
       "choices": [
         {
           "label": "A",
-          "text": "Ventricular cardiomyocytes in response to increased ventricular wall stretch"
+          "text": "Direct vasoconstriction of efferent arterioles leading to increased glomerular filtration and sodium loss"
         },
         {
           "label": "B",
-          "text": "Atrial cardiomyocytes in response to increased atrial wall stretch"
+          "text": "Stimulation of V2 receptors on collecting duct principal cells to promote free water excretion"
         },
         {
           "label": "C",
-          "text": "Posterior pituitary gland in response to elevated serum osmolality"
+          "text": "Inhibition of angiotensin-converting enzyme resulting in decreased bradykinin degradation and vasodilation"
         },
         {
           "label": "D",
-          "text": "Vascular endothelial cells in response to shearing forces of blood flow"
+          "text": "Activation of endothelial nitric oxide synthase in renal vasculature causing afferent arteriolar dilation"
         },
         {
           "label": "E",
-          "text": "Mast cells and basophils in response to inflammatory mediators"
+          "text": "Increased urinary sodium excretion leading to osmotic water loss, decreased blood volume, and reduced cardiac preload"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "E",
       "explanation": {
-        "summary": "BNP (B-type natriuretic peptide, originally called 'brain' natriuretic peptide because it was first identified in porcine brain tissue) is released from ventricular cardiomyocytes in response to ventricular wall stretch, as seen in heart failure with a dilated ventricle.",
-        "whyCorrect": "BNP was originally identified in porcine brain tissue, giving it its historical name. Despite this, it is primarily released from ventricular cardiomyocytes when ventricular wall stretch is detected, making it an important biomarker in heart failure with ventricular dilation.",
+        "summary": "BNP, released from stretched ventricular cardiomyocytes, promotes natriuresis by increasing GFR, inhibiting tubular sodium reabsorption, and suppressing RAAS. The increased urinary sodium raises osmotic pressure in the filtrate, drawing water into the urine, which decreases blood volume, cardiac preload, cardiac output, and ultimately blood pressure.",
+        "whyCorrect": "Natriuretic peptides lower blood pressure through a chain: sodium retention in the urine increases osmotic pressure in the filtrate, causing water to follow sodium into the urine (diuresis). This fluid loss reduces blood volume, decreasing venous return (preload), cardiac output, and blood pressure.",
         "whyWrongByChoice": {
-          "B": "Atrial cardiomyocytes release ANP (atrial natriuretic peptide) in response to atrial stretch, not the peptide originally discovered in porcine brain tissue.",
-          "C": "The posterior pituitary releases vasopressin (ADH) in response to high serum osmolality; vasopressin is a vasoconstrictor, not a natriuretic peptide.",
-          "D": "Vascular endothelial cells release nitric oxide and endothelin in response to shearing forces, not natriuretic peptides.",
-          "E": "Mast cells and basophils release histamine and bradykinin during inflammation, not natriuretic peptides."
+          "A": "Natriuretic peptides increase GFR but not through efferent arteriolar vasoconstriction; that mechanism is associated with angiotensin II. The primary blood pressure-lowering effect is through volume reduction from natriuresis.",
+          "B": "V2 receptors on collecting duct principal cells are the target of vasopressin (ADH), not natriuretic peptides. Vasopressin promotes water reabsorption, not excretion.",
+          "C": "ACE inhibitors block bradykinin degradation, but this is a pharmacologic mechanism, not the mechanism by which endogenous natriuretic peptides reduce blood pressure.",
+          "D": "While nitric oxide does cause vasodilation, natriuretic peptides lower blood pressure primarily through volume reduction via natriuresis rather than through eNOS activation in the renal vasculature."
         }
       },
       "difficulty": "hard",
@@ -1564,139 +1564,46 @@
         "cardiovascular",
         "natriuretic-peptides",
         "BNP",
-        "heart-failure"
+        "heart-failure",
+        "natriuresis"
       ]
     },
     {
       "id": "hb-034",
       "topicId": "humoral-regulation",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 55-year-old woman with stable angina pectoris is prescribed nitroglycerin for chest pain relief. She asks how the medication works. The drug she is prescribed is metabolized to form a molecule that is endogenously produced by vascular endothelial cells. This molecule lowers blood pressure by binding to receptors on a specific cell type, inducing relaxation. Which of the following is the primary target cell of this endogenous molecule?",
+      "stem": "A 45-year-old woman with a history of hypertension is started on an ACE inhibitor. Three weeks later, she presents to the emergency department with progressive lip and tongue swelling over the past 6 hours without urticaria. She denies exposure to known allergens. Her vitals show BP 138/88 mmHg, HR 76 bpm, and SpO2 97%. The medication she was prescribed inhibits the enzyme that normally degrades a specific vasoactive peptide. This peptide is synthesized when kallikrein proteases cleave its precursor protein. What would you expect on further evaluation regarding the mediator responsible for her presentation?",
       "choices": [
         {
           "label": "A",
-          "text": "Atrial cardiomyocytes"
+          "text": "Elevated serum histamine from mast cell degranulation with concurrent IgE-mediated immune activation"
         },
         {
           "label": "B",
-          "text": "Vascular smooth muscle cells"
+          "text": "Increased bradykinin levels due to reduced degradation, with downstream nitric oxide and prostaglandin release causing vasodilation and edema"
         },
         {
           "label": "C",
-          "text": "Renal tubular epithelial cells"
+          "text": "Elevated endothelin-1 levels causing excessive vasoconstriction and downstream tissue ischemia with secondary swelling"
         },
         {
           "label": "D",
-          "text": "Mast cells in the vascular adventitia"
+          "text": "Increased atrial natriuretic peptide release from volume overload causing vascular permeability changes and localized edema"
         },
         {
           "label": "E",
-          "text": "Vascular endothelial cells"
+          "text": "Excess nitric oxide production from neuronal nitric oxide synthase leading to localized vasodilation and subcutaneous fluid accumulation"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Nitroglycerin is metabolized to nitric oxide (NO), which is endogenously released from vascular endothelial cells. NO circulates in the blood and binds to receptors on vascular smooth muscle cells, inducing their relaxation and causing vasodilation.",
-        "whyCorrect": "Nitric oxide acts on vascular smooth muscle cells, binding to receptors that induce smooth muscle relaxation, leading to vasodilation and blood pressure reduction.",
+        "summary": "ACE inhibitors block the degradation of bradykinin, which is normally cleaved by ACE. Bradykinin is formed when kallikrein proteases cleave kininogens. Accumulated bradykinin binds B2 receptors on endothelial cells, stimulating release of nitric oxide and prostaglandins, causing vasodilation and increased vascular permeability, manifesting as angioedema.",
+        "whyCorrect": "ACE normally degrades bradykinin. ACE inhibitor use leads to bradykinin accumulation. Bradykinin binds B2 receptors on vascular endothelium, triggering secretion of nitric oxide and prostaglandins that cause smooth muscle dilation and increased vascular permeability, producing angioedema without urticaria.",
         "whyWrongByChoice": {
-          "A": "Atrial cardiomyocytes are the source of ANP release in response to atrial stretch, but they are not the primary target of nitric oxide.",
-          "C": "Renal tubular epithelial cells are targets of natriuretic peptides and vasopressin for sodium and water handling, not the primary target of nitric oxide.",
-          "D": "Mast cells are sources of histamine and bradykinin release but are not the target cells of nitric oxide for blood pressure regulation.",
-          "E": "Vascular endothelial cells are the source of nitric oxide, not its primary target; NO diffuses to adjacent smooth muscle cells to exert its vasodilatory effect."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "nitric-oxide",
-        "nitroglycerin",
-        "vasodilation"
-      ]
-    },
-    {
-      "id": "hb-035",
-      "topicId": "humoral-regulation",
-      "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 34-year-old woman presents to the emergency department 20 minutes after accidentally ingesting shellfish, to which she is severely allergic. She is hypotensive with a blood pressure of 78/50 mmHg, tachycardic at 120 bpm, and has diffuse urticaria. The substance primarily responsible for her hemodynamic instability is released from specific immune cells. Which of the following cell types is the primary source of this substance in peripheral tissues?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Vascular endothelial cells"
-        },
-        {
-          "label": "B",
-          "text": "Ventricular cardiomyocytes"
-        },
-        {
-          "label": "C",
-          "text": "Mast cells and basophils"
-        },
-        {
-          "label": "D",
-          "text": "Posterior pituitary neurons"
-        },
-        {
-          "label": "E",
-          "text": "Hepatocytes"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "This patient is experiencing anaphylactic shock due to massive histamine release. Histamine, the principal mediator of anaphylaxis, is released from mast cells and basophils, causing severe vasodilation and dangerous hypotension.",
-        "whyCorrect": "Mast cells and basophils are the main sources of histamine in peripheral tissues. In anaphylaxis, these cells degranulate massively, releasing histamine that causes widespread vasodilation and hypotension.",
-        "whyWrongByChoice": {
-          "A": "Vascular endothelial cells release nitric oxide and endothelin, not histamine; they are not immune cells involved in allergic responses.",
-          "B": "Ventricular cardiomyocytes release BNP in response to ventricular wall stretch, not histamine during allergic reactions.",
-          "D": "Posterior pituitary neurons release vasopressin (ADH), a vasoconstrictor, not the vasodilator responsible for anaphylactic shock.",
-          "E": "Hepatocytes produce kininogens (bradykinin precursors) but are not the primary source of the mediator causing anaphylactic shock."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "histamine",
-        "anaphylaxis",
-        "mast-cells"
-      ]
-    },
-    {
-      "id": "hb-036",
-      "topicId": "humoral-regulation",
-      "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 60-year-old man with hypertension is started on an ACE inhibitor. Two weeks later, he presents with swelling of his lips and tongue. His physician explains that this adverse effect is mediated by accumulation of a vasodilating peptide that normally causes vascular smooth muscle dilation through the release of nitric oxide and prostaglandins after binding to its B2 receptor. Under normal conditions, which of the following activates the synthesis of this peptide?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atrial wall stretch causing cardiomyocyte degranulation"
-        },
-        {
-          "label": "B",
-          "text": "High serum osmolality stimulating posterior pituitary release"
-        },
-        {
-          "label": "C",
-          "text": "Shearing force of blood flow on vascular endothelial cells"
-        },
-        {
-          "label": "D",
-          "text": "Kallikrein-mediated cleavage of kininogens during inflammation"
-        },
-        {
-          "label": "E",
-          "text": "Allergen-induced degranulation of mast cells releasing preformed granules"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The peptide causing angioedema with ACE inhibitor use is bradykinin. Bradykinin synthesis is stimulated during inflammation when kallikreins cleave kininogens into active bradykinin. ACE normally degrades bradykinin, so ACE inhibitors cause bradykinin accumulation.",
-        "whyCorrect": "Bradykinin is synthesized when specific proteases called kallikreins are activated during inflammation, cleaving bradykinin precursors (kininogens) into active bradykinin. The B2 receptor mediates its vasodilatory effects through NO and prostaglandin release.",
-        "whyWrongByChoice": {
-          "A": "Atrial wall stretch stimulates ANP release from atrial cardiomyocytes, not bradykinin synthesis.",
-          "B": "High serum osmolality stimulates vasopressin (ADH) release from the posterior pituitary, which is a vasoconstrictor, not the vasodilator causing angioedema.",
-          "C": "Shearing force on endothelial cells stimulates nitric oxide and endothelin release, not bradykinin synthesis.",
-          "E": "Mast cell degranulation releases histamine as the primary mediator; while mast cells can release bradykinin, the synthesis pathway involves kallikrein cleavage of kininogens, not preformed granule release."
+          "A": "Histamine-mediated angioedema typically presents with urticaria and is IgE-mediated. This patient lacks urticaria and has no allergen exposure, making bradykinin-mediated angioedema from ACE inhibitor use far more likely.",
+          "C": "Endothelin-1 is a vasoconstrictor, not a vasodilator, and does not cause angioedema. ACE inhibitors do not increase endothelin levels.",
+          "D": "ANP is released in response to atrial stretch in volume overload states. It promotes natriuresis and vasodilation but is not the mediator of ACE inhibitor-induced angioedema.",
+          "E": "While nitric oxide is involved downstream of bradykinin signaling, the primary mediator accumulating due to ACE inhibition is bradykinin itself, not nitric oxide from neuronal NOS."
         }
       },
       "difficulty": "hard",
@@ -1709,41 +1616,89 @@
       ]
     },
     {
-      "id": "hb-037",
+      "id": "hb-035",
       "topicId": "humoral-regulation",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 48-year-old woman is diagnosed with pulmonary arterial hypertension. Her physician explains that a vasoconstricting substance released from the vascular endothelium is abnormally elevated in her lungs and is contributing to progressive vasoconstriction. This substance acts through a calcium-mediated signal transduction pathway after binding to ET-A and ET-B receptors. Which of the following also stimulates the release of this vasoconstrictor?",
+      "stem": "A 58-year-old man is admitted to the ICU following a motor vehicle accident with estimated blood loss of 1.5 liters. Despite aggressive crystalloid resuscitation, his blood pressure remains 82/54 mmHg, heart rate is 118 bpm, and urine output is 10 mL/hr. His serum sodium is 148 mEq/L, and serum osmolality is 310 mOsm/kg. The treatment team initiates a pharmacologic vasopressin analogue. Which mechanism best explains how this agent raises blood pressure?",
       "choices": [
         {
           "label": "A",
-          "text": "Decreased serum osmolality and increased effective circulating volume"
+          "text": "Activation of V2 receptors on arteriolar smooth muscle causing calcium-mediated contraction and increased systemic vascular resistance"
         },
         {
           "label": "B",
-          "text": "Activation of kallikreins during the inflammatory response"
+          "text": "Stimulation of beta-2 adrenergic receptors on skeletal muscle vasculature producing vasodilation and improved cardiac output"
         },
         {
           "label": "C",
-          "text": "Exposure to environmental allergens causing immune cell degranulation"
+          "text": "Binding to V1a receptors on arteriolar smooth muscle cells triggering contraction, combined with V2-mediated renal water reabsorption expanding blood volume"
         },
         {
           "label": "D",
-          "text": "Increased glomerular filtration rate and sodium excretion"
+          "text": "Inhibition of renin secretion from juxtaglomerular cells decreasing angiotensin II formation and reducing aldosterone-mediated sodium retention"
         },
         {
           "label": "E",
-          "text": "Angiotensin II and antidiuretic hormone"
+          "text": "Stimulation of atrial cardiomyocyte stretch receptors leading to increased natriuretic peptide release and reflex vasoconstriction"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "Endothelin is a vasoconstrictor released from vascular endothelium that acts via ET-A and ET-B receptors through calcium-mediated signaling. Its release is stimulated by angiotensin II and ADH, both of which also raise blood pressure, functioning synergistically with endothelin.",
-        "whyCorrect": "Endothelin release is stimulated by shearing force from high blood flow, angiotensin II, and antidiuretic hormone (ADH). Both angiotensin II and ADH lead to increases in blood pressure and/or blood volume, functioning synergistically with endothelin.",
+        "summary": "Vasopressin (ADH) raises blood pressure through two complementary mechanisms: V1a receptor activation on arteriolar smooth muscle causes vasoconstriction (increasing SVR), and V2 receptor activation on renal collecting duct principal cells promotes water reabsorption (expanding blood volume). Both mechanisms increase blood pressure.",
+        "whyCorrect": "Vasopressin binds V1a receptors on vascular smooth muscle to cause arteriolar constriction, increasing systemic vascular resistance. Simultaneously, V2 receptors on renal collecting duct principal cells promote water reabsorption, expanding blood volume. Both effects raise blood pressure.",
         "whyWrongByChoice": {
-          "A": "Decreased osmolality and increased circulating volume would suppress vasopressin release and would not stimulate endothelin; high osmolality and low volume stimulate vasopressin.",
-          "B": "Kallikrein activation leads to bradykinin synthesis, a vasodilator, not to endothelin release.",
-          "C": "Allergen exposure causes mast cell degranulation and histamine release, which produces vasodilation, not endothelin-mediated vasoconstriction.",
-          "D": "Increased GFR and sodium excretion are effects of natriuretic peptides (ANP/BNP), which are vasodilators and do not stimulate endothelin release."
+          "A": "V2 receptors are located on renal collecting duct principal cells, not on arteriolar smooth muscle. The vascular vasoconstriction is mediated by V1a receptors, not V2.",
+          "B": "Beta-2 receptor stimulation causes vasodilation, which would lower blood pressure. Vasopressin does not act through adrenergic receptors at all.",
+          "D": "Inhibition of renin secretion is an action of natriuretic peptides, not vasopressin. Moreover, reduced RAAS activity would lower blood pressure, the opposite of the intended effect.",
+          "E": "Natriuretic peptides are released from stretched cardiomyocytes and cause vasodilation, not vasoconstriction. Vasopressin does not stimulate atrial stretch receptors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "vasopressin",
+        "ADH",
+        "hemorrhagic-shock",
+        "V1a-receptor"
+      ]
+    },
+    {
+      "id": "hb-036",
+      "topicId": "humoral-regulation",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "A 32-year-old woman with a history of migraines presents for evaluation of progressive exertional dyspnea over 6 months. Pulmonary function tests are normal. Right heart catheterization reveals a mean pulmonary artery pressure of 48 mmHg. Her cardiologist explains that a vasoconstricting peptide produced by the vascular lining is abnormally elevated in her pulmonary circulation. This peptide acts through a calcium-mediated signal transduction pathway after binding ET-A and ET-B receptors. Its release is stimulated by angiotensin II and antidiuretic hormone. What is the most likely next step in targeted therapy for this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administration of an endothelin receptor antagonist to block calcium-mediated smooth muscle contraction in the pulmonary vasculature"
+        },
+        {
+          "label": "B",
+          "text": "Initiation of a bradykinin B2 receptor agonist to promote nitric oxide-mediated pulmonary vasodilation"
+        },
+        {
+          "label": "C",
+          "text": "Infusion of recombinant atrial natriuretic peptide to promote pulmonary vascular sodium excretion and reduce vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "Administration of a histamine H1 receptor antagonist to reduce mast cell-mediated pulmonary vasodilation and normalize pressures"
+        },
+        {
+          "label": "E",
+          "text": "Initiation of a vasopressin V1a receptor agonist to counterbalance pulmonary endothelin through reflex vasodilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The patient has pulmonary arterial hypertension driven by elevated endothelin, which is released from vascular endothelium and causes vasoconstriction through ET-A and ET-B receptors via calcium-mediated signaling. Endothelin receptor antagonists (e.g., bosentan) are a targeted therapy that blocks this pathway.",
+        "whyCorrect": "Endothelin is the vasoconstrictor described — produced by vascular endothelium, stimulated by angiotensin II and ADH, acting through ET-A/ET-B receptors and calcium signaling. Blocking these receptors with an endothelin receptor antagonist directly addresses the pathologic vasoconstriction driving pulmonary arterial hypertension.",
+        "whyWrongByChoice": {
+          "B": "While bradykinin can stimulate nitric oxide release and cause vasodilation, B2 receptor agonists are not a standard treatment for pulmonary arterial hypertension and would not address the elevated endothelin driving this disease.",
+          "C": "ANP promotes natriuresis and systemic vasodilation but does not specifically target the endothelin-mediated pulmonary vasoconstriction underlying this condition.",
+          "D": "Histamine is a vasodilator, not a vasoconstrictor. An H1 antagonist would reduce vasodilation, potentially worsening pulmonary hypertension rather than treating it.",
+          "E": "Vasopressin V1a agonists cause vasoconstriction, which would worsen pulmonary hypertension rather than treat it. Vasopressin does not cause reflex vasodilation."
         }
       },
       "difficulty": "hard",
@@ -1756,136 +1711,41 @@
       ]
     },
     {
-      "id": "hb-038",
+      "id": "hb-037",
       "topicId": "humoral-regulation",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 65-year-old man with decompensated heart failure and low cardiac output is found to have elevated serum levels of a hormone released from the posterior pituitary gland. This hormone raises blood pressure through two complementary mechanisms. A pharmacologic agonist of this hormone is being administered in the ICU to support his blood pressure. Which of the following best describes the dual mechanism by which this endogenous hormone increases blood pressure?",
+      "stem": "A 29-year-old man who recently started a pre-workout supplement containing L-arginine notices that his superficial veins appear prominently dilated 30 minutes after ingestion. He also reports mild lightheadedness. His blood pressure is 105/62 mmHg. L-arginine serves as a substrate for an enzyme in vascular endothelial cells that produces a gaseous signaling molecule. This molecule then diffuses to adjacent cells and induces relaxation. Which mechanism best explains the vasodilation observed after L-arginine supplementation?",
       "choices": [
         {
           "label": "A",
-          "text": "Increasing GFR and inhibiting sodium reabsorption in the renal tubules"
+          "text": "L-arginine is converted to bradykinin by kallikrein, which then binds B2 receptors on smooth muscle to cause direct relaxation"
         },
         {
           "label": "B",
-          "text": "Releasing nitric oxide from endothelial cells and relaxing vascular smooth muscle"
+          "text": "L-arginine stimulates histamine release from vascular mast cells, which binds H1 receptors on endothelium to cause vasodilation"
         },
         {
           "label": "C",
-          "text": "Activating kallikreins and stimulating bradykinin-mediated vasodilation"
+          "text": "L-arginine inhibits endothelin synthesis in endothelial cells, removing tonic vasoconstriction and allowing passive vessel dilation"
         },
         {
           "label": "D",
-          "text": "Promoting mast cell degranulation and histamine-mediated vasodilation"
+          "text": "L-arginine is converted to nitric oxide by endothelial NOS, and NO diffuses to vascular smooth muscle cells where it induces relaxation"
         },
         {
           "label": "E",
-          "text": "Stimulating arteriolar V1a receptor-mediated vasoconstriction and V2 receptor-mediated renal water reabsorption"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "Vasopressin (ADH) is released from the posterior pituitary during states of low effective circulating volume, including heart failure with low cardiac output. It raises blood pressure through vasoconstriction via V1a receptors on arteriolar smooth muscle and through blood volume expansion via V2 receptor-mediated water reabsorption in the renal collecting duct.",
-        "whyCorrect": "Vasopressin activates V1a receptors on vascular smooth muscle cells causing arteriolar constriction and V2 receptors on principal cells of the collecting duct stimulating water reabsorption. Both volume expansion and vasoconstriction raise blood pressure.",
-        "whyWrongByChoice": {
-          "A": "Increasing GFR and inhibiting sodium reabsorption describes the action of natriuretic peptides (ANP/BNP), which lower blood pressure, not raise it.",
-          "B": "Nitric oxide release from endothelial cells causes vasodilation and blood pressure reduction, the opposite of vasopressin's effect.",
-          "C": "Kallikrein activation and bradykinin production cause vasodilation and lower blood pressure; this is unrelated to vasopressin's mechanism.",
-          "D": "Mast cell degranulation and histamine release cause vasodilation and hypotension, as seen in anaphylaxis, not the hypertensive effect of vasopressin."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "vasopressin",
-        "ADH",
-        "heart-failure",
-        "vasoconstriction"
-      ]
-    },
-    {
-      "id": "hb-039",
-      "topicId": "humoral-regulation",
-      "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 50-year-old woman with chronic heart failure has elevated levels of both ANP and BNP. Her physician explains that these peptides promote natriuresis through several mechanisms, ultimately reducing blood volume and blood pressure. Which of the following is NOT a mechanism by which natriuretic peptides promote urinary sodium excretion?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Increasing glomerular filtration rate to enhance sodium filtration"
-        },
-        {
-          "label": "B",
-          "text": "Inhibiting sodium transporters in the renal tubules"
-        },
-        {
-          "label": "C",
-          "text": "Decreasing renin secretion to reduce aldosterone-mediated sodium reabsorption"
-        },
-        {
-          "label": "D",
-          "text": "Stimulating V2 receptors on collecting duct principal cells"
-        },
-        {
-          "label": "E",
-          "text": "Increasing osmotic pressure in the urinary filtrate leading to water loss"
+          "text": "L-arginine activates V2 receptors on renal collecting duct cells, promoting water excretion and reducing blood volume"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Natriuretic peptides promote natriuresis by increasing GFR, inhibiting renal tubular sodium transporters, and decreasing renin secretion. Stimulation of V2 receptors on collecting duct principal cells is a mechanism of vasopressin (ADH) for water reabsorption, not a natriuretic peptide mechanism.",
-        "whyCorrect": "V2 receptor stimulation on collecting duct principal cells is the mechanism by which vasopressin (ADH) promotes water reabsorption. This is the opposite of what natriuretic peptides do; natriuretic peptides promote water and sodium loss.",
+        "summary": "L-arginine is a substrate for endothelial nitric oxide synthase (eNOS), which converts it to nitric oxide (NO). NO diffuses from endothelial cells to adjacent vascular smooth muscle cells, where it binds receptors and induces smooth muscle relaxation, causing vasodilation and the visible venous distension.",
+        "whyCorrect": "Endothelial NOS uses L-arginine as a substrate to synthesize nitric oxide. NO is a gaseous molecule that diffuses locally to vascular smooth muscle cells, where it activates guanylyl cyclase, increases cGMP, and promotes smooth muscle relaxation and vasodilation.",
         "whyWrongByChoice": {
-          "A": "Increasing GFR is a well-established mechanism by which natriuretic peptides increase sodium filtration and promote natriuresis.",
-          "B": "Natriuretic peptides inhibit sodium transporters in the renal tubules, directly decreasing sodium reabsorption.",
-          "C": "By decreasing renin secretion, natriuretic peptides reduce angiotensin II and aldosterone formation, thereby reducing aldosterone-mediated sodium reabsorption.",
-          "E": "The increased sodium in the urine raises osmotic pressure in the filtrate, drawing water into the urine and promoting diuresis, which is part of the natriuretic peptide mechanism."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "natriuretic-peptides",
-        "renal",
-        "natriuresis"
-      ]
-    },
-    {
-      "id": "hb-040",
-      "topicId": "humoral-regulation",
-      "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 40-year-old man with severe asthma presents with an acute exacerbation and is treated with inhaled medications. His physician considers the use of inhaled nitric oxide for a separate pulmonary condition. In which of the following clinical settings is inhaled nitric oxide approved for therapeutic use?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Systemic hypertension with left ventricular hypertrophy"
-        },
-        {
-          "label": "B",
-          "text": "Anaphylactic shock with widespread peripheral vasodilation"
-        },
-        {
-          "label": "C",
-          "text": "Pulmonary hypertension and acute respiratory distress syndrome"
-        },
-        {
-          "label": "D",
-          "text": "Angioedema caused by ACE inhibitor therapy"
-        },
-        {
-          "label": "E",
-          "text": "Hemorrhagic shock with severe volume depletion"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Inhaled nitric oxide is approved for use in pediatric lung disease, acute respiratory distress syndrome (ARDS), and pulmonary hypertension. In these settings, it selectively dilates pulmonary vessels and increases blood flow to damaged lungs.",
-        "whyCorrect": "Nitric oxide is approved as a drug for pulmonary hypertension and ARDS, where it dilates pulmonary vessels and increases blood flow to the damaged lungs, improving gas exchange.",
-        "whyWrongByChoice": {
-          "A": "Systemic hypertension is managed with oral antihypertensives, not inhaled nitric oxide, which acts primarily on the pulmonary vasculature when inhaled.",
-          "B": "Anaphylactic shock already involves excessive vasodilation; adding a vasodilator like NO would worsen hypotension. Epinephrine is the treatment of choice.",
-          "D": "Angioedema from ACE inhibitors is caused by bradykinin accumulation; treatment involves stopping the ACE inhibitor and supportive care, not nitric oxide.",
-          "E": "Hemorrhagic shock requires volume resuscitation and vasopressors; nitric oxide would worsen hypotension by causing vasodilation."
+          "A": "Bradykinin is formed from kininogens by kallikrein, not from L-arginine. While bradykinin does promote vasodilation, L-arginine is specifically the substrate for nitric oxide synthase.",
+          "B": "L-arginine does not stimulate histamine release from mast cells. Histamine release is triggered by allergens and immune activation, not by amino acid supplementation.",
+          "C": "L-arginine does not inhibit endothelin synthesis. It serves as a substrate for NO production, which is a separate vasodilatory pathway from endothelin regulation.",
+          "E": "V2 receptors are activated by vasopressin (ADH), not L-arginine. V2 activation promotes water reabsorption, not excretion, and L-arginine does not interact with this pathway."
         }
       },
       "difficulty": "hard",
@@ -1893,93 +1753,47 @@
       "tags": [
         "cardiovascular",
         "nitric-oxide",
-        "pulmonary-hypertension",
-        "ARDS"
+        "L-arginine",
+        "eNOS",
+        "vasodilation"
       ]
     },
     {
-      "id": "hb-041",
+      "id": "hb-038",
       "topicId": "humoral-regulation",
       "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A researcher is studying the bradykinin receptor system. She discovers that one receptor subtype is constitutively expressed in normal tissues including vascular endothelium, while another subtype only appears after tissue injury. A patient with severe burns is found to have upregulation of the injury-induced receptor subtype. Which of the following correctly identifies these two receptor subtypes and their expression patterns?",
+      "stem": "A 62-year-old man with cirrhosis and ascites has a serum sodium of 125 mEq/L, serum albumin of 2.1 g/dL, and blood pressure of 96/60 mmHg. Despite having significant total body water excess, his effective circulating volume is low. Laboratory analysis reveals markedly elevated levels of a posterior pituitary hormone. This hormone is paradoxically worsening his hyponatremia through one receptor subtype while simultaneously attempting to raise his blood pressure through a different receptor subtype. Which of the following best describes the receptor-mediated actions contributing to both effects?",
       "choices": [
         {
           "label": "A",
-          "text": "B1 is constitutively expressed in normal tissues; B2 is expressed only after trauma, burns, or inflammation"
+          "text": "V1a receptor activation on renal tubular cells promotes sodium reabsorption, while V2 activation on smooth muscle causes vasoconstriction"
         },
         {
           "label": "B",
-          "text": "B2 is constitutively expressed in normal tissues; B1 is expressed only after trauma, burns, or inflammation"
+          "text": "V2 receptor activation on collecting duct principal cells promotes free water reabsorption causing dilutional hyponatremia, while V1a activation on arteriolar smooth muscle causes vasoconstriction"
         },
         {
           "label": "C",
-          "text": "H1 is constitutively expressed in normal tissues; H2 is expressed only after trauma, burns, or inflammation"
+          "text": "AT1 receptor activation on vascular smooth muscle causes vasoconstriction, while AT2 activation on renal tubules promotes sodium and water retention"
         },
         {
           "label": "D",
-          "text": "ET-A is constitutively expressed in normal tissues; ET-B is expressed only after trauma, burns, or inflammation"
+          "text": "Beta-1 receptor activation on cardiac myocytes increases cardiac output, while alpha-1 activation on renal vasculature reduces glomerular filtration"
         },
         {
           "label": "E",
-          "text": "V1a is constitutively expressed in normal tissues; V2 is expressed only after trauma, burns, or inflammation"
+          "text": "ET-A receptor activation on pulmonary smooth muscle causes vasoconstriction, while ET-B activation on renal endothelium promotes water retention"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The bradykinin B2 receptor is widely expressed in normal tissues including vascular endothelial cells, while the B1 receptor is not normally expressed and only appears in target cells after trauma, burns, or inflammation.",
-        "whyCorrect": "The B2 receptor is constitutively expressed in normal tissues and mediates bradykinin's vasodilatory effects through NO and prostaglandin release. The B1 receptor is induced only after tissue injury such as trauma, burns, or inflammation.",
+        "summary": "In cirrhosis with low effective circulating volume, vasopressin (ADH) is released from the posterior pituitary. V2 receptors on collecting duct principal cells promote free water reabsorption, diluting serum sodium and worsening hyponatremia. V1a receptors on arteriolar smooth muscle cause vasoconstriction to maintain blood pressure.",
+        "whyCorrect": "Vasopressin acts through V2 receptors on renal collecting duct principal cells to promote free water reabsorption (causing dilutional hyponatremia) and through V1a receptors on arteriolar smooth muscle to cause vasoconstriction (raising blood pressure). Both effects are triggered by the low effective circulating volume in cirrhosis.",
         "whyWrongByChoice": {
-          "A": "This reverses the expression pattern; the B1 receptor is the injury-induced subtype, not the constitutively expressed one.",
-          "C": "H1 and H2 are histamine receptors, not bradykinin receptors; they do not follow the described expression pattern of constitutive vs. injury-induced expression.",
-          "D": "ET-A and ET-B are endothelin receptors involved in vasoconstriction; they are not bradykinin receptor subtypes.",
-          "E": "V1a and V2 are vasopressin receptors located on vascular smooth muscle and renal tubular cells respectively; they are not bradykinin receptors."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "bradykinin",
-        "receptors",
-        "inflammation"
-      ]
-    },
-    {
-      "id": "hb-042",
-      "topicId": "humoral-regulation",
-      "topicName": "Humoral Regulation of Blood Pressure",
-      "stem": "A 68-year-old man with cirrhosis and portal hypertension has significant ascites and peripheral edema despite high extracellular volume. Laboratory studies reveal elevated vasopressin levels. His physician explains that even though the patient has high extracellular volume, vasopressin is elevated because of a specific hemodynamic parameter. Which of the following best explains why vasopressin is elevated in this patient?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Increased atrial stretch from volume overload directly stimulates vasopressin release"
-        },
-        {
-          "label": "B",
-          "text": "Elevated serum albumin increases oncotic pressure, triggering vasopressin secretion"
-        },
-        {
-          "label": "C",
-          "text": "Low effective circulating volume due to low serum albumin and reduced oncotic pressure"
-        },
-        {
-          "label": "D",
-          "text": "Direct stimulation of vasopressin by elevated portal venous pressure"
-        },
-        {
-          "label": "E",
-          "text": "Increased renin secretion from natriuretic peptide stimulation of juxtaglomerular cells"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "In liver failure, low serum albumin causes low oncotic pressure, leading to fluid shifts into the extravascular space. Despite high total extracellular volume, the effective circulating blood volume is low, which stimulates vasopressin release from the posterior pituitary.",
-        "whyCorrect": "Vasopressin is released during states of low effective circulating volume. In liver failure, low serum albumin reduces serum oncotic pressure, causing fluid to leak into the extravascular space. This reduces effective circulating volume despite high total extracellular volume, triggering vasopressin release.",
-        "whyWrongByChoice": {
-          "A": "Atrial stretch stimulates ANP release, not vasopressin. Furthermore, in this patient, effective circulating volume is low, meaning atrial stretch would be reduced.",
-          "B": "Serum albumin is low, not elevated, in cirrhosis. Low albumin reduces oncotic pressure, which is the mechanism driving the pathology, not elevated albumin.",
-          "D": "Portal venous pressure does not directly stimulate vasopressin release; vasopressin responds to serum osmolality and effective circulating volume sensed by baroreceptors.",
-          "E": "Natriuretic peptides decrease renin secretion, not increase it. Additionally, renin does not directly stimulate vasopressin release."
+          "A": "This reverses the receptor locations: V1a receptors are on vascular smooth muscle (vasoconstriction), not renal tubular cells, and V2 receptors are on collecting duct cells (water reabsorption), not smooth muscle.",
+          "C": "AT1 and AT2 are angiotensin II receptors, not vasopressin receptors. While angiotensin II may also be elevated in cirrhosis, the question specifically describes a posterior pituitary hormone (vasopressin).",
+          "D": "Beta-1 and alpha-1 are adrenergic receptors activated by catecholamines, not vasopressin. These do not explain the dilutional hyponatremia described.",
+          "E": "ET-A and ET-B are endothelin receptors. Endothelin is produced by vascular endothelium, not the posterior pituitary, and does not promote renal water retention."
         }
       },
       "difficulty": "hard",
@@ -1987,54 +1801,246 @@
       "tags": [
         "cardiovascular",
         "vasopressin",
+        "hyponatremia",
         "cirrhosis",
-        "effective-circulating-volume"
+        "V1a-V2-receptors"
       ]
     },
     {
-      "id": "hb-043",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A 58-year-old man with a history of hypertension has his mean arterial pressure acutely increased from 90 mmHg to 130 mmHg due to medication non-compliance. Despite this significant rise in blood pressure, cerebral blood flow remains relatively constant. Which of the following best describes the mechanism responsible for maintaining constant cerebral blood flow in this scenario?",
+      "id": "hb-039",
+      "topicId": "humoral-regulation",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "A 7-year-old boy with severe peanut allergy is brought to the emergency department after accidental peanut ingestion at a birthday party. He has diffuse urticaria, wheezing, and a blood pressure of 68/40 mmHg with heart rate of 140 bpm. Epinephrine is administered intramuscularly. The substance causing his cardiovascular collapse is released from specific immune cells and normally functions as a mild vasodilator that increases blood flow to sites of allergen exposure. In this pathologic state, the massive release of this substance has overwhelmed compensatory mechanisms. Which mechanism best explains why epinephrine is effective in reversing the hemodynamic effects of this substance?",
       "choices": [
         {
           "label": "A",
-          "text": "Increased sympathetic nerve activity causing alpha-1 receptor-mediated cerebral vasoconstriction"
+          "text": "Epinephrine blocks histamine H1 receptors on vascular smooth muscle, directly preventing the vasodilatory signal from reaching target cells"
         },
         {
           "label": "B",
-          "text": "Release of endothelin from cerebral endothelial cells stimulated by angiotensin II"
+          "text": "Epinephrine stimulates endothelin release from vascular endothelium, which counteracts histamine-mediated vasodilation through calcium-dependent vasoconstriction"
         },
         {
           "label": "C",
-          "text": "Accumulation of metabolic vasodilators such as CO2 and adenosine in brain tissue"
+          "text": "Epinephrine stimulates ANP release from atrial cardiomyocytes, which redirects blood flow from dilated peripheral vessels back to the central circulation"
         },
         {
           "label": "D",
-          "text": "Baroreceptor-mediated parasympathetic vasodilation of cerebral arterioles"
+          "text": "Epinephrine activates V1a vasopressin receptors on arteriolar smooth muscle, producing vasoconstriction that overcomes the histamine-mediated decrease in systemic vascular resistance"
         },
         {
           "label": "E",
-          "text": "Stretch-sensitive calcium channels in vascular smooth muscle causing reflexive contraction and increased resistance"
+          "text": "Epinephrine increases cardiac output through beta-1 receptor activation and promotes vasoconstriction through alpha-1 receptor activation, counteracting histamine-induced vasodilation and hypotension"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "The myogenic response maintains constant cerebral blood flow despite changes in blood pressure. When MAP increases, vascular smooth muscle is stretched, activating stretch-sensitive Ca2+ channels. Calcium influx causes smooth muscle contraction, increasing resistance and preventing excessive blood flow.",
-        "whyCorrect": "The myogenic mechanism of autoregulation involves stretch-sensitive Ca2+ ion channels in arteriolar smooth muscle. When blood pressure rises and stretches the vessel wall, calcium influx triggers smooth muscle contraction, increasing vascular resistance and normalizing blood flow within the autoregulatory range of 60-150 mmHg.",
+        "summary": "In anaphylaxis, massive histamine release from mast cells causes severe vasodilation and hypotension. Epinephrine counteracts this by activating beta-1 receptors (increasing heart rate and contractility, boosting cardiac output) and alpha-1 receptors (causing vasoconstriction, increasing SVR), thereby restoring blood pressure.",
+        "whyCorrect": "Epinephrine acts on beta-1 receptors to increase cardiac output and alpha-1 receptors to cause vasoconstriction. These combined effects counteract the massive vasodilation and hypotension caused by histamine release, restoring tissue perfusion.",
         "whyWrongByChoice": {
-          "A": "While sympathetic activity can affect vascular tone, cerebral autoregulation is primarily an intrinsic myogenic response, not an extrinsic sympathetic mechanism.",
-          "B": "Endothelin is a vasoconstrictor, but the autoregulatory response to acute pressure changes is mediated by the myogenic mechanism, not endothelin release.",
-          "C": "Metabolic vasodilators accumulate during increased metabolic activity or ischemia to increase blood flow; they do not mediate the autoregulatory response to increased blood pressure.",
-          "D": "Parasympathetic vasodilation has limited distribution, primarily affecting salivary glands and genitals, and does not mediate cerebral autoregulation."
+          "A": "Epinephrine does not block histamine receptors. It acts on adrenergic receptors (alpha and beta), not histamine receptors. Antihistamines like diphenhydramine block H1 receptors but are insufficient alone to treat anaphylaxis.",
+          "B": "While endothelin is a vasoconstrictor, epinephrine's therapeutic effect in anaphylaxis is through direct adrenergic receptor activation, not through stimulating endothelin release.",
+          "C": "ANP is a vasodilator released in response to atrial stretch. Stimulating ANP release would worsen hypotension, not improve it. Epinephrine does not act through natriuretic peptide pathways.",
+          "D": "Epinephrine acts on adrenergic receptors, not V1a vasopressin receptors. Vasopressin is a separate agent sometimes used in refractory shock but is not the mechanism of epinephrine's action."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "cardiovascular",
-        "autoregulation",
+        "histamine",
+        "anaphylaxis",
+        "epinephrine",
+        "shock"
+      ]
+    },
+    {
+      "id": "hb-040",
+      "topicId": "humoral-regulation",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "A 50-year-old woman with a history of rheumatoid arthritis presents with bilateral knee swelling and warmth. Laboratory studies show elevated ESR and CRP. During the inflammatory process in her joints, a specific vasoactive peptide is synthesized when activated proteases called kallikreins cleave precursor proteins produced by the liver. This peptide binds a receptor subtype that is constitutively expressed on vascular endothelial cells, triggering release of downstream mediators that cause smooth muscle relaxation. A second receptor subtype for this peptide only appears on target cells after tissue injury. Which receptor subtype mediates the vasodilatory response in normal tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradykinin B1 receptor, which is constitutively expressed on endothelial cells and mediates baseline vascular tone regulation"
+        },
+        {
+          "label": "B",
+          "text": "Histamine H2 receptor, which is constitutively expressed on parietal cells and cross-reacts with bradykinin during inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Bradykinin B2 receptor, which is widely expressed in normal tissues including vascular endothelium and triggers NO and prostaglandin release"
+        },
+        {
+          "label": "D",
+          "text": "Endothelin ET-A receptor, which is constitutively expressed on smooth muscle and mediates vasodilation when bound by bradykinin"
+        },
+        {
+          "label": "E",
+          "text": "Vasopressin V1a receptor, which is constitutively expressed on vascular smooth muscle and mediates vasodilation during inflammatory states"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bradykinin is synthesized when kallikreins cleave kininogens from the liver. The B2 receptor is widely expressed in normal tissues including vascular endothelium and mediates vasodilation through NO and prostaglandin release. The B1 receptor is only expressed after trauma, burns, or inflammation.",
+        "whyCorrect": "The bradykinin B2 receptor is constitutively expressed on vascular endothelial cells in normal tissues. When bradykinin binds B2 receptors, endothelial cells secrete nitric oxide and prostaglandins that diffuse to smooth muscle and cause relaxation and vasodilation.",
+        "whyWrongByChoice": {
+          "A": "The B1 receptor is not constitutively expressed. It only appears on target cells after trauma, burns, or inflammation. The B2 receptor is the one widely expressed in normal tissues.",
+          "B": "Histamine H2 receptors are located on parietal cells for gastric acid secretion and do not cross-react with bradykinin. Bradykinin and histamine act through entirely separate receptor systems.",
+          "D": "ET-A receptors bind endothelin, not bradykinin, and mediate vasoconstriction rather than vasodilation. They are part of a separate vasoconstrictor pathway.",
+          "E": "V1a receptors bind vasopressin and cause vasoconstriction, not vasodilation. They do not interact with bradykinin and are not involved in inflammation-mediated vasodilation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "bradykinin",
+        "B2-receptor",
+        "inflammation",
+        "vasodilation"
+      ]
+    },
+    {
+      "id": "hb-041",
+      "topicId": "humoral-regulation",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "A 74-year-old woman with a history of diabetes mellitus and chronic kidney disease presents with blood pressure of 178/102 mmHg, bilateral crackles on lung auscultation, and jugular venous distension. Echocardiography reveals a dilated left atrium with moderate mitral regurgitation and a dilated left ventricle with an ejection fraction of 30%. Serum BNP is 1,850 pg/mL (normal <100). Despite markedly elevated BNP levels, her blood pressure remains severely elevated. Which mechanism best explains why the natriuretic peptide system is failing to adequately lower her blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic kidney disease impairs the renal response to natriuretic peptides, limiting their ability to promote natriuresis and reduce blood volume effectively"
+        },
+        {
+          "label": "B",
+          "text": "Elevated BNP levels have caused downregulation of endothelin receptors, removing a key compensatory vasoconstriction mechanism"
+        },
+        {
+          "label": "C",
+          "text": "The dilated left ventricle is releasing ANP instead of BNP, and ANP is ineffective at promoting sodium excretion in elderly patients"
+        },
+        {
+          "label": "D",
+          "text": "Chronic heart failure causes constitutive activation of bradykinin B1 receptors, which antagonize the vasodilatory effects of natriuretic peptides"
+        },
+        {
+          "label": "E",
+          "text": "Elevated histamine levels from cardiac mast cell activation are producing vasoconstriction that counteracts the vasodilatory effects of BNP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Natriuretic peptides lower blood pressure primarily through renal natriuresis (increasing sodium excretion, promoting water loss, reducing blood volume). In chronic kidney disease, impaired renal function limits the kidney's ability to respond to natriuretic peptides — reduced GFR and damaged tubules cannot effectively excrete sodium, so the natriuretic mechanism is blunted despite high BNP levels.",
+        "whyCorrect": "The natriuretic peptide system depends on functional kidneys to promote sodium excretion (via increased GFR, inhibition of tubular sodium reabsorption, and RAAS suppression). Chronic kidney disease impairs all these renal mechanisms, rendering the high BNP levels ineffective at producing adequate natriuresis and volume reduction.",
+        "whyWrongByChoice": {
+          "B": "Endothelin is a vasoconstrictor; downregulating its receptors would reduce vasoconstriction and tend to lower blood pressure, not explain persistent hypertension. BNP does not directly regulate endothelin receptors.",
+          "C": "BNP is correctly released from ventricular cardiomyocytes during ventricular dilation. ANP is released from atrial cardiomyocytes. Both are effective at promoting natriuresis; age does not selectively abolish ANP function.",
+          "D": "Bradykinin B1 receptors are induced by tissue injury and mediate inflammation; they do not antagonize natriuretic peptide function. Bradykinin is itself a vasodilator, not a vasoconstrictor.",
+          "E": "Histamine is a vasodilator, not a vasoconstrictor. Increased histamine would lower blood pressure, not counteract the vasodilatory effects of BNP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "natriuretic-peptides",
+        "chronic-kidney-disease",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "hb-042",
+      "topicId": "humoral-regulation",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "A 40-year-old man is found unresponsive after a prolonged wilderness hike in extreme heat. Emergency responders note dry mucous membranes, tenting skin turgor, blood pressure of 88/56 mmHg, and heart rate of 132 bpm. Serum sodium is 156 mEq/L and serum osmolality is 328 mOsm/kg. A hormone released from the posterior pituitary is expected to be markedly elevated. In addition to promoting water reabsorption, this hormone also raises blood pressure through a vascular mechanism. A separate humoral factor released from cardiac chambers in response to the reduced stretch from hypovolemia would be expected to change in the opposite direction. What would you expect regarding the levels of these two hormones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased vasopressin due to high osmolality feedback inhibition, and increased ANP from compensatory atrial contraction"
+        },
+        {
+          "label": "B",
+          "text": "Increased vasopressin from low osmolality stimulating posterior pituitary release, and increased BNP from ventricular volume overload"
+        },
+        {
+          "label": "C",
+          "text": "Increased endothelin from vascular endothelial shear stress, and decreased histamine from suppressed mast cell activity during dehydration"
+        },
+        {
+          "label": "D",
+          "text": "Increased vasopressin from high osmolality and low volume driving V1a-mediated vasoconstriction, and decreased natriuretic peptides from reduced cardiac chamber stretch"
+        },
+        {
+          "label": "E",
+          "text": "Decreased vasopressin from baroreceptor-mediated suppression, and increased bradykinin from kallikrein activation during tissue hypoperfusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe dehydration causes high serum osmolality and low effective circulating volume, both potent stimuli for vasopressin (ADH) release from the posterior pituitary. Vasopressin raises blood pressure via V1a-mediated vasoconstriction and V2-mediated water reabsorption. Simultaneously, hypovolemia reduces cardiac chamber filling and stretch, decreasing ANP and BNP release.",
+        "whyCorrect": "High serum osmolality (328 mOsm/kg) and low blood volume are the two key stimuli for vasopressin release. Vasopressin causes V1a-mediated vasoconstriction and V2-mediated water reabsorption. Concurrently, reduced venous return from hypovolemia decreases atrial and ventricular wall stretch, lowering ANP and BNP secretion.",
+        "whyWrongByChoice": {
+          "A": "High osmolality stimulates, not inhibits, vasopressin release. ANP would decrease, not increase, because hypovolemia reduces atrial stretch rather than increasing it.",
+          "B": "Vasopressin is stimulated by high osmolality, not low osmolality. BNP would decrease in hypovolemia due to reduced ventricular stretch, not increase from volume overload.",
+          "C": "While endothelin and histamine are humoral factors, the question specifically asks about a posterior pituitary hormone (vasopressin) and a cardiac chamber peptide (natriuretic peptides). Endothelin is not from the pituitary; histamine is not from cardiac chambers.",
+          "E": "Vasopressin is stimulated, not suppressed, by the baroreceptor response to hypotension. Low effective circulating volume is a potent stimulus for vasopressin release."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "vasopressin",
+        "natriuretic-peptides",
+        "dehydration",
+        "hypovolemia"
+      ]
+    },
+    {
+      "id": "hb-043",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 55-year-old man with poorly controlled hypertension has a mean arterial pressure of 170 mmHg. Despite this significantly elevated pressure, cerebral blood flow measurements show values within the normal range. The mechanism maintaining normal cerebral perfusion involves a direct response of the vessel wall to the elevated intraluminal pressure. Which mechanism best explains how cerebral blood flow remains constant despite this markedly elevated MAP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated MAP increases nitric oxide release from cerebral endothelial cells, which causes compensatory vasodilation to maintain constant flow"
+        },
+        {
+          "label": "B",
+          "text": "Increased MAP raises cerebral tissue PO2, which causes local vasoconstriction through metabolic feedback to reduce excessive blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Elevated MAP stimulates sympathetic alpha-1 receptor activation in cerebral arterioles, producing vasoconstriction to limit excessive perfusion"
+        },
+        {
+          "label": "D",
+          "text": "High blood pressure activates baroreceptors in cerebral arteries that signal the brainstem to decrease cardiac output, normalizing cerebral flow"
+        },
+        {
+          "label": "E",
+          "text": "Increased intraluminal pressure stretches arteriolar smooth muscle, activating stretch-sensitive calcium channels that trigger reflex contraction and increased resistance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The myogenic response is an intrinsic autoregulatory mechanism where increased intraluminal pressure stretches arteriolar smooth muscle cells, activating stretch-sensitive Ca2+ channels. Calcium influx triggers smooth muscle contraction, increasing local vascular resistance and preventing excessive blood flow despite elevated MAP. This operates within the autoregulatory range of approximately 60-160 mmHg.",
+        "whyCorrect": "Myogenic autoregulation is a direct smooth muscle response to stretch. Elevated MAP stretches the vessel wall, which activates stretch-sensitive Ca2+ channels in arteriolar smooth muscle. The resulting calcium influx triggers contraction, increasing resistance and maintaining constant blood flow.",
+        "whyWrongByChoice": {
+          "A": "Nitric oxide causes vasodilation, which would increase blood flow rather than maintain it constant. The myogenic response involves smooth muscle contraction, not endothelial NO release.",
+          "B": "While metabolic factors influence cerebral blood flow, the primary mechanism for pressure-mediated autoregulation is the myogenic response, not metabolic feedback from tissue PO2 changes.",
+          "C": "Cerebral autoregulation is primarily an intrinsic myogenic mechanism, not dependent on extrinsic sympathetic nerve activity. The cerebral vasculature has limited sympathetic innervation for autoregulation.",
+          "D": "Baroreceptors in the carotid sinus and aortic arch regulate systemic blood pressure, but cerebral autoregulation is a local intrinsic mechanism independent of brainstem-mediated cardiac output changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
         "myogenic-response",
+        "autoregulation",
         "cerebral-blood-flow"
       ]
     },
@@ -2042,38 +2048,85 @@
       "id": "hb-044",
       "topicId": "local-control-microcirculation",
       "topicName": "Local Control of the Microcirculation",
-      "stem": "A 22-year-old marathon runner is at mile 20 of a race. Her skeletal muscles are highly metabolically active. Despite strong sympathetic nervous system activation during the race, blood flow to her working leg muscles remains elevated. Which of the following best explains how blood flow to her skeletal muscles is maintained despite sympathetic vasoconstriction?",
+      "stem": "A 24-year-old medical student is performing a blood pressure measurement on a classmate during a clinical skills session. After inflating the cuff above systolic pressure for 3 minutes, the cuff is released. Doppler ultrasound of the brachial artery shows that blood flow immediately after cuff release is approximately 4 times the baseline flow, then gradually returns to normal over 2 minutes. Which mechanism best explains the transiently elevated blood flow after cuff deflation?",
       "choices": [
         {
           "label": "A",
-          "text": "Local metabolic factors such as CO2, adenosine, and K+ override sympathetic vasoconstriction"
+          "text": "Sympathetic withdrawal during cuff inflation leads to loss of arteriolar tone, which persists briefly after cuff release before sympathetic tone is restored"
         },
         {
           "label": "B",
-          "text": "Baroreceptor reflex inhibition of sympathetic outflow to skeletal muscle vasculature"
+          "text": "Endothelin levels decrease during the ischemic period, removing basal vasoconstriction, and endothelin resynthesis requires several minutes after reperfusion"
         },
         {
           "label": "C",
-          "text": "Parasympathetic nerve fibers directly innervating skeletal muscle arterioles cause vasodilation"
+          "text": "The myogenic response causes smooth muscle relaxation during occlusion due to reduced intraluminal pressure, and the vessels require time to reconstrict after flow resumes"
         },
         {
           "label": "D",
-          "text": "Angiotensin II selectively vasodilates skeletal muscle arterioles during exercise"
+          "text": "Metabolites such as CO2, H+, adenosine, and K+ accumulated during the occlusion period cause arteriolar vasodilation, producing a surge in flow upon reperfusion"
         },
         {
           "label": "E",
-          "text": "Myogenic relaxation of skeletal muscle arterioles due to decreased transmural pressure"
+          "text": "Increased nitric oxide release from platelets trapped in the ischemic tissue causes prolonged vasodilation that gradually resolves as platelets are cleared"
         }
       ],
-      "correctAnswer": "A",
+      "correctAnswer": "D",
       "explanation": {
-        "summary": "Functional sympatholysis is the process by which local metabolic factors override sympathetic-induced vasoconstriction. During intense exercise, accumulated metabolites like CO2, adenosine, H+, and K+ cause vasodilation that overrides alpha-1 receptor-mediated vasoconstriction.",
-        "whyCorrect": "Functional sympatholysis occurs when local metabolic vasodilators (CO2, H+, adenosine, K+, and low PO2) accumulate in active tissues and override the sympathetic vasoconstriction mediated by alpha-1 receptors. This ensures adequate perfusion of critical tissues like skeletal muscle during exercise.",
+        "summary": "This is reactive (post-ischemic) hyperemia. During the 3-minute occlusion, tissue metabolism continues but blood flow is blocked, causing accumulation of vasodilator metabolites (CO2, H+, adenosine, K+) and local hypoxia. When flow resumes, these metabolites cause marked arteriolar vasodilation, producing a surge of blood flow that normalizes as metabolites are washed away.",
+        "whyCorrect": "Reactive hyperemia occurs when metabolic vasodilators (CO2, H+, adenosine, K+) accumulate during ischemia from continued cellular metabolism without blood flow. Upon reperfusion, these accumulated metabolites cause profound arteriolar vasodilation, producing a transient surge in blood flow that gradually returns to baseline as metabolites are cleared.",
         "whyWrongByChoice": {
-          "B": "The baroreceptor reflex modulates systemic sympathetic output but does not selectively maintain skeletal muscle blood flow; functional sympatholysis is the local mechanism responsible.",
-          "C": "The parasympathetic nervous system does not have major effects on skeletal muscle blood flow; its vascular effects are limited primarily to salivary glands and genitals.",
-          "D": "Angiotensin II is a systemic vasoconstrictor that increases total peripheral resistance; it does not selectively vasodilate skeletal muscle arterioles.",
-          "E": "Myogenic relaxation occurs with decreased transmural pressure (hypotension), not during exercise where blood pressure is maintained or elevated; this mechanism does not explain the override of sympathetic tone."
+          "A": "Sympathetic withdrawal does not explain reactive hyperemia. Sympathetic tone is maintained during cuff inflation, and the hyperemic response is driven by local metabolite accumulation, not changes in autonomic nervous system activity.",
+          "B": "Endothelin contributes to basal tone but its levels do not rapidly decrease during brief ischemia. The time course and magnitude of reactive hyperemia are best explained by metabolite accumulation, not endothelin dynamics.",
+          "C": "While reduced intraluminal pressure during occlusion does reduce myogenic tone, the primary driver of the marked post-ischemic hyperemia is metabolite accumulation, not persistence of myogenic relaxation. The myogenic response adjusts rapidly.",
+          "E": "Platelets are not a significant source of vasodilatory nitric oxide. Platelets release serotonin and thromboxane A2, which are vasoconstrictors, not vasodilators. NO in this context comes from endothelial cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "reactive-hyperemia",
+        "metabolic-control",
+        "ischemia"
+      ]
+    },
+    {
+      "id": "hb-045",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 35-year-old marathon runner is at mile 20 of a race. Arterial blood gas from a peripheral catheter shows pH 7.31, PaCO2 28 mmHg, PaO2 92 mmHg, and lactate 6.2 mmol/L. Despite significant sympathetic activation during the race with elevated circulating norepinephrine levels, blood flow to his working quadriceps muscles is markedly increased. Which mechanism best explains how skeletal muscle blood flow increases despite high sympathetic vasoconstrictor tone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Circulating epinephrine from the adrenal medulla activates alpha-1 receptors on skeletal muscle arterioles, causing paradoxical vasodilation at high catecholamine concentrations"
+        },
+        {
+          "label": "B",
+          "text": "Locally accumulated metabolites including CO2, H+, adenosine, and K+ override sympathetic alpha-1 vasoconstriction through functional sympatholysis"
+        },
+        {
+          "label": "C",
+          "text": "The myogenic response to decreased intramuscular pressure during muscle contraction causes sustained arteriolar dilation that overcomes sympathetic input"
+        },
+        {
+          "label": "D",
+          "text": "Parasympathetic cholinergic vasodilator fibers to skeletal muscle are activated during exercise, producing acetylcholine-mediated vasodilation that dominates over sympathetic tone"
+        },
+        {
+          "label": "E",
+          "text": "Elevated serum potassium causes depolarization of arteriolar smooth muscle, opening voltage-gated calcium channels and producing sustained vasodilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Functional sympatholysis is the process by which locally released metabolic vasodilators (CO2, H+, adenosine, K+, and low PO2) override sympathetic alpha-1 vasoconstriction in active tissues. During intense exercise, these metabolites accumulate in working skeletal muscle and produce vasodilation despite high circulating norepinephrine, ensuring adequate perfusion of critical active tissues.",
+        "whyCorrect": "Functional sympatholysis occurs when local metabolic vasodilators (CO2, H+, adenosine, K+) produced by intensely working skeletal muscle override the vasoconstricting effects of sympathetic alpha-1 receptor stimulation. This ensures that active muscles receive increased blood flow even during states of high sympathetic activity.",
+        "whyWrongByChoice": {
+          "A": "Alpha-1 receptor activation causes vasoconstriction, not vasodilation, regardless of catecholamine concentration. Epinephrine at physiologic doses preferentially activates beta-2 receptors in skeletal muscle causing vasodilation, but this is separate from functional sympatholysis.",
+          "C": "The myogenic response adjusts vascular tone in response to changes in transmural pressure for autoregulation. It does not specifically override sympathetic input during exercise; that role belongs to local metabolic factors.",
+          "D": "The parasympathetic nervous system does not have significant vasodilator innervation to skeletal muscle. Parasympathetic vasodilation is limited primarily to salivary glands and genitals.",
+          "E": "Elevated extracellular K+ paradoxically causes vasodilation, not through depolarization and calcium channel opening. Instead, K+ opens specific K+ channels that hyperpolarize smooth muscle, closing L-type Ca2+ channels and causing relaxation."
         }
       },
       "difficulty": "hard",
@@ -2086,323 +2139,88 @@
       ]
     },
     {
-      "id": "hb-045",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A 45-year-old man undergoes a blood pressure cuff test where the cuff on his forearm is inflated above systolic pressure for 3 minutes, occluding arterial blood flow. Upon cuff deflation, his forearm blood flow transiently increases to levels well above baseline before gradually returning to normal. Which of the following best explains the mechanism of this observed increase in blood flow?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Myogenic contraction of arteriolar smooth muscle in response to restored transmural pressure"
-        },
-        {
-          "label": "B",
-          "text": "Sympathetic withdrawal due to baroreceptor activation upon cuff release"
-        },
-        {
-          "label": "C",
-          "text": "Accumulation of vasodilator metabolites during the period of occlusion causing post-ischemic vasodilation"
-        },
-        {
-          "label": "D",
-          "text": "Epinephrine-mediated beta-2 receptor activation in forearm skeletal muscle vasculature"
-        },
-        {
-          "label": "E",
-          "text": "Endothelin-mediated calcium signaling causing arteriolar smooth muscle relaxation"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "This describes reactive (post-ischemic) hyperemia. During arterial occlusion, metabolites like CO2, H+, adenosine, and K+ accumulate in the ischemic tissue. When blood flow is restored, these accumulated vasodilators cause a temporary surge in blood flow above normal levels.",
-        "whyCorrect": "Reactive hyperemia occurs after a period of ischemia when accumulated vasodilator metabolites cause local vasodilation. When the occlusion is released, there is a surge in blood flow above normal levels. The longer the occlusion period, the longer the subsequent hyperemia.",
-        "whyWrongByChoice": {
-          "A": "Myogenic contraction would increase resistance and reduce flow, the opposite of the observed hyperemia. The myogenic response contracts vessels when stretched by increased pressure, not when flow is restored after occlusion.",
-          "B": "Baroreceptor-mediated sympathetic withdrawal is a systemic reflex and would not produce the localized hyperemic response seen in the forearm after cuff release.",
-          "D": "Epinephrine-mediated beta-2 activation occurs during systemic fight-or-flight responses and is not the mechanism of localized post-ischemic hyperemia.",
-          "E": "Endothelin is a vasoconstrictor that causes smooth muscle contraction, not relaxation; it would oppose the observed vasodilation."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "reactive-hyperemia",
-        "ischemia",
-        "metabolic-vasodilation"
-      ]
-    },
-    {
       "id": "hb-046",
       "topicId": "local-control-microcirculation",
       "topicName": "Local Control of the Microcirculation",
-      "stem": "A 30-year-old man is hiking at high altitude (4,500 meters). He develops shortness of breath, and pulmonary artery pressure measurements reveal elevated pulmonary vascular resistance. His systemic arterioles, however, show vasodilation. Which of the following best explains the difference in vascular response to hypoxia between the pulmonary and systemic circulations?",
+      "stem": "A 60-year-old man with COPD is admitted with an acute exacerbation. Arterial blood gas shows pH 7.28, PaCO2 62 mmHg, PaO2 52 mmHg, and HCO3 28 mEq/L. Transcranial Doppler demonstrates increased cerebral blood flow velocity. The elevated PCO2 is a potent vasodilator in the cerebral circulation, while the low PaO2 is causing vasoconstriction in a different vascular bed. Which combination correctly matches these metabolic responses to the appropriate vascular beds?",
       "choices": [
         {
           "label": "A",
-          "text": "Pulmonary vessels constrict in response to hypoxia while systemic vessels dilate to increase oxygen delivery"
+          "text": "High PCO2 dilates cerebral vessels by direct smooth muscle relaxation, and low PO2 constricts pulmonary vessels to redirect blood flow away from poorly ventilated alveoli"
         },
         {
           "label": "B",
-          "text": "Systemic vessels constrict in response to hypoxia while pulmonary vessels dilate to improve ventilation-perfusion matching"
+          "text": "High PCO2 constricts cerebral vessels through calcium channel activation, and low PO2 dilates pulmonary vessels to increase gas exchange surface area"
         },
         {
           "label": "C",
-          "text": "Both pulmonary and systemic vessels constrict in response to hypoxia but at different pressure thresholds"
+          "text": "High PCO2 dilates pulmonary vessels to enhance CO2 elimination, and low PO2 constricts systemic vessels to preserve oxygen delivery to vital organs"
         },
         {
           "label": "D",
-          "text": "Pulmonary vessels dilate due to adenosine accumulation while systemic vessels constrict due to endothelin release"
+          "text": "High PCO2 dilates renal vessels to promote bicarbonate excretion, and low PO2 constricts coronary vessels to reduce myocardial oxygen consumption"
         },
         {
           "label": "E",
-          "text": "Both circulations dilate equally but the increased cardiac output raises pulmonary pressure secondarily"
+          "text": "High PCO2 constricts pulmonary vessels to prevent CO2 washout, and low PO2 dilates cerebral vessels through adenosine-mediated metabolic vasodilation"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The pulmonary and systemic circulations respond oppositely to hypoxia. Systemic vessels dilate to increase blood flow and oxygen delivery to hypoxic tissues. In contrast, pulmonary vessels constrict in response to hypoxia (hypoxic pulmonary vasoconstriction) to redirect blood flow away from poorly ventilated lung regions.",
-        "whyCorrect": "Low PO2 causes vasodilation in systemic vessels to increase blood flow and restore oxygen supply to hypoxic tissues. The lungs are the exception: hypoxia constricts pulmonary vessels. At high altitude, global alveolar hypoxia causes widespread pulmonary vasoconstriction, raising pulmonary artery pressure.",
+        "summary": "Elevated PCO2 is a potent vasodilator in the cerebral circulation, where cerebral blood vessels are especially sensitive to PCO2 changes. In contrast, the pulmonary vasculature uniquely responds to hypoxia with vasoconstriction (hypoxic pulmonary vasoconstriction), redirecting blood away from poorly ventilated alveoli to better-ventilated regions. This is the opposite of the systemic circulation, where hypoxia causes vasodilation.",
+        "whyCorrect": "Cerebral blood vessels are especially sensitive to PCO2, and elevated PCO2 causes cerebral vasodilation to increase brain perfusion. The pulmonary vasculature is unique in that hypoxia causes vasoconstriction (opposite to systemic vessels), redirecting blood flow away from poorly ventilated lung regions to optimize gas exchange.",
         "whyWrongByChoice": {
-          "B": "This reverses the correct responses: systemic vessels dilate (not constrict) in hypoxia, and pulmonary vessels constrict (not dilate).",
-          "C": "Systemic vessels dilate, not constrict, in response to hypoxia; only the pulmonary vasculature constricts.",
-          "D": "The response is not driven by adenosine causing pulmonary dilation; pulmonary vessels constrict in hypoxia. Systemic vasodilation is due to metabolic factors including low PO2, not endothelin-mediated constriction.",
-          "E": "The two circulations do not respond equally to hypoxia; pulmonary vasoconstriction is a unique and opposite response compared to systemic vasodilation."
+          "B": "This reverses both responses. High PCO2 causes cerebral vasodilation, not constriction. Low PO2 causes pulmonary vasoconstriction, not dilation — this is the unique exception where hypoxia constricts rather than dilates vessels.",
+          "C": "High PCO2 is a cerebral vasodilator, not a pulmonary vasodilator. Low PO2 causes vasodilation in systemic vessels (not constriction), while in pulmonary vessels it uniquely causes vasoconstriction.",
+          "D": "PCO2 most prominently affects cerebral vessels, not renal vessels. Low PO2 causes coronary vasodilation (not constriction) because the heart is a systemic vascular bed where hypoxia triggers metabolic vasodilation.",
+          "E": "High PCO2 does not constrict pulmonary vessels. Low PO2 does cause cerebral vasodilation in the systemic circulation, but the question asks about the unique pulmonary vasoconstriction response to hypoxia, which this answer fails to identify."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "cardiovascular",
-        "hypoxia",
-        "pulmonary-vasoconstriction",
-        "altitude"
+        "cerebral-blood-flow",
+        "hypoxic-pulmonary-vasoconstriction",
+        "PCO2"
       ]
     },
     {
       "id": "hb-047",
       "topicId": "local-control-microcirculation",
       "topicName": "Local Control of the Microcirculation",
-      "stem": "A researcher is studying the nitric oxide signaling pathway in vascular endothelial cells. She exposes endothelial cells to increased shear stress and observes downstream effects in adjacent smooth muscle cells. Which of the following correctly describes the intracellular signaling cascade in smooth muscle cells following nitric oxide exposure?",
+      "stem": "A 48-year-old woman undergoes cardiac catheterization showing a 90% stenosis of the left anterior descending artery. Fractional flow reserve testing demonstrates significant ischemia. Downstream from the stenosis, a specific purine nucleoside accumulates as a byproduct of ATP breakdown in ischemic cardiac muscle. This molecule strongly correlates with metabolic activity and is a potent local vasodilator in the coronary circulation, but paradoxically acts as a vasoconstrictor in a different organ's vasculature. Which molecule and its paradoxical vasoconstricting organ are correctly identified?",
       "choices": [
         {
           "label": "A",
-          "text": "NO activates adenylyl cyclase, increasing cAMP, which phosphorylates myosin light chains and causes contraction"
+          "text": "Adenosine, which vasodilates coronary vessels but causes vasoconstriction in the renal vasculature"
         },
         {
           "label": "B",
-          "text": "NO activates guanylyl cyclase, increasing cGMP, which promotes calcium reuptake into the sarcoplasmic reticulum and activates myosin light-chain phosphatase"
+          "text": "Potassium, which vasodilates coronary vessels but causes vasoconstriction in the cerebral vasculature"
         },
         {
           "label": "C",
-          "text": "NO directly opens voltage-gated calcium channels, increasing intracellular calcium and causing contraction"
+          "text": "Lactate, which vasodilates coronary vessels but causes vasoconstriction in the hepatic vasculature"
         },
         {
           "label": "D",
-          "text": "NO inhibits guanylyl cyclase, decreasing cGMP, which prevents potassium channel activation and maintains depolarization"
+          "text": "Adenosine, which vasodilates coronary vessels but causes vasoconstriction in the pulmonary vasculature"
         },
         {
           "label": "E",
-          "text": "NO activates phospholipase C, generating IP3 and diacylglycerol, which releases calcium from the sarcoplasmic reticulum"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "Nitric oxide activates guanylyl cyclase in smooth muscle cells, converting GTP to cGMP. cGMP promotes smooth muscle relaxation by enhancing calcium reuptake into the sarcoplasmic reticulum, activating potassium channels (causing hyperpolarization), and activating myosin light-chain phosphatase (MLCP), which dephosphorylates myosin light chains.",
-        "whyCorrect": "The NO pathway proceeds as follows: NO diffuses into smooth muscle cells and activates guanylyl cyclase, converting GTP to cGMP. cGMP promotes calcium reuptake into the SR, activates potassium channels causing hyperpolarization, and activates MLCP which dephosphorylates myosin light chains, leading to smooth muscle relaxation.",
-        "whyWrongByChoice": {
-          "A": "NO activates guanylyl cyclase (not adenylyl cyclase) and increases cGMP (not cAMP). The result is smooth muscle relaxation, not contraction.",
-          "C": "NO does not directly open voltage-gated calcium channels; it causes smooth muscle relaxation through the cGMP pathway, which actually reduces intracellular calcium.",
-          "D": "NO activates (not inhibits) guanylyl cyclase, increasing (not decreasing) cGMP. The pathway leads to hyperpolarization and relaxation, not maintained depolarization.",
-          "E": "Phospholipase C activation and IP3/DAG signaling is a calcium-mobilizing pathway that causes contraction; this is not the mechanism of NO-mediated relaxation."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "nitric-oxide",
-        "cGMP",
-        "signal-transduction"
-      ]
-    },
-    {
-      "id": "hb-048",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A 62-year-old man in the ICU develops septic shock from a gram-negative bacterial infection. His blood pressure is 70/40 mmHg despite fluid resuscitation. The attending physician explains that a specific isoform of nitric oxide synthase is producing excessive NO, contributing to his severe hypotension. Which of the following best describes this isoform and its activation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Endothelial NOS (eNOS) activated solely by increased shear stress on the vascular endothelium"
-        },
-        {
-          "label": "B",
-          "text": "Neuronal NOS (nNOS) activated by parasympathetic acetylcholine release at autonomic ganglia"
-        },
-        {
-          "label": "C",
-          "text": "Inducible NOS (iNOS) activated by atrial natriuretic peptide binding to renal tubular cells"
-        },
-        {
-          "label": "D",
-          "text": "Endothelial NOS (eNOS) activated by bradykinin binding to B1 receptors on endothelial cells"
-        },
-        {
-          "label": "E",
-          "text": "Inducible NOS (iNOS) activated by bacterial endotoxins stimulating monocytes and macrophages to release interferon-gamma"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "In endotoxin shock, bacterial endotoxins stimulate monocytes and macrophages to release interferon-gamma, which potently activates inducible NOS (iNOS). iNOS produces far more NO than endothelial NOS (eNOS), leading to excessive vasodilation and severe hypotension.",
-        "whyCorrect": "Endotoxin shock involves activation of iNOS, which produces more NO than eNOS. Bacterial endotoxins stimulate monocytes and macrophages to release interferon-gamma, which potently activates iNOS, causing excessive NO production and severe hypotension.",
-        "whyWrongByChoice": {
-          "A": "While eNOS is activated by shear stress, it produces baseline levels of NO for normal vascular tone regulation; the excessive NO in septic shock is from iNOS, not eNOS.",
-          "B": "Neuronal NOS is involved in neurotransmission and is not the primary isoform responsible for the massive NO production seen in endotoxin shock.",
-          "C": "iNOS is not activated by ANP; ANP acts on renal tubular cells to promote natriuresis through entirely different signaling pathways.",
-          "D": "While bradykinin can activate eNOS, B2 (not B1) receptors are constitutively expressed on endothelial cells, and eNOS does not produce the excessive NO levels responsible for endotoxin shock."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "iNOS",
-        "septic-shock",
-        "endotoxin"
-      ]
-    },
-    {
-      "id": "hb-049",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A 35-year-old woman is exercising vigorously on a treadmill. Measurements reveal that extracellular potassium concentration in her active skeletal muscles has risen from 4 mM to 8 mM. Despite this hyperkalemia typically being associated with depolarization, the vascular smooth muscle in her leg arterioles relaxes. Which of the following best explains this paradoxical vasodilation?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Elevated K+ activates the Na+/K+-ATPase pump exclusively, depleting extracellular K+ and causing hyperpolarization"
-        },
-        {
-          "label": "B",
-          "text": "Elevated K+ stimulates endothelial nitric oxide synthase, increasing NO production and smooth muscle relaxation"
-        },
-        {
-          "label": "C",
-          "text": "Elevated K+ directly inhibits myosin light-chain kinase, preventing smooth muscle contraction"
-        },
-        {
-          "label": "D",
-          "text": "Elevated K+ opens specific K+ channels, allowing K+ efflux that hyperpolarizes the membrane and closes L-type Ca2+ channels"
-        },
-        {
-          "label": "E",
-          "text": "Elevated K+ activates beta-2 adrenergic receptors on vascular smooth muscle, mimicking epinephrine-mediated vasodilation"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Paradoxical vasodilation by elevated extracellular K+ occurs because increased K+ opens specific K+ ion channels in vascular smooth muscle, allowing more K+ to exit the cell. This hyperpolarizes the membrane potential near the potassium equilibrium potential, closes L-type Ca2+ channels, reduces calcium entry, and causes smooth muscle relaxation.",
-        "whyCorrect": "Elevated extracellular K+ opens specific K+ ion channels in vascular smooth muscle, allowing K+ efflux that hyperpolarizes the membrane toward the potassium equilibrium potential (Ek). This closes L-type Ca2+ channels, reducing calcium entry and causing smooth muscle relaxation. Additionally, hyperkalemia boosts Na+/K+ pump activity, helping maintain repolarization.",
-        "whyWrongByChoice": {
-          "A": "While hyperkalemia does boost Na+/K+-ATPase pump activity, the primary mechanism of paradoxical vasodilation is through opening K+ channels that cause hyperpolarization, not exclusively through the pump depleting extracellular K+.",
-          "B": "The paradoxical vasodilation is a direct effect on vascular smooth muscle K+ channels, not mediated through endothelial NOS or nitric oxide production.",
-          "C": "Elevated K+ does not directly inhibit myosin light-chain kinase; the mechanism involves membrane hyperpolarization and reduced calcium entry through L-type channels.",
-          "E": "Potassium does not activate beta-2 adrenergic receptors; these receptors are activated by catecholamines like epinephrine, not by electrolytes."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "potassium",
-        "vasodilation",
-        "ion-channels"
-      ]
-    },
-    {
-      "id": "hb-050",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A pharmacology professor is explaining the cardiovascular effects of intravenous norepinephrine to medical students. She describes how norepinephrine initially causes a brief increase in heart rate, followed by a sustained decrease in heart rate despite continued infusion. Which of the following best explains the sequence of cardiovascular events observed with norepinephrine administration?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Alpha-1 vasoconstriction raises arterial pressure, triggering baroreceptor-mediated reflex bradycardia via increased vagal tone"
-        },
-        {
-          "label": "B",
-          "text": "Beta-2 receptor activation in skeletal muscle causes vasodilation, reducing venous return and reflexively decreasing heart rate"
-        },
-        {
-          "label": "C",
-          "text": "Direct beta-1 stimulation of the SA node initially increases then desensitizes, causing progressive bradycardia"
-        },
-        {
-          "label": "D",
-          "text": "Alpha-1 vasoconstriction reduces venous return, decreasing preload and reflexively lowering heart rate"
-        },
-        {
-          "label": "E",
-          "text": "Norepinephrine activates muscarinic receptors on the heart, directly slowing the heart rate"
+          "text": "Carbon dioxide, which vasodilates coronary vessels but causes vasoconstriction in the skeletal muscle vasculature"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Norepinephrine strongly activates alpha-1 receptors causing widespread vasoconstriction, increasing both systolic and diastolic pressures. It also briefly activates cardiac beta-1 receptors, transiently increasing heart rate. However, the resulting arterial pressure rise activates the baroreceptor reflex, increasing vagal tone and causing reflex bradycardia.",
-        "whyCorrect": "NE binds alpha-1 receptors (alpha >> beta preference), causing vasoconstriction and raising arterial pressure. While beta-1 activation briefly increases heart rate, the arterial pressure rise triggers baroreceptor reflex activation, increasing vagal tone and producing reflex bradycardia. The net effect is vasoconstriction with decreased heart rate.",
+        "summary": "Adenosine is a purine nucleoside that accumulates with ATP breakdown during ischemia. It strongly correlates with metabolic activity and is a potent vasodilator in the coronary and skeletal muscle circulations. However, adenosine paradoxically functions as a vasoconstrictor in the renal vasculature, which is a unique exception to its general vasodilatory effect.",
+        "whyCorrect": "Adenosine accumulates during ATP breakdown in ischemic cardiac tissue and is a potent coronary vasodilator that increases coronary blood flow. However, in the kidneys, adenosine uniquely acts as a vasoconstrictor, which is a key exception to its general vasodilatory behavior in other vascular beds.",
         "whyWrongByChoice": {
-          "B": "Norepinephrine has minimal beta-2 activity due to its strong alpha-1 preference; it causes vasoconstriction, not skeletal muscle vasodilation.",
-          "C": "While beta-1 stimulation does occur, the bradycardia is not from receptor desensitization but from the baroreceptor reflex responding to increased arterial pressure.",
-          "D": "Alpha-1 vasoconstriction increases afterload and arterial pressure, not primarily reduces venous return; the bradycardia is mediated by the baroreceptor reflex, not reduced preload.",
-          "E": "Norepinephrine does not activate muscarinic receptors; the bradycardia is an indirect effect mediated by baroreceptor-driven vagal activation, not direct muscarinic stimulation."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiovascular",
-        "norepinephrine",
-        "baroreceptor-reflex",
-        "pharmacology"
-      ]
-    },
-    {
-      "id": "hb-051",
-      "topicId": "local-control-microcirculation",
-      "topicName": "Local Control of the Microcirculation",
-      "stem": "A 50-year-old man with coronary artery disease is undergoing a cardiac stress test. During exercise, his coronary blood flow increases significantly to meet the increased myocardial oxygen demand. A metabolite that strongly correlates with metabolic activity accumulates from ATP breakdown and is a key mediator of this coronary vasodilation. However, this same metabolite has the opposite vascular effect in another organ. Which of the following correctly identifies this metabolite and the organ where it has a paradoxical vasoconstrictive effect?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Carbon dioxide in the pulmonary vasculature"
-        },
-        {
-          "label": "B",
-          "text": "Hydrogen ions in the cerebral vasculature"
-        },
-        {
-          "label": "C",
-          "text": "Potassium in the renal vasculature"
-        },
-        {
-          "label": "D",
-          "text": "Adenosine in the renal vasculature"
-        },
-        {
-          "label": "E",
-          "text": "Lactate in the hepatic vasculature"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "Adenosine accumulates from ATP breakdown during increased metabolic activity and strongly correlates with metabolic demand. It is a key mediator of coronary vasodilation. However, in the kidneys, adenosine functions as a vasoconstrictor, representing a paradoxical effect compared to its vasodilatory action in other tissues.",
-        "whyCorrect": "Adenosine accumulates with increased ATP breakdown, particularly in skeletal and cardiac muscles, and increases coronary blood flow. However, in the kidneys, adenosine functions as a vasoconstrictor, which is the opposite of its effect in most other tissues.",
-        "whyWrongByChoice": {
-          "A": "Carbon dioxide is a potent vasodilator, especially in the brain; while hypoxia causes pulmonary vasoconstriction, CO2 itself is not described as having a vasoconstrictive effect in the lungs in this context.",
-          "B": "Hydrogen ions cause vasodilation but cannot cross the blood-brain barrier directly to affect cerebral blood flow; H+ is not described as having a paradoxical vasoconstrictive effect in the brain.",
-          "C": "Potassium causes paradoxical vasodilation (not vasoconstriction) in vascular smooth muscle; it does not have a vasoconstrictive effect in the kidneys.",
-          "E": "Lactate is a metabolic byproduct associated with vasodilation, not vasoconstriction, and is not described as having a paradoxical vasoconstrictive effect in the liver."
+          "B": "Elevated extracellular potassium causes vasodilation in both coronary and cerebral vasculature. K+ does not cause vasoconstriction in cerebral vessels; it is a general vasodilator through its hyperpolarizing effect on smooth muscle.",
+          "C": "Lactate is a metabolic byproduct of anaerobic metabolism and contributes to local acidosis-mediated vasodilation, but it is not a purine nucleoside from ATP breakdown, and it does not cause hepatic vasoconstriction.",
+          "D": "Adenosine is correctly identified, but its paradoxical vasoconstricting effect occurs in the kidneys, not the pulmonary vasculature. Hypoxic pulmonary vasoconstriction is mediated by low PO2, not adenosine.",
+          "E": "Carbon dioxide is a potent vasodilator (especially in cerebral circulation) but is not a purine nucleoside from ATP breakdown. CO2 does not cause vasoconstriction in skeletal muscle; it causes vasodilation there as well."
         }
       },
       "difficulty": "hard",
@@ -2415,50 +2233,243 @@
       ]
     },
     {
-      "id": "hb-052",
+      "id": "hb-048",
       "topicId": "local-control-microcirculation",
       "topicName": "Local Control of the Microcirculation",
-      "stem": "A 28-year-old woman receives a low-dose intravenous epinephrine infusion during a research study. Hemodynamic monitoring shows increased heart rate, increased cardiac output, and decreased total peripheral resistance, with minimal change in mean arterial pressure. Which of the following best explains why the mean arterial pressure does not significantly change despite the increase in cardiac output?",
+      "stem": "A 42-year-old man is brought to the emergency department in septic shock from a perforated appendix. His blood pressure is 72/44 mmHg, heart rate is 134 bpm, temperature is 39.8°C, and WBC count is 22,000/μL. Blood cultures grow gram-negative rods. The bacterial endotoxins in his blood stimulate monocytes and macrophages to release interferon-gamma, which activates a specific enzyme that produces far greater quantities of a vasodilatory molecule than the constitutively expressed endothelial isoform. Which enzyme is primarily responsible for the excessive vasodilation in this patient?",
       "choices": [
         {
           "label": "A",
-          "text": "Alpha-1 receptor-mediated vasoconstriction in the skin and gut exactly counterbalances the increased cardiac output"
+          "text": "Endothelial nitric oxide synthase (eNOS), which is upregulated by endotoxin binding directly to endothelial toll-like receptors"
         },
         {
           "label": "B",
-          "text": "Beta-2 receptor-mediated vasodilation in skeletal muscle decreases systemic vascular resistance, offsetting the cardiac output increase"
+          "text": "Cyclooxygenase-2 (COX-2), which produces excess prostacyclin causing systemic vasodilation and refractory hypotension"
         },
         {
           "label": "C",
-          "text": "Baroreceptor reflex immediately reduces heart rate, preventing any change in cardiac output or blood pressure"
+          "text": "Inducible nitric oxide synthase (iNOS), which produces excessive nitric oxide in activated macrophages and other cells leading to severe vasodilation"
         },
         {
           "label": "D",
-          "text": "Parasympathetic activation at muscarinic receptors causes widespread vasodilation, negating the cardiac output increase"
+          "text": "Guanylyl cyclase, which is directly activated by bacterial endotoxins to produce excess cGMP in vascular smooth muscle cells"
         },
         {
           "label": "E",
-          "text": "Angiotensin II release is reflexively suppressed, causing systemic vasodilation that balances the increased cardiac output"
+          "text": "Kallikrein, which is activated by bacterial proteases to produce massive amounts of bradykinin causing refractory vasodilation and hypotension"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "At low (physiological) doses, epinephrine preferentially activates beta receptors. Beta-1 activation increases heart rate and contractility (increasing cardiac output), while beta-2 activation in skeletal muscle causes vasodilation and decreased systemic vascular resistance. These opposing effects on MAP often result in little or no change in mean arterial pressure, and thus do not trigger a baroreceptor response.",
-        "whyCorrect": "At physiological concentrations, epinephrine preferentially stimulates beta-2 receptors in skeletal muscle vasculature, causing vasodilation and decreased total peripheral resistance. Simultaneously, beta-1 activation increases cardiac output. The decrease in SVR offsets the increase in cardiac output, resulting in minimal change in MAP.",
+        "summary": "In endotoxin shock, bacterial endotoxins stimulate monocytes and macrophages to release interferon-gamma, which potently activates inducible nitric oxide synthase (iNOS). iNOS produces much greater quantities of NO than the constitutive endothelial isoform (eNOS), leading to excessive vasodilation and severe hypotension.",
+        "whyCorrect": "iNOS is the inducible isoform of nitric oxide synthase that is activated in inflammatory cells (monocytes, macrophages) by interferon-gamma during endotoxin shock. It produces far more NO than eNOS, causing the severe systemic vasodilation and refractory hypotension characteristic of septic shock.",
         "whyWrongByChoice": {
-          "A": "At low-dose epinephrine, alpha-1 effects are minimal; alpha-1 receptor-mediated vasoconstriction predominates only at higher pharmacologic doses.",
-          "C": "The baroreceptor reflex is not significantly triggered because MAP does not substantially change; the stable MAP is due to the balance of beta-1 and beta-2 effects, not reflex compensation.",
-          "D": "Parasympathetic muscarinic receptor activation does not cause widespread vasodilation; parasympathetic vascular effects are limited to salivary glands and genitals.",
-          "E": "Angiotensin II suppression is not the mechanism; the stable MAP is due to the simultaneous beta-1 cardiac stimulation and beta-2 skeletal muscle vasodilation effects of low-dose epinephrine."
+          "A": "While eNOS does produce NO, it is constitutively expressed and produces smaller amounts. The massive NO overproduction in septic shock is driven by iNOS induction in inflammatory cells, not eNOS upregulation in endothelial cells.",
+          "B": "COX-2 produces prostaglandins including prostacyclin, which contributes to inflammation, but the primary driver of severe vasodilation in endotoxin shock is iNOS-derived nitric oxide, not prostacyclin overproduction.",
+          "D": "Guanylyl cyclase is activated downstream by nitric oxide, not directly by endotoxins. It is an intracellular enzyme in smooth muscle that responds to NO, not the source of the excess vasodilatory molecule.",
+          "E": "While kallikrein-bradykinin pathways exist, the primary mechanism of endotoxin shock vasodilation is through iNOS activation by interferon-gamma producing excessive NO, not kallikrein-mediated bradykinin production."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "cardiovascular",
-        "epinephrine",
-        "beta-receptors",
-        "hemodynamics"
+        "iNOS",
+        "septic-shock",
+        "endotoxin",
+        "nitric-oxide"
+      ]
+    },
+    {
+      "id": "hb-049",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 28-year-old woman is undergoing exercise stress testing. At peak exercise, her serum potassium rises from 4.0 mEq/L to 7.5 mEq/L in the venous blood draining her exercising leg muscles. A physician-in-training expects this hyperkalemia to cause arteriolar smooth muscle depolarization and contraction, but instead observes increased blood flow to the exercising muscles. Which mechanism best explains why elevated extracellular potassium causes vasodilation rather than the expected vasoconstriction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated K+ activates Na+/K+-ATPase in smooth muscle, increasing intracellular sodium that opens voltage-gated sodium channels and causes membrane depolarization leading to relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Elevated K+ opens specific K+ channels allowing K+ efflux, which hyperpolarizes the smooth muscle membrane near the potassium equilibrium potential and closes L-type Ca2+ channels"
+        },
+        {
+          "label": "C",
+          "text": "Elevated K+ directly inhibits alpha-1 adrenergic receptors on arteriolar smooth muscle, blocking sympathetic vasoconstriction and allowing passive vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Elevated K+ stimulates endothelial release of endothelin-1 which, at high concentrations, paradoxically activates ET-B receptors that mediate vasodilation rather than vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Elevated K+ increases extracellular calcium binding, reducing free ionized calcium available for smooth muscle contraction and causing functional vasodilation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Despite the expectation that hyperkalemia would depolarize smooth muscle, elevated extracellular K+ paradoxically causes vasodilation. This occurs because increased K+ opens specific K+ ion channels in vascular smooth muscle, allowing K+ efflux that hyperpolarizes the membrane toward the potassium equilibrium potential. This hyperpolarization closes L-type Ca2+ channels, reducing calcium influx and causing smooth muscle relaxation.",
+        "whyCorrect": "Elevated extracellular K+ opens specific K+ channels in vascular smooth muscle, promoting K+ efflux. This hyperpolarizes the membrane potential near the K+ equilibrium potential (Ek), which closes voltage-gated L-type Ca2+ channels. Less calcium enters the cell, and the smooth muscle relaxes, causing vasodilation. Additionally, hyperkalemia boosts Na+/K+-ATPase activity, further maintaining repolarization.",
+        "whyWrongByChoice": {
+          "A": "While elevated K+ does boost Na+/K+-ATPase activity, this pump moves K+ into cells and Na+ out, not the reverse. The pump activity helps maintain repolarization, not depolarization, and the relaxation is due to K+ channel-mediated hyperpolarization, not sodium channel opening.",
+          "C": "Elevated K+ does not directly inhibit alpha-1 adrenergic receptors. The mechanism of K+-induced vasodilation is through ion channel effects on membrane potential, not through receptor blockade.",
+          "D": "Elevated K+ does not stimulate endothelin release. Endothelin is released in response to shear stress, angiotensin II, and ADH. The paradoxical vasodilation from K+ is a direct effect on smooth muscle ion channels.",
+          "E": "Elevated extracellular K+ does not significantly bind extracellular calcium or reduce ionized calcium levels. The mechanism involves K+ channel opening and membrane hyperpolarization, not changes in calcium binding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "potassium",
+        "vasodilation",
+        "ion-channels",
+        "hyperkalemia"
+      ]
+    },
+    {
+      "id": "hb-050",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 52-year-old man presents to the emergency department with acute chest pain. ECG shows ST-segment elevation in leads V1-V4, and troponin I is 12.8 ng/mL. After emergent percutaneous coronary intervention restoring flow to the left anterior descending artery, the interventional cardiologist administers sublingual nitroglycerin. Nitroglycerin generates a gaseous signaling molecule within vascular endothelial cells. This molecule activates an intracellular enzyme in smooth muscle that converts GTP to a cyclic nucleotide. This cyclic nucleotide then promotes smooth muscle relaxation through multiple downstream effectors. Which downstream effector is most directly responsible for the final step of smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein kinase A, which phosphorylates calcium channels to reduce intracellular calcium concentration"
+        },
+        {
+          "label": "B",
+          "text": "Phosphodiesterase type 5, which degrades cAMP to terminate the vasodilatory signal and allow controlled relaxation"
+        },
+        {
+          "label": "C",
+          "text": "Myosin light-chain kinase, which phosphorylates myosin heads to enable cross-bridge cycling and controlled relaxation"
+        },
+        {
+          "label": "D",
+          "text": "Myosin light-chain phosphatase, which dephosphorylates myosin light chains causing cross-bridge detachment and smooth muscle relaxation"
+        },
+        {
+          "label": "E",
+          "text": "Adenylyl cyclase, which converts ATP to cAMP amplifying the calcium reuptake signal initiated by guanylyl cyclase activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nitroglycerin generates NO, which activates guanylyl cyclase in smooth muscle, converting GTP to cGMP. cGMP promotes relaxation through multiple mechanisms including enhancing calcium reuptake into the sarcoplasmic reticulum and activating K+ channels for hyperpolarization. The final step of actual muscle relaxation is mediated by myosin light-chain phosphatase (MLCP), which dephosphorylates myosin light chains, causing cross-bridge detachment and smooth muscle relaxation.",
+        "whyCorrect": "MLCP is the enzyme that dephosphorylates myosin light chains, which is the final molecular step in smooth muscle relaxation. When myosin light chains lose their phosphate groups, they can no longer form cross-bridges with actin, and the muscle relaxes. cGMP (produced via NO/guanylyl cyclase) activates MLCP as part of its vasodilatory signaling cascade.",
+        "whyWrongByChoice": {
+          "A": "Protein kinase A is activated by cAMP, not cGMP. The NO-guanylyl cyclase pathway produces cGMP, which activates protein kinase G, not protein kinase A. PKA is part of the beta-adrenergic signaling pathway.",
+          "B": "Phosphodiesterase type 5 degrades cGMP, which would terminate the vasodilatory signal and promote vasoconstriction, not relaxation. PDE5 inhibitors (like sildenafil) block this degradation to enhance vasodilation.",
+          "C": "Myosin light-chain kinase (MLCK) phosphorylates myosin, enabling contraction, not relaxation. Activation of MLCK would cause vasoconstriction, the opposite of the desired effect.",
+          "E": "Adenylyl cyclase produces cAMP from ATP, which is a separate signaling pathway. The NO pathway specifically uses guanylyl cyclase to produce cGMP, not adenylyl cyclase to produce cAMP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "nitric-oxide",
+        "cGMP",
+        "MLCP",
+        "nitroglycerin"
+      ]
+    },
+    {
+      "id": "hb-051",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 36-year-old man is brought to the emergency department after a workplace accident resulting in a deep laceration to his forearm. During surgical repair, the surgeon notes active bleeding from a small artery. Platelets aggregate at the site of injury and release several vasoactive substances. One substance released from activated platelets serves as a positive-feedback mediator that promotes further platelet aggregation while simultaneously causing local vasoconstriction to reduce blood loss. A second substance, a prostaglandin produced by intact endothelium adjacent to the injury site, opposes this effect by inhibiting platelet aggregation and promoting vasodilation. What would you expect regarding these two opposing paracrine mediators at the injury site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine from platelets causing vasoconstriction and platelet aggregation, opposed by prostacyclin from damaged smooth muscle causing vasodilation and platelet inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Serotonin from platelets causing vasodilation and platelet aggregation, opposed by endothelin from intact endothelium causing vasoconstriction and platelet inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Histamine from platelets causing vasoconstriction and platelet aggregation, opposed by nitric oxide from damaged endothelium causing vasodilation and platelet inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Endothelin from platelets causing vasoconstriction and platelet aggregation, opposed by bradykinin from intact endothelium causing vasodilation and platelet inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Thromboxane A2 from platelets causing vasoconstriction and platelet aggregation, opposed by prostacyclin from intact endothelium causing vasodilation and platelet inhibition"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Thromboxane A2 is released from activated platelets and serves as a positive-feedback mediator that promotes further platelet aggregation while causing local vasoconstriction. Prostacyclin (PGI2) is a prostaglandin produced by intact vascular endothelium that opposes thromboxane by inhibiting platelet aggregation and causing vasodilation, limiting clot formation to the injury site.",
+        "whyCorrect": "Thromboxane A2 from activated platelets causes vasoconstriction and promotes platelet aggregation as a positive-feedback loop. Prostacyclin (PGI2) from intact endothelium adjacent to the injury counterbalances this by dilating vessels and inhibiting platelets, confining the hemostatic response to the damaged area.",
+        "whyWrongByChoice": {
+          "B": "Serotonin is released from platelets and causes vasoconstriction (not vasodilation), but it is not the primary positive-feedback mediator for platelet aggregation — that role belongs to thromboxane A2. Endothelin is from endothelium, not a platelet inhibitor.",
+          "C": "Histamine is released from mast cells and basophils, not platelets, and causes vasodilation, not vasoconstriction. Nitric oxide comes from intact endothelium, not damaged endothelium.",
+          "D": "Endothelin is produced by vascular endothelium, not platelets, and is not a platelet aggregation mediator. Bradykinin promotes vasodilation but is not a prostaglandin produced by endothelium in response to thrombin.",
+          "E": "Adenosine is released during ATP breakdown and causes vasodilation in most tissues, not vasoconstriction. Prostacyclin is produced by intact endothelium, not damaged smooth muscle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "thromboxane",
+        "prostacyclin",
+        "hemostasis",
+        "paracrine"
+      ]
+    },
+    {
+      "id": "hb-052",
+      "topicId": "local-control-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "A 30-year-old soldier sustains a penetrating abdominal injury with significant hemorrhage. In the field hospital, he receives IV norepinephrine to maintain blood pressure. His MAP stabilizes at 68 mmHg. Norepinephrine has strong alpha-1 receptor preference and also activates beta-1 receptors. Despite beta-1 activation initially increasing heart rate, the medical team observes that his heart rate decreases from 128 to 62 bpm shortly after norepinephrine infusion is started. Which mechanism best explains the heart rate decrease following norepinephrine administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norepinephrine activates beta-2 receptors on the sinoatrial node, which at high concentrations paradoxically inhibit cardiac pacemaker cells and reduce heart rate"
+        },
+        {
+          "label": "B",
+          "text": "The rise in arterial pressure from alpha-1 vasoconstriction activates the baroreceptor reflex, increasing vagal tone to the heart and producing reflex bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine directly activates muscarinic M2 receptors on cardiac conduction tissue, mimicking parasympathetic stimulation and slowing heart rate"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-1 receptor activation on cardiac myocytes decreases intracellular calcium through IP3 pathway inhibition, reducing the intrinsic firing rate of pacemaker cells"
+        },
+        {
+          "label": "E",
+          "text": "Norepinephrine stimulates endothelin release from coronary endothelium, which causes coronary vasoconstriction and secondary ischemia-mediated bradycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Norepinephrine has strong alpha-1 preference, causing widespread vasoconstriction that increases both systolic and diastolic pressures. While NE does activate cardiac beta-1 receptors causing a transient heart rate increase, the resulting rise in arterial pressure activates the baroreceptor reflex. This increases vagal (parasympathetic) tone to the heart, producing reflex bradycardia that overrides the direct beta-1 chronotropic effect.",
+        "whyCorrect": "NE-induced alpha-1 vasoconstriction raises arterial pressure, which stretches baroreceptors in the carotid sinus and aortic arch. The baroreceptor reflex increases vagal tone to the heart, producing bradycardia that overwhelms the direct beta-1 stimulatory effect on heart rate. The net effect of NE is vasoconstriction with decreased heart rate.",
+        "whyWrongByChoice": {
+          "A": "Norepinephrine has minimal beta-2 receptor activity (alpha >> beta). Beta-2 receptors are primarily located on vascular smooth muscle, not the sinoatrial node, and do not inhibit pacemaker cells at any concentration.",
+          "C": "Norepinephrine does not activate muscarinic M2 receptors. It acts on adrenergic receptors (alpha and beta). The bradycardia results from reflex vagal activation via the baroreceptor pathway, not direct muscarinic stimulation.",
+          "D": "Alpha-1 receptors on cardiac myocytes do not decrease pacemaker firing through IP3 inhibition. The bradycardia is a reflex phenomenon mediated by baroreceptors and increased vagal tone, not a direct alpha-1 effect on cardiac pacemaker cells.",
+          "E": "While norepinephrine can affect endothelin dynamics, the bradycardia observed is a classic baroreceptor reflex response to increased arterial pressure, not coronary ischemia from endothelin-mediated vasoconstriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular",
+        "norepinephrine",
+        "baroreceptor-reflex",
+        "bradycardia",
+        "alpha-1"
       ]
     },
     {

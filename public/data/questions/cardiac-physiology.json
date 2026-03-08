@@ -6,85 +6,38 @@
       "id": "cp-001",
       "topicId": "cardiac-cycle",
       "topicName": "Cardiac Cycle",
-      "stem": "A 68-year-old man with known aortic stenosis presents with exertional dyspnea and syncope. Echocardiography reveals a heavily calcified aortic valve with a reduced orifice area. The left ventricle must generate significantly higher pressure before the aortic valve opens. Which phase of the cardiac cycle is most directly prolonged as a result of this pathology?",
+      "stem": "A 72-year-old man with a history of atrial fibrillation presents to the emergency department with acute decompensated heart failure. His heart rate is 145 bpm. Echocardiography shows a left ventricular ejection fraction of 30% with an end-diastolic volume of 90 mL and an end-systolic volume of 63 mL. The attending physician notes that atrial fibrillation at this rapid rate significantly impairs ventricular filling. Which mechanism best explains why tachycardia disproportionately reduces ventricular filling in the setting of atrial fibrillation?",
       "choices": [
         {
           "label": "A",
-          "text": "Isovolumetric ventricular contraction, during which ventricular pressure rises while all valves remain closed"
+          "text": "Tachycardia shortens diastole more than systole, and loss of atrial kick eliminates the compensatory active filling that normally augments ventricular volume"
         },
         {
           "label": "B",
-          "text": "Rapid ventricular ejection, during which blood is ejected at its highest velocity into the great vessels"
+          "text": "Tachycardia increases afterload by raising aortic diastolic pressure, which prevents the semilunar valves from closing during relaxation"
         },
         {
           "label": "C",
-          "text": "Isovolumetric ventricular relaxation, during which ventricular pressure falls while all valves remain closed"
+          "text": "Tachycardia prolongs isovolumetric contraction, reducing the time available for ventricular ejection and subsequent filling"
         },
         {
           "label": "D",
-          "text": "Reduced ventricular ejection, during which the rate of blood ejection from the ventricles begins to diminish"
+          "text": "Loss of atrial contraction causes retrograde flow through the semilunar valves, reducing the net forward stroke volume significantly"
         },
         {
           "label": "E",
-          "text": "Atrial systole, during which atrial contraction provides the final volume increment for ventricular filling"
+          "text": "Tachycardia shortens systole more than diastole, but loss of the v wave in the atrial pressure curve prevents passive venous return"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "In aortic stenosis, the stiffened valve requires higher ventricular pressure to open, directly prolonging the isovolumetric contraction phase.",
-        "whyCorrect": "Aortic stenosis causes the aortic valve to resist opening, so the left ventricle must generate higher pressure before ejection begins. This directly prolongs the isovolumetric contraction phase, during which all valves are closed and ventricular pressure builds.",
+        "summary": "In tachycardia, diastole shortens more than systole, reducing passive filling time. Normally, atrial contraction compensates by providing up to 40% of ventricular filling at high heart rates, but this is lost in atrial fibrillation.",
+        "whyCorrect": "When heart rate increases, both systole and diastole shorten, but diastole shortens disproportionately more. At normal resting rates, atrial contraction provides only 10-15% of ventricular filling. However, at maximal heart rates, atrial contraction can provide up to 40% of filling. In atrial fibrillation, the atria cannot contract effectively, eliminating this compensatory mechanism precisely when it is most needed.",
         "whyWrongByChoice": {
-          "B": "Rapid ventricular ejection occurs after the aortic valve opens. While the ejection pattern is altered in aortic stenosis, the phase that is most directly prolonged is the pressure-building phase before valve opening.",
-          "C": "Isovolumetric relaxation occurs after ejection when the semilunar valves close. This phase is not primarily affected by the increased resistance to valve opening.",
-          "D": "Reduced ventricular ejection is the latter part of systolic ejection. While total ejection dynamics are altered, the most direct effect is on the isovolumetric contraction phase.",
-          "E": "Atrial systole occurs during late diastole and is not directly affected by increased resistance at the aortic valve during systolic ejection."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "aortic-stenosis",
-        "isovolumetric-contraction",
-        "valves"
-      ]
-    },
-    {
-      "id": "cp-002",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A 75-year-old woman with a history of atrial fibrillation is evaluated in the cardiology clinic. A right atrial pressure tracing is obtained. Compared to a normal tracing, which of the following waveform components would most likely be absent in this patient?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The a wave, which is generated by the pressure increase from atrial contraction against venous inflow"
-        },
-        {
-          "label": "B",
-          "text": "The c wave, which results from ventricular contraction pushing the tricuspid valve back into the atrium"
-        },
-        {
-          "label": "C",
-          "text": "The v wave, which reflects the gradual increase in atrial pressure from continued venous return filling"
-        },
-        {
-          "label": "D",
-          "text": "The x descent, which results from ventricular ejection reducing back pressure and atrial relaxation occurring"
-        },
-        {
-          "label": "E",
-          "text": "The y descent, which occurs when the tricuspid valve opens and blood passively enters the right ventricle"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "In atrial fibrillation, the atria cannot effectively contract. The a wave, which represents the pressure increase from atrial contraction, is therefore absent.",
-        "whyCorrect": "The a wave results from atrial contraction. In atrial fibrillation, the atria fibrillate rather than contract effectively, so the a wave is absent from the right atrial pressure curve.",
-        "whyWrongByChoice": {
-          "B": "The c wave is produced by ventricular contraction pushing the closed tricuspid valve back into the atrium. Ventricular contraction is preserved in atrial fibrillation.",
-          "C": "The v wave results from continued venous return filling the atrium against a closed tricuspid valve. This process is independent of atrial contraction and remains present.",
-          "D": "The x descent is present but attenuated in atrial fibrillation. Since atrial contraction does not occur, atrial relaxation cannot fully occur either, but it is attenuated rather than completely absent.",
-          "E": "The y descent occurs when the tricuspid valve opens during diastole and blood enters the ventricle. This passive process is unaffected by the loss of atrial contraction."
+          "B": "Tachycardia does not primarily increase afterload by raising aortic diastolic pressure. Additionally, semilunar valves close normally at the end of ventricular ejection regardless of heart rate. The primary issue is reduced filling time, not afterload.",
+          "C": "Tachycardia does not selectively prolong isovolumetric contraction. All phases shorten with tachycardia, but diastolic phases shorten disproportionately compared to systolic phases.",
+          "D": "Atrial contraction does not affect semilunar valve function. The semilunar valves separate ventricles from great vessels, not atria from ventricles. Loss of atrial contraction affects atrioventricular filling, not semilunar valve flow.",
+          "E": "Tachycardia actually shortens diastole more than systole, not the reverse. Also, the v wave reflects passive venous filling of the atria and is not dependent on atrial contraction; it would still be present in atrial fibrillation."
         }
       },
       "difficulty": "hard",
@@ -92,375 +45,95 @@
       "tags": [
         "cardiac-cycle",
         "atrial-fibrillation",
-        "right-atrial-pressure",
-        "a-wave"
+        "tachycardia",
+        "ventricular-filling",
+        "atrial-kick"
+      ]
+    },
+    {
+      "id": "cp-002",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 65-year-old man with severe aortic stenosis is undergoing cardiac catheterization. The left ventricular pressure tracing shows a markedly prolonged period during which ventricular pressure is rising but both the aortic and mitral valves remain closed. The peak left ventricular pressure is 240 mmHg while the aortic pressure is 130/80 mmHg. Which heart sound marks the beginning of this prolonged phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1, generated by closure of the mitral and tricuspid valves at the onset of ventricular contraction"
+        },
+        {
+          "label": "B",
+          "text": "S2, generated by closure of the aortic and pulmonary valves at the onset of ventricular relaxation"
+        },
+        {
+          "label": "C",
+          "text": "S3, generated by rapid filling of a volume-overloaded ventricle during early diastolic filling"
+        },
+        {
+          "label": "D",
+          "text": "S4, generated by atrial contraction against a stiff noncompliant ventricle during late diastolic filling"
+        },
+        {
+          "label": "E",
+          "text": "A systolic ejection click generated by the opening of a stenotic aortic valve during ventricular ejection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The phase described is isovolumetric contraction, where both AV and semilunar valves are closed while ventricular pressure rises. S1 (closure of mitral and tricuspid valves) marks its beginning.",
+        "whyCorrect": "Isovolumetric contraction begins when rising ventricular pressure exceeds atrial pressure, closing the atrioventricular (mitral and tricuspid) valves, producing S1. During this phase, both AV and semilunar valves are closed, and ventricular pressure rises without volume change. In aortic stenosis, the ventricle must generate much higher pressure to overcome the stenotic valve, prolonging this phase. S1 marks its onset.",
+        "whyWrongByChoice": {
+          "B": "S2 is produced by closure of the aortic and pulmonary valves, which marks the end of ventricular ejection and the beginning of isovolumetric relaxation, not isovolumetric contraction.",
+          "C": "S3 occurs during rapid ventricular filling in early diastole and is associated with volume overload states. It does not occur during isovolumetric contraction.",
+          "D": "S4 occurs during atrial systole in late diastole when the atria contract against a stiff ventricle. It precedes isovolumetric contraction but does not mark its beginning; S1 does.",
+          "E": "A systolic ejection click occurs when the stenotic aortic valve opens, which marks the end of isovolumetric contraction and beginning of ejection, not the beginning of isovolumetric contraction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "isovolumetric-contraction",
+        "heart-sounds",
+        "aortic-stenosis",
+        "S1"
       ]
     },
     {
       "id": "cp-003",
       "topicId": "cardiac-cycle",
       "topicName": "Cardiac Cycle",
-      "stem": "A 30-year-old marathon runner is undergoing a cardiac stress test. At peak exercise, his heart rate reaches 180 beats per minute. Under these conditions, the relative contribution of atrial contraction to total ventricular filling is expected to change significantly compared to resting conditions. At this maximal heart rate, approximately what percentage of ventricular filling is attributable to atrial contraction?",
+      "stem": "A 58-year-old woman is being evaluated in the cardiac catheterization laboratory. Simultaneous recordings of left ventricular and aortic pressures are obtained. The physician notes a brief period during which blood continues to flow from the ventricle into the aorta despite the aortic pressure exceeding the ventricular pressure. Which property of blood flow best explains this phenomenon during the reduced ventricular ejection phase?",
       "choices": [
         {
           "label": "A",
-          "text": "Less than 5%, because the increased heart rate enhances passive venous return that fills the ventricles more rapidly"
+          "text": "The Frank-Starling mechanism increases contractile force as ventricular volume increases during this phase"
         },
         {
           "label": "B",
-          "text": "Approximately 10% to 15%, which is the same contribution as at resting heart rates under normal conditions"
+          "text": "Elastic recoil of the aortic wall generates a pressure gradient that actively pulls blood from the ventricle"
         },
         {
           "label": "C",
-          "text": "Approximately 60%, because ventricular compliance decreases at high heart rates requiring active atrial filling"
+          "text": "The kinetic energy and inertia of the blood maintains forward flow briefly even when the pressure gradient reverses"
         },
         {
           "label": "D",
-          "text": "Up to 40%, because shortened diastole reduces passive filling time and makes the atrial kick more important"
+          "text": "Active contraction of smooth muscle in the aortic wall creates a peristaltic wave that draws blood forward"
         },
         {
           "label": "E",
-          "text": "Nearly 90%, because passive venous return essentially ceases at maximal heart rates during intense exercise"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "At maximal heart rates, diastole shortens more than systole, reducing passive filling time. Atrial contraction can provide up to 40% of ventricular filling compared to the normal 10-15% at rest.",
-        "whyCorrect": "When the heart beats more quickly, diastole shortens more than systole, leaving less time for passive ventricular filling. At maximal heart rates, atrial contraction provides up to 40% of ventricular filling.",
-        "whyWrongByChoice": {
-          "A": "The contribution of atrial contraction increases, not decreases, during tachycardia because passive filling time is shortened.",
-          "B": "At resting heart rates, atrial contraction provides about 10-15% of ventricular filling. This proportion increases substantially during tachycardia.",
-          "C": "While the atrial contribution increases significantly, 60% overstates the contribution. The source states up to 40% at maximal heart rates.",
-          "E": "Passive venous return does not cease at maximal heart rates. It still contributes the majority of filling, though atrial contraction becomes proportionally more important."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "atrial-systole",
-        "tachycardia",
-        "ventricular-filling"
-      ]
-    },
-    {
-      "id": "cp-004",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A 55-year-old man is being evaluated with a pulmonary artery catheter in the intensive care unit. The cardiologist notes that during one specific phase of the cardiac cycle, both the atrioventricular and semilunar valves are closed simultaneously while ventricular pressure is decreasing. During which phase of the cardiac cycle is this observation occurring?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Rapid ventricular ejection, during which blood exits the ventricles at peak velocity through the semilunar valves"
-        },
-        {
-          "label": "B",
-          "text": "Isovolumetric ventricular contraction, during which ventricular pressure rises with no change in blood volume"
-        },
-        {
-          "label": "C",
-          "text": "Reduced ventricular filling, during which the rate of blood entry into the ventricles progressively diminishes"
-        },
-        {
-          "label": "D",
-          "text": "Atrial systole, during which the atria contract to push residual blood into the already partially filled ventricles"
-        },
-        {
-          "label": "E",
-          "text": "Isovolumetric ventricular relaxation, during which ventricular pressure falls with no change in blood volume"
-        }
-      ],
-      "correctAnswer": "E",
-      "explanation": {
-        "summary": "During isovolumetric ventricular relaxation, all valves are closed while ventricular pressure drops. This is the only phase where both valve sets are closed and pressure is decreasing.",
-        "whyCorrect": "During isovolumetric ventricular relaxation, the semilunar valves have closed (because great vessel pressure exceeds ventricular pressure) and the atrioventricular valves have not yet opened. Pressure decreases while volume remains constant.",
-        "whyWrongByChoice": {
-          "A": "During rapid ventricular ejection, the semilunar valves are open and blood is leaving the ventricles. Both valve sets are not simultaneously closed.",
-          "B": "During isovolumetric contraction, both valve sets are closed but ventricular pressure is increasing, not decreasing as stated in the question.",
-          "C": "During reduced ventricular filling, the atrioventricular valves are open and blood is entering the ventricles. Both valve sets are not closed.",
-          "D": "During atrial systole, the atrioventricular valves are open to allow atrial blood to enter the ventricles. Both valve sets are not closed."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "isovolumetric-relaxation",
-        "valves",
-        "hemodynamics"
-      ]
-    },
-    {
-      "id": "cp-005",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A cardiologist is explaining the Wiggers diagram to medical students during a teaching session. She points to a specific waveform on the aortic pressure tracing that shows a small upward deflection occurring just after closure of the aortic valve. This deflection represents an elastic recoil of the aortic wall. Which of the following best identifies this waveform and its corresponding cardiac cycle phase?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The dicrotic notch of the aortic pressure tracing, corresponding to the isovolumetric ventricular relaxation phase"
-        },
-        {
-          "label": "B",
-          "text": "The c wave of the atrial pressure curve, corresponding to ventricular contraction pushing the AV valve backward"
-        },
-        {
-          "label": "C",
-          "text": "The a wave of the atrial pressure curve, corresponding to atrial contraction during the atrial systole phase"
-        },
-        {
-          "label": "D",
-          "text": "The v wave of the atrial pressure curve, corresponding to venous filling of the atrium against a closed AV valve"
-        },
-        {
-          "label": "E",
-          "text": "The peak systolic pressure of the aortic pressure tracing, corresponding to the rapid ventricular ejection phase"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "The dicrotic notch is an upward rebound on the aortic pressure tracing caused by elastic recoil of the aorta after aortic valve closure, corresponding to isovolumetric relaxation.",
-        "whyCorrect": "The dicrotic notch is an upward rebound of the pulse tracing that corresponds to a rebound of pressures in the elastic aorta just after closing of the aortic valve. It corresponds to isovolumetric relaxation.",
-        "whyWrongByChoice": {
-          "B": "The c wave is on the atrial pressure curve and results from ventricular contraction pushing the closed AV valve into the atrium, not from aortic elastic recoil.",
-          "C": "The a wave is on the atrial pressure curve, not the aortic pressure tracing. It represents atrial contraction, not aortic elastic recoil.",
-          "D": "The v wave is on the atrial pressure curve and results from venous filling of the atrium, not from aortic valve closure and elastic recoil.",
-          "E": "The peak systolic pressure represents the highest point of aortic pressure during ejection. The described deflection occurs after valve closure, not during peak ejection."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "dicrotic-notch",
-        "aortic-pressure",
-        "wiggers-diagram"
-      ]
-    },
-    {
-      "id": "cp-006",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A 60-year-old man with congestive heart failure is being examined at the bedside. The physician positions the patient supine with the torso at a 45-degree angle and observes a pulsation at the base of the neck. The vertical distance from the sternal angle to the topmost point of the visible impulse measures 5 cm. Which of the following is the most accurate interpretation of this finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Normal jugular venous pressure, as the measurement is within the expected range of less than 6 centimeters"
-        },
-        {
-          "label": "B",
-          "text": "Elevated jugular venous pressure indicating increased central venous pressure, often seen in right-sided heart failure"
-        },
-        {
-          "label": "C",
-          "text": "Normal jugular venous pressure reflecting adequate left ventricular systolic function and forward cardiac output"
-        },
-        {
-          "label": "D",
-          "text": "Elevated jugular venous pressure indicating left atrial hypertension due to mitral valve stenosis specifically"
-        },
-        {
-          "label": "E",
-          "text": "Normal jugular venous pressure, as this measurement is typical in patients with compensated congestive heart failure"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "A measured JVP of 5 cm exceeds the normal value of less than 3 cm, indicating elevated central venous pressure consistent with right-sided heart failure.",
-        "whyCorrect": "The normal jugular venous pressure is less than 3 cm. A JVP of 5 cm is elevated, indicating increased central venous pressure. This is often seen in right-sided heart failure, where the right ventricle cannot adequately empty, leading to increased right atrial and jugular venous pressure.",
-        "whyWrongByChoice": {
-          "A": "The normal JVP is less than 3 cm, not 6 cm. A measurement of 5 cm is clearly elevated above the normal threshold.",
-          "C": "JVP reflects right atrial pressure, not left ventricular systolic function. An elevated JVP indicates right heart dysfunction, not adequate left heart function.",
-          "D": "While mitral stenosis can eventually cause pulmonary hypertension and right heart failure, the JVP directly reflects right atrial pressure, and this finding is most directly associated with right-sided heart failure.",
-          "E": "A JVP of 5 cm is not normal regardless of the clinical context. It exceeds the normal threshold of 3 cm and indicates elevated central venous pressure."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "jugular-venous-pressure",
-        "heart-failure",
-        "physical-exam"
-      ]
-    },
-    {
-      "id": "cp-007",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A 48-year-old woman undergoes cardiac catheterization. During the procedure, left ventricular pressure and volume are measured simultaneously. The end-diastolic volume is 130 mL and the end-systolic volume is 50 mL. During which phase of the cardiac cycle is the ventricular volume at its lowest point, corresponding to the end-systolic volume?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Atrial systole, which occurs at the end of ventricular diastole when the atria contract to fill the ventricles"
-        },
-        {
-          "label": "B",
-          "text": "Isovolumetric ventricular contraction, during which the ventricles contract while all cardiac valves are closed"
-        },
-        {
-          "label": "C",
-          "text": "Rapid ventricular ejection, during which blood exits the ventricles at peak velocity into the great arterial vessels"
-        },
-        {
-          "label": "D",
-          "text": "Reduced ventricular ejection, which marks the end of ventricular systole when ejection rate has diminished"
-        },
-        {
-          "label": "E",
-          "text": "Isovolumetric ventricular relaxation, during which ventricular pressure decreases while volume remains unchanged"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The end-systolic volume (ESV) is reached at the end of the reduced ventricular ejection phase, which marks the end of ventricular systole when ventricular volume is at its lowest.",
-        "whyCorrect": "The end of the reduced ventricular ejection phase marks the end of ventricular systole. Here, the volume in the ventricles is at its lowest, termed the end-systolic volume (ESV).",
-        "whyWrongByChoice": {
-          "A": "Atrial systole occurs at the end of ventricular diastole and represents the point where ventricular volume is at its highest (end-diastolic volume), not its lowest.",
-          "B": "During isovolumetric contraction, ventricular volume does not change because all valves are closed. This phase occurs before any ejection takes place.",
-          "C": "During rapid ventricular ejection, volume is decreasing rapidly but has not yet reached its lowest point. The minimum volume occurs at the end of the subsequent reduced ejection phase.",
-          "E": "During isovolumetric relaxation, volume remains constant at the end-systolic volume level. The ESV is already established at the end of the preceding reduced ejection phase."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "end-systolic-volume",
-        "reduced-ejection",
-        "stroke-volume"
-      ]
-    },
-    {
-      "id": "cp-008",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A medical student is learning about heart sounds using a stethoscope on a standardized patient. The attending physician explains that the first heart sound (S1) corresponds to a specific mechanical event in the cardiac cycle. Which of the following correctly identifies the event producing S1 and the cardiac cycle phase it demarcates?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Closure of the aortic and pulmonary valves, marking the transition from reduced ejection to isovolumetric relaxation"
-        },
-        {
-          "label": "B",
-          "text": "Opening of the mitral and tricuspid valves, marking the transition from isovolumetric relaxation to rapid ventricular filling"
-        },
-        {
-          "label": "C",
-          "text": "Closure of the mitral and tricuspid valves, marking the end of atrial systole and the start of isovolumetric contraction"
-        },
-        {
-          "label": "D",
-          "text": "Opening of the aortic and pulmonary valves, marking the transition from isovolumetric contraction to rapid ventricular ejection"
-        },
-        {
-          "label": "E",
-          "text": "Closure of the mitral and tricuspid valves, marking the transition from rapid ventricular filling to reduced ventricular filling"
+          "text": "The semilunar valves actively open wider during this phase to compensate for the declining ventricular pressure"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "S1 corresponds to closure of the mitral and tricuspid (atrioventricular) valves, marking the end of atrial systole and the beginning of isovolumetric ventricular contraction.",
-        "whyCorrect": "The first heart sound (S1) corresponds to closure of the mitral and tricuspid valves, which marks the end of atrial systole and the start of isovolumetric contraction.",
+        "summary": "During reduced ventricular ejection, blood continues to leave the ventricle due to kinetic energy and inertia even when aortic pressure briefly exceeds ventricular pressure.",
+        "whyCorrect": "During reduced ventricular ejection, the ventricles begin to relax and the force of ejection diminishes. Blood still continues to leave the ventricles due to the kinetic energy or inertia of the blood for a short time, even when the pressure in the large arteries exceeds the ventricular pressure. This is a fundamental property of fluid dynamics.",
         "whyWrongByChoice": {
-          "A": "Closure of the aortic and pulmonary valves produces the second heart sound (S2), not S1. S2 marks the start of isovolumetric relaxation.",
-          "B": "Opening of the AV valves occurs at the start of rapid ventricular filling but does not produce S1. Valve opening is generally silent under normal conditions.",
-          "D": "Opening of the semilunar valves marks the transition from isovolumetric contraction to rapid ejection but does not produce S1. Valve openings are generally silent.",
-          "E": "The mitral and tricuspid valves do not close during the transition from rapid to reduced ventricular filling. During both filling phases, these valves remain open."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "heart-sounds",
-        "S1",
-        "atrioventricular-valves"
-      ]
-    },
-    {
-      "id": "cp-009",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A 70-year-old man with right-sided heart failure is being evaluated. A jugular venous pressure tracing reveals a prominent waveform occurring during the ventricular ejection phase and into early isovolumetric relaxation, caused by continued venous return filling the right atrium against a closed tricuspid valve. Which waveform component does this represent?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "The a wave, which reflects the pressure increase generated by active contraction of the right atrial myocardium"
-        },
-        {
-          "label": "B",
-          "text": "The c wave, which reflects ventricular contraction causing slight displacement of the closed tricuspid valve"
-        },
-        {
-          "label": "C",
-          "text": "The x descent, which reflects the decrease in atrial pressure during ventricular ejection and atrial relaxation"
-        },
-        {
-          "label": "D",
-          "text": "The v wave, which reflects gradual pressure buildup from venous return filling against the closed tricuspid valve"
-        },
-        {
-          "label": "E",
-          "text": "The y descent, which reflects the rapid decrease in atrial pressure when the tricuspid valve opens during diastole"
-        }
-      ],
-      "correctAnswer": "D",
-      "explanation": {
-        "summary": "The v wave represents the gradual increase in right atrial pressure from continued venous return filling the atrium while the tricuspid valve is closed during ventricular contraction and into isovolumetric relaxation.",
-        "whyCorrect": "The v wave occurs as venous return continues to fill the right atrium while the tricuspid valve is closed. This slow pressure increase occurs throughout ventricular contraction and into isovolumetric relaxation.",
-        "whyWrongByChoice": {
-          "A": "The a wave results from active atrial contraction during atrial systole, not from passive venous filling against a closed valve.",
-          "B": "The c wave is a brief bump caused by ventricular contraction pushing the tricuspid valve back into the atrium during isovolumetric contraction, not sustained filling during ejection.",
-          "C": "The x descent represents a drop in atrial pressure from ventricular ejection and atrial relaxation, the opposite of the pressure increase described.",
-          "E": "The y descent occurs when the tricuspid valve opens and blood empties from the atrium into the ventricle during rapid ventricular filling, representing a pressure decrease, not an increase."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "cardiac-cycle",
-        "jugular-venous-pressure",
-        "v-wave",
-        "right-atrial-pressure"
-      ]
-    },
-    {
-      "id": "cp-010",
-      "topicId": "cardiac-cycle",
-      "topicName": "Cardiac Cycle",
-      "stem": "A physiology professor is discussing the cardiac cycle with second-year medical students. She explains that during one phase, blood continues to leave the ventricle even though the pressure in the aorta momentarily exceeds ventricular pressure. She attributes this continued forward flow to the kinetic energy of the moving blood. Which phase of the cardiac cycle is she describing?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Rapid ventricular ejection, during which ventricular pressure greatly exceeds aortic pressure and peak flow occurs"
-        },
-        {
-          "label": "B",
-          "text": "Reduced ventricular ejection, during which forward flow persists briefly due to blood inertia despite declining pressure"
-        },
-        {
-          "label": "C",
-          "text": "Isovolumetric ventricular contraction, during which pressure builds rapidly but no blood exits the ventricular chamber"
-        },
-        {
-          "label": "D",
-          "text": "Isovolumetric ventricular relaxation, during which all valves are closed and no blood movement occurs in the ventricles"
-        },
-        {
-          "label": "E",
-          "text": "Rapid ventricular filling, during which blood passively enters the ventricles from the atria through open AV valves"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "During reduced ventricular ejection, blood continues to leave the ventricles due to kinetic energy (inertia) even when aortic pressure momentarily exceeds ventricular pressure.",
-        "whyCorrect": "During reduced ventricular ejection, as the ventricles begin to relax, the pressure gradient from ventricles to arteries is reduced. Blood still continues to leave due to the kinetic energy or inertia of the blood, even when the pressure in large arteries exceeds ventricular pressure.",
-        "whyWrongByChoice": {
-          "A": "During rapid ventricular ejection, ventricular pressure exceeds aortic pressure, creating a strong forward pressure gradient. Blood flow is driven by this pressure difference, not inertia.",
-          "C": "During isovolumetric contraction, all valves are closed and no blood exits the ventricles. There is no forward flow during this phase.",
-          "D": "During isovolumetric relaxation, the semilunar valves are closed and no blood leaves the ventricles. Volume remains constant.",
-          "E": "During rapid ventricular filling, blood enters the ventricles from the atria. This is a filling phase, not an ejection phase."
+          "A": "The Frank-Starling mechanism relates to the force of contraction based on preload (end-diastolic volume) at the start of systole. It does not explain continued flow during the reduced ejection phase when the ventricle is already partially emptied.",
+          "B": "Elastic recoil of the aortic wall stores energy during systole and releases it during diastole to maintain forward flow in the arterial system. However, during reduced ejection, the aortic valve is still open and recoil is not pulling blood from the ventricle.",
+          "D": "The aorta does not have peristaltic contractions. While the aortic wall contains smooth muscle, it does not actively contract in a peristaltic fashion to propel blood. Forward flow is maintained by elastic recoil and blood momentum.",
+          "E": "Semilunar valves are passive structures that open and close based on pressure gradients. They do not actively open wider. They close when the pressure gradient fully reverses and flow stops."
         }
       },
       "difficulty": "hard",
@@ -469,45 +142,378 @@
         "cardiac-cycle",
         "reduced-ejection",
         "blood-inertia",
-        "hemodynamics"
+        "ventricular-ejection"
+      ]
+    },
+    {
+      "id": "cp-004",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 74-year-old man with known right-sided heart failure is examined in the clinic. The physician places him at a 45-degree angle and observes prominent pulsations in the neck. The measured jugular venous pressure is 8 cm above the sternal angle. The physician observes the waveform pattern and notes a prominent wave occurring during ventricular systole while the tricuspid valve is closed and venous blood is accumulating in the right atrium. Which component of the jugular venous pressure waveform corresponds to this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The a wave, representing the peak in pressure resulting from forceful right atrial contraction during atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "The c wave, representing the brief pressure increase from ventricular contraction bulging the closed tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "The x descent, representing the decrease in atrial pressure as the ventricle ejects blood and the atrium relaxes"
+        },
+        {
+          "label": "D",
+          "text": "The v wave, representing the gradual pressure increase from continued venous return against the closed tricuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "The y descent, representing the rapid decrease in atrial pressure when the tricuspid valve opens during early diastole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The v wave represents passive venous filling of the right atrium during ventricular systole while the tricuspid valve is closed, causing a gradual increase in atrial pressure.",
+        "whyCorrect": "With the tricuspid valve closed during ventricular systole, venous return continues to fill the right atrium. This causes a slow, gradual increase in atrial pressure known as the v wave. It occurs throughout ventricular contraction and into isovolumetric relaxation. The 'v' stands for venous filling.",
+        "whyWrongByChoice": {
+          "A": "The a wave represents atrial contraction (atrial systole), which occurs before ventricular systole and before the tricuspid valve closes. It does not occur during ventricular systole with a closed tricuspid valve.",
+          "B": "The c wave is a brief, small bump caused by ventricular contraction pushing the closed tricuspid valve back into the atrium during isovolumetric contraction. It is transient, not a gradual accumulation of venous blood.",
+          "C": "The x descent represents a decrease in atrial pressure from atrial relaxation and ventricular ejection. It shows declining pressure, not the accumulation of blood described in the stem.",
+          "E": "The y descent occurs when the tricuspid valve opens during rapid ventricular filling, allowing blood to flow from the atrium into the ventricle. The stem specifies the tricuspid valve is closed, so this cannot be the y descent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "jugular-venous-pressure",
+        "v-wave",
+        "right-atrial-pressure",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "cp-005",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 50-year-old woman undergoes an exercise stress test for evaluation of exertional dyspnea. At rest, her heart rate is 70 bpm, end-diastolic volume is 120 mL, and end-systolic volume is 50 mL. During peak exercise, her heart rate increases to 170 bpm, end-diastolic volume is 140 mL, and end-systolic volume is 30 mL. What is the change in her stroke volume from rest to peak exercise, and which cardiac cycle phase is most shortened to accommodate the increased heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stroke volume increases by 40 mL; isovolumetric contraction is most shortened as the ventricle contracts faster"
+        },
+        {
+          "label": "B",
+          "text": "Stroke volume increases by 40 mL; diastolic filling phases are most shortened because diastole shortens more than systole"
+        },
+        {
+          "label": "C",
+          "text": "Stroke volume decreases by 20 mL; rapid ejection is most shortened due to increased afterload during exercise"
+        },
+        {
+          "label": "D",
+          "text": "Stroke volume increases by 20 mL; atrial systole is most shortened since the atria cannot contract at high rates"
+        },
+        {
+          "label": "E",
+          "text": "Stroke volume remains unchanged at 70 mL; all phases shorten equally to accommodate the increased heart rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SV at rest = 120-50 = 70 mL; SV at peak = 140-30 = 110 mL; increase of 40 mL. Diastole shortens more than systole during tachycardia.",
+        "whyCorrect": "Stroke volume = EDV - ESV. At rest: 120 - 50 = 70 mL. At peak exercise: 140 - 30 = 110 mL. The increase is 40 mL. When heart rate increases, both systole and diastole shorten, but diastole shortens disproportionately more than systole. This means the filling phases (rapid and reduced ventricular filling) are most shortened.",
+        "whyWrongByChoice": {
+          "A": "While the stroke volume calculation of 40 mL increase is correct, isovolumetric contraction is not the phase most shortened. Diastolic filling phases shorten disproportionately more than systolic phases during tachycardia.",
+          "C": "The stroke volume actually increases, not decreases. At rest SV = 70 mL, at peak SV = 110 mL. This is an increase of 40 mL, driven by both increased EDV (Frank-Starling) and decreased ESV (enhanced contractility).",
+          "D": "The stroke volume increase is 40 mL (110 - 70), not 20 mL. While atrial systole does shorten, the overall diastolic filling period (both rapid and reduced filling phases) is what shortens most substantially.",
+          "E": "Stroke volume changes from 70 mL to 110 mL, an increase of 40 mL, not unchanged. Additionally, all phases do not shorten equally; diastole shortens disproportionately more than systole."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "stroke-volume",
+        "exercise",
+        "diastole",
+        "heart-rate"
+      ]
+    },
+    {
+      "id": "cp-006",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 55-year-old man is undergoing cardiac catheterization. The cardiologist records simultaneous left ventricular and aortic pressure tracings. She notices a small upward deflection in the aortic pressure tracing that occurs immediately after the aortic valve closes. This deflection is sometimes visible as a brief notch in the carotid artery pulse tracing on physical examination. Which phase of the cardiac cycle does this deflection correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial systole, when the atria contract and increase the pressure transmitted retrograde to the aortic root"
+        },
+        {
+          "label": "B",
+          "text": "Rapid ventricular ejection, when maximal blood flow from the ventricle causes peak pressure in the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Reduced ventricular ejection, when the declining ventricular pressure creates turbulent flow in the aortic root"
+        },
+        {
+          "label": "D",
+          "text": "Isovolumetric relaxation, when elastic recoil of the aorta against the closed aortic valve produces a pressure rebound"
+        },
+        {
+          "label": "E",
+          "text": "Rapid ventricular filling, when the opening of the mitral valve causes a transient increase in aortic root pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The dicrotic notch is an upward rebound in the aortic pressure tracing caused by elastic recoil of the aorta against the closed aortic valve, corresponding to isovolumetric relaxation.",
+        "whyCorrect": "The dicrotic notch is an upward rebound of the aortic pressure tracing that corresponds to a rebound of pressures in the elastic aorta just after closing of the aortic valve. This occurs at the beginning of isovolumetric relaxation, when the aortic and pulmonary valves have just closed. It can sometimes be observed in the carotid artery pulse tracing.",
+        "whyWrongByChoice": {
+          "A": "Atrial systole occurs during late diastole, well before and temporally distant from the dicrotic notch. Atrial contraction does not produce retrograde pressure changes in the aorta since the aortic valve is closed during diastole.",
+          "B": "Rapid ventricular ejection produces the peak of the aortic pressure curve (systolic peak), not the dicrotic notch. The dicrotic notch occurs after ejection is complete and the aortic valve closes.",
+          "C": "During reduced ventricular ejection, aortic pressure is declining but the aortic valve is still open. The dicrotic notch occurs specifically after valve closure, not during the ejection phase.",
+          "E": "Rapid ventricular filling involves opening of the mitral valve, not the aortic valve. This phase occurs after isovolumetric relaxation and does not cause pressure changes in the aortic root."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "dicrotic-notch",
+        "aortic-pressure",
+        "isovolumetric-relaxation"
+      ]
+    },
+    {
+      "id": "cp-007",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 70-year-old woman with severe tricuspid regurgitation is examined by a cardiology fellow. On inspection of the jugular venous pulsations, the fellow notices prominent large waves occurring simultaneously with ventricular systole, replacing the normal x descent. The attending explains that regurgitant blood flowing backward through the incompetent tricuspid valve during ventricular contraction produces these giant waves. Which normal waveform component is being replaced and amplified by the regurgitant flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The a wave, which normally represents the pressure peak from atrial contraction during atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "The c wave, which normally represents the brief pressure increase from the tricuspid valve bulging during isovolumetric contraction"
+        },
+        {
+          "label": "C",
+          "text": "The v wave, which normally represents gradual venous filling pressure but is now massively augmented by regurgitant systolic flow"
+        },
+        {
+          "label": "D",
+          "text": "The y descent, which normally represents the pressure drop from tricuspid valve opening during rapid ventricular filling"
+        },
+        {
+          "label": "E",
+          "text": "The x descent, which normally represents the pressure drop from atrial relaxation and is now obliterated by systolic backflow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In tricuspid regurgitation, giant cv waves or prominent v waves occur because regurgitant blood flows back into the right atrium during ventricular systole, massively augmenting the normal v wave.",
+        "whyCorrect": "The v wave normally represents the gradual increase in right atrial pressure from venous return during ventricular systole while the tricuspid valve is closed. In tricuspid regurgitation, the incompetent valve allows blood to regurgitate back into the right atrium during ventricular contraction, causing a massive augmentation of the v wave (giant v wave or cv wave). The stem describes waves during ventricular systole, which is when the v wave occurs.",
+        "whyWrongByChoice": {
+          "A": "The a wave occurs during atrial systole, before ventricular contraction. While giant a waves occur in other conditions (tricuspid stenosis, pulmonary hypertension), the stem specifically describes waves during ventricular systole, which corresponds to the v wave.",
+          "B": "The c wave is a brief, small bump during isovolumetric contraction. While tricuspid regurgitation does affect events during systole, the prominent waves described represent a massive augmentation of the v wave rather than just the c wave.",
+          "D": "The y descent occurs after the tricuspid valve opens during rapid ventricular filling (diastole). The stem describes events during ventricular systole, not diastole.",
+          "E": "While the x descent is indeed obliterated in tricuspid regurgitation, the x descent represents a pressure drop (descent), not a wave. The question asks which waveform is being replaced and amplified; the v wave is the waveform augmented by regurgitant flow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "tricuspid-regurgitation",
+        "jugular-venous-pressure",
+        "v-wave"
+      ]
+    },
+    {
+      "id": "cp-008",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 63-year-old man with long-standing hypertension presents with exertional dyspnea. Echocardiography reveals concentric left ventricular hypertrophy with preserved ejection fraction. His end-diastolic volume is 100 mL and end-systolic volume is 35 mL. Cardiac catheterization shows that left ventricular pressure rises from 8 mmHg to 120 mmHg during a phase in which the ventricle is contracting but no blood is entering or leaving the chamber. During this specific phase, what is the status of the cardiac valves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The mitral valve is open and the aortic valve is closed, allowing continued filling from the left atrium"
+        },
+        {
+          "label": "B",
+          "text": "Both the mitral and aortic valves are open, permitting simultaneous filling and ejection of blood"
+        },
+        {
+          "label": "C",
+          "text": "The mitral valve is closed and the aortic valve is open, permitting ejection of blood into the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Both the mitral and aortic valves are closed, creating a sealed chamber for pressure buildup only"
+        },
+        {
+          "label": "E",
+          "text": "The aortic valve is open and the pulmonary valve is closed, directing all output to the systemic circulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During isovolumetric contraction, both the AV valves (mitral/tricuspid) and semilunar valves (aortic/pulmonary) are closed, creating a sealed chamber where pressure rises without volume change.",
+        "whyCorrect": "The phase described — ventricular pressure rising with no blood entering or leaving — is isovolumetric contraction. At its onset, rising ventricular pressure exceeds atrial pressure, closing the mitral valve (producing S1). The aortic valve remains closed because ventricular pressure has not yet exceeded aortic pressure. With both valves closed, the ventricle contracts as a sealed chamber, building pressure without changing volume.",
+        "whyWrongByChoice": {
+          "A": "If the mitral valve were open, blood could flow between the atrium and ventricle, and the phase would not be isovolumetric. The mitral valve closes at the beginning of this phase when ventricular pressure exceeds atrial pressure.",
+          "B": "Both valves are never simultaneously open during any phase of the normal cardiac cycle. This would create direct flow from atrium through ventricle to aorta, which does not occur physiologically.",
+          "C": "If the aortic valve were open, blood would be ejected into the aorta, which would be the ejection phase, not isovolumetric contraction. The aortic valve opens only when ventricular pressure exceeds aortic pressure, marking the end of isovolumetric contraction.",
+          "E": "The aortic and pulmonary valves function on their respective sides of the heart. The left-sided events described involve the mitral and aortic valves. During isovolumetric contraction, both are closed; the pulmonary valve status pertains to the right heart."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "isovolumetric-contraction",
+        "valve-status",
+        "hypertension"
+      ]
+    },
+    {
+      "id": "cp-009",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 40-year-old woman undergoes right heart catheterization for evaluation of pulmonary hypertension. The right atrial pressure tracing shows the normal waveform components. The cardiologist points to a brief pressure increase that occurs just after the a wave descends and correlates it with a specific cardiac cycle event. This small deflection is caused by the right ventricle beginning to contract, which closes the tricuspid valve and briefly pushes it back into the right atrium. During which phase of the cardiac cycle does this deflection occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial systole, when the atria are actively contracting and pushing blood into the ventricles"
+        },
+        {
+          "label": "B",
+          "text": "Rapid ventricular ejection, when the pulmonary valve is open and blood is flowing into the pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Isovolumetric ventricular contraction, when the ventricle contracts with all valves closed and the tricuspid bulges atrium-ward"
+        },
+        {
+          "label": "D",
+          "text": "Isovolumetric ventricular relaxation, when the ventricle relaxes with all valves closed before the tricuspid opens"
+        },
+        {
+          "label": "E",
+          "text": "Rapid ventricular filling, when the tricuspid valve opens and blood rushes passively from the atrium into the ventricle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The c wave on the right atrial pressure tracing occurs during isovolumetric contraction when the contracting ventricle pushes the closed tricuspid valve back into the right atrium.",
+        "whyCorrect": "The c wave is a slight bump in the atrial pressure tracing caused by ventricular contraction against the closed tricuspid valve. The contraction closes the valve and pushes it slightly back into the right atrium, increasing atrial pressure briefly. This occurs during isovolumetric contraction, when all valves are closed and the ventricle is building pressure.",
+        "whyWrongByChoice": {
+          "A": "Atrial systole produces the a wave, not the c wave. During atrial systole, the atria are actively contracting, which is a different event from ventricular contraction pushing on the closed tricuspid valve.",
+          "B": "During rapid ventricular ejection, the pulmonary valve is open and blood is flowing out of the ventricle. The x descent, not the c wave, is occurring in the atrial pressure tracing during this phase.",
+          "D": "During isovolumetric relaxation, the ventricle is relaxing and pressure is falling. The v wave is completing during this phase. The tricuspid valve does not bulge into the atrium during relaxation.",
+          "E": "During rapid ventricular filling, the tricuspid valve is open and blood flows from the atrium into the ventricle. This corresponds to the y descent in the atrial pressure tracing, not the c wave."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "c-wave",
+        "atrial-pressure",
+        "isovolumetric-contraction",
+        "tricuspid-valve"
+      ]
+    },
+    {
+      "id": "cp-010",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 78-year-old man with a history of myocardial infarction presents with progressive dyspnea and orthopnea. Physical examination reveals bibasilar crackles, an S3 gallop, and jugular venous distention. His echocardiogram shows a dilated left ventricle with an ejection fraction of 20%, an end-diastolic volume of 250 mL, and an end-systolic volume of 200 mL. Despite the severely reduced ejection fraction, the patient's stroke volume is calculated. What is this patient's stroke volume, and how does it compare to a healthy individual with an EDV of 120 mL and an ESV of 50 mL?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patient SV is 50 mL, which is reduced compared to the normal SV of 70 mL, reflecting impaired systolic function"
+        },
+        {
+          "label": "B",
+          "text": "Patient SV is 200 mL, which is increased because the dilated ventricle ejects more blood per contraction cycle"
+        },
+        {
+          "label": "C",
+          "text": "Patient SV is 70 mL, which is identical to normal because the Frank-Starling mechanism fully compensates for dysfunction"
+        },
+        {
+          "label": "D",
+          "text": "Patient SV is 250 mL, which equals the end-diastolic volume since the entire ventricular content is ejected each beat"
+        },
+        {
+          "label": "E",
+          "text": "Patient SV is 120 mL, which is increased compared to normal because the dilated ventricle has greater preload stretch"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SV = EDV - ESV. Patient: 250 - 200 = 50 mL. Normal: 120 - 50 = 70 mL. The patient's SV is reduced despite a dilated ventricle, reflecting impaired systolic function.",
+        "whyCorrect": "Stroke volume is calculated as EDV minus ESV. For this patient: 250 - 200 = 50 mL. For a healthy individual: 120 - 50 = 70 mL. Despite having a much larger EDV due to ventricular dilation, the severely reduced ejection fraction (20%) means most of the blood remains in the ventricle after contraction, resulting in a lower stroke volume than normal.",
+        "whyWrongByChoice": {
+          "B": "SV is EDV minus ESV (250 - 200 = 50 mL), not 200 mL. The ESV is not the stroke volume. This answer confuses the end-systolic volume with the amount of blood ejected.",
+          "C": "The patient's SV is 50 mL, not 70 mL. While the Frank-Starling mechanism does attempt to compensate (the increased EDV stretches the ventricle), the severely damaged myocardium cannot generate adequate contractile force, so compensation is incomplete.",
+          "D": "The EDV (250 mL) is not the stroke volume. SV = EDV - ESV = 50 mL. The entire ventricular content is never ejected; some blood always remains (ESV). An ejection fraction of 100% is physiologically impossible.",
+          "E": "The patient's SV is 50 mL (250 - 200), not 120 mL. While increased preload does stretch the ventricle, the severely impaired contractility prevents adequate ejection, resulting in a reduced, not increased, stroke volume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "stroke-volume",
+        "ejection-fraction",
+        "heart-failure",
+        "EDV-ESV"
       ]
     },
     {
       "id": "cp-011",
       "topicId": "cardiac-cycle",
       "topicName": "Cardiac Cycle",
-      "stem": "A 52-year-old woman undergoes an electrocardiogram during a routine evaluation. The cardiologist notes that the P wave on the ECG tracing slightly precedes the increase in left atrial pressure recorded on an invasive hemodynamic tracing. Which of the following best explains this temporal relationship between the electrical and mechanical events of the cardiac cycle?",
+      "stem": "A 45-year-old woman presents to the emergency department with palpitations and lightheadedness. An ECG shows atrial fibrillation with a ventricular rate of 150 bpm. The physician explains to a medical student that the P wave on a normal ECG precedes the mechanical event it triggers, because electrical activation precedes mechanical contraction. The student asks which specific relationship between ECG and mechanical events illustrates this concept. Which of the following correctly pairs an ECG event with the mechanical event it most closely precedes?",
       "choices": [
         {
           "label": "A",
-          "text": "The ECG artifact introduces a delay in the electrical signal that makes it appear to precede the mechanical event"
+          "text": "The T wave directly triggers closure of the atrioventricular valves and production of the first heart sound"
         },
         {
           "label": "B",
-          "text": "Actual cardiac muscle contraction lags behind the electrical impulse because excitation-contraction coupling requires time"
+          "text": "The QRS complex directly triggers opening of the semilunar valves and the start of rapid ventricular ejection"
         },
         {
           "label": "C",
-          "text": "The P wave represents ventricular depolarization, which naturally occurs before atrial mechanical contraction begins"
+          "text": "The P wave precedes the increase in left atrial pressure from atrial contraction, with a slight delay for mechanical coupling"
         },
         {
           "label": "D",
-          "text": "The left atrial pressure increase is dampened by the mitral valve, creating an apparent delay after the P wave"
+          "text": "The U wave triggers the rapid ventricular filling phase by causing relaxation of the ventricular papillary muscles"
         },
         {
           "label": "E",
-          "text": "The electrical conduction velocity through the atrial myocardium is slower than through ventricular myocardium"
+          "text": "The PR interval directly corresponds to the duration of isovolumetric contraction of the ventricular myocardium"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "The ECG impulse precedes the mechanical event because actual cardiac muscle contraction lags behind the electrical impulse due to the time required for excitation-contraction coupling.",
-        "whyCorrect": "The source material states that actual cardiac muscle contraction lags a bit behind the electrical impulse. The P wave starts before the increase in left atrial pressure because the ECG represents electrical activity, and mechanical contraction follows after a brief delay.",
+        "summary": "The ECG impulse precedes the corresponding mechanical event. The P wave (atrial depolarization) starts before the increase in left atrial pressure from atrial contraction, with a slight delay for electromechanical coupling.",
+        "whyCorrect": "The source material specifically states that the ECG impulse precedes the change in cardiac pressure. For example, the P wave starts before the increase in left atrial pressure, and the Q wave happens before the increase in LV pressure. This is because actual cardiac muscle contraction lags slightly behind the electrical impulse. The P wave to atrial contraction relationship exemplifies this principle.",
         "whyWrongByChoice": {
-          "A": "This is not an ECG artifact. The temporal offset is a physiologic phenomenon reflecting the natural delay between electrical depolarization and mechanical contraction.",
-          "C": "The P wave represents atrial depolarization, not ventricular depolarization. The QRS complex represents ventricular depolarization.",
-          "D": "The delay is not caused by mitral valve dampening. It is due to the inherent lag between electrical depolarization and mechanical contraction of the atrial myocardium.",
-          "E": "While conduction velocities differ between atrial and ventricular tissue, this does not explain why the P wave precedes the mechanical atrial contraction. The delay is due to excitation-contraction coupling time."
+          "A": "The T wave represents ventricular repolarization (relaxation), not contraction. AV valve closure (S1) is triggered by ventricular contraction, which follows the QRS complex, not the T wave.",
+          "B": "The QRS complex triggers ventricular contraction (depolarization), but this leads first to isovolumetric contraction (all valves closed), not directly to semilunar valve opening. Semilunar valve opening occurs only after ventricular pressure exceeds arterial pressure.",
+          "D": "The U wave is an inconstant finding on ECG whose significance is debated. It does not trigger rapid ventricular filling or papillary muscle relaxation in any established physiological model.",
+          "E": "The PR interval represents the time from atrial depolarization to ventricular depolarization (conduction through the AV node). It does not correspond to the duration of isovolumetric contraction, which occurs after the QRS complex."
         }
       },
       "difficulty": "hard",
@@ -516,54 +522,56 @@
         "cardiac-cycle",
         "ECG",
         "electromechanical-coupling",
-        "P-wave"
+        "P-wave",
+        "atrial-contraction"
       ]
     },
     {
       "id": "cp-012",
       "topicId": "cardiac-cycle",
       "topicName": "Cardiac Cycle",
-      "stem": "A healthy 25-year-old woman is resting quietly. Her resting heart rate is 65 beats per minute. Under these conditions, the majority of ventricular filling occurs passively without any contribution from atrial contraction. During which phase of the cardiac cycle does the greatest proportion of ventricular filling take place?",
+      "stem": "A 66-year-old man with right-sided heart failure is being evaluated. His jugular venous pressure is elevated at 10 cm above the sternal angle. The physician examines the jugular venous waveform and identifies a downward deflection that occurs during early diastole, immediately after the tricuspid valve opens and blood flows from the right atrium into the right ventricle. This deflection reflects the rapid decrease in right atrial volume and pressure. Which component of the jugular venous pressure waveform does this represent?",
       "choices": [
         {
           "label": "A",
-          "text": "Atrial systole, during which the atria actively contract to push remaining blood into the ventricles below"
+          "text": "The a wave, which represents the pressure increase from right atrial contraction during the atrial systole phase"
         },
         {
           "label": "B",
-          "text": "Isovolumetric ventricular relaxation, during which ventricular pressure drops while all cardiac valves remain closed"
+          "text": "The x descent, which represents the pressure decrease from atrial relaxation and ventricular ejection during systole"
         },
         {
           "label": "C",
-          "text": "Reduced ventricular ejection, during which the ventricles are still ejecting blood but at a decreasing rate"
+          "text": "The c wave, which represents the brief pressure increase from the tricuspid valve bulging during isovolumetric contraction"
         },
         {
           "label": "D",
-          "text": "Reduced ventricular filling, during which the pressure gradient between atria and ventricles has nearly equalized"
+          "text": "The v wave, which represents the gradual pressure buildup from venous return while the tricuspid valve is still closed"
         },
         {
           "label": "E",
-          "text": "Rapid ventricular filling, during which the AV valves open and blood passively rushes into the relaxed ventricles"
+          "text": "The y descent, which represents the pressure decrease as blood empties from the right atrium into the right ventricle during filling"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Rapid ventricular filling is responsible for 85-90% of ventricular filling. Blood passively enters the ventricles when the AV valves open, driven by the pressure gradient from atria to ventricles.",
-        "whyCorrect": "Rapid ventricular filling accounts for 85% to 90% of ventricular filling (passive), while atrial systole actively contributes only the remaining 10% to 15%. This is the phase where the AV valves open and blood rapidly enters the ventricles.",
+        "summary": "The y descent represents the decrease in right atrial pressure when the tricuspid valve opens and blood flows passively from the atrium into the ventricle during rapid ventricular filling.",
+        "whyCorrect": "The y descent occurs when the tricuspid valve opens during the rapid ventricular filling phase of the cardiac cycle. Blood that has been collecting in the right atrium while the tricuspid valve was closed can now passively enter the right ventricle, causing right atrial volume and pressure to decrease. The 'y' mnemonic stands for 'emptYing of the atrium.'",
         "whyWrongByChoice": {
-          "A": "Atrial systole contributes only about 10-15% of ventricular filling at normal resting heart rates. It 'tops off' blood that is already in the ventricles.",
-          "B": "During isovolumetric relaxation, all valves are closed and no blood enters the ventricles. Volume remains constant during this phase.",
-          "C": "During reduced ventricular ejection, blood is leaving the ventricles, not entering them. This is a systolic phase, not a filling phase.",
-          "D": "During reduced ventricular filling, the pressure gradient between atria and ventricles has nearly equalized, so filling slows dramatically. Only a small amount of filling occurs during this phase."
+          "A": "The a wave is an upward deflection (pressure increase), not a downward deflection. It occurs during atrial systole from atrial contraction, not during early diastole after tricuspid valve opening.",
+          "B": "The x descent is a downward deflection that occurs during ventricular systole, not early diastole. It results from atrial relaxation and ventricular ejection pulling the base of the heart downward. The timing does not match the stem's description of events after tricuspid valve opening.",
+          "C": "The c wave is an upward deflection (pressure increase), not a downward deflection. It occurs during isovolumetric contraction, not during early diastole.",
+          "D": "The v wave is an upward deflection (gradual pressure increase) from venous return while the tricuspid valve is closed during systole. It does not represent a decrease in pressure after the tricuspid valve opens."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
         "cardiac-cycle",
+        "y-descent",
+        "jugular-venous-pressure",
         "rapid-ventricular-filling",
-        "passive-filling",
-        "diastole"
+        "right-heart"
       ]
     },
     {
