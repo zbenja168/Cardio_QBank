@@ -126,6 +126,7 @@ function App() {
           onStartQuiz={handleStartQuiz}
           onGoToDashboard={handleGoToDashboard}
           onGoToReview={handleGoToReview}
+          onClearProgress={clearAllProgress}
         />
       );
   }

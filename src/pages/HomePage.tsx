@@ -15,12 +15,13 @@ interface Props {
   onStartQuiz: () => void;
   onGoToDashboard: () => void;
   onGoToReview: () => void;
+  onClearProgress: () => void;
 }
 
 export function HomePage({
   topics, selectedTopicIds, selectedCount, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
-  onStartQuiz, onGoToDashboard, onGoToReview,
+  onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
   const stats = getOverallStats(progress);
   const bookmarkCount = progress.bookmarkedQuestions.length;
@@ -56,7 +57,7 @@ export function HomePage({
 
       <main className="max-w-5xl mx-auto px-4 py-8">
         {/* Stats summary */}
-        {stats.total > 0 && (
+        {stats.total > 0 && (<>
           <div className="grid grid-cols-3 gap-4 mb-8">
             <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
               <div className="text-2xl font-bold text-slate-200">{stats.total}</div>
@@ -71,7 +72,19 @@ export function HomePage({
               <div className="text-sm text-slate-400">Remaining</div>
             </div>
           </div>
-        )}
+          <div className="text-right">
+            <button
+              onClick={() => {
+                if (window.confirm('Clear all progress? This cannot be undone.')) {
+                  onClearProgress();
+                }
+              }}
+              className="text-sm text-red-400 hover:text-red-300 transition-colors"
+            >
+              Reset Progress
+            </button>
+          </div>
+        </>)}
 
         {/* Filter controls */}
         <div className="flex items-center justify-between mb-4">
