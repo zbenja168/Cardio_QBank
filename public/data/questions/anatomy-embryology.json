@@ -1,0 +1,2465 @@
+{
+  "categoryId": "anatomy-embryology",
+  "categoryName": "Anatomy & Embryology",
+  "questions": [
+    {
+      "id": "ae-001",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 68-year-old man with a 50-pack-year smoking history presents with facial plethora, bilateral upper extremity edema, and dilated superficial veins across the anterior chest wall. CT of the chest reveals a large mass in the region between the sternum anteriorly, the pericardium posteriorly, and the thoracic inlet superiorly. Which of the following structures is most likely directly compressed by this mass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracic aorta as it descends along the left side of the vertebral column"
+        },
+        {
+          "label": "B",
+          "text": "Superior vena cava as it drains into the right atrium of the heart"
+        },
+        {
+          "label": "C",
+          "text": "Esophagus as it passes posterior to the left main bronchus in the thorax"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic duct as it ascends between the aorta and the azygos vein"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic trunk as it courses along the heads of the thoracic ribs"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The presentation describes superior vena cava (SVC) syndrome, caused by compression of the SVC in the superior/anterior mediastinum, most commonly by a bronchogenic carcinoma or lymphoma.",
+        "whyCorrect": "The SVC is located in the superior mediastinum and extends into the middle mediastinum. A mass in the anterior/superior mediastinum directly compresses the SVC, leading to impaired venous drainage from the head, neck, and upper extremities, producing facial plethora, upper extremity edema, and collateral venous distension across the chest wall.",
+        "whyWrongByChoice": {
+          "A": "The thoracic (descending) aorta is located in the posterior mediastinum along the vertebral column, not in the anterior/superior mediastinum where this mass is located.",
+          "C": "The esophagus traverses the posterior mediastinum behind the trachea and left main bronchus and would not be compressed by an anterior mediastinal mass.",
+          "D": "The thoracic duct ascends in the posterior mediastinum between the aorta and azygos vein, far from the anterior compartment where this mass is located.",
+          "E": "The sympathetic trunk runs along the costovertebral junctions in the posterior mediastinum and is not in the path of an anterior mediastinal mass."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "superior-mediastinum",
+        "SVC-syndrome"
+      ]
+    },
+    {
+      "id": "ae-002",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 35-year-old woman with myasthenia gravis is scheduled for thymectomy. Preoperative imaging shows an enlarged thymus in the anterior mediastinum. Which of the following sets of boundaries most accurately defines the anterior mediastinum where the thymus is located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior surface of the sternum anteriorly and anterior surface of the pericardium posteriorly"
+        },
+        {
+          "label": "B",
+          "text": "Thoracic inlet superiorly and anterior surface of the vertebral bodies posteriorly"
+        },
+        {
+          "label": "C",
+          "text": "Anterior surface of the pericardium anteriorly and posterior surface of the sternum posteriorly"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragm inferiorly and posterior surface of the trachea posteriorly at the level of T4"
+        },
+        {
+          "label": "E",
+          "text": "Pericardium anteriorly and anterior longitudinal ligament of the vertebral bodies posteriorly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The anterior mediastinum is bounded by the posterior surface of the sternum anteriorly and the anterior surface of the pericardium posteriorly. It contains the thymus, fat, and lymph nodes.",
+        "whyCorrect": "The anterior mediastinum is the space between the posterior aspect of the sternum and the anterior surface of the pericardial sac. This subdivision of the inferior mediastinum contains the thymus (or thymic remnants), internal thoracic vessels, fat, and lymph nodes.",
+        "whyWrongByChoice": {
+          "C": "This reverses the correct boundaries. The sternum is the anterior boundary and the pericardium is the posterior boundary, not the other way around.",
+          "B": "The thoracic inlet is the superior boundary of the superior mediastinum, not the anterior mediastinum. The vertebral bodies form the posterior boundary of the posterior mediastinum.",
+          "D": "While the diaphragm is the inferior boundary of all inferior mediastinal compartments, the trachea at T4 is the landmark dividing the superior from the inferior mediastinum, not a boundary of the anterior mediastinum.",
+          "E": "This describes boundaries more consistent with the posterior mediastinum (vertebral bodies posteriorly) and incorrectly places the pericardium anteriorly rather than posteriorly."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "anterior-mediastinum",
+        "thymus"
+      ]
+    },
+    {
+      "id": "ae-003",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 22-year-old man presents with acute-onset dyspnea and chest pain after a motor vehicle collision. Chest X-ray reveals widening of the mediastinum. CT angiography demonstrates a traumatic tear of the thoracic aorta just distal to the origin of the left subclavian artery. In which mediastinal compartment is this injury located?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior mediastinum, between the sternum and the pericardial sac anteriorly"
+        },
+        {
+          "label": "B",
+          "text": "Middle mediastinum, within the fibrous pericardium surrounding the great vessels"
+        },
+        {
+          "label": "C",
+          "text": "Posterior mediastinum, between the pericardium anteriorly and the vertebral column"
+        },
+        {
+          "label": "D",
+          "text": "Superior mediastinum, between the thoracic inlet superiorly and the sternal angle"
+        },
+        {
+          "label": "E",
+          "text": "Inferior mediastinum, between the sternal angle superiorly and the diaphragm below"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The aortic arch and the origins of the great vessels (brachiocephalic trunk, left common carotid artery, left subclavian artery) are located in the superior mediastinum, above the transverse thoracic plane at the sternal angle (T4).",
+        "whyCorrect": "The aortic arch traverses the superior mediastinum. A tear just distal to the left subclavian artery origin (at the aortic isthmus, near the ligamentum arteriosum) is the classic location for traumatic aortic injury and lies within the superior mediastinum, bounded superiorly by the thoracic inlet and inferiorly by the transverse thoracic plane at the sternal angle of Louis.",
+        "whyWrongByChoice": {
+          "A": "The anterior mediastinum contains the thymus, fat, and lymph nodes. The aortic arch does not traverse this compartment.",
+          "B": "The middle mediastinum contains the heart, pericardium, and roots of the great vessels. The aortic arch itself, particularly distal to the left subclavian artery, is in the superior mediastinum.",
+          "C": "The posterior mediastinum contains the descending aorta (below T4), esophagus, thoracic duct, and azygos venous system. The aortic arch is not located here.",
+          "E": "The inferior mediastinum is a general term for the space below the transverse thoracic plane and is subdivided into anterior, middle, and posterior compartments. The aortic arch is above this division."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "superior-mediastinum",
+        "aortic-arch",
+        "trauma"
+      ]
+    },
+    {
+      "id": "ae-004",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 45-year-old woman undergoes a CT scan of the chest that reveals a mass in the posterior mediastinum. The radiologist notes the mass is located between the posterior pericardium and the thoracic vertebral bodies. Which of the following structures is most likely to be found within this compartment adjacent to the mass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thymus gland and its associated lymphoid tissue and internal thoracic arteries"
+        },
+        {
+          "label": "B",
+          "text": "Tracheal bifurcation and the right and left main bronchi at the carina level"
+        },
+        {
+          "label": "C",
+          "text": "Heart and the ascending aorta enclosed within the fibrous pericardium"
+        },
+        {
+          "label": "D",
+          "text": "Brachiocephalic veins and the superior vena cava above the pericardial reflection"
+        },
+        {
+          "label": "E",
+          "text": "Descending thoracic aorta and the esophagus with its associated nerve plexus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The posterior mediastinum contains the descending thoracic aorta, esophagus (with vagal plexus), thoracic duct, azygos and hemiazygos veins, sympathetic trunks, and splanchnic nerves.",
+        "whyCorrect": "The posterior mediastinum lies between the posterior pericardium anteriorly and the vertebral bodies posteriorly. Its major contents include the descending thoracic aorta, esophagus with its surrounding esophageal (vagal) nerve plexus, thoracic duct, azygos venous system, and thoracic sympathetic trunks.",
+        "whyWrongByChoice": {
+          "A": "The thymus and internal thoracic arteries are located in the anterior mediastinum, between the sternum and the pericardium.",
+          "B": "The tracheal bifurcation (carina) is located at the junction of the superior and middle mediastinum, approximately at the level of T4-T5, not within the posterior mediastinum.",
+          "C": "The heart and ascending aorta are enclosed within the pericardium in the middle mediastinum, not the posterior mediastinum.",
+          "D": "The brachiocephalic veins and the superior portion of the SVC are located in the superior mediastinum, above the transverse thoracic plane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "posterior-mediastinum"
+      ]
+    },
+    {
+      "id": "ae-005",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 60-year-old man with a history of chronic cough and weight loss undergoes bronchoscopy. A biopsy of a subcarinal lymph node reveals small cell carcinoma. The oncologist notes that this lymph node is located at the level of the tracheal bifurcation. Which anatomical plane separates the mediastinal compartment containing this node from the superior mediastinum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A horizontal plane passing through the jugular notch and the superior border of T1"
+        },
+        {
+          "label": "B",
+          "text": "A horizontal plane passing through the sternal angle and the inferior border of T4"
+        },
+        {
+          "label": "C",
+          "text": "A horizontal plane passing through the xiphoid process and the inferior border of T10"
+        },
+        {
+          "label": "D",
+          "text": "A sagittal plane passing through the midline of the sternum and vertebral bodies"
+        },
+        {
+          "label": "E",
+          "text": "A coronal plane passing through the posterior surface of the sternum and the hilum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The transverse thoracic plane (at the sternal angle/angle of Louis anteriorly and the T4-T5 intervertebral disc posteriorly) separates the superior mediastinum from the inferior mediastinum.",
+        "whyCorrect": "The transverse thoracic plane passes through the sternal angle (angle of Louis) anteriorly and the inferior border of T4 (T4-T5 intervertebral disc) posteriorly. This plane divides the mediastinum into superior and inferior compartments. The subcarinal lymph nodes at the tracheal bifurcation lie just below this plane in the middle (inferior) mediastinum.",
+        "whyWrongByChoice": {
+          "A": "A plane at the jugular notch and T1 corresponds to the thoracic inlet (superior thoracic aperture), which is the superior boundary of the superior mediastinum, not the division between superior and inferior mediastinum.",
+          "C": "A plane at the xiphoid process and T10 would be near the inferior boundary of the mediastinum at the diaphragm, not the plane dividing superior from inferior mediastinum.",
+          "D": "A sagittal plane through the midline does not divide the mediastinum into its recognized superior/inferior compartments; the division is made by a horizontal (transverse) plane.",
+          "E": "A coronal plane through the sternum and hilum is not the standard anatomical plane used to divide the mediastinum into its classical compartments."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "transverse-thoracic-plane",
+        "sternal-angle"
+      ]
+    },
+    {
+      "id": "ae-006",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 19-year-old man presents with anterior chest pain, dry cough, and dyspnea. CT scan reveals a large anterior mediastinal mass. Laboratory studies show markedly elevated serum AFP and beta-hCG levels. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thymoma arising from thymic epithelial cells in the anterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Lymphoma involving the mediastinal lymph nodes and thymic tissue"
+        },
+        {
+          "label": "C",
+          "text": "Mediastinal nonseminomatous germ cell tumor with mixed histology"
+        },
+        {
+          "label": "D",
+          "text": "Neurogenic tumor originating from the sympathetic chain ganglia posteriorly"
+        },
+        {
+          "label": "E",
+          "text": "Substernal thyroid goiter extending from the neck into the thoracic inlet"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Elevated AFP and beta-hCG in a young male with an anterior mediastinal mass is classic for a nonseminomatous germ cell tumor. The anterior mediastinum is the most common extragonadal site for germ cell tumors.",
+        "whyCorrect": "Nonseminomatous germ cell tumors (including yolk sac tumors, choriocarcinoma, embryonal carcinoma, and mixed germ cell tumors) produce AFP and/or beta-hCG. The anterior mediastinum is the most common extragonadal location for these tumors, and they predominantly affect young males. The combination of elevated AFP and beta-hCG with an anterior mediastinal mass in a young man is pathognomonic.",
+        "whyWrongByChoice": {
+          "A": "Thymomas are anterior mediastinal tumors but they do not produce AFP or beta-hCG. They are more common in older adults and are associated with myasthenia gravis, not elevated tumor markers.",
+          "B": "Lymphoma (especially Hodgkin lymphoma) can present as an anterior mediastinal mass but does not cause elevated AFP or beta-hCG levels.",
+          "D": "Neurogenic tumors (schwannomas, neurofibromas, ganglioneuromas) are the most common posterior mediastinal tumors, not anterior, and they do not secrete AFP or beta-hCG.",
+          "E": "Substernal thyroid goiter presents as a superior mediastinal mass and is associated with thyroid hormone abnormalities, not elevated AFP or beta-hCG."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "anterior-mediastinum",
+        "germ-cell-tumor"
+      ]
+    },
+    {
+      "id": "ae-007",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 55-year-old woman undergoes cardiac surgery requiring a median sternotomy. Postoperatively, she develops numbness along the anterior chest wall and diminished sensation over the skin of the medial breast. Which of the following nerves was most likely injured during the surgical approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phrenic nerve as it courses anterior to the root of the lung on each side"
+        },
+        {
+          "label": "B",
+          "text": "Vagus nerve as it descends posterior to the root of the lung bilaterally"
+        },
+        {
+          "label": "C",
+          "text": "Long thoracic nerve as it runs along the lateral chest wall superficially"
+        },
+        {
+          "label": "D",
+          "text": "Anterior cutaneous branches of the intercostal nerves at the sternal margin"
+        },
+        {
+          "label": "E",
+          "text": "Greater splanchnic nerve as it penetrates the crus of the diaphragm below"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Median sternotomy can injure the anterior cutaneous branches of the intercostal nerves as they emerge at the sternal margin, causing numbness of the anterior chest and medial breast.",
+        "whyCorrect": "The intercostal nerves (T2-T6) give off anterior cutaneous branches that emerge near the lateral border of the sternum to supply the skin of the anterior chest wall and medial breast. A median sternotomy can damage these terminal branches, resulting in numbness in the distribution described.",
+        "whyWrongByChoice": {
+          "A": "The phrenic nerves course through the middle mediastinum along the fibrous pericardium and could be damaged during cardiac surgery but would cause diaphragmatic paralysis, not chest wall numbness.",
+          "B": "The vagus nerves pass posterior to the lung roots in the posterior mediastinum and their injury would affect laryngeal, cardiac, or gastrointestinal function, not anterior chest wall sensation.",
+          "C": "The long thoracic nerve runs along the lateral chest wall on the surface of the serratus anterior and is not in the operative field of a median sternotomy. Its injury causes winged scapula.",
+          "E": "The greater splanchnic nerve is in the posterior mediastinum and passes through the diaphragm to supply abdominal viscera. It is far from the median sternotomy approach."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "intercostal-nerves",
+        "sternotomy"
+      ]
+    },
+    {
+      "id": "ae-008",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 72-year-old man with long-standing COPD undergoes a chest CT that incidentally reveals a 4-cm mass in the middle mediastinum. Which of the following groups of structures is most characteristically found within this mediastinal compartment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heart, pericardium, and the roots of the great vessels with phrenic nerves"
+        },
+        {
+          "label": "B",
+          "text": "Esophagus, descending aorta, and the thoracic duct with azygos vein"
+        },
+        {
+          "label": "C",
+          "text": "Thymus, lymph nodes, and the internal thoracic arteries bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic trunks, splanchnic nerves, and the intercostal vessels posteriorly"
+        },
+        {
+          "label": "E",
+          "text": "Trachea, brachiocephalic veins, and the aortic arch with its three branches"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The middle mediastinum contains the heart, pericardium, roots of the great vessels, the phrenic nerves, and the main bronchi. It is the central compartment of the inferior mediastinum.",
+        "whyCorrect": "The middle mediastinum is defined by the pericardial sac and its contents: the heart, roots of the great vessels (ascending aorta, SVC, pulmonary trunk, pulmonary veins), the phrenic nerves (which pass anterior to the lung roots along the pericardium), and the main bronchi.",
+        "whyWrongByChoice": {
+          "B": "The esophagus, descending thoracic aorta, thoracic duct, and azygos vein are all contents of the posterior mediastinum.",
+          "C": "The thymus and internal thoracic arteries are contents of the anterior mediastinum, located between the sternum and the pericardium.",
+          "D": "The sympathetic trunks, splanchnic nerves, and posterior intercostal vessels are located in the posterior mediastinum along the vertebral column.",
+          "E": "The trachea, brachiocephalic veins, and aortic arch with its branches are found in the superior mediastinum, above the transverse thoracic plane."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "middle-mediastinum"
+      ]
+    },
+    {
+      "id": "ae-009",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 48-year-old woman presents with progressive dysphagia for both solids and liquids. Barium swallow reveals extrinsic compression of the esophagus at the level of T4. CT scan shows an aberrant right subclavian artery passing posterior to the esophagus. This anomalous vessel arises as the last branch of which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right common carotid artery before it enters the carotid sheath superiorly"
+        },
+        {
+          "label": "B",
+          "text": "Brachiocephalic trunk shortly after it arises from the aortic arch on the right"
+        },
+        {
+          "label": "C",
+          "text": "Descending thoracic aorta at the level of the T5 vertebral body posteriorly"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary trunk before it bifurcates into the right and left pulmonary arteries"
+        },
+        {
+          "label": "E",
+          "text": "Aortic arch distal to the origin of the left subclavian artery on the left"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An aberrant (retroesophageal) right subclavian artery arises as the last branch of the aortic arch, distal to the left subclavian artery, and passes posterior to the esophagus, potentially causing dysphagia lusoria.",
+        "whyCorrect": "In this common aortic arch anomaly, the right subclavian artery arises independently as the fourth and last branch of the aortic arch (after the right common carotid, left common carotid, and left subclavian arteries). It then courses posterior to the esophagus to reach the right upper extremity, which can cause extrinsic esophageal compression known as dysphagia lusoria.",
+        "whyWrongByChoice": {
+          "A": "The right common carotid artery does not give rise to the subclavian artery. In normal anatomy, both arise from the brachiocephalic trunk; in this anomaly, they arise separately from the arch.",
+          "B": "In this anomaly, there is no brachiocephalic trunk. The right common carotid and right subclavian arteries arise independently from the aortic arch.",
+          "C": "The descending thoracic aorta gives off intercostal and bronchial arteries but does not give rise to the subclavian artery in this or any other recognized anatomic variant.",
+          "D": "The pulmonary trunk carries deoxygenated blood to the lungs and has no connection to the systemic subclavian artery."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "aortic-arch",
+        "aberrant-subclavian",
+        "dysphagia-lusoria"
+      ]
+    },
+    {
+      "id": "ae-010",
+      "topicId": "mediastinum-1",
+      "topicName": "Mediastinum (Part 1)",
+      "stem": "A 30-year-old woman presents with worsening generalized muscle weakness, ptosis, and diplopia. CT of the chest reveals a mass in the anterior mediastinum. Serological testing is positive for anti-acetylcholine receptor antibodies. The mass is resected and histologically shows a neoplasm composed of bland spindle and epithelial cells interspersed with immature T lymphocytes. In addition to myasthenia gravis, which of the following conditions is this patient at increased risk of developing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous cell carcinoma of the lung with cavitary lesions centrally"
+        },
+        {
+          "label": "B",
+          "text": "Pure red cell aplasia with severely decreased reticulocyte count"
+        },
+        {
+          "label": "C",
+          "text": "Pheochromocytoma with episodic hypertension and diaphoresis attacks"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma with hematuria and a flank mass on examination"
+        },
+        {
+          "label": "E",
+          "text": "Mesothelioma related to prior occupational asbestos exposure history"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Thymoma is associated with several paraneoplastic/autoimmune syndromes including myasthenia gravis, pure red cell aplasia, and hypogammaglobulinemia (Good syndrome).",
+        "whyCorrect": "Thymomas are anterior mediastinal tumors of thymic epithelial origin that harbor maturing T lymphocytes. They are strongly associated with autoimmune conditions, most commonly myasthenia gravis. Pure red cell aplasia occurs in approximately 5-15% of thymoma patients, resulting from autoimmune destruction of erythroid precursors with resultant severe anemia and near-absent reticulocytes.",
+        "whyWrongByChoice": {
+          "A": "Squamous cell carcinoma of the lung is associated with smoking and paraneoplastic hypercalcemia, not with thymoma.",
+          "C": "Pheochromocytoma arises from chromaffin cells of the adrenal medulla and is associated with MEN 2 syndromes, not thymoma.",
+          "D": "Renal cell carcinoma is associated with VHL syndrome and smoking, not with thymoma or anterior mediastinal masses.",
+          "E": "Mesothelioma is linked to asbestos exposure and arises from the pleural lining, not from the thymus. It has no association with thymoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "thymoma",
+        "anterior-mediastinum",
+        "paraneoplastic"
+      ]
+    },
+    {
+      "id": "ae-011",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 62-year-old man undergoes a left pneumonectomy for non-small cell lung carcinoma. Postoperatively, he develops hoarseness. Laryngoscopy reveals paralysis of the left vocal cord in a paramedian position. Which of the following nerves was most likely injured during the surgical procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left phrenic nerve as it passes anterior to the hilum of the left lung"
+        },
+        {
+          "label": "B",
+          "text": "Left vagus nerve trunk at the level where it enters the superior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Left recurrent laryngeal nerve as it loops under the arch of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Left superior laryngeal nerve as it branches from the vagus in the neck"
+        },
+        {
+          "label": "E",
+          "text": "Left sympathetic trunk as it descends along the heads of the thoracic ribs"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left recurrent laryngeal nerve loops under the aortic arch (at the ligamentum arteriosum) in the superior mediastinum and ascends in the tracheoesophageal groove to innervate all intrinsic laryngeal muscles except the cricothyroid. It is vulnerable during left-sided thoracic surgery.",
+        "whyCorrect": "The left recurrent laryngeal nerve branches from the left vagus nerve as it crosses the aortic arch, loops under the arch of the aorta (posterior to the ligamentum arteriosum), and ascends in the tracheoesophageal groove to innervate the intrinsic muscles of the larynx (except cricothyroid). It is at risk during left pneumonectomy, and its injury causes left vocal cord paralysis and hoarseness.",
+        "whyWrongByChoice": {
+          "A": "The left phrenic nerve courses along the left pericardium anterior to the lung hilum. Its injury would cause left hemidiaphragm paralysis and dyspnea, not hoarseness.",
+          "B": "Injury to the entire left vagus trunk would cause multiple deficits including loss of parasympathetic innervation to thoracic and abdominal viscera, not isolated vocal cord paralysis.",
+          "D": "The left superior laryngeal nerve branches from the vagus high in the neck and supplies the cricothyroid muscle and sensation above the vocal cords. It is not in the surgical field of a pneumonectomy.",
+          "E": "The left sympathetic trunk injury would cause Horner syndrome (miosis, ptosis, anhidrosis) on the left side, not vocal cord paralysis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "recurrent-laryngeal-nerve",
+        "vagus-nerve"
+      ]
+    },
+    {
+      "id": "ae-012",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 57-year-old man presents with progressive dysphagia. Endoscopy reveals a distal esophageal mass. The surgeon plans to access the lower esophagus through a posterolateral thoracotomy. As the esophagus descends through the posterior mediastinum, it is closely related to which of the following vascular structures that lies immediately to its right side?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Descending thoracic aorta throughout its entire course in the posterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Hemiazygos vein as it crosses from the left to the right side at mid-thorax"
+        },
+        {
+          "label": "C",
+          "text": "Internal thoracic artery as it descends behind the costal cartilages anteriorly"
+        },
+        {
+          "label": "D",
+          "text": "Azygos vein as it ascends along the right side of the thoracic vertebral column"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic duct as it ascends on the right side between the aorta and the spine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The azygos vein ascends along the right side of the vertebral column in the posterior mediastinum, immediately to the right of the esophagus, before arching over the right main bronchus to drain into the SVC.",
+        "whyCorrect": "The azygos vein runs along the right side of the thoracic vertebral bodies in the posterior mediastinum, lying immediately to the right of the esophagus. This close anatomical relationship makes the azygos vein the major vascular structure directly to the right of the esophagus, an important surgical consideration during esophageal procedures.",
+        "whyWrongByChoice": {
+          "A": "The descending thoracic aorta initially lies to the LEFT of the esophagus in the upper posterior mediastinum and gradually moves posterior to it as it descends. It is not to the right of the esophagus.",
+          "B": "The hemiazygos vein ascends on the LEFT side of the vertebral column and crosses to the right to join the azygos vein, but it is not the structure lying immediately to the right of the esophagus.",
+          "C": "The internal thoracic arteries run in the anterior chest wall behind the costal cartilages and are not in the posterior mediastinum near the esophagus.",
+          "E": "The thoracic duct ascends between the aorta and the azygos vein, posterior to the esophagus, and is more midline/left-sided rather than immediately to the right of the esophagus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "esophagus",
+        "azygos-vein",
+        "posterior-mediastinum"
+      ]
+    },
+    {
+      "id": "ae-013",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 40-year-old man is diagnosed with a left-sided Pancoast tumor (superior sulcus tumor) of the lung. He presents with left-sided miosis, partial ptosis, and anhidrosis of the left face. Which of the following structures has been invaded by the tumor to produce these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left phrenic nerve as it descends along the pericardium in the mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Left vagus nerve as it passes posterior to the root of the left lung inferiorly"
+        },
+        {
+          "label": "C",
+          "text": "Left sympathetic trunk and stellate ganglion near the apex of the thorax"
+        },
+        {
+          "label": "D",
+          "text": "Left recurrent laryngeal nerve as it ascends in the tracheoesophageal groove"
+        },
+        {
+          "label": "E",
+          "text": "Left greater splanchnic nerve as it passes through the diaphragmatic crus below"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A Pancoast tumor at the lung apex can invade the sympathetic trunk and stellate ganglion (inferior cervical/first thoracic ganglion), producing Horner syndrome: ipsilateral miosis, ptosis, and anhidrosis.",
+        "whyCorrect": "The sympathetic trunk ascends along the costovertebral junctions in the posterior mediastinum. At the thoracic apex, the stellate ganglion (fusion of the inferior cervical and first thoracic sympathetic ganglia) lies near the apex of the lung. Invasion by a Pancoast tumor interrupts sympathetic fibers destined for the head and face, producing the classic triad of Horner syndrome: miosis (pupillary constriction), partial ptosis (loss of sympathetic innervation to Muller muscle), and anhidrosis (loss of sudomotor fibers to the face).",
+        "whyWrongByChoice": {
+          "A": "Phrenic nerve injury causes diaphragmatic paralysis and dyspnea, not Horner syndrome. It lies in the middle mediastinum, not at the lung apex.",
+          "B": "Vagus nerve injury would affect parasympathetic function (cardiac, pulmonary, GI) and potentially cause hoarseness via the recurrent laryngeal branch, not Horner syndrome.",
+          "D": "Recurrent laryngeal nerve injury produces vocal cord paralysis and hoarseness. It loops under the aortic arch (left) or subclavian artery (right), not at the lung apex.",
+          "E": "The greater splanchnic nerve arises from T5-T9 sympathetic ganglia and passes through the diaphragm to innervate abdominal viscera. Its injury would not produce Horner syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "sympathetic-trunk",
+        "horner-syndrome",
+        "pancoast-tumor"
+      ]
+    },
+    {
+      "id": "ae-014",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 50-year-old man undergoes esophagectomy for esophageal carcinoma. Postoperatively, a chylous effusion develops in the left pleural space. CT scan confirms a leak from a structure in the posterior mediastinum. Which of the following best describes the normal anatomical course of the injured structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It enters the thorax through the aortic hiatus and ascends to drain into the right venous angle"
+        },
+        {
+          "label": "B",
+          "text": "It enters the thorax through the esophageal hiatus and drains into the left internal jugular vein"
+        },
+        {
+          "label": "C",
+          "text": "It enters the thorax through the caval hiatus and ascends to drain into the superior vena cava"
+        },
+        {
+          "label": "D",
+          "text": "It enters the thorax through the aortic hiatus and drains into the left venous angle at the neck"
+        },
+        {
+          "label": "E",
+          "text": "It enters the thorax through the sternocostal triangle and drains into the azygos venous system"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thoracic duct enters the thorax through the aortic hiatus of the diaphragm, ascends in the posterior mediastinum, crosses to the left at approximately T5, and drains into the left venous angle (junction of the left subclavian and left internal jugular veins).",
+        "whyCorrect": "The thoracic duct is the largest lymphatic vessel in the body. It enters the posterior mediastinum through the aortic hiatus (at T12) along with the aorta and azygos vein, ascends between the aorta and azygos vein, crosses from right to left at approximately T5, and ultimately drains into the left venous angle (the junction of the left subclavian and internal jugular veins). Injury during esophagectomy causes chylothorax.",
+        "whyWrongByChoice": {
+          "A": "While the thoracic duct does enter through the aortic hiatus, it drains into the LEFT venous angle, not the right. The right lymphatic duct drains into the right venous angle.",
+          "B": "The thoracic duct enters through the aortic hiatus, not the esophageal hiatus. It drains into the left venous angle (junction of left subclavian and internal jugular veins), not the left internal jugular vein alone.",
+          "C": "The caval hiatus (at T8) transmits the inferior vena cava and right phrenic nerve, not the thoracic duct. The thoracic duct does not drain into the SVC.",
+          "E": "The sternocostal triangle (foramen of Morgagni) is a potential diaphragmatic hernia site. The thoracic duct does not pass through it and does not drain into the azygos system."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "thoracic-duct",
+        "chylothorax",
+        "posterior-mediastinum"
+      ]
+    },
+    {
+      "id": "ae-015",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 65-year-old woman with a large hiatal hernia presents with intermittent palpitations. An ECG obtained during symptoms shows an irregularly irregular rhythm. Her cardiologist explains that the herniated stomach may be mechanically irritating a structure within the middle mediastinum. Which of the following structures is most likely being irritated to produce the arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thoracic sympathetic trunk along the costovertebral joints in the thorax"
+        },
+        {
+          "label": "B",
+          "text": "Left phrenic nerve along the lateral surface of the fibrous pericardium"
+        },
+        {
+          "label": "C",
+          "text": "Left atrium of the heart situated immediately anterior to the esophageal hiatus"
+        },
+        {
+          "label": "D",
+          "text": "Right vagus nerve as it descends posterior to the root of the right lung"
+        },
+        {
+          "label": "E",
+          "text": "Greater splanchnic nerve as it emerges from the thoracic sympathetic ganglia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left atrium is the most posterior chamber of the heart and lies immediately anterior to the esophagus. A large hiatal hernia can mechanically irritate the left atrium through the posterior pericardium, provoking atrial fibrillation.",
+        "whyCorrect": "The left atrium forms the posterior surface of the heart (the base) and is intimately related to the esophagus, separated only by the pericardium and a thin layer of tissue. A large hiatal hernia pushing the stomach up through the esophageal hiatus can compress and irritate the posterior left atrium, triggering atrial fibrillation (an irregularly irregular rhythm).",
+        "whyWrongByChoice": {
+          "A": "The sympathetic trunk is in the posterior mediastinum along the vertebral column and is not directly compressed by a hiatal hernia that comes through the esophageal hiatus.",
+          "B": "The left phrenic nerve courses along the lateral pericardium in the middle mediastinum. While it could theoretically be affected, direct irritation of the left atrium is the recognized mechanism for arrhythmia in hiatal hernia.",
+          "D": "The right vagus nerve is on the contralateral side and posterior to the right lung root. It is not in a position to be mechanically compressed by a hiatal hernia affecting the left side.",
+          "E": "The greater splanchnic nerve is in the posterior mediastinum and passes through the diaphragmatic crus. It provides visceral efferent fibers to the abdomen, not cardiac rhythm modulation from mechanical irritation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "left-atrium",
+        "hiatal-hernia",
+        "atrial-fibrillation"
+      ]
+    },
+    {
+      "id": "ae-016",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 70-year-old man with squamous cell carcinoma of the esophagus develops signs of SVC obstruction. The surgeon notes that venous collateral circulation has developed between the azygos system and the hemiazygos system. The azygos vein drains into the SVC by arching over which of the following structures before entering the posterior aspect of the SVC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left main bronchus at the level of the tracheal bifurcation and carina"
+        },
+        {
+          "label": "B",
+          "text": "Right pulmonary artery as it passes beneath the aortic arch anteriorly"
+        },
+        {
+          "label": "C",
+          "text": "Root of the right lung including the right main bronchus at the hilum"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic duct as it crosses from right to left at the level of T5 vertebra"
+        },
+        {
+          "label": "E",
+          "text": "Right phrenic nerve as it descends along the right mediastinal pleura laterally"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The azygos vein arches over the root (hilum) of the right lung at approximately T5-T6 to drain into the posterior aspect of the SVC.",
+        "whyCorrect": "The azygos vein ascends in the posterior mediastinum along the right side of the vertebral column. At approximately the level of T5-T6, it arches anteriorly over the root of the right lung (the right main bronchus at the hilum) to empty into the posterior surface of the SVC. This arch of the azygos vein is a key anatomical landmark in mediastinal imaging.",
+        "whyWrongByChoice": {
+          "A": "The left main bronchus is on the left side. The azygos vein arch is on the right side, arching over the right main bronchus/root of the right lung.",
+          "B": "The right pulmonary artery passes anterior to the right main bronchus at the hilum but is not the structure that the azygos vein arches over. The azygos arches over the root of the right lung as a whole.",
+          "D": "The thoracic duct crosses from right to left around T5 but the azygos vein does not arch over the thoracic duct. It arches over the right lung root.",
+          "E": "The right phrenic nerve descends along the right mediastinal surface but the azygos vein arches over the lung root, not the phrenic nerve."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "azygos-vein",
+        "SVC"
+      ]
+    },
+    {
+      "id": "ae-017",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 58-year-old man undergoes a transhiatal esophagectomy. During mobilization of the distal esophagus, the surgeon must be careful to avoid injury to the vagus nerves as they form the esophageal plexus. At the level of the esophageal hiatus (T10), how are the vagal trunks typically oriented relative to the esophagus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both trunks are located on the right lateral surface of the esophagus"
+        },
+        {
+          "label": "B",
+          "text": "The left trunk is anterior and the right trunk is posterior to the esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Both trunks are located on the left lateral surface of the esophagus"
+        },
+        {
+          "label": "D",
+          "text": "The right trunk is anterior and the left trunk is posterior to the esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Both trunks spiral to become embedded within the esophageal muscular wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "At the esophageal hiatus, the left vagus nerve rotates to become the anterior vagal trunk and the right vagus becomes the posterior vagal trunk due to the embryological rotation of the gut.",
+        "whyCorrect": "As the esophagus descends through the posterior mediastinum, the vagus nerves form the esophageal plexus around it. Due to the clockwise rotation of the stomach during embryological development (when viewed from below), the left vagus nerve rotates anteriorly to become the anterior vagal trunk, and the right vagus rotates posteriorly to become the posterior vagal trunk. This orientation is maintained at the esophageal hiatus (T10).",
+        "whyWrongByChoice": {
+          "A": "Both vagal trunks do not lie on the right lateral surface. They rotate to anterior and posterior positions due to embryological gut rotation.",
+          "C": "Both trunks do not remain on the left side. They separate into anterior (left vagus) and posterior (right vagus) positions.",
+          "D": "This reverses the correct relationship. The LEFT vagus becomes anterior and the RIGHT becomes posterior, not the other way around.",
+          "E": "The vagal trunks do not become embedded within the esophageal muscle wall. They remain on the external surface of the esophagus as distinct anterior and posterior trunks."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "vagus-nerve",
+        "esophagus",
+        "esophageal-hiatus"
+      ]
+    },
+    {
+      "id": "ae-018",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 45-year-old woman with a history of thyroid surgery develops progressive dyspnea and stridor. Direct laryngoscopy reveals bilateral vocal cord paralysis with both cords in a median position. Which of the following best explains the bilateral vocal cord paralysis given her surgical history?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral injury to the external branch of the superior laryngeal nerves during dissection"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral injury to the recurrent laryngeal nerves in the tracheoesophageal grooves"
+        },
+        {
+          "label": "C",
+          "text": "Unilateral vagus nerve transection above the origin of the superior laryngeal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral injury to the phrenic nerves at the thoracic inlet during the procedure"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral injury to the glossopharyngeal nerves as they exit the jugular foramen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The recurrent laryngeal nerves run in the tracheoesophageal grooves bilaterally and are at high risk during thyroid surgery. Bilateral injury causes bilateral vocal cord paralysis in the paramedian/median position, resulting in airway obstruction.",
+        "whyCorrect": "The recurrent laryngeal nerves (branches of the vagus) ascend in the tracheoesophageal grooves and pass deep to the thyroid gland before entering the larynx. During thyroidectomy, both nerves are at risk of injury. Bilateral recurrent laryngeal nerve injury paralyzes all intrinsic laryngeal muscles except the cricothyroid, leaving both vocal cords in a median (adducted) position due to unopposed cricothyroid action, causing airway obstruction with stridor.",
+        "whyWrongByChoice": {
+          "A": "The external branch of the superior laryngeal nerve supplies only the cricothyroid muscle. Bilateral injury would cause voice changes (inability to produce high-pitched sounds) but not complete vocal cord paralysis or airway obstruction.",
+          "C": "Unilateral vagus transection would cause unilateral vocal cord paralysis, not bilateral. It would also affect multiple other vagal functions beyond the larynx.",
+          "D": "Phrenic nerve injury causes diaphragmatic paralysis and dyspnea but does not affect the vocal cords or cause stridor.",
+          "E": "The glossopharyngeal nerves (CN IX) exit the jugular foramen and supply the stylopharyngeus muscle and pharyngeal sensation. They do not innervate the vocal cords."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "recurrent-laryngeal-nerve",
+        "thyroid-surgery"
+      ]
+    },
+    {
+      "id": "ae-019",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 55-year-old man with coarctation of the aorta has developed extensive collateral circulation. Chest X-ray reveals bilateral rib notching along the inferior surfaces of ribs 3 through 8. Which of the following pairs of arteries form the primary collateral pathway responsible for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal thoracic arteries and posterior intercostal arteries via anterior intercostals"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial arteries and pulmonary arteries through bronchopulmonary anastomoses"
+        },
+        {
+          "label": "C",
+          "text": "Internal thoracic arteries and musculophrenic arteries along the diaphragm margin"
+        },
+        {
+          "label": "D",
+          "text": "Inferior phrenic arteries and superior epigastric arteries along the abdominal wall"
+        },
+        {
+          "label": "E",
+          "text": "Subclavian arteries and common iliac arteries via the lateral thoracic pathway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In coarctation of the aorta, blood bypasses the coarctation via the internal thoracic arteries (from the subclavian arteries, proximal to the coarctation) to their anterior intercostal branches, which anastomose with the posterior intercostal arteries (from the aorta, distal to the coarctation). Enlarged posterior intercostal arteries erode the inferior rib surfaces causing rib notching.",
+        "whyCorrect": "The internal thoracic arteries arise from the subclavian arteries (proximal to the coarctation) and give off anterior intercostal branches. These anastomose with posterior intercostal arteries that arise from the descending aorta (distal to the coarctation). This collateral pathway allows blood to bypass the coarctation. The markedly enlarged, tortuous posterior intercostal arteries erode the inferior surfaces of ribs 3-8, producing the classic rib notching seen on chest X-ray.",
+        "whyWrongByChoice": {
+          "B": "Bronchopulmonary anastomoses do not form a significant collateral pathway around aortic coarctation and do not cause rib notching.",
+          "C": "While the internal thoracic artery gives rise to the musculophrenic artery, this pathway along the diaphragm margin does not cause rib notching of ribs 3-8.",
+          "D": "The inferior phrenic and superior epigastric arteries are abdominal collaterals that may contribute to bypass flow but do not cause the characteristic rib notching.",
+          "E": "There is no recognized direct collateral pathway from subclavian to common iliac arteries via a lateral thoracic pathway that would cause rib notching."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "coarctation",
+        "collateral-circulation",
+        "rib-notching"
+      ]
+    },
+    {
+      "id": "ae-020",
+      "topicId": "mediastinum-2",
+      "topicName": "Mediastinum (Part 2)",
+      "stem": "A 43-year-old woman is undergoing surgery for a posterior mediastinal neurogenic tumor. The surgeon identifies the greater splanchnic nerve and traces it to its origin. From which of the following levels of the sympathetic chain does the greater splanchnic nerve typically arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sympathetic ganglia at the levels of T1 through T4 in the upper thorax"
+        },
+        {
+          "label": "B",
+          "text": "Sympathetic ganglia at the levels of T10 through T12 in the lower thorax area"
+        },
+        {
+          "label": "C",
+          "text": "Sympathetic ganglia at the levels of L1 through L3 in the upper lumbar region"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic ganglia at the levels of T1 through T12 spanning the entire thorax"
+        },
+        {
+          "label": "E",
+          "text": "Sympathetic ganglia at the levels of T5 through T9 in the mid-thorax region"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The greater splanchnic nerve arises from sympathetic ganglia T5-T9, pierces the crus of the diaphragm, and synapses in the celiac ganglion to provide sympathetic innervation to foregut structures.",
+        "whyCorrect": "The greater splanchnic nerve receives preganglionic sympathetic contributions from the T5 through T9 (sometimes T5-T10) sympathetic chain ganglia. It descends through the posterior mediastinum, pierces the crus of the diaphragm, and synapses in the celiac ganglion. Its postganglionic fibers innervate foregut-derived organs (stomach, liver, spleen, proximal duodenum, pancreas).",
+        "whyWrongByChoice": {
+          "A": "T1-T4 ganglia contribute to cardiac sympathetic innervation (cardiopulmonary splanchnic nerves) and the upper limb, not the greater splanchnic nerve.",
+          "B": "T10-T11 ganglia give rise to the lesser splanchnic nerve, and T12 (sometimes with L1) gives rise to the least splanchnic nerve, not the greater splanchnic nerve.",
+          "C": "L1-L3 ganglia give rise to lumbar splanchnic nerves that contribute to the inferior mesenteric and hypogastric plexuses, not the greater splanchnic nerve.",
+          "E": "No single splanchnic nerve spans the entire T1-T12 sympathetic chain. The different splanchnic nerves arise from specific segmental levels."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mediastinum",
+        "anatomy",
+        "splanchnic-nerves",
+        "sympathetic-chain",
+        "posterior-mediastinum"
+      ]
+    },
+    {
+      "id": "ae-021",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 67-year-old man with a history of atrial fibrillation presents with sudden onset of right-sided hemiplegia and aphasia. Transesophageal echocardiography reveals a thrombus in the left atrium. The cardiologist notes that the thrombus is located in a small, ear-shaped pouch projecting from the main chamber. Which of the following best describes the embryological origin of the structure harboring the thrombus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incorporation of the pulmonary vein into the left atrial wall"
+        },
+        {
+          "label": "B",
+          "text": "Absorption of the sinus venosus into the posterior right atrium"
+        },
+        {
+          "label": "C",
+          "text": "Septum primum growing toward the endocardial cushion tissue"
+        },
+        {
+          "label": "D",
+          "text": "Primitive atrium forming the trabeculated appendage portion"
+        },
+        {
+          "label": "E",
+          "text": "Outgrowth of the truncus arteriosus during outflow septation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The left atrial appendage (auricle) derives from the primitive atrium and retains its trabeculated, pectinate muscle-lined morphology. It is the most common site for thrombus formation in atrial fibrillation.",
+        "whyCorrect": "The left atrial appendage originates from the embryonic primitive atrium. Unlike the smooth-walled portion of the left atrium (which derives from absorbed pulmonary veins), the appendage retains trabeculated pectinate muscles from its primitive atrial origin, creating an environment conducive to blood stasis and thrombus formation.",
+        "whyWrongByChoice": {
+          "A": "Incorporation of pulmonary veins forms the smooth-walled posterior portion of the left atrium, not the trabeculated appendage where thrombi typically form.",
+          "B": "Absorption of the sinus venosus contributes to the smooth-walled portion of the right atrium (sinus venarum), not the left atrial appendage.",
+          "C": "Septum primum contributes to atrial septation and becomes part of the interatrial septum, not the left atrial appendage.",
+          "E": "The truncus arteriosus gives rise to the ascending aorta and pulmonary trunk through septation; it does not contribute to atrial structures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "left-atrial-appendage",
+        "embryology"
+      ]
+    },
+    {
+      "id": "ae-022",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 52-year-old woman undergoes coronary artery bypass grafting. During the procedure, the surgeon must identify the boundaries of the triangle of Koch to avoid damaging the conduction system. Which of the following combinations correctly identifies the three borders of this triangle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tendon of Todaro, coronary sinus ostium, and tricuspid valve annulus"
+        },
+        {
+          "label": "B",
+          "text": "Fossa ovalis, inferior vena cava orifice, and coronary sinus ostium"
+        },
+        {
+          "label": "C",
+          "text": "Crista terminalis, tendon of Todaro, and superior vena cava orifice"
+        },
+        {
+          "label": "D",
+          "text": "Membranous septum, muscular septum, and coronary sinus ostium"
+        },
+        {
+          "label": "E",
+          "text": "Tricuspid valve annulus, fossa ovalis, and crista terminalis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The triangle of Koch is bounded by the tendon of Todaro (posteriorly), the coronary sinus ostium (inferiorly), and the septal leaflet of the tricuspid valve/its annulus (anteriorly). The AV node lies within this triangle.",
+        "whyCorrect": "The triangle of Koch is a landmark in the right atrium that contains the AV node. Its three borders are the tendon of Todaro superoposteriorly, the orifice of the coronary sinus inferiorly, and the attachment of the septal leaflet of the tricuspid valve anteriorly. The apex of the triangle marks the location of the central fibrous body and bundle of His.",
+        "whyWrongByChoice": {
+          "B": "The fossa ovalis and IVC orifice are right atrial landmarks but are not borders of the triangle of Koch; the fossa ovalis is located in the interatrial septum superoposterior to the triangle.",
+          "C": "The crista terminalis separates the smooth sinus venarum from the trabeculated right atrial appendage but does not form a boundary of the triangle of Koch.",
+          "D": "While the membranous and muscular septum are near the triangle of Koch, they do not form its defined anatomical borders.",
+          "E": "The crista terminalis and fossa ovalis are both right atrial structures but neither constitutes a boundary of the triangle of Koch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "triangle-of-Koch",
+        "conduction-system"
+      ]
+    },
+    {
+      "id": "ae-023",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 45-year-old man undergoes right heart catheterization. During the procedure, the catheter is advanced from the femoral vein into the right atrium. The cardiologist observes that the catheter passes through a region of smooth-walled atrium before entering a trabeculated area with prominent muscular ridges. The smooth-walled portion of the right atrium is derived from which of the following embryological structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primitive atrium forming the pectinate muscle-lined region"
+        },
+        {
+          "label": "B",
+          "text": "Bulbus cordis incorporated during the cardiac looping stage"
+        },
+        {
+          "label": "C",
+          "text": "Truncus arteriosus septation during outflow tract formation"
+        },
+        {
+          "label": "D",
+          "text": "Endocardial cushion tissue contributing to the septal structures"
+        },
+        {
+          "label": "E",
+          "text": "Sinus venosus absorbed into the posterior right atrial wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The smooth-walled portion of the right atrium (sinus venarum) is derived from the sinus venosus, which is absorbed into the right atrium during development. The crista terminalis marks the boundary between this smooth region and the trabeculated portion derived from the primitive atrium.",
+        "whyCorrect": "The sinus venosus is progressively incorporated into the posterior wall of the right atrium during embryonic development, forming the smooth-walled sinus venarum. This region receives the superior and inferior venae cavae and the coronary sinus.",
+        "whyWrongByChoice": {
+          "A": "The primitive atrium gives rise to the trabeculated (rough) portion of the right atrium containing pectinate muscles, including the right atrial appendage, not the smooth-walled portion.",
+          "B": "The bulbus cordis contributes to the right ventricle (trabeculated portion) and the conus arteriosus (outflow tract), not to any atrial structure.",
+          "C": "The truncus arteriosus gives rise to the proximal aorta and pulmonary trunk; it has no contribution to atrial development.",
+          "D": "Endocardial cushions contribute to the AV valves and the atrial and ventricular septa but do not form the smooth wall of the right atrium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "right-atrium",
+        "sinus-venosus"
+      ]
+    },
+    {
+      "id": "ae-024",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 70-year-old woman presents with progressive dyspnea and lower extremity edema. Echocardiography reveals severe tricuspid regurgitation. The interventional cardiologist plans a transcatheter tricuspid valve repair and must understand the valve anatomy. Which of the following correctly describes a unique feature of the tricuspid valve apparatus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has two leaflets attached to anterior and posterior papillary muscles only"
+        },
+        {
+          "label": "B",
+          "text": "Its septal papillary muscle is characteristically small or sometimes absent"
+        },
+        {
+          "label": "C",
+          "text": "All three leaflets are supported by a single large anterior papillary muscle"
+        },
+        {
+          "label": "D",
+          "text": "It has four leaflets attached to chordae originating from the interventricular septum"
+        },
+        {
+          "label": "E",
+          "text": "Its three leaflets attach to papillary muscles arising from the left ventricular wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tricuspid valve has three leaflets (anterior, posterior, septal) supported by papillary muscles. The septal papillary muscle is characteristically small or may be absent, with chordae arising directly from the septum.",
+        "whyCorrect": "The tricuspid valve has anterior, posterior, and septal leaflets. The anterior papillary muscle is the largest, the posterior papillary muscle may be bifid, and the septal papillary muscle is notably small or sometimes absent altogether, with septal leaflet chordae arising directly from the ventricular septum.",
+        "whyWrongByChoice": {
+          "A": "This describes a two-leaflet valve resembling the mitral valve anatomy; the tricuspid valve has three leaflets and typically three papillary muscles.",
+          "C": "Although the anterior papillary muscle is the largest of the three, the tricuspid valve is not supported by a single papillary muscle alone.",
+          "D": "The tricuspid valve has three leaflets, not four, and while some chordae may attach to the septum, papillary muscles are the primary support.",
+          "E": "While the tricuspid valve does have three leaflets, its papillary muscles arise from the right ventricular wall, not the left ventricular wall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "tricuspid-valve",
+        "papillary-muscles"
+      ]
+    },
+    {
+      "id": "ae-025",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 3-day-old neonate is found to be cyanotic. Echocardiography reveals transposition of the great arteries. The pediatric cardiologist performs a balloon atrial septostomy to create a communication between the atria. The catheter is advanced through the foramen ovale and the balloon is inflated to tear the surrounding tissue. Which structure is primarily torn during this procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septum secundum forming the rigid limbus of the fossa ovalis"
+        },
+        {
+          "label": "B",
+          "text": "Endocardial cushion tissue at the crux of the heart centrally"
+        },
+        {
+          "label": "C",
+          "text": "Septum primum forming the thin floor of the fossa ovalis"
+        },
+        {
+          "label": "D",
+          "text": "Muscular portion of the interventricular septum inferiorly"
+        },
+        {
+          "label": "E",
+          "text": "Sinus venosus remnant adjacent to the superior vena cava"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fossa ovalis floor is formed by septum primum, which is the thin, valve-like flap that covers the foramen ovale. During balloon atrial septostomy (Rashkind procedure), this thin septum primum tissue is torn to create a larger atrial communication.",
+        "whyCorrect": "Septum primum forms the thin, flexible floor (valve) of the fossa ovalis. In fetal life, it acts as a one-way valve allowing right-to-left shunting. After birth, it normally fuses with septum secundum. In a balloon septostomy, the catheter passes through this thin tissue and the balloon tears it to enlarge the interatrial communication.",
+        "whyWrongByChoice": {
+          "A": "Septum secundum forms the thick, muscular rim (limbus) of the fossa ovalis. It is too thick to be torn by the balloon; the procedure targets the thin septum primum floor.",
+          "B": "Endocardial cushion tissue contributes to the AV septum at the crux of the heart and is not the structure targeted during balloon atrial septostomy.",
+          "D": "The muscular interventricular septum is located between the ventricles and is not involved in atrial septostomy procedures.",
+          "E": "Sinus venosus remnants are near the SVC-right atrial junction and relate to sinus venosus-type ASDs, not the standard foramen ovale septostomy site."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "atrial-septum",
+        "congenital-heart"
+      ]
+    },
+    {
+      "id": "ae-026",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 58-year-old man with severe aortic stenosis undergoes transcatheter aortic valve replacement (TAVR). Post-procedure, the patient develops complete heart block requiring a permanent pacemaker. Which anatomical relationship most likely explains this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The sinoatrial node lies within the aortic root adjacent to the valve annulus"
+        },
+        {
+          "label": "B",
+          "text": "The coronary sinus ostium is located immediately inferior to the aortic annulus"
+        },
+        {
+          "label": "C",
+          "text": "The right bundle branch courses along the anterior aortic valve cusp region"
+        },
+        {
+          "label": "D",
+          "text": "The left circumflex artery passes directly beneath the non-coronary cusp"
+        },
+        {
+          "label": "E",
+          "text": "The bundle of His traverses the membranous septum near the aortic valve annulus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The bundle of His passes through the membranous interventricular septum in close proximity to the aortic valve annulus, particularly near the junction of the right and non-coronary cusps. TAVR prosthesis expansion can compress or damage this conduction tissue, causing heart block.",
+        "whyCorrect": "The membranous septum lies immediately below the aortic valve annulus at the junction of the right coronary and non-coronary cusps. The bundle of His penetrates the central fibrous body and traverses this membranous septum. Prosthesis deployment during TAVR can compress or injure the bundle of His, leading to complete heart block.",
+        "whyWrongByChoice": {
+          "A": "The SA node is located at the junction of the superior vena cava and the right atrium (sulcus terminalis area), far from the aortic root.",
+          "B": "The coronary sinus ostium is located in the right atrium near the tricuspid valve, not immediately inferior to the aortic annulus.",
+          "C": "While the right bundle branch does run along the interventricular septum, the primary structure at risk during TAVR is the bundle of His itself at the membranous septum level.",
+          "D": "The left circumflex artery travels in the left AV groove and may be near the mitral annulus, but it does not pass directly beneath the non-coronary cusp in a way that explains heart block."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "conduction-system",
+        "TAVR"
+      ]
+    },
+    {
+      "id": "ae-027",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 62-year-old man undergoes cardiac surgery. The surgeon identifies the oblique sinus of the pericardium by placing a hand behind the left atrium. Which of the following best describes the anatomical boundaries of this space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between the ascending aorta and pulmonary trunk anteriorly and the SVC posteriorly"
+        },
+        {
+          "label": "B",
+          "text": "Between the fibrous pericardium and the anterior surface of the right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Between the left atrial appendage and the left pulmonary artery superiorly"
+        },
+        {
+          "label": "D",
+          "text": "Between the reflections of serous pericardium around pulmonary veins and the IVC"
+        },
+        {
+          "label": "E",
+          "text": "Between the diaphragmatic surface of the heart and the central tendon of the diaphragm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The oblique sinus is a pericardial recess posterior to the left atrium, bounded by the reflections of serous pericardium around the pulmonary veins and the IVC. It is a blind-ended cul-de-sac.",
+        "whyCorrect": "The oblique sinus (oblique pericardial sinus) is formed by the reflection of the serous pericardium around the pulmonary veins and the inferior vena cava behind the left atrium. It forms a cul-de-sac that can be accessed by passing a hand behind the heart and left atrium.",
+        "whyWrongByChoice": {
+          "A": "This describes the transverse pericardial sinus, which lies between the arterial (aorta, pulmonary trunk) and venous (SVC, pulmonary veins) pericardial reflections.",
+          "B": "The space between the fibrous pericardium and the right ventricle anteriorly is not a named pericardial sinus.",
+          "C": "The space between the left atrial appendage and left pulmonary artery is not the oblique sinus; this region is more related to the fold of the left superior pulmonary vein.",
+          "E": "The space between the diaphragmatic heart surface and the diaphragm is the inferior pericardial recess region, not the oblique sinus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "pericardial-sinuses"
+      ]
+    },
+    {
+      "id": "ae-028",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 55-year-old man presents with chest pain after a motor vehicle collision. CT angiography reveals a hemopericardium. The emergency physician plans to perform a pericardiocentesis. The needle is inserted in the left infrasternal angle and directed toward the left shoulder. Which of the following structures is the needle most likely to encounter first after penetrating the pericardium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right ventricular free wall beneath the anterior pericardium"
+        },
+        {
+          "label": "B",
+          "text": "Left atrial appendage lateral to the pulmonary trunk region"
+        },
+        {
+          "label": "C",
+          "text": "Interventricular septum between the two ventricles centrally"
+        },
+        {
+          "label": "D",
+          "text": "Left ventricular apex at the cardiac notch area inferiorly"
+        },
+        {
+          "label": "E",
+          "text": "Right atrial wall adjacent to the tricuspid valve annulus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the subxiphoid approach to pericardiocentesis, the needle passes through the pericardium and the first cardiac structure encountered is the right ventricular free wall, which forms the majority of the anterior surface of the heart.",
+        "whyCorrect": "The right ventricle forms most of the anterior (sternocostal) surface of the heart. When a pericardiocentesis needle is inserted via the subxiphoid approach and directed toward the left shoulder, it traverses the diaphragm and pericardium to encounter the anterior right ventricular wall first.",
+        "whyWrongByChoice": {
+          "B": "The left atrial appendage is located posterolaterally and superiorly; it is not in the direct path of a subxiphoid pericardiocentesis needle.",
+          "C": "The interventricular septum is an internal cardiac structure between the ventricles and would not be the first structure encountered by a pericardiocentesis needle.",
+          "D": "The left ventricular apex is located laterally and inferiorly; the subxiphoid approach primarily encounters the right ventricle first.",
+          "E": "The right atrial wall is located more rightward and superiorly and is not the first structure in the path of a needle directed toward the left shoulder."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "pericardiocentesis",
+        "surface-anatomy"
+      ]
+    },
+    {
+      "id": "ae-029",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 48-year-old woman with mitral valve prolapse is being evaluated for surgical repair. The surgeon explains that the posteromedial papillary muscle of the mitral valve typically has a single arterial supply while the anterolateral has dual supply. Which of the following clinical consequences is most directly attributable to this vascular difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The anterolateral papillary muscle is more susceptible to ischemic rupture during inferior MI"
+        },
+        {
+          "label": "B",
+          "text": "The anterolateral papillary muscle is the most common site of calcification in elderly patients"
+        },
+        {
+          "label": "C",
+          "text": "The posteromedial papillary muscle is protected from ischemia by collateral coronary circulation"
+        },
+        {
+          "label": "D",
+          "text": "The anterolateral papillary muscle receives blood supply exclusively from the right coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "The posteromedial papillary muscle is more vulnerable to ischemic dysfunction after coronary occlusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The posteromedial papillary muscle typically receives blood supply from only one coronary artery (usually the PDA), making it more vulnerable to ischemic dysfunction and rupture compared to the anterolateral papillary muscle, which has dual supply.",
+        "whyCorrect": "The posteromedial papillary muscle is usually supplied by a single artery (the posterior descending artery). This single blood supply makes it more vulnerable to ischemia. In contrast, the anterolateral papillary muscle receives blood from branches of both the LAD and LCx, providing collateral protection.",
+        "whyWrongByChoice": {
+          "A": "The anterolateral papillary muscle has a dual blood supply and is thus more protected from ischemia, not more susceptible to rupture.",
+          "B": "There is no established clinical pattern of preferential calcification of the anterolateral papillary muscle in elderly patients based on blood supply differences.",
+          "C": "The posteromedial papillary muscle is the one at greater risk precisely because it lacks the collateral protection that dual supply provides.",
+          "D": "The anterolateral papillary muscle is supplied by branches of the LAD and LCx arteries, not the right coronary artery."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "mitral-valve",
+        "coronary-supply"
+      ]
+    },
+    {
+      "id": "ae-030",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 72-year-old man with a history of inferior myocardial infarction presents with syncope. ECG shows a third-degree AV block. The cardiologist explains that the infarction has damaged the blood supply to the AV node. In the majority of patients, which artery supplies the AV node?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left anterior descending artery via its septal perforating branches"
+        },
+        {
+          "label": "B",
+          "text": "Left circumflex artery via its obtuse marginal branch territory"
+        },
+        {
+          "label": "C",
+          "text": "Posterior descending artery arising from the left circumflex artery"
+        },
+        {
+          "label": "D",
+          "text": "Right coronary artery via the AV nodal branch arising at the crux"
+        },
+        {
+          "label": "E",
+          "text": "Diagonal branch of the left anterior descending artery laterally"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In approximately 85-90% of patients (those with right-dominant circulation), the AV node is supplied by a branch of the right coronary artery that arises at the crux of the heart.",
+        "whyCorrect": "The AV nodal artery arises from the dominant coronary artery at the crux of the heart. Since approximately 85% of people have right coronary dominance, the RCA supplies the AV node in most patients. This explains why inferior MIs (typically from RCA occlusion) frequently cause AV conduction disturbances.",
+        "whyWrongByChoice": {
+          "A": "The LAD septal perforators supply the interventricular septum and the bundle of His and bundle branches, but not the AV node in the majority of patients.",
+          "B": "Obtuse marginal branches of the LCx supply the lateral wall of the left ventricle, not the AV node.",
+          "C": "In left-dominant circulation (about 10-15% of patients), the PDA arises from the LCx and may supply the AV node, but this is the minority pattern.",
+          "E": "Diagonal branches of the LAD supply the anterolateral wall of the left ventricle and do not reach the AV node."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "coronary-supply",
+        "AV-node"
+      ]
+    },
+    {
+      "id": "ae-031",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "During a cadaveric dissection, a medical student identifies a muscular ridge on the internal surface of the right atrium that extends from the right side of the SVC orifice to the right side of the IVC orifice. This structure serves as a landmark dividing the smooth posterior wall from the trabeculated anterior wall. Which of the following structures has the student identified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Moderator band connecting the septum to the anterior papillary muscle"
+        },
+        {
+          "label": "B",
+          "text": "Tendon of Todaro running within the septum toward the fibrous body"
+        },
+        {
+          "label": "C",
+          "text": "Crista terminalis marking the junction of sinus venarum and appendage"
+        },
+        {
+          "label": "D",
+          "text": "Pectinate muscles forming the trabeculated walls of the appendage"
+        },
+        {
+          "label": "E",
+          "text": "Limbus of the fossa ovalis forming the superior rim of the oval fossa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The crista terminalis is a smooth muscular ridge on the internal surface of the right atrium that runs from the SVC to the IVC, separating the smooth sinus venarum posteriorly from the rough, pectinate muscle-bearing anterior atrial wall and appendage.",
+        "whyCorrect": "The crista terminalis (terminal crest) is the internal muscular ridge corresponding to the sulcus terminalis externally. It extends vertically from the anterolateral aspect of the SVC orifice to the IVC orifice, marking the embryological boundary between the sinus venosus-derived smooth wall and the primitive atrium-derived trabeculated wall.",
+        "whyWrongByChoice": {
+          "A": "The moderator band (septomarginal trabecula) is located in the right ventricle, carrying the right bundle branch from the septum to the anterior papillary muscle.",
+          "B": "The tendon of Todaro is a fibrous structure within the interatrial septum that forms a boundary of the triangle of Koch; it is not a muscular ridge running between the SVC and IVC.",
+          "D": "Pectinate muscles are the comblike muscular ridges on the anterior wall and appendage of the right atrium; they are not a single ridge separating smooth from rough walls.",
+          "E": "The limbus of the fossa ovalis is the raised muscular rim surrounding the fossa ovalis in the interatrial septum, not a ridge running between the SVC and IVC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "right-atrium",
+        "crista-terminalis"
+      ]
+    },
+    {
+      "id": "ae-032",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A 63-year-old man with a prior anterior wall MI develops a new holosystolic murmur heard best at the left sternal border. Echocardiography reveals a ventricular septal defect. The cardiologist explains that the membranous septum is a common site for both congenital and acquired VSDs. Which of the following best explains why the membranous septum is particularly vulnerable to defects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is thicker than the muscular septum and subject to greater hemodynamic stress over time"
+        },
+        {
+          "label": "B",
+          "text": "It is reinforced by the moderator band, which can transmit excessive mechanical force to it"
+        },
+        {
+          "label": "C",
+          "text": "Overlying tricuspid and mitral valve tissue protects it from fibrosis but increases rupture risk"
+        },
+        {
+          "label": "D",
+          "text": "The muscular septum develops earlier in gestation and is inherently more resistant to teratogenic insult"
+        },
+        {
+          "label": "E",
+          "text": "It has a complex embryological origin from multiple fusing components at the septal junction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The membranous interventricular septum is formed by the fusion of multiple embryological components (endocardial cushions, muscular septum, and conotruncal ridges), making it a complex developmental junction point where defects are more likely to occur.",
+        "whyCorrect": "The membranous septum forms at the junction where the muscular interventricular septum, the endocardial cushion tissue, and the conotruncal ridges must all fuse together. This complex developmental origin from multiple sources makes it inherently more vulnerable to incomplete closure and subsequent defects.",
+        "whyWrongByChoice": {
+          "A": "The membranous septum is actually thinner than the muscular septum; its vulnerability relates to embryological complexity, not thickness or hemodynamic stress.",
+          "B": "The moderator band traverses the right ventricular cavity from the septum to the anterior wall; it does not reinforce the membranous septum or transmit force to it.",
+          "C": "Valve tissue does not protect the membranous septum from fibrosis; the proximity to AV valves is a consequence of its location, not a protective feature.",
+          "D": "While the muscular septum does begin forming early, the timing of development alone does not account for the frequency difference in septal defect locations."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "interventricular-septum",
+        "VSD"
+      ]
+    },
+    {
+      "id": "ae-033",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "A cardiothoracic surgeon is operating on a 68-year-old man with severe coronary artery disease. The surgeon needs to clamp the ascending aorta and must pass a finger through a pericardial space that lies posterior to the great arteries and anterior to the superior vena cava. Which pericardial space is the surgeon utilizing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oblique sinus posterior to the left atrium between the pulmonary veins"
+        },
+        {
+          "label": "B",
+          "text": "Transverse sinus between the arterial and venous pericardial reflections"
+        },
+        {
+          "label": "C",
+          "text": "Superior pericardial recess above the right pulmonary artery bifurcation"
+        },
+        {
+          "label": "D",
+          "text": "Inferior pericardial recess between the heart base and the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "Anterior mediastinal space between the sternum and the pericardial sac"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The transverse pericardial sinus lies posterior to the ascending aorta and pulmonary trunk and anterior to the SVC and pulmonary veins. Surgeons pass a finger or clamp through this space to access the great arteries for cross-clamping during cardiac surgery.",
+        "whyCorrect": "The transverse pericardial sinus is formed between the arterial mesocardium (around the aorta and pulmonary trunk) and the venous mesocardium (around the SVC and pulmonary veins). It is a critical surgical landmark that allows the surgeon to pass a clamp behind the aorta for cardiopulmonary bypass.",
+        "whyWrongByChoice": {
+          "A": "The oblique sinus is a cul-de-sac behind the left atrium bounded by the pulmonary vein reflections; it does not provide access to the great arteries.",
+          "C": "The superior pericardial recess is a potential space but is not the named space used for aortic cross-clamping between the great arteries and the SVC.",
+          "D": "The inferior pericardial recess is located inferiorly and does not provide access to the ascending aorta.",
+          "E": "The anterior mediastinal space is outside the pericardium and is not the space the surgeon uses to pass a finger behind the aorta."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-anatomy",
+        "pericardial-sinuses",
+        "transverse-sinus"
+      ]
+    },
+    {
+      "id": "ae-034",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 54-year-old man presents to the emergency department with acute substernal chest pain radiating to his left arm. ECG shows ST-segment elevation in leads V1-V4. Emergent coronary angiography reveals a complete occlusion of the left anterior descending artery proximal to the first septal perforator. Which of the following regions of the heart is most likely to be affected by this occlusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior wall of the left ventricle and the posterior interventricular septum"
+        },
+        {
+          "label": "B",
+          "text": "Lateral wall of the left ventricle and the left atrial appendage region"
+        },
+        {
+          "label": "C",
+          "text": "Anterior wall of the left ventricle and the anterior two-thirds of the septum"
+        },
+        {
+          "label": "D",
+          "text": "Inferior wall of the right ventricle and the right atrial free wall surface"
+        },
+        {
+          "label": "E",
+          "text": "Right ventricular outflow tract and the infundibular conus arteriosus region"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The LAD artery supplies the anterior wall of the left ventricle and, via its septal perforators, the anterior two-thirds of the interventricular septum. A proximal LAD occlusion causes an anterior STEMI affecting these territories.",
+        "whyCorrect": "The LAD courses in the anterior interventricular groove and gives off diagonal branches (supplying the anterior LV wall) and septal perforating branches (supplying the anterior two-thirds of the interventricular septum). Proximal occlusion before the first septal perforator results in a large anterior wall MI with septal involvement.",
+        "whyWrongByChoice": {
+          "A": "The posterior LV wall and posterior septum are supplied by the posterior descending artery (PDA), which arises from the RCA or LCx depending on dominance.",
+          "B": "The lateral LV wall is primarily supplied by the obtuse marginal branches of the left circumflex artery, and the LAD does not supply the left atrial appendage.",
+          "D": "The inferior right ventricle and right atrial free wall are supplied by the right coronary artery, not the LAD.",
+          "E": "The right ventricular outflow tract receives blood supply from the conus artery (often from the RCA), not from the LAD."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "LAD",
+        "STEMI"
+      ]
+    },
+    {
+      "id": "ae-035",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 61-year-old woman with chronic stable angina undergoes coronary angiography. The report describes a left-dominant coronary circulation. Which of the following correctly characterizes this anatomical variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left circumflex artery gives rise to the posterior descending artery at the crux"
+        },
+        {
+          "label": "B",
+          "text": "The LAD artery wraps around the apex to supply the posterior interventricular septum"
+        },
+        {
+          "label": "C",
+          "text": "The right coronary artery gives rise to both the PDA and a posterolateral branch"
+        },
+        {
+          "label": "D",
+          "text": "The left main coronary artery supplies the sinoatrial node in all such patients"
+        },
+        {
+          "label": "E",
+          "text": "The right coronary artery terminates before reaching the acute margin of the heart"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Left coronary dominance means the left circumflex artery gives rise to the posterior descending artery (PDA) at the crux of the heart. This variant is present in approximately 10-15% of the population.",
+        "whyCorrect": "Coronary dominance is defined by which artery gives rise to the PDA and supplies the AV nodal artery at the crux of the heart. In left-dominant circulation, the left circumflex artery continues in the AV groove past the crux and gives off the PDA.",
+        "whyWrongByChoice": {
+          "B": "While a long LAD may wrap around the apex, this is a normal variant (type III LAD) and does not define left dominance; dominance is specifically about which artery gives rise to the PDA.",
+          "C": "This describes right coronary dominance, which is the most common pattern (85% of patients), not left dominance.",
+          "D": "The SA node artery arises from the RCA in about 60% of patients and from the LCx in about 40%, regardless of dominance; left dominance does not determine SA nodal supply in all cases.",
+          "E": "The RCA may be smaller in left-dominant hearts but typically still reaches the acute margin; the defining feature is PDA origin, not RCA termination point."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "coronary-dominance"
+      ]
+    },
+    {
+      "id": "ae-036",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 59-year-old man with a history of an inferior myocardial infarction three weeks ago presents with a new pansystolic murmur loudest at the apex with radiation to the axilla. Echocardiography confirms severe mitral regurgitation due to posteromedial papillary muscle rupture. Which of the following best explains why this particular papillary muscle ruptured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It receives dual blood supply from the LAD and LCx, leading to watershed ischemia at their junction"
+        },
+        {
+          "label": "B",
+          "text": "It is attached to the anterior mitral leaflet, which bears greater hemodynamic stress during systole"
+        },
+        {
+          "label": "C",
+          "text": "It is located in the left ventricular outflow tract, where turbulent flow causes endothelial damage"
+        },
+        {
+          "label": "D",
+          "text": "It typically receives a single blood supply, making it more vulnerable to ischemic necrosis"
+        },
+        {
+          "label": "E",
+          "text": "It is thinner than the anterolateral papillary muscle and structurally weaker at baseline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The posteromedial papillary muscle typically receives blood supply from only one coronary artery (usually the PDA from the RCA), making it more vulnerable to ischemic necrosis and rupture compared to the anterolateral papillary muscle.",
+        "whyCorrect": "The posteromedial papillary muscle is usually supplied by a single artery (the posterior descending artery). This single blood supply makes it highly vulnerable to ischemia when that artery is occluded. The anterolateral papillary muscle, by contrast, receives blood from both LAD and LCx branches, providing collateral protection.",
+        "whyWrongByChoice": {
+          "A": "The posteromedial papillary muscle typically has a single supply, not dual supply; it is the anterolateral papillary muscle that receives dual supply from the LAD and LCx.",
+          "B": "Both papillary muscles attach to both mitral leaflets via chordae tendineae; the posteromedial muscle's vulnerability is vascular, not related to differential hemodynamic stress.",
+          "C": "Neither papillary muscle is located in the LVOT; they are situated within the left ventricular cavity attached to the ventricular wall.",
+          "E": "There is no consistent structural difference in thickness between the two papillary muscles; the vulnerability is due to vascular supply, not structural weakness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "papillary-muscle",
+        "mitral-regurgitation"
+      ]
+    },
+    {
+      "id": "ae-037",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 66-year-old man undergoes cardiac catheterization, which reveals significant stenosis of the left main coronary artery. The cardiologist explains that this is a particularly dangerous lesion. Which of the following best explains why left main stenosis is considered a surgical emergency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left main artery directly supplies the AV node and SA node in all patients"
+        },
+        {
+          "label": "B",
+          "text": "It is the only coronary artery that provides blood to the right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "The left main is a short trunk that bifurcates into the LAD and LCx, jeopardizing most of the LV"
+        },
+        {
+          "label": "D",
+          "text": "It gives off the posterior descending artery as its first branch in most patients"
+        },
+        {
+          "label": "E",
+          "text": "The left main artery supplies the entire interventricular septum exclusively via early branches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left main coronary artery is typically short (0.5-2 cm) and bifurcates into the LAD and LCx. Stenosis threatens the blood supply to the majority of the left ventricle, making it a high-risk lesion requiring urgent revascularization.",
+        "whyCorrect": "The left main coronary artery bifurcates into the LAD and LCx, which together supply approximately two-thirds of the myocardium including the anterior wall, lateral wall, septum, and apex. Significant stenosis places the majority of the left ventricle at risk for ischemia, explaining why it is treated as a surgical emergency.",
+        "whyWrongByChoice": {
+          "A": "The SA node is supplied by the RCA (60%) or proximal LCx (40%), and the AV node by the RCA (85%) or LCx (15%); the left main does not directly supply these structures in all patients.",
+          "B": "The right ventricle is primarily supplied by the right coronary artery and its branches, not the left main.",
+          "D": "The PDA arises from the RCA (in right-dominant hearts) or LCx (in left-dominant hearts) at the crux, not as a branch of the left main trunk.",
+          "E": "The anterior two-thirds of the septum is supplied by LAD septal perforators and the posterior third by the PDA; the left main itself does not give off early septal branches."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "left-main"
+      ]
+    },
+    {
+      "id": "ae-038",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 57-year-old man undergoes coronary artery bypass grafting. During the operation, the surgeon notes that most venous blood from the heart drains into the coronary sinus. However, some cardiac veins bypass the coronary sinus entirely. Which of the following venous structures drains directly into the right atrium without passing through the coronary sinus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Great cardiac vein running in the anterior interventricular groove"
+        },
+        {
+          "label": "B",
+          "text": "Middle cardiac vein running in the posterior interventricular groove"
+        },
+        {
+          "label": "C",
+          "text": "Posterior vein of the left ventricle on the diaphragmatic surface"
+        },
+        {
+          "label": "D",
+          "text": "Small cardiac vein running along the right atrioventricular groove"
+        },
+        {
+          "label": "E",
+          "text": "Anterior cardiac veins draining the anterior right ventricular wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The anterior cardiac veins are small veins that drain the anterior surface of the right ventricle and empty directly into the right atrium, bypassing the coronary sinus entirely.",
+        "whyCorrect": "The anterior cardiac veins drain the anterior wall of the right ventricle and cross the right AV groove to empty directly into the right atrium. They do not drain into the coronary sinus, making them an important alternative venous drainage pathway.",
+        "whyWrongByChoice": {
+          "A": "The great cardiac vein runs in the anterior interventricular groove alongside the LAD and drains into the coronary sinus.",
+          "B": "The middle cardiac vein runs in the posterior interventricular groove alongside the PDA and drains into the coronary sinus near its ostium.",
+          "C": "The posterior vein of the left ventricle drains the posterior surface of the left ventricle and empties into the coronary sinus.",
+          "D": "The small cardiac vein runs along the right AV groove and typically drains into the coronary sinus or the middle cardiac vein."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "cardiac-veins",
+        "coronary-sinus"
+      ]
+    },
+    {
+      "id": "ae-039",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 50-year-old man undergoes electrophysiology study for recurrent supraventricular tachycardia. The electrophysiologist advances a catheter into the coronary sinus for left-sided mapping. The coronary sinus ostium opens into which of the following locations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left atrium between the left inferior pulmonary vein and the mitral annulus"
+        },
+        {
+          "label": "B",
+          "text": "The right ventricle near the base of the septal leaflet of the tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "The right atrium between the IVC orifice and the septal tricuspid valve leaflet"
+        },
+        {
+          "label": "D",
+          "text": "The left ventricle adjacent to the posteromedial papillary muscle attachment"
+        },
+        {
+          "label": "E",
+          "text": "The right atrium at the junction of the SVC and the crista terminalis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The coronary sinus ostium opens into the right atrium in the posteroinferior region, located between the orifice of the IVC and the attachment of the septal leaflet of the tricuspid valve, within the triangle of Koch.",
+        "whyCorrect": "The coronary sinus drains into the right atrium through its ostium, which is located in the posteroinferior aspect of the right atrium between the IVC orifice and the tricuspid valve annulus. This location is an important landmark as it forms the inferior border of the triangle of Koch.",
+        "whyWrongByChoice": {
+          "A": "The coronary sinus does not drain into the left atrium; it opens into the right atrium. The left atrium receives the pulmonary veins.",
+          "B": "The coronary sinus opens into the right atrium, not the right ventricle. No major venous structure drains directly into the right ventricle at the tricuspid base.",
+          "D": "The coronary sinus drains into the right atrium; it has no connection to the left ventricular cavity.",
+          "E": "The SVC-crista terminalis junction is where the SA node is located in the superior right atrium; the coronary sinus ostium is in the inferior portion of the right atrium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "coronary-sinus",
+        "electrophysiology"
+      ]
+    },
+    {
+      "id": "ae-040",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 44-year-old woman with systemic lupus erythematosus develops pericardial effusion. Her cardiologist explains that lymphatic drainage of the heart is impaired. Lymphatic drainage from the heart primarily follows which of the following pathways?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Directly into the thoracic duct without passing through any lymph node stations first"
+        },
+        {
+          "label": "B",
+          "text": "Through tracheobronchial and mediastinal nodes before reaching the thoracic duct"
+        },
+        {
+          "label": "C",
+          "text": "Through axillary lymph nodes via the internal thoracic lymphatic chain bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Through para-aortic lymph nodes in the retroperitoneum below the diaphragm level"
+        },
+        {
+          "label": "E",
+          "text": "Through superficial inguinal nodes via lymphatics traveling along the inferior vena cava"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiac lymphatics drain into tracheobronchial and mediastinal lymph nodes before ultimately emptying into the thoracic duct (left side) or right lymphatic duct.",
+        "whyCorrect": "Lymphatic drainage of the heart follows the coronary vessels to reach the tracheobronchial and mediastinal lymph nodes. From there, lymph drains into the thoracic duct or the right lymphatic duct. This pathway is important in understanding pericardial fluid dynamics and cardiac edema.",
+        "whyWrongByChoice": {
+          "A": "Cardiac lymph does not bypass lymph node stations; it passes through mediastinal and tracheobronchial nodes before reaching the thoracic duct.",
+          "C": "While the internal thoracic lymphatic chain drains the anterior chest wall and parts of the breast, it is not the primary pathway for cardiac lymphatic drainage.",
+          "D": "Para-aortic retroperitoneal nodes drain abdominal organs and structures below the diaphragm, not the heart.",
+          "E": "Superficial inguinal nodes drain the lower extremities, perineum, and lower abdominal wall; cardiac lymphatics do not follow the IVC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-lymphatics",
+        "mediastinal-nodes"
+      ]
+    },
+    {
+      "id": "ae-041",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 70-year-old man with stable angina undergoes coronary angiography revealing a 90% stenosis of the proximal left circumflex artery. Which of the following myocardial territories is most directly at risk from this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anterior interventricular septum and anterior right ventricular wall"
+        },
+        {
+          "label": "B",
+          "text": "Anterior wall of the left ventricle and the apex bilaterally"
+        },
+        {
+          "label": "C",
+          "text": "Inferior wall of the right ventricle and the right atrial free wall"
+        },
+        {
+          "label": "D",
+          "text": "Lateral and posterolateral walls of the left ventricle via obtuse marginal branches"
+        },
+        {
+          "label": "E",
+          "text": "Infundibulum of the right ventricle and the supravalvular aortic region"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The left circumflex artery travels in the left AV groove and gives off obtuse marginal branches that supply the lateral and posterolateral walls of the left ventricle.",
+        "whyCorrect": "The LCx runs in the left coronary (AV) groove and gives off obtuse marginal branches supplying the lateral and posterolateral walls of the left ventricle. In right-dominant hearts, this is its primary territory; in left-dominant hearts, it also supplies the posterior septum and AV node via the PDA.",
+        "whyWrongByChoice": {
+          "A": "The anterior interventricular septum is supplied by septal perforators of the LAD; the anterior RV wall is supplied by the RCA and its branches.",
+          "B": "The anterior LV wall and apex are supplied by the LAD artery and its diagonal branches, not the LCx.",
+          "C": "The inferior RV wall and right atrial free wall are supplied by branches of the RCA.",
+          "E": "The RV infundibulum is supplied by the conus branch of the RCA; the supravalvular aortic region is supplied by vasa vasorum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "left-circumflex"
+      ]
+    },
+    {
+      "id": "ae-042",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 65-year-old man with an acute inferior STEMI undergoes primary PCI. Angiography reveals a thrombotic occlusion of the right coronary artery just distal to the origin of the acute marginal branch. Right-sided ECG leads show ST elevation in V4R. Which of the following findings would most specifically suggest concomitant right ventricular infarction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary congestion with bilateral crackles on lung auscultation"
+        },
+        {
+          "label": "B",
+          "text": "Wide pulse pressure with a hyperdynamic left ventricular impulse"
+        },
+        {
+          "label": "C",
+          "text": "Muffled heart sounds with electrical alternans on electrocardiogram"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial friction rub with diffuse concave ST elevation in all leads"
+        },
+        {
+          "label": "E",
+          "text": "Elevated jugular venous pressure with clear lung fields and hypotension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Right ventricular infarction classically presents with the triad of elevated JVP, clear lung fields, and hypotension, reflecting right heart failure without left-sided congestion.",
+        "whyCorrect": "When the RCA is occluded distal to the acute marginal branch, the right ventricular branches may be compromised. RV infarction impairs right-sided cardiac output, causing elevated JVP (from RV failure), hypotension (from decreased LV preload), and clear lungs (because the left heart is not volume-overloaded).",
+        "whyWrongByChoice": {
+          "A": "Pulmonary congestion and crackles suggest left ventricular failure, not isolated right ventricular infarction, which characteristically presents with clear lungs.",
+          "B": "Wide pulse pressure with a hyperdynamic impulse suggests a hyperdynamic state (aortic regurgitation, high-output failure), not the low-output state of RV infarction.",
+          "C": "Muffled heart sounds with electrical alternans is the classic presentation of cardiac tamponade with a large pericardial effusion, not RV infarction.",
+          "D": "A pericardial friction rub with diffuse concave ST elevation suggests acute pericarditis, not right ventricular infarction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "RV-infarction",
+        "RCA"
+      ]
+    },
+    {
+      "id": "ae-043",
+      "topicId": "vasculature-lymphatics-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "A 58-year-old woman undergoes CT angiography revealing a rare anatomical variant in which a single coronary artery arises from the right aortic sinus and gives off a branch that courses between the aorta and pulmonary trunk to supply the left ventricular territory. Which of the following best explains why this variant poses a risk for sudden cardiac death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The anomalous artery is prone to accelerated atherosclerosis from turbulent flow patterns"
+        },
+        {
+          "label": "B",
+          "text": "The interarterial course subjects the vessel to compression when the great vessels dilate"
+        },
+        {
+          "label": "C",
+          "text": "The anomalous artery has a congenitally narrow lumen due to intimal hyperplasia at birth"
+        },
+        {
+          "label": "D",
+          "text": "The vessel is exposed to lower perfusion pressure from the pulmonary trunk territory"
+        },
+        {
+          "label": "E",
+          "text": "The anomalous artery forms excessive collateral connections leading to coronary steal phenomenon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An anomalous coronary artery with an interarterial course (between the aorta and pulmonary trunk) is at risk of dynamic compression during exercise when both great vessels expand, potentially causing myocardial ischemia and sudden death.",
+        "whyCorrect": "When a coronary artery courses between the aorta and pulmonary trunk (interarterial course), it can be compressed during vigorous exercise as both great vessels dilate with increased cardiac output. Additionally, the anomalous artery often has a slit-like ostium and an intramural course, further predisposing to compression and ischemia.",
+        "whyWrongByChoice": {
+          "A": "While turbulent flow may contribute to atherosclerosis, the primary risk of this anomaly is mechanical compression, not accelerated atherosclerosis.",
+          "C": "There is no congenital intimal hyperplasia associated with anomalous coronary arteries; the risk is from the interarterial course and potential slit-like ostium.",
+          "D": "The anomalous artery still arises from the aorta (systemic pressure); it passes between the great vessels but does not receive blood from the pulmonary trunk.",
+          "E": "Anomalous coronary arteries do not characteristically form excessive collaterals causing steal; the risk is from external compression."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coronary-vasculature",
+        "anomalous-coronary",
+        "sudden-death"
+      ]
+    },
+    {
+      "id": "ae-044",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 2-week-old infant presents with difficulty feeding and weak femoral pulses. Echocardiography reveals coarctation of the aorta at the juxtaductal region. The developmental abnormality underlying this condition most likely involves which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal regression of the left fourth aortic arch during pharyngeal arch development"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of the left sixth aortic arch resulting in a complete vascular ring anomaly"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the third aortic arch to form the common carotid artery bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Persistence of the right dorsal aorta creating a double aortic arch configuration"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal extension of ductal tissue into the aortic wall causing luminal narrowing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Juxtaductal coarctation of the aorta is thought to result from abnormal extension of ductal (ductus arteriosus) smooth muscle tissue into the wall of the aorta, which constricts as the ductus closes after birth.",
+        "whyCorrect": "The most widely accepted theory for juxtaductal coarctation involves ectopic ductal tissue extending into the adjacent aortic wall. When the ductus arteriosus closes after birth, this ectopic tissue also constricts, narrowing the aortic lumen at the juxtaductal site.",
+        "whyWrongByChoice": {
+          "A": "Abnormal regression of the left fourth aortic arch would result in an interrupted aortic arch (type B), not juxtaductal coarctation.",
+          "B": "The left sixth aortic arch normally gives rise to the ductus arteriosus and left pulmonary artery. Its persistence results in PDA, not coarctation.",
+          "C": "The third aortic arches give rise to the common carotid arteries; their failure to develop would affect carotid anatomy, not cause aortic coarctation.",
+          "D": "Persistence of the right dorsal aorta creates a double aortic arch (vascular ring), which causes tracheal and esophageal compression, not coarctation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "coarctation",
+        "ductus-arteriosus"
+      ]
+    },
+    {
+      "id": "ae-045",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 6-month-old infant undergoes CT angiography for evaluation of stridor and dysphagia. The imaging reveals a vascular ring formed by a double aortic arch encircling the trachea and esophagus. This anomaly results from the persistence of which of the following embryological structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both left and right sixth aortic arches with bilateral ductus arteriosus remnants"
+        },
+        {
+          "label": "B",
+          "text": "The left fifth aortic arch, which normally regresses completely during development"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral third aortic arches extending inferiorly to encircle mediastinal structures"
+        },
+        {
+          "label": "D",
+          "text": "Both the right and left dorsal aortae maintaining connection to the fourth arches"
+        },
+        {
+          "label": "E",
+          "text": "The right second aortic arch persisting along with the normal left-sided aortic arch"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A double aortic arch occurs when both the right and left dorsal aortae persist along with both fourth aortic arches, forming a complete vascular ring around the trachea and esophagus.",
+        "whyCorrect": "Normally, the right dorsal aorta regresses distal to the origin of the right seventh intersegmental artery, leaving only the left aortic arch. In double aortic arch, both dorsal aortae persist and maintain their connection to the respective fourth arches, creating two arches that encircle the trachea and esophagus.",
+        "whyWrongByChoice": {
+          "A": "The sixth arches give rise to the pulmonary arteries and ductus arteriosus; bilateral persistence does not create a double aortic arch.",
+          "B": "The fifth aortic arch either never forms or regresses very early; its persistence would not create a double aortic arch.",
+          "C": "The third aortic arches form the common carotid arteries; they do not extend inferiorly to form vascular rings.",
+          "E": "The second aortic arches regress early and contribute to the stapedial artery; they do not persist to form aortic arch anomalies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "double-aortic-arch",
+        "vascular-ring"
+      ]
+    },
+    {
+      "id": "ae-046",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A medical student is studying aortic arch development. The professor asks which adult structure is derived from the third aortic arch. Which of the following is the correct derivative?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The definitive aortic arch on the left and the proximal right subclavian on the right"
+        },
+        {
+          "label": "B",
+          "text": "The ductus arteriosus on the left and the right pulmonary artery on the right"
+        },
+        {
+          "label": "C",
+          "text": "The common carotid arteries and the proximal portion of the internal carotid arteries"
+        },
+        {
+          "label": "D",
+          "text": "The stapedial artery and hyoid arterial network during early fetal development"
+        },
+        {
+          "label": "E",
+          "text": "The maxillary artery as a small remnant of the first pharyngeal arch vasculature"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The third aortic arches give rise to the common carotid arteries and the proximal portion of the internal carotid arteries bilaterally.",
+        "whyCorrect": "The third aortic arches form the common carotid arteries and the proximal segments of the internal carotid arteries. The distal internal carotid arteries derive from the dorsal aortae cranial to the third arch.",
+        "whyWrongByChoice": {
+          "A": "This describes the fourth aortic arch derivatives: the left fourth arch becomes the aortic arch, and the right fourth arch becomes the proximal right subclavian artery.",
+          "B": "This describes the sixth aortic arch derivatives: the left distal sixth arch forms the ductus arteriosus, and the proximal sixth arches contribute to the pulmonary arteries.",
+          "D": "The stapedial artery and hyoid arterial network are derivatives of the second aortic arch, not the third.",
+          "E": "The maxillary artery is a small remnant of the first aortic arch, not the third."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "pharyngeal-arches",
+        "third-arch"
+      ]
+    },
+    {
+      "id": "ae-047",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 4-year-old child is found to have an aberrant right subclavian artery on barium swallow study, which shows a posterior indentation on the esophagus. This vascular anomaly results from which of the following developmental errors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistence of the right sixth aortic arch with regression of the right fourth arch simultaneously"
+        },
+        {
+          "label": "B",
+          "text": "Regression of the right fourth arch with persistence of the right dorsal aorta distal to the seventh intersegmental artery"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the left third aortic arch to properly separate from the dorsal aorta bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Persistence of the left dorsal aorta with regression of the left fourth aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal migration of the right seventh intersegmental artery to the contralateral side"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An aberrant right subclavian artery (arteria lusoria) occurs when the right fourth aortic arch regresses and the right dorsal aorta persists distal to the right seventh intersegmental artery. The right subclavian then arises as the last branch of the aortic arch and passes behind the esophagus.",
+        "whyCorrect": "Normally, the right fourth arch forms the proximal right subclavian artery, and the right dorsal aorta distal to the seventh intersegmental artery regresses. When this pattern is reversed, the right subclavian artery arises aberrantly from the descending aorta as its last branch and courses posterior to the esophagus (dysphagia lusoria).",
+        "whyWrongByChoice": {
+          "A": "Persistence of the right sixth arch would affect pulmonary arterial development; it does not explain an aberrant right subclavian artery.",
+          "C": "The third aortic arches give rise to the common carotid arteries; failure of left third arch separation does not cause a right subclavian anomaly.",
+          "D": "Persistence of the left dorsal aorta with left fourth arch regression would result in a left-sided anomaly, not an aberrant right subclavian.",
+          "E": "The seventh intersegmental arteries do not migrate; the aberrant subclavian results from abnormal regression of the fourth arch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "aberrant-subclavian",
+        "dysphagia-lusoria"
+      ]
+    },
+    {
+      "id": "ae-048",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A premature neonate born at 28 weeks gestational age develops a continuous machinery-like murmur. Echocardiography confirms a patent ductus arteriosus with left-to-right shunting. The ductus arteriosus is a remnant of which embryological structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The proximal portion of the right fourth aortic arch near the subclavian origin"
+        },
+        {
+          "label": "B",
+          "text": "The left third aortic arch at its junction with the dorsal aorta cranially"
+        },
+        {
+          "label": "C",
+          "text": "The ventral portion of the right sixth aortic arch at the truncus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "The distal portion of the left sixth aortic arch connecting to the dorsal aorta"
+        },
+        {
+          "label": "E",
+          "text": "The distal portion of the left fourth aortic arch connecting to the descending aorta"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ductus arteriosus derives from the distal portion of the left sixth aortic arch, which connects the left pulmonary artery to the descending aorta. It normally closes functionally within 24-48 hours after birth.",
+        "whyCorrect": "The left sixth aortic arch gives rise to the left pulmonary artery (proximal portion) and the ductus arteriosus (distal portion connecting to the left dorsal aorta). In fetal life, the ductus shunts blood from the pulmonary trunk to the descending aorta, bypassing the uninflated lungs.",
+        "whyWrongByChoice": {
+          "A": "The right fourth aortic arch forms the proximal portion of the right subclavian artery; it does not give rise to the ductus arteriosus.",
+          "B": "The left third aortic arch forms the common carotid artery and proximal internal carotid; it has no connection to the ductus arteriosus.",
+          "C": "The right sixth aortic arch's distal portion normally regresses completely; only the left sixth arch's distal segment persists as the ductus arteriosus.",
+          "E": "The left fourth aortic arch forms the definitive aortic arch between the left common carotid and left subclavian arteries, not the ductus arteriosus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "PDA",
+        "sixth-arch"
+      ]
+    },
+    {
+      "id": "ae-049",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 3-year-old child undergoes cardiac surgery for a complex congenital heart defect. During the procedure, the surgeon notes that the aortic arch is on the right side. A right aortic arch most commonly results from which of the following developmental events?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistence of the right fourth aortic arch with regression of the left fourth arch"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of the right third aortic arch with abnormal carotid artery positioning"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral persistence of the sixth aortic arches forming symmetric pulmonary arteries"
+        },
+        {
+          "label": "D",
+          "text": "Regression of both dorsal aortae with compensatory enlargement of the right first arch"
+        },
+        {
+          "label": "E",
+          "text": "Persistence of the right second aortic arch extending to form the transverse aorta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A right aortic arch occurs when the right fourth aortic arch persists and the left fourth arch regresses (the mirror image of normal development).",
+        "whyCorrect": "Normally, the left fourth aortic arch persists to form the definitive aortic arch while the right fourth arch becomes the proximal right subclavian. In a right aortic arch, this pattern is reversed: the right fourth arch persists as the aortic arch and the left fourth regresses.",
+        "whyWrongByChoice": {
+          "B": "The third aortic arches form the common carotid arteries; persistence of the right third arch does not result in a right aortic arch.",
+          "C": "Bilateral sixth arch persistence affects the pulmonary arteries and ductus arteriosus; it does not determine aortic arch sidedness.",
+          "D": "Regression of both dorsal aortae would be incompatible with life; compensatory enlargement of the first arch is not a recognized mechanism.",
+          "E": "The second aortic arches regress early in development and contribute to the stapedial artery; they cannot form the transverse aorta."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "right-aortic-arch"
+      ]
+    },
+    {
+      "id": "ae-050",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 1-day-old neonate is diagnosed with interrupted aortic arch type B, in which the aortic arch is discontinuous between the left common carotid and left subclavian arteries. The infant also has DiGeorge syndrome (22q11.2 deletion). Which aortic arch derivative has failed to develop in this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left third aortic arch that forms the left common carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "The left sixth aortic arch that forms the ductus arteriosus and left pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "The left fourth aortic arch that forms the transverse aortic arch segment"
+        },
+        {
+          "label": "D",
+          "text": "The right fourth aortic arch that forms the proximal right subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "The right sixth aortic arch that forms the right pulmonary artery and distal connections"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Interrupted aortic arch type B involves discontinuity between the left common carotid and left subclavian arteries, corresponding to the segment formed by the left fourth aortic arch. This is strongly associated with DiGeorge syndrome.",
+        "whyCorrect": "The left fourth aortic arch normally forms the segment of the definitive aortic arch between the origins of the left common carotid artery and the left subclavian artery. In interrupted aortic arch type B, this segment fails to develop due to abnormal regression of the left fourth arch. This is the most common type and is frequently associated with 22q11.2 deletion.",
+        "whyWrongByChoice": {
+          "A": "The left third aortic arch forms the left common carotid artery; its absence would affect carotid development, not the aortic arch segment between carotid and subclavian.",
+          "B": "The left sixth arch forms the ductus arteriosus and left pulmonary artery; its failure would affect pulmonary arterial anatomy, not the aortic arch.",
+          "D": "The right fourth aortic arch forms the proximal right subclavian artery; its absence is not related to interrupted aortic arch type B.",
+          "E": "The right sixth arch contributes to the right pulmonary artery; its distal portion normally regresses. Its absence does not cause interrupted aortic arch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "interrupted-aortic-arch",
+        "DiGeorge"
+      ]
+    },
+    {
+      "id": "ae-051",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A medical student is reviewing embryology and notes that the recurrent laryngeal nerves have an asymmetric course. The left recurrent laryngeal nerve loops under the aortic arch, while the right recurrent laryngeal nerve loops under the right subclavian artery. Which of the following best explains this asymmetry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left vagus nerve migrates further caudally during embryonic folding than the right vagus"
+        },
+        {
+          "label": "B",
+          "text": "The left recurrent nerve is derived from the third pharyngeal arch, unlike the right-sided nerve"
+        },
+        {
+          "label": "C",
+          "text": "The right recurrent nerve is initially absent and develops secondarily from cervical fibers"
+        },
+        {
+          "label": "D",
+          "text": "The left fourth aortic arch persists as the aortic arch, trapping the left recurrent nerve inferiorly"
+        },
+        {
+          "label": "E",
+          "text": "The right distal sixth arch regresses, allowing the right recurrent nerve to ascend to the subclavian level"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The recurrent laryngeal nerves initially loop under the sixth aortic arches bilaterally. On the right, the distal sixth arch regresses, allowing the nerve to ascend to loop under the next persisting structure (right subclavian from the fourth arch). On the left, the distal sixth arch persists as the ductus arteriosus, keeping the nerve looped under the aortic arch.",
+        "whyCorrect": "During development, both recurrent laryngeal nerves loop caudal to the sixth aortic arches. The right sixth arch (distal portion) regresses completely, so the right recurrent laryngeal nerve ascends to loop under the right fourth arch derivative (right subclavian artery). The left sixth arch's distal portion persists as the ductus arteriosus, keeping the left recurrent nerve looped low.",
+        "whyWrongByChoice": {
+          "A": "Both vagus nerves descend similarly; the asymmetry is due to asymmetric regression of the aortic arches, not differential vagal migration.",
+          "B": "Both recurrent laryngeal nerves are branches of the vagus nerve (CN X) associated with the sixth pharyngeal arch, not the third arch.",
+          "C": "The right recurrent laryngeal nerve is present from early development; it is not a secondary development from cervical nerve fibers.",
+          "D": "While the left fourth arch does persist as the aortic arch, the nerve loops under the sixth arch derivative (ductus arteriosus/ligamentum arteriosum), not the fourth arch itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "recurrent-laryngeal-nerve"
+      ]
+    },
+    {
+      "id": "ae-052",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 35-year-old woman undergoes CT angiography for evaluation of upper extremity blood pressure discrepancy. Imaging reveals a right-sided aortic arch with an aberrant left subclavian artery arising as the last branch of the aortic arch, passing behind the esophagus. A Kommerell diverticulum is noted at the origin of the aberrant vessel. Which of the following embryological events best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regression of the left fourth aortic arch with persistence of the left dorsal aorta distal to the seventh intersegmental artery"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of both fourth aortic arches with regression of the right dorsal aorta"
+        },
+        {
+          "label": "C",
+          "text": "Abnormal septation of the truncus arteriosus leading to malposition of the great vessels"
+        },
+        {
+          "label": "D",
+          "text": "Regression of the right third aortic arch with compensatory hypertrophy of the sixth arch"
+        },
+        {
+          "label": "E",
+          "text": "Persistence of the left second aortic arch forming an anomalous left subclavian origin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A right aortic arch with aberrant left subclavian artery occurs when the right fourth arch persists, the left fourth arch regresses, and the left dorsal aorta persists distal to the left seventh intersegmental artery. The Kommerell diverticulum is the remnant of the left dorsal aorta.",
+        "whyCorrect": "In this anomaly, the right fourth arch persists forming a right-sided aortic arch. The left fourth arch regresses, but the left dorsal aorta distal to the origin of the left seventh intersegmental artery (future left subclavian) persists. This causes the left subclavian artery to arise as the last branch, coursing behind the esophagus. The Kommerell diverticulum is the dilated remnant of the left dorsal aorta.",
+        "whyWrongByChoice": {
+          "B": "Persistence of both fourth arches would create a double aortic arch, not a right arch with aberrant left subclavian.",
+          "C": "Truncal septation abnormalities lead to conditions like transposition or truncus arteriosus, not aortic arch laterality anomalies.",
+          "D": "The third arch forms the common carotid arteries, and the sixth arch forms the pulmonary arteries; their abnormalities do not explain this pattern.",
+          "E": "The second aortic arches regress early in development and are not involved in subclavian artery formation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "right-aortic-arch",
+        "Kommerell-diverticulum"
+      ]
+    },
+    {
+      "id": "ae-053",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A newborn infant has a chest radiograph that shows a right-sided aortic arch. The neonatologist considers the associated congenital heart defects. Which of the following congenital cardiac anomalies is most commonly associated with a right-sided aortic arch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial septal defect of the secundum type with left-to-right shunting"
+        },
+        {
+          "label": "B",
+          "text": "Patent foramen ovale with intermittent right-to-left shunting on Valsalva"
+        },
+        {
+          "label": "C",
+          "text": "Isolated bicuspid aortic valve without hemodynamic compromise at birth"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot with right ventricular outflow tract obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Mitral valve prolapse with mild regurgitation and myxomatous degeneration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A right-sided aortic arch is most commonly associated with tetralogy of Fallot (present in approximately 25% of cases) and truncus arteriosus. These conotruncal defects share a developmental relationship with aortic arch laterality due to neural crest cell involvement.",
+        "whyCorrect": "Right aortic arch is present in about 25% of patients with tetralogy of Fallot, making TOF the most common congenital heart defect associated with this arch anomaly. Both conditions involve abnormal neural crest cell migration affecting conotruncal and aortic arch development.",
+        "whyWrongByChoice": {
+          "A": "Secundum ASD is a septal defect unrelated to aortic arch development or neural crest cell migration; it is not specifically associated with right aortic arch.",
+          "B": "Patent foramen ovale is an extremely common normal variant and is not specifically associated with right aortic arch.",
+          "C": "Bicuspid aortic valve is associated with aortic coarctation and aortopathy, not specifically with right-sided aortic arch.",
+          "E": "Mitral valve prolapse is related to connective tissue abnormalities, not to aortic arch development or neural crest anomalies."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "aortic-arch-development",
+        "right-aortic-arch",
+        "tetralogy-of-Fallot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "categories": [
+    {
+      "id": "anatomy-embryology",
+      "name": "Anatomy & Embryology",
+      "topics": [
+        { "id": "mediastinum-1", "name": "Mediastinum (Part 1)", "sourceFile": "Brick Exchange • Mediastinum (Part 1 of 2).pdf", "questionCount": 10 },
+        { "id": "mediastinum-2", "name": "Mediastinum (Part 2)", "sourceFile": "Brick Exchange • Mediastinum (Part 2 of 2).pdf", "questionCount": 10 },
+        { "id": "anatomy-of-the-heart", "name": "Anatomy of the Heart", "sourceFile": "Brick Exchange • Anatomy of the Heart.pdf", "questionCount": 13 },
+        { "id": "vasculature-lymphatics-heart", "name": "Vasculature and Lymphatics of the Heart", "sourceFile": "Brick Exchange • Vasculature and Lymphatics of the Heart.pdf", "questionCount": 10 },
+        { "id": "development-aortic-arches", "name": "Development of the Aortic Arches", "sourceFile": "Brick Exchange • Development of the Aortic Arches.pdf", "questionCount": 10 }
+      ]
+    },
+    {
+      "id": "histology",
+      "name": "Histology",
+      "topics": [
+        { "id": "histology-of-the-heart", "name": "Histology of the Heart", "sourceFile": "Brick Exchange • Histology of the Heart.pdf", "questionCount": 12 },
+        { "id": "histology-blood-vessels-lymphatics", "name": "Histology of Blood Vessels and Lymphatics", "sourceFile": "Brick Exchange • Histology of Blood Vessels and Lymphatics.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "cardiac-physiology",
+      "name": "Cardiac Physiology",
+      "topics": [
+        { "id": "cardiac-cycle", "name": "Cardiac Cycle", "sourceFile": "Brick Exchange • Cardiac Cycle.pdf", "questionCount": 12 },
+        { "id": "heart-sounds", "name": "Heart Sounds (S1, S2, S3, S4)", "sourceFile": "Brick Exchange • Heart Sounds (S1, S2, S3, and S4).pdf", "questionCount": 12 },
+        { "id": "compliance-contractility-preload-afterload", "name": "Compliance, Contractility, Preload, and Afterload", "sourceFile": "Brick Exchange • Cardiac - Compliance, Contractility, Preload, and Afterload.pdf", "questionCount": 12 },
+        { "id": "measuring-cardiac-function", "name": "Measuring Cardiac Function", "sourceFile": "Brick Exchange • Measuring Cardiac Function.pdf", "questionCount": 10 },
+        { "id": "cardiac-vascular-function-curves", "name": "Cardiac and Vascular Function Curves", "sourceFile": "Brick Exchange • Cardiac and Vascular Function Curves.pdf", "questionCount": 12 },
+        { "id": "pressure-volume-loops", "name": "Pressure Volume (PV) Loops", "sourceFile": "Brick Exchange • Pressure Volume (PV) Loops.pdf", "questionCount": 12 },
+        { "id": "coronary-blood-flow", "name": "Coronary Blood Flow", "sourceFile": "Brick Exchange • Coronary Blood Flow- Vascular Physiology.pdf", "questionCount": 12 },
+        { "id": "starling-forces", "name": "Starling Forces", "sourceFile": "Brick Exchange • Starling Forces.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "hemodynamics-bp-regulation",
+      "name": "Hemodynamics & Blood Pressure Regulation",
+      "topics": [
+        { "id": "hemodynamics-blood-pressure", "name": "Hemodynamics: Blood Pressure", "sourceFile": "Brick Exchange • Hemodynamics_ Blood Pressure.pdf", "questionCount": 12 },
+        { "id": "blood-pressure-control", "name": "Blood Pressure Control: Foundations", "sourceFile": "Brick Exchange • Blood Pressure Control_ Foundations and Frameworks.pdf", "questionCount": 10 },
+        { "id": "baroreceptor-regulation", "name": "Baroreceptor Regulation of Blood Pressure", "sourceFile": "Brick Exchange • Baroreceptor Regulation of Blood Pressure.pdf", "questionCount": 10 },
+        { "id": "humoral-regulation", "name": "Humoral Regulation of Blood Pressure", "sourceFile": "Brick Exchange • Humoral Regulation of Blood Pressure.pdf", "questionCount": 10 },
+        { "id": "local-control-microcirculation", "name": "Local Control of the Microcirculation", "sourceFile": "Brick Exchange • Local Control of the Microcirculation.pdf", "questionCount": 10 },
+        { "id": "edema", "name": "Edema", "sourceFile": "Brick Exchange • Edema.pdf", "questionCount": 12 },
+        { "id": "hypotension", "name": "Hypotension", "sourceFile": "Brick Exchange • Hypotension_ Causes, Consequences, and Management.pdf", "questionCount": 10 }
+      ]
+    },
+    {
+      "id": "ecg-arrhythmias",
+      "name": "Electrocardiography & Arrhythmias",
+      "topics": [
+        { "id": "ecg-fundamentals", "name": "ECG: Fundamentals and Lead Placement", "sourceFile": "Brick Exchange • Electrocardiogram_ Fundamentals and Lead Placement (1 of 2).pdf", "questionCount": 12 },
+        { "id": "ecg-waves-intervals", "name": "ECG: Waves, Intervals, and Segments", "sourceFile": "Brick Exchange • Electrocardiogram_ Waves, Intervals, and Segments (2 of 2).pdf", "questionCount": 12 },
+        { "id": "ecg-sinus-brady-tachy", "name": "ECG: Sinus Bradycardia and Tachycardia", "sourceFile": "Brick Exchange • ECG Learning_ Sinus Bradycardia and Tachycardia.pdf", "questionCount": 10 },
+        { "id": "st-segment-changes", "name": "ST Segment Changes", "sourceFile": "Brick Exchange • ST Segment Changes_ Recognition and Localization of Myocardial Ischemia.pdf", "questionCount": 14 },
+        { "id": "arrhythmias-pathophys-diagnosis", "name": "Arrhythmias: Pathophysiology and Diagnosis", "sourceFile": "Brick Exchange • Arrhythmias_ Pathophysiology and Diagnosis.pdf", "questionCount": 14 },
+        { "id": "heart-blocks", "name": "Heart Blocks", "sourceFile": "Brick Exchange • Heart Blocks_ Pathophysiology, Diagnosis and Treatment.pdf", "questionCount": 12 },
+        { "id": "sinus-bradycardia-disorders", "name": "Sinus Bradycardia and Related Disorders", "sourceFile": "Brick Exchange • Sinus Bradycardia and Related Disorders.pdf", "questionCount": 12 },
+        { "id": "supraventricular-arrhythmias", "name": "Supraventricular Arrhythmias", "sourceFile": "Brick Exchange • Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment.pdf", "questionCount": 14 },
+        { "id": "ventricular-arrhythmias", "name": "Ventricular Arrhythmias", "sourceFile": "Brick Exchange • Ventricular Arrhythmias.pdf", "questionCount": 14 },
+        { "id": "atrial-fibrillation", "name": "Atrial Fibrillation", "sourceFile": "Brick Exchange • Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment.pdf", "questionCount": 14 }
+      ]
+    },
+    {
+      "id": "hypertension",
+      "name": "Hypertension",
+      "topics": [
+        { "id": "hypertension-foundations", "name": "Hypertension: Foundations and Frameworks", "sourceFile": "Brick Exchange • Hypertension_ Foundations and Frameworks.pdf", "questionCount": 12 },
+        { "id": "primary-hypertension", "name": "Primary (Essential) Hypertension", "sourceFile": "Brick Exchange • Primary (Essential) Hypertension.pdf", "questionCount": 12 },
+        { "id": "secondary-hypertension", "name": "Secondary Hypertension", "sourceFile": "Brick Exchange • Secondary Hypertension.pdf", "questionCount": 12 },
+        { "id": "hypertensive-emergency", "name": "Hypertensive Emergency", "sourceFile": "Brick Exchange • Hypertensive Emergency.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "coronary-artery-disease",
+      "name": "Coronary Artery Disease & ACS",
+      "topics": [
+        { "id": "atherosclerosis", "name": "Atherosclerosis", "sourceFile": "Brick Exchange • Atherosclerosis.pdf", "questionCount": 14 },
+        { "id": "angina-pectoris", "name": "Angina Pectoris", "sourceFile": "Brick Exchange • Angina Pectoris.pdf", "questionCount": 14 },
+        { "id": "myocardial-infarction", "name": "Myocardial Infarction", "sourceFile": "Brick Exchange • Myocardial Infarction.pdf", "questionCount": 16 },
+        { "id": "treatment-acs", "name": "Treatment of Acute Coronary Syndrome", "sourceFile": "Brick Exchange • Treatment of Acute Coronary Syndrome - Agents and Interventions.pdf", "questionCount": 14 },
+        { "id": "cardiovascular-imaging", "name": "Diagnosis by Cardiovascular Imaging", "sourceFile": "Brick Exchange • Diagnosis by Cardiovascular Imaging.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "valvular-structural",
+      "name": "Valvular & Structural Heart Disease",
+      "topics": [
+        { "id": "aortic-stenosis", "name": "Aortic Stenosis", "sourceFile": "Brick Exchange • Aortic Stenosis.pdf", "questionCount": 14 },
+        { "id": "aortic-regurgitation-pulmonic", "name": "Aortic Regurgitation and Pulmonary Valve Disease", "sourceFile": "Brick Exchange • Aortic Regurgitation and Pulmonary Valve Disease.pdf", "questionCount": 12 },
+        { "id": "mitral-stenosis", "name": "Mitral Stenosis", "sourceFile": "Brick Exchange • Mitral Stenosis.pdf", "questionCount": 12 },
+        { "id": "mitral-regurgitation-mvp", "name": "Mitral Regurgitation and Mitral Valve Prolapse", "sourceFile": "Brick Exchange • Mitral Regurgitation and Mitral Valve Prolapse.pdf", "questionCount": 12 },
+        { "id": "tricuspid-disease", "name": "Tricuspid Regurgitation and Tricuspid Stenosis", "sourceFile": "Brick Exchange • Tricuspid Regurgitation and Tricuspid Stenosis.pdf", "questionCount": 10 },
+        { "id": "rheumatic-fever-rhd", "name": "Acute Rheumatic Fever and Rheumatic Heart Disease", "sourceFile": "Brick Exchange • Acute Rheumatic Fever and Rheumatic Heart Disease.pdf", "questionCount": 14 },
+        { "id": "infective-endocarditis", "name": "Infective Endocarditis", "sourceFile": "Brick Exchange • Infective Endocarditis.pdf", "questionCount": 14 },
+        { "id": "nbte", "name": "Nonbacterial Thrombotic Endocarditis", "sourceFile": "Brick Exchange • Nonbacterial Thrombotic Endocarditis.pdf", "questionCount": 10 },
+        { "id": "cardiac-tumors", "name": "Cardiac Tumors", "sourceFile": "Brick Exchange • Cardiac Tumors.pdf", "questionCount": 10 }
+      ]
+    },
+    {
+      "id": "cardiomyopathy-hf-shock",
+      "name": "Cardiomyopathy, Heart Failure & Shock",
+      "topics": [
+        { "id": "dilated-cardiomyopathy", "name": "Dilated Cardiomyopathy", "sourceFile": "Brick Exchange • Dilated Cardiomyopathy.pdf", "questionCount": 12 },
+        { "id": "lvh-hcm", "name": "LV Hypertrophy and Hypertrophic Cardiomyopathy", "sourceFile": "Brick Exchange • Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy.pdf", "questionCount": 14 },
+        { "id": "restrictive-cardiomyopathy", "name": "Restrictive Cardiomyopathy", "sourceFile": "Brick Exchange • Restrictive Cardiomyopathy.pdf", "questionCount": 12 },
+        { "id": "arvc", "name": "Arrhythmogenic Right Ventricular Cardiomyopathy", "sourceFile": "Brick Exchange • Arrhythmogenic Right Ventricular Cardiomyopathy.pdf", "questionCount": 10 },
+        { "id": "heart-failure-physiology", "name": "Physiology of Heart Failure", "sourceFile": "Brick Exchange • Physiology of Heart Failure.pdf", "questionCount": 12 },
+        { "id": "heart-failure-diagnosis", "name": "Diagnosis of Heart Failure", "sourceFile": "Brick Exchange • Diagnosis of Heart Failure_ From Clinical Presentation to Classification.pdf", "questionCount": 12 },
+        { "id": "heart-failure-management", "name": "Management of Chronic Heart Failure", "sourceFile": "Brick Exchange • Management of Chronic Heart Failure.pdf", "questionCount": 14 },
+        { "id": "shock", "name": "Shock", "sourceFile": "Brick Exchange • Shock.pdf", "questionCount": 12 },
+        { "id": "management-of-shock", "name": "Management of Shock", "sourceFile": "Brick Exchange • Management of Shock.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "pericardial-disease",
+      "name": "Pericardial Disease",
+      "topics": [
+        { "id": "acute-pericarditis", "name": "Acute Pericarditis", "sourceFile": "Brick Exchange • Acute Pericarditis.pdf", "questionCount": 12 },
+        { "id": "constrictive-pericarditis", "name": "Constrictive Pericarditis", "sourceFile": "Brick Exchange • Constrictive Pericarditis.pdf", "questionCount": 12 },
+        { "id": "pericardial-effusion-tamponade", "name": "Pericardial Effusion and Cardiac Tamponade", "sourceFile": "Brick Exchange • Pericardial Effusion and Cardiac Tamponade.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "vascular-disease",
+      "name": "Vascular Disease",
+      "topics": [
+        { "id": "aortic-aneurysm", "name": "Aortic Aneurysm", "sourceFile": "Brick Exchange • Aortic Aneurysm.pdf", "questionCount": 12 },
+        { "id": "aortic-dissection", "name": "Aortic Dissection", "sourceFile": "Brick Exchange • Aortic Dissection.pdf", "questionCount": 14 },
+        { "id": "peripheral-arterial-disease", "name": "Peripheral Arterial Disease", "sourceFile": "Brick Exchange • Peripheral Arterial Disease.pdf", "questionCount": 12 },
+        { "id": "carotid-stenosis", "name": "Carotid Stenosis", "sourceFile": "Brick Exchange • Carotid Stenosis.pdf", "questionCount": 10 },
+        { "id": "arterial-emboli", "name": "Arterial Emboli", "sourceFile": "Brick Exchange • Arterial Emboli.pdf", "questionCount": 12 },
+        { "id": "dvt", "name": "Deep Vein Thrombosis", "sourceFile": "Brick Exchange • Deep Vein Thrombosis.pdf", "questionCount": 12 },
+        { "id": "superficial-venous-disease", "name": "Superficial Venous Disease", "sourceFile": "Brick Exchange • Superficial Venous Disease.pdf", "questionCount": 9 },
+        { "id": "large-vessel-vasculitis", "name": "Large-Vessel Vasculitis", "sourceFile": "Brick Exchange • Large-Vessel Vasculitis.pdf", "questionCount": 12 },
+        { "id": "medium-vessel-vasculitis", "name": "Medium-Vessel Vasculitis", "sourceFile": "Brick Exchange • Medium-Vessel Vasculitis.pdf", "questionCount": 12 },
+        { "id": "small-vessel-vasculitis", "name": "Small-Vessel Vasculitis", "sourceFile": "Brick Exchange • Small-Vessel Vasculitis.pdf", "questionCount": 12 }
+      ]
+    },
+    {
+      "id": "congenital-heart-disease",
+      "name": "Congenital Heart Disease",
+      "topics": [
+        { "id": "chd-foundations", "name": "Congenital Heart Defects: Foundations", "sourceFile": "Brick Exchange • Congenital Heart Defects_ Foundations and Frameworks.pdf", "questionCount": 10 },
+        { "id": "obstructive-chd", "name": "Obstructive Congenital Heart Defects", "sourceFile": "Brick Exchange • Obstructive Congenital Heart Defects.pdf", "questionCount": 12 },
+        { "id": "acyanotic-chd", "name": "Acyanotic CHD (Left-to-Right Shunts)", "sourceFile": "Brick Exchange • Acyanotic Congenital Heart Defects (Left-to-Right Shunts).pdf", "questionCount": 14 },
+        { "id": "cyanotic-chd", "name": "Cyanotic CHD (Right-to-Left Shunts)", "sourceFile": "Brick Exchange • Cyanotic Congenital Heart Defects (Right-to-Left Shunts).pdf", "questionCount": 14 }
+      ]
+    },
+    {
+      "id": "cardiovascular-pharmacology",
+      "name": "Cardiovascular Pharmacology",
+      "topics": [
+        { "id": "antiarrhythmic-class-i", "name": "Antiarrhythmic Agents: Class I", "sourceFile": "Brick Exchange • Antiarrhythmic Agents - Class I Drugs.pdf", "questionCount": 12 },
+        { "id": "antiarrhythmic-class-ii-iv", "name": "Antiarrhythmic Agents: Classes II-IV", "sourceFile": "Brick Exchange • Antiarrhythmic Agents_ Classes II-IV.pdf", "questionCount": 12 },
+        { "id": "antiplatelet-drugs", "name": "Antiplatelet Drugs", "sourceFile": "Brick Exchange • Antiplatelet Drugs.pdf", "questionCount": 12 },
+        { "id": "doacs", "name": "DOACs", "sourceFile": "Brick Exchange • DOACs.pdf", "questionCount": 10 },
+        { "id": "dyslipidemia-pathophysiology", "name": "Dyslipidemia: Pathophysiology", "sourceFile": "Brick Exchange • Dyslipidemia_ Pathophysiology.pdf", "questionCount": 12 },
+        { "id": "dyslipidemia-pharmacological", "name": "Dyslipidemia: Pharmacological Options", "sourceFile": "Brick Exchange • Dyslipidemia_ Pharmacological and Non-Pharmacological options.pdf", "questionCount": 10 },
+        { "id": "treatment-dyslipidemia", "name": "Treatment of Dyslipidemia", "sourceFile": "Brick Exchange • Treatment of Dyslipidemia.pdf", "questionCount": 10 },
+        { "id": "ascvd-prevent-risk-score", "name": "ASCVD-PREVENT Risk Score", "sourceFile": "Brick Exchange • ASCVD-PREVENT Risk Score in Dyslipidemia Management.pdf", "questionCount": 10 }
+      ]
+    }
+  ],
+  "totalQuestions": 1000
+}

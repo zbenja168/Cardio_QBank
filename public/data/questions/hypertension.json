@@ -1,0 +1,1302 @@
+{
+  "categoryId": "hypertension",
+  "categoryName": "Hypertension",
+  "questions": [
+    {
+      "id": "htn-001",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 52-year-old man presents for a routine health examination. His blood pressure is measured at 136/84 mmHg in the office on three separate occasions over the past month. He has no history of diabetes or chronic kidney disease. According to the 2017 ACC/AHA guidelines, which of the following best describes this patient's blood pressure classification?",
+      "choices": [
+        { "label": "A", "text": "Normal blood pressure" },
+        { "label": "B", "text": "Elevated blood pressure" },
+        { "label": "C", "text": "Stage 1 hypertension" },
+        { "label": "D", "text": "Stage 2 hypertension" },
+        { "label": "E", "text": "Hypertensive urgency" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Under the 2017 ACC/AHA guidelines, Stage 1 hypertension is defined as systolic BP 130-139 mmHg or diastolic BP 80-89 mmHg. This patient's readings of 136/84 mmHg fall within this range.",
+        "whyCorrect": "Stage 1 hypertension (130-139/80-89 mmHg) accurately classifies this patient's blood pressure of 136/84 mmHg based on the 2017 ACC/AHA guidelines, which lowered the threshold from the previous JNC 7 cutoff of 140/90 mmHg.",
+        "whyWrongByChoice": {
+          "A": "Normal blood pressure is defined as systolic <120 mmHg and diastolic <80 mmHg. This patient's readings exceed both thresholds.",
+          "B": "Elevated blood pressure is defined as systolic 120-129 mmHg and diastolic <80 mmHg. This patient's systolic (136) and diastolic (84) both exceed these ranges.",
+          "D": "Stage 2 hypertension requires systolic ≥140 mmHg or diastolic ≥90 mmHg. This patient's values do not reach that threshold.",
+          "E": "Hypertensive urgency refers to severely elevated BP (typically >180/120 mmHg) without acute target organ damage. This patient's BP is far below that level."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-002",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 48-year-old woman has her blood pressure measured at a pharmacy kiosk and obtains a reading of 148/92 mmHg. She visits her physician the next day, and her office blood pressure is 132/82 mmHg. Ambulatory blood pressure monitoring over 24 hours reveals a mean daytime BP of 128/78 mmHg. Which of the following terms best describes this pattern?",
+      "choices": [
+        { "label": "A", "text": "Masked hypertension" },
+        { "label": "B", "text": "White-coat hypertension" },
+        { "label": "C", "text": "Sustained hypertension" },
+        { "label": "D", "text": "Isolated systolic hypertension" },
+        { "label": "E", "text": "Labile hypertension" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "White-coat hypertension is characterized by elevated BP readings in a clinical or semi-clinical setting but normal readings on ambulatory or home monitoring. This patient has elevated readings at the pharmacy and office but normal 24-hour ambulatory values.",
+        "whyCorrect": "White-coat hypertension (also called white-coat effect or isolated office hypertension) describes patients whose BP is elevated in clinical settings but normal on out-of-office measurements such as ambulatory blood pressure monitoring (ABPM). The mean daytime ABPM of 128/78 is below the 135/85 threshold for ambulatory hypertension.",
+        "whyWrongByChoice": {
+          "A": "Masked hypertension is the opposite pattern: normal office BP but elevated out-of-office BP. This patient has the reverse finding.",
+          "C": "Sustained hypertension would require consistently elevated BP both in-office and on ambulatory monitoring, which is not the case here.",
+          "D": "Isolated systolic hypertension refers to elevated systolic BP with normal diastolic BP. This patient's pharmacy reading showed both systolic and diastolic elevation.",
+          "E": "Labile hypertension refers to intermittent BP fluctuations between normal and elevated values without a specific pattern related to clinical settings. The consistent in-office elevation with normal ambulatory readings is characteristic of white-coat hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-003",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 55-year-old man with no known medical history has consistently normal blood pressure readings in his physician's office (average 124/78 mmHg). However, home blood pressure monitoring reveals average readings of 142/90 mmHg over two weeks. He is asymptomatic. Which of the following is the most significant clinical concern associated with this patient's condition?",
+      "choices": [
+        { "label": "A", "text": "Higher cardiovascular risk than white-coat hypertension" },
+        { "label": "B", "text": "Likely secondary to measurement error at home" },
+        { "label": "C", "text": "Benign condition not requiring treatment" },
+        { "label": "D", "text": "Lower cardiovascular risk than sustained hypertension" },
+        { "label": "E", "text": "Associated primarily with anxiety disorders" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient has masked hypertension (normal office BP but elevated home/ambulatory BP), which carries a higher cardiovascular risk than white-coat hypertension and is often underdiagnosed because office readings appear reassuring.",
+        "whyCorrect": "Masked hypertension is associated with increased target organ damage and cardiovascular events, carrying a risk profile comparable to or even exceeding sustained hypertension in some studies. It is definitively more dangerous than white-coat hypertension, which has a relatively benign prognosis.",
+        "whyWrongByChoice": {
+          "B": "Validated home BP monitors produce reliable readings. The consistent elevation over two weeks with proper technique is unlikely to be measurement error.",
+          "C": "Masked hypertension is not benign. It is associated with increased left ventricular hypertrophy, carotid intima-media thickness, and cardiovascular events, and it warrants treatment.",
+          "D": "While some data suggest masked hypertension may have similar risk to sustained hypertension, stating it has lower risk underestimates its danger. The most significant concern is its risk relative to white-coat hypertension.",
+          "E": "Masked hypertension is not primarily associated with anxiety disorders. It may be related to physical activity, work stress, smoking, or alcohol use that elevate BP outside the office setting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-004",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 60-year-old man presents with a blood pressure of 162/78 mmHg confirmed on repeated measurements. He has a wide pulse pressure and a brisk carotid upstroke. Echocardiography shows concentric left ventricular hypertrophy. Which of the following pathophysiologic changes most likely accounts for his blood pressure pattern?",
+      "choices": [
+        { "label": "A", "text": "Increased peripheral vascular resistance" },
+        { "label": "B", "text": "Excessive renal sodium reabsorption" },
+        { "label": "C", "text": "Increased cardiac output from hyperkinetic circulation" },
+        { "label": "D", "text": "Decreased large artery compliance" },
+        { "label": "E", "text": "Autonomic dysfunction with impaired baroreflex" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Isolated systolic hypertension with wide pulse pressure in an older adult is primarily due to decreased large artery (aortic) compliance from age-related arterial stiffening. The stiff aorta cannot buffer systolic pressure, leading to elevated systolic but normal or low diastolic BP.",
+        "whyCorrect": "Decreased large artery compliance (arterial stiffness) increases systolic BP by reducing the Windkessel buffering function of the aorta. The stiff aorta cannot expand during systole to absorb ejected volume, raising systolic pressure. Diastolic pressure may fall because the stiff aorta fails to recoil and maintain diastolic pressure, producing the characteristic wide pulse pressure.",
+        "whyWrongByChoice": {
+          "A": "Increased peripheral vascular resistance typically raises both systolic and diastolic BP proportionally, producing diastolic hypertension rather than isolated systolic hypertension with a wide pulse pressure.",
+          "C": "A hyperkinetic circulation (high cardiac output) can cause systolic hypertension but is more typical in young patients with conditions such as hyperthyroidism or anemia, not in a 60-year-old with concentric LVH.",
+          "B": "Excessive sodium reabsorption expands plasma volume and raises both systolic and diastolic pressures. It does not selectively produce isolated systolic hypertension with wide pulse pressure.",
+          "E": "Autonomic dysfunction typically produces orthostatic hypotension or labile blood pressure rather than consistent isolated systolic hypertension."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-005",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A research team studies the relationship between blood pressure and cardiovascular mortality across populations. They find that the risk of cardiovascular death doubles with each increment of 20 mmHg systolic or 10 mmHg diastolic above a baseline. At which blood pressure level does this log-linear relationship begin?",
+      "choices": [
+        { "label": "A", "text": "90/60 mmHg" },
+        { "label": "B", "text": "140/90 mmHg" },
+        { "label": "C", "text": "120/80 mmHg" },
+        { "label": "D", "text": "130/85 mmHg" },
+        { "label": "E", "text": "115/75 mmHg" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Landmark epidemiologic data (Lewington et al., Lancet 2002) demonstrate that cardiovascular mortality has a continuous, log-linear relationship with blood pressure beginning at 115/75 mmHg, with the risk doubling for each 20/10 mmHg increase.",
+        "whyCorrect": "The seminal meta-analysis of 61 prospective studies showed that the risk of death from ischemic heart disease and stroke increases continuously and log-linearly starting from 115/75 mmHg. There is no threshold below which BP ceases to correlate with risk, down to at least this level.",
+        "whyWrongByChoice": {
+          "A": "90/60 mmHg is below the level at which the log-linear relationship has been documented. At very low pressures, the relationship may not hold and hypotension carries its own risks.",
+          "C": "120/80 mmHg was the traditional 'normal' cutoff but the log-linear relationship begins at a lower level (115/75 mmHg), meaning risk accrues even below 120/80.",
+          "D": "130/85 mmHg was the upper limit of 'high normal' under older JNC classifications. The continuous risk relationship starts well below this level.",
+          "B": "140/90 mmHg was the traditional threshold for diagnosing hypertension (JNC 7). However, cardiovascular risk begins rising at a significantly lower BP."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-006",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 45-year-old woman with newly diagnosed Stage 1 hypertension (BP 134/86 mmHg) and no other cardiovascular risk factors asks about starting medication. Her 10-year ASCVD risk score is 4%. According to the 2017 ACC/AHA guidelines, which of the following is the most appropriate initial management?",
+      "choices": [
+        { "label": "A", "text": "Start a thiazide diuretic immediately" },
+        { "label": "B", "text": "Initiate an ACE inhibitor and schedule follow-up in 4 weeks" },
+        { "label": "C", "text": "Recommend lifestyle modifications and reassess in 3-6 months" },
+        { "label": "D", "text": "Begin combination therapy with two antihypertensives" },
+        { "label": "E", "text": "Order renal artery duplex to rule out secondary causes" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For Stage 1 hypertension without compelling indications and a 10-year ASCVD risk <10%, the 2017 ACC/AHA guidelines recommend lifestyle modifications first, with reassessment in 3-6 months before initiating pharmacotherapy.",
+        "whyCorrect": "The 2017 guidelines recommend pharmacologic treatment for Stage 1 hypertension only when the 10-year ASCVD risk is ≥10% or the patient has established cardiovascular disease, diabetes, or CKD. With a risk of 4%, lifestyle modifications (DASH diet, exercise, sodium restriction, weight management, alcohol moderation) are the appropriate first step.",
+        "whyWrongByChoice": {
+          "A": "Pharmacotherapy is not indicated as first-line for Stage 1 hypertension when the 10-year ASCVD risk is <10% and no compelling indications exist.",
+          "B": "An ACE inhibitor is not recommended as initial management when lifestyle changes alone are appropriate for this risk category.",
+          "D": "Combination therapy is typically reserved for Stage 2 hypertension (≥140/90 mmHg) or patients who fail monotherapy. It is not appropriate for this patient.",
+          "E": "Renal artery duplex is indicated when secondary hypertension is suspected (e.g., young onset, resistant hypertension, abdominal bruit). This patient has no features suggestive of secondary causes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-007",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 67-year-old man with type 2 diabetes and Stage 1 hypertension (BP 138/82 mmHg) is being evaluated. His serum creatinine is 1.0 mg/dL and urinalysis shows no proteinuria. According to current guidelines, what is the recommended blood pressure treatment target for this patient?",
+      "choices": [
+        { "label": "A", "text": "<120/80 mmHg" },
+        { "label": "B", "text": "<140/90 mmHg" },
+        { "label": "C", "text": "<135/85 mmHg" },
+        { "label": "D", "text": "<130/80 mmHg" },
+        { "label": "E", "text": "<150/90 mmHg" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The 2017 ACC/AHA guidelines recommend a BP target of <130/80 mmHg for patients with diabetes mellitus, as this population has elevated cardiovascular risk and benefits from more intensive BP lowering.",
+        "whyCorrect": "For adults with diabetes (and also CKD, established ASCVD, or 10-year ASCVD risk ≥10%), the 2017 ACC/AHA guidelines recommend a BP treatment target of <130/80 mmHg, supported by data from the SPRINT trial and meta-analyses demonstrating cardiovascular benefit from intensive BP control.",
+        "whyWrongByChoice": {
+          "A": "While intensive BP lowering to <120 mmHg systolic showed benefit in SPRINT, that trial excluded diabetic patients. A target of <120/80 is not the guideline recommendation for diabetic patients.",
+          "B": "The previous JNC 8 guideline recommended <140/90 mmHg for most patients including diabetics, but the 2017 ACC/AHA guidelines lowered the target to <130/80 mmHg for high-risk groups.",
+          "E": "A target of <150/90 mmHg was a JNC 8 recommendation only for patients ≥60 years without diabetes or CKD. This patient has diabetes, warranting a lower target.",
+          "C": "There is no major guideline that recommends a specific target of <135/85 mmHg. This value is used as the threshold for home or ambulatory BP monitoring to diagnose hypertension, not as a treatment target."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-008",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A clinical trial enrolls 9,300 patients with hypertension but without diabetes and randomizes them to intensive BP control (target systolic <120 mmHg) versus standard control (target systolic <140 mmHg). After 3.3 years, the trial is stopped early due to significantly lower rates of cardiovascular events and all-cause mortality in the intensive arm. Which of the following adverse effects was most significantly increased in the intensive treatment group?",
+      "choices": [
+        { "label": "A", "text": "Hyperkalemia requiring hospitalization" },
+        { "label": "B", "text": "Hepatotoxicity from antihypertensive agents" },
+        { "label": "C", "text": "Hemorrhagic stroke" },
+        { "label": "D", "text": "New-onset atrial fibrillation" },
+        { "label": "E", "text": "Acute kidney injury or renal failure" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This describes the SPRINT trial. While intensive BP lowering reduced major cardiovascular events and mortality, it significantly increased rates of acute kidney injury, hypotension, syncope, and electrolyte abnormalities compared to the standard arm.",
+        "whyCorrect": "In the SPRINT trial, intensive BP control (target <120 mmHg systolic) led to significantly higher rates of acute kidney injury or acute renal failure (4.1% vs 2.5%), along with hypotension, syncope, and electrolyte disturbances. The renal effects were the most clinically notable adverse outcome.",
+        "whyWrongByChoice": {
+          "A": "While electrolyte abnormalities (including hyponatremia and hypokalemia) were increased in the intensive arm, hyperkalemia requiring hospitalization was not the most significantly elevated adverse effect.",
+          "C": "Hemorrhagic stroke was not increased in the intensive treatment arm of SPRINT. In fact, stroke rates trended lower with intensive treatment, though the difference was not statistically significant.",
+          "D": "New-onset atrial fibrillation was not a significantly increased adverse outcome in the SPRINT intensive treatment group.",
+          "B": "Hepatotoxicity was not a notable adverse effect observed in the SPRINT trial. Standard antihypertensive agents rarely cause significant liver injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-009",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A nurse prepares to measure blood pressure on a 42-year-old obese man (BMI 38 kg/m²) with an upper arm circumference of 42 cm. Only a standard adult cuff (bladder width 13 cm) is available. Which of the following errors is most likely to occur if this cuff is used?",
+      "choices": [
+        { "label": "A", "text": "Falsely low systolic and diastolic readings" },
+        { "label": "B", "text": "Falsely high systolic but accurate diastolic reading" },
+        { "label": "C", "text": "Widened auscultatory gap without affecting readings" },
+        { "label": "D", "text": "Falsely high systolic and diastolic readings" },
+        { "label": "E", "text": "Accurate systolic but falsely low diastolic reading" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Using a cuff that is too small for a large arm circumference results in falsely elevated (overestimated) blood pressure readings for both systolic and diastolic values, because the cuff must be inflated to a higher pressure to compress the brachial artery through the excess tissue.",
+        "whyCorrect": "A standard cuff (bladder width 13 cm) on an arm circumference of 42 cm is inadequate; a large adult cuff (bladder width 16 cm) or thigh cuff should be used. An undersized cuff fails to adequately transmit pressure to the brachial artery, requiring higher cuff pressures to occlude the vessel, producing falsely elevated systolic and diastolic readings.",
+        "whyWrongByChoice": {
+          "A": "An undersized cuff overestimates, not underestimates, blood pressure. A cuff that is too large would produce falsely low readings.",
+          "B": "Both systolic and diastolic readings are affected similarly by cuff size error. There is no selective effect on systolic alone.",
+          "E": "An undersized cuff does not produce accurate systolic readings with falsely low diastolic. Both values are overestimated.",
+          "C": "While an auscultatory gap can occur in patients with severe atherosclerosis, the primary effect of using an undersized cuff is falsely elevated readings, not simply an auscultatory gap."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-010",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 70-year-old woman has her blood pressure taken while seated. The systolic reading varies by more than 15 mmHg between heartbeats, with some Korotkoff sounds audible and others absent during cuff deflation at the same pressure. This finding is most commonly associated with which of the following?",
+      "choices": [
+        { "label": "A", "text": "Aortic regurgitation" },
+        { "label": "B", "text": "Cardiac tamponade" },
+        { "label": "C", "text": "Coarctation of the aorta" },
+        { "label": "D", "text": "Atrial fibrillation" },
+        { "label": "E", "text": "Aortic stenosis" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beat-to-beat variability in systolic blood pressure with inconsistent Korotkoff sounds during cuff deflation is characteristic of atrial fibrillation, where irregular R-R intervals produce variable stroke volumes and therefore variable systolic pressures.",
+        "whyCorrect": "In atrial fibrillation, the irregular ventricular rhythm results in varying diastolic filling times and stroke volumes. Beats following longer pauses have higher stroke volumes and systolic pressures, while beats following shorter intervals have lower pressures. This produces variable Korotkoff sounds at any given cuff pressure.",
+        "whyWrongByChoice": {
+          "A": "Aortic regurgitation produces a wide pulse pressure with bounding pulses but consistent beat-to-beat readings in sinus rhythm, not the variable pattern described.",
+          "B": "Cardiac tamponade produces pulsus paradoxus (>10 mmHg drop in systolic BP with inspiration), which is a respiratory-cycle variation, not a beat-to-beat irregularity.",
+          "C": "Coarctation of the aorta produces upper-lower extremity BP discrepancy, not beat-to-beat variability in systolic pressure in the same arm.",
+          "E": "Aortic stenosis produces a slow-rising (parvus et tardus) pulse with a narrow pulse pressure, but the beat-to-beat regularity is maintained in sinus rhythm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-011",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 58-year-old man undergoes ambulatory blood pressure monitoring. His average daytime BP is 142/88 mmHg and his average nighttime BP is 140/86 mmHg. He is classified as a 'non-dipper.' Compared to patients with normal nocturnal BP dipping, which of the following is most strongly associated with this pattern?",
+      "choices": [
+        { "label": "A", "text": "Decreased risk of left ventricular hypertrophy" },
+        { "label": "B", "text": "Increased risk of cardiovascular and cerebrovascular events" },
+        { "label": "C", "text": "Greater response to thiazide diuretic monotherapy" },
+        { "label": "D", "text": "Lower likelihood of underlying obstructive sleep apnea" },
+        { "label": "E", "text": "Reduced risk of progression to chronic kidney disease" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Non-dipping (failure of nocturnal BP to decrease by ≥10% compared to daytime values) is associated with increased cardiovascular and cerebrovascular morbidity and mortality, increased target organ damage, and is often seen in secondary hypertension, CKD, diabetes, and obstructive sleep apnea.",
+        "whyCorrect": "Non-dipping status is an independent predictor of adverse cardiovascular outcomes including stroke, myocardial infarction, heart failure, and cardiovascular death. The sustained pressure load during sleep contributes to target organ damage beyond what daytime BP alone would predict.",
+        "whyWrongByChoice": {
+          "A": "Non-dippers have an increased, not decreased, risk of left ventricular hypertrophy due to the sustained 24-hour pressure load on the myocardium.",
+          "C": "Non-dipping status does not predict a better response to thiazide diuretics. Some evidence suggests chronotherapy (bedtime dosing) may help restore the dipping pattern.",
+          "D": "Non-dipping is actually associated with a higher likelihood of obstructive sleep apnea, which causes repeated sympathetic surges during sleep and prevents normal nocturnal BP decline.",
+          "E": "Non-dipping is associated with increased risk of CKD progression and renal damage, not a reduced risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-012",
+      "topicId": "hypertension-foundations",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "A 50-year-old woman has her blood pressure measured in both arms during a new patient visit. The right arm reading is 148/90 mmHg and the left arm reading is 126/82 mmHg. Which of the following is the most appropriate next step?",
+      "choices": [
+        { "label": "A", "text": "Use the lower reading for treatment decisions" },
+        { "label": "B", "text": "Average both readings for clinical decision-making" },
+        { "label": "C", "text": "Use the higher reading and evaluate for subclavian artery stenosis" },
+        { "label": "D", "text": "Repeat only the lower reading to confirm accuracy" },
+        { "label": "E", "text": "Attribute the difference to measurement technique and remeasure both" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An inter-arm BP difference >10 mmHg is clinically significant and should prompt evaluation for subclavian artery stenosis or aortic disease. The higher reading should be used for clinical decision-making, as the lower arm may be falsely low due to arterial obstruction.",
+        "whyCorrect": "A systolic inter-arm difference >10 mmHg (here, 22 mmHg) is associated with subclavian artery stenosis, peripheral vascular disease, and increased cardiovascular risk. Guidelines recommend using the arm with the higher reading for ongoing BP measurement and management, while investigating the cause of the discrepancy.",
+        "whyWrongByChoice": {
+          "A": "Using the lower reading would underestimate the true blood pressure and potentially miss a diagnosis of hypertension. The lower reading may reflect reduced flow from proximal arterial stenosis.",
+          "B": "Averaging both readings would dilute a potentially significant finding. The higher arm reflects the true central aortic pressure more accurately when the lower arm may have proximal obstruction.",
+          "D": "Repeating only the lower reading ignores the clinical significance of the inter-arm difference. Both the discrepancy and the higher reading must be addressed.",
+          "E": "While technique matters, a >20 mmHg inter-arm difference is very unlikely to result from measurement error alone and warrants investigation for vascular pathology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-013",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 46-year-old African American man presents with newly diagnosed hypertension (BP 152/96 mmHg). He has a BMI of 32 kg/m², consumes a high-sodium diet, and has a strong family history of hypertension. Laboratory studies show normal renal function and electrolytes. Which of the following pathophysiologic mechanisms is most likely the predominant contributor to his hypertension?",
+      "choices": [
+        { "label": "A", "text": "Renal sodium retention with volume expansion" },
+        { "label": "B", "text": "Unilateral renal artery fibromuscular dysplasia" },
+        { "label": "C", "text": "Catecholamine excess from an adrenal tumor" },
+        { "label": "D", "text": "Aortic coarctation with upper extremity hypertension" },
+        { "label": "E", "text": "Cortisol excess from pituitary adenoma" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary (essential) hypertension in African American patients is strongly linked to salt sensitivity and renal sodium handling abnormalities, leading to volume expansion. Genetic variants affecting sodium channels and the RAAS contribute to impaired natriuresis.",
+        "whyCorrect": "African American patients with essential hypertension often have a salt-sensitive, low-renin phenotype characterized by increased renal sodium reabsorption and volume expansion. This is mediated by genetic polymorphisms affecting epithelial sodium channels, RAAS components, and renal dopamine signaling, compounded by high dietary sodium intake and obesity.",
+        "whyWrongByChoice": {
+          "B": "Fibromuscular dysplasia causing renovascular hypertension is a secondary cause, typically seen in young women. This patient's presentation with multiple risk factors (obesity, family history, high sodium diet) is classic for primary hypertension.",
+          "C": "Catecholamine-secreting tumors (pheochromocytoma) are rare and typically present with episodic hypertension, headaches, diaphoresis, and palpitations. This patient has none of these features.",
+          "D": "Aortic coarctation presents in younger patients with upper extremity hypertension and lower extremity hypotension, rib notching, and a systolic murmur. This patient's age and presentation are not consistent.",
+          "E": "Cushing syndrome from pituitary ACTH excess would present with additional features such as truncal obesity, moon facies, striae, and hyperglycemia, none of which are described."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-014",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 38-year-old man with essential hypertension undergoes plasma renin activity (PRA) and aldosterone testing. His PRA is elevated, and his serum aldosterone is appropriately elevated in proportion. He is not taking any medications. Which of the following best explains this finding in the context of primary hypertension?",
+      "choices": [
+        { "label": "A", "text": "Increased sympathetic nervous system activity stimulating renin release" },
+        { "label": "B", "text": "Autonomous aldosterone production from an adrenal adenoma" },
+        { "label": "C", "text": "Renal artery stenosis causing juxtaglomerular cell stimulation" },
+        { "label": "D", "text": "Genetic deficiency in 11-beta-hydroxylase enzyme activity" },
+        { "label": "E", "text": "Ectopic renin production from a pulmonary neoplasm" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In a subset of patients with essential hypertension, increased sympathetic nervous system activation stimulates beta-1 adrenergic receptors on juxtaglomerular cells, increasing renin release. This creates a high-renin form of primary hypertension with appropriate aldosterone elevation.",
+        "whyCorrect": "Approximately 15-20% of patients with essential hypertension have a high-renin profile. This is primarily driven by increased sympathetic nervous system activity, which stimulates renin secretion via beta-1 receptors on juxtaglomerular cells. The elevated aldosterone is appropriate (secondary to renin), distinguishing this from primary aldosteronism.",
+        "whyWrongByChoice": {
+          "B": "An aldosterone-producing adrenal adenoma (Conn syndrome) causes primary aldosteronism, which presents with high aldosterone but suppressed PRA, not the elevated PRA seen here.",
+          "C": "Renal artery stenosis is a secondary cause of hypertension. The question specifies essential hypertension, and this patient has no clinical features suggestive of renovascular disease.",
+          "D": "11-beta-hydroxylase deficiency causes congenital adrenal hyperplasia with mineralocorticoid excess, leading to low renin and low aldosterone with elevated 11-deoxycorticosterone, not the pattern described.",
+          "E": "Ectopic renin production is exceedingly rare and would be a secondary cause. It does not explain the high-renin subtype of essential hypertension."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-015",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 54-year-old man with essential hypertension and a 10-year ASCVD risk of 14% has a blood pressure of 148/94 mmHg despite 3 months of lifestyle modifications. His physician decides to start pharmacotherapy. He has no diabetes, CKD, or heart failure. Which of the following is the most appropriate initial pharmacologic regimen?",
+      "choices": [
+        { "label": "A", "text": "Combination of an ACE inhibitor and an ARB" },
+        { "label": "B", "text": "Thiazide diuretic or calcium channel blocker monotherapy" },
+        { "label": "C", "text": "Beta-blocker monotherapy" },
+        { "label": "D", "text": "Alpha-1 blocker monotherapy" },
+        { "label": "E", "text": "Direct renin inhibitor combined with spironolactone" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "For uncomplicated Stage 2 hypertension without compelling indications, first-line agents include thiazide-type diuretics, ACE inhibitors, ARBs, or dihydropyridine calcium channel blockers. With BP ≥20/10 mmHg above goal, initial combination therapy with two first-line agents from different classes may also be considered.",
+        "whyCorrect": "Thiazide diuretics and calcium channel blockers are first-line agents for uncomplicated hypertension per ACC/AHA guidelines. Since this patient's BP is 148/94 (Stage 2), monotherapy with either agent is a reasonable starting point, though some guidelines would also support initial dual therapy for Stage 2.",
+        "whyWrongByChoice": {
+          "A": "Combining an ACE inhibitor with an ARB provides dual RAAS blockade, which increases the risk of hyperkalemia, hypotension, and acute kidney injury without additional benefit. This combination is contraindicated.",
+          "C": "Beta-blockers are not considered first-line antihypertensive therapy in the absence of compelling indications such as heart failure, post-MI, or rate control for atrial fibrillation.",
+          "D": "Alpha-1 blockers (e.g., doxazosin) are not first-line for hypertension. The ALLHAT trial showed doxazosin was inferior to chlorthalidone for cardiovascular outcomes.",
+          "E": "Direct renin inhibitors (aliskiren) combined with spironolactone is not a standard initial regimen. Aliskiren combined with other RAAS blockers increases adverse effects without proven benefit."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-016",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 62-year-old African American woman with Stage 2 hypertension and no other comorbidities requires initial pharmacotherapy. Her physician selects a calcium channel blocker based on evidence supporting its efficacy in this population. Which of the following best explains why thiazide diuretics and calcium channel blockers are particularly effective in African American patients with hypertension?",
+      "choices": [
+        { "label": "A", "text": "They directly inhibit sympathetic nervous system activity" },
+        { "label": "B", "text": "They counteract the elevated angiotensin II levels in this population" },
+        { "label": "C", "text": "They preferentially reduce diastolic blood pressure" },
+        { "label": "D", "text": "They have fewer metabolic side effects than other drug classes" },
+        { "label": "E", "text": "They are more effective in low-renin, volume-expanded hypertension" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "African American patients with hypertension frequently have a low-renin, salt-sensitive, volume-expanded phenotype. Thiazide diuretics reduce volume, and calcium channel blockers cause vasodilation independent of the RAAS, making both classes particularly effective in this setting.",
+        "whyCorrect": "The predominant pathophysiology in many African American patients with essential hypertension involves suppressed renin activity with relative volume expansion and salt sensitivity. Thiazide diuretics address the volume component directly, while CCBs produce vasodilation through a mechanism independent of RAAS activity, explaining their superior efficacy compared to ACE inhibitors or ARBs alone in this population.",
+        "whyWrongByChoice": {
+          "A": "Neither thiazide diuretics nor calcium channel blockers directly inhibit sympathetic nervous system activity. Central alpha-2 agonists and beta-blockers act on the sympathetic system.",
+          "B": "African American patients typically have lower, not elevated, angiotensin II levels. ACE inhibitors and ARBs, which target angiotensin II, are generally less effective as monotherapy in this population.",
+          "C": "Both drug classes reduce systolic and diastolic blood pressure. There is no preferential diastolic effect that explains their efficacy in African American patients.",
+          "D": "While metabolic side effects vary among drug classes, this does not explain why these agents are particularly effective in African American patients. Thiazide diuretics can actually cause metabolic effects (hypokalemia, hyperglycemia)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-017",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 50-year-old man with essential hypertension has been treated with lisinopril 40 mg daily, amlodipine 10 mg daily, and chlorthalidone 25 mg daily for the past 6 months. His blood pressure remains 156/98 mmHg. Adherence is confirmed by pill counts and pharmacy records. Secondary causes have been excluded. Serum potassium is 3.8 mEq/L. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        { "label": "A", "text": "Add hydralazine to the regimen" },
+        { "label": "B", "text": "Switch chlorthalidone to furosemide" },
+        { "label": "C", "text": "Add spironolactone to the regimen" },
+        { "label": "D", "text": "Discontinue amlodipine and start metoprolol" },
+        { "label": "E", "text": "Double the dose of lisinopril to 80 mg daily" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has resistant hypertension (uncontrolled BP despite three optimally dosed antihypertensives including a diuretic). The PATHWAY-2 trial demonstrated that spironolactone is the most effective add-on therapy for resistant hypertension.",
+        "whyCorrect": "The PATHWAY-2 trial showed that spironolactone (25-50 mg daily) was superior to bisoprolol, doxazosin, and placebo as add-on therapy for resistant hypertension. The underlying mechanism involves aldosterone-mediated sodium retention that is incompletely blocked by ACE inhibitors alone. Spironolactone addresses this residual mineralocorticoid effect.",
+        "whyWrongByChoice": {
+          "A": "Hydralazine is a direct vasodilator used in certain situations (e.g., heart failure in African Americans with isosorbide dinitrate) but is not the preferred fourth-line agent for resistant hypertension based on trial evidence.",
+          "B": "Switching to furosemide would be less effective than chlorthalidone for chronic hypertension management. Furosemide is a loop diuretic with shorter duration of action and is primarily used for volume overload states, not resistant hypertension.",
+          "D": "Discontinuing an effective calcium channel blocker to substitute a beta-blocker would not be expected to improve control. Beta-blockers are not superior to spironolactone as fourth-line therapy per PATHWAY-2.",
+          "E": "Lisinopril maximum recommended dose is 40 mg daily. Doubling beyond the maximum dose would increase adverse effects without proportional BP lowering."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-018",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 44-year-old man with newly diagnosed essential hypertension adopts the DASH (Dietary Approaches to Stop Hypertension) diet. Which of the following best describes the key dietary composition of the DASH diet?",
+      "choices": [
+        { "label": "A", "text": "High protein, very low carbohydrate, unrestricted sodium" },
+        { "label": "B", "text": "Rich in fruits, vegetables, and low-fat dairy with reduced saturated fat" },
+        { "label": "C", "text": "Strict caloric restriction to 1200 kcal/day with moderate sodium" },
+        { "label": "D", "text": "Elimination of all animal products with focus on plant-based fats" },
+        { "label": "E", "text": "High fiber, high potassium, with unrestricted total fat intake" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The DASH diet emphasizes fruits, vegetables, whole grains, and low-fat dairy products while reducing saturated fat, total fat, and cholesterol. Combined with sodium restriction, it can lower systolic BP by 8-14 mmHg.",
+        "whyCorrect": "The DASH diet was shown in the original DASH trial and DASH-Sodium trial to significantly reduce blood pressure. Its key components include high intake of fruits, vegetables, whole grains, and low-fat dairy, with reduced saturated fat and cholesterol. It is rich in potassium, magnesium, calcium, and fiber.",
+        "whyWrongByChoice": {
+          "A": "The DASH diet is not a high-protein, very low-carbohydrate diet. It includes moderate protein from lean sources and includes whole grains as a significant carbohydrate source. Sodium restriction is a key component.",
+          "C": "The DASH diet does not mandate strict caloric restriction to 1200 kcal/day. It focuses on dietary composition rather than severe calorie limitation.",
+          "D": "The DASH diet includes low-fat dairy products, lean poultry, and fish. It is not a vegan or fully plant-based diet.",
+          "E": "While the DASH diet is high in fiber and potassium, it specifically limits total fat (27% of calories) and saturated fat (6% of calories). Fat intake is not unrestricted."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-019",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 56-year-old man with essential hypertension controlled on amlodipine 5 mg daily develops bilateral lower extremity edema. His serum albumin is 4.2 g/dL, BNP is 45 pg/mL, and renal function is normal. Which of the following mechanisms best explains the edema?",
+      "choices": [
+        { "label": "A", "text": "Decreased oncotic pressure from proteinuria" },
+        { "label": "B", "text": "Venous insufficiency from drug-induced venodilation" },
+        { "label": "C", "text": "Sodium and water retention from renal tubular effects" },
+        { "label": "D", "text": "Preferential arteriolar dilation increasing capillary hydrostatic pressure" },
+        { "label": "E", "text": "Allergic angioedema from calcium channel blocker hypersensitivity" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dihydropyridine calcium channel blockers like amlodipine cause preferential arteriolar vasodilation without corresponding venodilation, increasing capillary hydrostatic pressure and causing dependent edema through a Starling forces mechanism.",
+        "whyCorrect": "Amlodipine dilates precapillary arterioles more than postcapillary venules, increasing intracapillary hydrostatic pressure. This shifts the Starling equilibrium toward fluid filtration into the interstitial space, producing dependent edema. This is a pharmacologic effect, not heart failure or nephrotic syndrome.",
+        "whyWrongByChoice": {
+          "A": "Decreased oncotic pressure from proteinuria is seen in nephrotic syndrome. This patient has normal serum albumin (4.2 g/dL), making this mechanism unlikely.",
+          "B": "CCBs do not primarily cause venodilation. The edema results from arteriolar dilation with relatively unchanged venous tone, creating a pressure gradient favoring fluid extravasation.",
+          "C": "While some fluid retention can occur with CCBs, the primary mechanism of peripheral edema is altered Starling forces from arteriolar dilation, not direct renal tubular sodium retention.",
+          "E": "Angioedema is associated with ACE inhibitors (via bradykinin accumulation), not calcium channel blockers. The bilateral dependent edema pattern is not consistent with angioedema."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-020",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 65-year-old man with a 20-year history of poorly controlled essential hypertension presents with exertional dyspnea. Echocardiography reveals concentric left ventricular hypertrophy with preserved ejection fraction (65%), impaired relaxation pattern on mitral inflow Doppler, and elevated E/e' ratio. Which of the following best describes the pathophysiology of his cardiac findings?",
+      "choices": [
+        { "label": "A", "text": "Systolic dysfunction from myocardial ischemia" },
+        { "label": "B", "text": "Restrictive physiology from amyloid infiltration" },
+        { "label": "C", "text": "Valvular obstruction causing pressure overload" },
+        { "label": "D", "text": "High-output failure from chronic volume overload" },
+        { "label": "E", "text": "Diastolic dysfunction from myocyte hypertrophy and interstitial fibrosis" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic pressure overload from hypertension causes concentric LVH with myocyte hypertrophy and interstitial fibrosis. This impairs ventricular relaxation and compliance, producing diastolic dysfunction (HFpEF) with preserved systolic function.",
+        "whyCorrect": "Long-standing hypertension produces sustained afterload elevation, stimulating concentric myocyte hypertrophy and collagen deposition in the interstitium. The thickened, stiff ventricle has impaired relaxation (reduced early diastolic filling) and reduced compliance (elevated filling pressures), leading to diastolic dysfunction and ultimately heart failure with preserved ejection fraction.",
+        "whyWrongByChoice": {
+          "A": "The ejection fraction is preserved at 65%, which rules out significant systolic dysfunction. While hypertension is a risk factor for coronary artery disease, the echocardiographic findings point to diastolic, not systolic, dysfunction.",
+          "B": "Cardiac amyloidosis can cause restrictive physiology and diastolic dysfunction, but it typically presents with increased wall thickness, sparkling myocardial texture, and biatrial enlargement. The 20-year history of poorly controlled hypertension provides a sufficient explanation.",
+          "C": "There is no mention of valvular disease (e.g., aortic stenosis) on echocardiography. The concentric LVH is due to systemic hypertension, not a valvular obstruction.",
+          "D": "High-output failure involves volume overload with eccentric hypertrophy and elevated cardiac output (as in severe anemia or hyperthyroidism). This patient has concentric hypertrophy from pressure overload, not volume overload."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-021",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 48-year-old woman with essential hypertension is started on lisinopril 10 mg daily. Two weeks later, she develops a persistent dry cough that significantly affects her quality of life. Her physician decides to switch to a different medication class. Which of the following agents acts on the same pathway but avoids this adverse effect?",
+      "choices": [
+        { "label": "A", "text": "Losartan" },
+        { "label": "B", "text": "Diltiazem" },
+        { "label": "C", "text": "Metoprolol" },
+        { "label": "D", "text": "Hydrochlorothiazide" },
+        { "label": "E", "text": "Clonidine" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ACE inhibitor-induced cough is caused by accumulation of bradykinin and substance P, which ACE normally degrades. ARBs (e.g., losartan) block the angiotensin II receptor without inhibiting ACE, thus blocking the RAAS pathway without causing bradykinin accumulation.",
+        "whyCorrect": "Losartan is an angiotensin II receptor blocker (ARB) that antagonizes the AT1 receptor. It inhibits the RAAS at a different level than ACE inhibitors, blocking the effects of angiotensin II without preventing ACE-mediated degradation of bradykinin. This avoids the cough that results from bradykinin accumulation.",
+        "whyWrongByChoice": {
+          "B": "Diltiazem is a non-dihydropyridine calcium channel blocker that does not act on the RAAS pathway. While it is an effective antihypertensive, it works through a completely different mechanism.",
+          "C": "Metoprolol is a beta-1 selective blocker that reduces heart rate and cardiac output. It does not target the RAAS and is not a preferred first-line alternative for ACE inhibitor intolerance.",
+          "D": "Hydrochlorothiazide is a thiazide diuretic that promotes sodium and water excretion. It does not act on the RAAS pathway directly.",
+          "E": "Clonidine is a central alpha-2 agonist that reduces sympathetic outflow. It does not act on the RAAS and is not a first-line agent for uncomplicated hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-022",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A genome-wide association study identifies multiple common genetic variants that each contribute a small effect to blood pressure elevation in a large cohort. Most of these variants affect renal sodium handling, vascular tone regulation, and sympathetic nervous system activity. Which of the following inheritance patterns best characterizes the genetic basis of primary hypertension?",
+      "choices": [
+        { "label": "A", "text": "Autosomal dominant with complete penetrance" },
+        { "label": "B", "text": "Autosomal recessive with single gene causation" },
+        { "label": "C", "text": "Polygenic with gene-environment interaction" },
+        { "label": "D", "text": "X-linked recessive with variable expression" },
+        { "label": "E", "text": "Mitochondrial inheritance with maternal transmission" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Primary hypertension is a complex polygenic trait resulting from the cumulative effect of many common genetic variants, each with a small effect size, interacting with environmental factors such as sodium intake, obesity, and physical inactivity.",
+        "whyCorrect": "GWAS studies have identified over 1,000 genetic loci associated with blood pressure, each contributing a small increment to BP. The heritability of BP is estimated at 30-50%, with the remainder attributable to environmental factors. This polygenic architecture with gene-environment interaction defines primary hypertension.",
+        "whyWrongByChoice": {
+          "A": "Autosomal dominant with complete penetrance describes Mendelian disorders. While rare monogenic forms of hypertension exist (e.g., Liddle syndrome, glucocorticoid-remediable aldosteronism), primary hypertension is not a single-gene disorder.",
+          "B": "Autosomal recessive single-gene causation applies to rare conditions like apparent mineralocorticoid excess (11-beta-HSD2 deficiency), not the common form of essential hypertension.",
+          "D": "X-linked recessive inheritance does not characterize primary hypertension, which affects both sexes with similar frequency (though timing and severity may differ).",
+          "E": "While mitochondrial DNA variants may contribute marginally to BP regulation, primary hypertension is not characterized by mitochondrial inheritance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-023",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 52-year-old man with essential hypertension controlled on losartan 100 mg daily is diagnosed with gout after presenting with an acutely swollen first metatarsophalangeal joint. His serum uric acid is 9.2 mg/dL. His physician considers whether his antihypertensive medication affects uric acid levels. Which of the following statements about losartan and uric acid is correct?",
+      "choices": [
+        { "label": "A", "text": "Losartan increases uric acid by inhibiting renal tubular secretion" },
+        { "label": "B", "text": "Losartan has a unique uricosuric effect among ARBs" },
+        { "label": "C", "text": "All ARBs have equivalent uric acid-lowering properties" },
+        { "label": "D", "text": "Losartan raises uric acid similarly to thiazide diuretics" },
+        { "label": "E", "text": "Losartan has no clinically significant effect on uric acid metabolism" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Losartan is unique among ARBs in having a uricosuric effect, reducing serum uric acid by approximately 20-25% through inhibition of the urate transporter URAT1 in the proximal tubule. This property is not shared by other ARBs.",
+        "whyCorrect": "Losartan (but not its active metabolite EXP3174 or other ARBs) inhibits uric acid reabsorption via URAT1 in the proximal renal tubule, promoting uric acid excretion. This is an independent effect unrelated to angiotensin II receptor blockade and is clinically relevant in hypertensive patients with hyperuricemia.",
+        "whyWrongByChoice": {
+          "A": "Losartan decreases, not increases, serum uric acid by promoting urinary uric acid excretion (uricosuric effect), not by inhibiting tubular secretion.",
+          "C": "The uricosuric effect is specific to losartan. Other ARBs (e.g., valsartan, irbesartan, candesartan) do not share this property to a clinically significant degree.",
+          "D": "Thiazide diuretics increase serum uric acid by competing for organic acid secretion in the proximal tubule and by inducing volume contraction. Losartan has the opposite effect.",
+          "E": "Losartan has a well-documented and clinically significant uric acid-lowering effect of approximately 20-25%, which differentiates it from other ARBs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-024",
+      "topicId": "primary-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 40-year-old woman with essential hypertension and chronic kidney disease (eGFR 38 mL/min/1.73 m²) with proteinuria (urine albumin-to-creatinine ratio 450 mg/g) requires antihypertensive therapy. Her serum potassium is 4.5 mEq/L. Which of the following agents provides the greatest benefit for slowing progression of her kidney disease?",
+      "choices": [
+        { "label": "A", "text": "Amlodipine" },
+        { "label": "B", "text": "Hydrochlorothiazide" },
+        { "label": "C", "text": "Ramipril" },
+        { "label": "D", "text": "Metoprolol" },
+        { "label": "E", "text": "Hydralazine" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ACE inhibitors (and ARBs) provide renoprotective benefits beyond BP lowering in patients with proteinuric CKD. They reduce intraglomerular pressure by dilating the efferent arteriole, decreasing proteinuria and slowing GFR decline.",
+        "whyCorrect": "Ramipril (an ACE inhibitor) reduces intraglomerular pressure by blocking angiotensin II-mediated efferent arteriolar vasoconstriction. This decreases glomerular capillary pressure, reduces proteinuria, and slows CKD progression. Landmark trials (REIN, AASK) demonstrated the superiority of RAAS blockade for renoprotection in proteinuric CKD independent of BP lowering.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine dilates the afferent arteriole preferentially, which can increase intraglomerular pressure and may not reduce proteinuria as effectively as RAAS blockers. It does not provide the same renoprotective benefit.",
+          "B": "Hydrochlorothiazide becomes less effective as a diuretic when eGFR falls below 30 mL/min. While chlorthalidone may retain some efficacy, thiazide diuretics do not provide specific renoprotection for proteinuric CKD.",
+          "D": "Metoprolol lowers BP through reduced cardiac output but does not specifically reduce intraglomerular pressure or proteinuria. It lacks the renoprotective effects of RAAS blockade.",
+          "E": "Hydralazine is a direct arteriolar vasodilator that can lower BP but does not preferentially dilate efferent arterioles. It does not reduce proteinuria or slow CKD progression as effectively as ACE inhibitors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-025",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 28-year-old woman presents with refractory hypertension (BP 168/104 mmHg) despite three antihypertensive agents. Physical examination reveals a high-pitched, continuous abdominal bruit in the right flank. Serum creatinine is 0.9 mg/dL. Renal duplex ultrasonography shows elevated peak systolic velocity in the right renal artery. Which of the following is the most likely diagnosis?",
+      "choices": [
+        { "label": "A", "text": "Atherosclerotic renal artery stenosis" },
+        { "label": "B", "text": "Fibromuscular dysplasia of the renal artery" },
+        { "label": "C", "text": "Primary aldosteronism due to adrenal adenoma" },
+        { "label": "D", "text": "Chronic tubulointerstitial nephritis" },
+        { "label": "E", "text": "Renal artery aneurysm with thrombosis" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A young woman with refractory hypertension, abdominal bruit, and elevated renal artery peak systolic velocity on duplex is classic for fibromuscular dysplasia (FMD) of the renal artery, the most common secondary renovascular cause in young women.",
+        "whyCorrect": "Fibromuscular dysplasia typically affects women aged 15-50, most commonly involving the mid-to-distal renal artery (medial fibroplasia subtype). The 'string of beads' appearance on angiography is pathognomonic. The abdominal bruit and duplex findings confirm hemodynamically significant stenosis.",
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic renal artery stenosis typically occurs in older patients (>55 years) with cardiovascular risk factors and affects the proximal renal artery at the ostium. This patient's age and sex favor FMD.",
+          "C": "Primary aldosteronism can cause resistant hypertension but would not produce an abdominal bruit or renal artery stenosis on duplex. It presents with hypokalemia and elevated aldosterone-to-renin ratio.",
+          "D": "Chronic tubulointerstitial nephritis causes CKD with hypertension but does not produce abdominal bruit or renal artery stenosis on duplex ultrasonography.",
+          "E": "Renal artery aneurysm is rare and does not typically present with the characteristic findings of renal artery stenosis on duplex imaging."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-026",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 35-year-old man presents with episodic headaches, palpitations, and diaphoresis occurring several times per week. During one episode in the emergency department, his BP is 220/130 mmHg and his heart rate is 120 bpm. Between episodes, his BP is 140/88 mmHg. Plasma free metanephrines are markedly elevated. CT abdomen reveals a 4-cm right adrenal mass. Prior to surgical resection, which of the following is the correct pharmacologic preparation?",
+      "choices": [
+        { "label": "A", "text": "Start a beta-blocker first, followed by an alpha-blocker" },
+        { "label": "B", "text": "Start phenoxybenzamine for 10-14 days, then add a beta-blocker if needed" },
+        { "label": "C", "text": "Start labetalol monotherapy for combined alpha/beta blockade" },
+        { "label": "D", "text": "Start intravenous nitroprusside and proceed to surgery within 48 hours" },
+        { "label": "E", "text": "Start an ACE inhibitor with a calcium channel blocker" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Preoperative preparation for pheochromocytoma requires alpha-adrenergic blockade first (phenoxybenzamine for 10-14 days) to control hypertension and allow volume expansion, followed by beta-blockade if tachycardia persists. Starting beta-blockers first can cause unopposed alpha stimulation and hypertensive crisis.",
+        "whyCorrect": "Phenoxybenzamine (irreversible, nonselective alpha-blocker) is started 10-14 days before surgery to control BP, prevent catecholamine surges, and allow intravascular volume re-expansion. Beta-blockers are added only after adequate alpha blockade is established to control reflex tachycardia without risking unopposed alpha-mediated vasoconstriction.",
+        "whyWrongByChoice": {
+          "A": "Starting a beta-blocker before alpha blockade is contraindicated in pheochromocytoma. Beta-blockade removes beta-2-mediated vasodilation, leaving alpha-mediated vasoconstriction unopposed, which can precipitate a hypertensive crisis.",
+          "C": "While labetalol has both alpha and beta blocking properties, its beta-blocking effect is stronger than its alpha-blocking effect, making it inadequate for preoperative alpha blockade in pheochromocytoma. It is not the standard of care for preoperative preparation.",
+          "D": "Nitroprusside may be used for acute intraoperative hypertensive crises, but it is not appropriate for preoperative preparation. Surgery should not proceed without adequate alpha blockade for at least 10-14 days.",
+          "E": "ACE inhibitors and calcium channel blockers do not address the catecholamine excess and do not provide adequate preoperative protection against intraoperative catecholamine surges during tumor manipulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-027",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 45-year-old woman with resistant hypertension has a serum potassium of 3.1 mEq/L despite not taking diuretics. Her plasma aldosterone concentration (PAC) is 22 ng/dL and plasma renin activity (PRA) is 0.3 ng/mL/hr. The aldosterone-to-renin ratio (ARR) is 73. Which of the following is the most appropriate next step to confirm the diagnosis?",
+      "choices": [
+        { "label": "A", "text": "CT scan of the adrenal glands" },
+        { "label": "B", "text": "Oral sodium loading test or intravenous saline infusion test" },
+        { "label": "C", "text": "Adrenal vein sampling" },
+        { "label": "D", "text": "24-hour urine cortisol measurement" },
+        { "label": "E", "text": "Dexamethasone suppression test" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An elevated ARR (>30) is a screening test for primary aldosteronism and must be confirmed with a suppression test (oral sodium loading or IV saline infusion) to demonstrate non-suppressible aldosterone before proceeding to subtype differentiation with CT and adrenal vein sampling.",
+        "whyCorrect": "After a positive screening ARR, confirmatory testing is required to establish the diagnosis of primary aldosteronism. The oral sodium loading test (high-salt diet for 3 days followed by 24-hour urine aldosterone) or IV saline infusion test (2L normal saline over 4 hours with post-infusion PAC measurement) confirms autonomous aldosterone secretion that does not suppress with volume expansion.",
+        "whyWrongByChoice": {
+          "A": "CT imaging is used for subtype differentiation (adenoma vs. bilateral hyperplasia) after the diagnosis is confirmed. Performing CT before confirmatory testing may lead to unnecessary imaging and incidentaloma workup.",
+          "C": "Adrenal vein sampling is the gold standard for subtype differentiation (lateralization), performed after confirmation and CT imaging, particularly in patients over 35 or with bilateral adrenal abnormalities. It is not a confirmatory test.",
+          "D": "24-hour urine cortisol is used to screen for Cushing syndrome, not primary aldosteronism. While cortisol excess can cause hypertension and hypokalemia, the elevated ARR points to aldosteronism.",
+          "E": "The dexamethasone suppression test is used to diagnose Cushing syndrome or glucocorticoid-remediable aldosteronism (GRA). It is not the standard confirmatory test for primary aldosteronism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-028",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 50-year-old obese man (BMI 36 kg/m²) with refractory hypertension reports excessive daytime somnolence, loud snoring, and witnessed apneic episodes. His morning blood pressure is consistently 160/100 mmHg, and ambulatory monitoring shows a non-dipping pattern. Which of the following mechanisms most directly links his sleep disorder to his hypertension?",
+      "choices": [
+        { "label": "A", "text": "Chronic hypoxia-induced erythrocytosis increasing blood viscosity" },
+        { "label": "B", "text": "Sleep deprivation reducing cortisol secretion" },
+        { "label": "C", "text": "Upper airway obstruction directly compressing the carotid baroreceptors" },
+        { "label": "D", "text": "Intermittent hypoxia causing sympathetic activation and oxidative stress" },
+        { "label": "E", "text": "Chronic hypercarbia stimulating the central chemoreceptors to lower BP" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Obstructive sleep apnea (OSA) causes intermittent hypoxia during apneic episodes, which triggers sympathetic nervous system activation, oxidative stress, endothelial dysfunction, and RAAS activation. These mechanisms sustain hypertension and produce the characteristic non-dipping pattern.",
+        "whyCorrect": "Intermittent hypoxia during apneic episodes activates peripheral chemoreceptors, causing sympathetic surges that persist into waking hours. This chronic sympathetic activation raises BP, promotes vascular inflammation, increases oxidative stress, and activates the RAAS. The non-dipping pattern reflects sustained nocturnal sympathetic tone during apneic episodes.",
+        "whyWrongByChoice": {
+          "A": "While chronic hypoxia can cause secondary erythrocytosis in severe OSA, increased blood viscosity is a minor contributor compared to sympathetic activation and is not the primary mechanism linking OSA to hypertension.",
+          "B": "Sleep deprivation does not reduce cortisol secretion. In fact, sleep disruption can increase cortisol levels. However, the primary mechanism linking OSA to hypertension is sympathetic activation from intermittent hypoxia, not cortisol changes.",
+          "C": "Upper airway obstruction in OSA occurs at the pharyngeal level and does not directly compress the carotid baroreceptors, which are located at the carotid bifurcation.",
+          "E": "Hypercarbia during apneic episodes stimulates central chemoreceptors to increase sympathetic activity and raise blood pressure, not lower it. However, intermittent hypoxia-driven sympathetic activation is the predominant mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-029",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 12-year-old boy is found to have persistent hypertension (BP 150/95 mmHg in the right arm). Physical examination reveals diminished femoral pulses, a systolic murmur heard over the left interscapular area, and a blood pressure of 110/70 mmHg in the lower extremities. Chest radiograph shows rib notching. Which of the following vascular structures is most likely responsible?",
+      "choices": [
+        { "label": "A", "text": "Patent ductus arteriosus" },
+        { "label": "B", "text": "Narrowing of the aorta distal to the left subclavian artery" },
+        { "label": "C", "text": "Stenosis of the right renal artery" },
+        { "label": "D", "text": "Supravalvular aortic stenosis" },
+        { "label": "E", "text": "Anomalous origin of the right coronary artery" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coarctation of the aorta is a congenital narrowing typically occurring distal to the left subclavian artery at the level of the ligamentum arteriosum. It produces upper extremity hypertension, diminished femoral pulses, and rib notching from collateral intercostal arteries.",
+        "whyCorrect": "The classic triad of upper extremity hypertension, diminished lower extremity pulses, and rib notching on CXR is diagnostic of aortic coarctation. The narrowing distal to the left subclavian artery creates a pressure gradient between upper and lower extremities. Rib notching results from dilated intercostal arteries serving as collateral pathways around the obstruction.",
+        "whyWrongByChoice": {
+          "A": "Patent ductus arteriosus produces a continuous 'machinery' murmur and wide pulse pressure but does not cause upper-lower extremity BP discrepancy or rib notching.",
+          "C": "Renal artery stenosis would cause renovascular hypertension but would not produce a pressure differential between upper and lower extremities, diminished femoral pulses, or rib notching.",
+          "D": "Supravalvular aortic stenosis (associated with Williams syndrome) causes narrowing above the aortic valve, which can cause differential arm pressures but does not produce diminished femoral pulses or rib notching.",
+          "E": "Anomalous origin of the right coronary artery can cause myocardial ischemia but does not cause systemic hypertension, pulse discrepancy, or rib notching."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-030",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 38-year-old woman presents with weight gain, moon facies, abdominal striae, easy bruising, and a BP of 158/98 mmHg. Laboratory studies show fasting glucose of 186 mg/dL, serum potassium 3.3 mEq/L, and 24-hour urine free cortisol of 380 mcg (normal <50 mcg). A low-dose dexamethasone suppression test fails to suppress cortisol. Which of the following mechanisms best explains her hypertension?",
+      "choices": [
+        { "label": "A", "text": "Cortisol activation of mineralocorticoid receptors and enhanced vascular reactivity to catecholamines" },
+        { "label": "B", "text": "Direct cortisol-mediated stimulation of renin secretion from juxtaglomerular cells" },
+        { "label": "C", "text": "Cortisol-induced suppression of vasodilatory prostaglandins only" },
+        { "label": "D", "text": "Cortisol inhibition of ADH causing polyuria and reflex sympathetic activation" },
+        { "label": "E", "text": "Cortisol stimulation of erythropoietin causing polycythemia and hyperviscosity" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In Cushing syndrome, excess cortisol overwhelms 11-beta-HSD2 enzyme capacity and activates mineralocorticoid receptors, causing sodium retention and potassium wasting. Cortisol also potentiates vascular reactivity to catecholamines and angiotensin II, and increases angiotensinogen synthesis.",
+        "whyCorrect": "Cortisol at high concentrations saturates the 11-beta-hydroxysteroid dehydrogenase type 2 enzyme in the kidney, allowing cortisol to bind mineralocorticoid receptors and cause sodium retention, volume expansion, and hypokalemia. Additionally, cortisol enhances vascular smooth muscle sensitivity to catecholamines and angiotensin II, increases hepatic angiotensinogen production, and reduces nitric oxide synthesis.",
+        "whyWrongByChoice": {
+          "B": "Cortisol does not directly stimulate renin secretion. In fact, the volume expansion from mineralocorticoid receptor activation tends to suppress renin. The RAAS is activated through increased angiotensinogen synthesis, not direct renin stimulation.",
+          "C": "While cortisol can reduce prostaglandin and nitric oxide production (contributing to vasoconstriction), this is only one component. The mineralocorticoid receptor activation causing sodium retention and the enhanced vascular reactivity are the predominant mechanisms.",
+          "D": "Cortisol does not inhibit ADH in a clinically significant way that would cause polyuria and reflex sympathetic activation. Cortisol excess actually promotes water retention through mineralocorticoid effects.",
+          "E": "While mild polycythemia can occur in Cushing syndrome, this is not a major mechanism of hypertension. The predominant drivers are mineralocorticoid effects and enhanced vascular reactivity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-031",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 62-year-old man with a history of heavy smoking and peripheral vascular disease presents with worsening renal function (creatinine rising from 1.2 to 2.4 mg/dL over 3 months) after starting lisinopril for hypertension. His BP is 172/96 mmHg. Renal ultrasound shows a right kidney measuring 8.5 cm and a left kidney measuring 11.5 cm. Which of the following is the most likely diagnosis?",
+      "choices": [
+        { "label": "A", "text": "Bilateral renal artery fibromuscular dysplasia" },
+        { "label": "B", "text": "ACE inhibitor-induced interstitial nephritis" },
+        { "label": "C", "text": "Cholesterol crystal embolization to both kidneys" },
+        { "label": "D", "text": "Hypertensive nephrosclerosis from chronic hypertension" },
+        { "label": "E", "text": "Unilateral atherosclerotic renal artery stenosis" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute rise in creatinine after starting an ACE inhibitor in a patient with atherosclerotic risk factors and asymmetric kidneys (smaller right kidney) strongly suggests unilateral atherosclerotic renal artery stenosis. The stenotic kidney depends on angiotensin II-mediated efferent arteriolar tone to maintain GFR.",
+        "whyCorrect": "In renal artery stenosis, the affected kidney relies on angiotensin II to constrict the efferent arteriole and maintain glomerular filtration pressure. ACE inhibitors remove this compensatory mechanism, causing GFR to drop acutely. The asymmetric kidney sizes (small right kidney from chronic ischemic atrophy) combined with atherosclerotic risk factors and post-ACEi creatinine rise is classic for unilateral atherosclerotic RAS.",
+        "whyWrongByChoice": {
+          "A": "Fibromuscular dysplasia typically affects young women and involves the mid-to-distal renal artery. This elderly male smoker with PVD has a profile consistent with atherosclerotic disease, not FMD.",
+          "B": "ACE inhibitor-induced interstitial nephritis is rare and would not explain asymmetric kidney sizes. It typically presents with eosinophilia, rash, and urinary eosinophils.",
+          "C": "Cholesterol embolization syndrome occurs after vascular procedures or anticoagulation and presents with blue toes, livedo reticularis, and eosinophilia. It does not typically cause asymmetric kidney sizes.",
+          "D": "Hypertensive nephrosclerosis causes bilateral symmetric kidney atrophy over many years and does not acutely worsen with ACE inhibitor initiation in the pattern described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-032",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 22-year-old woman with hypertension (BP 164/102 mmHg) is found to have serum potassium of 2.8 mEq/L, metabolic alkalosis, suppressed plasma renin activity, and elevated serum aldosterone. CT abdomen shows a 1.5-cm left adrenal adenoma. Adrenal vein sampling confirms lateralization to the left adrenal gland. Which of the following is the most appropriate definitive treatment?",
+      "choices": [
+        { "label": "A", "text": "Bilateral adrenalectomy" },
+        { "label": "B", "text": "Lifelong spironolactone therapy" },
+        { "label": "C", "text": "Left laparoscopic adrenalectomy" },
+        { "label": "D", "text": "Dexamethasone suppression therapy" },
+        { "label": "E", "text": "Radiofrequency ablation of the adenoma" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A confirmed aldosterone-producing adenoma (Conn syndrome) with lateralization on adrenal vein sampling is best treated with unilateral laparoscopic adrenalectomy, which is curative in the majority of cases.",
+        "whyCorrect": "Unilateral laparoscopic adrenalectomy is the definitive treatment for aldosterone-producing adenomas when lateralization is confirmed by adrenal vein sampling. It cures hypokalemia in virtually all patients and resolves or significantly improves hypertension in 50-80% of cases, with younger patients and shorter duration of hypertension predicting better BP outcomes.",
+        "whyWrongByChoice": {
+          "A": "Bilateral adrenalectomy is not indicated for a unilateral adenoma. It would cause adrenal insufficiency requiring lifelong glucocorticoid and mineralocorticoid replacement.",
+          "B": "Spironolactone is the treatment of choice for bilateral adrenal hyperplasia (idiopathic hyperaldosteronism) where surgery is not curative. For a lateralized adenoma in a young patient, surgery offers the potential for cure.",
+          "D": "Dexamethasone suppression therapy is specific for glucocorticoid-remediable aldosteronism (GRA/familial hyperaldosteronism type I), a rare genetic condition. This patient has a discrete adenoma, not GRA.",
+          "E": "Radiofrequency ablation of adrenal adenomas is not a standard treatment for aldosterone-producing adenomas. Laparoscopic adrenalectomy remains the gold standard."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-033",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 19-year-old man presents with hypertension (BP 156/96 mmHg), hypokalemia (K+ 2.9 mEq/L), and metabolic alkalosis. His plasma renin activity and serum aldosterone are both suppressed. He takes no medications. Physical examination is unremarkable except for short stature. Which of the following is the most likely underlying condition?",
+      "choices": [
+        { "label": "A", "text": "Primary aldosteronism from bilateral adrenal hyperplasia" },
+        { "label": "B", "text": "Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency" },
+        { "label": "C", "text": "Renovascular hypertension from fibromuscular dysplasia" },
+        { "label": "D", "text": "Liddle syndrome" },
+        { "label": "E", "text": "Bartter syndrome" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypertension with hypokalemia, metabolic alkalosis, and suppressed renin AND aldosterone in a young patient with short stature suggests congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency. This enzyme defect leads to accumulation of 11-deoxycorticosterone (DOC), a potent mineralocorticoid.",
+        "whyCorrect": "11-beta-hydroxylase deficiency prevents conversion of 11-deoxycortisol to cortisol and 11-deoxycorticosterone (DOC) to corticosterone. The accumulated DOC has strong mineralocorticoid activity, causing sodium retention, hypokalemia, metabolic alkalosis, and hypertension while suppressing both renin and aldosterone. Virilization and short stature from androgen excess are also features.",
+        "whyWrongByChoice": {
+          "A": "Primary aldosteronism presents with low renin but elevated aldosterone. This patient has suppressed aldosterone, ruling out primary aldosteronism.",
+          "C": "Renovascular hypertension from FMD presents with elevated renin and secondary aldosterone elevation, not suppressed renin and aldosterone.",
+          "D": "Liddle syndrome (gain-of-function mutation in ENaC) also presents with hypertension, hypokalemia, and suppressed renin and aldosterone, but it does not cause short stature or virilization. It should be considered in the differential but is less likely given the short stature.",
+          "E": "Bartter syndrome presents with hypokalemia and metabolic alkalosis but causes hypotension (not hypertension) due to renal salt wasting. Renin and aldosterone are elevated, not suppressed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-034",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 42-year-old woman with treatment-resistant hypertension is found to have a serum calcium of 11.4 mg/dL, phosphorus of 2.2 mg/dL, and an intact PTH of 128 pg/mL (normal 10-65). She also has nephrolithiasis and osteoporosis. Which of the following best explains the mechanism by which her underlying condition contributes to hypertension?",
+      "choices": [
+        { "label": "A", "text": "Hypercalcemia increasing vascular smooth muscle contractility and arterial stiffness" },
+        { "label": "B", "text": "PTH directly stimulating aldosterone release from the adrenal cortex" },
+        { "label": "C", "text": "Hypophosphatemia causing impaired myocardial relaxation" },
+        { "label": "D", "text": "PTH suppressing nitric oxide synthase in endothelial cells" },
+        { "label": "E", "text": "Calcium-induced renal vasoconstriction reducing renal plasma flow" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Primary hyperparathyroidism causes hypertension primarily through hypercalcemia-mediated effects: increased vascular smooth muscle contractility, increased arterial stiffness, and activation of the RAAS. Chronic hypercalcemia also contributes to endothelial dysfunction.",
+        "whyCorrect": "Elevated extracellular calcium increases intracellular calcium in vascular smooth muscle cells, enhancing contractility and vascular tone. Chronic hypercalcemia also increases arterial stiffness, promotes vascular calcification, and activates the RAAS. These mechanisms contribute to the hypertension seen in 40-60% of patients with primary hyperparathyroidism.",
+        "whyWrongByChoice": {
+          "B": "PTH does not directly stimulate aldosterone release. While RAAS activation occurs in hyperparathyroidism, it is primarily mediated by the effects of hypercalcemia on renal hemodynamics, not by direct PTH action on the adrenal cortex.",
+          "C": "Hypophosphatemia causes muscle weakness and rhabdomyolysis in severe cases but is not a major mechanism of hypertension in primary hyperparathyroidism.",
+          "D": "While endothelial dysfunction occurs in hyperparathyroidism, direct PTH suppression of eNOS is not the primary established mechanism. Hypercalcemia-mediated vascular effects are the predominant pathway.",
+          "E": "While renal effects of hypercalcemia can occur (nephrocalcinosis, nephrogenic diabetes insipidus), direct calcium-induced renal vasoconstriction reducing renal plasma flow is not the primary mechanism of hypertension in primary hyperparathyroidism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-035",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 30-year-old woman presents with hypertension, centripetal obesity, and hypokalemia. Her 24-hour urine free cortisol is normal, but her serum aldosterone-to-renin ratio is elevated. Confirmatory testing confirms primary aldosteronism. CT shows bilateral adrenal hyperplasia without a discrete adenoma. Adrenal vein sampling shows no lateralization. Which of the following is the most appropriate long-term management?",
+      "choices": [
+        { "label": "A", "text": "Bilateral adrenalectomy" },
+        { "label": "B", "text": "Unilateral adrenalectomy of the dominant gland" },
+        { "label": "C", "text": "Spironolactone or eplerenone therapy" },
+        { "label": "D", "text": "High-dose dexamethasone therapy" },
+        { "label": "E", "text": "Ketoconazole to suppress adrenal steroidogenesis" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bilateral idiopathic adrenal hyperplasia without lateralization is best managed medically with mineralocorticoid receptor antagonists (spironolactone or eplerenone), as bilateral adrenalectomy would cause adrenal insufficiency and surgery does not cure the hypertension in this subtype.",
+        "whyCorrect": "For bilateral adrenal hyperplasia (idiopathic hyperaldosteronism), medical therapy with mineralocorticoid receptor antagonists is the treatment of choice. Spironolactone (or eplerenone if side effects occur) effectively controls both hypertension and hypokalemia. Surgery is reserved for lateralized adenomas.",
+        "whyWrongByChoice": {
+          "A": "Bilateral adrenalectomy would render the patient adrenal insufficient, requiring lifelong steroid replacement with significant morbidity. It is not indicated for bilateral hyperplasia.",
+          "B": "Unilateral adrenalectomy for non-lateralizing bilateral hyperplasia does not cure the condition. Without lateralization on adrenal vein sampling, there is no surgical target.",
+          "D": "High-dose dexamethasone is used for glucocorticoid-remediable aldosteronism (FH type I), which would show suppression of aldosterone with dexamethasone. This patient has idiopathic bilateral hyperplasia, not GRA.",
+          "E": "Ketoconazole inhibits adrenal steroidogenesis and is sometimes used in Cushing syndrome. It is not a standard or preferred treatment for primary aldosteronism."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-036",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "A 55-year-old woman with a history of hypothyroidism presents with new-onset hypertension (BP 156/102 mmHg). Her TSH is 14.2 mIU/L and free T4 is low. She reports cold intolerance, weight gain, and constipation. Which of the following hemodynamic changes best characterizes hypertension in hypothyroidism?",
+      "choices": [
+        { "label": "A", "text": "Increased cardiac output with decreased systemic vascular resistance" },
+        { "label": "B", "text": "Increased systemic vascular resistance with decreased cardiac output" },
+        { "label": "C", "text": "Increased cardiac output with increased systemic vascular resistance" },
+        { "label": "D", "text": "Decreased systemic vascular resistance with normal cardiac output" },
+        { "label": "E", "text": "Normal systemic vascular resistance with markedly increased cardiac output" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypothyroidism causes hypertension (predominantly diastolic) through increased systemic vascular resistance (SVR) and decreased cardiac output. The lack of thyroid hormone's vasodilatory effect leads to vasoconstriction, while reduced chronotropic and inotropic drive decreases cardiac output.",
+        "whyCorrect": "Thyroid hormone normally promotes vasodilation and increases cardiac output. In hypothyroidism, the absence of these effects results in increased SVR (vasoconstriction), reduced heart rate, reduced contractility, and decreased cardiac output. This produces diastolic-predominant hypertension with a narrow pulse pressure.",
+        "whyWrongByChoice": {
+          "A": "This hemodynamic pattern (high CO, low SVR) characterizes hyperthyroidism, not hypothyroidism. Hyperthyroidism causes systolic hypertension with wide pulse pressure.",
+          "C": "Both CO and SVR being elevated simultaneously would produce very severe systolic and diastolic hypertension. In hypothyroidism, SVR is elevated but CO is reduced.",
+          "D": "Decreased SVR with normal CO does not occur in hypothyroidism. This pattern would be seen in conditions causing vasodilation (e.g., sepsis, AV fistula).",
+          "E": "Markedly increased CO with normal SVR would be seen in high-output states (e.g., hyperthyroidism, severe anemia, beriberi), which is the opposite of what occurs in hypothyroidism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-037",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 54-year-old man with a history of poorly controlled hypertension presents to the emergency department with a blood pressure of 230/140 mmHg, severe headache, confusion, and papilledema on fundoscopic examination. Serum creatinine is 2.8 mg/dL (baseline 1.1), and peripheral blood smear shows schistocytes. Which of the following pathologic processes best explains the renal and hematologic findings?",
+      "choices": [
+        { "label": "A", "text": "Immune complex deposition in glomerular capillaries" },
+        { "label": "B", "text": "Renal cortical necrosis from prolonged hypotension" },
+        { "label": "C", "text": "Cholesterol embolization from aortic plaque rupture" },
+        { "label": "D", "text": "Fibrinoid necrosis of arterioles with microangiopathic hemolytic anemia" },
+        { "label": "E", "text": "IgA-mediated mesangial proliferation" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hypertensive emergency causes fibrinoid necrosis of arterioles, where severe pressure damages the vessel wall, leading to fibrin deposition and narrowing of the arteriolar lumen. Red blood cells are mechanically sheared as they pass through damaged vessels, producing schistocytes (microangiopathic hemolytic anemia).",
+        "whyCorrect": "In malignant hypertension, extreme pressure overwhelms arteriolar autoregulation, causing endothelial damage, fibrinoid necrosis, and intimal proliferation ('onion-skinning'). The damaged, narrowed vessels shear red blood cells, producing schistocytes and a microangiopathic hemolytic anemia. Renal arteriolar damage causes acute kidney injury.",
+        "whyWrongByChoice": {
+          "A": "Immune complex deposition (e.g., in lupus nephritis or post-streptococcal GN) causes glomerulonephritis but is not triggered by acute severe hypertension. The presentation is consistent with hypertensive emergency, not immune-mediated disease.",
+          "B": "Renal cortical necrosis occurs with severe hypoperfusion (e.g., placental abruption, septic shock), not hypertension. This patient has severely elevated BP, not hypotension.",
+          "C": "Cholesterol embolization produces blue toes, livedo reticularis, and eosinophilia, typically after vascular procedures. Schistocytes are not a feature of cholesterol embolization.",
+          "E": "IgA nephropathy causes mesangial proliferation with episodic gross hematuria and is unrelated to acutely elevated blood pressure. It does not produce schistocytes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-038",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 60-year-old woman presents with a BP of 210/125 mmHg, acute chest pain radiating to the back, and a widened mediastinum on chest radiograph. CT angiography confirms a Stanford type A aortic dissection. Which of the following is the most appropriate initial pharmacologic management to reduce the risk of dissection propagation?",
+      "choices": [
+        { "label": "A", "text": "Intravenous nitroprusside infusion alone" },
+        { "label": "B", "text": "Intravenous hydralazine boluses to lower BP by 25% in the first hour" },
+        { "label": "C", "text": "Oral nifedipine for rapid BP reduction" },
+        { "label": "D", "text": "Intravenous fenoldopam for renal protection" },
+        { "label": "E", "text": "Intravenous esmolol to achieve a target heart rate of 60 bpm and systolic BP of 100-120 mmHg" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In aortic dissection, the priority is to reduce aortic wall shear stress by lowering both heart rate and blood pressure. IV beta-blockers (esmolol or labetalol) are first-line to achieve a target HR <60 bpm and systolic BP 100-120 mmHg before adding vasodilators if needed.",
+        "whyCorrect": "Esmolol (a short-acting IV beta-blocker) reduces both heart rate and the rate of rise of aortic pressure (dP/dt), which are the primary determinants of aortic wall shear stress. The target is HR <60 bpm and systolic BP 100-120 mmHg. Reducing dP/dt is critical to prevent dissection propagation.",
+        "whyWrongByChoice": {
+          "A": "Nitroprusside alone is contraindicated as initial therapy because it causes reflex tachycardia, which increases aortic wall shear stress (dP/dt) and can propagate the dissection. It may be added after beta-blocker therapy is established.",
+          "B": "Hydralazine causes reflex tachycardia and has an unpredictable, prolonged duration of action. Both properties make it dangerous in aortic dissection, where precise HR and BP control is essential.",
+          "C": "Oral nifedipine (especially short-acting) causes rapid, uncontrolled BP drops with reflex tachycardia. It is contraindicated in aortic dissection and is generally avoided in hypertensive emergencies.",
+          "D": "Fenoldopam is a dopamine D1 agonist vasodilator that does not reduce heart rate. Without beta-blockade, it can cause reflex tachycardia and is not first-line for aortic dissection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-039",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 32-year-old woman at 34 weeks of gestation presents with a BP of 178/114 mmHg, headache, visual disturbances, epigastric pain, and proteinuria of 3.5 g/24 hours. Platelet count is 82,000/mcL and AST is 245 U/L. Which of the following is the most appropriate antihypertensive agent for acute BP control in this patient?",
+      "choices": [
+        { "label": "A", "text": "Intravenous enalaprilat" },
+        { "label": "B", "text": "Intravenous labetalol" },
+        { "label": "C", "text": "Oral lisinopril" },
+        { "label": "D", "text": "Intravenous nitroprusside" },
+        { "label": "E", "text": "Oral losartan" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has severe preeclampsia with HELLP syndrome. IV labetalol is a first-line agent for acute severe hypertension in pregnancy. ACE inhibitors, ARBs, and nitroprusside are contraindicated in pregnancy due to fetal toxicity.",
+        "whyCorrect": "IV labetalol (combined alpha/beta-blocker) is a first-line agent for acute severe hypertension in pregnancy (along with IV hydralazine and oral nifedipine). It effectively lowers BP without reducing uteroplacental blood flow and has an established safety profile in pregnancy. ACOG recommends treating severe hypertension (systolic ≥160 or diastolic ≥110) within 30-60 minutes.",
+        "whyWrongByChoice": {
+          "A": "Enalaprilat (IV ACE inhibitor) is absolutely contraindicated in pregnancy. ACE inhibitors cause fetal renal dysgenesis, oligohydramnios, pulmonary hypoplasia, and neonatal renal failure, especially in the second and third trimesters.",
+          "C": "Oral lisinopril (ACE inhibitor) is contraindicated in pregnancy for the same teratogenic reasons as enalaprilat. Additionally, oral agents are too slow for acute severe hypertension management.",
+          "D": "Nitroprusside is relatively contraindicated in pregnancy due to fetal cyanide toxicity. It should only be used as a last resort when other agents fail and delivery is imminent.",
+          "E": "Losartan (ARB) is contraindicated in pregnancy. ARBs carry the same fetal risks as ACE inhibitors, including renal agenesis and fetal death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-040",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 48-year-old man with no prior medical history presents with sudden-onset severe headache, vomiting, and a BP of 222/132 mmHg. CT head shows a 3-cm intracerebral hemorrhage in the left basal ganglia with surrounding edema. According to current evidence, what is the target systolic BP for acute management of this patient?",
+      "choices": [
+        { "label": "A", "text": "<120 mmHg within 1 hour" },
+        { "label": "B", "text": "<160 mmHg within 6 hours" },
+        { "label": "C", "text": "<180 mmHg within 24 hours" },
+        { "label": "D", "text": "<140 mmHg within 1 hour" },
+        { "label": "E", "text": "No BP lowering is indicated to preserve cerebral perfusion" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For acute intracerebral hemorrhage with systolic BP >150 mmHg, the AHA/ASA guidelines recommend acute lowering of systolic BP to <140 mmHg within 1 hour, as supported by the INTERACT2 trial showing functional benefit without increasing adverse events.",
+        "whyCorrect": "The INTERACT2 trial demonstrated that intensive BP lowering to <140 mmHg systolic within 1 hour in acute ICH (presenting SBP 150-220 mmHg) was safe and associated with improved functional outcomes compared to a target of <180 mmHg. Current AHA/ASA guidelines recommend this target for patients presenting with SBP >150 mmHg.",
+        "whyWrongByChoice": {
+          "A": "The ATACH-2 trial showed that targeting <120 mmHg systolic did not provide additional benefit over <140 mmHg and was associated with increased renal adverse events. Aggressive lowering below 140 mmHg is not recommended.",
+          "B": "A target of <160 mmHg within 6 hours is too permissive and slow. Evidence supports more rapid lowering to <140 mmHg to reduce hematoma expansion and improve outcomes.",
+          "C": "A target of <180 mmHg within 24 hours is the older, more conservative approach that was used as the comparator in INTERACT2 and showed worse functional outcomes than the intensive target.",
+          "E": "Not lowering BP in acute ICH with severe hypertension is inappropriate. Elevated BP promotes hematoma expansion and worsens outcomes. The concept of preserving cerebral perfusion applies more to ischemic stroke."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-041",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 58-year-old man with chronic hypertension presents to the ED with a BP of 198/118 mmHg. He is asymptomatic, denies headache, chest pain, or visual changes. Physical examination including fundoscopy is normal. Basic metabolic panel, troponin, and urinalysis are unremarkable. ECG shows left ventricular hypertrophy without acute changes. Which of the following best describes this clinical scenario?",
+      "choices": [
+        { "label": "A", "text": "Hypertensive emergency requiring IV antihypertensives" },
+        { "label": "B", "text": "Hypertensive urgency manageable with oral antihypertensives and outpatient follow-up" },
+        { "label": "C", "text": "Malignant hypertension requiring immediate ICU admission" },
+        { "label": "D", "text": "Resistant hypertension requiring addition of spironolactone" },
+        { "label": "E", "text": "Pseudohypertension requiring confirmation with intra-arterial measurement" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severely elevated BP (>180/120 mmHg) without evidence of acute target organ damage is classified as hypertensive urgency, not emergency. It is managed with oral antihypertensives, gradual BP reduction over 24-48 hours, and close outpatient follow-up.",
+        "whyCorrect": "Hypertensive urgency is defined as severely elevated BP without acute end-organ damage. This patient has no symptoms, normal fundoscopy, normal troponin, normal renal function, and no acute ECG changes. Management involves reinstituting or adjusting oral medications and reducing BP gradually over 24-48 hours with close outpatient follow-up.",
+        "whyWrongByChoice": {
+          "A": "Hypertensive emergency requires evidence of acute target organ damage (e.g., encephalopathy, AKI, retinal hemorrhages, acute MI, aortic dissection). This patient has no such findings.",
+          "C": "Malignant hypertension is characterized by severely elevated BP with retinopathy (papilledema, flame hemorrhages, exudates) and often renal impairment. Fundoscopy is normal in this patient.",
+          "D": "Resistant hypertension is defined as uncontrolled BP despite three optimally dosed agents including a diuretic. This presentation describes an acute BP evaluation, and the patient's medication history and adherence need assessment first.",
+          "E": "Pseudohypertension (from calcified, non-compressible arteries) is suspected in elderly patients with very high cuff BP but no target organ damage despite years of apparent severe hypertension. This patient has LVH, suggesting true chronic hypertension."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-042",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 45-year-old man with a history of cocaine use presents to the ED with severe chest pain, diaphoresis, and a BP of 210/130 mmHg. ECG shows ST elevation in leads II, III, and aVF. Troponin I is elevated. Which of the following antihypertensive agents should be avoided in this patient?",
+      "choices": [
+        { "label": "A", "text": "Nitroglycerin" },
+        { "label": "B", "text": "Phentolamine" },
+        { "label": "C", "text": "Metoprolol" },
+        { "label": "D", "text": "Verapamil" },
+        { "label": "E", "text": "Benzodiazepines" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In cocaine-induced STEMI with hypertensive emergency, beta-blockers (including metoprolol) are contraindicated because they leave alpha-adrenergic coronary vasoconstriction unopposed, potentially worsening coronary spasm and myocardial ischemia.",
+        "whyCorrect": "Cocaine blocks norepinephrine reuptake, causing both alpha and beta-adrenergic stimulation. Beta-blockers remove the beta-2-mediated coronary vasodilation, leaving alpha-1-mediated coronary vasoconstriction unopposed. This can worsen coronary spasm, increase BP, and extend infarct size. Benzodiazepines, nitroglycerin, and phentolamine are the preferred agents.",
+        "whyWrongByChoice": {
+          "A": "Nitroglycerin is a first-line agent for cocaine-associated chest pain and STEMI. It provides coronary vasodilation, reduces preload, and helps control both chest pain and blood pressure.",
+          "B": "Phentolamine is an alpha-adrenergic antagonist that directly counteracts cocaine's alpha-mediated vasoconstriction. It is an appropriate choice for refractory hypertension in this setting.",
+          "D": "Verapamil (a calcium channel blocker) can help with coronary vasospasm and BP control in cocaine toxicity. While it should be used cautiously, it is not contraindicated like beta-blockers.",
+          "E": "Benzodiazepines are a cornerstone of cocaine-associated chest pain management. They reduce central sympathetic drive, heart rate, and blood pressure through anxiolysis and sedation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-043",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 66-year-old man with chronic hypertension presents with a BP of 240/140 mmHg, severe headache, blurred vision, and confusion. His physician decides to lower the BP using IV nicardipine. According to recommended guidelines, what is the appropriate rate of BP reduction in the first hour for this hypertensive emergency?",
+      "choices": [
+        { "label": "A", "text": "Reduce mean arterial pressure by no more than 25% in the first hour" },
+        { "label": "B", "text": "Achieve a systolic BP of 120 mmHg within 30 minutes" },
+        { "label": "C", "text": "Reduce systolic BP by 50% within the first hour" },
+        { "label": "D", "text": "Achieve a diastolic BP of 70 mmHg within 2 hours" },
+        { "label": "E", "text": "Normalize BP to 120/80 mmHg within 6 hours" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In hypertensive emergency (excluding aortic dissection), the recommended initial goal is to reduce MAP by no more than 25% within the first hour, then to 160/100-110 mmHg over the next 2-6 hours, with gradual normalization over 24-48 hours to avoid cerebral hypoperfusion.",
+        "whyCorrect": "The cerebral autoregulatory curve is shifted rightward in chronic hypertension, meaning the brain requires higher perfusion pressures. Rapid or excessive BP reduction can cause watershed ischemia or stroke. Reducing MAP by 25% in the first hour preserves cerebral perfusion while beginning to reverse end-organ damage.",
+        "whyWrongByChoice": {
+          "B": "Achieving systolic 120 mmHg within 30 minutes is far too aggressive and risks cerebral hypoperfusion, watershed infarction, and coronary ischemia in a patient with chronically elevated BP.",
+          "C": "A 50% reduction in systolic BP in the first hour would drop this patient's BP from 240 to 120 mmHg, which is dangerously rapid and could cause ischemic complications.",
+          "D": "Targeting a specific diastolic of 70 mmHg within 2 hours is not the recommended approach and could result in excessive BP lowering depending on the patient's baseline.",
+          "E": "Normalizing BP to 120/80 mmHg within 6 hours is too aggressive for a patient with chronic hypertension. Full normalization should occur gradually over 24-48 hours after the initial controlled reduction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-044",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 50-year-old man is being treated for hypertensive emergency with IV nitroprusside. After 72 hours of continuous infusion, he develops confusion, lactic acidosis, and an almond-like odor on his breath. Which of the following best explains this complication?",
+      "choices": [
+        { "label": "A", "text": "Thiocyanate toxicity from prolonged nitroprusside metabolism" },
+        { "label": "B", "text": "Cyanide toxicity from accumulation of the cyanide moiety" },
+        { "label": "C", "text": "Methemoglobinemia from nitric oxide generation" },
+        { "label": "D", "text": "Rebound hypertension from tachyphylaxis" },
+        { "label": "E", "text": "Hepatotoxicity from nitroprusside metabolite accumulation" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitroprusside contains five cyanide groups that are released during metabolism. Prolonged infusion (>48-72 hours) or high doses can overwhelm hepatic cyanide detoxification (rhodanese enzyme), leading to cyanide toxicity with lactic acidosis, confusion, and the characteristic bitter almond odor.",
+        "whyCorrect": "Nitroprusside releases cyanide ions during its nonenzymatic breakdown in blood. Cyanide binds cytochrome c oxidase in mitochondria, blocking oxidative phosphorylation and causing cellular hypoxia with lactic acidosis. The bitter almond odor is classic for cyanide. Treatment includes hydroxocobalamin (which binds cyanide to form cyanocobalamin) or sodium thiosulfate.",
+        "whyWrongByChoice": {
+          "A": "Thiocyanate toxicity occurs with even more prolonged use (usually >1 week) or in renal failure, and presents with tinnitus, confusion, nausea, and seizures, but not lactic acidosis or the characteristic almond odor. Cyanide is converted to thiocyanate by rhodanese.",
+          "C": "Methemoglobinemia can theoretically occur with nitroprusside but is exceedingly rare. It presents with chocolate-colored blood and cyanosis, not lactic acidosis and almond odor.",
+          "D": "Rebound hypertension can occur upon abrupt discontinuation of nitroprusside but does not explain the lactic acidosis, confusion, and almond odor described.",
+          "E": "Nitroprusside does not cause significant hepatotoxicity. The primary toxicity concerns are cyanide (acute) and thiocyanate (chronic) accumulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-045",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 72-year-old woman with a history of chronic hypertension and chronic kidney disease (baseline creatinine 2.1 mg/dL) presents with hypertensive emergency (BP 228/134 mmHg) and acute pulmonary edema. She is in respiratory distress with bilateral crackles, an S3 gallop, and oxygen saturation of 84% on room air. Which of the following is the most appropriate initial IV antihypertensive?",
+      "choices": [
+        { "label": "A", "text": "Clevidipine" },
+        { "label": "B", "text": "Fenoldopam" },
+        { "label": "C", "text": "Nitroglycerin with IV furosemide" },
+        { "label": "D", "text": "Esmolol" },
+        { "label": "E", "text": "Hydralazine" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In hypertensive emergency complicated by acute pulmonary edema, IV nitroglycerin is preferred because it reduces preload (venodilation) and afterload, directly addressing the volume overload and elevated filling pressures. IV furosemide provides additional diuresis to relieve pulmonary congestion.",
+        "whyCorrect": "Nitroglycerin primarily causes venodilation at lower doses (reducing preload) and arteriolar dilation at higher doses (reducing afterload), making it ideal for acute heart failure with pulmonary edema. Combined with IV loop diuretics to reduce volume overload, this regimen addresses both the hypertensive emergency and the acute decompensated heart failure.",
+        "whyWrongByChoice": {
+          "A": "Clevidipine is a dihydropyridine CCB that provides effective BP reduction but primarily causes arteriolar vasodilation without significant venodilation. It does not optimally address the preload reduction needed in acute pulmonary edema.",
+          "B": "Fenoldopam is a dopamine D1 agonist that provides renal-protective vasodilation but does not have the preload-reducing properties needed for acute pulmonary edema management.",
+          "D": "Esmolol (beta-blocker) reduces heart rate and contractility, which could worsen cardiac output in a patient with acute decompensated heart failure and pulmonary edema. It is contraindicated in this setting.",
+          "E": "Hydralazine causes arteriolar vasodilation with reflex tachycardia and has unpredictable, prolonged effects. It does not reduce preload and the reflex tachycardia increases myocardial oxygen demand."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-046",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 40-year-old man on chronic clonidine therapy for hypertension abruptly discontinues his medication after running out of refills. He presents 36 hours later with a BP of 208/126 mmHg, tachycardia, diaphoresis, tremor, and severe anxiety. Which of the following mechanisms best explains this presentation?",
+      "choices": [
+        { "label": "A", "text": "Loss of central alpha-2 receptor stimulation with rebound sympathetic hyperactivity" },
+        { "label": "B", "text": "Unopposed beta-adrenergic stimulation from prior alpha blockade" },
+        { "label": "C", "text": "RAAS activation from sudden removal of angiotensin receptor blockade" },
+        { "label": "D", "text": "Parasympathetic withdrawal causing vagal tone reduction" },
+        { "label": "E", "text": "Dopaminergic receptor upregulation with sympathomimetic rebound" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clonidine is a central alpha-2 agonist that suppresses sympathetic outflow. Abrupt discontinuation causes rebound sympathetic hyperactivity because chronic alpha-2 stimulation leads to receptor downregulation and upregulation of norepinephrine release, producing a withdrawal syndrome with severe hypertension, tachycardia, and diaphoresis.",
+        "whyCorrect": "Chronic clonidine use suppresses central sympathetic outflow via alpha-2 receptor agonism. Abrupt withdrawal removes this suppression, and compensatory upregulation of peripheral norepinephrine release causes a surge in sympathetic activity. This produces severe rebound hypertension, tachycardia, diaphoresis, and anxiety mimicking a pheochromocytoma crisis.",
+        "whyWrongByChoice": {
+          "B": "Clonidine is a central alpha-2 agonist, not an alpha-1 blocker. The rebound is from loss of central sympatholytic effect, not from unopposed beta stimulation after alpha blockade.",
+          "C": "Clonidine does not block angiotensin receptors. The mechanism involves central sympathetic regulation, not RAAS. Abrupt ACE inhibitor or ARB withdrawal typically does not cause this dramatic a rebound.",
+          "D": "While clonidine can enhance vagal tone, the withdrawal syndrome is predominantly driven by rebound sympathetic overactivity, not simply parasympathetic withdrawal.",
+          "E": "Clonidine does not primarily act on dopaminergic receptors. The rebound is adrenergically mediated through loss of central alpha-2 suppression of sympathetic outflow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-047",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 55-year-old man with poorly controlled hypertension presents with progressive confusion, visual disturbances, and seizures over the past 12 hours. His BP is 236/142 mmHg. MRI of the brain shows bilateral symmetric vasogenic edema predominantly in the parieto-occipital regions. Which of the following best explains the predilection for posterior brain involvement?",
+      "choices": [
+        { "label": "A", "text": "The posterior cerebral circulation has less sympathetic innervation and weaker autoregulation" },
+        { "label": "B", "text": "The posterior cerebral arteries are more prone to atherosclerotic narrowing" },
+        { "label": "C", "text": "The occipital cortex has the highest metabolic demand and oxygen consumption" },
+        { "label": "D", "text": "The parieto-occipital region has the most extensive blood-brain barrier" },
+        { "label": "E", "text": "Vertebrobasilar vasospasm selectively damages the posterior circulation" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This presentation describes posterior reversible encephalopathy syndrome (PRES). The posterior cerebral circulation (vertebrobasilar system) has relatively sparse sympathetic innervation compared to the anterior (carotid) circulation, making it more vulnerable to autoregulatory breakthrough and vasogenic edema during acute severe hypertension.",
+        "whyCorrect": "The posterior cerebral circulation receives less adrenergic innervation from the superior cervical sympathetic ganglion compared to the anterior circulation. This means the posterior regions are less able to vasoconstrict in response to acute BP elevation, leading to autoregulatory failure, hyperperfusion, endothelial dysfunction, and vasogenic edema preferentially in the parieto-occipital white matter.",
+        "whyWrongByChoice": {
+          "B": "Atherosclerotic narrowing of posterior cerebral arteries would cause ischemic stroke, not vasogenic edema. PRES results from hyperperfusion and autoregulatory failure, not atherosclerosis.",
+          "C": "The visual cortex does not have the highest metabolic demand in the brain. The frontal cortex and basal ganglia have comparable or higher metabolic rates. Metabolic demand does not explain the posterior predilection.",
+          "D": "The blood-brain barrier is relatively uniform throughout the brain. There is no evidence that the parieto-occipital region has a more extensive BBB. In PRES, the BBB breaks down due to autoregulatory failure.",
+          "E": "PRES involves vasogenic edema from hyperperfusion and autoregulatory breakthrough, not vasospasm. Vasospasm would cause ischemic injury, not the reversible vasogenic edema seen on MRI."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "htn-048",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "A 68-year-old woman presents with acute-onset left-sided weakness and slurred speech. Her BP is 204/112 mmHg. CT head shows no hemorrhage. CT angiography reveals an occluded left middle cerebral artery. She is within the treatment window for IV alteplase. According to AHA/ASA guidelines, to what level must her blood pressure be lowered before administering thrombolysis?",
+      "choices": [
+        { "label": "A", "text": "<140/90 mmHg" },
+        { "label": "B", "text": "<160/100 mmHg" },
+        { "label": "C", "text": "<185/110 mmHg" },
+        { "label": "D", "text": "<200/120 mmHg" },
+        { "label": "E", "text": "No BP threshold; administer alteplase regardless of BP" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AHA/ASA guidelines require BP to be <185/110 mmHg before administering IV alteplase for acute ischemic stroke. After thrombolysis, BP must be maintained <180/105 mmHg for the first 24 hours to minimize the risk of hemorrhagic transformation.",
+        "whyCorrect": "The eligibility criteria for IV alteplase in acute ischemic stroke include BP <185/110 mmHg. Elevated BP above this threshold increases the risk of hemorrhagic conversion of the ischemic territory. IV labetalol or nicardipine can be used to achieve this target before thrombolytic administration.",
+        "whyWrongByChoice": {
+          "A": "Lowering BP to <140/90 mmHg before thrombolysis is unnecessarily aggressive and could worsen ischemic penumbra perfusion. The threshold is <185/110 mmHg.",
+          "B": "While <160/100 mmHg is a reasonable BP target in many settings, it is not the specific threshold required for tPA eligibility. More aggressive lowering than necessary could reduce collateral flow to ischemic tissue.",
+          "D": "A threshold of <200/120 mmHg is too permissive for thrombolytic eligibility. Administering tPA at this BP level would increase the risk of hemorrhagic transformation.",
+          "E": "BP must be controlled below the threshold before alteplase administration. Giving tPA at uncontrolled severely elevated BP significantly increases the risk of symptomatic intracranial hemorrhage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    }
+  ]
+}

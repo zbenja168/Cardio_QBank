@@ -1,0 +1,2946 @@
+{
+  "categoryId": "coronary-artery-disease",
+  "categoryName": "Coronary Artery Disease & ACS",
+  "questions": [
+    {
+      "id": "cad-001",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 47-year-old man with a 20-year smoking history and poorly controlled type 2 diabetes mellitus is found dead at home. At autopsy, cross-sections of the left anterior descending artery reveal a lesion with a large lipid core covered by a thin fibrous cap. The intima shows numerous macrophage-derived foam cells and cholesterol clefts. Which of the following best describes the earliest event in the development of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Platelet aggregation over an eroded fibrous cap"
+        },
+        {
+          "label": "B",
+          "text": "Endothelial dysfunction and increased permeability to lipoproteins"
+        },
+        {
+          "label": "C",
+          "text": "Calcification of the arterial media"
+        },
+        {
+          "label": "D",
+          "text": "Formation of a fibrin-rich thrombus in the lumen"
+        },
+        {
+          "label": "E",
+          "text": "Smooth muscle cell migration into the intima"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The earliest step in atherogenesis is endothelial dysfunction, which increases permeability and allows LDL to accumulate in the intima.",
+        "whyCorrect": "Endothelial dysfunction, triggered by risk factors such as smoking, diabetes, and hypertension, increases vascular permeability to lipoproteins. LDL enters and is oxidized in the intima, attracting monocytes that become foam cells, forming the fatty streak.",
+        "whyWrongByChoice": {
+          "A": "Platelet aggregation over an eroded cap is a late complication triggering acute coronary syndrome.",
+          "C": "Calcification is a feature of advanced plaques and is not part of early pathogenesis.",
+          "D": "Thrombus formation occurs after plaque rupture and represents an acute complication, not an early event.",
+          "E": "Smooth muscle cell migration occurs later during fibrous cap formation, not during initiation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-002",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 58-year-old postmenopausal woman presents for a routine physical. She has no history of cardiovascular disease. Her lipid panel shows elevated LDL and low HDL. Her physician discusses her increased cardiovascular risk since menopause. Which of the following best explains the increased atherosclerosis risk after menopause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic clearance of LDL cholesterol"
+        },
+        {
+          "label": "B",
+          "text": "Decreased thromboxane A2 production by platelets"
+        },
+        {
+          "label": "C",
+          "text": "Increased platelet reactivity from progesterone withdrawal"
+        },
+        {
+          "label": "D",
+          "text": "Reduced secretion of matrix metalloproteinases"
+        },
+        {
+          "label": "E",
+          "text": "Estrogen deficiency leading to unfavorable cholesterol changes and endothelial dysfunction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Estrogen deficiency after menopause promotes unfavorable lipid profiles, arterial stiffness, and endothelial dysfunction.",
+        "whyCorrect": "Menopause increases atherosclerosis risk due to estrogen deficiency, which leads to unfavorable changes in cholesterol levels (increased LDL, decreased HDL), increased arterial stiffness, and endothelial dysfunction.",
+        "whyWrongByChoice": {
+          "A": "Increased hepatic LDL clearance would lower LDL and be cardioprotective; the opposite occurs.",
+          "B": "Decreased thromboxane A2 would reduce platelet aggregation, which would be protective.",
+          "C": "Progesterone withdrawal is not the primary mechanism; the key hormonal change is estrogen deficiency.",
+          "D": "Reduced MMP secretion would stabilize plaques; the concern in atherosclerosis is increased MMP activity."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-003",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 62-year-old man with hypertension and hyperlipidemia undergoes coronary angiography after an abnormal stress test. Imaging reveals a 70% stenosis of the left anterior descending artery. A biopsy of the plaque would most likely show which of the following in the intimal layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentric medial hypertrophy with onion-skinning"
+        },
+        {
+          "label": "B",
+          "text": "Lipid-laden macrophages, smooth muscle cells, and a fibrous cap"
+        },
+        {
+          "label": "C",
+          "text": "Transmural neutrophilic infiltration with fibrinoid necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Caseating granulomas with Langhans giant cells"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposits within the vessel wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atherosclerotic plaques contain lipid-laden macrophages (foam cells), migrated smooth muscle cells, and a fibrous cap over a necrotic lipid core.",
+        "whyCorrect": "A mature atherosclerotic plaque consists of a lipid-rich necrotic core containing foam cells, smooth muscle cells migrated from the media, extracellular lipid, and a fibrous cap of collagen and smooth muscle cells.",
+        "whyWrongByChoice": {
+          "A": "Concentric medial hypertrophy with onion-skinning is seen in malignant hypertension affecting arterioles.",
+          "C": "Transmural neutrophilic infiltration with fibrinoid necrosis describes vasculitis such as polyarteritis nodosa.",
+          "D": "Caseating granulomas are characteristic of tuberculosis, not atherosclerosis.",
+          "E": "Amyloid deposition in vessel walls occurs in amyloid angiopathy, a separate condition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-004",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A pathologist examines an autopsy specimen from a 55-year-old man who died of sudden cardiac death. The coronary artery shows a ruptured atherosclerotic plaque with overlying thrombus. Which of the following plaque characteristics most increased the risk of rupture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heavy calcification throughout the plaque"
+        },
+        {
+          "label": "B",
+          "text": "Thin fibrous cap with a large lipid core and inflammatory cells"
+        },
+        {
+          "label": "C",
+          "text": "Small lipid core with extensive smooth muscle proliferation"
+        },
+        {
+          "label": "D",
+          "text": "Intimal fibrosis without significant lipid accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Thick fibrous cap with dense collagen deposition"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vulnerable plaques prone to rupture have a thin fibrous cap, large lipid core, and abundant inflammatory cells that secrete matrix-degrading enzymes.",
+        "whyCorrect": "Plaques most prone to rupture have a thin fibrous cap and large lipid core. Inflammatory cells and their matrix-degrading enzymes weaken the cap, making it susceptible to rupture, which triggers thrombosis.",
+        "whyWrongByChoice": {
+          "A": "Heavy calcification is a feature of advanced stable plaques and does not specifically increase rupture risk.",
+          "C": "Extensive smooth muscle proliferation with a small lipid core describes a stable, fibrotic plaque.",
+          "D": "Intimal fibrosis without lipid accumulation would not produce a vulnerable plaque.",
+          "E": "A thick fibrous cap with dense collagen is characteristic of a stable plaque resistant to rupture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-005",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 52-year-old man with no prior cardiac history collapses while jogging. Autopsy reveals a fresh thrombus occluding the right coronary artery at the site of a ruptured plaque. His wife reports he never had chest pain. Which of the following best explains why this patient had no warning symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The thrombus dissolved spontaneously before each episode"
+        },
+        {
+          "label": "B",
+          "text": "Right coronary artery occlusion cannot cause symptoms"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery disease only becomes symptomatic after age 65"
+        },
+        {
+          "label": "D",
+          "text": "The plaque caused less than 70% stenosis before rupture, insufficient to produce exertional angina"
+        },
+        {
+          "label": "E",
+          "text": "He had variant angina that only occurs during sleep"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Plaques causing less than 70% stenosis typically do not produce exertional symptoms, yet can still rupture and cause sudden thrombotic occlusion.",
+        "whyCorrect": "Many patients are asymptomatic because their plaques have not yet narrowed the lumen enough (>70%) to cause demand ischemia. However, these non-flow-limiting plaques can be vulnerable and rupture suddenly to cause complete occlusion.",
+        "whyWrongByChoice": {
+          "A": "Spontaneous thrombus dissolution does not explain chronic absence of symptoms.",
+          "B": "Right coronary artery occlusion causes inferior MI with chest pain, bradycardia, and hypotension.",
+          "C": "Atherosclerotic events can occur at any adult age, especially with multiple risk factors.",
+          "E": "Variant angina causes rest pain from vasospasm and would not explain asymptomatic plaque rupture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-006",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 60-year-old man with smoking, hypertension, and diabetes presents with intermittent claudication in his left leg that worsens with walking and improves with rest. Examination reveals a diminished dorsalis pedis pulse. Which vascular territory is most likely affected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lower extremity arteries"
+        },
+        {
+          "label": "B",
+          "text": "Carotid arteries"
+        },
+        {
+          "label": "C",
+          "text": "Renal arteries"
+        },
+        {
+          "label": "D",
+          "text": "Mesenteric arteries"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intermittent claudication with diminished pedal pulses indicates peripheral arterial disease from atherosclerosis of the lower extremity arteries.",
+        "whyCorrect": "Atherosclerosis commonly affects the lower extremity arteries, causing peripheral arterial disease. Intermittent claudication with diminished pedal pulses is the classic presentation.",
+        "whyWrongByChoice": {
+          "B": "Carotid artery atherosclerosis presents with TIAs or stroke symptoms, not leg pain.",
+          "C": "Renal artery atherosclerosis presents with secondary hypertension or renal insufficiency.",
+          "D": "Mesenteric artery atherosclerosis causes postprandial abdominal pain and weight loss.",
+          "E": "Atherosclerosis does not typically affect pulmonary arteries."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-007",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A researcher studies oxidized LDL in atherogenesis. Monocytes migrate into the arterial intima and engulf oxidized LDL particles. Which of the following cell types do these monocytes become within the vessel wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial progenitor cells"
+        },
+        {
+          "label": "B",
+          "text": "Mast cells"
+        },
+        {
+          "label": "C",
+          "text": "Fibroblasts"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages that become foam cells"
+        },
+        {
+          "label": "E",
+          "text": "Vascular smooth muscle cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Monocytes entering the intima differentiate into macrophages, which engulf oxidized LDL via scavenger receptors to become foam cells.",
+        "whyCorrect": "After migrating into the intima, monocytes differentiate into macrophages that take up oxidized LDL through scavenger receptors, becoming lipid-laden foam cells. These are the hallmark of the fatty streak.",
+        "whyWrongByChoice": {
+          "A": "Endothelial progenitor cells are not derived from monocyte differentiation.",
+          "B": "Mast cells arise from distinct bone marrow precursors and are not a major component of early lesions.",
+          "C": "Fibroblasts are connective tissue cells not derived from monocytes in atherogenesis.",
+          "E": "Smooth muscle cells migrate from the media but are not derived from monocytes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-008",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 65-year-old man with transient ischemic attacks undergoes carotid duplex ultrasonography, which reveals bilateral carotid stenosis. Atherosclerosis in the cerebral vasculature most commonly leads to which clinical outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Communicating hydrocephalus"
+        },
+        {
+          "label": "B",
+          "text": "Berry aneurysm rupture and subarachnoid hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic stroke from thromboembolism"
+        },
+        {
+          "label": "D",
+          "text": "Intracerebral hemorrhage from vessel wall rupture"
+        },
+        {
+          "label": "E",
+          "text": "Cerebral venous sinus thrombosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Atherosclerosis of the carotid and cerebral arteries most commonly leads to ischemic stroke through thromboembolism.",
+        "whyCorrect": "Carotid and cerebral artery atherosclerosis is a major cause of ischemic stroke. Plaque rupture with thrombosis or embolization of fragments to distal cerebral vessels causes downstream ischemia and infarction.",
+        "whyWrongByChoice": {
+          "A": "Communicating hydrocephalus results from impaired CSF reabsorption, not atherosclerosis.",
+          "B": "Berry aneurysms are congenital saccular aneurysms unrelated to atherosclerosis.",
+          "D": "Atherosclerosis predominantly causes ischemic rather than hemorrhagic stroke.",
+          "E": "Cerebral venous sinus thrombosis involves the venous system and is caused by hypercoagulability."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-009",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 50-year-old man with familial hypercholesterolemia has a coronary artery calcium score of 450. His physician prescribes a high-intensity statin. In addition to lowering LDL cholesterol, which of the following is another beneficial effect of statin therapy on atherosclerotic plaques?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversibly inhibiting platelet aggregation"
+        },
+        {
+          "label": "B",
+          "text": "Dissolving existing thrombi in coronary arteries"
+        },
+        {
+          "label": "C",
+          "text": "Increasing the size of the lipid core"
+        },
+        {
+          "label": "D",
+          "text": "Stabilizing plaques by reducing inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Promoting plaque calcification and rupture"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Statins stabilize atherosclerotic plaques through anti-inflammatory effects, in addition to lowering LDL cholesterol.",
+        "whyCorrect": "Beyond lowering LDL, statins stabilize plaques by reducing inflammation, reversing endothelial dysfunction, and decreasing thrombogenicity, helping prevent plaque rupture.",
+        "whyWrongByChoice": {
+          "A": "Statins are not antiplatelet agents; aspirin and P2Y12 inhibitors serve that role.",
+          "B": "Statins do not dissolve thrombi; thrombolytic agents such as tPA serve that function.",
+          "C": "Statins reduce rather than increase the lipid core by lowering circulating LDL.",
+          "E": "Statins stabilize plaques; they do not promote rupture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-010",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 45-year-old woman with rheumatoid arthritis and no traditional cardiovascular risk factors is found to have coronary artery disease on CT angiography. Which of the following best explains the association between her condition and atherosclerosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated ESR increasing blood viscosity"
+        },
+        {
+          "label": "B",
+          "text": "Methotrexate therapy causing direct coronary toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Chronic systemic inflammation accelerating endothelial dysfunction"
+        },
+        {
+          "label": "D",
+          "text": "Direct bacterial infection of the coronary arteries"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid factor deposits within the intima"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rheumatoid arthritis is a risk factor for atherosclerosis because chronic systemic inflammation accelerates endothelial dysfunction and plaque development.",
+        "whyCorrect": "Chronic inflammatory conditions like rheumatoid arthritis promote endothelial dysfunction, oxidative stress, and inflammatory processes driving plaque formation, independent of traditional risk factors.",
+        "whyWrongByChoice": {
+          "A": "Elevated ESR and viscosity are not the primary mechanism linking RA to atherosclerosis.",
+          "B": "Methotrexate does not cause coronary toxicity and may reduce CV risk by controlling inflammation.",
+          "D": "Atherosclerosis is not caused by bacterial infection of coronary arteries.",
+          "E": "Rheumatoid factor does not deposit within coronary intima."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-011",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A physician states that atherosclerosis begins silently during childhood. A student asks at what age the process typically becomes clinically evident. Which of the following is the most accurate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In middle age or later"
+        },
+        {
+          "label": "B",
+          "text": "During adolescence (ages 13-18)"
+        },
+        {
+          "label": "C",
+          "text": "Before age 10 years"
+        },
+        {
+          "label": "D",
+          "text": "In early adulthood (ages 20-30)"
+        },
+        {
+          "label": "E",
+          "text": "Only after age 70 years"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Although atherosclerosis begins in childhood, it usually becomes clinically evident in middle age or later.",
+        "whyCorrect": "Atherosclerotic plaque development begins in childhood with fatty streaks. Clinical manifestations typically do not appear until middle age or later, when plaques limit flow or become unstable.",
+        "whyWrongByChoice": {
+          "B": "Early lesions are present in adolescence, but symptomatic disease is exceedingly rare.",
+          "C": "Fatty streaks may be present before age 10, but clinical disease does not manifest.",
+          "D": "Clinically evident disease in early adulthood is uncommon except with familial hypercholesterolemia.",
+          "E": "Many patients develop clinical disease well before age 70, especially with risk factors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-012",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 70-year-old man with coronary artery disease undergoes abdominal aortic ultrasonography. The scan reveals an infrarenal aortic diameter of 5.8 cm. Which of the following is the most serious complication of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aneurysm rupture with exsanguination"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral renal artery stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic mesenteric ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Aortic valve stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Aortic coarctation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most serious complication of an abdominal aortic aneurysm is rupture, which can cause fatal hemorrhage.",
+        "whyCorrect": "An infrarenal aortic diameter of 5.8 cm represents a significant AAA. As diameter increases, rupture risk rises. Rupture causes massive hemorrhage and is frequently fatal.",
+        "whyWrongByChoice": {
+          "B": "Renal artery stenosis is a separate condition; this aneurysm is infrarenal.",
+          "C": "Mesenteric ischemia is not the most serious direct complication of AAA.",
+          "D": "Aortic valve stenosis involves the aortic valve and is not a complication of AAA.",
+          "E": "Aortic coarctation is a congenital narrowing, not a complication of atherosclerotic aneurysm."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-013",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 68-year-old man presents with episodic postprandial abdominal pain and a 15-pound weight loss over 3 months. He has a long history of smoking and peripheral arterial disease. Mesenteric angiography shows significant stenosis of the superior mesenteric artery. Which of the following is the underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibromuscular dysplasia of the mesenteric arteries"
+        },
+        {
+          "label": "B",
+          "text": "Atherosclerotic narrowing of the mesenteric vasculature"
+        },
+        {
+          "label": "C",
+          "text": "Thrombosis of the portal venous system"
+        },
+        {
+          "label": "D",
+          "text": "Vasculitis of medium-sized mesenteric vessels"
+        },
+        {
+          "label": "E",
+          "text": "Median arcuate ligament compression syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Postprandial pain and weight loss in a patient with atherosclerotic risk factors is classic for chronic mesenteric ischemia from atherosclerosis.",
+        "whyCorrect": "Intestinal angina with postprandial pain, weight loss, and food avoidance in a patient with smoking and PAD is classic for chronic mesenteric ischemia from atherosclerotic narrowing.",
+        "whyWrongByChoice": {
+          "A": "Fibromuscular dysplasia typically affects renal and carotid arteries in young women.",
+          "C": "Portal venous thrombosis presents with acute abdominal pain, ascites, and splenomegaly.",
+          "D": "Vasculitis is possible but far less common than atherosclerosis in this demographic.",
+          "E": "Median arcuate ligament syndrome is rare and typically seen in younger patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-014",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "A 55-year-old man with a family history of premature coronary artery disease asks about his most important independent risk factor for atherosclerosis. Which of the following is the most important independent predictor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heavy alcohol consumption"
+        },
+        {
+          "label": "B",
+          "text": "Elevated serum homocysteine level"
+        },
+        {
+          "label": "C",
+          "text": "Family history of premature cardiovascular disease"
+        },
+        {
+          "label": "D",
+          "text": "Sedentary lifestyle"
+        },
+        {
+          "label": "E",
+          "text": "High-carbohydrate diet"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Family history (genetics) is the most important independent risk factor for atherosclerosis.",
+        "whyCorrect": "Family history is the most important independent risk factor for atherosclerosis. Genetic predisposition to premature cardiovascular disease significantly increases risk regardless of modifiable factors.",
+        "whyWrongByChoice": {
+          "A": "Heavy alcohol consumption is a minor risk factor.",
+          "B": "Elevated homocysteine is a minor risk factor, not the most important independent predictor.",
+          "D": "Sedentary lifestyle is a modifiable minor risk factor.",
+          "E": "High-carbohydrate diet is a minor risk factor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-015",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 54-year-old man reports squeezing chest pain for 3 months that occurs only during his morning jog and radiates to his left arm. The pain resolves within 5 minutes of stopping exercise. His resting ECG is normal. Which of the following best describes the pathophysiology of his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed coronary stenosis causing demand ischemia during exertion"
+        },
+        {
+          "label": "B",
+          "text": "Pericardial inflammation causing friction-related chest pain"
+        },
+        {
+          "label": "C",
+          "text": "Microvascular dysfunction from small vessel inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Plaque rupture with superimposed thrombus formation"
+        },
+        {
+          "label": "E",
+          "text": "Coronary artery vasospasm reducing myocardial perfusion at rest"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Stable angina results from fixed atherosclerotic coronary stenosis that limits blood flow during increased myocardial oxygen demand.",
+        "whyCorrect": "In stable angina, a fixed atherosclerotic plaque narrows the coronary artery. At rest, blood flow is adequate. During exertion, the heart demands more oxygen, but the stenosed vessel cannot increase supply, causing ischemia and chest pain that resolves with rest.",
+        "whyWrongByChoice": {
+          "B": "Pericarditis causes pleuritic chest pain that worsens with inspiration and improves leaning forward.",
+          "C": "Microvascular dysfunction can cause angina but is not the classic mechanism for exertional chest pain relieved by rest.",
+          "D": "Plaque rupture with thrombus formation causes unstable angina or MI, presenting with rest pain or escalating symptoms.",
+          "E": "Coronary vasospasm characterizes vasospastic (Prinzmetal) angina, which occurs at rest, not with exertion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-016",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 67-year-old woman presents to the ED with sudden-onset heavy midsternal chest pain at rest lasting 25 minutes. She has hyperlipidemia and peripheral vascular disease. ECG shows ST-segment depressions in leads V4-V6. Serum troponin I measured by a traditional assay is negative. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "ST-elevation myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "D",
+          "text": "Stable angina pectoris"
+        },
+        {
+          "label": "E",
+          "text": "Unstable angina"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "New-onset rest pain with ST depressions and negative traditional troponin is most consistent with unstable angina.",
+        "whyCorrect": "This patient has new-onset severe chest pain at rest, ST-segment depressions on ECG, and negative troponin by traditional assay. This constellation is classic for unstable angina, which results from plaque rupture with subtotal thrombotic occlusion. High-sensitivity troponin assays might detect minor myocardial injury.",
+        "whyWrongByChoice": {
+          "A": "Pericarditis shows diffuse ST elevations, pleuritic pain, and a friction rub.",
+          "B": "STEMI shows ST-segment elevations, not depressions, and troponin would be positive.",
+          "C": "GERD causes burning pain with a sour taste, relieved by antacids, without ECG changes.",
+          "D": "Stable angina occurs predictably with exertion and resolves with rest; this patient has rest pain."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-017",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 42-year-old woman who smokes heavily presents with recurrent episodes of chest pain that awaken her from sleep at 3 AM. The pain responds promptly to sublingual nitroglycerin. An ECG obtained during an episode shows transient ST-segment elevations in leads II, III, and aVF. Coronary angiography reveals no obstructive lesions. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Takotsubo cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Unstable angina from plaque rupture"
+        },
+        {
+          "label": "C",
+          "text": "Stable angina from fixed coronary stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Vasospastic (Prinzmetal) angina"
+        },
+        {
+          "label": "E",
+          "text": "Non-ST-elevation myocardial infarction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recurrent rest angina with transient ST elevations, response to nitrates, smoking history, and clean coronary angiography are classic for vasospastic (Prinzmetal) angina.",
+        "whyCorrect": "Vasospastic angina results from intermittent coronary artery spasm unrelated to atherosclerosis. It typically occurs at rest (often at night), shows transient ST elevations during episodes, responds to nitrates, and has normal coronary angiography. Smoking is a major risk factor.",
+        "whyWrongByChoice": {
+          "A": "Takotsubo presents with acute chest pain mimicking MI, apical ballooning, and emotional stress trigger.",
+          "B": "Unstable angina from plaque rupture would typically show ST depressions and coronary stenosis on angiography.",
+          "C": "Stable angina occurs with exertion, not at rest, and is caused by fixed atherosclerotic stenosis.",
+          "E": "NSTEMI shows ST depressions or T-wave inversions and positive troponin, not transient ST elevations with clean coronaries."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-018",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 72-year-old man with stable angina is started on sublingual nitroglycerin for acute symptom relief. He returns complaining of severe headaches after each use. Which of the following best explains this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reflex tachycardia increasing intracranial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of prostaglandin synthesis in the brain"
+        },
+        {
+          "label": "C",
+          "text": "Increased venous return to the heart causing cerebral congestion"
+        },
+        {
+          "label": "D",
+          "text": "Direct stimulation of pain receptors in the meninges"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of cerebral blood vessels by cGMP-mediated smooth muscle relaxation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nitroglycerin headache occurs because the drug causes vasodilation of cerebral vessels through cGMP-mediated smooth muscle relaxation.",
+        "whyCorrect": "Nitroglycerin releases nitric oxide, which increases cGMP and causes vascular smooth muscle relaxation. This vasodilation affects cerebral vessels, causing headache in over 60% of patients. It is the most common adverse effect.",
+        "whyWrongByChoice": {
+          "A": "While reflex tachycardia can occur, the headache is caused by direct cerebral vasodilation, not increased intracranial pressure from tachycardia.",
+          "B": "Prostaglandin synthesis inhibition is the mechanism of NSAIDs, not nitroglycerin.",
+          "C": "Nitroglycerin decreases venous return (venodilation reduces preload), not increases it.",
+          "D": "Nitroglycerin does not directly stimulate meningeal pain receptors; the headache results from vascular dilation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-019",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 66-year-old man with stable angina controlled on metoprolol and sublingual nitroglycerin asks which of his medications will reduce his risk of dying from cardiovascular disease. His physician adds atorvastatin to his regimen. Which of the following best describes the mortality benefit of this addition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin reduces mortality by decreasing myocardial oxygen demand"
+        },
+        {
+          "label": "B",
+          "text": "Atorvastatin reduces mortality by directly vasodilating coronary arteries"
+        },
+        {
+          "label": "C",
+          "text": "Atorvastatin reduces mortality by lowering LDL and stabilizing coronary plaques"
+        },
+        {
+          "label": "D",
+          "text": "Atorvastatin reduces mortality by inhibiting platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Atorvastatin has no mortality benefit in stable angina"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Statins reduce cardiovascular mortality in stable angina by lowering LDL cholesterol and stabilizing atherosclerotic plaques.",
+        "whyCorrect": "Statins provide primary prevention for MI and reduce deaths from cardiac disease. They work by reducing LDL cholesterol levels and stabilizing coronary artery plaques, reducing the risk of plaque rupture and subsequent MI.",
+        "whyWrongByChoice": {
+          "A": "Decreasing myocardial oxygen demand is the mechanism of beta-blockers, not statins.",
+          "B": "Statins do not directly vasodilate coronary arteries; nitrates provide that effect.",
+          "D": "Statins do not inhibit platelet aggregation; that is the role of aspirin and P2Y12 inhibitors.",
+          "E": "Statins have proven mortality benefit in patients with stable angina and coronary artery disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-020",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 60-year-old woman with suspected stable angina undergoes exercise stress testing. During the treadmill test, her ECG shows 3-mm ST-segment depressions in leads V3-V6, and she reports typical chest pain. Her blood pressure drops from 140/85 mmHg to 125/80 mmHg during peak exercise. Which of the following stress test findings in this patient is most indicative of high-risk coronary artery disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achieving target heart rate without symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Exercise-induced hypotension with large ST depressions and chest pain"
+        },
+        {
+          "label": "C",
+          "text": "An increase in blood pressure during peak exercise"
+        },
+        {
+          "label": "D",
+          "text": "Mild ST elevations resolving immediately after exercise"
+        },
+        {
+          "label": "E",
+          "text": "ST depressions limited to a single lead"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Exercise-induced hypotension combined with large ST depressions and concurrent angina indicates high-risk coronary artery disease.",
+        "whyCorrect": "A positive exercise stress test includes large ST depressions (>2-3 mm), concurrent angina, and exercise-induced hypotension (drop of >10 mmHg). These findings together indicate high-risk disease and a large amount of at-risk myocardium.",
+        "whyWrongByChoice": {
+          "A": "Achieving target heart rate without symptoms suggests a negative or low-risk test.",
+          "C": "Blood pressure normally rises during exercise; an appropriate increase is a normal response.",
+          "D": "Mild ST elevations resolving immediately are nonspecific and not typical of high-risk disease.",
+          "E": "ST depressions in a single lead are less concerning than multi-lead depressions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-021",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 70-year-old man with severe osteoarthritis of both knees and suspected stable angina needs further evaluation. He cannot walk on a treadmill. His baseline ECG shows left bundle branch block. Which of the following is the most appropriate diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Resting 12-lead ECG"
+        },
+        {
+          "label": "B",
+          "text": "Repeat lipid panel and hemoglobin A1c"
+        },
+        {
+          "label": "C",
+          "text": "Pharmacologic stress test with nuclear imaging"
+        },
+        {
+          "label": "D",
+          "text": "Exercise electrocardiography on a treadmill"
+        },
+        {
+          "label": "E",
+          "text": "24-hour Holter monitor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pharmacologic stress testing with imaging is appropriate when the patient cannot exercise and has a baseline ECG abnormality that precludes exercise ECG interpretation.",
+        "whyCorrect": "This patient cannot exercise (severe bilateral knee OA) and has a left bundle branch block making exercise ECG interpretation unreliable. Pharmacologic stress testing with nuclear imaging or echocardiography bypasses both limitations by using a vasodilator or dobutamine to induce stress and imaging to detect ischemia.",
+        "whyWrongByChoice": {
+          "A": "A resting ECG is already abnormal (LBBB) and will not provoke or detect ischemia.",
+          "B": "Lab tests assess risk factors but do not diagnose coronary ischemia.",
+          "D": "Exercise ECG is not feasible due to his inability to exercise, and LBBB makes ECG interpretation unreliable.",
+          "E": "A Holter monitor detects arrhythmias but is not designed to diagnose coronary artery disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-022",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 76-year-old man with stable angina on maximal medical therapy continues to have symptoms. Coronary angiography reveals severe stenosis of the left main coronary artery. Which of the following is the most appropriate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing the dose of sublingual nitroglycerin"
+        },
+        {
+          "label": "B",
+          "text": "Adding a calcium channel blocker to his regimen"
+        },
+        {
+          "label": "C",
+          "text": "Watchful waiting with serial stress testing"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery bypass grafting"
+        },
+        {
+          "label": "E",
+          "text": "Percutaneous coronary intervention with stent placement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Left main coronary artery disease is an indication for coronary artery bypass grafting rather than PCI due to the risk of catastrophic stent occlusion.",
+        "whyCorrect": "CABG is preferred for left main coronary artery disease because stenting in this location carries a risk of stent occlusion that would deprive the entire left coronary circulation of blood, potentially causing fatal MI. CABG provides more durable revascularization for this anatomy.",
+        "whyWrongByChoice": {
+          "A": "Increasing nitroglycerin dose will not address the fixed stenosis in a patient already on maximal medical therapy.",
+          "B": "Adding a CCB may provide symptom relief but does not address the high-risk anatomy.",
+          "C": "Watchful waiting is inappropriate for symptomatic left main disease, which carries high mortality risk.",
+          "E": "PCI with stenting of the left main coronary is problematic because stent occlusion would deprive the entire left coronary circulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-023",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A physician explains to a medical student that beta-blockers are first-line therapy for stable angina. The student asks how beta-blockers relieve anginal symptoms. Which of the following best describes the mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreasing heart rate and contractility, thereby reducing myocardial oxygen demand"
+        },
+        {
+          "label": "B",
+          "text": "Blocking late sodium current to reduce intracellular calcium overload"
+        },
+        {
+          "label": "C",
+          "text": "Direct coronary artery vasodilation increasing oxygen supply"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting platelet aggregation to prevent thrombus formation"
+        },
+        {
+          "label": "E",
+          "text": "Reducing LDL cholesterol and stabilizing atherosclerotic plaques"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beta-blockers reduce angina by decreasing heart rate and contractility through beta-1 receptor blockade, lowering myocardial oxygen demand.",
+        "whyCorrect": "Beta-blockers inhibit beta-1 receptors on the heart, producing negative chronotropic (decreased heart rate) and negative inotropic (decreased contractility) effects. This reduces myocardial oxygen demand, preventing the supply-demand mismatch that causes anginal symptoms.",
+        "whyWrongByChoice": {
+          "B": "Blocking late sodium current is the mechanism of ranolazine.",
+          "C": "Beta-blockers do not directly vasodilate coronary arteries; that is the role of nitrates.",
+          "D": "Platelet aggregation inhibition is the mechanism of aspirin and P2Y12 inhibitors.",
+          "E": "LDL reduction and plaque stabilization are effects of statins."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-024",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 48-year-old man with vasospastic angina asks about long-term management. His physician recommends smoking cessation and a first-line medication. Which of the following is the most appropriate first-line pharmacotherapy for vasospastic angina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atorvastatin"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem"
+        },
+        {
+          "label": "E",
+          "text": "Clopidogrel"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Calcium channel blockers such as diltiazem are first-line therapy for vasospastic angina.",
+        "whyCorrect": "For vasospastic angina, calcium channel blockers (e.g., diltiazem, amlodipine) are first-line because they directly relax coronary artery smooth muscle, preventing the vasospasm that causes the condition. Nitroglycerin is a backup but has tolerance issues with long-term use.",
+        "whyWrongByChoice": {
+          "A": "Statins reduce cholesterol and stabilize plaques but do not address coronary vasospasm.",
+          "B": "Aspirin is an antiplatelet agent used for atherosclerotic disease prevention, not first-line for vasospasm.",
+          "C": "Beta-blockers are first-line for stable angina but are not preferred for vasospastic angina and may worsen vasospasm.",
+          "E": "Clopidogrel is an antiplatelet agent, not indicated as first-line for vasospastic angina."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-025",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 59-year-old man with known stable angina presents to the ED with chest pain that began 2 hours ago while watching television. The pain is more severe than his usual angina and has not responded to three doses of sublingual nitroglycerin. His ECG shows new ST-segment depressions. Which of the following best characterizes the change in his clinical status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "His condition has progressed to unstable angina or acute coronary syndrome"
+        },
+        {
+          "label": "B",
+          "text": "He has developed vasospastic angina requiring calcium channel blockers"
+        },
+        {
+          "label": "C",
+          "text": "His stable angina is unchanged and he should continue current medications"
+        },
+        {
+          "label": "D",
+          "text": "He has developed pericarditis from viral infection"
+        },
+        {
+          "label": "E",
+          "text": "He is experiencing a panic attack with somatic symptoms"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Worsening chest pain at rest that does not respond to nitroglycerin, with new ECG changes, indicates progression from stable angina to unstable angina/ACS.",
+        "whyCorrect": "This patient previously had predictable exertional angina. Now he has rest pain, more severe symptoms, failure to respond to nitroglycerin, and new ST depressions. This represents a transition to unstable angina, which is classified as an acute coronary syndrome requiring urgent evaluation and treatment.",
+        "whyWrongByChoice": {
+          "B": "Vasospastic angina shows transient ST elevations and typically occurs without prior CAD progression.",
+          "C": "Rest pain unresponsive to NTG with new ECG changes is a significant change from stable angina.",
+          "D": "Pericarditis presents with pleuritic pain, friction rub, and diffuse ST elevations.",
+          "E": "Panic attacks do not cause ST-segment depressions on ECG."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-026",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 63-year-old woman with stable angina has a resting ECG that is normal. Her physician considers ordering a stress test. Which of the following patient populations benefits most from exercise stress testing for diagnosis of coronary artery disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patients with a low pretest probability of coronary artery disease"
+        },
+        {
+          "label": "B",
+          "text": "Patients with acute ST-elevation myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "Patients with a very high pretest probability of coronary artery disease"
+        },
+        {
+          "label": "D",
+          "text": "Patients with ongoing unstable angina symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Patients with an intermediate pretest probability of coronary artery disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Exercise stress testing is most useful in patients with intermediate pretest probability of CAD, where the test can meaningfully change the post-test probability.",
+        "whyCorrect": "Stress testing is most useful in patients with intermediate likelihood of CAD, as determined by history and physical exam. In this group, test results meaningfully shift the probability of disease. Low-risk patients have high false-positive rates, and high-risk patients may have false-negatives.",
+        "whyWrongByChoice": {
+          "A": "Low pretest probability patients have a high false-positive rate, making the test less useful.",
+          "B": "Exercise stress testing is contraindicated in acute STEMI.",
+          "C": "Very high pretest probability patients may have false-negatives and often proceed directly to angiography.",
+          "D": "Exercise stress testing is contraindicated during ongoing unstable angina."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-027",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 55-year-old man with stable angina is prescribed sublingual nitroglycerin for acute chest pain relief. Which of the following best describes the primary hemodynamic mechanism by which nitroglycerin relieves angina?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing myocardial contractility to improve cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Venodilation decreasing preload and reducing myocardial oxygen demand"
+        },
+        {
+          "label": "C",
+          "text": "Selective arteriolar dilation increasing systemic blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Direct inhibition of the cardiac conduction system to slow heart rate"
+        },
+        {
+          "label": "E",
+          "text": "Blocking sympathetic nervous system activation at the adrenal glands"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitroglycerin primarily relieves angina through venodilation, which decreases preload and reduces myocardial oxygen demand.",
+        "whyCorrect": "Nitroglycerin produces cGMP-mediated vascular smooth muscle relaxation, targeting veins more than arteries. Venodilation decreases venous return and left ventricular preload, reducing wall tension and myocardial oxygen consumption. It also causes some direct coronary artery dilation.",
+        "whyWrongByChoice": {
+          "A": "Nitroglycerin does not increase contractility; it reduces cardiac workload.",
+          "C": "Nitroglycerin causes vasodilation and can decrease blood pressure, not increase it.",
+          "D": "Nitroglycerin does not directly affect the cardiac conduction system.",
+          "E": "Nitroglycerin acts on vascular smooth muscle, not the sympathetic nervous system."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-028",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "A 61-year-old man with stable angina has been taking aspirin 81 mg daily. He develops a gastric ulcer and his gastroenterologist recommends discontinuing aspirin. Which of the following is the most appropriate alternative antiplatelet agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ticagrelor"
+        },
+        {
+          "label": "B",
+          "text": "Enoxaparin"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin"
+        },
+        {
+          "label": "D",
+          "text": "Heparin"
+        },
+        {
+          "label": "E",
+          "text": "Clopidogrel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clopidogrel is an appropriate alternative antiplatelet agent when aspirin is contraindicated in patients with stable angina.",
+        "whyCorrect": "In patients with stable angina who cannot take aspirin, clopidogrel is considered an appropriate alternative. It is a P2Y12 inhibitor that blocks ADP-mediated platelet activation and is recommended when aspirin is contraindicated.",
+        "whyWrongByChoice": {
+          "A": "Ticagrelor is typically reserved for acute coronary syndrome settings rather than stable angina monotherapy.",
+          "B": "Enoxaparin is a low-molecular-weight heparin anticoagulant, not an antiplatelet alternative.",
+          "C": "Warfarin is an anticoagulant (vitamin K antagonist), not an antiplatelet agent.",
+          "D": "Heparin is a parenteral anticoagulant used for acute thrombotic events, not long-term antiplatelet therapy."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-029",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 57-year-old man presents to the ED with 1 hour of continuous pressing chest pain that began while watching television. ECG shows ST-segment elevations in leads II, III, and aVF. Which of the following best explains the pathophysiology of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased myocardial oxygen demand during physical exertion"
+        },
+        {
+          "label": "B",
+          "text": "Partial occlusion of a coronary artery by a stable atheroma"
+        },
+        {
+          "label": "C",
+          "text": "Thrombosis of a coronary artery after plaque rupture"
+        },
+        {
+          "label": "D",
+          "text": "Vasospasm of a coronary artery at rest"
+        },
+        {
+          "label": "E",
+          "text": "Complete occlusion of a coronary artery by a stable atheroma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "STEMI results from complete thrombotic occlusion of a coronary artery following rupture of a vulnerable atherosclerotic plaque.",
+        "whyCorrect": "This patient has a STEMI with ST elevations in inferior leads. STEMI occurs when an atherosclerotic plaque with a thin fibrous cap ruptures, exposing tissue factor and collagen to blood. This triggers platelet aggregation and thrombus formation that completely occludes the coronary artery.",
+        "whyWrongByChoice": {
+          "A": "The patient was at rest watching TV, so increased oxygen demand from exertion is not the mechanism.",
+          "B": "Partial occlusion by a stable atheroma causes stable angina or NSTEMI, not STEMI with ST elevations.",
+          "D": "Coronary vasospasm is uncommon and typically causes transient ST changes that resolve with nitrates.",
+          "E": "Stable atheromas cause gradual stenosis leading to stable angina; they do not typically cause acute complete occlusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-030",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 63-year-old man presents with crushing chest pain. ECG shows ST elevations in V1-V4. Troponin I is elevated. A diagnosis of anterior wall STEMI is made. Which of the following statements best describes the difference between STEMI and NSTEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "STEMI is caused by partial occlusion of a coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "NSTEMI always requires emergent cardiac catheterization"
+        },
+        {
+          "label": "C",
+          "text": "STEMI involves transmural necrosis from complete coronary occlusion"
+        },
+        {
+          "label": "D",
+          "text": "Patients with NSTEMI do not require hospital admission"
+        },
+        {
+          "label": "E",
+          "text": "Only STEMI produces positive troponin results"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "STEMI involves transmural (full-thickness) myocardial necrosis from complete coronary occlusion, distinguishing it from NSTEMI.",
+        "whyCorrect": "STEMI is caused by complete thrombotic occlusion of a coronary artery, leading to transmural (full-thickness) necrosis. NSTEMI involves incomplete occlusion with nontransmural (subendocardial) infarction.",
+        "whyWrongByChoice": {
+          "A": "STEMI is caused by complete, not partial, occlusion of a coronary artery.",
+          "B": "NSTEMI does not always require emergent catheterization; it is typically done within 24-48 hours.",
+          "D": "NSTEMI patients require admission for monitoring, anticoagulation, and possible intervention.",
+          "E": "Both STEMI and NSTEMI produce positive troponin results because both involve myocardial necrosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-031",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 70-year-old woman with diabetes mellitus presents to the ED with 4 hours of nausea, epigastric discomfort, and dyspnea. She denies chest pain. ECG shows ST depressions in leads V4-V6. Troponin I is elevated. Which of the following best explains why she did not present with typical chest pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She is having a pulmonary embolism, not an MI"
+        },
+        {
+          "label": "B",
+          "text": "Women, elderly patients, and diabetics often have atypical MI presentations"
+        },
+        {
+          "label": "C",
+          "text": "NSTEMI never causes chest pain"
+        },
+        {
+          "label": "D",
+          "text": "Epigastric pain always indicates gastroesophageal reflux"
+        },
+        {
+          "label": "E",
+          "text": "Her troponin elevation is from a non-cardiac cause"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Women, elderly patients, and those with diabetes frequently present with atypical MI symptoms such as dyspnea, nausea, and epigastric pain instead of classic chest pain.",
+        "whyCorrect": "Atypical MI presentations including dyspnea, nausea, epigastric pain, and fatigue without classic chest pain are common in women, elderly patients, and diabetics. Diabetic neuropathy may blunt cardiac pain perception.",
+        "whyWrongByChoice": {
+          "A": "The ECG findings and elevated troponin are consistent with NSTEMI, not PE.",
+          "C": "NSTEMI can cause chest pain, but atypical presentations are common in certain populations.",
+          "D": "Epigastric pain can be a presentation of MI, especially in the populations described.",
+          "E": "While troponin can rise in other conditions, the combination of symptoms and ECG changes supports MI."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-032",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A biopsy of myocardial tissue is obtained from a patient who had an MI 2 days ago. Microscopic examination most likely shows which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coagulative necrosis with neutrophilic infiltrate"
+        },
+        {
+          "label": "B",
+          "text": "Caseating necrosis with multinucleated giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Collagen fibers and mature scar formation"
+        },
+        {
+          "label": "D",
+          "text": "Coagulative necrosis without inflammatory infiltrate"
+        },
+        {
+          "label": "E",
+          "text": "Normal myocardial histology"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "At 1-3 days post-MI, histology shows coagulative necrosis with a prominent neutrophilic inflammatory infiltrate.",
+        "whyCorrect": "Between 1-3 days after MI, the histologic hallmark is extensive coagulative necrosis (hyper-eosinophilic cells with preserved outlines but lost nuclei) accompanied by a maximal neutrophilic infiltrate recruited to clean up cellular debris.",
+        "whyWrongByChoice": {
+          "B": "Caseating necrosis with giant cells is seen in tuberculosis, not MI.",
+          "C": "Collagen and scar formation develop over weeks to months, not at 2 days.",
+          "D": "Coagulative necrosis without inflammation is seen in the first 4-24 hours, before neutrophils arrive.",
+          "E": "Normal histology may be present only in the first few hours post-MI, not at 2 days."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-033",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 58-year-old man is recovering in the hospital 5 days after an anterior wall STEMI. He suddenly develops severe hypotension, muffled heart sounds, and jugular venous distension. Which of the following is the most likely complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Post-MI pericarditis (Dressler syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular free wall rupture with cardiac tamponade"
+        },
+        {
+          "label": "C",
+          "text": "Development of a mural thrombus with systemic embolization"
+        },
+        {
+          "label": "D",
+          "text": "Acute mitral regurgitation from papillary muscle dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular septal rupture with left-to-right shunt"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sudden hypotension, muffled heart sounds, and JVD 5 days post-MI suggest ventricular free wall rupture with hemopericardium and cardiac tamponade.",
+        "whyCorrect": "Ventricular free wall rupture is a mechanical complication occurring 3-10 days post-MI when the necrotic myocardium is weakened by inflammatory infiltrate but scar tissue has not yet formed. Blood accumulates in the pericardial sac (hemopericardium), causing tamponade with the classic triad of hypotension, muffled heart sounds, and JVD.",
+        "whyWrongByChoice": {
+          "A": "Dressler syndrome causes fever and pericarditis weeks post-MI, not acute tamponade at 5 days.",
+          "C": "Mural thrombus embolization causes stroke or limb ischemia, not tamponade.",
+          "D": "Papillary muscle rupture causes acute mitral regurgitation with a new murmur and pulmonary edema.",
+          "E": "Ventricular septal rupture presents with a new holosystolic murmur and heart failure, not tamponade physiology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-034",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 50-year-old man with no prior cardiac history presents with acute chest pain after using cocaine at a party. ECG shows ST elevations in leads V1-V3. Troponin is elevated. Which of the following mechanisms best explains how cocaine caused his MI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic fibrosis of the coronary artery media"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune-mediated coronary artery inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Increased oxygen demand, coronary vasospasm, and endothelial disruption"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of the coagulation cascade preventing thrombolysis"
+        },
+        {
+          "label": "E",
+          "text": "Direct myocardial toxicity from cocaine metabolites"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cocaine causes MI through multiple mechanisms: increased myocardial oxygen demand, coronary vasospasm, endothelial disruption, and platelet activation.",
+        "whyCorrect": "Cocaine is a sympathomimetic that increases heart rate and blood pressure (raising oxygen demand), causes coronary vasospasm, disrupts the endothelium, and activates platelets. These combined effects can precipitate acute MI even without pre-existing atherosclerosis.",
+        "whyWrongByChoice": {
+          "A": "Cocaine does not cause chronic medial fibrosis; its effects are acute and vascular.",
+          "B": "Cocaine-induced MI is not autoimmune in nature.",
+          "D": "Cocaine activates platelets and promotes thrombosis; it does not inhibit the coagulation cascade.",
+          "E": "While cocaine can have toxic effects, the primary mechanism of MI is vascular, not direct myocyte toxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-035",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 62-year-old man undergoes successful PCI for an acute STEMI. Two hours later, his troponin levels rise further and the ECG shows new changes. Myocardial biopsy would most likely show contraction band necrosis. Which of the following best explains this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial endocarditis seeding the infarcted myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Reperfusion injury from free radical generation and calcium influx"
+        },
+        {
+          "label": "C",
+          "text": "Stent thrombosis causing a new occlusion"
+        },
+        {
+          "label": "D",
+          "text": "Extension of the original infarct due to ongoing ischemia"
+        },
+        {
+          "label": "E",
+          "text": "Allergic reaction to the contrast dye used during PCI"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Contraction band necrosis after successful reperfusion is the hallmark of reperfusion injury caused by oxygen free radicals and calcium influx.",
+        "whyCorrect": "Reperfusion injury occurs when blood flow is restored to ischemic myocardium. Returning oxygen generates free radicals that exacerbate damage, and calcium influx causes uncontrolled hypercontraction of myofibers, producing the characteristic contraction band necrosis pattern.",
+        "whyWrongByChoice": {
+          "A": "Bacterial endocarditis is unrelated to this acute post-PCI presentation.",
+          "C": "Stent thrombosis is possible but would cause coagulative necrosis, not contraction band necrosis.",
+          "D": "Infarct extension would show coagulative necrosis, not contraction bands, and the PCI was successful.",
+          "E": "Contrast allergy causes systemic reactions, not contraction band necrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-036",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 65-year-old man with a history of anterior wall MI 3 months ago presents with progressive exertional dyspnea, bilateral lower extremity edema, and bibasilar crackles. Echocardiogram shows an ejection fraction of 30% with anterior wall akinesis. Which of the following is the most likely cause of his current symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary embolism from deep venous thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Acute pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Systolic heart failure from loss of contractile myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent MI in the right coronary artery territory"
+        },
+        {
+          "label": "E",
+          "text": "Pneumonia with bilateral infiltrates"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Progressive heart failure symptoms months after anterior MI result from loss of contractile myocardium replaced by non-contractile scar tissue.",
+        "whyCorrect": "After a large anterior MI, the infarcted myocardium is replaced by scar tissue that does not contract. The resulting reduced ejection fraction (30%) leads to systolic heart failure with dyspnea, edema, and pulmonary congestion. Heart failure is now a leading cause of morbidity after MI.",
+        "whyWrongByChoice": {
+          "A": "PE would present with acute dyspnea, pleuritic pain, and tachycardia, not progressive edema.",
+          "B": "Pericarditis causes pleuritic chest pain and friction rub, not progressive heart failure.",
+          "D": "Recurrent MI would present acutely with chest pain and new ECG changes.",
+          "E": "Pneumonia would present with fever, productive cough, and unilateral findings."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-037",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A pathologist examines a heart specimen from a patient who died 6 weeks after an MI. The infarcted area shows fibroblasts, new blood vessels, and collagen deposition. Which of the following terms best describes this histologic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseous necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Mature fibrotic scar"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Liquefactive necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Granulation tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "At 1-8 weeks post-MI, the healing myocardium shows granulation tissue characterized by fibroblasts, new blood vessels, and collagen deposition.",
+        "whyCorrect": "Between 1-8 weeks after MI, fibroblasts lay down collagen while new blood vessels form (angiogenesis). This combination of fibroblasts, neovascularization, and collagen is called granulation tissue, representing the active healing phase before mature scar formation.",
+        "whyWrongByChoice": {
+          "A": "Caseous necrosis is seen in tuberculosis, not MI.",
+          "B": "Mature fibrotic scar forms after 8 weeks, with completed collagen deposition and no active fibroblasts.",
+          "C": "Coagulative necrosis is seen in the first few days after MI, not at 6 weeks.",
+          "D": "Liquefactive necrosis occurs in the brain, not in the heart after MI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-038",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 55-year-old man presents to the ED with severe chest pain. An ECG is obtained immediately and shows ST elevations in V1-V4. Stat troponin I drawn on arrival is negative. Which of the following is the best next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Order a chest CT to rule out aortic dissection first"
+        },
+        {
+          "label": "B",
+          "text": "Obtain an echocardiogram before any treatment decisions"
+        },
+        {
+          "label": "C",
+          "text": "Wait 24 hours for troponin to become positive before treating"
+        },
+        {
+          "label": "D",
+          "text": "Discharge the patient because troponin is negative"
+        },
+        {
+          "label": "E",
+          "text": "Diagnose STEMI based on ECG and initiate emergent reperfusion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In STEMI, the ECG is the critical initial diagnostic tool. Emergent reperfusion should not be delayed for troponin results, which may take 4-6 hours to become positive.",
+        "whyCorrect": "ECG is the best initial test for MI. ST-segment elevations with classic chest pain are sufficient to diagnose STEMI and initiate emergent therapy, even with a negative initial troponin. Cardiac biomarkers may not be detectable for 4-6 hours after symptom onset.",
+        "whyWrongByChoice": {
+          "A": "While aortic dissection is in the differential, the classic ECG findings and presentation favor STEMI.",
+          "B": "Echocardiography should not delay emergent reperfusion in a clear STEMI presentation.",
+          "C": "Waiting 24 hours for troponin confirmation in STEMI would be catastrophic; time is myocardium.",
+          "D": "A negative troponin on arrival does not rule out MI; serial testing is needed as troponin takes hours to rise."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-039",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 48-year-old man is diagnosed with an NSTEMI. His physician explains that the infarction primarily involves the subendocardial myocardium. Which of the following best explains why the subendocardium is most vulnerable to ischemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The subendocardium lacks gap junctions for oxygen diffusion"
+        },
+        {
+          "label": "B",
+          "text": "The subendocardium is farthest from the coronary blood supply"
+        },
+        {
+          "label": "C",
+          "text": "The subendocardium has the fewest mitochondria"
+        },
+        {
+          "label": "D",
+          "text": "The subendocardium has the highest metabolic rate in the heart"
+        },
+        {
+          "label": "E",
+          "text": "The subendocardium contains the cardiac conduction system"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The subendocardium is most vulnerable to ischemia because it is the farthest region from the epicardial coronary blood supply.",
+        "whyCorrect": "Coronary arteries run along the epicardial surface and penetrate inward. The subendocardial myocardium is the farthest layer from the blood supply, making it the most susceptible to ischemia when coronary blood flow is reduced, as in NSTEMI.",
+        "whyWrongByChoice": {
+          "A": "Gap junctions connect cardiomyocytes electrically, not for oxygen diffusion; their presence does not explain ischemic vulnerability.",
+          "C": "The subendocardium does not have fewer mitochondria; its vulnerability relates to blood supply anatomy.",
+          "D": "While the subendocardium is metabolically active, its vulnerability is primarily due to distance from blood supply.",
+          "E": "While the conduction system traverses the subendocardium, this does not explain ischemic vulnerability."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-040",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 60-year-old man is admitted with an acute anterior wall MI. On hospital day 3, a new holosystolic murmur is heard at the apex with radiation to the axilla. He develops acute pulmonary edema. Which of the following is the most likely mechanical complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular aneurysm formation"
+        },
+        {
+          "label": "B",
+          "text": "Mural thrombus with systemic embolization"
+        },
+        {
+          "label": "C",
+          "text": "Ventricular free wall rupture"
+        },
+        {
+          "label": "D",
+          "text": "Papillary muscle rupture causing acute mitral regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Interventricular septum rupture"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A new holosystolic murmur at the apex with acute pulmonary edema 3 days post-MI indicates papillary muscle rupture causing acute mitral regurgitation.",
+        "whyCorrect": "Papillary muscle rupture is a mechanical complication occurring 2-7 days post-MI when the myocardium is weakened. It causes acute mitral regurgitation presenting as a new holosystolic murmur at the apex radiating to the axilla, with sudden pulmonary edema and heart failure.",
+        "whyWrongByChoice": {
+          "A": "LV aneurysm develops over weeks and does not cause an acute murmur.",
+          "B": "Mural thrombus embolization causes stroke or limb ischemia, not a new murmur.",
+          "C": "Free wall rupture causes cardiac tamponade (hypotension, muffled sounds, JVD), not a new murmur.",
+          "E": "Septal rupture causes a new holosystolic murmur at the left sternal border, not the apex, with left-to-right shunt."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-041",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 7-year-old boy is brought to the ED with fever, conjunctivitis, strawberry tongue, and swollen hands. He is diagnosed with Kawasaki disease. His pediatrician is most concerned about which cardiac complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary artery aneurysms with risk of thrombosis and MI"
+        },
+        {
+          "label": "B",
+          "text": "Aortic valve stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "E",
+          "text": "Constrictive pericarditis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Kawasaki disease, a medium-vessel vasculitis, characteristically causes coronary artery aneurysms that can lead to thrombosis and MI.",
+        "whyCorrect": "Kawasaki disease is a medium-vessel vasculitis that primarily affects children. Its most serious complication is coronary artery aneurysms, which can lead to thrombosis, occlusion, and downstream MI. This is why children with Kawasaki disease receive aspirin.",
+        "whyWrongByChoice": {
+          "B": "Aortic valve stenosis is unrelated to Kawasaki disease.",
+          "C": "Pulmonary hypertension is not a characteristic complication of Kawasaki disease.",
+          "D": "Dilated cardiomyopathy is not the characteristic cardiac complication of Kawasaki disease.",
+          "E": "Constrictive pericarditis is associated with tuberculosis and radiation, not Kawasaki disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-042",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A cardiologist explains the role of cardiac biomarkers in MI diagnosis. CK-MB levels peak earlier and normalize sooner than troponin levels. In which of the following clinical scenarios is CK-MB most useful compared to troponin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Screening asymptomatic patients for coronary artery disease"
+        },
+        {
+          "label": "B",
+          "text": "Confirming pericarditis as the cause of chest pain"
+        },
+        {
+          "label": "C",
+          "text": "Diagnosing stable angina in an outpatient setting"
+        },
+        {
+          "label": "D",
+          "text": "Detecting reinfarction in a patient who had an MI 4 days ago"
+        },
+        {
+          "label": "E",
+          "text": "Initial diagnosis of a first MI in the emergency department"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CK-MB normalizes sooner than troponin, making it useful for detecting reinfarction (a repeat MI) when troponin may still be elevated from the initial event.",
+        "whyCorrect": "Because CK-MB normalizes sooner than troponin (which can remain elevated for 7-10 days), a re-elevation of CK-MB can help detect reinfarction when troponin levels are still elevated from the initial MI.",
+        "whyWrongByChoice": {
+          "A": "Neither CK-MB nor troponin is used for screening asymptomatic patients.",
+          "B": "Pericarditis may have mildly elevated troponin but CK-MB has no specific role in its diagnosis.",
+          "C": "Stable angina does not cause biomarker elevation with traditional assays.",
+          "E": "For initial MI diagnosis, troponin is the preferred and more specific biomarker."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-043",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "A 64-year-old man presents with chest pain lasting 45 minutes. His ECG shows ST elevations meeting STEMI criteria in leads V1-V4 with reciprocal depressions in II, III, and aVF. The ST elevation criterion for lead V2 in this patient (male, age >40) requires at least how many millimeters of elevation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.5 mm"
+        },
+        {
+          "label": "B",
+          "text": "1.5 mm"
+        },
+        {
+          "label": "C",
+          "text": "2.0 mm"
+        },
+        {
+          "label": "D",
+          "text": "1.0 mm"
+        },
+        {
+          "label": "E",
+          "text": "2.5 mm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For anterior leads V2-V3, STEMI criteria require at least 2 mm of ST elevation in men aged 40 and older.",
+        "whyCorrect": "A diagnosis of STEMI requires ST elevation in 2 contiguous leads. For anterior leads V2-V3, the threshold varies by age and sex: 2 mm or more in men 40 years or older, 2.5 mm or more in men under 40, and 1.5 mm or more in women regardless of age.",
+        "whyWrongByChoice": {
+          "A": "0.5 mm is below the threshold for any lead and would not meet STEMI criteria.",
+          "B": "1.5 mm is the criterion for women in leads V2-V3, not men over 40.",
+          "D": "1.0 mm is the criterion for non-anterior leads, not V2-V3 in men.",
+          "E": "2.5 mm is the criterion for men under 40 years in leads V2-V3."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-044",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "During an MI, the body activates endogenous thrombolysis. Endothelial cells release tissue plasminogen activator (tPA). Which of the following best describes the mechanism by which tPA promotes clot dissolution?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "tPA directly inhibits factor Xa in the coagulation cascade"
+        },
+        {
+          "label": "B",
+          "text": "tPA blocks the P2Y12 receptor on platelet membranes"
+        },
+        {
+          "label": "C",
+          "text": "tPA irreversibly inhibits cyclooxygenase on platelets"
+        },
+        {
+          "label": "D",
+          "text": "tPA neutralizes thromboxane A2 in the vessel lumen"
+        },
+        {
+          "label": "E",
+          "text": "tPA converts plasminogen to plasmin, which dissolves fibrin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "tPA converts plasminogen to plasmin, and plasmin dissolves fibrin in the thrombus, thereby promoting clot breakdown.",
+        "whyCorrect": "Tissue plasminogen activator (tPA) released by endothelial cells activates plasminogen to plasmin. Plasmin is a serine protease that cleaves fibrin, the structural protein of the thrombus, thereby dissolving the clot and restoring blood flow.",
+        "whyWrongByChoice": {
+          "A": "Factor Xa inhibition is the mechanism of fondaparinux and heparin, not tPA.",
+          "B": "P2Y12 receptor blockade is the mechanism of clopidogrel and ticagrelor.",
+          "C": "Cyclooxygenase inhibition is the mechanism of aspirin, not tPA.",
+          "D": "Thromboxane A2 neutralization is not the mechanism of tPA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-045",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 63-year-old man presents with crushing chest pain and ECG findings consistent with an inferior STEMI. He is given aspirin, metoprolol, and heparin. The interventional cardiologist is preparing the catheterization lab. Within what time frame should PCI ideally be performed after symptom onset for a STEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Within 30 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Within 7 days"
+        },
+        {
+          "label": "C",
+          "text": "Within 90 minutes of pain onset, up to 12 hours"
+        },
+        {
+          "label": "D",
+          "text": "Within 24 hours"
+        },
+        {
+          "label": "E",
+          "text": "Within 48 hours"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For STEMI, PCI with stent placement should be performed within 90 minutes of symptom onset and can be beneficial up to 12 hours after onset.",
+        "whyCorrect": "In STEMI, time is myocardium. PCI with stent placement within 90 minutes is the goal, and revascularization can still be beneficial up to 12 hours after symptom onset. Any delay decreases treatment effectiveness as the area of necrosis expands progressively.",
+        "whyWrongByChoice": {
+          "A": "30 minutes is the goal for thrombolytic administration when PCI is unavailable, not the PCI target.",
+          "B": "Waiting 7 days for a STEMI would result in extensive irreversible myocardial damage.",
+          "D": "24 hours is acceptable for NSTEMI angiography, not STEMI where urgency is much greater.",
+          "E": "48 hours is the upper limit for NSTEMI intervention, not STEMI."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-046",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 58-year-old man with suspected STEMI arrives at a rural hospital without catheterization capabilities. The nearest PCI-capable center is 3 hours away by ground transport. Helicopter transport is unavailable due to weather. Which of the following is the most appropriate reperfusion strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer IV GP IIb/IIIa inhibitors as definitive therapy"
+        },
+        {
+          "label": "B",
+          "text": "Perform emergent coronary artery bypass grafting"
+        },
+        {
+          "label": "C",
+          "text": "Give sublingual nitroglycerin and discharge home"
+        },
+        {
+          "label": "D",
+          "text": "Start dual antiplatelet therapy and wait for transfer"
+        },
+        {
+          "label": "E",
+          "text": "Administer IV tissue plasminogen activator (tPA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When timely PCI is unavailable for STEMI, IV thrombolytics (tPA) should be administered within 30 minutes of first medical contact.",
+        "whyCorrect": "Thrombolytic agents such as tPA are used as a backup reperfusion strategy for STEMI when PCI is not readily available. They should be given within 12 hours of symptom onset, ideally within 30 minutes of first medical contact.",
+        "whyWrongByChoice": {
+          "A": "GP IIb/IIIa inhibitors are adjuncts to PCI, not definitive reperfusion therapy.",
+          "B": "CABG is not an emergent reperfusion strategy for acute STEMI at a rural hospital.",
+          "C": "Discharging a STEMI patient is inappropriate and potentially fatal.",
+          "D": "Dual antiplatelet therapy alone does not achieve reperfusion; waiting 3+ hours wastes critical time."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-047",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 76-year-old man presents with an acute STEMI. As part of initial treatment, he is given chewable aspirin 325 mg. Which of the following best explains why the aspirin tablet is chewed rather than swallowed whole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chewing allows faster absorption and more rapid platelet inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Chewing enhances the anticoagulant properties of aspirin"
+        },
+        {
+          "label": "C",
+          "text": "Chewing prevents aspirin from being metabolized by the liver"
+        },
+        {
+          "label": "D",
+          "text": "Chewing converts aspirin to its active metabolite"
+        },
+        {
+          "label": "E",
+          "text": "Chewing reduces the risk of gastrointestinal bleeding"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chewing aspirin in STEMI allows faster buccal and gastric absorption, enabling more rapid platelet inhibition.",
+        "whyCorrect": "In STEMI, rapid platelet inhibition is critical. Chewing or crushing the aspirin tablet increases surface area and allows faster absorption through the buccal and gastric mucosa, achieving therapeutic blood levels and platelet inhibition more quickly than swallowing whole.",
+        "whyWrongByChoice": {
+          "B": "Aspirin is an antiplatelet agent, not an anticoagulant; chewing does not change its mechanism.",
+          "C": "Chewing does not prevent hepatic first-pass metabolism; it simply speeds absorption.",
+          "D": "Aspirin does not require conversion to an active metabolite; it directly and irreversibly inhibits COX.",
+          "E": "Chewing does not reduce GI bleeding risk; it simply accelerates absorption."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-048",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 77-year-old man admitted for unstable angina is started on standard ACS medications including heparin. On day 5, his CBC shows a platelet count that has dropped from 258,000/mcL on admission to 50,000/mcL. Which of the following is the most likely cause of this hematologic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heparin-induced thrombocytopenia"
+        },
+        {
+          "label": "B",
+          "text": "Clopidogrel-induced aplastic anemia"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin-induced bone marrow suppression"
+        },
+        {
+          "label": "D",
+          "text": "Statin-induced thrombocytopenia"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol-induced platelet destruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A significant drop in platelet count 5 days into heparin therapy is classic for heparin-induced thrombocytopenia (HIT).",
+        "whyCorrect": "HIT is an immune-mediated response to heparin that causes platelet destruction and a dropping platelet count, typically occurring 5-10 days after initiation. It paradoxically causes hypercoagulability despite thrombocytopenia and requires immediate heparin discontinuation.",
+        "whyWrongByChoice": {
+          "B": "Clopidogrel can cause bleeding but does not typically cause aplastic anemia.",
+          "C": "Aspirin causes GI bleeding but does not suppress bone marrow or cause isolated thrombocytopenia.",
+          "D": "Statins cause myalgia and hepatotoxicity, not thrombocytopenia.",
+          "E": "Metoprolol causes bradycardia and hypotension, not platelet destruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-049",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A patient with ACS is being treated with clopidogrel. A medical student asks the attending about the mechanism of this drug. Which of the following best describes how clopidogrel works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversibly inhibits cyclooxygenase on platelets"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits thrombin by binding to antithrombin"
+        },
+        {
+          "label": "C",
+          "text": "Activates plasminogen to dissolve existing thrombi"
+        },
+        {
+          "label": "D",
+          "text": "Irreversibly blocks the ADP (P2Y12) receptor on platelets"
+        },
+        {
+          "label": "E",
+          "text": "Reversibly binds the GP IIb/IIIa receptor on platelets"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Clopidogrel is an irreversible P2Y12 (ADP receptor) antagonist that prevents ADP-mediated platelet activation.",
+        "whyCorrect": "Clopidogrel irreversibly blocks the P2Y12 receptor on platelets. By preventing ADP binding, it inhibits the platelet activation pathway, reducing platelet aggregation and thrombus formation.",
+        "whyWrongByChoice": {
+          "A": "Irreversible COX inhibition is the mechanism of aspirin.",
+          "B": "Binding antithrombin is the mechanism of heparin, not clopidogrel.",
+          "C": "Plasminogen activation is the mechanism of tPA and streptokinase.",
+          "E": "GP IIb/IIIa receptor antagonists include abciximab and eptifibatide, not clopidogrel."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-050",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 65-year-old man with STEMI is given nitroglycerin sublingually in the ED. His chest pain improves. Which of the following best describes the primary mechanism of action of nitroglycerin in reducing his ischemic chest pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreasing cardiac contractility directly"
+        },
+        {
+          "label": "B",
+          "text": "Venodilation reducing preload and myocardial oxygen demand"
+        },
+        {
+          "label": "C",
+          "text": "Dissolving the coronary thrombus directly"
+        },
+        {
+          "label": "D",
+          "text": "Decreasing afterload by arteriolar dilation"
+        },
+        {
+          "label": "E",
+          "text": "Decreasing heart rate by vagal stimulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitroglycerin primarily works by venodilation, which reduces venous return and preload, thereby decreasing myocardial wall tension and oxygen demand.",
+        "whyCorrect": "Nitroglycerin produces cGMP-mediated relaxation of vascular smooth muscle, preferentially dilating veins. Venodilation reduces venous return and preload, decreasing ventricular filling, wall tension, and myocardial oxygen demand. It also directly dilates coronary arteries to a lesser degree.",
+        "whyWrongByChoice": {
+          "A": "Nitroglycerin does not directly decrease cardiac contractility.",
+          "C": "Nitroglycerin does not dissolve thrombi; thrombolytic agents serve that function.",
+          "D": "While some afterload reduction occurs, venodilation and preload reduction is the primary mechanism.",
+          "E": "Nitroglycerin does not stimulate the vagus nerve or directly reduce heart rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-051",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 60-year-old man with a confirmed NSTEMI is being managed medically. His physician considers anticoagulation with heparin. How long should heparin typically be continued for NSTEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "For 48 hours or until revascularization, whichever comes first"
+        },
+        {
+          "label": "B",
+          "text": "Heparin is not used in NSTEMI"
+        },
+        {
+          "label": "C",
+          "text": "For 12 hours only"
+        },
+        {
+          "label": "D",
+          "text": "For 6 months post-discharge"
+        },
+        {
+          "label": "E",
+          "text": "Indefinitely as outpatient therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For NSTEMI, heparin is given for 48 hours or until revascularization (PCI) occurs, whichever comes first.",
+        "whyCorrect": "In NSTEMI, heparin prevents thrombus propagation while definitive treatment is planned. It is typically continued for 48 hours or until PCI is performed, whichever is first. Heparin is not used indefinitely due to bleeding risks and HIT.",
+        "whyWrongByChoice": {
+          "B": "Heparin is used in NSTEMI to prevent thrombus growth.",
+          "C": "12 hours is too short for adequate anticoagulation coverage in NSTEMI.",
+          "D": "6 months of heparin would be excessive and increase bleeding risk and HIT.",
+          "E": "Heparin is not given indefinitely; long-term antiplatelet therapy replaces it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-052",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 57-year-old man with STEMI undergoes successful PCI with a drug-eluting stent. He is prescribed dual antiplatelet therapy with aspirin and prasugrel at discharge. For how long should the P2Y12 inhibitor typically be continued?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At least 12 months"
+        },
+        {
+          "label": "B",
+          "text": "1 month"
+        },
+        {
+          "label": "C",
+          "text": "1 week"
+        },
+        {
+          "label": "D",
+          "text": "3 months"
+        },
+        {
+          "label": "E",
+          "text": "Only during hospitalization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "P2Y12 inhibitors are typically continued for at least 12 months after an acute coronary event with stent placement.",
+        "whyCorrect": "After ACS with stent placement, P2Y12 inhibitors are initially used in the acute phase and then continued for at least 12 months to prevent stent thrombosis and recurrent ischemic events.",
+        "whyWrongByChoice": {
+          "B": "1 month is insufficient for optimal protection after ACS.",
+          "C": "1 week is too short and risks stent thrombosis.",
+          "D": "3 months is shorter than the recommended minimum duration.",
+          "E": "Stopping at discharge provides inadequate long-term protection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-053",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 70-year-old man with ACS is being considered for thrombolytic therapy with tPA. He had an ischemic stroke 2 weeks ago. Which of the following best describes the appropriateness of thrombolytic therapy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "tPA is only contraindicated if the stroke was hemorrhagic"
+        },
+        {
+          "label": "B",
+          "text": "tPA can be given at a reduced dose"
+        },
+        {
+          "label": "C",
+          "text": "tPA is safe and should be given immediately"
+        },
+        {
+          "label": "D",
+          "text": "tPA is absolutely contraindicated due to recent ischemic stroke"
+        },
+        {
+          "label": "E",
+          "text": "tPA should be combined with heparin to reduce stroke risk"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recent ischemic stroke is an absolute contraindication to thrombolytic therapy due to high risk of hemorrhagic conversion.",
+        "whyCorrect": "Absolute contraindications to thrombolytics include recent ischemic stroke, intracranial hemorrhage, active bleeding, aortic dissection, closed head trauma, and severe uncontrolled hypertension. A recent stroke increases the risk of hemorrhagic conversion.",
+        "whyWrongByChoice": {
+          "A": "Both recent ischemic and hemorrhagic strokes are contraindications to thrombolytics.",
+          "B": "Dose reduction does not overcome an absolute contraindication.",
+          "C": "tPA is not safe in this patient due to the absolute contraindication of recent stroke.",
+          "E": "Combining with heparin would increase, not decrease, bleeding risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-054",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "An attending physician warns a medical student that the traditional MONA mnemonic (morphine, oxygen, nitrates, aspirin) for ACS management is outdated. Of these four agents, which is the only one with proven mortality benefit in ACS?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Morphine"
+        },
+        {
+          "label": "B",
+          "text": "All four have proven mortality benefit"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Nitroglycerin"
+        },
+        {
+          "label": "E",
+          "text": "Aspirin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Of the MONA agents, only aspirin has proven mortality benefit in ACS. Morphine, oxygen, and nitrates may cause harm.",
+        "whyCorrect": "Aspirin is the only MONA agent with proven mortality benefit. Morphine has been associated with decreased survival and interference with antiplatelet drug absorption. Oxygen therapy has no benefit in non-hypoxic patients and may cause harm. Nitrates relieve symptoms but have no mortality benefit.",
+        "whyWrongByChoice": {
+          "A": "Morphine may decrease survival and mask ischemic pain, an important clinical marker.",
+          "B": "Only aspirin has proven mortality benefit; the others may be harmful.",
+          "C": "Oxygen has no benefit in non-hypoxic MI patients and may cause harm.",
+          "D": "Nitroglycerin relieves pain but has no proven mortality benefit."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-055",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 62-year-old man with a history of heparin-induced thrombocytopenia (HIT) presents with NSTEMI requiring anticoagulation and PCI. Which of the following is the most appropriate anticoagulant alternative?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enoxaparin (low-molecular-weight heparin)"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin at a higher dose"
+        },
+        {
+          "label": "C",
+          "text": "Bivalirudin (direct thrombin inhibitor)"
+        },
+        {
+          "label": "D",
+          "text": "Unfractionated heparin at a reduced dose"
+        },
+        {
+          "label": "E",
+          "text": "Warfarin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bivalirudin, a direct thrombin inhibitor, is the preferred anticoagulant alternative for patients with HIT undergoing PCI.",
+        "whyCorrect": "In patients with a history of HIT, all forms of heparin are absolutely contraindicated. Bivalirudin is a reversible direct thrombin inhibitor that provides effective anticoagulation during PCI without triggering HIT.",
+        "whyWrongByChoice": {
+          "A": "Enoxaparin is a heparin derivative and is also contraindicated in HIT.",
+          "B": "Aspirin is an antiplatelet agent, not an anticoagulant replacement for heparin.",
+          "D": "Any dose of unfractionated heparin is contraindicated in patients with HIT history.",
+          "E": "Warfarin has a slow onset and is not suitable for acute anticoagulation during PCI."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-056",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 55-year-old man with NSTEMI is started on ticagrelor as part of dual antiplatelet therapy. Two days later, he reports significant shortness of breath without evidence of heart failure or pulmonary embolism. Which of the following is the most likely explanation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspirin-exacerbated respiratory disease"
+        },
+        {
+          "label": "B",
+          "text": "Known adverse effect of ticagrelor causing dyspnea"
+        },
+        {
+          "label": "C",
+          "text": "Allergic reaction to ticagrelor requiring epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Beta-blocker induced bronchospasm"
+        },
+        {
+          "label": "E",
+          "text": "Worsening myocardial ischemia from stent thrombosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ticagrelor causes significant dyspnea in approximately 15% of patients, a recognized adverse effect distinct from cardiac or pulmonary pathology.",
+        "whyCorrect": "Ticagrelor has a known adverse effect of dyspnea occurring in about 15% of patients. This is thought to be related to adenosine-mediated effects. It is not a sign of cardiac decompensation or allergy.",
+        "whyWrongByChoice": {
+          "A": "Aspirin-exacerbated respiratory disease causes nasal polyps and asthma, not isolated dyspnea.",
+          "C": "Allergic reactions would include urticaria, angioedema, or anaphylaxis, not isolated dyspnea.",
+          "D": "Beta-blocker bronchospasm is possible but less likely without wheezing or asthma history.",
+          "E": "Stent thrombosis would present with chest pain and ECG changes, not isolated dyspnea."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-057",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 68-year-old man with STEMI undergoes PCI. The cardiologist places a drug-eluting stent. Which of the following best describes the advantage of drug-eluting stents over bare-metal stents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drug-eluting stents dissolve after 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Drug-eluting stents do not require antiplatelet therapy"
+        },
+        {
+          "label": "C",
+          "text": "Drug-eluting stents have a larger lumen diameter"
+        },
+        {
+          "label": "D",
+          "text": "Drug-eluting stents reduce neointimal proliferation and restenosis"
+        },
+        {
+          "label": "E",
+          "text": "Drug-eluting stents are less thrombogenic acutely"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Drug-eluting stents release medications that limit neointimal proliferation, reducing the risk of in-stent restenosis.",
+        "whyCorrect": "Drug-eluting stents have a drug bonded to a polymer coating that inhibits neointimal proliferation (smooth muscle cell growth) within the stent. This significantly reduces the rate of restenosis compared to bare-metal stents.",
+        "whyWrongByChoice": {
+          "A": "Drug-eluting stents are permanent metallic implants; they do not dissolve.",
+          "B": "Drug-eluting stents still require dual antiplatelet therapy, often for a longer duration.",
+          "C": "Lumen diameter depends on stent sizing, not whether it is drug-eluting.",
+          "E": "Drug-eluting stents may actually require longer antiplatelet therapy due to delayed endothelialization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-058",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 59-year-old woman with STEMI is being treated with multiple medications. She has no hypoxemia (oxygen saturation 98% on room air). A nurse asks whether supplemental oxygen should be administered. Which of the following is the most appropriate response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low-flow nasal cannula is mandatory for all ACS patients"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen is not indicated and may cause harm in non-hypoxic patients"
+        },
+        {
+          "label": "C",
+          "text": "Administer high-flow oxygen to all MI patients"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen should be given only after successful reperfusion"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen is needed to enhance the effectiveness of nitroglycerin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Supplemental oxygen should only be used in MI patients with hypoxemia (oxygen saturation <90%). It has no benefit and may cause harm in non-hypoxic patients.",
+        "whyCorrect": "Research shows that supplemental oxygen in non-hypoxic MI patients has no benefit and may cause harm. Oxygen should only be administered when saturation falls below 90%.",
+        "whyWrongByChoice": {
+          "A": "Nasal cannula oxygen is not mandatory for all ACS patients.",
+          "C": "Routine high-flow oxygen for all MI patients is not recommended and may be harmful.",
+          "D": "Oxygen timing is based on saturation level, not reperfusion status.",
+          "E": "Oxygen does not enhance nitroglycerin effectiveness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-059",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 72-year-old man with chronic hypertension presents with sudden-onset tearing chest pain radiating to his back. A chest X-ray reveals a mediastinal width of 9 cm. ECG is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mediastinal lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Abdominal aortic aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Anterior mediastinal thymoma"
+        },
+        {
+          "label": "D",
+          "text": "Traumatic aortic disruption"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sudden tearing chest pain radiating to the back with a widened mediastinum in a hypertensive patient is classic for aortic dissection.",
+        "whyCorrect": "Aortic dissection presents with sudden, severe, tearing chest pain radiating to the back in patients with chronic hypertension. A widened mediastinum (>8 cm) on chest X-ray supports this diagnosis. The normal ECG helps exclude MI.",
+        "whyWrongByChoice": {
+          "A": "Lymphoma can cause mediastinal widening but does not present with sudden severe tearing pain.",
+          "B": "Abdominal aortic aneurysm does not cause mediastinal widening; it occurs below the diaphragm.",
+          "C": "Thymoma causes mediastinal widening but does not present with acute tearing chest pain.",
+          "D": "Traumatic aortic disruption occurs after major deceleration injuries, not spontaneously."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-060",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 42-year-old restrained driver is brought to the trauma center after a head-on collision. Chest X-ray shows a widened upper mediastinum and left-sided opacification. Which of the following is the most appropriate next imaging study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent chest CT angiogram"
+        },
+        {
+          "label": "B",
+          "text": "MRI of the chest"
+        },
+        {
+          "label": "C",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear medicine cardiac stress test"
+        },
+        {
+          "label": "E",
+          "text": "Transthoracic echocardiogram"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A widened mediastinum after deceleration injury requires emergent chest CT angiogram to evaluate for traumatic aortic disruption.",
+        "whyCorrect": "Widened mediastinum after sudden deceleration is highly concerning for traumatic aortic injury at the ligamentum arteriosum. Emergent chest CT angiogram is the study of choice to confirm or exclude this life-threatening diagnosis.",
+        "whyWrongByChoice": {
+          "B": "MRI is time-consuming and impractical in the acute trauma setting.",
+          "C": "Abdominal ultrasound evaluates for intraperitoneal fluid but does not assess the thoracic aorta.",
+          "D": "Nuclear stress testing is elective and has no role in acute trauma evaluation.",
+          "E": "Echocardiogram evaluates cardiac function but does not adequately image the thoracic aorta for traumatic injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-061",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 68-year-old man with chronic heart failure presents with worsening dyspnea. His PA chest X-ray shows a cardiothoracic ratio greater than 0.5, prominent hilar vessels, Kerley B lines at the lung periphery, and bilateral pleural effusions. Which of the following findings would be most unexpected in this clinical scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cephalization of pulmonary vessels"
+        },
+        {
+          "label": "B",
+          "text": "Hilar vessel enlargement"
+        },
+        {
+          "label": "C",
+          "text": "Edema beginning in the lateral peripheral lung fields"
+        },
+        {
+          "label": "D",
+          "text": "Pleural effusions"
+        },
+        {
+          "label": "E",
+          "text": "Cardiomegaly"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In cardiogenic pulmonary edema, edema typically begins centrally near the hilum and radiates outward; peripheral/lateral lung field edema first would be unexpected.",
+        "whyCorrect": "Cardiogenic pulmonary edema characteristically starts centrally surrounding the hilar vessels where pulmonary capillary pressure is highest, creating a batwing pattern. The peripheral/lateral lung fields are typically the last to be affected. Edema starting in the lateral fields would be atypical.",
+        "whyWrongByChoice": {
+          "A": "Cephalization (increased apical vessel visibility) is a classic sign of elevated pulmonary pressures.",
+          "B": "Hilar vessel enlargement results from increased pulmonary artery pressures and is expected.",
+          "D": "Pleural effusions commonly develop in heart failure.",
+          "E": "Cardiomegaly is common in chronic heart failure and is an expected finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-062",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 55-year-old woman presents with new-onset dyspnea. Echocardiography shows a left ventricular end-diastolic volume of 150 mL and an end-systolic volume of 90 mL. What is her ejection fraction, and how does it compare to normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "40%, which is reduced (normal 55-70%)"
+        },
+        {
+          "label": "B",
+          "text": "75%, which is elevated (normal 55-70%)"
+        },
+        {
+          "label": "C",
+          "text": "30%, which is severely reduced (normal 55-70%)"
+        },
+        {
+          "label": "D",
+          "text": "50%, which is borderline (normal 55-70%)"
+        },
+        {
+          "label": "E",
+          "text": "60%, which is normal (normal 55-70%)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "EF = (EDV - ESV)/EDV = (150 - 90)/150 = 60/150 = 40%, which is below the normal range of 55-70%.",
+        "whyCorrect": "Ejection fraction = (End Diastolic Volume - End Systolic Volume) / End Diastolic Volume = (150 - 90) / 150 = 40%. A normal EF is 55-70%, so 40% represents a reduced ejection fraction, consistent with systolic heart failure.",
+        "whyWrongByChoice": {
+          "B": "The calculated EF is 40%, not 75%.",
+          "C": "The calculated EF is 40%, not 30%.",
+          "D": "The calculated EF is 40%, not 50%.",
+          "E": "The calculated EF is 40%, not 60%."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-063",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 60-year-old man with suspected coronary artery disease undergoes stress echocardiography. During dobutamine infusion, the anteroseptal wall of the left ventricle shows hypokinesis while other walls contract normally. Which of the following coronary arteries is most likely diseased?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior descending artery"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "D",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Left circumflex artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anteroseptal wall motion abnormality corresponds to the left anterior descending artery territory.",
+        "whyCorrect": "Regional wall motion abnormalities on stress echo correspond to specific coronary artery territories. The anteroseptal wall is supplied by the left anterior descending artery (LAD). Hypokinesis in this region during stress indicates LAD stenosis.",
+        "whyWrongByChoice": {
+          "A": "The posterior descending artery supplies the inferior septum and inferior wall.",
+          "C": "The RCA supplies the inferior wall; its disease would cause inferior hypokinesis.",
+          "D": "Left main disease would affect both LAD and circumflex territories, causing more widespread abnormalities.",
+          "E": "The left circumflex supplies the lateral wall; its disease would cause lateral hypokinesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-064",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A patient with suspected pericardial effusion undergoes echocardiography. The study confirms a large effusion with right ventricular diastolic collapse. Which of the following hemodynamic consequences does this finding indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular septal defect with left-to-right shunt"
+        },
+        {
+          "label": "B",
+          "text": "Constrictive pericarditis with restricted filling"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac tamponade with impaired venous return"
+        },
+        {
+          "label": "D",
+          "text": "Aortic valve stenosis with pressure overload"
+        },
+        {
+          "label": "E",
+          "text": "Mitral regurgitation with volume overload"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Right ventricular diastolic collapse on echocardiography indicates cardiac tamponade, where intrapericardial pressure exceeds right-sided chamber pressures.",
+        "whyCorrect": "Right ventricular or atrial collapse during diastole on echo indicates that intrapericardial pressure has risen above right-sided chamber pressures, impairing venous return and reducing cardiac output. This is the echocardiographic hallmark of cardiac tamponade.",
+        "whyWrongByChoice": {
+          "A": "VSD causes volume overload of the right heart, not chamber collapse.",
+          "B": "Constrictive pericarditis shows a thickened pericardium, not chamber collapse from effusion.",
+          "D": "Aortic stenosis causes LV hypertrophy, not RV diastolic collapse.",
+          "E": "Mitral regurgitation causes LA and LV dilation, not RV collapse."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-065",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A PA chest X-ray shows an enlarged cardiac silhouette with a globular, symmetric shape resembling a water bottle. Which of the following is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular hypertrophy from chronic hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Aortic root aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Right ventricular enlargement from pulmonary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Dilated cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A globular, symmetric 'water bottle' cardiac silhouette on chest X-ray is characteristic of pericardial effusion.",
+        "whyCorrect": "Pericardial effusion causes symmetric, globular enlargement of the cardiac silhouette due to fluid accumulation within the pericardial sac. This 'water bottle' shape is distinct from the asymmetric enlargement seen with cardiomegaly.",
+        "whyWrongByChoice": {
+          "A": "LVH causes asymmetric leftward enlargement, not a symmetric globular shape.",
+          "B": "Aortic root aneurysm widens the superior mediastinum, not the cardiac silhouette symmetrically.",
+          "C": "RV enlargement causes asymmetric rightward enlargement, not a water bottle shape.",
+          "E": "Dilated cardiomyopathy causes cardiomegaly but typically maintains an asymmetric silhouette."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-066",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 65-year-old man is referred for screening for abdominal aortic aneurysm. He has a 40-pack-year smoking history. Which of the following is the most appropriate initial screening study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MR angiography of the abdomen"
+        },
+        {
+          "label": "B",
+          "text": "CT angiography of the abdomen"
+        },
+        {
+          "label": "C",
+          "text": "Conventional abdominal aortography"
+        },
+        {
+          "label": "D",
+          "text": "Plain abdominal X-ray"
+        },
+        {
+          "label": "E",
+          "text": "Abdominal ultrasound"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Abdominal ultrasound is the recommended initial screening study for AAA in at-risk populations.",
+        "whyCorrect": "Ultrasound is the study of choice for AAA screening. It is non-invasive, widely available, inexpensive, radiation-free, and highly accurate for detecting aortic dilation. Screening is recommended for men aged 65-75 with a smoking history.",
+        "whyWrongByChoice": {
+          "A": "MRA is accurate but expensive, time-consuming, and not used as an initial screening tool.",
+          "B": "CT angiography provides excellent detail but involves radiation and contrast; it is reserved for confirmed aneurysms requiring surgical planning.",
+          "C": "Conventional aortography is invasive and not appropriate for screening.",
+          "D": "Plain X-ray may show calcification but is insensitive for detecting AAA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-067",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 79-year-old man presents to the ED with abdominal pain and a blood pressure of 82/35 mmHg. His hemoglobin is 5.7 g/dL. Physical examination is limited by his body habitus. Which of the following is the most appropriate initial imaging study?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Point-of-care ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "MRI abdomen"
+        },
+        {
+          "label": "C",
+          "text": "Nuclear medicine scan"
+        },
+        {
+          "label": "D",
+          "text": "Conventional angiography"
+        },
+        {
+          "label": "E",
+          "text": "CT abdomen with contrast"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In a hemodynamically unstable patient with suspected ruptured AAA, point-of-care ultrasound at the bedside is the most appropriate initial imaging.",
+        "whyCorrect": "This patient is hemodynamically unstable with signs of hemorrhagic shock (hypotension, severe anemia). Point-of-care ultrasound is rapid, risk-free, and performed at the bedside. It can quickly confirm the presence of an AAA without transporting the patient to radiology.",
+        "whyWrongByChoice": {
+          "B": "MRI is time-consuming, costly, and has no role in emergency abdominal imaging.",
+          "C": "Nuclear medicine testing is not quick and is inappropriate for this emergency.",
+          "D": "Conventional angiography is invasive and not appropriate as the initial imaging study.",
+          "E": "CT is reasonable if stable, but transporting this unstable patient to radiology is dangerous."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-068",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A cardiologist orders a coronary artery calcium (CAC) CT scan for a 55-year-old man with intermediate cardiovascular risk. The report shows a calcium score of 350. Which of the following statements best describes what this test provides?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Evaluation of cardiac valve function and regurgitation"
+        },
+        {
+          "label": "B",
+          "text": "A numerical risk score based on coronary calcium deposits without evaluating stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Assessment of myocardial perfusion during stress"
+        },
+        {
+          "label": "D",
+          "text": "Measurement of coronary artery blood flow velocity"
+        },
+        {
+          "label": "E",
+          "text": "Direct visualization of coronary artery stenosis with contrast"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coronary artery calcium scoring uses a low-dose non-contrast CT to quantify calcium in coronary plaques as a risk assessment tool, without formally evaluating stenosis.",
+        "whyCorrect": "CAC scoring uses a low-dose, non-contrast CT to measure calcium deposits in coronary artery plaques. It provides a numerical score associated with increased risk of coronary events, guiding management decisions. It does not use contrast and does not evaluate for arterial stenosis.",
+        "whyWrongByChoice": {
+          "A": "Valve function evaluation is performed by echocardiography.",
+          "C": "Myocardial perfusion assessment is done by nuclear stress testing, not CAC scoring.",
+          "D": "Coronary flow velocity measurement is not a function of CAC scoring.",
+          "E": "Direct coronary artery visualization with contrast is CT angiography, not calcium scoring."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-069",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 50-year-old man with chest pain undergoes conventional coronary angiography (cardiac catheterization). Which of the following is a major advantage of this invasive procedure compared to CT angiography?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It provides better imaging of the myocardium than the vessels"
+        },
+        {
+          "label": "B",
+          "text": "It has no risk of vascular complications"
+        },
+        {
+          "label": "C",
+          "text": "It requires no contrast dye administration"
+        },
+        {
+          "label": "D",
+          "text": "It can provide simultaneous therapeutic intervention (PCI)"
+        },
+        {
+          "label": "E",
+          "text": "It uses less radiation than a standard chest X-ray"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The major advantage of conventional coronary angiography is the ability to perform simultaneous percutaneous coronary intervention.",
+        "whyCorrect": "While conventional coronary angiography is invasive, its major advantage over CT angiography is the ability to perform therapeutic interventions during the same procedure. Areas of critical stenosis can be dilated and stented (PCI), providing both diagnosis and treatment.",
+        "whyWrongByChoice": {
+          "A": "Conventional angiography primarily images coronary vessels, not the myocardium.",
+          "B": "Vascular complications (hematoma, dissection, pseudoaneurysm) are inherent risks of invasive catheterization.",
+          "C": "Conventional angiography requires intra-arterial contrast dye injection.",
+          "E": "Conventional angiography uses significant radiation, more than a chest X-ray."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "cad-070",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Cardiovascular Imaging",
+      "stem": "A 58-year-old man with an acute MI undergoes echocardiography. The study shows hypokinesis of the anterolateral wall during systole. In the cardiac ischemic cascade, at what point does regional wall motion abnormality (RWMA) typically develop relative to other signs of ischemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Only after complete transmural infarction has occurred"
+        },
+        {
+          "label": "B",
+          "text": "Simultaneously with troponin elevation"
+        },
+        {
+          "label": "C",
+          "text": "Before anginal symptoms and before ECG changes"
+        },
+        {
+          "label": "D",
+          "text": "After troponin elevation but before ECG changes"
+        },
+        {
+          "label": "E",
+          "text": "After anginal symptoms develop but before ECG changes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Regional wall motion abnormality is the earliest clinical sign in the ischemic cascade, developing within seconds of decreased blood flow, before anginal symptoms and ECG changes.",
+        "whyCorrect": "Because the myocardium is an obligate aerobe, RWMA (hypokinesis or akinesis) develops within seconds of decreased blood flow/oxygen delivery. This occurs before anginal symptoms develop, before ECG changes of ischemia appear, and before troponin levels rise from myocyte death.",
+        "whyWrongByChoice": {
+          "A": "RWMA can be detected with subendocardial ischemia and does not require transmural infarction.",
+          "B": "RWMA occurs much earlier than troponin elevation, which requires cell death.",
+          "D": "RWMA develops before troponin elevation, not after. Troponin rises after myocyte death, a later event.",
+          "E": "RWMA precedes anginal symptoms in the ischemic cascade, not the reverse."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "categoryId": "histology",
+  "categoryName": "Histology",
+  "questions": [
+    {
+      "id": "hist-001",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 67-year-old man with a history of hypertension and diabetes mellitus dies suddenly at home. Autopsy reveals a transmural myocardial infarction of the left ventricular free wall with rupture into the pericardial sac. Histologic examination of the rupture site shows necrotic cardiac myocytes with loss of nuclei and preserved cell outlines. The pathologist notes that the rupture occurred at the interface between the middle and outer layers of the heart wall. Which of the following best describes the histologic composition of the outermost layer through which the rupture extended?",
+      "choices": [
+        { "label": "A", "text": "Dense irregular connective tissue with abundant elastic fibers" },
+        { "label": "B", "text": "Mesothelium overlying connective tissue with adipose and vessels" },
+        { "label": "C", "text": "Endothelium overlying a thin subendothelial connective tissue" },
+        { "label": "D", "text": "Bundles of cardiac myocytes separated by endomysial tissue" },
+        { "label": "E", "text": "Dense regular connective tissue with fibroblasts and collagen" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The epicardium (visceral pericardium) is the outermost layer of the heart wall, consisting of mesothelium (simple squamous epithelium) overlying a connective tissue layer containing adipose tissue, coronary vessels, and nerves.",
+        "whyCorrect": "The epicardium is the visceral layer of the serous pericardium. It is composed of a single layer of mesothelial cells on the surface, underlain by connective tissue that contains adipose tissue, coronary arteries, cardiac veins, lymphatics, and autonomic nerves. In a transmural infarction with rupture, the necrotic tissue extends through the myocardium and disrupts this epicardial layer to reach the pericardial sac.",
+        "whyWrongByChoice": {
+          "A": "Dense irregular connective tissue with elastic fibers describes the fibrous pericardium (parietal layer), not the epicardium. The fibrous pericardium is a separate structure from the heart wall itself.",
+          "C": "Endothelium overlying subendothelial connective tissue describes the endocardium, which is the innermost layer of the heart wall, not the outermost layer through which rupture would reach the pericardial space.",
+          "D": "Cardiac myocyte bundles with endomysial tissue describe the myocardium, the middle and thickest layer of the heart wall. The rupture extends through this layer but it is not the outermost layer.",
+          "E": "Dense regular connective tissue describes tendons and ligaments. While the cardiac skeleton contains dense connective tissue, it does not form the outer layer of the heart wall."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["epicardium", "heart wall layers", "mesothelium", "myocardial rupture", "visceral pericardium"]
+    },
+    {
+      "id": "hist-002",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 52-year-old woman presents with progressive exertional dyspnea and lower extremity edema. Echocardiography reveals severe mitral stenosis with a thickened, calcified mitral valve. A tissue sample from the diseased valve is obtained during surgical replacement. Histologic examination reveals dense connective tissue with a core of fibroelastic tissue. Normal heart valves are avascular and receive nutrients by diffusion. Which of the following cell types lines both surfaces of a normal cardiac valve leaflet?",
+      "choices": [
+        { "label": "A", "text": "Simple cuboidal epithelial cells" },
+        { "label": "B", "text": "Endothelial cells continuous with endocardium" },
+        { "label": "C", "text": "Mesothelial cells continuous with epicardium" },
+        { "label": "D", "text": "Transitional epithelial cells with tight junctions" },
+        { "label": "E", "text": "Stratified squamous nonkeratinized epithelial cells" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Heart valve leaflets are covered on both surfaces by endothelium that is continuous with the endocardium lining the heart chambers.",
+        "whyCorrect": "Cardiac valve leaflets are lined on both the atrial and ventricular surfaces by endothelial cells that are continuous with the endocardium. The core of the valve consists of three layers: the fibrosa (dense collagen on the outflow side), spongiosa (loose connective tissue with glycosaminoglycans), and ventricularis (elastic fibers on the inflow side). Valves are normally avascular and receive nutrients by diffusion from blood.",
+        "whyWrongByChoice": {
+          "A": "Simple cuboidal epithelium is found in structures such as kidney tubules and thyroid follicles but does not line cardiac valves or any cardiovascular surfaces.",
+          "C": "Mesothelial cells line serous cavities and cover the epicardial surface of the heart. They do not line the valve leaflets, which are internal structures covered by endocardium.",
+          "D": "Transitional epithelium (urothelium) is specific to the urinary tract and is not found in the cardiovascular system.",
+          "E": "Stratified squamous epithelium lines surfaces subject to mechanical abrasion such as the esophagus and oral cavity. Heart valves are lined by a single layer of endothelial cells."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["heart valves", "endothelium", "endocardium", "mitral valve", "valve histology"]
+    },
+    {
+      "id": "hist-003",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 45-year-old man undergoes endomyocardial biopsy for evaluation of new-onset heart failure. The pathologist examines the biopsy specimen under electron microscopy and identifies specialized junctional complexes between adjacent cardiac myocytes. These complexes appear as dark-staining, step-like structures at the cell borders and contain three types of cell junctions. Which of the following combinations of junctions is most likely found within these specialized structures?",
+      "choices": [
+        { "label": "A", "text": "Tight junctions, hemidesmosomes, and gap junctions" },
+        { "label": "B", "text": "Fascia adherens, desmosomes, and gap junctions" },
+        { "label": "C", "text": "Zonula occludens, zonula adherens, and desmosomes" },
+        { "label": "D", "text": "Desmosomes, hemidesmosomes, and tight junctions" },
+        { "label": "E", "text": "Gap junctions, tight junctions, and hemidesmosomes" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Intercalated discs are specialized junctional complexes between cardiac myocytes that contain fascia adherens (anchoring actin filaments), desmosomes (mechanical coupling), and gap junctions (electrical coupling).",
+        "whyCorrect": "Intercalated discs are the step-like, dark-staining structures unique to cardiac muscle. They contain three types of junctions: (1) fascia adherens, which anchor actin filaments of the terminal sarcomeres to the cell membrane; (2) desmosomes (macula adherens), which provide strong mechanical adhesion by linking intermediate filaments (desmin) between cells; and (3) gap junctions (nexus), which allow direct electrical coupling through connexin channels, enabling the heart to function as a syncytium.",
+        "whyWrongByChoice": {
+          "A": "Hemidesmosomes connect epithelial cells to the basement membrane and are not found in intercalated discs. Tight junctions are not a major component of intercalated discs.",
+          "C": "Zonula occludens (tight junctions) and zonula adherens are characteristic of epithelial junctional complexes, not cardiac intercalated discs. Cardiac muscle uses fascia adherens rather than zonula adherens.",
+          "D": "While desmosomes are present in intercalated discs, hemidesmosomes and tight junctions are not. Hemidesmosomes are epithelial-basement membrane attachments.",
+          "E": "While gap junctions are present in intercalated discs, tight junctions and hemidesmosomes are not found in these structures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["intercalated discs", "gap junctions", "desmosomes", "fascia adherens", "cardiac myocytes"]
+    },
+    {
+      "id": "hist-004",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 72-year-old woman with a history of aortic stenosis is found to have concentric left ventricular hypertrophy on echocardiography. A cardiac biopsy reveals hypertrophied cardiac myocytes. Compared to skeletal muscle fibers, which of the following features would most reliably distinguish the cells in this biopsy as cardiac myocytes on light microscopy?",
+      "choices": [
+        { "label": "A", "text": "Presence of cross-striations due to organized sarcomeres" },
+        { "label": "B", "text": "Central nuclei with branching fiber architecture" },
+        { "label": "C", "text": "Peripheral nuclei with parallel, unbranched fibers" },
+        { "label": "D", "text": "Multinucleated cells with long cylindrical morphology" },
+        { "label": "E", "text": "Lack of visible striations with spindle-shaped cells" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiac myocytes are distinguished from skeletal muscle by centrally located nuclei (one or two per cell) and branching fiber architecture, along with intercalated discs.",
+        "whyCorrect": "Cardiac myocytes have centrally located nuclei (typically one or two per cell) and exhibit a characteristic branching pattern, forming a network of interconnected fibers. These features are visible on routine H&E staining and reliably distinguish cardiac from skeletal muscle. While both types are striated, skeletal muscle fibers are long, unbranched, multinucleated cells with peripherally located nuclei.",
+        "whyWrongByChoice": {
+          "A": "Cross-striations are present in both cardiac and skeletal muscle due to the organized arrangement of sarcomeres. This feature cannot distinguish between the two muscle types.",
+          "C": "Peripheral nuclei with parallel, unbranched fibers are characteristic of skeletal muscle fibers, not cardiac myocytes.",
+          "D": "Multinucleated cells with long cylindrical morphology describe skeletal muscle fibers. Cardiac myocytes are typically mononucleated or binucleated, not multinucleated.",
+          "E": "Lack of visible striations with spindle-shaped cells describes smooth muscle, not cardiac muscle. Cardiac myocytes are striated."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["cardiac myocytes", "skeletal muscle", "central nuclei", "branching fibers", "muscle histology"]
+    },
+    {
+      "id": "hist-005",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 58-year-old man with a history of atrial fibrillation undergoes catheter ablation of the pulmonary vein ostia. During the procedure, the electrophysiologist notes that the cells of the cardiac conduction system responsible for generating the normal cardiac rhythm have a distinctive histologic appearance compared to contractile cardiomyocytes. Compared to working ventricular myocytes, the pacemaker cells of the sinoatrial node are best characterized by which of the following histologic features?",
+      "choices": [
+        { "label": "A", "text": "Larger diameter with more abundant mitochondria" },
+        { "label": "B", "text": "More organized sarcomeres with prominent Z-lines" },
+        { "label": "C", "text": "Smaller cells with fewer myofibrils and pale cytoplasm" },
+        { "label": "D", "text": "Multinucleated fibers with abundant glycogen stores" },
+        { "label": "E", "text": "Elongated cells with well-developed T-tubule systems" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SA node pacemaker cells are small, pale-staining cells with fewer myofibrils, fewer mitochondria, and poorly developed sarcoplasmic reticulum compared to working cardiomyocytes.",
+        "whyCorrect": "The pacemaker cells of the SA node are smaller than contractile ventricular cardiomyocytes and contain fewer organized myofibrils, giving them a pale-staining appearance on histology. They have a poorly developed sarcoplasmic reticulum and T-tubule system. These cells are embedded in a dense connective tissue matrix and are specialized for automaticity rather than contraction. Their pale cytoplasm is due to the relative paucity of contractile elements.",
+        "whyWrongByChoice": {
+          "A": "SA node cells are smaller, not larger, than working myocytes and contain fewer mitochondria. The abundant mitochondria and larger size are characteristics of contractile ventricular cardiomyocytes.",
+          "B": "SA node cells have fewer and less organized sarcomeres, not more organized ones. The poorly developed myofibrillar apparatus reflects their pacemaker function rather than contractile role.",
+          "D": "Cardiac myocytes, including nodal cells, are not multinucleated. Multinucleation is a feature of skeletal muscle fibers.",
+          "E": "SA node cells have a poorly developed T-tubule system. Well-developed T-tubules are characteristic of ventricular working myocytes that require rapid excitation-contraction coupling."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["SA node", "pacemaker cells", "conduction system", "nodal cells", "cardiac automaticity"]
+    },
+    {
+      "id": "hist-006",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 34-year-old woman with systemic lupus erythematosus presents with chest pain that worsens with inspiration and improves when leaning forward. Physical examination reveals a friction rub. Echocardiography shows a small pericardial effusion. The inflammatory process involves the serous membrane covering the heart surface. Which of the following best describes the histologic layer immediately deep to the mesothelial lining affected in this patient's condition?",
+      "choices": [
+        { "label": "A", "text": "Subepicardial connective tissue with fat and coronary vessels" },
+        { "label": "B", "text": "Compact layer of cardiac myocytes with intercalated discs" },
+        { "label": "C", "text": "Subendocardial layer containing Purkinje fiber networks" },
+        { "label": "D", "text": "Dense fibrous layer forming the cardiac skeleton framework" },
+        { "label": "E", "text": "Smooth muscle layer with elastic laminae interspersed" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The epicardium consists of mesothelium on the surface with an underlying subepicardial connective tissue layer containing adipose tissue, coronary arteries and veins, lymphatics, and nerves.",
+        "whyCorrect": "This patient has acute pericarditis affecting the epicardium (visceral pericardium). The epicardium has two sublayers: (1) the surface mesothelium (simple squamous epithelium) and (2) the subepicardial connective tissue immediately deep to it, which contains adipose tissue, coronary blood vessels, lymphatics, and autonomic nerve fibers. This subepicardial layer is the layer immediately deep to the mesothelial surface.",
+        "whyWrongByChoice": {
+          "B": "The compact myocardium lies deep to the entire epicardium, not immediately beneath the mesothelium. The subepicardial connective tissue intervenes between the mesothelium and the myocardium.",
+          "C": "The subendocardial layer with Purkinje fibers is located on the inner surface of the heart beneath the endocardium, not beneath the epicardial mesothelium.",
+          "D": "The cardiac skeleton is a fibrous framework at the base of the heart that provides attachment for valves and myocardium. It is not located immediately deep to the epicardial mesothelium.",
+          "E": "Smooth muscle layers with elastic laminae are characteristic of blood vessel walls, not the layer beneath the epicardial mesothelium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["epicardium", "pericarditis", "subepicardial layer", "mesothelium", "coronary vessels"]
+    },
+    {
+      "id": "hist-007",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 63-year-old man with chronic heart failure undergoes placement of a left ventricular assist device. During surgery, the surgeon notes the varying thickness of the heart wall in different chambers. The pathologist later examines tissue samples from the left ventricle and left atrium. Compared to the left ventricular wall, which of the following histologic differences would be expected in the left atrial wall?",
+      "choices": [
+        { "label": "A", "text": "Thicker myocardium with more organized fiber orientation" },
+        { "label": "B", "text": "Thinner endocardium with absence of smooth muscle cells" },
+        { "label": "C", "text": "Thinner myocardium with secretory granules in some myocytes" },
+        { "label": "D", "text": "Absent epicardium replaced by fibrous pericardial tissue" },
+        { "label": "E", "text": "Greater density of Purkinje fibers in the subendocardium" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The atrial wall has a thinner myocardium than the ventricle, and atrial cardiomyocytes contain electron-dense secretory granules that store atrial natriuretic peptide (ANP).",
+        "whyCorrect": "Atrial cardiomyocytes are distinguished from ventricular myocytes by the presence of electron-dense atrial-specific granules containing atrial natriuretic peptide (ANP). ANP is released in response to atrial stretch and promotes natriuresis and vasodilation. The atrial myocardium is also significantly thinner than the ventricular myocardium because the atria generate lower pressures. These two features together make this the best answer.",
+        "whyWrongByChoice": {
+          "A": "The atrial myocardium is thinner, not thicker, than the ventricular myocardium. The left ventricle has the thickest myocardium of all chambers due to the high systemic pressures it generates.",
+          "B": "The endocardium of both chambers contains smooth muscle cells and is similar in general structure. Atrial endocardium is actually slightly thicker than ventricular endocardium in some regions.",
+          "D": "Both atria and ventricles have epicardium on their outer surfaces. The epicardium does not disappear or become replaced by fibrous pericardium in the atria.",
+          "E": "Purkinje fibers are more prominent in the ventricular subendocardium, not in the atrium. The Purkinje fiber network is the terminal distribution of the ventricular conducting system."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["atrial myocytes", "ANP", "atrial natriuretic peptide", "secretory granules", "chamber wall thickness"]
+    },
+    {
+      "id": "hist-008",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 78-year-old man with a history of an inferior myocardial infarction 3 weeks ago presents with a new holosystolic murmur best heard at the apex with radiation to the axilla. Echocardiography reveals severe mitral regurgitation due to papillary muscle rupture. The cardiac skeleton provides structural support at the base of the heart. Which of the following is the primary function of the cardiac skeleton with respect to the electrical conduction system?",
+      "choices": [
+        { "label": "A", "text": "It provides a direct pathway for impulse spread from atria to ventricles" },
+        { "label": "B", "text": "It generates the pacemaker activity that initiates each cardiac cycle" },
+        { "label": "C", "text": "It serves as electrical insulation between atrial and ventricular myocardium" },
+        { "label": "D", "text": "It increases the velocity of conduction through the atrioventricular node" },
+        { "label": "E", "text": "It distributes the electrical impulse to the Purkinje fiber network" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cardiac skeleton is a framework of dense connective tissue (fibrous rings, trigones, and membranous septum) that electrically insulates the atria from the ventricles, ensuring impulses can only pass through the AV node/bundle of His.",
+        "whyCorrect": "The cardiac skeleton consists of dense connective tissue including the annuli fibrosi (fibrous rings around the valves), the right and left fibrous trigones, and the membranous portion of the interventricular septum. A critical function is providing electrical insulation between the atrial and ventricular myocardium. This ensures that the only normal pathway for electrical impulse conduction from atria to ventricles is through the AV node and bundle of His, which penetrates the cardiac skeleton.",
+        "whyWrongByChoice": {
+          "A": "The cardiac skeleton blocks direct impulse spread between atria and ventricles. It forces conduction to occur exclusively through the AV node and bundle of His.",
+          "B": "Pacemaker activity is generated by specialized cells in the SA node, not by the fibrous connective tissue of the cardiac skeleton.",
+          "D": "The cardiac skeleton does not increase AV nodal conduction velocity. AV nodal conduction is inherently slow, providing the physiologic delay between atrial and ventricular contraction.",
+          "E": "The distribution of impulses to Purkinje fibers is accomplished by the bundle of His and its branches, not by the cardiac skeleton itself."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["cardiac skeleton", "electrical insulation", "AV node", "annulus fibrosus", "conduction system"]
+    },
+    {
+      "id": "hist-009",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 55-year-old man undergoes cardiac catheterization after experiencing syncope. Electrophysiology studies reveal a conduction defect in the right bundle branch. The electrophysiologist explains that the terminal fibers of the conduction system are located beneath the endocardium and are responsible for rapid impulse delivery to the ventricular myocardium. On histologic examination, these terminal conducting fibers are best identified by which of the following features?",
+      "choices": [
+        { "label": "A", "text": "Small diameter cells with sparse myofibrils and abundant connective tissue" },
+        { "label": "B", "text": "Cells larger than surrounding myocytes with pale-staining glycogen-rich cytoplasm" },
+        { "label": "C", "text": "Elongated cells with densely packed myofibrils and numerous mitochondria" },
+        { "label": "D", "text": "Spindle-shaped cells with a single central nucleus and no striations" },
+        { "label": "E", "text": "Multinucleated cells with peripherally located nuclei and visible A-bands" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Purkinje fibers are larger than ordinary cardiomyocytes and have pale-staining cytoplasm due to abundant glycogen and relatively fewer myofibrils, which are displaced to the cell periphery.",
+        "whyCorrect": "Purkinje fibers (cells) are the terminal components of the cardiac conduction system located in the subendocardial region of the ventricles. They are characteristically larger in diameter than surrounding working cardiomyocytes and have pale, glycogen-rich cytoplasm. Their myofibrils are fewer in number and displaced to the periphery of the cell, while the central cytoplasm is occupied by glycogen deposits. These distinctive features make them readily identifiable on light microscopy with H&E or PAS staining.",
+        "whyWrongByChoice": {
+          "A": "Small cells with sparse myofibrils surrounded by connective tissue describes SA or AV nodal cells, not Purkinje fibers. Purkinje fibers are larger, not smaller, than contractile myocytes.",
+          "C": "Densely packed myofibrils and numerous mitochondria characterize working ventricular cardiomyocytes, which are specialized for contraction. Purkinje fibers have fewer, peripherally displaced myofibrils.",
+          "D": "Spindle-shaped cells with no striations describe smooth muscle cells, which are not part of the cardiac conduction system.",
+          "E": "Multinucleated cells with peripheral nuclei are skeletal muscle fibers. Purkinje fibers are typically binucleated with centrally placed nuclei."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["Purkinje fibers", "conduction system", "glycogen", "subendocardial", "bundle branches"]
+    },
+    {
+      "id": "hist-010",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 40-year-old woman with a mechanical mitral valve prosthesis is being managed with warfarin therapy. During a follow-up visit, her cardiologist discusses the importance of anticoagulation because the artificial valve lacks the natural antithrombotic surface present on native valve leaflets. Which of the following properties of the native valve endothelial surface is most important for preventing thrombus formation on normal valve leaflets?",
+      "choices": [
+        { "label": "A", "text": "Secretion of von Willebrand factor and tissue factor" },
+        { "label": "B", "text": "Expression of thromboxane A2 receptors on the luminal surface" },
+        { "label": "C", "text": "Production of prostacyclin and expression of thrombomodulin" },
+        { "label": "D", "text": "Release of adenosine diphosphate and serotonin from granules" },
+        { "label": "E", "text": "Activation of the extrinsic coagulation cascade at the surface" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Normal endothelium produces prostacyclin (PGI2), a vasodilator and platelet inhibitor, and expresses thrombomodulin, which activates protein C to inactivate clotting factors, providing a critical antithrombotic surface.",
+        "whyCorrect": "The endothelial cells lining heart valves produce several antithrombotic factors. Prostacyclin (PGI2) inhibits platelet aggregation and causes vasodilation. Thrombomodulin on the endothelial surface binds thrombin and converts it from a procoagulant to an anticoagulant by activating protein C. Additionally, endothelial cells express heparan sulfate proteoglycans and produce nitric oxide and tissue plasminogen activator (tPA). These properties make the normal endothelial surface resistant to thrombus formation.",
+        "whyWrongByChoice": {
+          "A": "Von Willebrand factor promotes platelet adhesion and tissue factor initiates coagulation. These are prothrombotic factors released when endothelium is damaged, not antithrombotic properties.",
+          "B": "Thromboxane A2 is a platelet-derived proaggregatory molecule. Its receptors promote platelet activation and aggregation, which is prothrombotic rather than antithrombotic.",
+          "D": "ADP and serotonin are released from platelet dense granules during platelet activation and promote further platelet aggregation. These are prothrombotic mediators, not endothelial antithrombotic factors.",
+          "E": "Activation of the extrinsic coagulation cascade promotes clot formation and is a prothrombotic process, not an antithrombotic property of normal endothelium."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["endothelium", "antithrombotic", "prostacyclin", "thrombomodulin", "valve endothelium"]
+    },
+    {
+      "id": "hist-011",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 28-year-old man is diagnosed with Chagas disease after returning from a trip to rural South America. He presents with palpitations and an irregularly irregular pulse. Cardiac biopsy reveals myocardial inflammation with intracellular parasites. The pathologist notes that the electrical coupling between cardiac myocytes is disrupted, contributing to the arrhythmia. Which of the following proteins is the principal component of the junctions responsible for direct electrical communication between cardiac myocytes?",
+      "choices": [
+        { "label": "A", "text": "Desmoplakin linking desmin intermediate filaments" },
+        { "label": "B", "text": "Connexin-43 forming channels between adjacent cells" },
+        { "label": "C", "text": "N-cadherin anchoring actin filaments at cell borders" },
+        { "label": "D", "text": "Integrin linking the cytoskeleton to extracellular matrix" },
+        { "label": "E", "text": "Claudin forming paracellular barriers between cells" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gap junctions composed of connexin-43 (Cx43) are responsible for direct electrical coupling between cardiac myocytes, allowing ion flow and coordinated depolarization across the myocardium.",
+        "whyCorrect": "Connexin-43 (Cx43) is the predominant connexin isoform in ventricular cardiomyocytes. Six connexin molecules form a connexon (hemichannel), and two connexons from adjacent cells align to form a complete gap junction channel. These channels allow passage of ions and small molecules (<1 kDa) between cells, enabling the rapid electrical coupling that allows the myocardium to function as a functional syncytium. Disruption of Cx43 gap junctions, as can occur in Chagas disease, leads to arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "Desmoplakin is a component of desmosomes, which provide mechanical adhesion between cells by linking desmin intermediate filaments. Desmosomes do not conduct electrical impulses.",
+          "C": "N-cadherin is the principal adhesion molecule in fascia adherens junctions at intercalated discs, anchoring actin filaments. It provides mechanical coupling but not direct electrical communication.",
+          "D": "Integrins are transmembrane receptors that connect the intracellular cytoskeleton to extracellular matrix components. They do not form cell-to-cell channels for electrical coupling.",
+          "E": "Claudins are components of tight junctions (zonula occludens) found in epithelial cells. They form paracellular barriers, not electrical coupling channels, and are not major components of intercalated discs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["connexin-43", "gap junctions", "electrical coupling", "intercalated discs", "Chagas disease"]
+    },
+    {
+      "id": "hist-012",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 69-year-old woman with a history of rheumatic heart disease presents with exertional dyspnea and fatigue. Echocardiography reveals combined mitral stenosis and regurgitation. The cardiologist explains that the endocardium is the innermost layer of the heart wall. Which of the following layers is found within the endocardium immediately deep to the endothelial lining and its basement membrane?",
+      "choices": [
+        { "label": "A", "text": "A thick layer of adipose tissue with embedded nerve fibers" },
+        { "label": "B", "text": "A subendothelial layer of collagen, elastic fibers, and smooth muscle" },
+        { "label": "C", "text": "A layer of cardiac myocytes oriented parallel to the surface" },
+        { "label": "D", "text": "A dense fibrous layer identical to the tunica adventitia of vessels" },
+        { "label": "E", "text": "A layer of mesothelial cells forming the visceral pericardium" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The endocardium consists of the endothelial lining, a subendothelial connective tissue layer (containing collagen, elastic fibers, and smooth muscle cells), and a deeper subendocardial layer.",
+        "whyCorrect": "The endocardium is composed of three sublayers: (1) the endothelium (simple squamous epithelium) with its basement membrane, (2) a subendothelial layer of connective tissue containing collagen fibers, elastic fibers, and scattered smooth muscle cells, and (3) a deeper subendocardial layer that blends with the endomysium of the myocardium and contains blood vessels, nerves, and Purkinje fibers in the ventricles. The subendothelial layer immediately deep to the endothelium is analogous to the subendothelial layer of blood vessels.",
+        "whyWrongByChoice": {
+          "A": "Adipose tissue with nerve fibers is found in the subepicardial layer (beneath the epicardial mesothelium), not beneath the endocardial endothelium.",
+          "C": "Cardiac myocytes are found in the myocardium, which lies deep to the entire endocardium. They are not the layer immediately beneath the endothelial lining.",
+          "D": "The tunica adventitia is a layer of blood vessel walls composed of connective tissue. While the subendothelial layer contains connective tissue, it is not identical to the adventitia.",
+          "E": "Mesothelial cells form the epicardium on the outer surface of the heart, not a layer within the endocardium."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["endocardium", "subendothelial layer", "heart wall layers", "smooth muscle", "elastic fibers"]
+    },
+    {
+      "id": "hist-013",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 65-year-old man with a 40-pack-year smoking history and poorly controlled hypertension presents to the emergency department with sudden-onset tearing chest pain radiating to the back. CT angiography reveals a Stanford type B aortic dissection with blood tracking through the medial layer. Histologic examination of the affected aortic segment would most likely show the dissection plane within a layer characterized by which of the following compositions?",
+      "choices": [
+        { "label": "A", "text": "Endothelial cells and subendothelial connective tissue" },
+        { "label": "B", "text": "Concentric fenestrated elastic lamellae with smooth muscle cells" },
+        { "label": "C", "text": "Predominantly collagen with vasa vasorum and nerve fibers" },
+        { "label": "D", "text": "Loose connective tissue with abundant lymphatic channels" },
+        { "label": "E", "text": "Mesothelial cells overlying a thin layer of adipose tissue" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The aorta is an elastic artery whose tunica media is composed of concentric fenestrated elastic lamellae alternating with smooth muscle cells. Aortic dissection occurs when blood tracks through this medial layer.",
+        "whyCorrect": "The tunica media of the aorta consists of 40-70 concentric fenestrated elastic lamellae (lamellar units) alternating with layers of smooth muscle cells, collagen, and proteoglycans. In aortic dissection, the dissection plane propagates through this medial layer, typically between the outer and middle thirds. Cystic medial degeneration (loss of elastic fibers and smooth muscle cells with accumulation of mucoid material) predisposes to dissection.",
+        "whyWrongByChoice": {
+          "A": "Endothelial cells and subendothelial connective tissue describe the tunica intima. While an intimal tear initiates dissection, the dissection plane propagates through the media, not the intima.",
+          "C": "Collagen with vasa vasorum and nerve fibers describes the tunica adventitia. The dissection occurs in the media, not the adventitia, though it may extend to the adventitia in severe cases.",
+          "D": "Loose connective tissue with lymphatic channels does not accurately describe any layer of the aortic wall. The aorta has a thick media dominated by elastic tissue.",
+          "E": "Mesothelial cells over adipose tissue describe the epicardium of the heart, not a layer of the aortic wall."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["elastic artery", "aorta", "tunica media", "elastic lamellae", "aortic dissection"]
+    },
+    {
+      "id": "hist-014",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 48-year-old woman with Raynaud phenomenon presents with progressive pallor and pain in her fingertips during cold exposure. Her physician explains that the arteries supplying her digits are muscular arteries that regulate blood flow through vasoconstriction. Compared to elastic arteries like the aorta, which of the following histologic features best distinguishes muscular (distributing) arteries?",
+      "choices": [
+        { "label": "A", "text": "A tunica media composed primarily of smooth muscle with a prominent internal elastic lamina" },
+        { "label": "B", "text": "An absence of elastic tissue in all three layers of the vessel wall" },
+        { "label": "C", "text": "A tunica intima that is thicker than the tunica media in cross-section" },
+        { "label": "D", "text": "A tunica adventitia that is the thinnest of the three wall layers" },
+        { "label": "E", "text": "Multiple fenestrated elastic lamellae throughout the tunica media" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Muscular arteries are distinguished by a tunica media composed predominantly of circularly arranged smooth muscle cells (up to 40 layers) with a prominent, well-defined internal elastic lamina at the intima-media junction.",
+        "whyCorrect": "Muscular (distributing) arteries have a tunica media dominated by concentrically arranged smooth muscle cells rather than elastic lamellae. A hallmark feature is the prominent internal elastic lamina (IEL), a well-defined wavy band of elastic tissue at the junction of the intima and media, which appears refractile and scalloped in histologic sections. Many muscular arteries also have a recognizable external elastic lamina. This contrasts with elastic arteries, where the numerous elastic lamellae make the IEL less distinct.",
+        "whyWrongByChoice": {
+          "B": "Muscular arteries do contain elastic tissue, including the prominent internal elastic lamina and often an external elastic lamina. The absence of all elastic tissue is not correct.",
+          "C": "In muscular arteries, the tunica media is the thickest layer, not the intima. An intima thicker than the media would suggest pathologic intimal thickening (as in atherosclerosis).",
+          "D": "In muscular arteries, the tunica adventitia can be nearly as thick as or thicker than the media, particularly in medium-sized muscular arteries. It is not consistently the thinnest layer.",
+          "E": "Multiple fenestrated elastic lamellae throughout the media is the defining feature of elastic arteries (like the aorta), not muscular arteries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["muscular artery", "internal elastic lamina", "tunica media", "smooth muscle", "distributing artery"]
+    },
+    {
+      "id": "hist-015",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 56-year-old man with type 2 diabetes mellitus presents with a nonhealing ulcer on his right foot. Biopsy of the wound base reveals thickened capillary basement membranes, a hallmark of diabetic microangiopathy. In normal capillaries, the endothelial cells rest on a basement membrane that is shared with another cell type. Which of the following cells is embedded within the capillary basement membrane and plays a role in regulating capillary blood flow?",
+      "choices": [
+        { "label": "A", "text": "Fibroblasts producing type I collagen fibers" },
+        { "label": "B", "text": "Pericytes with contractile properties and shared basal lamina" },
+        { "label": "C", "text": "Macrophages phagocytosing basement membrane debris" },
+        { "label": "D", "text": "Mast cells releasing histamine near the vessel wall" },
+        { "label": "E", "text": "Schwann cells providing nerve supply to the capillary" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pericytes are contractile cells embedded within the basement membrane of capillaries and postcapillary venules, sharing the basal lamina with endothelial cells and regulating capillary blood flow and permeability.",
+        "whyCorrect": "Pericytes (also known as Rouget cells) are mesenchymal-derived cells that wrap around the abluminal surface of capillaries and postcapillary venules. They are uniquely embedded within the basement membrane, sharing the basal lamina with endothelial cells. Pericytes contain actin and myosin and have contractile properties that allow them to regulate capillary diameter and blood flow. They also contribute to basement membrane maintenance, vessel stability, and angiogenesis.",
+        "whyWrongByChoice": {
+          "A": "Fibroblasts are located in the surrounding connective tissue outside the capillary basement membrane. They produce extracellular matrix but are not embedded within the capillary basal lamina.",
+          "C": "Macrophages reside in the perivascular connective tissue and may extravasate through vessel walls. They are not embedded within the capillary basement membrane.",
+          "D": "Mast cells are located in the perivascular connective tissue and release vasoactive mediators, but they reside outside the basement membrane, not within it.",
+          "E": "Schwann cells are associated with peripheral nerves, not directly with capillary walls. Autonomic nerve fibers may be found near arterioles but Schwann cells are not embedded in the capillary basement membrane."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["pericytes", "capillary", "basement membrane", "diabetic microangiopathy", "microcirculation"]
+    },
+    {
+      "id": "hist-016",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 32-year-old woman is evaluated for secondary hypertension. Renal angiography reveals bilateral fibromuscular dysplasia of the renal arteries. The pathologist notes that the stenotic segments show abnormal thickening and fibrosis of the tunica media. In a normal renal artery, which of the following structures separates the tunica intima from the tunica media?",
+      "choices": [
+        { "label": "A", "text": "External elastic lamina composed of fenestrated elastic fibers" },
+        { "label": "B", "text": "Loose areolar connective tissue layer with vasa vasorum" },
+        { "label": "C", "text": "Internal elastic lamina appearing as a refractile wavy line" },
+        { "label": "D", "text": "Basal lamina produced by the endothelial cell monolayer" },
+        { "label": "E", "text": "Layer of circumferentially oriented smooth muscle cells" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The internal elastic lamina (IEL) is a fenestrated sheet of elastic tissue that separates the tunica intima from the tunica media, appearing as a wavy, refractile line on histologic sections.",
+        "whyCorrect": "The internal elastic lamina (IEL) is a clearly defined, fenestrated sheet of elastin that demarcates the boundary between the tunica intima and the tunica media. It appears as a prominent, wavy, refractile line on H&E-stained histologic sections, particularly in muscular arteries like the renal artery. The fenestrations allow diffusion of nutrients from the lumen to the media. The IEL is especially well-developed in muscular arteries.",
+        "whyWrongByChoice": {
+          "A": "The external elastic lamina separates the tunica media from the tunica adventitia, not the intima from the media.",
+          "B": "Loose areolar connective tissue with vasa vasorum is found in the tunica adventitia, not at the intima-media junction.",
+          "D": "The basal lamina underlies the endothelial cells and is part of the subendothelial layer of the intima. It does not serve as the boundary between the intima and the media.",
+          "E": "Circumferentially oriented smooth muscle cells are the main component of the tunica media itself, not the boundary structure between the intima and media."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["internal elastic lamina", "tunica intima", "tunica media", "renal artery", "muscular artery"]
+    },
+    {
+      "id": "hist-017",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 44-year-old man undergoes liver biopsy for evaluation of hepatomegaly. The pathologist identifies sinusoidal capillaries within the hepatic lobules. These capillaries differ from continuous capillaries found in skeletal muscle. Which of the following features best distinguishes sinusoidal capillaries (discontinuous capillaries) from continuous capillaries?",
+      "choices": [
+        { "label": "A", "text": "Presence of tight junctions with continuous basement membrane" },
+        { "label": "B", "text": "Large intercellular gaps with incomplete or absent basement membrane" },
+        { "label": "C", "text": "Transcellular pores spanned by thin diaphragms with intact basal lamina" },
+        { "label": "D", "text": "Abundant pinocytotic vesicles with thick continuous basement membrane" },
+        { "label": "E", "text": "Complete endothelial lining with numerous Weibel-Palade bodies" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sinusoidal (discontinuous) capillaries have large intercellular gaps between endothelial cells and a discontinuous or absent basement membrane, allowing free passage of large molecules and even blood cells.",
+        "whyCorrect": "Sinusoidal capillaries are the most permeable type of capillary. They are characterized by large intercellular gaps (clefts) between endothelial cells, intracellular fenestrations without diaphragms, and an incomplete or entirely absent basement membrane. This structure allows the passage of large plasma proteins and even blood cells between the sinusoidal lumen and surrounding tissue. They are found in the liver, spleen, bone marrow, and some endocrine organs.",
+        "whyWrongByChoice": {
+          "A": "Tight junctions with a continuous basement membrane are features of continuous capillaries (e.g., in skeletal muscle, lung, CNS), not sinusoidal capillaries.",
+          "C": "Transcellular pores with diaphragms and intact basal lamina describes fenestrated capillaries (found in renal glomeruli, intestinal villi, endocrine glands), not sinusoidal capillaries.",
+          "D": "Abundant pinocytotic vesicles with a thick continuous basement membrane characterize continuous capillaries, particularly those of skeletal muscle.",
+          "E": "A complete endothelial lining with Weibel-Palade bodies (which contain von Willebrand factor) is a general endothelial feature seen in continuous capillaries and larger vessels, not a distinguishing feature of sinusoidal capillaries."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["sinusoidal capillary", "discontinuous capillary", "basement membrane", "fenestrated capillary", "capillary types"]
+    },
+    {
+      "id": "hist-018",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 70-year-old man with a history of coronary artery disease undergoes coronary artery bypass grafting using the great saphenous vein as a conduit. During surgery, the surgeon must orient the vein graft correctly to ensure proper blood flow. Which of the following histologic features of veins, compared to arteries of similar external diameter, helps explain why the surgeon must be mindful of graft orientation?",
+      "choices": [
+        { "label": "A", "text": "Veins have a thicker tunica media with more smooth muscle layers" },
+        { "label": "B", "text": "Veins have intimal valves that permit only unidirectional flow" },
+        { "label": "C", "text": "Veins have a more prominent internal elastic lamina than arteries" },
+        { "label": "D", "text": "Veins have a thicker tunica intima with more subendothelial tissue" },
+        { "label": "E", "text": "Veins have abundant elastic lamellae preventing backflow of blood" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Veins contain intraluminal valves (paired semilunar cusps of intimal folds) that ensure unidirectional blood flow back to the heart. This is why saphenous vein grafts must be reversed or the valves disrupted during CABG.",
+        "whyCorrect": "Veins, particularly in the extremities like the great saphenous vein, contain intraluminal valves formed by paired folds of the tunica intima. These valves allow blood to flow only toward the heart and prevent retrograde flow. When a saphenous vein is used as a bypass graft, it must be reversed (so the valves don't obstruct arterial flow) or the valves must be lysed. This is why the surgeon must be mindful of orientation.",
+        "whyWrongByChoice": {
+          "A": "Veins have a thinner tunica media with fewer smooth muscle layers compared to arteries of similar size. The thinner wall of veins is a distinguishing feature.",
+          "C": "Veins have a poorly defined or absent internal elastic lamina, not a more prominent one. The prominent IEL is a characteristic of muscular arteries.",
+          "D": "The tunica intima of veins is generally thin, not thicker than that of arteries. Thick intimal layers in veins would suggest pathologic changes.",
+          "E": "Veins lack the abundant elastic lamellae found in elastic arteries. Venous walls are relatively elastic-poor, which contributes to their capacitance function."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["venous valves", "saphenous vein", "CABG", "vein histology", "tunica intima"]
+    },
+    {
+      "id": "hist-019",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 61-year-old man with a 10-cm abdominal aortic aneurysm undergoes open surgical repair. The surgeon notes that the outer portion of the aortic wall receives its blood supply from small vessels coursing through the adventitia and outer media. Which of the following best describes the function of these small vessels (vasa vasorum) in large arteries?",
+      "choices": [
+        { "label": "A", "text": "They drain metabolic waste products from the tunica intima" },
+        { "label": "B", "text": "They supply oxygen and nutrients to the outer layers of the vessel wall" },
+        { "label": "C", "text": "They regulate luminal diameter by innervating medial smooth muscle" },
+        { "label": "D", "text": "They form a barrier preventing atherosclerotic plaque extension" },
+        { "label": "E", "text": "They produce elastic fibers that maintain vessel wall compliance" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vasa vasorum are small blood vessels that penetrate the adventitia and outer media of large vessels (like the aorta) to supply oxygen and nutrients to the vessel wall, which is too thick to be nourished by diffusion from the lumen alone.",
+        "whyCorrect": "In large arteries such as the aorta, the vessel wall is too thick for the outer portions to receive adequate oxygen and nutrients by diffusion from the lumen. Vasa vasorum ('vessels of vessels') are small arteries and arterioles that arise from the adventitia and penetrate into the outer third of the tunica media, providing blood supply to these outer layers. The inner layers of the media and the intima receive nutrients by diffusion from the lumen. Disruption of vasa vasorum can lead to medial ischemia and weakening of the vessel wall.",
+        "whyWrongByChoice": {
+          "A": "Vasa vasorum primarily supply nutrients and oxygen to the outer vessel wall. While venous vasa vasorum carry away waste, their primary role is not draining the intima, which is nourished by luminal diffusion.",
+          "C": "Regulation of luminal diameter involves autonomic nerve fibers (nervi vasorum) that innervate smooth muscle, not the vasa vasorum. Vasa vasorum are blood vessels, not nerves.",
+          "D": "Vasa vasorum do not form barriers against atherosclerosis. In fact, neovascularization of atherosclerotic plaques by vasa vasorum can contribute to plaque instability and progression.",
+          "E": "Elastic fiber production is performed by smooth muscle cells in the tunica media, not by the vasa vasorum. Vasa vasorum are blood vessels that supply the wall, not cellular components that produce matrix."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["vasa vasorum", "aorta", "tunica adventitia", "vessel wall nutrition", "large arteries"]
+    },
+    {
+      "id": "hist-020",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 35-year-old woman with a history of recurrent lower extremity cellulitis develops progressive swelling of her right leg that does not resolve with elevation. Physical examination reveals nonpitting edema and thickened skin. Her physician suspects secondary lymphedema due to lymphatic damage. Compared to blood capillaries, lymphatic capillaries are best characterized by which of the following histologic features?",
+      "choices": [
+        { "label": "A", "text": "Thick continuous basement membrane with abundant pericytes" },
+        { "label": "B", "text": "Absent or discontinuous basement membrane with anchoring filaments" },
+        { "label": "C", "text": "Fenestrated endothelium with diaphragms spanning each fenestra" },
+        { "label": "D", "text": "Extensive tight junctions preventing any paracellular transport" },
+        { "label": "E", "text": "Smooth muscle cell layer surrounding the endothelial tube" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lymphatic capillaries have an absent or discontinuous basement membrane, overlapping endothelial cell junctions (acting as one-way flap valves), and anchoring filaments that connect to surrounding connective tissue to keep them open during edema.",
+        "whyCorrect": "Lymphatic capillaries are thin-walled, blind-ended vessels with distinctive histologic features: (1) an absent or discontinuous basement membrane, (2) overlapping endothelial cell borders that function as one-way flap valves allowing interstitial fluid entry, and (3) anchoring filaments (composed of fibrillin and elastin microfibrils) that tether the endothelial cells to the surrounding connective tissue. During edema, these filaments pull open the lymphatic capillaries, enhancing fluid drainage.",
+        "whyWrongByChoice": {
+          "A": "A thick continuous basement membrane with pericytes is characteristic of blood capillaries, particularly continuous capillaries. Lymphatic capillaries lack pericytes and have an incomplete basement membrane.",
+          "C": "Fenestrated endothelium with diaphragms describes fenestrated blood capillaries found in the kidney, intestinal villi, and endocrine organs, not lymphatic capillaries.",
+          "D": "Lymphatic capillaries have overlapping rather than tightly sealed junctions. This loose arrangement allows interstitial fluid, proteins, and even cells to enter the lymphatic lumen.",
+          "E": "Lymphatic capillaries lack smooth muscle cells. Smooth muscle appears in the walls of larger collecting lymphatic vessels but not in the thin-walled lymphatic capillaries."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["lymphatic capillary", "anchoring filaments", "basement membrane", "lymphedema", "lymphatic histology"]
+    },
+    {
+      "id": "hist-021",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 27-year-old man sustains a penetrating injury to the antecubital fossa during a workplace accident. The laceration damages a medium-sized vein. During surgical repair, the surgeon notes that the vein has a larger lumen and thinner wall relative to the adjacent brachial artery. Which of the following histologic features is most characteristic of veins compared to their companion arteries?",
+      "choices": [
+        { "label": "A", "text": "Tunica adventitia is the thickest layer relative to the overall wall" },
+        { "label": "B", "text": "Tunica media contains more elastic lamellae than smooth muscle" },
+        { "label": "C", "text": "Tunica intima has a well-developed internal elastic lamina" },
+        { "label": "D", "text": "Tunica media is the thickest layer with organized smooth muscle" },
+        { "label": "E", "text": "Tunica intima contains a thick subendothelial connective tissue" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In most veins, the tunica adventitia is the thickest layer of the vessel wall, consisting of collagen and elastic fibers, in contrast to arteries where the tunica media is the dominant layer.",
+        "whyCorrect": "A distinguishing histologic feature of veins is that the tunica adventitia is often the thickest and most prominent layer. It contains longitudinally oriented collagen bundles, elastic fibers, and in large veins, longitudinal smooth muscle bundles. In contrast, arteries have a dominant tunica media. The relatively thin tunica media of veins, combined with the prominent adventitia, gives veins their characteristic thin-walled, compliant appearance on cross-section.",
+        "whyWrongByChoice": {
+          "B": "Veins have a thin tunica media with relatively few elastic lamellae. Multiple elastic lamellae in the media are a hallmark of elastic arteries, not veins.",
+          "C": "Veins typically have a poorly defined or absent internal elastic lamina. A well-developed IEL is characteristic of muscular arteries.",
+          "D": "The tunica media being the thickest layer with organized smooth muscle describes arteries, not veins. In veins, the media is thin and may be poorly organized.",
+          "E": "The tunica intima of veins is generally thin with minimal subendothelial tissue. A thick intima would suggest pathologic intimal hyperplasia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": ["vein histology", "tunica adventitia", "artery vs vein", "vessel wall layers", "companion vessels"]
+    },
+    {
+      "id": "hist-022",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 50-year-old woman with poorly controlled hypertension undergoes renal biopsy for evaluation of declining kidney function. The pathologist observes arteriolar changes including replacement of smooth muscle cells by glassy, eosinophilic, homogeneous material in the vessel walls. In a normal arteriole, which of the following best describes the typical histologic composition of the vessel wall?",
+      "choices": [
+        { "label": "A", "text": "Multiple fenestrated elastic lamellae alternating with smooth muscle" },
+        { "label": "B", "text": "One to three layers of smooth muscle without a distinct elastic lamina" },
+        { "label": "C", "text": "Thick adventitia with longitudinal smooth muscle and vasa vasorum" },
+        { "label": "D", "text": "Prominent internal elastic lamina with ten or more smooth muscle layers" },
+        { "label": "E", "text": "Endothelium resting directly on connective tissue without smooth muscle" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Arterioles have a thin wall consisting of endothelium, one to three layers of smooth muscle cells forming the media, and a thin adventitia. They lack a distinct internal elastic lamina.",
+        "whyCorrect": "Arterioles are the smallest arterial vessels (diameter < 100 micrometers) and are the primary regulators of peripheral vascular resistance. Their wall consists of an endothelial lining, a tunica media of one to three layers of circularly arranged smooth muscle cells, and a thin adventitia. Unlike muscular arteries, arterioles do not have a well-defined internal elastic lamina (it may be present as a very thin, inconsistent layer in larger arterioles). In hypertensive arteriolosclerosis, the smooth muscle is replaced by hyaline material.",
+        "whyWrongByChoice": {
+          "A": "Multiple fenestrated elastic lamellae alternating with smooth muscle describes the tunica media of elastic arteries (e.g., aorta), not arterioles.",
+          "C": "A thick adventitia with longitudinal smooth muscle and vasa vasorum is characteristic of large veins (e.g., vena cava), not arterioles.",
+          "D": "A prominent IEL with ten or more smooth muscle layers describes a small muscular artery, not an arteriole. Arterioles have far fewer smooth muscle layers.",
+          "E": "Endothelium resting directly on connective tissue without smooth muscle describes a capillary or venule, not an arteriole. Arterioles always have at least one layer of smooth muscle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["arteriole", "hyaline arteriolosclerosis", "smooth muscle", "vascular resistance", "renal vasculature"]
+    },
+    {
+      "id": "hist-023",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 42-year-old woman with Graves disease undergoes subtotal thyroidectomy. The surgeon carefully identifies and preserves the blood supply to the parathyroid glands. The pathologist later examines a tissue section from the thyroid and notes capillaries with numerous circular transcellular openings in the endothelial cells, many of which are bridged by thin proteinaceous diaphragms. Which of the following types of capillaries is most consistent with these findings?",
+      "choices": [
+        { "label": "A", "text": "Continuous capillaries with abundant transport vesicles" },
+        { "label": "B", "text": "Sinusoidal capillaries with large open intercellular gaps" },
+        { "label": "C", "text": "Fenestrated capillaries with diaphragmed transcellular pores" },
+        { "label": "D", "text": "Arteriovenous anastomoses with thick muscular walls" },
+        { "label": "E", "text": "Postcapillary venules with loosely joined endothelial cells" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fenestrated capillaries have circular transcellular pores (fenestrae, 60-80 nm) that are typically bridged by thin diaphragms. They are found in endocrine glands (including the thyroid), renal glomeruli, and intestinal villi.",
+        "whyCorrect": "Fenestrated capillaries are characterized by numerous circular transcellular openings (fenestrae) in the attenuated portions of the endothelial cells. Most fenestrae are bridged by a thin proteinaceous diaphragm (except in glomerular capillaries, where fenestrae lack diaphragms). The fenestrae increase the permeability of the capillary wall, facilitating the rapid exchange of small molecules and hormones. Fenestrated capillaries are found in the thyroid, other endocrine glands, intestinal villi, renal peritubular capillaries, and the choroid plexus.",
+        "whyWrongByChoice": {
+          "A": "Continuous capillaries lack fenestrae and rely on pinocytotic vesicles for transcellular transport. They are found in skeletal muscle, lungs, and the central nervous system.",
+          "B": "Sinusoidal capillaries have large open gaps between and within endothelial cells with an absent or discontinuous basement membrane. They are found in the liver, spleen, and bone marrow, not typically in the thyroid.",
+          "D": "Arteriovenous anastomoses are direct connections between arterioles and venules with thick muscular walls. They are involved in thermoregulation in the skin, not in endocrine gland capillary exchange.",
+          "E": "Postcapillary venules have loosely joined endothelial cells that allow leukocyte extravasation, but they do not have the organized transcellular fenestrae described in this question."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["fenestrated capillary", "capillary types", "endocrine glands", "thyroid", "diaphragmed fenestrae"]
+    },
+    {
+      "id": "hist-024",
+      "topicId": "histology-blood-vessels-lymphatics",
+      "topicName": "Histology of Blood Vessels and Lymphatics",
+      "stem": "A 58-year-old man with severe peripheral arterial disease is evaluated for claudication and rest pain in his left lower extremity. Angiography reveals severe stenosis of the left superficial femoral artery. The interventional cardiologist successfully places a stent in the diseased segment. Following stent placement, neointimal hyperplasia develops at the stent site over several months. Which of the following cell types is the primary contributor to neointimal hyperplasia within a stented arterial segment?",
+      "choices": [
+        { "label": "A", "text": "Endothelial cells migrating from the tunica adventitia inward" },
+        { "label": "B", "text": "Circulating monocytes differentiating into foam cell macrophages" },
+        { "label": "C", "text": "Smooth muscle cells migrating from the media into the intima" },
+        { "label": "D", "text": "Fibroblasts migrating from perivascular adipose tissue" },
+        { "label": "E", "text": "Platelets aggregating and organizing into a fibrous neointima" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neointimal hyperplasia following stent placement is primarily driven by smooth muscle cells that proliferate and migrate from the tunica media into the intima, producing extracellular matrix and forming a thickened neointimal layer.",
+        "whyCorrect": "Following arterial injury from stent placement, smooth muscle cells in the tunica media undergo phenotypic switching from a contractile to a synthetic phenotype. These synthetic smooth muscle cells proliferate, migrate through the internal elastic lamina into the intima, and produce abundant extracellular matrix (collagen, proteoglycans). This process of neointimal hyperplasia is the primary mechanism of in-stent restenosis. Growth factors released by platelets, endothelial cells, and inflammatory cells drive this smooth muscle cell response.",
+        "whyWrongByChoice": {
+          "A": "Endothelial cells re-line the stented surface (re-endothelialization) but do not migrate from the adventitia inward. They are not the primary cells forming the neointimal mass.",
+          "B": "While monocytes and macrophages participate in the inflammatory response to stenting and contribute to atherosclerotic foam cell formation, smooth muscle cell migration and proliferation is the dominant process in neointimal hyperplasia.",
+          "D": "Fibroblasts from perivascular tissue may contribute to adventitial remodeling, but the primary cells in neointimal hyperplasia are medial smooth muscle cells that migrate into the intima.",
+          "E": "Platelets adhere to the stented surface and release growth factors that stimulate smooth muscle cell proliferation, but platelets themselves do not organize into the neointima."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": ["neointimal hyperplasia", "smooth muscle cells", "in-stent restenosis", "arterial injury", "phenotypic switching"]
+    }
+  ]
+}

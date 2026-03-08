@@ -1,0 +1,2247 @@
+{
+  "categoryId": "congenital-heart-disease",
+  "categoryName": "Congenital Heart Disease",
+  "questions": [
+    {
+      "id": "chd-001",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 1-day-old male neonate born at 39 weeks gestation develops progressive cyanosis within the first few hours of life. The pregnancy was uncomplicated and the mother had no gestational diabetes. On examination, the infant appears deeply cyanotic without respiratory distress. Heart rate is 155/min, respiratory rate is 44/min, and oxygen saturation is 65% on room air, which does not improve with administration of 100% oxygen via nasal cannula. Chest X-ray reveals an egg-shaped cardiac silhouette with a narrow mediastinum and increased pulmonary vascular markings. Which of the following embryologic mechanisms most likely accounts for this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the endocardial cushions to fuse during atrioventricular canal formation"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal spiraling of the aorticopulmonary septum during truncal division"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete resorption of the septum primum leading to a persistent interatrial communication"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the left-sided fourth aortic arch to develop during aortic arch formation"
+        },
+        {
+          "label": "E",
+          "text": "Abnormal leftward deviation of the infundibular septum causing subpulmonary obstruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "D-transposition of the great arteries (D-TGA) presents with severe cyanosis refractory to supplemental oxygen in a neonate with an egg-shaped heart and narrow mediastinum on chest X-ray. The embryologic defect is failure of the aorticopulmonary septum to spiral normally, resulting in the aorta arising from the right ventricle and the pulmonary artery from the left ventricle.",
+        "whyCorrect": "In normal cardiac development, the aorticopulmonary septum spirals as it divides the truncus arteriosus, ensuring the aorta connects to the left ventricle and the pulmonary artery to the right ventricle. When this spiral fails to occur (i.e., the septum forms in a linear rather than helical fashion), the great arteries are transposed, creating two parallel circuits incompatible with postnatal life unless a shunt (PFO, PDA, or ASD) exists.",
+        "whyWrongByChoice": {
+          "A": "Failure of endocardial cushion fusion produces atrioventricular septal defects (AV canal defects), which are associated with Down syndrome and typically present with congestive heart failure and an acyanotic or mildly cyanotic picture, not severe cyanosis with an egg-shaped heart.",
+          "C": "Incomplete resorption of the septum primum results in a patent foramen ovale or secundum-type atrial septal defect, which is an acyanotic left-to-right shunt lesion, not a cause of severe neonatal cyanosis.",
+          "D": "Failure of the left fourth aortic arch leads to interruption of the aortic arch or right aortic arch anomalies, which present with systemic perfusion deficits or vascular ring symptoms rather than isolated severe cyanosis.",
+          "E": "Leftward deviation of the infundibular septum causes subpulmonary obstruction and is the mechanism underlying Taussig-Bing anomaly (a variant of double-outlet right ventricle), not classic D-transposition of the great arteries."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-002",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 3-week-old female infant is brought to the pediatrician for poor feeding and diaphoresis during breastfeeding. She was born at full term without complications. On examination, she is tachypneic with subcostal retractions. Heart rate is 162/min, and a loud holosystolic murmur is heard best at the left lower sternal border. A precordial thrill is palpable. Chest X-ray shows cardiomegaly with increased pulmonary vascular markings. Echocardiography confirms a large perimembranous ventricular septal defect with left-to-right shunting. Which of the following best explains why this infant did not present with symptoms at birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ventricular septal defect was not anatomically present at birth and developed postnatally"
+        },
+        {
+          "label": "B",
+          "text": "Fetal hemoglobin has a higher oxygen affinity that masked the effects of the shunt at birth"
+        },
+        {
+          "label": "C",
+          "text": "Elevated pulmonary vascular resistance in the immediate postnatal period limited left-to-right shunting"
+        },
+        {
+          "label": "D",
+          "text": "The foramen ovale was open at birth, allowing equalization of atrial pressures and preventing shunting"
+        },
+        {
+          "label": "E",
+          "text": "Maternal antibodies provided passive immunity that prevented heart failure during the first week of life"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neonates have physiologically elevated pulmonary vascular resistance (PVR) at birth due to the in-utero state of pulmonary vasoconstriction. Over the first 2-6 weeks of life, PVR normally decreases as pulmonary vasculature remodels. With a large VSD, the magnitude of left-to-right shunting increases as PVR falls, eventually producing volume overload and heart failure symptoms.",
+        "whyCorrect": "At birth, PVR is nearly equal to systemic vascular resistance, minimizing the pressure gradient across the VSD and limiting left-to-right shunt flow. As PVR drops over the first weeks of life, the pressure differential between the left and right ventricles increases, driving progressively more blood through the defect and causing pulmonary overcirculation, left atrial and ventricular volume overload, and congestive heart failure symptoms.",
+        "whyWrongByChoice": {
+          "A": "A perimembranous VSD is a structural defect that is present from birth; it does not develop postnatally. The change in symptom presentation relates to hemodynamic changes, not anatomic changes.",
+          "B": "Fetal hemoglobin does have a higher oxygen affinity, but this has no bearing on the degree of intracardiac shunting, which is determined by pressure gradients across the defect, not oxygen-carrying characteristics of hemoglobin.",
+          "D": "The foramen ovale allows right-to-left atrial shunting in utero and may remain patent postnatally, but it does not equalize pressures in a way that would prevent ventricular-level shunting through a large VSD. The driving force for VSD shunting is the ventricular pressure differential.",
+          "E": "Maternal antibodies provide passive humoral immunity against infections and have no physiologic role in preventing hemodynamic consequences of structural heart disease."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-003",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 6-month-old infant with a known large unrepaired ventricular septal defect presents with worsening tachypnea, failure to thrive, and hepatomegaly. The pediatric cardiologist notes that echocardiography now shows evidence of right ventricular hypertrophy with elevated estimated pulmonary artery pressures approaching systemic levels. The parents ask about the consequences of delaying surgical repair. If left untreated, which of the following is the most likely long-term complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spontaneous closure of the ventricular septal defect from fibrosis of the defect margins"
+        },
+        {
+          "label": "B",
+          "text": "Progressive aortic root dilation with development of aortic regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Development of infective endocarditis with septic pulmonary emboli"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible pulmonary vascular obstructive disease with reversal of the shunt direction"
+        },
+        {
+          "label": "E",
+          "text": "Acquired coarctation of the aorta from chronic hemodynamic stress on the aortic wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Eisenmenger syndrome is the most feared long-term complication of an unrepaired large VSD. Chronic excessive pulmonary blood flow causes progressive remodeling of the pulmonary vasculature, leading to fixed pulmonary hypertension, reversal of the shunt from left-to-right to right-to-left, and cyanosis. Once established, the condition is irreversible and precludes surgical repair of the defect.",
+        "whyCorrect": "A large, unrestrictive VSD exposes the pulmonary vasculature to systemic pressures and excessive flow, triggering endothelial dysfunction, medial hypertrophy, intimal fibrosis, and ultimately plexiform lesions. These changes progressively increase PVR until it exceeds systemic vascular resistance, reversing the shunt direction (Eisenmenger physiology). This is irreversible and is the main reason large VSDs require early surgical intervention.",
+        "whyWrongByChoice": {
+          "A": "Spontaneous closure can occur with small muscular VSDs, but large perimembranous or unrestrictive VSDs with systemic-level pulmonary pressures are very unlikely to close spontaneously and are much more likely to progress to Eisenmenger syndrome.",
+          "B": "Aortic regurgitation can occasionally complicate outlet (supracristal) VSDs due to prolapse of the right coronary cusp, but it is not the most likely long-term complication of a large unrepaired VSD with rising pulmonary pressures.",
+          "C": "Infective endocarditis is a recognized complication of VSDs due to turbulent flow, but it is an acute infectious event rather than the most predictable long-term consequence of chronically elevated pulmonary pressures.",
+          "E": "Coarctation of the aorta is a congenital malformation of the aortic wall and is not an acquired consequence of VSD-associated hemodynamic stress."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-004",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 4-month-old infant with Down syndrome is evaluated for failure to thrive, recurrent respiratory infections, and congestive heart failure. Echocardiography reveals a common atrioventricular valve with an ostium primum atrial septal defect and an inlet ventricular septal defect. The child is scheduled for surgical repair. Which of the following structures failed to develop normally in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bulbar ridges within the conotruncal region"
+        },
+        {
+          "label": "B",
+          "text": "Muscular interventricular septum arising from the ventricular floor"
+        },
+        {
+          "label": "C",
+          "text": "Septum secundum from the right atrial roof"
+        },
+        {
+          "label": "D",
+          "text": "Endocardial cushions at the atrioventricular junction"
+        },
+        {
+          "label": "E",
+          "text": "Neural crest cells migrating to the outflow tract"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Complete atrioventricular septal defect (AV canal defect) results from failure of the endocardial cushions to fuse. The endocardial cushions normally contribute to the formation of the atrial septum (septum primum/ostium primum closure), the inlet ventricular septum, and the separation of the mitral and tricuspid valves. This defect is strongly associated with trisomy 21.",
+        "whyCorrect": "The endocardial cushions are mesenchymal structures that form at the atrioventricular junction during weeks 4-5 of embryonic development. Their fusion is essential for separating the AV canal into right and left channels, contributing to the lower atrial septum, upper ventricular septum, and formation of distinct mitral and tricuspid valves. Failure of fusion produces the constellation of an ostium primum ASD, inlet VSD, and a common AV valve.",
+        "whyWrongByChoice": {
+          "A": "Bulbar ridges (conotruncal ridges) are responsible for dividing the outflow tract into the aorta and pulmonary artery. Abnormalities here lead to persistent truncus arteriosus or transposition of the great arteries, not AV canal defects.",
+          "B": "The muscular interventricular septum grows upward from the ventricular floor and forms the majority of the ventricular septum. Defects in this structure produce muscular VSDs, not the combined atrial and ventricular septal defect with AV valve abnormality seen here.",
+          "C": "The septum secundum grows from the atrial roof to the right of the septum primum and forms the fossa ovalis. Deficiency of the septum secundum causes secundum-type ASDs, not the ostium primum ASD and common AV valve seen in AV canal defects.",
+          "E": "Neural crest cells contribute to the aorticopulmonary septum and outflow tract development. Their abnormal migration leads to conotruncal defects such as tetralogy of Fallot, persistent truncus arteriosus, and interrupted aortic arch, not AV canal defects."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-005",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 2-day-old male neonate is noted to have central cyanosis during feeding. Pulse oximetry shows pre-ductal oxygen saturation of 95% and post-ductal saturation of 78%. The right arm blood pressure is 72/48 mmHg, while the left leg blood pressure is 44/28 mmHg. Femoral pulses are diminished bilaterally. A continuous machinery-like murmur is heard at the left infraclavicular region. An echocardiogram demonstrates a severe narrowing of the aorta distal to the left subclavian artery with a patent ductus arteriosus providing blood flow to the descending aorta. Which of the following is the most appropriate immediate pharmacologic intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Indomethacin to promote closure of the ductus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Prostaglandin E1 to maintain patency of the ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Milrinone to improve cardiac contractility and reduce afterload"
+        },
+        {
+          "label": "D",
+          "text": "Furosemide to reduce volume overload and pulmonary congestion"
+        },
+        {
+          "label": "E",
+          "text": "Sildenafil to decrease pulmonary vascular resistance and improve oxygenation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This neonate has a critical coarctation of the aorta with ductal-dependent systemic circulation. The patent ductus arteriosus is providing essential blood flow to the lower body. Prostaglandin E1 (alprostadil) must be administered immediately to prevent closure of the PDA and maintain distal aortic perfusion until surgical repair can be performed.",
+        "whyCorrect": "In critical coarctation, the descending aorta receives most of its blood flow through the PDA rather than through the severely narrowed aortic isthmus. If the ductus closes, the lower body becomes profoundly ischemic, leading to metabolic acidosis, renal failure, necrotizing enterocolitis, and cardiovascular collapse. PGE1 relaxes ductal smooth muscle by acting on EP receptors, keeping the ductus open as a lifesaving bridge to surgery.",
+        "whyWrongByChoice": {
+          "A": "Indomethacin inhibits prostaglandin synthesis and promotes ductal closure. This would be catastrophic in ductal-dependent lesions like critical coarctation, as it would eliminate the only route of blood flow to the lower body.",
+          "C": "Milrinone is a phosphodiesterase-3 inhibitor used for inotropic and afterload-reducing support, but the immediate priority is maintaining ductal patency to ensure lower body perfusion, not improving contractility.",
+          "D": "Furosemide addresses volume overload but does not address the fundamental problem of obstructed systemic blood flow. Without maintaining ductal patency, diuresis would further compromise perfusion.",
+          "E": "Sildenafil reduces pulmonary vascular resistance and is used for pulmonary hypertension, but this patient's primary problem is obstruction of systemic flow, not elevated pulmonary pressures."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-006",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 5-year-old boy is referred to a pediatric cardiologist after a grade III/VI continuous murmur is detected during a school physical examination. He is asymptomatic and growing well. On examination, the murmur is loudest at the left upper sternal border and radiates to the back. His pulses are bounding with a widened pulse pressure of 60 mmHg. Echocardiography reveals a 4 mm patent ductus arteriosus with left atrial and left ventricular dilation. Which of the following best explains the widened pulse pressure in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased systemic vascular resistance from compensatory peripheral vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Decreased left ventricular compliance from chronic volume overload"
+        },
+        {
+          "label": "C",
+          "text": "Diastolic runoff of aortic blood flow into the lower-resistance pulmonary circulation"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular outflow tract obstruction elevating right-sided systolic pressures"
+        },
+        {
+          "label": "E",
+          "text": "Aortic root dilation causing functional aortic valve insufficiency"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A patent ductus arteriosus creates a communication between the aorta and pulmonary artery. Because pulmonary vascular resistance is much lower than systemic vascular resistance after birth, blood continuously shunts from the aorta into the pulmonary artery. This diastolic runoff lowers diastolic blood pressure while increased stroke volume (from left ventricular volume overload) raises systolic pressure, producing a widened pulse pressure and bounding pulses.",
+        "whyCorrect": "During diastole, blood that would normally remain in the aorta and maintain diastolic pressure instead flows through the PDA into the low-resistance pulmonary bed. This reduces diastolic pressure. Simultaneously, the increased volume returning to the left heart (pulmonary venous return plus shunted blood) augments stroke volume and systolic pressure. The net result is a widened pulse pressure, similar to that seen in aortic regurgitation.",
+        "whyWrongByChoice": {
+          "A": "Compensatory vasoconstriction would tend to increase diastolic pressure, not decrease it. While some peripheral vasoconstriction may occur to compensate for the diastolic runoff, it is not sufficient to prevent the widened pulse pressure and does not explain it.",
+          "B": "Decreased compliance from volume overload would increase left ventricular end-diastolic pressure and could contribute to heart failure symptoms, but it would not directly cause widened pulse pressure. The primary mechanism is the diastolic runoff through the ductus.",
+          "D": "Right ventricular outflow tract obstruction is not a feature of isolated PDA. The right ventricle is typically not involved in the pathophysiology of left-to-right shunting through a PDA.",
+          "E": "While aortic root dilation could theoretically cause aortic regurgitation, a 4 mm PDA in a 5-year-old child does not typically cause aortic root dilation. The widened pulse pressure results from diastolic flow through the ductus, not from aortic valve disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-007",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 3-month-old infant born at 28 weeks gestation is in the NICU with bronchopulmonary dysplasia and recurrent episodes of apnea. Echocardiography reveals a hemodynamically significant patent ductus arteriosus with a left atrial-to-aortic root ratio of 1.8. Despite fluid restriction and diuretic therapy, the infant continues to have signs of pulmonary overcirculation. The neonatologist decides to attempt pharmacologic closure of the PDA. Which of the following best describes the mechanism by which the chosen medication promotes ductal closure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of beta-adrenergic receptors on ductal smooth muscle cells"
+        },
+        {
+          "label": "B",
+          "text": "Antagonism of endothelin receptors, removing the vasodilatory signal maintaining ductal patency"
+        },
+        {
+          "label": "C",
+          "text": "Activation of angiotensin II receptors, causing direct vasoconstriction of the ductus"
+        },
+        {
+          "label": "D",
+          "text": "Stimulation of nitric oxide synthase, increasing oxygen-mediated ductal constriction"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of cyclooxygenase, reducing prostaglandin E2-mediated ductal smooth muscle relaxation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Indomethacin and ibuprofen are used to pharmacologically close a PDA in premature infants. Both are cyclooxygenase (COX) inhibitors that reduce the synthesis of prostaglandin E2 (PGE2), the primary vasodilator maintaining ductal patency. By inhibiting PGE2 production, these drugs allow the ductus smooth muscle to constrict and close.",
+        "whyCorrect": "The ductus arteriosus is maintained in a relaxed, open state in utero primarily by PGE2 and low oxygen tension. PGE2 acts on EP receptors on ductal smooth muscle to inhibit contraction. COX inhibitors (indomethacin, ibuprofen) block the enzyme that synthesizes PGE2 from arachidonic acid, removing the vasodilatory stimulus and allowing oxygen-induced and intrinsic contractile mechanisms to close the ductus.",
+        "whyWrongByChoice": {
+          "A": "Beta-adrenergic receptor blockade (e.g., propranolol) does not promote ductal closure. The ductus is not maintained by beta-adrenergic signaling, and beta-blockers are not used for this indication.",
+          "B": "Endothelin-1 is actually a potent vasoconstrictor that contributes to postnatal ductal closure; it does not maintain ductal patency. Antagonizing endothelin receptors would impair, not promote, ductal constriction.",
+          "C": "Angiotensin II receptor activation causes systemic vasoconstriction but does not have a specific or primary role in ductal closure. ACE inhibitors and ARBs are not involved in PDA management.",
+          "D": "Nitric oxide synthase stimulation would produce vasodilation, not constriction. Nitric oxide is actually another vasodilator that helps maintain ductal patency in utero, so increasing its activity would be counterproductive."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-008",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 2-month-old infant is brought to the emergency department with episodes of inconsolable crying, deep cyanosis, and hyperpnea. The mother states the episodes typically occur during feeding or crying and last 15-30 minutes. Between episodes, the infant has mild cyanosis with an oxygen saturation of 82%. Physical examination reveals a systolic ejection murmur at the left upper sternal border that becomes softer during one of the cyanotic spells. A boot-shaped heart is seen on chest X-ray with decreased pulmonary vascular markings. Which of the following is the most appropriate immediate treatment during an acute cyanotic spell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administration of inhaled nitric oxide to reduce pulmonary vascular resistance"
+        },
+        {
+          "label": "B",
+          "text": "Urgent balloon atrial septostomy to improve intracardiac mixing"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous prostaglandin E1 infusion to reopen the ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Placement of the infant in knee-chest position and administration of morphine"
+        },
+        {
+          "label": "E",
+          "text": "Immediate cardioversion for presumed supraventricular tachycardia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This infant has tetralogy of Fallot with hypercyanotic (tet) spells caused by dynamic infundibular spasm that acutely worsens right ventricular outflow tract obstruction, increasing right-to-left shunting through the VSD. The knee-chest position increases systemic vascular resistance, reducing right-to-left shunting, while morphine reduces catecholamine surge and infundibular spasm.",
+        "whyCorrect": "Tet spells result from acute infundibular spasm that increases RVOT obstruction, reducing pulmonary blood flow and forcing more deoxygenated blood across the VSD into the aorta. The knee-chest position compresses the femoral arteries and increases SVR, raising aortic pressure and favoring blood flow into the pulmonary artery rather than across the VSD. Morphine reduces anxiety-driven catecholamine release that exacerbates infundibular spasm. Phenylephrine may also be given to increase SVR.",
+        "whyWrongByChoice": {
+          "A": "Inhaled nitric oxide reduces pulmonary vascular resistance, which is useful in pulmonary hypertension. However, in tet spells, the obstruction is at the infundibular (subpulmonary) level, not in the pulmonary vasculature. Reducing PVR alone would not overcome the fixed/dynamic subvalvular stenosis.",
+          "B": "Balloon atrial septostomy (Rashkind procedure) is used in D-transposition of the great arteries to improve atrial-level mixing. It has no role in tetralogy of Fallot, where the shunting occurs at the ventricular level through the VSD.",
+          "C": "PGE1 may be used in neonates with severe TOF and ductal-dependent pulmonary blood flow, but for a 2-month-old presenting with tet spells, the immediate treatment is to break the infundibular spasm and increase SVR, not reopen the ductus.",
+          "E": "There is no indication of supraventricular tachycardia. The tachycardia and symptoms are caused by the cyanotic spell itself, and cardioversion is not indicated."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-009",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A newborn is diagnosed with tetralogy of Fallot after presenting with cyanosis. The pediatric cardiologist explains the four classic anatomic features to the parents. Which of the following is the primary embryologic event that gives rise to all four features of this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the septum secundum to fully develop, creating a large interatrial communication"
+        },
+        {
+          "label": "B",
+          "text": "Incomplete fusion of the endocardial cushions at the atrioventricular junction"
+        },
+        {
+          "label": "C",
+          "text": "Premature closure of the foramen ovale during fetal development"
+        },
+        {
+          "label": "D",
+          "text": "Anterosuperior deviation of the infundibular (conal) septum"
+        },
+        {
+          "label": "E",
+          "text": "Absence of neural crest cell migration to the conotruncal ridges"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The unifying embryologic mechanism in tetralogy of Fallot is anterosuperior deviation of the infundibular (conal) septum. This single event produces all four features: (1) the deviated septum narrows the right ventricular outflow tract (pulmonary stenosis), (2) creates a malalignment-type VSD where the septum fails to align with the muscular ventricular septum, (3) causes the aortic root to override the septum (overriding aorta), and (4) the RV hypertrophies in response to chronic pressure overload.",
+        "whyCorrect": "The infundibular septum normally aligns with the muscular interventricular septum during outflow tract development. When the infundibular septum deviates anteriorly and superiorly, it physically obstructs the subpulmonary region, creates a gap (VSD) where it fails to meet the muscular septum, shifts the aortic valve rightward over the septum, and produces RV hypertrophy from chronic pressure overload against the obstruction.",
+        "whyWrongByChoice": {
+          "A": "Failure of septum secundum development causes secundum atrial septal defects, which are isolated atrial-level defects unrelated to the conotruncal malalignment that characterizes tetralogy of Fallot.",
+          "B": "Incomplete fusion of endocardial cushions produces atrioventricular septal defects (AV canal defects), which involve atrial and inlet ventricular septum and AV valves, not the outflow tract malalignment seen in TOF.",
+          "C": "Premature closure of the foramen ovale is a rare anomaly that can cause right heart failure in utero (hydrops fetalis) but is not related to the embryogenesis of tetralogy of Fallot.",
+          "E": "Complete absence of neural crest cell migration leads to persistent truncus arteriosus (failure of outflow tract septation), not tetralogy of Fallot. While some neural crest contribution is involved in outflow tract development, the defining lesion in TOF is infundibular septal deviation, not neural crest absence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-010",
+      "topicId": "chd-foundations",
+      "topicName": "Congenital Heart Defects: Foundations",
+      "stem": "A 7-year-old girl is referred for evaluation of an incidentally detected heart murmur. She is asymptomatic and active in sports. Physical examination reveals a widely split and fixed S2 with a grade II/VI systolic ejection murmur at the left upper sternal border. There is no cyanosis. ECG shows right axis deviation and an incomplete right bundle branch block pattern. Echocardiography confirms a secundum-type atrial septal defect with a Qp:Qs ratio of 2.2:1. Which of the following best explains the fixed splitting of S2 in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed aortic valve closure due to increased left ventricular stroke volume"
+        },
+        {
+          "label": "B",
+          "text": "Early pulmonic valve closure due to decreased pulmonary artery compliance"
+        },
+        {
+          "label": "C",
+          "text": "Chronic right bundle branch block causing delayed right ventricular depolarization"
+        },
+        {
+          "label": "D",
+          "text": "Elevated pulmonary artery pressure causing pulmonic valve closure to coincide with aortic valve closure"
+        },
+        {
+          "label": "E",
+          "text": "Equalization of right and left atrial filling volumes across the cardiac cycle, preventing respiratory variation in right ventricular filling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In a normal heart, inspiration increases venous return to the right heart, delaying pulmonic valve closure and widening S2 splitting. With an ASD, the interatrial communication allows equalization of filling between the two atria regardless of respiratory phase. During inspiration, increased right-sided return is offset by decreased left-to-right shunting, and during expiration, decreased venous return is offset by increased shunting. This keeps right ventricular volume constant, producing fixed splitting.",
+        "whyCorrect": "The ASD acts as a pressure-equalizing communication between the atria. During inspiration, when systemic venous return to the right atrium increases, the left-to-right shunt across the ASD decreases because the pressure gradient diminishes. During expiration, as systemic venous return decreases, the left-to-right shunt increases. The net effect is a constant right ventricular volume throughout the respiratory cycle, causing pulmonic valve closure to be consistently delayed by the same interval, producing fixed S2 splitting.",
+        "whyWrongByChoice": {
+          "A": "Aortic valve closure timing is not significantly altered in ASD. The left ventricle may actually have slightly reduced stroke volume due to the shunt diverting blood to the right side. Fixed splitting relates to pulmonic valve closure, not aortic valve changes.",
+          "B": "Decreased pulmonary artery compliance could cause earlier pulmonic closure or a louder P2, but this would not produce fixed splitting. Fixed splitting requires that the interval between A2 and P2 remains constant with respiration.",
+          "C": "While an incomplete RBBB pattern is common in ASD due to right ventricular volume overload, the RBBB alone would cause a delayed P2 at baseline but would not explain why the splitting does not vary with respiration. The fixed nature requires constant RV filling volumes.",
+          "D": "Elevated pulmonary artery pressure would increase the intensity of P2 (loud P2) and could narrow splitting, but it would not produce fixed splitting. Fixed splitting specifically results from the equalization of RV filling across the respiratory cycle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-011",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 14-year-old boy presents to the emergency department with a severe headache and nosebleed during a basketball game. His blood pressure is 168/98 mmHg in the right arm and 108/70 mmHg in the right leg. Heart rate is 82/min. Physical examination reveals a systolic murmur heard best over the left interscapular area and weak femoral pulses with a radio-femoral delay. Chest X-ray shows rib notching along the inferior margins of the 4th through 8th ribs bilaterally. Which of the following best explains the rib notching seen on this patient's chest X-ray?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erosion of the ribs by dilated intercostal arteries serving as collateral pathways to bypass the aortic obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Chronic periosteal inflammation from turbulent blood flow in the intercostal veins"
+        },
+        {
+          "label": "C",
+          "text": "Osteoporotic changes from chronic hypoperfusion of the lower thorax"
+        },
+        {
+          "label": "D",
+          "text": "Compression of the ribs by an enlarged internal mammary artery"
+        },
+        {
+          "label": "E",
+          "text": "Direct erosion of the ribs by the dilated post-stenotic segment of the descending aorta"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Coarctation of the aorta causes upper extremity hypertension and lower extremity hypotension with weak femoral pulses. To bypass the obstruction, collateral circulation develops through the intercostal arteries (branches of the subclavian artery via the internal mammary artery connect to the descending aorta via the intercostal arteries). These enlarged, tortuous intercostal arteries erode the inferior surfaces of the ribs, producing the classic rib notching (Roesler sign).",
+        "whyCorrect": "The intercostal arteries enlarge significantly as they carry collateral blood flow from the high-pressure subclavian/internal mammary territory above the coarctation to the lower-pressure descending aorta below it. The dilated, pulsatile arteries run along the inferior costal grooves and gradually erode the bone, creating the scalloped notching visible on chest X-ray, typically affecting ribs 3-8 (the first two ribs are spared because their intercostal arteries arise from the costocervical trunk, not from the aorta).",
+        "whyWrongByChoice": {
+          "B": "The intercostal veins do not serve as major collateral pathways in coarctation, and periosteal inflammation from venous turbulence is not a recognized mechanism. The rib notching is caused by arterial, not venous, collateral flow.",
+          "C": "Osteoporosis from hypoperfusion is not a recognized mechanism of rib notching. The notching is a mechanical erosion caused by enlarged pulsatile arteries, not a metabolic bone process.",
+          "D": "While the internal mammary arteries enlarge in coarctation as part of the collateral network, they run along the anterior chest wall and do not erode the ribs. The rib notching is caused by the posterior intercostal arteries along the inferior rib margins.",
+          "E": "Post-stenotic aortic dilation may occur just distal to the coarctation but does not directly contact or erode the ribs. Rib notching is specifically caused by intercostal artery dilation, not by the aorta itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-012",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 3-day-old neonate born at 38 weeks gestation becomes acutely pale, lethargic, and tachypneic. The infant was initially well-appearing at birth. On examination, all extremity pulses are diminished, capillary refill time is 5 seconds, and oxygen saturation is 88% in the right hand and 80% in the left foot. Arterial blood gas shows pH 7.18, pCO2 28 mmHg, pO2 45 mmHg, and lactate 9.2 mmol/L. Echocardiography reveals a hypoplastic aortic arch with no flow across a severely narrowed aortic isthmus, a large patent ductus arteriosus, and a ventricular septal defect. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Critical aortic valve stenosis with left ventricular failure"
+        },
+        {
+          "label": "B",
+          "text": "Hypoplastic left heart syndrome with intact atrial septum"
+        },
+        {
+          "label": "C",
+          "text": "Interrupted aortic arch with ductal-dependent systemic circulation"
+        },
+        {
+          "label": "D",
+          "text": "Supravalvular aortic stenosis associated with Williams syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Anomalous left coronary artery arising from the pulmonary artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Interrupted aortic arch (IAA) is characterized by complete discontinuity of the aortic arch, most commonly between the left common carotid and left subclavian arteries (type B, associated with DiGeorge syndrome/22q11.2 deletion). The descending aorta receives all its blood flow through the PDA. When the ductus begins to close postnatally, catastrophic systemic hypoperfusion, metabolic acidosis, and shock ensue.",
+        "whyCorrect": "The echocardiographic finding of a hypoplastic aortic arch with no flow across the aortic isthmus, a large PDA, and a VSD is classic for interrupted aortic arch. The acute deterioration on day 3 corresponds to physiologic ductal closure. The differential oxygen saturations (lower in the left foot) reflect the ductal-dependent lower body circulation receiving desaturated blood. A VSD is present in the majority of IAA cases.",
+        "whyWrongByChoice": {
+          "A": "Critical aortic stenosis would show a thickened, stenotic aortic valve with left ventricular dysfunction, but the aortic arch would be continuous. The echocardiogram here specifically shows a hypoplastic arch with no isthmus flow, indicating interruption rather than valvular obstruction.",
+          "B": "Hypoplastic left heart syndrome involves underdevelopment of the left ventricle, mitral valve, and aortic valve. While it also presents with ductal-dependent systemic flow, the echocardiographic findings described specify a hypoplastic arch with a VSD, not a hypoplastic left ventricle, making IAA the better diagnosis.",
+          "D": "Supravalvular aortic stenosis produces a narrowing above the aortic valve and is associated with Williams syndrome (elfin facies, hypercalcemia). It does not present as neonatal shock with ductal-dependent circulation and an interrupted arch.",
+          "E": "Anomalous left coronary artery from the pulmonary artery (ALCAPA) presents with myocardial ischemia and heart failure, typically at 2-3 months when pulmonary pressures drop, not with arch interruption and neonatal shock on day 3."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-013",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 16-year-old female athlete is found to have a blood pressure of 152/92 mmHg during a sports physical. She is asymptomatic and has no family history of hypertension. On examination, a bicuspid aortic valve click is heard, and there is a 30 mmHg systolic blood pressure gradient between the upper and lower extremities. MRI angiography confirms a discrete juxtaductal coarctation of the aorta. The coarctation is surgically repaired with end-to-end anastomosis. At her 5-year follow-up, her blood pressure is 144/88 mmHg despite the absence of recurrent coarctation on imaging. Which of the following mechanisms most likely contributes to persistent hypertension after successful coarctation repair?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic activation of the renin-angiotensin-aldosterone system from pre-repair renal hypoperfusion"
+        },
+        {
+          "label": "B",
+          "text": "Development of an acquired mid-aortic syndrome from surgical scar tissue"
+        },
+        {
+          "label": "C",
+          "text": "Persistent elevated pulmonary vascular resistance from left heart volume overload"
+        },
+        {
+          "label": "D",
+          "text": "Irreversible baroreceptor resetting and abnormal vascular compliance from long-standing pre-coarctation hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Post-operative sympathetic denervation of the aortic arch and carotid body"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Persistent hypertension occurs in 25-50% of patients after successful coarctation repair, particularly when repair is performed later in life. The prolonged exposure to upper body hypertension causes structural and functional changes in the pre-coarctation vasculature, including reduced arterial compliance, increased wall stiffness, and resetting of the carotid baroreceptors to a higher set point. These changes are often irreversible.",
+        "whyCorrect": "Chronic hypertension proximal to the coarctation produces vascular remodeling with increased medial smooth muscle hypertrophy, collagen deposition, and reduced elastin content in the pre-coarctation arterial bed. The carotid and aortic arch baroreceptors adapt to the chronically elevated pressures and reset their operating range upward. Even after the mechanical obstruction is removed, these structural and neurogenic changes persist, explaining why earlier repair (in infancy) is associated with better long-term blood pressure outcomes.",
+        "whyWrongByChoice": {
+          "A": "While the RAAS is activated during coarctation due to reduced renal perfusion pressure, this mechanism is generally reversible after successful repair restores normal renal blood flow. Persistent RAAS activation is not the primary driver of long-term post-repair hypertension.",
+          "B": "Mid-aortic syndrome is a congenital or acquired narrowing of the mid-abdominal aorta, not a typical surgical complication. Imaging in this patient shows no recurrent coarctation, ruling out this mechanism.",
+          "C": "Coarctation primarily affects left ventricular afterload and systemic hemodynamics. Pulmonary vascular resistance is not the primary driver of systemic hypertension in this context.",
+          "E": "Sympathetic denervation of the aortic arch and carotid body would impair baroreceptor reflexes but would not cause sustained hypertension. The issue is baroreceptor resetting (adaptation to a higher set point), not denervation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-014",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 2-day-old neonate develops severe cyanosis, tachypnea, and poor feeding. Prostaglandin E1 is initiated. Echocardiography reveals aortic valve atresia, a severely hypoplastic left ventricle, mitral stenosis, a restrictive patent foramen ovale, and a large patent ductus arteriosus providing systemic blood flow. The right ventricle is dilated and hypertrophied. Which of the following surgical procedures is the most appropriate first-stage palliation for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial switch operation with coronary artery reimplantation"
+        },
+        {
+          "label": "B",
+          "text": "Rastelli operation with placement of an RV-to-PA conduit"
+        },
+        {
+          "label": "C",
+          "text": "Complete biventricular repair with VSD closure and relief of aortic obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Bidirectional Glenn shunt connecting the SVC to the right pulmonary artery"
+        },
+        {
+          "label": "E",
+          "text": "Norwood procedure with a Blalock-Taussig shunt or Sano shunt"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This neonate has hypoplastic left heart syndrome (HLHS), characterized by aortic atresia, a hypoplastic left ventricle, and mitral stenosis. The Norwood procedure is the first-stage palliative surgery, typically performed in the first week of life. It reconstructs the aortic arch using the main pulmonary artery (creating a neo-aorta), ensures unobstructed systemic output from the right ventricle, creates an atrial septectomy for unrestricted pulmonary venous return, and provides controlled pulmonary blood flow through a modified BT shunt or Sano (RV-to-PA) shunt.",
+        "whyCorrect": "In HLHS, the left ventricle cannot support systemic circulation, so a single-ventricle palliation strategy is required. The Norwood procedure is the critical first stage, establishing the right ventricle as the systemic ventricle. The main pulmonary artery is transected and anastomosed to the hypoplastic aorta with arch reconstruction, providing unobstructed systemic outflow. A controlled source of pulmonary blood flow is created with either a BT shunt (subclavian to PA) or Sano shunt (RV to PA conduit).",
+        "whyWrongByChoice": {
+          "A": "The arterial switch operation is the definitive repair for D-transposition of the great arteries, not HLHS. It requires two functional ventricles to switch the great arteries to their correct positions, which is not feasible with a hypoplastic left ventricle.",
+          "B": "The Rastelli operation is used for D-TGA with VSD and pulmonary stenosis, utilizing the VSD to baffle left ventricular outflow to the aorta and placing an RV-to-PA conduit. It requires a functional left ventricle and is not applicable to HLHS.",
+          "C": "Biventricular repair is not possible in HLHS because the left ventricle is too hypoplastic to support systemic circulation. The entire management strategy is based on single-ventricle palliation.",
+          "D": "The bidirectional Glenn shunt is the second stage of single-ventricle palliation, typically performed at 4-6 months of age. It cannot be the first procedure because the neonate's pulmonary vascular resistance is too high to support passive superior vena cava flow to the lungs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-015",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 4-year-old boy with Williams syndrome is brought for cardiac evaluation. Physical examination reveals a suprasternal notch thrill and a grade IV/VI systolic ejection murmur heard best at the right upper sternal border, radiating to the carotid arteries. Blood pressure in the right arm is significantly higher than in the left arm. Echocardiography shows an hourglass narrowing of the ascending aorta above the sinotubular junction. Which of the following additional vascular findings is most characteristically associated with this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary artery ostial stenosis with increased risk of sudden cardiac death"
+        },
+        {
+          "label": "B",
+          "text": "Aortic root dilation with risk of acute aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Berry aneurysm formation in the Circle of Willis"
+        },
+        {
+          "label": "D",
+          "text": "Fibromuscular dysplasia of the renal arteries"
+        },
+        {
+          "label": "E",
+          "text": "Moyamoya pattern of collateral vessels in the cerebral circulation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Williams syndrome (7q11.23 deletion, including the elastin gene) is associated with supravalvular aortic stenosis (SVAS). A critical and potentially lethal complication is coronary artery ostial stenosis. Because the coronary arteries originate below the supravalvular narrowing, they are exposed to the high-pressure zone proximal to the stenosis, and the diffuse arteriopathy can narrow the coronary ostia, placing patients at risk for myocardial ischemia and sudden cardiac death.",
+        "whyCorrect": "In supravalvular aortic stenosis, the narrowing occurs above the aortic valve but distal to the coronary ostia. The coronary arteries are therefore exposed to the elevated systolic pressure proximal to the obstruction. Additionally, the underlying elastin arteriopathy can cause thickening and stenosis of the coronary ostia themselves. This combination creates a high risk of myocardial ischemia, particularly during exercise or anesthesia, and is a recognized cause of sudden death in Williams syndrome.",
+        "whyWrongByChoice": {
+          "B": "Aortic root dilation and dissection risk are associated with Marfan syndrome (fibrillin-1 mutation) and Loeys-Dietz syndrome (TGF-beta receptor mutations), not Williams syndrome. Williams syndrome involves an elastin gene deletion that causes arterial narrowing, not dilation.",
+          "C": "Berry aneurysms in the Circle of Willis are associated with autosomal dominant polycystic kidney disease and are not a characteristic feature of Williams syndrome or supravalvular aortic stenosis.",
+          "D": "Fibromuscular dysplasia of the renal arteries is an idiopathic condition most common in young women, presenting with renovascular hypertension. While Williams syndrome can cause diffuse arterial stenoses including renal artery stenosis, FMD is a distinct pathologic entity.",
+          "E": "Moyamoya disease is a progressive cerebrovascular condition characterized by stenosis of the internal carotid arteries with formation of collateral networks. It is not associated with Williams syndrome or elastin gene deletions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-016",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 1-day-old neonate presents with severe cyanosis. Echocardiography reveals a critical valvular pulmonic stenosis with a pinpoint orifice, a severely hypertrophied right ventricle with a small cavity, moderate tricuspid regurgitation, and right-to-left shunting through a patent foramen ovale. The ductus arteriosus is patent. Prostaglandin E1 is started. Which of the following best describes why this neonate is cyanotic despite having an anatomically separated circulation (no VSD)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The hypertrophied right ventricle cannot generate enough pressure to open the severely stenotic pulmonic valve, forcing deoxygenated blood right-to-left through the foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid regurgitation causes reversal of flow in the inferior vena cava, reducing systemic venous return to the heart"
+        },
+        {
+          "label": "C",
+          "text": "The patent ductus arteriosus is shunting oxygenated blood from the aorta into the pulmonary artery, reducing systemic oxygen delivery"
+        },
+        {
+          "label": "D",
+          "text": "The foramen ovale is allowing left-to-right shunting that reduces left atrial oxygen content"
+        },
+        {
+          "label": "E",
+          "text": "Critical pulmonic stenosis causes coronary artery compression from the hypertrophied right ventricle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In critical pulmonic stenosis, the nearly atretic pulmonic valve severely limits antegrade flow from the right ventricle to the pulmonary artery. The right ventricle hypertrophies but cannot effectively eject into the pulmonary circulation. Right atrial pressure rises, and deoxygenated blood is forced right-to-left across the patent foramen ovale into the left atrium, mixing with oxygenated pulmonary venous blood and causing systemic cyanosis.",
+        "whyCorrect": "The critical pulmonic stenosis creates near-complete obstruction to right ventricular outflow. Blood returning to the right atrium cannot be efficiently ejected into the pulmonary artery, causing elevated right atrial pressure that exceeds left atrial pressure. This pressure gradient drives right-to-left shunting through the PFO, introducing deoxygenated systemic venous blood into the systemic arterial circulation. Pulmonary blood flow is maintained through the PDA (aorta to PA), which is why PGE1 is essential.",
+        "whyWrongByChoice": {
+          "B": "Tricuspid regurgitation does increase right atrial pressure and may reduce forward cardiac output, but it does not cause IVC flow reversal significant enough to be the primary mechanism of cyanosis. The cyanosis results from right-to-left atrial shunting.",
+          "C": "In this scenario, the PDA is actually beneficial: it shunts blood from the aorta to the pulmonary artery, providing the primary source of pulmonary blood flow. Without the PDA, pulmonary blood flow would be critically reduced, worsening cyanosis.",
+          "D": "The shunting through the foramen ovale is right-to-left (deoxygenated to oxygenated), not left-to-right, because right atrial pressure exceeds left atrial pressure due to the pulmonic stenosis.",
+          "E": "While RV hypertrophy can affect coronary sinusoidal connections (particularly in pulmonary atresia with intact ventricular septum), coronary compression is not the primary mechanism causing cyanosis in critical pulmonic stenosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-017",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 12-year-old boy presents with exertional dyspnea and a recent syncopal episode during a soccer game. Family history is significant for a father who died suddenly at age 35 during exercise. Physical examination reveals a harsh crescendo-decrescendo systolic murmur at the left sternal border that increases with Valsalva maneuver and standing, and decreases with squatting. There is no ejection click. Echocardiography shows asymmetric septal hypertrophy with a resting left ventricular outflow tract gradient of 45 mmHg and systolic anterior motion of the mitral valve. Which of the following mechanisms is primarily responsible for the dynamic outflow tract obstruction in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed fibromuscular narrowing of the subaortic region creating a constant obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Calcific degeneration of a congenitally bicuspid aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Venturi effect from high-velocity flow drawing the anterior mitral leaflet toward the hypertrophied septum"
+        },
+        {
+          "label": "D",
+          "text": "Supravalvular aortic membrane creating a pressure gradient above the valve"
+        },
+        {
+          "label": "E",
+          "text": "Papillary muscle displacement causing mitral valve prolapse and outflow tract narrowing"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has hypertrophic obstructive cardiomyopathy (HOCM). The dynamic left ventricular outflow tract (LVOT) obstruction is caused by the Venturi effect: high-velocity blood flow through the narrowed outflow tract (narrowed by asymmetric septal hypertrophy) creates a low-pressure zone that draws the anterior mitral valve leaflet anteriorly toward the septum (systolic anterior motion, or SAM), further obstructing the LVOT during systole.",
+        "whyCorrect": "As blood is ejected through the narrowed LVOT during systole, flow velocity increases according to the Bernoulli principle, creating a low-pressure zone adjacent to the anterior mitral leaflet. This Venturi effect pulls the mitral leaflet toward the septum (SAM), dynamically worsening the obstruction. This explains why the gradient increases with maneuvers that reduce preload or afterload (Valsalva, standing), which increase flow velocity through a smaller LVOT, and decreases with maneuvers that increase preload (squatting).",
+        "whyWrongByChoice": {
+          "A": "Fixed subaortic stenosis (discrete subaortic membrane) creates a constant obstruction that does not vary with maneuvers. The hallmark of HOCM is the dynamic nature of the obstruction, which changes with preload, afterload, and contractility.",
+          "B": "Bicuspid aortic valve stenosis produces a fixed valvular obstruction often with an ejection click. This patient has no ejection click, and the murmur changes with Valsalva, indicating dynamic rather than fixed obstruction.",
+          "D": "A supravalvular aortic membrane would create fixed obstruction above the aortic valve and is associated with Williams syndrome. It would not produce SAM of the mitral valve or vary with Valsalva maneuver.",
+          "E": "While mitral valve abnormalities including elongated leaflets and abnormal papillary muscle insertion are common in HOCM, the primary mechanism of LVOT obstruction is the Venturi effect drawing the leaflet toward the septum, not papillary muscle displacement alone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-018",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 6-week-old infant presents with poor feeding, irritability, and a grayish skin color. On examination, the infant is in respiratory distress with a heart rate of 180/min, a gallop rhythm, and hepatomegaly. Pulses are weak in all extremities. Echocardiography reveals a severely stenotic bicuspid aortic valve with a peak gradient of 80 mmHg, severe left ventricular dysfunction with an ejection fraction of 20%, and moderate mitral regurgitation. The aortic valve annulus is 5 mm (z-score -3.5). Which of the following is the most appropriate initial intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate surgical aortic valve replacement with a mechanical prosthesis"
+        },
+        {
+          "label": "B",
+          "text": "Percutaneous balloon aortic valvuloplasty as a palliative bridge procedure"
+        },
+        {
+          "label": "C",
+          "text": "Ross procedure with pulmonary autograft replacement of the aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Medical management with ACE inhibitors and diuretics as definitive therapy"
+        },
+        {
+          "label": "E",
+          "text": "Konno procedure with aortic root enlargement and valve replacement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Critical aortic stenosis in a neonate or young infant with heart failure requires urgent intervention. Percutaneous balloon aortic valvuloplasty is the preferred initial intervention as it provides effective palliation by reducing the transvalvular gradient, is less invasive than surgical options in a critically ill infant, and serves as a bridge to allow ventricular recovery and growth before a more definitive procedure may be needed later.",
+        "whyCorrect": "Balloon aortic valvuloplasty is the standard first-line interventional approach for critical congenital aortic stenosis in neonates and young infants. It effectively reduces the pressure gradient across the stenotic valve by splitting fused commissures, is performed via cardiac catheterization (avoiding open-heart surgery in a critically ill infant), has acceptable procedural morbidity, and allows the infant to stabilize and grow. While it may create aortic regurgitation and is not curative, it provides essential palliation.",
+        "whyWrongByChoice": {
+          "A": "Mechanical valve replacement in a 6-week-old infant is technically very challenging due to the small annulus size, requires lifelong anticoagulation, and the prosthesis cannot grow with the child, necessitating multiple re-operations. It is not a first-line approach in this age group.",
+          "C": "The Ross procedure (pulmonary autograft to aortic position) is a definitive surgical option but is a complex operation inappropriate as an initial emergency intervention in a critically ill 6-week-old with severely depressed ventricular function. It may be considered later after stabilization.",
+          "D": "Medical management with ACE inhibitors and diuretics can provide symptomatic support but cannot address the fixed mechanical obstruction of a critically stenotic aortic valve. Without relief of the obstruction, the infant will continue to deteriorate.",
+          "E": "The Konno procedure involves aortic root enlargement and is a major open-heart surgery reserved for patients with complex multilevel LVOT obstruction or a severely hypoplastic aortic annulus that cannot accommodate an adequate valve. It is not appropriate as an initial emergency intervention in this clinical scenario."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-019",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 10-year-old girl is referred for evaluation of a heart murmur detected during a routine physical. She is asymptomatic. On examination, a grade II/VI systolic ejection murmur is heard at the left upper sternal border with a widely split S2 and a soft pulmonic ejection click. ECG shows right axis deviation and a tall R wave in V1. Echocardiography shows a doming pulmonic valve with a peak gradient of 55 mmHg and mild right ventricular hypertrophy. Which of the following echocardiographic findings would distinguish valvular pulmonic stenosis from an infundibular (subvalvular) obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of post-stenotic dilation of the main pulmonary artery"
+        },
+        {
+          "label": "B",
+          "text": "Degree of tricuspid regurgitation on color Doppler imaging"
+        },
+        {
+          "label": "C",
+          "text": "Thickness of the right ventricular free wall on M-mode echocardiography"
+        },
+        {
+          "label": "D",
+          "text": "Presence of a secundum atrial septal defect with right-to-left shunting"
+        },
+        {
+          "label": "E",
+          "text": "Estimated right ventricular systolic pressure on spectral Doppler"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Post-stenotic dilation of the main pulmonary artery is a characteristic finding of valvular pulmonic stenosis that distinguishes it from subvalvular (infundibular) obstruction. The high-velocity jet passing through the stenotic valve orifice creates turbulence that impacts the pulmonary artery wall, causing localized dilation. This jet effect does not occur with infundibular stenosis because the turbulent jet dissipates before reaching the pulmonary valve and artery.",
+        "whyCorrect": "In valvular pulmonic stenosis, the stenotic orifice directs a high-velocity jet into the main pulmonary artery during systole. The kinetic energy of this jet impacts the arterial wall, causing localized dilation (the post-stenotic jet effect). This finding is present even with mild-to-moderate stenosis and is visible on echocardiography as dilation of the main PA. In infundibular stenosis, the obstruction is below the valve, and the jet's energy is absorbed by the infundibular chamber before reaching the PA, so post-stenotic dilation does not develop.",
+        "whyWrongByChoice": {
+          "B": "Tricuspid regurgitation can occur with any cause of elevated right ventricular pressure, whether valvular or subvalvular. Its presence and severity do not reliably distinguish between levels of obstruction.",
+          "C": "Right ventricular free wall thickness reflects the degree and chronicity of pressure overload but does not indicate the anatomic level of obstruction. Both valvular and infundibular stenosis can cause RV hypertrophy.",
+          "D": "An atrial septal defect with right-to-left shunting indicates elevated right atrial pressure, which can occur with severe obstruction at any level. It does not differentiate valvular from subvalvular stenosis.",
+          "E": "Estimated RV systolic pressure reflects the severity of obstruction but not its anatomic location. Both valvular and infundibular stenosis can produce similar RV pressure elevation for a given gradient severity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-020",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 2-year-old boy with Noonan syndrome undergoes cardiac evaluation for an ejection murmur. Echocardiography reveals severe pulmonic stenosis with a dysplastic, thickened pulmonic valve that has limited commissural fusion. The peak gradient across the valve is 70 mmHg. The interventional cardiologist discusses treatment options with the family. Which of the following is the most important reason that balloon valvuloplasty may be less effective in this patient compared to typical congenital valvular pulmonic stenosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonic valve annulus in Noonan syndrome is typically too small to accommodate a balloon catheter"
+        },
+        {
+          "label": "B",
+          "text": "Noonan syndrome patients have a higher risk of infective endocarditis that contraindicates catheter-based procedures"
+        },
+        {
+          "label": "C",
+          "text": "The dysplastic valve leaflets are thickened and myxomatous with minimal commissural fusion, limiting the effectiveness of commissural splitting by balloon dilation"
+        },
+        {
+          "label": "D",
+          "text": "Concurrent hypertrophic cardiomyopathy in Noonan syndrome makes right heart catheterization technically unfeasible"
+        },
+        {
+          "label": "E",
+          "text": "The pulmonary arteries in Noonan syndrome are hypoplastic and cannot accommodate increased blood flow after valvuloplasty"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Noonan syndrome is associated with dysplastic pulmonic valve stenosis, in which the valve leaflets are severely thickened, myxomatous, and immobile, with minimal or absent commissural fusion. Balloon valvuloplasty works primarily by splitting fused commissures; when the obstruction is due to thickened dysplastic tissue rather than commissural fusion, balloon dilation is significantly less effective and surgical valvectomy or valve replacement may be required.",
+        "whyCorrect": "The mechanism of balloon valvuloplasty in typical congenital pulmonic stenosis involves inflating a balloon across the fused commissures, which splits them apart and relieves the obstruction. In Noonan-associated dysplastic pulmonic stenosis, the leaflets are intrinsically thickened and myxomatous (rather than simply fused), so there are no fused commissures to split. The balloon may transiently improve the gradient but cannot address the fundamental tissue abnormality, leading to higher failure rates.",
+        "whyWrongByChoice": {
+          "A": "The pulmonic valve annulus in Noonan syndrome is typically normal-sized or may even be slightly enlarged. Annulus size is not the primary limitation of balloon valvuloplasty in these patients.",
+          "B": "While patients with structural heart disease have some endocarditis risk, there is no specific contraindication to catheter-based procedures in Noonan syndrome based on endocarditis risk. Prophylaxis protocols are followed when indicated.",
+          "D": "Although hypertrophic cardiomyopathy can occur in Noonan syndrome, it does not make right heart catheterization technically unfeasible. Catheterization is routinely performed in patients with HCM for diagnostic and interventional purposes.",
+          "E": "Peripheral pulmonary artery stenosis can occur in Noonan syndrome, but the pulmonary arteries are not typically hypoplastic to a degree that contraindicates valvuloplasty. The primary limitation is the valve morphology itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-021",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 5-month-old infant who underwent surgical repair of coarctation of the aorta at 5 days of life presents with postprandial abdominal pain, bloody stools, and abdominal distension 2 days after the operation. On examination, the abdomen is tender and distended with absent bowel sounds. Abdominal X-ray shows pneumatosis intestinalis. Lactate is elevated at 6.8 mmol/L. Which of the following is the most likely etiology of this complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mesenteric artery thrombosis from intraoperative aortic cross-clamping"
+        },
+        {
+          "label": "B",
+          "text": "Paradoxical hypertension with mesenteric arteritis from sudden restoration of pulsatile flow to previously hypoperfused intestinal vessels"
+        },
+        {
+          "label": "C",
+          "text": "Iatrogenic injury to the thoracic duct causing chylous ascites and secondary bowel ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing enterocolitis from formula feeding in a hemodynamically unstable infant"
+        },
+        {
+          "label": "E",
+          "text": "Embolic occlusion of the superior mesenteric artery from a left atrial thrombus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Post-coarctectomy syndrome (paradoxical hypertension) is a well-recognized complication occurring in the first 1-2 weeks after coarctation repair. Sudden restoration of high pulsatile flow to the mesenteric vasculature, which had adapted to low-flow conditions, triggers a sympathetically mediated hypertensive response and mesenteric arteritis. This can cause abdominal pain, bowel ischemia, and in severe cases, necrotizing enterocolitis-like presentations with pneumatosis intestinalis.",
+        "whyCorrect": "After coarctation repair, the abdominal vasculature, which was previously adapted to low-pressure, low-pulsatility flow, is suddenly exposed to normal or elevated systemic pressures. This triggers baroreceptor-mediated sympathetic activation and a renin-angiotensin response, producing paradoxical hypertension. The mesenteric arteries are particularly vulnerable, developing an arteritis-like inflammatory response that can cause bowel ischemia. This syndrome is managed with antihypertensives (often labetalol or sodium nitroprusside) and bowel rest.",
+        "whyWrongByChoice": {
+          "A": "While aortic cross-clamping during surgery could theoretically cause mesenteric ischemia, this is an acute intraoperative risk rather than a delayed postoperative complication presenting days later. The timing and clinical context are more consistent with post-coarctectomy syndrome.",
+          "C": "Thoracic duct injury can occur during coarctation repair and may cause chylothorax, but chylous ascites is rare and would not cause pneumatosis intestinalis or the clinical picture of bowel ischemia described here.",
+          "D": "Necrotizing enterocolitis is common in premature infants but this infant was born at term (5-month-old infant who had surgery at 5 days of life). The timing immediately after coarctation repair strongly suggests post-coarctectomy syndrome rather than classic NEC.",
+          "E": "Left atrial thrombus and SMA embolism are more common in adults with atrial fibrillation or mitral stenosis. This is extremely rare in infants after coarctation repair and does not explain the paradoxical hypertension that accompanies this syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-022",
+      "topicId": "obstructive-chd",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "A 3-year-old girl with Turner syndrome (45,X) undergoes routine cardiac screening. Echocardiography reveals a bicuspid aortic valve with mild aortic stenosis (peak gradient 28 mmHg) and a mildly dilated ascending aorta. Her blood pressure is normal with no upper-to-lower extremity gradient. The cardiologist recommends long-term surveillance. Which of the following is the most important reason for continued aortic imaging surveillance in this patient, even in the absence of significant hemodynamic obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bicuspid aortic valves in Turner syndrome invariably progress to severe stenosis requiring replacement by adolescence"
+        },
+        {
+          "label": "B",
+          "text": "The mild aortic stenosis will cause progressive left ventricular hypertrophy requiring serial monitoring for heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Turner syndrome patients have a high incidence of coronary artery anomalies that require annual angiographic assessment"
+        },
+        {
+          "label": "D",
+          "text": "Turner syndrome is associated with an intrinsic aortopathy with increased risk of aortic dilation, dissection, and rupture independent of hemodynamic severity"
+        },
+        {
+          "label": "E",
+          "text": "Bicuspid aortic valve is associated with infective endocarditis, requiring imaging to detect vegetations before dental procedures"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Turner syndrome (45,X) is associated with a congenital aortopathy characterized by abnormal aortic wall composition with reduced elastic fiber content and increased collagen, predisposing to progressive aortic dilation and dissection. This risk exists independent of hemodynamic factors such as bicuspid aortic valve or coarctation. The aortic size index (aortic dimension normalized to body surface area) is used for surveillance, and dissection can occur at smaller absolute aortic dimensions than in the general population.",
+        "whyCorrect": "Turner syndrome confers an inherent aortic wall abnormality (aortopathy) that increases the lifetime risk of aortic dissection approximately 100-fold compared to the general population. This risk is present even with a morphologically normal aortic valve and normal hemodynamics, though bicuspid aortic valve and hypertension increase the risk further. Guidelines recommend serial aortic imaging (MRI or echocardiography) every 5-10 years in low-risk patients and more frequently when risk factors are present.",
+        "whyWrongByChoice": {
+          "A": "While bicuspid aortic valves can progress over time, they do not invariably progress to severe stenosis by adolescence. Many patients with bicuspid aortic valves remain asymptomatic for decades, and the rate of progression is highly variable.",
+          "B": "While progressive LV hypertrophy from aortic stenosis is a concern in any patient, the current gradient is mild (28 mmHg), and the primary reason for aortic surveillance in Turner syndrome is the intrinsic aortopathy and dissection risk, not heart failure monitoring.",
+          "C": "Coronary artery anomalies are not a characteristic feature of Turner syndrome. Annual angiographic assessment is not part of standard Turner syndrome cardiac surveillance protocols.",
+          "E": "While bicuspid aortic valve does carry some endocarditis risk, current guidelines do not recommend routine imaging to detect vegetations before dental procedures. Endocarditis prophylaxis recommendations are based on clinical risk factors, not imaging surveillance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "chd-023",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 6-week-old infant is brought to the pediatrician because of poor weight gain and diaphoresis during feeding. The mother reports that the infant becomes tachypneic and fatigued after nursing for only a few minutes. On examination, the infant is at the 3rd percentile for weight. Heart rate is 160/min, respiratory rate is 60/min, and oxygen saturation is 97% on room air. Cardiac auscultation reveals a grade 3/6 holosystolic murmur at the left lower sternal border with a palpable thrill, a mid-diastolic rumble at the apex, and a laterally displaced apical impulse. Chest radiograph shows cardiomegaly with increased pulmonary vascular markings. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial septal defect (secundum type)"
+        },
+        {
+          "label": "B",
+          "text": "Large ventricular septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Coarctation of the aorta"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This infant has heart failure symptoms (poor feeding, diaphoresis, tachypnea, failure to thrive) with a holosystolic murmur at the left lower sternal border, a mid-diastolic rumble (indicating increased flow across the mitral valve), and evidence of volume overload—classic for a large VSD with significant left-to-right shunting.",
+        "whyCorrect": "A large VSD produces a holosystolic murmur at the left lower sternal border. When the shunt is hemodynamically significant (Qp:Qs > 2:1), increased pulmonary venous return causes a mid-diastolic rumble across the mitral valve. Symptoms of CHF typically present at 4–8 weeks as pulmonary vascular resistance drops, allowing increased left-to-right shunting.",
+        "whyWrongByChoice": {
+          "A": "Secundum ASD produces a fixed split S2 and a systolic ejection murmur at the left upper sternal border (from increased flow across the pulmonic valve), not a holosystolic murmur at the lower sternal border. ASD rarely causes symptomatic heart failure in infancy.",
+          "C": "PDA produces a continuous 'machinery' murmur best heard at the left infraclavicular region, not a holosystolic murmur at the left lower sternal border. PDA may also present with bounding pulses and a wide pulse pressure.",
+          "D": "Tetralogy of Fallot is a cyanotic defect that presents with cyanosis, not heart failure from volume overload. The murmur is a crescendo-decrescendo systolic ejection murmur from right ventricular outflow tract obstruction, and oxygen saturation would be decreased.",
+          "E": "Coarctation of the aorta presents with upper extremity hypertension, diminished femoral pulses, and a blood pressure differential between upper and lower extremities. It does not produce a holosystolic murmur at the left lower sternal border."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VSD",
+        "left-to-right shunt",
+        "neonatal",
+        "heart failure"
+      ]
+    },
+    {
+      "id": "chd-024",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 3-day-old full-term neonate born via uncomplicated vaginal delivery develops tachypnea, grunting, and subcostal retractions. Oxygen saturation is 94% on room air. A continuous 'machinery-like' murmur is heard best at the left infraclavicular area. The infant has bounding peripheral pulses and a widened pulse pressure of 45 mmHg. Echocardiography confirms a 4-mm patent ductus arteriosus with left-to-right flow and left atrial enlargement. The infant fails a trial of fluid restriction. Which of the following is the most appropriate pharmacologic intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous prostaglandin E1 infusion"
+        },
+        {
+          "label": "B",
+          "text": "Oral captopril"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous indomethacin"
+        },
+        {
+          "label": "D",
+          "text": "Oral sildenafil"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous milrinone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This full-term neonate has a hemodynamically significant PDA causing heart failure symptoms. Indomethacin (or ibuprofen), a cyclooxygenase inhibitor, promotes ductal closure by blocking prostaglandin E2 synthesis, which is responsible for maintaining ductal patency.",
+        "whyCorrect": "Indomethacin inhibits cyclooxygenase, reducing prostaglandin E2 and F2-alpha levels, which are the primary mediators maintaining ductal patency. This pharmacologic approach is first-line for closing a hemodynamically significant PDA in neonates before considering surgical or catheter-based ligation.",
+        "whyWrongByChoice": {
+          "A": "Prostaglandin E1 (alprostadil) maintains ductal patency and would worsen this condition. PGE1 is used in duct-dependent cyanotic lesions (e.g., transposition of great arteries, critical pulmonary stenosis) where systemic or pulmonary blood flow depends on the ductus.",
+          "B": "Captopril (ACE inhibitor) may be used for afterload reduction in pediatric heart failure but does not promote ductal closure. It addresses symptoms rather than the underlying anatomic defect.",
+          "D": "Sildenafil is a phosphodiesterase-5 inhibitor used for pulmonary arterial hypertension. It would lower pulmonary vascular resistance and potentially increase the left-to-right shunt, worsening the hemodynamic burden.",
+          "E": "Milrinone is an inotrope and vasodilator used for acute heart failure support but does not address ductal closure. It could worsen the shunt by decreasing systemic vascular resistance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PDA",
+        "indomethacin",
+        "neonatal",
+        "prostaglandin"
+      ]
+    },
+    {
+      "id": "chd-025",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 5-year-old girl is referred for evaluation of a heart murmur detected during a school physical. She is asymptomatic and growing normally. On examination, there is a grade 2/6 systolic ejection murmur at the left upper sternal border with a widely split and fixed S2. No diastolic murmur is appreciated. ECG shows right axis deviation and an rSR' pattern in lead V1. Echocardiography reveals a 12-mm defect in the interatrial septum with a Qp:Qs of 1.8:1. Which of the following best explains the fixed splitting of S2 in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed left ventricular emptying from volume overload"
+        },
+        {
+          "label": "B",
+          "text": "Equalization of respiratory variation in right and left ventricular volumes"
+        },
+        {
+          "label": "C",
+          "text": "Early closure of the aortic valve due to decreased left ventricular preload"
+        },
+        {
+          "label": "D",
+          "text": "Right bundle branch block causing delayed right ventricular activation"
+        },
+        {
+          "label": "E",
+          "text": "Increased pulmonary artery compliance due to pulmonary hypertension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ASD, the interatrial communication allows equalization of volume changes between the atria during respiration. During inspiration, increased venous return to the right atrium is offset by decreased left-to-right shunting; during expiration, the reverse occurs. This results in constant right ventricular volume and fixed splitting of S2.",
+        "whyCorrect": "The ASD acts as a pressure-equalizing communication between the atria. Normally, inspiration increases RV filling and delays pulmonic valve closure (widening the split). With an ASD, any increase in right atrial volume from inspiration is offset by a reciprocal decrease in left-to-right shunt flow, keeping RV stroke volume and pulmonic valve closure timing constant throughout the respiratory cycle.",
+        "whyWrongByChoice": {
+          "A": "In ASD, the left ventricle is actually volume-depleted (not overloaded) because blood shunts left to right at the atrial level. The right ventricle, not the left, is volume-overloaded.",
+          "C": "While left ventricular preload is reduced in ASD, this does not directly explain the fixed nature of the split. The fixed split is specifically due to the equalization mechanism across the defect, not simply earlier aortic valve closure.",
+          "D": "Although the rSR' pattern in V1 reflects right ventricular conduction delay from volume overload, the RBBB pattern alone would cause wide splitting but not fixed splitting. The fixed component requires the atrial-level equalization mechanism.",
+          "E": "Pulmonary hypertension is not typically present in a child with an uncomplicated ASD and normal exercise tolerance. Moreover, pulmonary hypertension would tend to narrow the split by accelerating pulmonic valve closure, not fix it."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASD",
+        "fixed split S2",
+        "pathophysiology",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "chd-026",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 2-month-old male infant with trisomy 21 is evaluated for increasing respiratory distress and poor feeding over the past 2 weeks. Physical examination reveals a hyperactive precordium, a grade 3/6 holosystolic murmur at the left lower sternal border, and hepatomegaly. Echocardiography shows a large inlet ventricular septal defect, a primum atrial septal defect, and a common atrioventricular valve with moderate regurgitation. Which of the following congenital heart defects is most commonly associated with Down syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "B",
+          "text": "Bicuspid aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "D",
+          "text": "Complete atrioventricular septal defect (endocardial cushion defect)"
+        },
+        {
+          "label": "E",
+          "text": "Supravalvular aortic stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Down syndrome (trisomy 21) is most strongly associated with endocardial cushion defects (atrioventricular septal defects). Approximately 40–50% of children with Down syndrome have congenital heart disease, and the most common lesion is a complete atrioventricular septal defect.",
+        "whyCorrect": "Complete atrioventricular septal defect (AVSD) results from failure of the endocardial cushions to fuse, producing a primum ASD, an inlet VSD, and a common AV valve. About 40–45% of complete AVSDs occur in patients with Down syndrome, making this the single most characteristic cardiac lesion of trisomy 21.",
+        "whyWrongByChoice": {
+          "A": "Tetralogy of Fallot is associated with DiGeorge syndrome (22q11 microdeletion), not Down syndrome. While TOF can occur in Down syndrome, it is far less common than AVSD.",
+          "B": "Bicuspid aortic valve is the most common congenital cardiac anomaly overall (1–2% of the population) but is not specifically associated with Down syndrome. It is linked to Turner syndrome (45,X).",
+          "C": "Transposition of the great arteries is not associated with a specific chromosomal abnormality and occurs predominantly in infants of diabetic mothers.",
+          "E": "Supravalvular aortic stenosis is the classic cardiac finding in Williams syndrome (7q11 microdeletion due to elastin gene deletion), not Down syndrome."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "AVSD",
+        "Down syndrome",
+        "endocardial cushion defect",
+        "genetic association"
+      ]
+    },
+    {
+      "id": "chd-027",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 28-year-old woman with a known, unrepaired large ventricular septal defect since childhood presents with progressive dyspnea on exertion and new-onset cyanosis. On examination, she has digital clubbing and a loud, palpable P2. Her oxygen saturation is 82% on room air. A right ventricular heave is palpable. The previously loud holosystolic murmur is now markedly diminished. ECG shows right axis deviation and right ventricular hypertrophy. Which of the following hemodynamic changes best explains the clinical deterioration in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversal of shunt flow to right-to-left due to irreversible pulmonary vascular disease"
+        },
+        {
+          "label": "B",
+          "text": "Development of infundibular right ventricular outflow tract obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous closure of the ventricular septal defect with right heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Superimposed rheumatic mitral stenosis increasing left atrial pressure"
+        },
+        {
+          "label": "E",
+          "text": "Progressive aortic root dilation causing aortic regurgitation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient has developed Eisenmenger syndrome—irreversible pulmonary hypertension from chronic left-to-right shunting that has caused pulmonary vascular remodeling and reversal of shunt direction to right-to-left, producing cyanosis.",
+        "whyCorrect": "Years of excessive pulmonary blood flow from a large VSD causes progressive pulmonary vascular remodeling (medial hypertrophy, intimal fibrosis, plexiform lesions). When pulmonary vascular resistance exceeds systemic resistance, the shunt reverses to right-to-left (Eisenmenger physiology). The murmur diminishes because equalization of pressures reduces the transventricular gradient. Surgical repair is contraindicated at this stage.",
+        "whyWrongByChoice": {
+          "B": "Infundibular RVOT obstruction occurs in tetralogy of Fallot, not in an isolated VSD. The clinical picture of loud P2 and cyanosis with a diminished VSD murmur is characteristic of Eisenmenger syndrome, not acquired subpulmonic stenosis.",
+          "C": "Spontaneous VSD closure occurs in small muscular defects during childhood, not in large defects in adulthood. The diminished murmur here reflects pressure equalization, not defect closure. Also, this would not explain cyanosis.",
+          "D": "Rheumatic mitral stenosis would cause left atrial hypertension and pulmonary congestion, presenting with orthopnea and hemoptysis. It would not explain the right-to-left shunting, clubbing, and diminished VSD murmur.",
+          "E": "Aortic regurgitation from aortic root dilation can occur with subarterial VSDs but would present with a diastolic decrescendo murmur, bounding pulses, and wide pulse pressure—not cyanosis, clubbing, and right ventricular dominance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Eisenmenger syndrome",
+        "VSD",
+        "pulmonary hypertension",
+        "shunt reversal"
+      ]
+    },
+    {
+      "id": "chd-028",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A premature infant born at 28 weeks gestation is now 10 days old and on mechanical ventilation for respiratory distress syndrome. Despite surfactant therapy, the infant has worsening respiratory status with increasing FiO2 requirements. Examination reveals bounding peripheral pulses, a hyperactive precordium, and a continuous murmur at the left infraclavicular area. The ventilator shows decreased pulmonary compliance. Which of the following best explains the worsening respiratory status in this premature infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary overcirculation from a hemodynamically significant patent ductus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Progressive surfactant deficiency due to type II pneumocyte immaturity"
+        },
+        {
+          "label": "C",
+          "text": "Development of necrotizing enterocolitis with sepsis"
+        },
+        {
+          "label": "D",
+          "text": "Bronchopulmonary dysplasia from prolonged oxygen exposure"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax from barotrauma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The continuous murmur, bounding pulses, hyperactive precordium, and widened pulse pressure in a premature infant are classic signs of a hemodynamically significant PDA causing pulmonary overcirculation and respiratory deterioration.",
+        "whyCorrect": "Premature infants are particularly susceptible to PDA because the ductus arteriosus is maintained by prostaglandins and is less responsive to oxygen-mediated closure due to immaturity. A significant left-to-right shunt through the PDA floods the pulmonary vasculature, decreases lung compliance, increases ventilator requirements, and causes a 'steal' phenomenon from systemic circulation (bounding pulses from diastolic runoff).",
+        "whyWrongByChoice": {
+          "B": "Surfactant deficiency typically improves after exogenous surfactant administration, not worsens at day 10. Progressive deterioration with new cardiac findings points to a hemodynamic cause rather than recurrent surfactant deficiency.",
+          "C": "Necrotizing enterocolitis presents with abdominal distension, bilious emesis, and bloody stools. While it can cause sepsis and respiratory deterioration, it would not explain the continuous murmur and bounding pulses.",
+          "D": "Bronchopulmonary dysplasia is a chronic process that develops over weeks of mechanical ventilation and oxygen therapy. At 10 days, it is too early for established BPD, and it would not explain the new cardiac findings.",
+          "E": "Tension pneumothorax causes acute deterioration with unilateral absent breath sounds, tracheal deviation, and hemodynamic compromise. It would not cause a continuous murmur or bounding pulses."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "PDA",
+        "premature infant",
+        "pulmonary overcirculation",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-029",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 4-month-old infant with a moderate perimembranous ventricular septal defect is being followed by cardiology. The parents report that the infant has been breathing rapidly and sweating during feeds for the past 3 weeks. Current weight is below the 5th percentile. Chest radiograph shows cardiomegaly and pulmonary edema. After stabilization with diuretics and ACE inhibitors, the infant continues to have failure to thrive. Echocardiography shows a 7-mm perimembranous VSD with a Qp:Qs of 2.5:1 and estimated pulmonary artery systolic pressure of 50 mmHg. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue medical therapy and reassess in 6 months for spontaneous closure"
+        },
+        {
+          "label": "B",
+          "text": "Perform surgical VSD closure"
+        },
+        {
+          "label": "C",
+          "text": "Place a pulmonary artery band as a palliative procedure"
+        },
+        {
+          "label": "D",
+          "text": "Initiate bosentan for pulmonary hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Perform transcatheter device closure of the VSD"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This infant has a large, hemodynamically significant VSD with refractory heart failure despite medical therapy, failure to thrive, and elevated pulmonary artery pressures. Definitive surgical closure is indicated to prevent irreversible pulmonary vascular disease.",
+        "whyCorrect": "Surgical VSD repair is indicated when there is a hemodynamically significant shunt (Qp:Qs ≥ 2:1) with heart failure refractory to medical management, failure to thrive, or elevated pulmonary artery pressures. Early repair (typically by 6 months of age) prevents the development of irreversible pulmonary vascular disease (Eisenmenger syndrome). Surgical closure has excellent outcomes with low mortality (<2%) in experienced centers.",
+        "whyWrongByChoice": {
+          "A": "Watchful waiting is appropriate for small, hemodynamically insignificant VSDs. This infant has a large defect with refractory heart failure and pulmonary hypertension; continued observation risks irreversible pulmonary vascular changes.",
+          "C": "Pulmonary artery banding was historically used to limit pulmonary blood flow, but it is now reserved for complex anatomy or multiple muscular VSDs where primary closure is technically difficult. A single perimembranous VSD should be closed primarily.",
+          "D": "Bosentan (endothelin receptor antagonist) is used for established pulmonary arterial hypertension but is not appropriate here. The pulmonary hypertension is secondary to excessive left-to-right shunting and will resolve with defect closure, not with pulmonary vasodilator therapy.",
+          "E": "Transcatheter device closure of perimembranous VSDs is technically challenging due to proximity to the aortic valve and conduction system. It is not standard of care for perimembranous VSDs in infants; surgical closure remains the preferred approach."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "VSD",
+        "surgical repair",
+        "failure to thrive",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "chd-030",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 22-year-old woman presents for a routine preconception visit. She reports no symptoms and exercises regularly. On examination, a grade 2/6 systolic ejection murmur is heard at the left upper sternal border with a fixed, widely split S2. ECG shows an incomplete right bundle branch block and right axis deviation. She asks about the long-term risks of her condition if left untreated. Which of the following is the most common long-term complication of an unrepaired secundum atrial septal defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Complete heart block"
+        },
+        {
+          "label": "C",
+          "text": "Ventricular septal rupture"
+        },
+        {
+          "label": "D",
+          "text": "Aortic root dilation"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation and flutter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Unrepaired ASD causes chronic right atrial and right ventricular volume overload, which over decades leads to atrial dilation and an increasing incidence of atrial arrhythmias, particularly atrial fibrillation and atrial flutter. These are the most common long-term complications.",
+        "whyCorrect": "Chronic right atrial volume overload from the left-to-right shunt causes progressive atrial dilation and structural remodeling. By age 40, over 50% of patients with unrepaired ASDs develop atrial fibrillation or flutter. Atrial arrhythmias can precipitate right heart failure and increase the risk of paradoxical embolism and stroke through the ASD.",
+        "whyWrongByChoice": {
+          "A": "Isolated secundum ASDs carry an extremely low risk of infective endocarditis, unlike VSDs or PDAs. Endocarditis prophylaxis is not recommended for unrepaired ASDs. The low-velocity shunt does not create the turbulent jet that predisposes to endocarditis.",
+          "B": "Complete heart block is not a complication of secundum ASD. However, primum ASD (part of an atrioventricular septal defect) can be associated with first-degree AV block due to the inferior displacement of the AV node.",
+          "C": "Ventricular septal rupture is a mechanical complication of acute myocardial infarction, not a complication of ASD. The ventricular septum is intact in an isolated ASD.",
+          "D": "Aortic root dilation is associated with bicuspid aortic valve, Marfan syndrome, and other connective tissue disorders. ASD involves right-sided volume overload and does not affect the aortic root."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ASD",
+        "atrial fibrillation",
+        "long-term complications",
+        "adult"
+      ]
+    },
+    {
+      "id": "chd-031",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 3-week-old infant born at 26 weeks gestation is on mechanical ventilation in the NICU. Echocardiography confirms a patent ductus arteriosus with significant left-to-right shunting. Two courses of intravenous ibuprofen have failed to close the ductus. The infant continues to have worsening respiratory failure and hemodynamic instability. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Third course of intravenous ibuprofen"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous prostaglandin E1 infusion"
+        },
+        {
+          "label": "C",
+          "text": "Surgical ligation of the ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Oral acetaminophen therapy"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled nitric oxide therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After failure of two courses of pharmacologic therapy (indomethacin or ibuprofen), surgical ligation is the definitive treatment for a hemodynamically significant PDA causing clinical deterioration in a premature infant.",
+        "whyCorrect": "Surgical PDA ligation is indicated when pharmacologic closure fails (typically after 2 courses of COX inhibitors) and the infant remains hemodynamically compromised. The procedure involves left thoracotomy with clip ligation or division of the ductus and has a high success rate with low morbidity in experienced centers.",
+        "whyWrongByChoice": {
+          "A": "A third course of COX inhibitor therapy has diminishing returns and increased risk of adverse effects (renal impairment, necrotizing enterocolitis, platelet dysfunction) without significantly improving closure rates after two failed courses.",
+          "B": "Prostaglandin E1 maintains ductal patency and would directly worsen the clinical situation by keeping the ductus open and increasing the left-to-right shunt.",
+          "D": "Oral acetaminophen has emerging evidence as an alternative agent for PDA closure, but in an infant with hemodynamic instability after two failed pharmacologic courses, definitive surgical intervention is warranted rather than trialing another medical therapy.",
+          "E": "Inhaled nitric oxide is a pulmonary vasodilator used for persistent pulmonary hypertension of the newborn. It would decrease pulmonary vascular resistance and could increase the left-to-right shunt through the PDA, worsening the condition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PDA",
+        "surgical ligation",
+        "premature",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-032",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 12-year-old girl is found to have an asymptomatic heart murmur during a routine sports physical. Examination reveals a grade 2/6 systolic ejection murmur at the left upper sternal border, a widely split and fixed S2, and a soft mid-diastolic murmur at the left lower sternal border. Echocardiography shows a 20-mm secundum ASD with a Qp:Qs of 2.2:1 and normal pulmonary artery pressures. All four rims of the defect are adequate. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation with serial echocardiograms every 2 years"
+        },
+        {
+          "label": "B",
+          "text": "Endocarditis prophylaxis and activity restriction"
+        },
+        {
+          "label": "C",
+          "text": "Open surgical repair with cardiopulmonary bypass"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous transcatheter device closure"
+        },
+        {
+          "label": "E",
+          "text": "Medical therapy with diuretics and ACE inhibitors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has a hemodynamically significant secundum ASD (Qp:Qs > 1.5:1) with adequate rims for device deployment. Percutaneous transcatheter closure is the preferred approach for secundum ASDs with appropriate anatomy.",
+        "whyCorrect": "Transcatheter closure using devices such as the Amplatzer septal occluder is the standard of care for secundum ASDs with adequate septal rims (≥5 mm from surrounding structures). It avoids sternotomy, has shorter recovery time, fewer complications, and equivalent closure rates compared to surgery. Closure is indicated when Qp:Qs ≥ 1.5:1 to prevent long-term atrial arrhythmias and right heart failure.",
+        "whyWrongByChoice": {
+          "A": "Observation alone is not appropriate for a hemodynamically significant ASD (Qp:Qs > 2:1). Without closure, chronic right heart volume overload will lead to atrial arrhythmias, right heart failure, and potentially Eisenmenger syndrome in adulthood.",
+          "B": "Endocarditis prophylaxis is not recommended for isolated ASDs. Activity restriction is unnecessary in the absence of pulmonary hypertension or arrhythmias.",
+          "C": "Surgical repair is effective but is reserved for ASDs not amenable to device closure (e.g., primum ASDs, sinus venosus defects, inadequate rims, or very large defects). This secundum ASD with adequate rims is ideal for transcatheter closure.",
+          "E": "Medical therapy does not close the defect and only provides temporary symptomatic relief. It does not prevent the long-term complications of chronic right heart volume overload."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASD",
+        "transcatheter closure",
+        "pediatric",
+        "management"
+      ]
+    },
+    {
+      "id": "chd-033",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 1-week-old infant is brought to the emergency department with poor feeding, lethargy, and mottled skin. On examination, femoral pulses are absent bilaterally. Upper extremity blood pressure is 90/60 mmHg (right arm) and lower extremity blood pressure is 50/30 mmHg (right leg). A grade 2/6 systolic murmur is heard over the left interscapular area. Oxygen saturation is 98% in the right hand and 85% in the left foot. The infant becomes acutely worse when prostaglandin E1 is discontinued in the referring hospital. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interrupted aortic arch"
+        },
+        {
+          "label": "B",
+          "text": "Large ventricular septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Critical coarctation of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Hypoplastic left heart syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Total anomalous pulmonary venous return"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This neonate presents with classic findings of critical (ductal-dependent) coarctation of the aorta: absent femoral pulses, upper-to-lower extremity blood pressure gradient, differential cyanosis (higher saturation in right arm than feet), and acute decompensation when PGE1 is discontinued.",
+        "whyCorrect": "Critical coarctation of the aorta in neonates is a ductal-dependent lesion where lower body perfusion relies on right-to-left flow through the PDA. When the ductus closes, lower body perfusion is critically compromised, causing absent femoral pulses, metabolic acidosis, and shock. Differential cyanosis (pre-ductal SpO2 > post-ductal SpO2) confirms that deoxygenated blood from the PA is supplying the descending aorta through the ductus.",
+        "whyWrongByChoice": {
+          "A": "Interrupted aortic arch presents similarly but involves a complete discontinuity of the aortic arch. While both are ductal-dependent, interrupted arch typically presents earlier, often has associated DiGeorge syndrome (22q11), and usually requires more complex surgical reconstruction.",
+          "B": "A large VSD produces a left-to-right shunt with a holosystolic murmur at the left lower sternal border and symptoms of heart failure (tachypnea, poor feeding), but does not cause absent femoral pulses or an upper-to-lower extremity BP gradient.",
+          "D": "Hypoplastic left heart syndrome presents with severe cyanosis, a single S2, and shock when the ductus closes. However, there would not be a differential between upper and lower extremity pulses—both would be weak—because the entire systemic circulation is ductal-dependent.",
+          "E": "Total anomalous pulmonary venous return presents with cyanosis and respiratory distress but would not cause absent femoral pulses or an upper-to-lower extremity blood pressure gradient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "coarctation",
+        "ductal-dependent",
+        "neonatal",
+        "differential cyanosis"
+      ]
+    },
+    {
+      "id": "chd-034",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 2-year-old child with a small, restrictive muscular ventricular septal defect has been followed with serial echocardiograms. At the initial diagnosis at age 2 months, the VSD measured 3 mm. Current echocardiography shows the defect has decreased to 1.5 mm with trivial left-to-right shunting, a Qp:Qs of 1.1:1, and normal chamber sizes. The child is asymptomatic, growing well, and meeting all developmental milestones. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Refer for surgical VSD closure to prevent endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Initiate diuretic therapy to prevent volume overload"
+        },
+        {
+          "label": "C",
+          "text": "Continued observation as the defect is likely to close spontaneously"
+        },
+        {
+          "label": "D",
+          "text": "Perform cardiac catheterization to assess pulmonary vascular resistance"
+        },
+        {
+          "label": "E",
+          "text": "Begin antibiotic prophylaxis prior to dental procedures"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Small muscular VSDs have a high rate of spontaneous closure (up to 80% by age 10). This child's defect is decreasing in size with minimal hemodynamic significance, and observation is the appropriate management.",
+        "whyCorrect": "Small, restrictive muscular VSDs commonly close spontaneously during childhood through progressive muscular hypertrophy and apposition of septal tissue. With a Qp:Qs of only 1.1:1 and a shrinking defect, there is no hemodynamic significance requiring intervention. Serial observation with periodic echocardiography is appropriate.",
+        "whyWrongByChoice": {
+          "A": "Surgical closure is not indicated for small, hemodynamically insignificant VSDs that are decreasing in size. The operative risk would outweigh any benefit. Surgery is reserved for large defects with significant shunts or heart failure.",
+          "B": "Diuretic therapy is unnecessary when there is no evidence of volume overload (normal chamber sizes, Qp:Qs 1.1:1). The child is asymptomatic with normal growth.",
+          "D": "Cardiac catheterization is invasive and unnecessary in this context. It is indicated when noninvasive assessment is inconclusive regarding pulmonary pressures or when Eisenmenger physiology is suspected—neither applies here.",
+          "E": "Current AHA guidelines (2007, reaffirmed 2021) do not recommend endocarditis prophylaxis for isolated VSDs unless there is a prior history of endocarditis or the VSD is adjacent to prosthetic material."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VSD",
+        "spontaneous closure",
+        "observation",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "chd-035",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 6-month-old infant with Down syndrome undergoes echocardiography that reveals a complete atrioventricular septal defect with a large primum ASD, a large inlet VSD, and a common AV valve. The Qp:Qs is 3:1 and estimated pulmonary artery pressure is 60 mmHg. The infant has failure to thrive and recurrent lower respiratory tract infections. The surgical team recommends repair. Which of the following postoperative complications is this patient most at risk for after surgical correction of a complete AVSD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary artery aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Supravalvular aortic stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Tricuspid valve stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary valve endocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Left AV valve (mitral) regurgitation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The most common postoperative complication after complete AVSD repair is residual or recurrent left AV valve (mitral) regurgitation. The cleft in the left AV valve is a hallmark of AVSD, and despite surgical repair of the cleft, regurgitation may persist or recur.",
+        "whyCorrect": "During AVSD repair, the common AV valve is divided into separate left and right AV valves, and the cleft in the anterior leaflet of the left AV valve is closed. However, the abnormal valve morphology (three leaflets rather than the normal two, abnormal papillary muscle arrangement) predisposes to residual regurgitation. Up to 10–15% of patients require reoperation for significant left AV valve regurgitation.",
+        "whyWrongByChoice": {
+          "A": "Coronary artery aneurysms are associated with Kawasaki disease, not AVSD repair. There is no mechanism by which AVSD surgery would cause coronary artery pathology.",
+          "B": "Supravalvular aortic stenosis is associated with Williams syndrome, not AVSD repair. It is caused by elastin gene deletion and is not a surgical complication.",
+          "C": "Tricuspid (right AV) valve stenosis is not a common complication of AVSD repair. The right-sided valve is generally less problematic than the left side after repair.",
+          "D": "Pulmonary valve endocarditis is not a recognized complication of AVSD repair. The pulmonary valve is not part of the surgical repair."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "AVSD",
+        "postoperative",
+        "mitral regurgitation",
+        "Down syndrome"
+      ]
+    },
+    {
+      "id": "chd-036",
+      "topicId": "acyanotic-chd",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "A 35-year-old woman with Eisenmenger syndrome secondary to an unrepaired large VSD presents to the obstetrics clinic at 8 weeks gestation. She reports worsening dyspnea and her baseline oxygen saturation is 80% on room air. Hemoglobin is 19.5 g/dL. Which of the following is the most appropriate counseling regarding this pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pregnancy is safe with close monitoring in the third trimester"
+        },
+        {
+          "label": "B",
+          "text": "Surgical VSD closure should be performed during the second trimester"
+        },
+        {
+          "label": "C",
+          "text": "Pregnancy carries a maternal mortality risk exceeding 30% and termination should be discussed"
+        },
+        {
+          "label": "D",
+          "text": "Bed rest and supplemental oxygen are sufficient to mitigate pregnancy risks"
+        },
+        {
+          "label": "E",
+          "text": "Initiation of warfarin anticoagulation will reduce the risk of paradoxical embolism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Eisenmenger syndrome carries the highest maternal mortality risk of any cardiac condition during pregnancy (30–50%). The physiologic changes of pregnancy (decreased SVR, increased blood volume, hypercoagulability) worsen the right-to-left shunt and can precipitate fatal cardiovascular collapse.",
+        "whyCorrect": "Pregnancy in Eisenmenger syndrome is classified as WHO class IV (extremely high risk, pregnancy contraindicated). The decrease in systemic vascular resistance during pregnancy increases right-to-left shunting and worsens cyanosis. The peripartum period is particularly dangerous due to fluid shifts and hemorrhage risk. Maternal mortality ranges from 30–50%, and termination of pregnancy should be discussed early.",
+        "whyWrongByChoice": {
+          "A": "Pregnancy is absolutely not safe in Eisenmenger syndrome. Even with intensive monitoring, the physiologic stresses of pregnancy cause unpredictable, life-threatening hemodynamic deterioration.",
+          "B": "Surgical VSD closure is contraindicated once Eisenmenger physiology has developed. The irreversible pulmonary vascular disease means that closing the defect would eliminate the pressure 'pop-off' for the right ventricle, causing acute right heart failure and death.",
+          "D": "Bed rest and supplemental oxygen do not adequately mitigate the extreme hemodynamic risks. The fundamental problem—fixed elevated pulmonary vascular resistance with right-to-left shunting—cannot be managed with conservative measures alone.",
+          "E": "Warfarin is teratogenic (category X), especially in the first trimester, causing warfarin embryopathy (nasal hypoplasia, stippled epiphyses). While anticoagulation may be considered with heparin products for thromboembolic risk, it does not address the fundamental hemodynamic danger."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Eisenmenger syndrome",
+        "pregnancy",
+        "maternal mortality",
+        "contraindication"
+      ]
+    },
+    {
+      "id": "chd-037",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A newborn male is noted to have progressive cyanosis within the first few hours of life. Oxygen saturation is 65% on 100% FiO2 by face mask and does not improve with supplemental oxygen. The infant appears tachypneic but has no respiratory distress. Chest radiograph shows an egg-shaped cardiac silhouette with a narrow mediastinum and increased pulmonary vascular markings. An urgent echocardiogram is obtained. While awaiting definitive intervention, which of the following is the most critical initial pharmacologic therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous indomethacin"
+        },
+        {
+          "label": "B",
+          "text": "Inhaled nitric oxide"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous prostaglandin E1"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous epinephrine infusion"
+        },
+        {
+          "label": "E",
+          "text": "Sodium bicarbonate bolus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The egg-shaped heart (egg-on-a-string) with narrow mediastinum is classic for transposition of the great arteries (d-TGA). This is a ductal-dependent cyanotic lesion requiring PGE1 to maintain ductal patency and allow mixing of oxygenated and deoxygenated blood while awaiting balloon atrial septostomy and subsequent arterial switch operation.",
+        "whyCorrect": "In d-TGA, the aorta arises from the right ventricle and the pulmonary artery from the left ventricle, creating parallel (rather than series) circuits. Survival depends on mixing through the PDA, foramen ovale, or both. PGE1 maintains ductal patency, improving intercirculatory mixing and increasing oxygen saturation. This is the critical bridge to balloon atrial septostomy (Rashkind procedure) and later the arterial switch operation (Jatene procedure).",
+        "whyWrongByChoice": {
+          "A": "Indomethacin promotes ductal closure and would be catastrophic in this ductal-dependent lesion. Closing the PDA would eliminate the only mixing point and lead to refractory hypoxemia and death.",
+          "B": "Inhaled nitric oxide reduces pulmonary vascular resistance and is used for persistent pulmonary hypertension of the newborn. In TGA, the problem is parallel circulations with inadequate mixing, not elevated PVR. Nitric oxide would not address the fundamental issue.",
+          "D": "Epinephrine is used for hemodynamic support in cardiogenic shock but does not address the mixing physiology needed in TGA. It would increase myocardial oxygen demand without improving oxygen delivery.",
+          "E": "Sodium bicarbonate may transiently correct metabolic acidosis but does not address the underlying cause of cyanosis. It is a temporizing measure and not a definitive intervention for TGA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "TGA",
+        "prostaglandin E1",
+        "neonatal",
+        "cyanotic CHD"
+      ]
+    },
+    {
+      "id": "chd-038",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 4-month-old infant with known tetralogy of Fallot is brought to the emergency department because of an episode of inconsolable crying followed by deep cyanosis and limpness. The mother states the infant turned 'blue all over' for approximately 10 minutes. On arrival, the infant is irritable, with oxygen saturation of 70% on room air. The previously heard systolic murmur is now inaudible. Which of the following is the most appropriate immediate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent surgical complete repair of tetralogy of Fallot"
+        },
+        {
+          "label": "B",
+          "text": "Knee-to-chest positioning, oxygen, and intravenous morphine"
+        },
+        {
+          "label": "C",
+          "text": "Immediate intubation and inhaled nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous prostaglandin E1 infusion"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous furosemide and fluid restriction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This infant is having a hypercyanotic ('tet') spell—acute dynamic infundibular spasm causing increased right-to-left shunting. The murmur disappears because there is no flow across the obstructed RVOT. Knee-to-chest positioning increases SVR, while morphine reduces agitation and relaxes the infundibulum.",
+        "whyCorrect": "The initial management of a tet spell includes: (1) knee-to-chest positioning to increase systemic vascular resistance and reduce right-to-left shunting; (2) supplemental oxygen; (3) IV morphine to reduce agitation and relax the infundibular muscle; (4) IV fluid bolus to increase preload. If these measures fail, IV phenylephrine (alpha-1 agonist) can be used to increase SVR. The murmur disappears during the spell because nearly all RV output is shunted across the VSD rather than through the obstructed RVOT.",
+        "whyWrongByChoice": {
+          "A": "Emergent surgery is not the immediate management of a tet spell. While the episode may accelerate plans for definitive surgical repair, the acute spell must first be managed medically. Emergent BT shunt may be considered if medical management fails.",
+          "C": "Inhaled nitric oxide reduces pulmonary vascular resistance and is not indicated in TOF. The problem is dynamic infundibular obstruction, not elevated PVR. Reducing PVR in the presence of a VSD could worsen the right-to-left shunt.",
+          "D": "PGE1 is used in neonates with ductal-dependent lesions. At 4 months, the ductus is typically closed and PGE1 would be ineffective. The acute problem in a tet spell is dynamic infundibular spasm, not ductal closure.",
+          "E": "Furosemide and fluid restriction would decrease preload, reducing right ventricular filling and worsening the dynamic obstruction. Volume expansion, not depletion, is part of tet spell management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tetralogy of Fallot",
+        "tet spell",
+        "hypercyanotic spell",
+        "pediatric emergency"
+      ]
+    },
+    {
+      "id": "chd-039",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 3-day-old newborn presents with severe cyanosis that does not improve with supplemental oxygen. Echocardiography reveals d-transposition of the great arteries with an intact ventricular septum and a restrictive patent foramen ovale. The infant's oxygen saturation remains 55% despite PGE1 infusion. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent arterial switch operation (Jatene procedure)"
+        },
+        {
+          "label": "B",
+          "text": "Atrial switch operation (Mustard procedure)"
+        },
+        {
+          "label": "C",
+          "text": "Placement of a Blalock-Taussig shunt"
+        },
+        {
+          "label": "D",
+          "text": "Balloon atrial septostomy (Rashkind procedure)"
+        },
+        {
+          "label": "E",
+          "text": "Extracorporeal membrane oxygenation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In d-TGA with intact ventricular septum and a restrictive PFO, the PDA alone may not provide adequate mixing. Balloon atrial septostomy (Rashkind procedure) creates a larger atrial communication to improve intercirculatory mixing, serving as a critical bridge to the arterial switch operation.",
+        "whyCorrect": "The Rashkind balloon atrial septostomy is performed at the bedside using echocardiographic guidance. A balloon catheter is advanced through the femoral vein into the left atrium via the PFO, inflated, and rapidly pulled back to tear the atrial septum. This creates a nonrestrictive atrial communication, dramatically improving oxygen saturation by enhancing mixing between the parallel circuits. The definitive arterial switch operation is then performed electively within the first 2 weeks of life.",
+        "whyWrongByChoice": {
+          "A": "The arterial switch operation is the definitive repair but is performed semi-electively (within the first 2 weeks). The infant's acute, life-threatening hypoxemia must be addressed first with balloon septostomy to stabilize the patient.",
+          "B": "The Mustard/Senning atrial switch procedures are historical operations that redirect venous return at the atrial level. They have been largely replaced by the arterial switch operation, which provides anatomic correction and better long-term outcomes.",
+          "C": "A Blalock-Taussig shunt (systemic-to-pulmonary artery shunt) is used to augment pulmonary blood flow in lesions with decreased pulmonary flow (e.g., TOF, pulmonary atresia). In TGA, pulmonary blood flow is already adequate; the problem is inadequate mixing.",
+          "E": "ECMO is reserved as a rescue therapy for refractory cardiopulmonary failure and is not the appropriate next step when a simpler, definitive intervention (balloon septostomy) can immediately improve mixing."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TGA",
+        "Rashkind procedure",
+        "balloon septostomy",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-040",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 2-month-old infant is evaluated for cyanosis and failure to thrive. Echocardiography reveals a single ventricle with a common atrioventricular valve, transposition of the great arteries, and pulmonary stenosis. After initial stabilization with a Blalock-Taussig shunt in the neonatal period, the pediatric cardiologist discusses the staged surgical approach. Which of the following is the correct sequence of palliative surgical procedures for single ventricle physiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norwood → Fontan → Glenn"
+        },
+        {
+          "label": "B",
+          "text": "Glenn → Norwood → Fontan"
+        },
+        {
+          "label": "C",
+          "text": "Norwood → Glenn → Fontan"
+        },
+        {
+          "label": "D",
+          "text": "Fontan → Glenn → Norwood"
+        },
+        {
+          "label": "E",
+          "text": "Glenn → Fontan → Norwood"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The staged palliation for single ventricle physiology follows the sequence: Stage 1 (Norwood, neonatal period) → Stage 2 (bidirectional Glenn/hemi-Fontan, 4–6 months) → Stage 3 (Fontan completion, 2–4 years).",
+        "whyCorrect": "The Norwood procedure (Stage 1) is performed in the neonatal period to establish reliable systemic blood flow and control pulmonary blood flow. The bidirectional Glenn (Stage 2) at 4–6 months connects the SVC directly to the pulmonary artery, reducing volume load on the single ventricle. The Fontan procedure (Stage 3) at 2–4 years connects the IVC to the pulmonary artery, completing the passive pulmonary circulation so that all systemic venous return flows directly to the lungs without a ventricular pump.",
+        "whyWrongByChoice": {
+          "A": "This sequence incorrectly places the Fontan before the Glenn. The Glenn is an intermediate step that allows the pulmonary vasculature to adapt to passive flow before the Fontan completion. Performing the Fontan directly after Norwood would impose too great a volume load change.",
+          "B": "The Glenn cannot be performed first because the neonate requires the Norwood to establish adequate systemic circulation. The Glenn requires stable systemic output and low pulmonary vascular resistance, which takes months to develop.",
+          "D": "This sequence is completely reversed. The Fontan is the final stage, not the first. The Norwood is the initial procedure performed in the neonatal period.",
+          "E": "This sequence omits the critical first step (Norwood) needed to establish systemic blood flow. Without initial surgical reconstruction, the infant would not survive to undergo the Glenn procedure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "single ventricle",
+        "staged palliation",
+        "Norwood",
+        "Glenn",
+        "Fontan"
+      ]
+    },
+    {
+      "id": "chd-041",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 10-day-old neonate presents with severe cyanosis, tachypnea, and poor feeding. Oxygen saturation is 72% and does not improve with 100% FiO2. Chest radiograph shows a 'snowman' or 'figure-of-eight' cardiac silhouette with increased pulmonary vascular markings. Echocardiography reveals that all four pulmonary veins drain into a vertical vein that connects to the left innominate vein and then to the superior vena cava. An obligatory right-to-left shunt is present at the atrial level. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Truncus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Total anomalous pulmonary venous return (supracardiac type)"
+        },
+        {
+          "label": "C",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "D",
+          "text": "Ebstein anomaly"
+        },
+        {
+          "label": "E",
+          "text": "Hypoplastic left heart syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The 'snowman' (figure-of-eight) silhouette is pathognomonic for supracardiac total anomalous pulmonary venous return (TAPVR), where all pulmonary veins drain into a vertical vein → left innominate vein → SVC → right atrium, creating the widened superior mediastinum that forms the 'snowman's head.'",
+        "whyCorrect": "In supracardiac TAPVR, all pulmonary venous blood returns to the right atrium via the SVC. The dilated vertical vein and SVC create the widened superior mediastinum (snowman's head), while the heart forms the body. Since no pulmonary venous blood reaches the left atrium directly, an ASD or PFO is obligatory for left heart filling and systemic output. Surgical correction involves anastomosis of the pulmonary venous confluence to the left atrium.",
+        "whyWrongByChoice": {
+          "A": "Truncus arteriosus presents with a single great vessel overriding both ventricles, cyanosis, and a systolic ejection murmur. The chest radiograph typically shows cardiomegaly with increased pulmonary markings but not a snowman silhouette.",
+          "C": "Tricuspid atresia presents with cyanosis, a hypoplastic right ventricle, and obligatory left-to-right shunt at the atrial level (right-to-left through an ASD). Chest radiograph shows decreased pulmonary vascular markings in most cases, not the snowman sign.",
+          "D": "Ebstein anomaly involves apical displacement of the tricuspid valve with atrialization of the right ventricle. CXR shows massive cardiomegaly ('wall-to-wall heart'), not a snowman silhouette.",
+          "E": "Hypoplastic left heart syndrome presents with cyanosis and shock when the ductus closes but has a different CXR appearance with cardiomegaly and pulmonary edema, not the snowman sign."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TAPVR",
+        "snowman sign",
+        "cyanotic CHD",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-042",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 6-hour-old newborn is found to have central cyanosis and oxygen saturation of 75%. The infant was born to a mother with poorly controlled gestational diabetes. Echocardiography reveals that the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle. The ventricular septum is intact. Which of the following embryologic mechanisms is most likely responsible for this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the aorticopulmonary septum to spiral during truncal division"
+        },
+        {
+          "label": "B",
+          "text": "Failure of endocardial cushion fusion"
+        },
+        {
+          "label": "C",
+          "text": "Abnormal neural crest cell migration to the outflow tract"
+        },
+        {
+          "label": "D",
+          "text": "Premature closure of the foramen ovale"
+        },
+        {
+          "label": "E",
+          "text": "Failure of the bulbus cordis to resorb"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "D-transposition of the great arteries results from failure of the aorticopulmonary (conotruncal) septum to undergo its normal spiral (approximately 180°) during cardiac development, resulting in the aorta and pulmonary artery arising from the wrong ventricles.",
+        "whyCorrect": "During normal development, the conotruncal septum spirals as it divides the truncus arteriosus into the aorta and pulmonary artery, ensuring that the aorta connects to the left ventricle and the PA to the right ventricle. In d-TGA, the septum forms straight (without spiraling), so the aorta remains connected to the anterior right ventricle and the PA to the posterior left ventricle, creating parallel rather than series circulations.",
+        "whyWrongByChoice": {
+          "B": "Failure of endocardial cushion fusion results in atrioventricular septal defects (primum ASD, inlet VSD, common AV valve), which are associated with Down syndrome. This mechanism does not affect great vessel positioning.",
+          "C": "Neural crest cell migration abnormalities cause conotruncal defects such as persistent truncus arteriosus, tetralogy of Fallot, and interrupted aortic arch (associated with DiGeorge syndrome). While neural crest cells contribute to outflow tract development, TGA is specifically due to failure of septal spiraling.",
+          "D": "Premature closure of the foramen ovale can cause hypoplastic left heart syndrome by restricting left atrial flow and left ventricular development, not transposition of the great vessels.",
+          "E": "The bulbus cordis contributes to the right ventricular outflow tract. Its failure to resorb is not the mechanism underlying TGA; rather, it is the orientation of the conotruncal septum that determines great vessel connections."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TGA",
+        "embryology",
+        "conotruncal septum",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-043",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 3-month-old infant presents with gradually worsening cyanosis. Echocardiography reveals a large VSD with overriding aorta, right ventricular hypertrophy, and severe infundibular and valvular pulmonary stenosis with a pulmonary annulus Z-score of -4. The infant weighs 3.8 kg and has oxygen saturations of 72%. The surgical team determines that primary complete repair carries excessive risk due to the severely hypoplastic pulmonary annulus. Which of the following palliative procedures is most appropriate as an initial surgical intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary artery band placement"
+        },
+        {
+          "label": "B",
+          "text": "Modified Blalock-Taussig shunt"
+        },
+        {
+          "label": "C",
+          "text": "Bidirectional Glenn anastomosis"
+        },
+        {
+          "label": "D",
+          "text": "Rastelli procedure"
+        },
+        {
+          "label": "E",
+          "text": "Damus-Kaye-Stansel procedure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A modified Blalock-Taussig (mBT) shunt is the appropriate palliative procedure for TOF with severe pulmonary stenosis/hypoplastic pulmonary annulus when complete repair is not feasible. It provides a reliable source of pulmonary blood flow by connecting the subclavian artery to the pulmonary artery via a Gore-Tex graft.",
+        "whyCorrect": "The modified BT shunt uses a Gore-Tex interposition graft between the subclavian (or innominate) artery and the ipsilateral pulmonary artery. This provides controlled pulmonary blood flow, improves oxygenation, and promotes pulmonary artery growth, allowing definitive complete repair at a later date when the child is larger and the pulmonary arteries have grown.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary artery banding restricts pulmonary blood flow and is used in lesions with excessive pulmonary flow (e.g., large VSD without pulmonary stenosis). In TOF, pulmonary flow is already restricted by the RVOT obstruction; banding would be catastrophic.",
+          "C": "The bidirectional Glenn connects the SVC to the PA and is used in single ventricle palliation (Stage 2). It is not appropriate for TOF, which has two functional ventricles and will undergo biventricular repair.",
+          "D": "The Rastelli procedure involves placing an RV-to-PA conduit and closing the VSD. It is used for TOF with pulmonary atresia or in certain TGA variants but is a more definitive procedure typically performed when the child is larger, not as an initial palliative procedure in a 3.8-kg infant.",
+          "E": "The Damus-Kaye-Stansel procedure connects the proximal main pulmonary artery to the ascending aorta, used in complex single ventricle lesions with subaortic obstruction. It is not applicable to standard TOF physiology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tetralogy of Fallot",
+        "BT shunt",
+        "palliative surgery",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "chd-044",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 2-day-old neonate presents with severe cyanosis, respiratory distress, and metabolic acidosis. Prostaglandin E1 is initiated. Echocardiography reveals a severely hypoplastic left ventricle with mitral atresia, aortic atresia, and a hypoplastic ascending aorta. Systemic blood flow is entirely dependent on right-to-left flow through a large PDA. Which of the following best describes the initial surgical management for this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biventricular repair with aortic and mitral valve replacement"
+        },
+        {
+          "label": "B",
+          "text": "Orthotopic heart transplantation"
+        },
+        {
+          "label": "C",
+          "text": "Norwood procedure with systemic-to-pulmonary artery shunt"
+        },
+        {
+          "label": "D",
+          "text": "Arterial switch operation with VSD closure"
+        },
+        {
+          "label": "E",
+          "text": "Bidirectional Glenn with atrial septectomy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypoplastic left heart syndrome (HLHS) requires staged single-ventricle palliation. The Norwood procedure (Stage 1) is performed in the neonatal period to reconstruct the aortic arch using the native pulmonary artery, create an unobstructed systemic outflow, and provide controlled pulmonary blood flow.",
+        "whyCorrect": "The Norwood procedure involves: (1) dividing the main PA and connecting the proximal PA to the neo-aorta (reconstructed with the hypoplastic native aorta and homograft); (2) atrial septectomy to ensure unrestricted pulmonary venous return to the right atrium; (3) establishing pulmonary blood flow via a modified BT shunt or Sano shunt (RV-to-PA conduit). This creates a single right ventricle-dependent circulation.",
+        "whyWrongByChoice": {
+          "A": "Biventricular repair is impossible because the left ventricle, mitral valve, and aortic valve are severely hypoplastic or atretic. There is insufficient left-sided heart structure to support a biventricular circulation.",
+          "B": "Heart transplantation is an alternative to the Norwood pathway but is not the standard initial approach due to donor organ scarcity for neonates and long wait times. It may be considered for high-risk patients or those who fail staged palliation.",
+          "D": "The arterial switch operation is for d-TGA, not HLHS. It requires two functional ventricles and does not address the fundamental problem of HLHS—absence of a functional left ventricle.",
+          "E": "The bidirectional Glenn is Stage 2 of single-ventricle palliation, performed at 4–6 months of age. It cannot be performed first because the neonate's pulmonary vascular resistance is too high for passive pulmonary blood flow, and the systemic circulation has not yet been reconstructed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HLHS",
+        "Norwood procedure",
+        "single ventricle",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-045",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 7-year-old boy with repaired tetralogy of Fallot (complete repair at age 6 months) presents for routine follow-up. He is asymptomatic but has noticed decreasing exercise tolerance over the past year. On examination, there is a grade 3/6 low-pitched diastolic decrescendo murmur at the left upper sternal border. ECG shows a QRS duration of 170 ms with a right bundle branch block pattern. Cardiac MRI reveals severe right ventricular dilation with a right ventricular end-diastolic volume index of 170 mL/m² and a right ventricular ejection fraction of 38%. Which of the following is the most likely cause of this patient's findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Residual ventricular septal defect with left-to-right shunting"
+        },
+        {
+          "label": "B",
+          "text": "Acquired pulmonary artery branch stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Recurrent infundibular stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Aortic root dilation with aortic regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Severe pulmonary regurgitation from the prior RVOT patch repair"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic severe pulmonary regurgitation is the most common long-term sequela after TOF repair with transannular patch. The diastolic murmur at the left upper sternal border, progressive RV dilation, RV dysfunction, and prolonged QRS duration are classic findings indicating the need for pulmonary valve replacement.",
+        "whyCorrect": "Transannular patch repair of TOF relieves RVOT obstruction but sacrifices pulmonary valve competence, leading to 'free' pulmonary regurgitation. Over years, the chronic volume overload causes progressive RV dilation and dysfunction. A QRS duration >180 ms is a risk factor for ventricular arrhythmias and sudden death. Pulmonary valve replacement (surgical or transcatheter) is indicated for severe PR with RV dilation (RVEDVI >160 mL/m²) or declining RV function.",
+        "whyWrongByChoice": {
+          "A": "A residual VSD with left-to-right shunting would cause a holosystolic murmur, not a diastolic decrescendo murmur. It would cause left ventricular volume overload and left atrial dilation, not isolated RV dilation.",
+          "B": "Branch pulmonary artery stenosis produces a continuous murmur radiating to the back and lung fields. While it can cause RV pressure overload, the diastolic murmur at the left upper sternal border and RV volume overload pattern are more consistent with pulmonary regurgitation.",
+          "C": "Recurrent infundibular stenosis would produce a systolic ejection murmur, not a diastolic murmur. It would cause RV hypertrophy and pressure overload rather than the volume-overloaded, dilated RV seen here.",
+          "D": "Aortic root dilation does occur after TOF repair but presents with an early diastolic murmur at the right sternal border. It causes LV dilation, not RV dilation. The cardiac MRI findings point specifically to RV pathology."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tetralogy of Fallot",
+        "pulmonary regurgitation",
+        "long-term follow-up",
+        "pediatric"
+      ]
+    },
+    {
+      "id": "chd-046",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 1-day-old neonate with known prenatal diagnosis of tricuspid atresia is evaluated. Echocardiography confirms tricuspid atresia with normally related great arteries, a restrictive VSD, and reduced pulmonary blood flow. The oxygen saturation is 70% on room air. Prostaglandin E1 is started. Which of the following ECG findings is most expected in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right axis deviation with right ventricular hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Left axis deviation with left ventricular hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Normal axis with biventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Right axis deviation with right atrial enlargement"
+        },
+        {
+          "label": "E",
+          "text": "Extreme axis deviation (northwest axis) with low voltage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tricuspid atresia classically shows left axis deviation (superior axis) and left ventricular hypertrophy on ECG. Because the tricuspid valve is atretic, the right ventricle is hypoplastic, and all systemic and pulmonary venous blood must pass through the left atrium and left ventricle.",
+        "whyCorrect": "In tricuspid atresia, the absent tricuspid valve prevents blood from entering the right ventricle, which becomes hypoplastic. All blood flows from the right atrium through an obligatory ASD to the left atrium and left ventricle. The LV handles the entire cardiac output, leading to LVH. The superior (leftward) axis results from the hypoplastic RV and abnormal conduction through the hypoplastic ventricular septum. This ECG pattern (left axis + LVH in a cyanotic neonate) is nearly pathognomonic for tricuspid atresia.",
+        "whyWrongByChoice": {
+          "A": "Right axis deviation with RVH is the opposite of what is expected. It would be seen in conditions with RV pressure or volume overload (e.g., ASD, tetralogy of Fallot, pulmonary hypertension). The hypoplastic RV in tricuspid atresia cannot generate right-sided forces.",
+          "C": "Biventricular hypertrophy would suggest both ventricles are significantly loaded, as in a large VSD or AVSD. In tricuspid atresia, the RV is hypoplastic and cannot develop hypertrophy.",
+          "D": "Right atrial enlargement (tall P waves in lead II) may be present but right axis deviation would not be expected. The dominant ECG feature is left axis deviation due to the hypoplastic RV and LVH.",
+          "E": "Northwest axis (extreme axis deviation) is associated with AV septal defects or ventricular tachycardia. Low voltage suggests pericardial effusion or myocarditis. Neither pattern is characteristic of tricuspid atresia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tricuspid atresia",
+        "ECG",
+        "left axis deviation",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-047",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 4-year-old boy with a history of uncorrected tetralogy of Fallot is brought to the emergency department after his parents noticed he was squatting during play. The child frequently assumes a squatting position when playing with other children. Which of the following best explains the physiologic benefit of squatting in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreases venous return to the right heart, reducing right-to-left shunting"
+        },
+        {
+          "label": "B",
+          "text": "Enhances left ventricular contractility through the Frank-Starling mechanism"
+        },
+        {
+          "label": "C",
+          "text": "Increases pulmonary vascular resistance, directing more blood through the lungs"
+        },
+        {
+          "label": "D",
+          "text": "Increases systemic vascular resistance, reducing right-to-left shunting across the VSD"
+        },
+        {
+          "label": "E",
+          "text": "Compresses the inferior vena cava, reducing preload and oxygen consumption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Squatting kinks the large femoral arteries, acutely increasing systemic vascular resistance (SVR). This increases left ventricular and aortic pressure relative to right ventricular pressure, thereby reducing the right-to-left shunt across the VSD and directing more deoxygenated blood through the RVOT into the lungs.",
+        "whyCorrect": "In TOF, the degree of right-to-left shunting is determined by the ratio of pulmonary vascular resistance (PVR) plus RVOT obstruction to systemic vascular resistance (SVR). By increasing SVR through femoral artery compression, squatting makes it relatively easier for blood to flow through the obstructed RVOT into the pulmonary circulation rather than shunting right-to-left. This increases pulmonary blood flow and improves oxygenation. Squatting also increases venous return by compressing venous capacitance in the legs.",
+        "whyWrongByChoice": {
+          "A": "Squatting actually increases venous return by compressing the venous capacitance beds in the legs. Decreased venous return would reduce cardiac output and worsen hemodynamics.",
+          "B": "While squatting does increase preload somewhat (which may mildly improve LV output via Frank-Starling), the primary and most important mechanism is the increase in SVR that reduces the right-to-left shunt fraction.",
+          "C": "Increased PVR would worsen right-to-left shunting, not improve it. The beneficial effect of squatting is through increasing SVR, not PVR.",
+          "E": "Squatting compresses the femoral arteries (increasing SVR), not primarily the IVC. It actually increases rather than decreases venous return. Reducing preload would worsen cardiac output."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "tetralogy of Fallot",
+        "squatting",
+        "SVR",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "chd-048",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 15-year-old boy with a history of Fontan palliation completed at age 3 for tricuspid atresia presents with progressive abdominal distension, peripheral edema, and protein-losing enteropathy. Serum albumin is 1.8 g/dL. His Fontan circuit pressures are elevated at 18 mmHg. Which of the following pathophysiologic mechanisms best explains this patient's protein-losing enteropathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic synthetic failure from cardiac cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic mesenteric venous hypertension causing intestinal lymphatic dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune enteropathy triggered by chronic cyanosis"
+        },
+        {
+          "label": "D",
+          "text": "Malabsorption from celiac disease associated with congenital heart defects"
+        },
+        {
+          "label": "E",
+          "text": "Nephrotic syndrome from chronic renal hypoperfusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Protein-losing enteropathy (PLE) is a devastating complication affecting 5–15% of Fontan patients. Elevated Fontan circuit pressures cause chronic mesenteric venous hypertension, leading to intestinal lymphatic congestion, inflammation, and loss of protein-rich lymphatic fluid into the intestinal lumen.",
+        "whyCorrect": "In Fontan physiology, systemic venous pressure is chronically elevated because the passive pulmonary blood flow circuit lacks a subpulmonary ventricle. Elevated central venous pressure is transmitted to the mesenteric veins and intestinal lymphatics, causing lymphatic dilation, dysfunction, and leakage of protein-rich lymph into the gut lumen. The resulting hypoalbuminemia causes peripheral edema, ascites, and immunodeficiency (from immunoglobulin loss). Treatment is challenging and may ultimately require heart transplantation.",
+        "whyWrongByChoice": {
+          "A": "While Fontan patients do develop cardiac cirrhosis over time from chronic hepatic venous congestion, the primary mechanism of PLE is intestinal lymphatic dysfunction, not hepatic synthetic failure. The liver can maintain albumin synthesis unless cirrhosis is advanced.",
+          "C": "There is no established autoimmune mechanism for PLE in Fontan patients. The pathophysiology is primarily hemodynamic (elevated venous pressures) and lymphatic, not immunologic.",
+          "D": "Celiac disease is not associated with congenital heart defects or Fontan palliation. PLE in Fontan patients is a distinct entity caused by hemodynamic and lymphatic mechanisms.",
+          "E": "While renal dysfunction can occur in Fontan patients from chronic low cardiac output, nephrotic syndrome presents with proteinuria and lipiduria. The protein loss in Fontan-associated PLE is gastrointestinal, not renal."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Fontan",
+        "protein-losing enteropathy",
+        "tricuspid atresia",
+        "long-term complications"
+      ]
+    },
+    {
+      "id": "chd-049",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 5-day-old neonate born to a mother with poorly controlled pregestational diabetes presents with cyanosis and respiratory distress. Echocardiography shows a single arterial trunk overriding both ventricles, a large outlet VSD directly beneath the trunk, and a single semilunar (truncal) valve with four leaflets. No separate pulmonary artery origin from the heart is identified; instead, the branch pulmonary arteries arise directly from the common trunk. Which of the following embryologic defects is responsible for this malformation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of aorticopulmonary septation due to abnormal neural crest cell migration"
+        },
+        {
+          "label": "B",
+          "text": "Failure of endocardial cushion development"
+        },
+        {
+          "label": "C",
+          "text": "Abnormal looping of the primitive heart tube"
+        },
+        {
+          "label": "D",
+          "text": "Failure of septum primum to fuse with the endocardial cushions"
+        },
+        {
+          "label": "E",
+          "text": "Premature regression of the left fourth aortic arch"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Persistent truncus arteriosus results from complete failure of the aorticopulmonary septum to develop, leaving a single great vessel that supplies the systemic, pulmonary, and coronary circulations. This is caused by abnormal neural crest cell migration to the conotruncal region.",
+        "whyCorrect": "Neural crest cells are critical for aorticopulmonary septation. When their migration is disrupted (as in DiGeorge syndrome/22q11 deletion), the conotruncal septum fails to form, resulting in a persistent single trunk. The single truncal valve (often dysplastic with 2–5 leaflets) sits above a large outlet VSD. Truncus arteriosus is classified by the origin of the pulmonary arteries from the common trunk (Type I–IV, Collett-Edwards classification).",
+        "whyWrongByChoice": {
+          "B": "Endocardial cushion defects cause atrioventricular septal defects (primum ASD, inlet VSD, common AV valve), not truncus arteriosus. The endocardial cushions are involved in AV valve and septal formation, not outflow tract septation.",
+          "C": "Abnormal looping of the heart tube results in dextrocardia or situs inversus, not truncus arteriosus. Looping determines the left-right orientation of cardiac chambers.",
+          "D": "Failure of the septum primum to fuse with endocardial cushions results in a primum ASD (ostium primum defect), not truncus arteriosus.",
+          "E": "Premature regression of the left fourth aortic arch would result in a right-sided aortic arch or interrupted aortic arch, not persistent truncus arteriosus. The fourth arch gives rise to the definitive aortic arch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "truncus arteriosus",
+        "neural crest",
+        "embryology",
+        "neonatal"
+      ]
+    },
+    {
+      "id": "chd-050",
+      "topicId": "cyanotic-chd",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "A 2-week-old infant presents with progressively worsening cyanosis and feeding difficulty. Echocardiography reveals severe downward displacement of the septal and posterior tricuspid valve leaflets into the right ventricle, with a massively dilated right atrium. The functional right ventricular cavity is severely reduced. An ASD with right-to-left shunting is present. Chest radiograph shows massive cardiomegaly with a 'wall-to-wall' heart appearance and decreased pulmonary vascular markings. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "B",
+          "text": "Tetralogy of Fallot with absent pulmonary valve"
+        },
+        {
+          "label": "C",
+          "text": "Ebstein anomaly"
+        },
+        {
+          "label": "D",
+          "text": "Total anomalous pulmonary venous return"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary atresia with intact ventricular septum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ebstein anomaly is characterized by apical displacement of the septal and posterior tricuspid valve leaflets, 'atrialization' of a portion of the right ventricle, massive right atrial dilation, and a wall-to-wall heart on CXR. The functional RV is small, and right-to-left shunting occurs through an ASD or PFO.",
+        "whyCorrect": "In Ebstein anomaly, the septal and posterior leaflets of the tricuspid valve are displaced apically into the RV, creating an 'atrialized' portion of the RV that functions as part of the right atrium. This results in massive RA dilation, severe tricuspid regurgitation, a small functional RV, and reduced forward pulmonary blood flow. The enormous right atrium produces the characteristic 'wall-to-wall' cardiac silhouette on CXR. Cyanosis results from right-to-left shunting through the ASD. It is associated with maternal lithium exposure during pregnancy.",
+        "whyWrongByChoice": {
+          "A": "Tricuspid atresia involves absence of the tricuspid valve with a hypoplastic RV. The tricuspid valve is present (though displaced) in Ebstein anomaly. Tricuspid atresia shows left axis deviation and LVH on ECG, whereas Ebstein shows right atrial enlargement and RBBB.",
+          "B": "TOF with absent pulmonary valve presents with massive pulmonary artery dilation causing airway compression (respiratory distress) and a to-and-fro murmur. The characteristic findings are dilated PAs, not a wall-to-wall heart from RA dilation.",
+          "D": "TAPVR presents with cyanosis and may have a 'snowman' sign on CXR (supracardiac type) or normal heart size with pulmonary edema (infracardiac type). It does not feature massive cardiomegaly from right atrial dilation or displaced tricuspid valve leaflets.",
+          "E": "Pulmonary atresia with intact ventricular septum presents with cyanosis and ductal-dependent pulmonary blood flow, but the tricuspid valve is in the normal position (though often regurgitant). The RV may be hypertrophied rather than atrialized, and CXR shows decreased pulmonary markings without the characteristic wall-to-wall heart."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "Ebstein anomaly",
+        "tricuspid valve",
+        "wall-to-wall heart",
+        "neonatal"
+      ]
+    }
+  ]
+}

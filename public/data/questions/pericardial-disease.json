@@ -1,0 +1,978 @@
+{
+  "categoryId": "pericardial-disease",
+  "categoryName": "Pericardial Disease",
+  "questions": [
+    {
+      "id": "pd-001",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 28-year-old man presents to the emergency department with sharp, substernal chest pain that worsens with inspiration and when lying supine. He reports that leaning forward provides some relief. He had an upper respiratory infection 2 weeks ago. His temperature is 38.1\u00b0C (100.6\u00b0F), blood pressure is 128/78 mmHg, and heart rate is 96/min. On auscultation, a high-pitched scratching sound is heard best at the left sternal border with the patient leaning forward. An ECG is obtained. Which of the following ECG findings is most likely present?",
+      "choices": [
+        { "label": "A", "text": "ST elevation in leads V1-V4 with reciprocal ST depression in leads II, III, aVF" },
+        { "label": "B", "text": "ST depression and T-wave inversions in leads I, aVL, V5-V6" },
+        { "label": "C", "text": "Tall peaked T waves with shortened QT interval in precordial leads" },
+        { "label": "D", "text": "Diffuse ST elevation with PR depression in most leads" },
+        { "label": "E", "text": "Low-voltage QRS complexes with electrical alternans in all leads" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acute pericarditis classically produces diffuse, concave-upward (\"saddleback\") ST elevation with PR-segment depression across most leads (except aVR, which shows PR elevation and ST depression). This pattern reflects diffuse epicardial inflammation rather than a localized coronary territory.",
+        "whyCorrect": "The diffuse ST elevation with PR depression is pathognomonic for acute pericarditis and reflects inflammation of the epicardium. Unlike MI, the changes are not confined to a single coronary artery territory, and reciprocal changes are absent (except in aVR). The PR depression results from atrial epicardial inflammation affecting atrial repolarization.",
+        "whyWrongByChoice": {
+          "A": "Localized ST elevation with reciprocal depression in the inferior leads suggests an acute anterior STEMI caused by LAD occlusion, not the diffuse inflammatory pattern of pericarditis.",
+          "B": "ST depression with T-wave inversions in lateral leads suggests subendocardial ischemia or non-ST elevation acute coronary syndrome, not pericarditis.",
+          "C": "Tall peaked T waves with shortened QT interval are characteristic of hyperkalemia, an electrolyte disturbance unrelated to pericardial inflammation.",
+          "E": "Low-voltage QRS with electrical alternans is characteristic of large pericardial effusion with cardiac tamponade, not uncomplicated acute pericarditis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-002",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 35-year-old woman is diagnosed with acute pericarditis after presenting with pleuritic chest pain, a pericardial friction rub, and diffuse ST elevation on ECG. She is started on ibuprofen 600 mg three times daily. One week later, her symptoms have partially improved but have not fully resolved. Which of the following medications should be added to her regimen to reduce the risk of recurrence?",
+      "choices": [
+        { "label": "A", "text": "Prednisone 0.5 mg/kg daily for 4 weeks" },
+        { "label": "B", "text": "Azathioprine 1 mg/kg daily for 6 months" },
+        { "label": "C", "text": "Colchicine 0.5 mg twice daily for 3 months" },
+        { "label": "D", "text": "Methotrexate 15 mg weekly for 12 weeks" },
+        { "label": "E", "text": "Aspirin 81 mg daily as maintenance therapy" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Colchicine is recommended as adjunctive therapy alongside NSAIDs for the initial episode of acute pericarditis. The COPE and COPE-2 trials demonstrated that colchicine significantly reduces the rate of recurrent pericarditis when added to standard anti-inflammatory therapy.",
+        "whyCorrect": "Colchicine inhibits microtubule polymerization, reducing neutrophil chemotaxis and inflammasome activation. When added to NSAIDs for a first episode of acute pericarditis, it reduces recurrence rates from approximately 30-50% to 15-20%. The recommended duration is 3 months for a first episode.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids are reserved for cases refractory to NSAIDs and colchicine, or when both are contraindicated. Early use of corticosteroids is associated with increased recurrence rates and should be avoided as first-line adjunctive therapy.",
+          "B": "Azathioprine is a steroid-sparing immunosuppressant reserved for refractory or corticosteroid-dependent recurrent pericarditis, not appropriate as initial adjunctive therapy.",
+          "D": "Methotrexate may be considered in refractory recurrent pericarditis as a steroid-sparing agent but is not part of first-line or second-line treatment for an initial episode.",
+          "E": "Low-dose aspirin (81 mg) is insufficient for treating acute pericarditis. Anti-inflammatory doses of aspirin (750-1000 mg TID) or NSAIDs are required for the anti-inflammatory effect."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-003",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 42-year-old man with end-stage renal disease on hemodialysis presents with progressive chest pain over 3 days. Physical examination reveals a pericardial friction rub. ECG shows diffuse low-voltage QRS complexes but no ST-segment changes. Laboratory studies show BUN 98 mg/dL and creatinine 9.2 mg/dL. Echocardiography reveals a small pericardial effusion. Which of the following best explains the absence of typical ECG findings in this patient's pericarditis?",
+      "choices": [
+        { "label": "A", "text": "The pericardial effusion is insulating the myocardium from the recording electrodes" },
+        { "label": "B", "text": "Concurrent hyperkalemia is masking the ST elevation with tall T waves" },
+        { "label": "C", "text": "Dialysis has corrected the electrolyte imbalances that cause ECG changes" },
+        { "label": "D", "text": "The pericarditis is in the chronic stage with T-wave normalization" },
+        { "label": "E", "text": "Uremic pericarditis produces fibrinous inflammation without significant epicardial injury" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Uremic pericarditis is characterized by fibrinous inflammation of the pericardium without significant underlying epicardial myocardial injury. Because the ST-segment and PR-segment changes in pericarditis result from epicardial myocardial inflammation (epicardial injury currents), their absence in uremic pericarditis reflects the lack of myocardial involvement.",
+        "whyCorrect": "Uremic pericarditis causes fibrinous exudation and pericardial inflammation but typically spares the epicardial myocardium. The classic ECG findings of pericarditis (diffuse ST elevation, PR depression) are caused by epicardial injury currents from inflamed myocardium beneath the pericardium. Without epicardial involvement, these ECG changes do not develop.",
+        "whyWrongByChoice": {
+          "A": "While large pericardial effusions can cause low-voltage QRS, a small effusion is insufficient to significantly insulate the heart. Low voltage in this case is more likely from the uremic state. This does not explain the absence of ST changes.",
+          "B": "Although ESRD patients may have hyperkalemia, there is no mention of elevated potassium or peaked T waves. Hyperkalemia would produce its own characteristic ECG pattern rather than simply masking ST elevation.",
+          "C": "Dialysis does not prevent or reverse pericardial inflammation. Furthermore, the patient is symptomatic with active pericarditis, indicating ongoing disease despite dialysis.",
+          "D": "The 3-day symptom onset indicates acute disease, not chronic pericarditis. Additionally, T-wave normalization is a late finding in the natural progression of typical viral pericarditis ECG changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-004",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 55-year-old man presents 3 weeks after an ST-elevation myocardial infarction with fever, pleuritic chest pain, and malaise. On examination, a pericardial friction rub is heard. Laboratory results show elevated ESR and CRP. Echocardiography reveals a small pericardial effusion. Which of the following is the most likely underlying mechanism for this patient's condition?",
+      "choices": [
+        { "label": "A", "text": "Autoimmune response against exposed cardiac antigens" },
+        { "label": "B", "text": "Direct viral cytopathic injury to the pericardium" },
+        { "label": "C", "text": "Extension of transmural infarction to the pericardium" },
+        { "label": "D", "text": "Hematogenous bacterial seeding of damaged pericardium" },
+        { "label": "E", "text": "Reactivation of latent tuberculosis in the pericardium" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient's presentation 3 weeks post-MI with fever, pleuritic chest pain, pericardial friction rub, and elevated inflammatory markers is classic for Dressler syndrome (post-myocardial infarction syndrome). It results from an autoimmune response against cardiac antigens released during myocardial necrosis.",
+        "whyCorrect": "Dressler syndrome occurs 2-10 weeks after MI and is caused by an autoimmune reaction. Myocardial necrosis exposes intracellular cardiac antigens (such as cardiac myosin) to the immune system, triggering an antibody-mediated and cell-mediated inflammatory response directed against the pericardium, pleura, and lung parenchyma.",
+        "whyWrongByChoice": {
+          "B": "Viral pericarditis is the most common cause of acute pericarditis in the general population but does not explain pericarditis occurring specifically 3 weeks after an MI with the classic Dressler syndrome timeline.",
+          "C": "Direct pericardial involvement from transmural infarction (epistenocardiac pericarditis) typically occurs within 1-3 days of the MI, not weeks later. This early post-MI pericarditis is localized and does not involve systemic inflammatory features.",
+          "D": "Bacterial (purulent) pericarditis is rare and typically occurs in immunocompromised patients or via direct extension from pneumonia or surgery. The post-MI timing and clinical features are not consistent with bacterial pericarditis.",
+          "E": "Tuberculous pericarditis develops over weeks to months and is associated with risk factors such as HIV or endemic exposure. There is no indication of TB risk factors, and the temporal relationship to MI points to Dressler syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-005",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 22-year-old man presents with acute-onset pleuritic chest pain, low-grade fever, and diffuse ST elevation on ECG. Troponin I is mildly elevated at 0.15 ng/mL (normal <0.04 ng/mL). Echocardiography shows normal left ventricular function and a trivial pericardial effusion. Which of the following best explains the troponin elevation in this patient?",
+      "choices": [
+        { "label": "A", "text": "Concurrent type 1 myocardial infarction from coronary thrombosis" },
+        { "label": "B", "text": "Extension of pericardial inflammation to the adjacent epicardial myocardium" },
+        { "label": "C", "text": "Demand ischemia from tachycardia and fever causing type 2 MI" },
+        { "label": "D", "text": "Laboratory cross-reactivity between CRP and troponin I assay" },
+        { "label": "E", "text": "Troponin release from inflamed skeletal muscle in the chest wall" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mild troponin elevation in acute pericarditis indicates involvement of the superficial epicardial myocardium (myopericarditis). The pericardial inflammation extends to the adjacent myocardium, causing localized myocyte injury and troponin release without the wall motion abnormalities seen in coronary-mediated infarction.",
+        "whyCorrect": "When pericarditis involves the superficial layer of the myocardium (epicardium), it is termed myopericarditis. This explains mild troponin elevations in 30-50% of acute pericarditis cases. The preserved LV function differentiates this from significant myocardial infarction. The inflammation is epicardial rather than transmural.",
+        "whyWrongByChoice": {
+          "A": "Type 1 MI from coronary thrombosis would typically present with localized ST changes corresponding to a coronary territory and regional wall motion abnormalities, not diffuse ST elevation with normal LV function in a 22-year-old.",
+          "C": "Type 2 MI from demand ischemia typically occurs in patients with underlying coronary artery disease and presents with ST depression rather than diffuse ST elevation. A mildly elevated heart rate from low-grade fever is insufficient to cause demand ischemia in a young patient.",
+          "D": "Modern troponin assays are highly specific for cardiac troponin and do not cross-react with CRP or other inflammatory markers. This is not a recognized cause of false-positive troponin results.",
+          "E": "Troponin I is cardiac-specific and is not released from skeletal muscle. Unlike troponin T, which has a skeletal muscle isoform that can rarely cause false positives, troponin I is not expressed in skeletal muscle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-006",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 60-year-old woman with metastatic breast cancer presents with progressive dyspnea and dull chest discomfort over 2 weeks. She denies pleuritic pain or positional symptoms. Physical examination reveals distant heart sounds and jugular venous distension. ECG shows sinus tachycardia with low-voltage QRS complexes. Which of the following features most strongly distinguishes malignant pericardial disease from viral pericarditis?",
+      "choices": [
+        { "label": "A", "text": "Presence of a pericardial friction rub on auscultation" },
+        { "label": "B", "text": "Elevated erythrocyte sedimentation rate and C-reactive protein" },
+        { "label": "C", "text": "Sinus tachycardia on electrocardiographic monitoring" },
+        { "label": "D", "text": "Absence of classic pleuritic chest pain and friction rub" },
+        { "label": "E", "text": "Presence of ST-segment elevation on electrocardiogram" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Malignant pericardial disease often presents insidiously with effusion-related symptoms (dyspnea, distant heart sounds, JVD) rather than the classic inflammatory features of viral pericarditis (pleuritic pain, friction rub, ST elevation). The effusion accumulates gradually as malignant cells infiltrate and irritate the pericardium.",
+        "whyCorrect": "Malignant pericarditis frequently lacks the classic triad of pericarditis (pleuritic chest pain, friction rub, diffuse ST elevation) because the primary pathology is fluid accumulation from tumor invasion or lymphatic obstruction rather than acute inflammatory epicardial injury. Patients present with hemodynamic symptoms from effusion rather than inflammatory pain.",
+        "whyWrongByChoice": {
+          "A": "A pericardial friction rub can occur in any type of pericarditis, including malignant, but is more consistently present in acute inflammatory (viral/idiopathic) pericarditis. Its presence does not distinguish between etiologies.",
+          "B": "Elevated ESR and CRP are nonspecific markers of inflammation that can be elevated in both viral pericarditis and malignancy-associated pericardial disease, as well as in the underlying malignancy itself.",
+          "C": "Sinus tachycardia is a nonspecific finding that can accompany any form of pericardial disease, as well as many other conditions including pain, fever, anemia, and malignancy.",
+          "E": "ST-segment elevation reflects epicardial inflammation and is more characteristic of viral/inflammatory pericarditis. Its presence would argue against a purely malignant effusion without significant inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-007",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 38-year-old man is being treated for a first episode of acute idiopathic pericarditis with ibuprofen and colchicine. After 1 week of treatment, his symptoms have resolved and inflammatory markers have normalized. He asks when he can return to competitive soccer. Which of the following is the most appropriate recommendation?",
+      "choices": [
+        { "label": "A", "text": "He may return to competition immediately since symptoms have resolved" },
+        { "label": "B", "text": "He should undergo stress testing and may return if results are normal" },
+        { "label": "C", "text": "He may return once colchicine therapy is completed regardless of timeline" },
+        { "label": "D", "text": "He should avoid competitive sports permanently due to recurrence risk" },
+        { "label": "E", "text": "He should avoid competitive sports for at least 3 months after symptom resolution" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Current guidelines recommend that athletes with acute pericarditis avoid competitive sports for at least 3 months after symptom resolution and normalization of inflammatory markers and imaging. This reduces the risk of recurrence and the rare but serious complication of myopericarditis progressing during exercise.",
+        "whyCorrect": "The European Society of Cardiology and American Heart Association recommend restriction from competitive athletics for a minimum of 3 months after resolution of acute pericarditis. This allows complete resolution of inflammation, reduces recurrence risk, and minimizes the theoretical risk of exercise-triggered arrhythmias if subclinical myocardial involvement is present.",
+        "whyWrongByChoice": {
+          "A": "Returning immediately after symptom resolution is premature. Subclinical inflammation may persist beyond symptom resolution, and exercise can trigger recurrence or unmask myocardial involvement.",
+          "B": "While stress testing may be part of the return-to-play evaluation, normal stress test results alone do not determine the safe timeline. The minimum 3-month waiting period applies regardless of stress test results.",
+          "C": "Completing colchicine therapy (typically 3 months for a first episode) roughly coincides with the restriction period, but the guideline is based on time from symptom resolution, not medication duration. Resolution of inflammation must be confirmed.",
+          "D": "Permanent restriction from competitive sports is not warranted for a single episode of uncomplicated acute pericarditis. Recurrence risk decreases with time, and most patients can safely return to athletics after appropriate recovery."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-008",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 45-year-old man presents to the emergency department with severe substernal chest pain. He describes the pain as sharp and worsening when he takes a deep breath. ECG shows 2 mm ST elevation in leads I, II, III, aVF, V3-V6 with PR depression in the same leads. Troponin I is negative. The emergency physician is considering acute pericarditis versus ST-elevation myocardial infarction. Which of the following ECG features most reliably distinguishes pericarditis from STEMI?",
+      "choices": [
+        { "label": "A", "text": "PR-segment depression in leads with ST elevation" },
+        { "label": "B", "text": "Magnitude of ST elevation greater than 5 mm" },
+        { "label": "C", "text": "Presence of Q waves in the affected leads" },
+        { "label": "D", "text": "ST elevation confined to a single coronary territory" },
+        { "label": "E", "text": "Heart rate exceeding 100 beats per minute" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PR-segment depression in leads with concurrent ST elevation is highly specific for acute pericarditis and helps distinguish it from STEMI. The PR depression results from atrial epicardial inflammation affecting the atrial repolarization (Ta) wave, a feature not seen in coronary occlusion.",
+        "whyCorrect": "PR-segment depression occurs because pericardial inflammation affects the atrial epicardium, altering the atrial repolarization vector (Ta wave). This produces PR depression in most leads and PR elevation in aVR. This finding is highly specific for pericarditis, as STEMI causes ST changes from ventricular injury currents without affecting atrial repolarization.",
+        "whyWrongByChoice": {
+          "B": "The magnitude of ST elevation does not reliably differentiate pericarditis from STEMI. Both conditions can produce varying degrees of ST elevation, although pericarditis typically produces less dramatic elevation.",
+          "C": "Q waves indicate myocardial necrosis and suggest MI rather than pericarditis. However, their absence does not confirm pericarditis, as early STEMI may also lack Q waves before necrosis develops.",
+          "D": "ST elevation confined to a single coronary territory suggests STEMI, not pericarditis. Pericarditis produces diffuse ST elevation. This feature identifies STEMI rather than distinguishing pericarditis from it.",
+          "E": "Tachycardia is a nonspecific finding that can accompany both pericarditis (from pain, fever, or inflammation) and STEMI (from sympathetic activation or hemodynamic compromise)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-009",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 30-year-old woman presents with her third episode of pericarditis in 18 months. She was previously treated with NSAIDs and colchicine, with corticosteroids added during the second episode. Her current episode developed during corticosteroid taper. She has persistent symptoms despite high-dose ibuprofen and colchicine. Which of the following is the most appropriate next step?",
+      "choices": [
+        { "label": "A", "text": "Restart corticosteroids at the previous effective dose and taper more slowly" },
+        { "label": "B", "text": "Perform pericardiectomy for definitive management of recurrent disease" },
+        { "label": "C", "text": "Initiate anakinra as an interleukin-1 receptor antagonist" },
+        { "label": "D", "text": "Discontinue all medications and observe for spontaneous resolution" },
+        { "label": "E", "text": "Start empiric antituberculous therapy for possible chronic infection" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In corticosteroid-dependent recurrent pericarditis refractory to NSAIDs and colchicine, anakinra (an IL-1 receptor antagonist) has emerged as an effective treatment. The AIRTRIP trial demonstrated dramatic reduction in recurrence rates with anakinra in this population.",
+        "whyCorrect": "Anakinra blocks IL-1 signaling, a key cytokine in the autoinflammatory cascade driving recurrent pericarditis. The AIRTRIP trial showed that anakinra reduced recurrence from 90% to 18% in colchicine-resistant, corticosteroid-dependent recurrent pericarditis. It is now recommended by ESC guidelines as third-line therapy.",
+        "whyWrongByChoice": {
+          "A": "Restarting corticosteroids perpetuates the cycle of corticosteroid dependence. While a slower taper is appropriate when steroids are used, escalating steroid use in a patient who already has steroid-dependent recurrences does not address the underlying problem and increases side effect burden.",
+          "B": "Pericardiectomy is reserved as a last resort for refractory recurrent pericarditis after all medical therapies have failed. It carries significant surgical morbidity and should not be considered before trying IL-1 blockade.",
+          "D": "Discontinuing all therapy in a patient with active recurrent pericarditis would likely worsen symptoms and prolong the episode. Spontaneous resolution is unlikely in corticosteroid-dependent recurrent disease.",
+          "E": "There is no clinical indication for tuberculous pericarditis in this presentation. Recurrent pericarditis triggered by corticosteroid taper strongly suggests an autoinflammatory mechanism rather than chronic infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-010",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 50-year-old man with a history of lung adenocarcinoma is evaluated for new-onset chest discomfort. Pericardiocentesis yields 400 mL of hemorrhagic fluid. Cytology of the fluid reveals malignant cells. Which of the following additional pericardial fluid findings would be most consistent with this etiology?",
+      "choices": [
+        { "label": "A", "text": "Low protein, low LDH, glucose similar to serum" },
+        { "label": "B", "text": "High protein, elevated LDH, low glucose" },
+        { "label": "C", "text": "Low protein, elevated triglycerides, milky appearance" },
+        { "label": "D", "text": "High protein, low ADA, glucose similar to serum" },
+        { "label": "E", "text": "Low protein, elevated amylase, clear yellow fluid" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Malignant pericardial effusions are exudative, characterized by high protein (>3 g/dL), elevated LDH, and often low glucose due to consumption by metabolically active tumor cells. The hemorrhagic nature with positive cytology confirms malignant involvement.",
+        "whyCorrect": "Malignant effusions meet exudative criteria (high protein, high LDH) because tumor invasion disrupts capillary permeability and causes inflammation. Low glucose occurs because neoplastic cells and inflammatory cells actively metabolize glucose. The hemorrhagic appearance results from tumor neovascularization and vascular invasion.",
+        "whyWrongByChoice": {
+          "A": "Low protein and low LDH describe a transudative effusion, which would be seen in heart failure or hypothyroidism, not malignancy. Malignant effusions are exudative by nature.",
+          "C": "Elevated triglycerides with milky appearance suggests chylous pericardial effusion from thoracic duct injury or obstruction. While malignancy can rarely cause chylopericardium, the primary finding of positive cytology with hemorrhagic fluid points to a standard exudative malignant effusion.",
+          "D": "While malignant effusions have high protein, the glucose is typically low (not similar to serum) due to glucose consumption. Low ADA helps exclude tuberculosis but does not characterize malignant effusions.",
+          "E": "Low protein suggests a transudate, and elevated amylase in pericardial fluid suggests esophageal rupture or pancreatic disease, not malignancy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-011",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 32-year-old previously healthy man presents with acute pleuritic chest pain, fever, and a pericardial friction rub. ECG shows diffuse ST elevation. Echocardiography shows no significant effusion. He has no hemodynamic compromise. Which of the following features, if present, would classify this patient as high-risk and warrant hospitalization rather than outpatient management?",
+      "choices": [
+        { "label": "A", "text": "Age younger than 40 years with no comorbidities" },
+        { "label": "B", "text": "White blood cell count of 11,000/\u03bcL with neutrophil predominance" },
+        { "label": "C", "text": "Temperature greater than 38\u00b0C unresponsive to NSAIDs" },
+        { "label": "D", "text": "C-reactive protein level of 4.5 mg/dL at presentation" },
+        { "label": "E", "text": "Resolution of chest pain within 48 hours of ibuprofen" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High-risk features in acute pericarditis that warrant hospitalization include: fever >38\u00b0C not responding to anti-inflammatory therapy, subacute onset, large pericardial effusion, cardiac tamponade, failure to respond to NSAIDs within 7 days, elevated troponin (myopericarditis), and immunosuppressed state.",
+        "whyCorrect": "Fever >38\u00b0C that does not respond to NSAID therapy is a major predictor of a non-idiopathic etiology (such as bacterial or tuberculous pericarditis) and is associated with higher rates of complications. ESC guidelines classify this as a high-risk feature requiring inpatient evaluation and possible pericardiocentesis.",
+        "whyWrongByChoice": {
+          "A": "Young age without comorbidities is actually a low-risk feature. Patients <40 years with no high-risk features have an excellent prognosis and are generally candidates for outpatient management.",
+          "B": "Mild leukocytosis with neutrophil predominance is common in acute pericarditis from any cause and is not a specific high-risk feature. Markedly elevated WBC (>15,000) or very low WBC may be more concerning.",
+          "D": "Elevated CRP at presentation is expected in acute pericarditis and is used to guide treatment duration rather than as a risk stratifier. CRP elevation confirms the diagnosis but does not indicate high risk.",
+          "E": "Rapid symptom resolution with NSAIDs is a favorable prognostic sign suggesting idiopathic or viral etiology and supports outpatient management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-012",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "A 48-year-old man diagnosed with acute pericarditis has an ECG performed on day 1, day 7, and day 21 of his illness. His initial ECG showed diffuse ST elevation with PR depression. On day 7, the ST segments have returned to baseline. Which of the following ECG findings is most likely present on the day 21 ECG?",
+      "choices": [
+        { "label": "A", "text": "Recurrence of diffuse ST elevation with PR depression" },
+        { "label": "B", "text": "Development of pathologic Q waves in the precordial leads" },
+        { "label": "C", "text": "New right bundle branch block pattern" },
+        { "label": "D", "text": "Diffuse T-wave inversions across most leads" },
+        { "label": "E", "text": "Complete normalization to a baseline normal ECG" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ECG in acute pericarditis evolves through four stages: Stage 1 (diffuse ST elevation, PR depression), Stage 2 (ST normalization, T-wave flattening), Stage 3 (diffuse T-wave inversions), and Stage 4 (normalization). At day 21, the patient is in Stage 3 with diffuse T-wave inversions.",
+        "whyCorrect": "Stage 3 of pericarditis ECG evolution typically occurs at 2-3 weeks and is characterized by diffuse T-wave inversions. Unlike MI, these T-wave inversions occur after the ST segments have normalized (Stages 1-2 precede Stage 3), and they eventually resolve completely in Stage 4.",
+        "whyWrongByChoice": {
+          "A": "Recurrence of ST elevation and PR depression would suggest a recurrent episode of pericarditis rather than natural ECG evolution. The normal progression moves from ST elevation to ST normalization to T-wave inversion.",
+          "B": "Pathologic Q waves indicate myocardial necrosis from infarction, not pericarditis. Acute pericarditis does not cause Q waves because there is no transmural myocardial necrosis.",
+          "C": "New right bundle branch block is not a feature of the natural ECG evolution of pericarditis. Conduction abnormalities are not expected unless there is significant myocardial involvement or a separate pathology.",
+          "E": "Complete normalization (Stage 4) typically occurs weeks to months after onset. At day 21, the patient is more likely in Stage 3 with T-wave inversions. Full normalization comes later."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-013",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 58-year-old man with a history of coronary artery bypass grafting 5 years ago presents with progressive dyspnea, abdominal swelling, and bilateral lower extremity edema over 6 months. Physical examination reveals elevated jugular venous pressure with a prominent y descent, hepatomegaly, ascites, and peripheral edema. The lungs are clear. Echocardiography shows normal left ventricular ejection fraction, septal bounce, and respiratory variation in mitral inflow velocities. Which of the following hemodynamic findings would most strongly support the suspected diagnosis?",
+      "choices": [
+        { "label": "A", "text": "Elevated right atrial pressure with blunted y descent" },
+        { "label": "B", "text": "Equalization of diastolic pressures across all cardiac chambers" },
+        { "label": "C", "text": "Elevated right ventricular systolic pressure above 55 mmHg" },
+        { "label": "D", "text": "Reduced left ventricular end-diastolic pressure below 10 mmHg" },
+        { "label": "E", "text": "Markedly elevated pulmonary capillary wedge pressure above 30 mmHg" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Constrictive pericarditis produces equalization of diastolic pressures across all four cardiac chambers (typically within 5 mmHg of each other) due to the rigid pericardial shell constraining all chambers equally. This is a hallmark hemodynamic finding on cardiac catheterization.",
+        "whyCorrect": "The thickened, fibrotic pericardium in constriction limits diastolic expansion of all chambers equally, causing right atrial, right ventricular end-diastolic, pulmonary artery diastolic, and left ventricular end-diastolic pressures to equalize. The classic 'square root sign' (dip-and-plateau) pattern in ventricular pressure tracings accompanies this equalization.",
+        "whyWrongByChoice": {
+          "A": "Constrictive pericarditis characteristically shows a prominent (not blunted) y descent, reflecting the rapid early diastolic filling that occurs when the ventricle is unconstrained during early diastole before reaching the rigid pericardial limit.",
+          "C": "RV systolic pressures above 55 mmHg suggest significant pulmonary hypertension, which is more characteristic of restrictive cardiomyopathy or primary pulmonary vascular disease. In constriction, RV systolic pressure is usually only mildly elevated.",
+          "D": "LVEDP is elevated (not reduced) in constrictive pericarditis because the rigid pericardium restricts ventricular filling and raises diastolic pressures. Values typically range from 15-25 mmHg.",
+          "E": "While pulmonary capillary wedge pressure is elevated in constriction, values above 30 mmHg are more typical of severe left heart failure or restrictive cardiomyopathy. In constriction, pressures are elevated but typically between 15-25 mmHg, matching the other chamber diastolic pressures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-014",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 62-year-old man with right-sided heart failure symptoms is being evaluated for possible constrictive pericarditis versus restrictive cardiomyopathy. Cardiac catheterization is performed. Which of the following hemodynamic findings on simultaneous right and left ventricular pressure tracings would favor constrictive pericarditis over restrictive cardiomyopathy?",
+      "choices": [
+        { "label": "A", "text": "Left ventricular end-diastolic pressure exceeding right ventricular end-diastolic pressure by more than 7 mmHg" },
+        { "label": "B", "text": "Right ventricular systolic pressure greater than 60 mmHg" },
+        { "label": "C", "text": "Concordance of right and left ventricular systolic pressures with respiration" },
+        { "label": "D", "text": "Progressive rise in right ventricular diastolic pressure throughout diastole" },
+        { "label": "E", "text": "Discordance of right and left ventricular systolic pressures with respiration" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ventricular interdependence in constrictive pericarditis produces discordant changes in RV and LV systolic pressures with respiration. During inspiration, RV systolic pressure increases while LV systolic pressure decreases (and vice versa during expiration), reflecting the fixed intrapericardial volume.",
+        "whyCorrect": "In constriction, the rigid pericardium couples the ventricles so that increased filling of one ventricle must come at the expense of the other (enhanced ventricular interdependence). During inspiration, increased venous return to the RV shifts the septum leftward, decreasing LV filling and output. This produces discordant (opposite direction) changes in RV and LV systolic pressures.",
+        "whyWrongByChoice": {
+          "A": "LVEDP exceeding RVEDP by >7 mmHg favors restrictive cardiomyopathy, where the stiffer left ventricle has higher filling pressures. In constriction, pressures are equalized across chambers.",
+          "B": "RV systolic pressure >60 mmHg suggests significant pulmonary hypertension and favors restrictive cardiomyopathy or primary pulmonary disease. In constriction, RV systolic pressure is usually <50 mmHg.",
+          "C": "Concordant changes (same direction) in RV and LV systolic pressures with respiration are seen in restrictive cardiomyopathy, where the ventricles are not constrained by a common rigid shell and respond similarly to intrathoracic pressure changes.",
+          "D": "A progressive rise in diastolic pressure throughout diastole suggests restrictive physiology from myocardial disease. In constriction, the dip-and-plateau pattern shows rapid early filling followed by a plateau."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-015",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 55-year-old man presents with progressive ascites and peripheral edema. He has a history of tuberculosis treated 10 years ago. Jugular venous pressure is markedly elevated. On examination, the jugular venous pulse shows a rapid inward deflection immediately after S2. Hepatomegaly and ascites are present, with clear lung fields. Which of the following best explains the prominent venous waveform observed?",
+      "choices": [
+        { "label": "A", "text": "Atrial contraction against a stenotic tricuspid valve producing a giant a wave" },
+        { "label": "B", "text": "Regurgitation of blood into the right atrium during ventricular systole" },
+        { "label": "C", "text": "Rapid early diastolic ventricular filling halted abruptly by the rigid pericardium" },
+        { "label": "D", "text": "Increased venous pressure from superior vena cava obstruction" },
+        { "label": "E", "text": "Cannon a waves from atrioventricular dissociation during complete heart block" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The prominent y descent seen in constrictive pericarditis represents rapid early diastolic emptying of the atrium into the ventricle. When the tricuspid valve opens, blood rushes into the ventricle unimpeded initially, but filling is abruptly halted when the ventricle reaches the rigid pericardial limit, producing the steep y descent.",
+        "whyCorrect": "The y descent occurs during early diastole when blood flows from the right atrium into the right ventricle. In constriction, early filling is rapid and unimpeded (the pericardium does not restrict early filling), producing a deep, prominent y descent. However, once the ventricle reaches the volume limit imposed by the rigid pericardium, filling abruptly stops (producing the dip-and-plateau pattern).",
+        "whyWrongByChoice": {
+          "A": "Giant a waves result from atrial contraction against increased resistance (tricuspid stenosis, pulmonary hypertension). The described waveform occurs after S2 (in diastole), while the a wave occurs before S1 (presystolic).",
+          "B": "Tricuspid regurgitation produces a prominent cv wave (systolic wave) replacing the normal x descent. This is a systolic event, whereas the described waveform is an early diastolic finding.",
+          "D": "SVC obstruction produces elevated but non-pulsatile venous pressure without the characteristic prominent y descent waveform pattern seen here.",
+          "E": "Cannon a waves are intermittent giant presystolic waves seen when the atrium contracts against a closed tricuspid valve. They are presystolic (before S1), not post-S2 diastolic events."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-016",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 50-year-old man with suspected constrictive pericarditis undergoes tissue Doppler imaging. The mitral annular early diastolic velocity (e') is measured at 14 cm/s (normal >8 cm/s). This finding is considered paradoxical in the context of his restrictive filling pattern. Which of the following best explains this paradox?",
+      "choices": [
+        { "label": "A", "text": "The myocardium is intrinsically normal but lateral expansion is restricted, redirecting motion longitudinally" },
+        { "label": "B", "text": "Increased sympathetic tone enhances myocardial contractility and relaxation velocity" },
+        { "label": "C", "text": "Severe mitral regurgitation causes exaggerated annular motion from volume overload" },
+        { "label": "D", "text": "The pericardial calcification creates artifact elevating the measured velocity" },
+        { "label": "E", "text": "Right ventricular pressure overload pushes the septum toward the mitral annulus" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'annulus paradoxus' in constrictive pericarditis refers to a preserved or elevated mitral annular e' velocity despite impaired diastolic filling. Because the myocardium is intrinsically normal in constriction (unlike restrictive cardiomyopathy), but lateral/radial expansion is constrained by the rigid pericardium, diastolic motion is redirected into the longitudinal axis, producing a normal or supranormal e'.",
+        "whyCorrect": "In constriction, the myocardium itself has normal relaxation properties. The rigid pericardium prevents radial expansion, so the energy of early diastolic relaxation is redirected into longitudinal motion (toward the apex), producing a preserved or elevated e'. This contrasts with restrictive cardiomyopathy, where intrinsic myocardial disease reduces e' (<8 cm/s).",
+        "whyWrongByChoice": {
+          "B": "Sympathetic tone can increase contractility but does not explain the paradox of preserved e' with restrictive filling. The mechanism is related to mechanical constraint, not autonomic drive.",
+          "C": "There is no indication of mitral regurgitation in this case. While MR can increase annular motion, the finding described is specific to the constrictive physiology mechanism of redirected longitudinal motion.",
+          "D": "Pericardial calcification can create imaging artifacts, but tissue Doppler measures myocardial velocity at the annulus level, which is not significantly affected by pericardial calcification artifact. The elevated e' is a real finding, not artifact.",
+          "E": "RV pressure overload and septal shift can affect filling dynamics but would not selectively increase mitral annular e' velocity. This mechanism would more likely impair LV filling rather than enhance annular velocity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-017",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 65-year-old woman with known constrictive pericarditis presents with worsening right-sided heart failure symptoms. Her physician notes that jugular venous pressure increases visibly during inspiration. Which of the following is this sign called, and what does it reflect?",
+      "choices": [
+        { "label": "A", "text": "Pulsus paradoxus, reflecting exaggerated interventricular dependence" },
+        { "label": "B", "text": "Kussmaul sign, reflecting impaired right ventricular diastolic compliance" },
+        { "label": "C", "text": "Corrigan sign, reflecting aortic regurgitation with wide pulse pressure" },
+        { "label": "D", "text": "Hamman sign, reflecting pneumomediastinum with cardiac compression" },
+        { "label": "E", "text": "Carvallo sign, reflecting tricuspid regurgitation augmented by inspiration" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Kussmaul sign is the paradoxical rise (or failure to decline) in jugular venous pressure during inspiration. In constrictive pericarditis, the rigid pericardium prevents the right ventricle from accommodating the increased venous return that normally occurs with inspiration, causing JVP to rise rather than fall.",
+        "whyCorrect": "During normal inspiration, decreased intrathoracic pressure increases venous return, and a compliant right ventricle accommodates this volume, causing JVP to fall. In constriction, the non-compliant pericardium prevents RV expansion, so increased venous return cannot be accommodated. This causes JVP to paradoxically rise during inspiration (Kussmaul sign).",
+        "whyWrongByChoice": {
+          "A": "Pulsus paradoxus is an exaggerated (>10 mmHg) decrease in systolic blood pressure during inspiration, measured by sphygmomanometry. While it can occur in constriction, the described finding is specific to JVP, not arterial pressure.",
+          "C": "Corrigan sign (water-hammer pulse) refers to the bounding, rapidly collapsing arterial pulse of aortic regurgitation. It is a peripheral arterial finding unrelated to jugular venous dynamics.",
+          "D": "Hamman sign is a crunching sound heard with the heartbeat in pneumomediastinum. It is an auscultatory finding, not a jugular venous pressure finding.",
+          "E": "Carvallo sign is the increase in intensity of the tricuspid regurgitation murmur during inspiration. While it involves inspiratory physiology, it describes a murmur change, not JVP behavior."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-018",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 52-year-old man with constrictive pericarditis is evaluated for possible surgical management. CT of the chest reveals diffuse pericardial thickening with extensive calcification. He has NYHA class III symptoms despite maximal diuretic therapy. His left ventricular ejection fraction is 55%. Which of the following is the most appropriate definitive treatment?",
+      "choices": [
+        { "label": "A", "text": "Balloon pericardiotomy with percutaneous drainage" },
+        { "label": "B", "text": "Long-term anti-inflammatory therapy with colchicine and NSAIDs" },
+        { "label": "C", "text": "Cardiac transplantation given the severity of heart failure" },
+        { "label": "D", "text": "Pericardiectomy with removal of the visceral and parietal pericardium" },
+        { "label": "E", "text": "Pericardial window creation for continuous fluid drainage" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pericardiectomy (surgical removal of the pericardium) is the definitive treatment for established constrictive pericarditis with significant symptoms. Complete removal of both visceral and parietal pericardium is preferred for optimal outcomes, as incomplete resection may result in persistent constriction.",
+        "whyCorrect": "Surgical pericardiectomy is the only definitive treatment for established (chronic, fibrotic/calcified) constrictive pericarditis. It relieves the mechanical constraint on ventricular filling. Removal of both layers is important because the visceral pericardium alone can cause constriction if left intact. Operative mortality ranges from 5-10%.",
+        "whyWrongByChoice": {
+          "A": "Balloon pericardiotomy is used for drainage of recurrent pericardial effusions (e.g., malignant effusions), not for treatment of constrictive pericarditis where the pathology is fibrosis and calcification rather than fluid accumulation.",
+          "B": "Anti-inflammatory therapy may be effective in early/transient constrictive pericarditis where active inflammation is ongoing, but in established chronic constriction with calcification, the pathology is fibrotic and will not respond to anti-inflammatory medications.",
+          "C": "Cardiac transplantation is not indicated for constrictive pericarditis with preserved ejection fraction. Pericardiectomy can relieve the mechanical constraint. Transplant would be considered only if there is severe underlying myocardial disease not explained by constriction.",
+          "E": "Pericardial window creation is used for drainage of pericardial effusions, not for constrictive pericarditis. The pathology in constriction is a rigid, fibrotic pericardium rather than fluid accumulation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-019",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 48-year-old woman presents with dyspnea, ascites, and lower extremity edema. She had radiation therapy to the chest for Hodgkin lymphoma 15 years ago. Echocardiography shows a thickened pericardium with septal bounce and respiratory variation in mitral inflow. Cardiac catheterization demonstrates equalization of diastolic pressures. Her physician is considering whether her symptoms might improve with anti-inflammatory therapy before proceeding to surgery. Which of the following findings would best support a trial of anti-inflammatory treatment?",
+      "choices": [
+        { "label": "A", "text": "Extensive pericardial calcification on chest CT" },
+        { "label": "B", "text": "Pericardial thickness greater than 6 mm on CT" },
+        { "label": "C", "text": "Duration of symptoms exceeding 12 months" },
+        { "label": "D", "text": "History of prior chest radiation as the underlying etiology" },
+        { "label": "E", "text": "Pericardial late gadolinium enhancement on cardiac MRI" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pericardial late gadolinium enhancement (LGE) on cardiac MRI indicates active pericardial inflammation and is a marker of potentially reversible (transient) constrictive pericarditis. Patients with LGE may respond to anti-inflammatory therapy, potentially avoiding pericardiectomy.",
+        "whyCorrect": "Late gadolinium enhancement of the pericardium on cardiac MRI reflects active inflammation with increased capillary permeability and extracellular volume expansion. This finding suggests transient constrictive pericarditis, a form that may resolve with anti-inflammatory therapy (NSAIDs, colchicine, or corticosteroids) within weeks to months.",
+        "whyWrongByChoice": {
+          "A": "Extensive pericardial calcification indicates chronic, end-stage fibrotic constriction that is irreversible. Calcification is a marker of burned-out disease that will not respond to anti-inflammatory treatment and requires pericardiectomy.",
+          "B": "Pericardial thickness alone does not indicate whether the thickening is from active inflammation (potentially reversible) or chronic fibrosis (irreversible). LGE is needed to assess the inflammatory component.",
+          "C": "Prolonged symptom duration (>12 months) suggests established chronic constriction that is less likely to be reversible with anti-inflammatory therapy. Shorter duration of symptoms is more favorable for medical treatment.",
+          "D": "Radiation-induced pericarditis can cause either transient or permanent constriction. The etiology alone does not predict reversibility; imaging evidence of active inflammation (LGE) is the best predictor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-020",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 60-year-old man with constrictive pericarditis undergoes echocardiography. Doppler evaluation of mitral inflow shows that the E-wave velocity decreases by 30% during the first beat of inspiration compared to expiration. Which of the following physiological mechanisms best accounts for this finding?",
+      "choices": [
+        { "label": "A", "text": "Decreased pulmonary venous pressure during inspiration reduces left atrial filling" },
+        { "label": "B", "text": "Increased right ventricular filling shifts the septum leftward, reducing LV cavity size" },
+        { "label": "C", "text": "The rigid pericardium prevents transmission of negative intrathoracic pressure to the heart" },
+        { "label": "D", "text": "Inspiratory diaphragm descent compresses the inferior vena cava, reducing venous return" },
+        { "label": "E", "text": "Pulmonary vasoconstriction during inspiration reduces pulmonary blood flow" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In constrictive pericarditis, the rigid pericardium prevents transmission of negative intrathoracic pressure to the cardiac chambers during inspiration. While the pulmonary veins (outside the pericardium) experience decreased pressure, the left atrial pressure does not decrease proportionally. This reduces the pressure gradient driving blood from the pulmonary veins into the left atrium, decreasing mitral inflow velocity.",
+        "whyCorrect": "Normally, inspiration decreases intrathoracic pressure, which is transmitted to both the pulmonary veins and the left atrium equally, maintaining the driving pressure gradient. In constriction, the rigid pericardium isolates the heart from intrathoracic pressure changes. Pulmonary venous pressure falls with inspiration, but left atrial pressure does not, reducing the gradient and decreasing mitral inflow E-wave velocity.",
+        "whyWrongByChoice": {
+          "A": "This is partially correct but incomplete. Pulmonary venous pressure does decrease, but the key mechanism is the dissociation between intrathoracic and intracardiac pressures caused by the rigid pericardium, not simply reduced pulmonary venous pressure.",
+          "B": "Septal shift does contribute to ventricular interdependence in constriction, but the primary mechanism for reduced mitral inflow is the intrathoracic-intracardiac pressure dissociation. The septal bounce is a consequence of this dissociation, not the primary cause of reduced E-wave velocity.",
+          "D": "Inspiration actually increases venous return to the right heart by decreasing intrathoracic pressure. Diaphragmatic descent does not compress the IVC sufficiently to reduce venous return in this context.",
+          "E": "There is no significant pulmonary vasoconstriction during normal quiet inspiration. Pulmonary blood flow actually increases with inspiration due to increased venous return."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-021",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 57-year-old man with chronic right-sided heart failure is being evaluated. His history includes tuberculosis treated 8 years ago. Examination reveals elevated JVP with prominent y descent, Kussmaul sign, hepatomegaly, and ascites. A pericardial knock is heard. Which of the following best describes the timing and mechanism of the pericardial knock?",
+      "choices": [
+        { "label": "A", "text": "Early diastolic sound caused by abrupt cessation of ventricular filling against the rigid pericardium" },
+        { "label": "B", "text": "Late diastolic sound caused by atrial contraction against a stiff ventricle" },
+        { "label": "C", "text": "Midsystolic sound caused by tensing of calcified pericardium during ejection" },
+        { "label": "D", "text": "Early systolic sound caused by opening of a calcified pericardial adhesion" },
+        { "label": "E", "text": "Late systolic sound caused by mitral valve prolapse from pericardial tethering" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pericardial knock is an early diastolic sound (occurring shortly after S2) that corresponds to the abrupt cessation of rapid early diastolic ventricular filling when the expanding ventricle suddenly reaches the rigid limit imposed by the constricting pericardium.",
+        "whyCorrect": "The pericardial knock occurs 60-120 ms after A2, earlier than a typical S3. It is produced when rapid early diastolic filling is abruptly halted as the ventricle reaches the volume constraint of the rigid pericardium. This corresponds to the nadir of the y descent and the beginning of the diastolic plateau on the pressure tracing.",
+        "whyWrongByChoice": {
+          "B": "A late diastolic sound from atrial contraction against a stiff ventricle describes an S4 gallop, which is associated with reduced ventricular compliance from myocardial disease (e.g., hypertrophic cardiomyopathy, hypertension), not constrictive pericarditis.",
+          "C": "There is no recognized midsystolic sound from pericardial calcification during ejection. Midsystolic sounds include ejection clicks from aortic or pulmonary valve disease.",
+          "D": "Calcified pericardial adhesions do not produce an early systolic sound. Opening sounds are associated with stenotic valves (e.g., mitral opening snap), not pericardial disease.",
+          "E": "Late systolic sounds from mitral valve prolapse are caused by myxomatous degeneration of the mitral valve, not by pericardial pathology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-022",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 45-year-old man is evaluated for progressive right-sided heart failure. Cardiac MRI shows pericardial thickening of 5 mm without calcification or late gadolinium enhancement. Cardiac catheterization reveals equalization of diastolic pressures and a dip-and-plateau pattern. His physician suspects transient constrictive pericarditis. Which of the following treatment strategies is most appropriate as the initial approach?",
+      "choices": [
+        { "label": "A", "text": "Immediate referral for pericardiectomy given confirmed hemodynamic constriction" },
+        { "label": "B", "text": "Diuretic therapy alone with repeat catheterization in 6 months" },
+        { "label": "C", "text": "Initiation of heart failure neurohormonal therapy with ACE inhibitors and beta-blockers" },
+        { "label": "D", "text": "Anti-inflammatory therapy with NSAIDs and colchicine with serial imaging" },
+        { "label": "E", "text": "Pericardiocentesis to relieve the constrictive physiology" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transient constrictive pericarditis is a potentially reversible form that may resolve with anti-inflammatory therapy. Without calcification or LGE-negative (suggesting less active inflammation but recent onset), a trial of anti-inflammatory therapy with close follow-up is appropriate before considering surgical pericardiectomy.",
+        "whyCorrect": "Transient constrictive pericarditis occurs when pericardial inflammation produces temporary constriction that may resolve with anti-inflammatory treatment. A 2-3 month trial of NSAIDs and colchicine with serial echocardiographic assessment is recommended. Up to 17% of patients with apparent constrictive physiology have transient disease that resolves medically.",
+        "whyWrongByChoice": {
+          "A": "Immediate pericardiectomy is premature when transient constrictive pericarditis is suspected. A trial of medical therapy is warranted first, as surgery carries 5-10% mortality and may be unnecessary if the constriction is reversible.",
+          "B": "Diuretics can provide symptomatic relief but do not address the underlying pericardial pathology. Waiting 6 months without anti-inflammatory therapy misses the opportunity to treat potentially reversible inflammation.",
+          "C": "ACE inhibitors and beta-blockers are cornerstones of heart failure therapy for myocardial disease but are not indicated for constrictive pericarditis. Beta-blockers may be harmful by limiting compensatory tachycardia in patients with fixed stroke volume.",
+          "E": "Pericardiocentesis drains pericardial fluid but does not address the constrictive pathology, which is caused by a thickened, rigid pericardium rather than fluid accumulation. It is indicated for effusion/tamponade, not constriction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-023",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 63-year-old man with constrictive pericarditis has the following cardiac catheterization findings: right atrial pressure 22 mmHg, right ventricular pressure 45/22 mmHg, pulmonary artery pressure 45/22 mmHg, and left ventricular pressure 130/22 mmHg. The right ventricular pressure tracing shows a rapid dip in early diastole followed by a plateau. Which of the following terms best describes this pressure tracing pattern?",
+      "choices": [
+        { "label": "A", "text": "Square root sign" },
+        { "label": "B", "text": "Spike and dome pattern" },
+        { "label": "C", "text": "Pulsus alternans pattern" },
+        { "label": "D", "text": "Bisferiens waveform" },
+        { "label": "E", "text": "Slow y descent pattern" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'square root sign' (also called dip-and-plateau pattern) is the characteristic ventricular pressure tracing in constrictive pericarditis. It shows a rapid early diastolic pressure drop (dip) as the ventricle fills rapidly, followed by an abrupt pressure plateau when filling is halted by the rigid pericardial shell.",
+        "whyCorrect": "The dip-and-plateau or square root sign reflects the hemodynamics of constriction: early diastolic filling is rapid and unimpeded (the dip), but once the ventricle reaches the limit of the rigid pericardium, filling abruptly ceases and pressure plateaus for the remainder of diastole. The shape resembles the mathematical square root symbol.",
+        "whyWrongByChoice": {
+          "C": "Pulsus alternans refers to alternating strong and weak beats reflecting severe left ventricular systolic dysfunction. It is an arterial pulse finding, not a ventricular pressure tracing pattern.",
+          "B": "Spike and dome pattern is seen in the aortic pressure tracing of hypertrophic obstructive cardiomyopathy due to dynamic outflow tract obstruction, not in ventricular diastolic pressure patterns.",
+          "D": "Bisferiens waveform is a double-peaked arterial pulse seen in combined aortic stenosis and regurgitation or in hypertrophic cardiomyopathy. It describes an arterial contour, not a ventricular filling pattern.",
+          "E": "A slow y descent is characteristic of tricuspid stenosis, where atrial emptying is impeded. Constrictive pericarditis produces a rapid (not slow) y descent reflecting unimpeded early filling."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-024",
+      "topicId": "constrictive-pericarditis",
+      "topicName": "Constrictive Pericarditis",
+      "stem": "A 70-year-old man with long-standing constrictive pericarditis develops progressive hepatomegaly, jaundice, and coagulopathy over several years. Liver biopsy reveals centrilobular necrosis and fibrosis with sinusoidal dilation. Which of the following best describes the pathophysiology of this patient's liver disease?",
+      "choices": [
+        { "label": "A", "text": "Portal vein thrombosis from hypercoagulable state associated with chronic inflammation" },
+        { "label": "B", "text": "Chronic hepatic venous congestion from sustained elevation of central venous pressure" },
+        { "label": "C", "text": "Autoimmune hepatitis triggered by the same inflammatory process causing pericarditis" },
+        { "label": "D", "text": "Drug-induced hepatotoxicity from long-term colchicine therapy" },
+        { "label": "E", "text": "Hepatic artery insufficiency from low cardiac output reducing splanchnic perfusion" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic constrictive pericarditis causes sustained elevation of central venous pressure, which is transmitted retrograde to the hepatic veins, producing chronic hepatic congestion. Over years, this leads to centrilobular necrosis, fibrosis, and eventually cardiac cirrhosis (congestive hepatopathy).",
+        "whyCorrect": "The elevated right atrial pressure in constriction is transmitted to the hepatic veins, producing chronic passive hepatic congestion. The centrilobular (zone 3) hepatocytes are most vulnerable because they are farthest from the arterial supply and closest to the central vein. Chronic congestion leads to centrilobular necrosis, sinusoidal dilation, and progressive fibrosis (cardiac cirrhosis).",
+        "whyWrongByChoice": {
+          "A": "Portal vein thrombosis would produce portal hypertension with different histological findings (periportal changes rather than centrilobular). The centrilobular pattern points to hepatic venous congestion, not portal vein pathology.",
+          "C": "There is no established association between pericarditis and autoimmune hepatitis. The liver biopsy findings of centrilobular necrosis and sinusoidal dilation are characteristic of congestive hepatopathy, not autoimmune hepatitis (which shows interface hepatitis).",
+          "D": "Colchicine hepatotoxicity is rare and would present with different histological findings (hepatocellular necrosis without the centrilobular congestion pattern). Additionally, colchicine has antifibrotic properties and is unlikely to cause this pattern.",
+          "E": "Hepatic artery insufficiency would cause periportal (zone 1) injury since zone 1 hepatocytes are most dependent on arterial blood supply. The centrilobular pattern seen here is characteristic of venous congestion, not arterial insufficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-025",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 45-year-old woman with systemic lupus erythematosus presents with progressive dyspnea and lightheadedness over 3 days. Her blood pressure is 88/62 mmHg, heart rate is 118/min, and respiratory rate is 22/min. Jugular venous pressure is markedly elevated. Heart sounds are distant. On blood pressure measurement, the systolic pressure is 88 mmHg during expiration and 72 mmHg during inspiration. Which of the following is the most likely diagnosis?",
+      "choices": [
+        { "label": "A", "text": "Acute decompensated left ventricular heart failure" },
+        { "label": "B", "text": "Massive pulmonary embolism with right heart strain" },
+        { "label": "C", "text": "Cardiac tamponade from pericardial effusion" },
+        { "label": "D", "text": "Tension pneumothorax with mediastinal shift" },
+        { "label": "E", "text": "Severe mitral regurgitation with cardiogenic shock" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient presents with Beck's triad (hypotension, elevated JVP, distant heart sounds) and pulsus paradoxus (>10 mmHg drop in systolic BP during inspiration: 88 - 72 = 16 mmHg), which together are classic for cardiac tamponade. Her SLE predisposes to pericardial effusion.",
+        "whyCorrect": "Cardiac tamponade occurs when pericardial fluid accumulates sufficiently to compress the cardiac chambers, impairing diastolic filling. Beck's triad (hypotension, JVD, muffled heart sounds) and pulsus paradoxus >10 mmHg are the hallmark findings. SLE is a well-known cause of pericarditis and pericardial effusion.",
+        "whyWrongByChoice": {
+          "A": "Acute decompensated heart failure would present with pulmonary edema (rales, S3 gallop), which is absent here. Heart sounds would not be distant, and pulsus paradoxus is not a feature of isolated left heart failure.",
+          "B": "Massive PE can cause hypotension and JVD from RV failure but does not produce distant heart sounds or significant pulsus paradoxus. PE presents with acute dyspnea and may have signs of RV strain on ECG.",
+          "D": "Tension pneumothorax can mimic tamponade with hypotension and JVD, but it would present with absent breath sounds on the affected side, tracheal deviation, and hyperresonance to percussion. Heart sounds may be distant but pulsus paradoxus is not typical.",
+          "E": "Severe acute mitral regurgitation causes pulmonary edema and cardiogenic shock but does not produce distant heart sounds or pulsus paradoxus. A loud systolic murmur would typically be present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-026",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 70-year-old man with metastatic lung cancer is found to have a large pericardial effusion on echocardiography. He is hemodynamically stable with blood pressure 130/80 mmHg and heart rate 78/min. The echocardiogram shows diastolic collapse of the right atrium lasting more than one-third of the cardiac cycle, but no right ventricular collapse. Which of the following best describes his hemodynamic status?",
+      "choices": [
+        { "label": "A", "text": "No hemodynamic compromise; the effusion is clinically insignificant" },
+        { "label": "B", "text": "Full cardiac tamponade requiring emergent pericardiocentesis" },
+        { "label": "C", "text": "Constrictive physiology from tumor encasement of the pericardium" },
+        { "label": "D", "text": "Artifact from the large effusion creating echocardiographic shadowing" },
+        { "label": "E", "text": "Early tamponade physiology with elevated intrapericardial pressure approaching right atrial pressure" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Right atrial diastolic collapse lasting >1/3 of the cardiac cycle is an echocardiographic sign of elevated intrapericardial pressure approaching right atrial filling pressure. This represents early tamponade physiology (hemodynamic compromise beginning) even though the patient may appear clinically stable.",
+        "whyCorrect": "RA diastolic collapse occurs when intrapericardial pressure exceeds right atrial pressure during diastole, causing the thin-walled RA to buckle inward. When this collapse lasts >1/3 of the cardiac cycle, it is highly specific (>90%) for elevated intrapericardial pressure and early hemodynamic compromise, even before clinical signs of overt tamponade appear.",
+        "whyWrongByChoice": {
+          "A": "RA diastolic collapse lasting >1/3 of the cardiac cycle is not clinically insignificant. It indicates that intrapericardial pressure is high enough to compress the right atrium, representing early hemodynamic compromise that may progress to overt tamponade.",
+          "B": "While RA collapse indicates hemodynamic compromise, the absence of RV diastolic collapse and the patient's stable hemodynamics suggest early (not full) tamponade. Emergent pericardiocentesis is reserved for hemodynamically unstable patients with clinical tamponade.",
+          "C": "Constrictive physiology involves a thickened, rigid pericardium restricting diastolic filling, not chamber collapse from fluid pressure. The echocardiographic findings here are specific to effusion with elevated intrapericardial pressure.",
+          "D": "RA diastolic collapse is a well-recognized echocardiographic sign with high specificity for elevated intrapericardial pressure. It represents real chamber invagination, not imaging artifact."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-027",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 32-year-old man is brought to the emergency department after a stab wound to the left chest. He is agitated and diaphoretic. Blood pressure is 76/58 mmHg, heart rate is 132/min, and respiratory rate is 28/min. Neck veins are distended. Heart sounds are muffled. Bedside echocardiography reveals a pericardial effusion with right ventricular diastolic collapse. Which of the following is the most appropriate immediate intervention?",
+      "choices": [
+        { "label": "A", "text": "Intravenous furosemide 40 mg to reduce preload and pericardial pressure" },
+        { "label": "B", "text": "Initiation of norepinephrine infusion for hemodynamic support" },
+        { "label": "C", "text": "Urgent pericardiocentesis via the subxiphoid approach" },
+        { "label": "D", "text": "Endotracheal intubation and positive-pressure ventilation" },
+        { "label": "E", "text": "CT angiography of the chest to characterize the effusion" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has traumatic cardiac tamponade with hemodynamic instability (hypotension, tachycardia) and classic Beck's triad. Emergent pericardiocentesis is the immediate life-saving intervention to relieve intrapericardial pressure and restore cardiac filling. In traumatic tamponade, this may serve as a bridge to definitive surgical repair.",
+        "whyCorrect": "Pericardiocentesis via the subxiphoid approach is the fastest way to relieve tamponade physiology. Removal of even 50-100 mL of blood can dramatically improve cardiac output by reducing intrapericardial pressure below chamber filling pressures. This is a bridge to emergent thoracotomy for definitive repair of the cardiac injury.",
+        "whyWrongByChoice": {
+          "A": "Diuretics are contraindicated in cardiac tamponade. Reducing preload with furosemide would further decrease venous return and worsen hypotension. Tamponade patients are preload-dependent, and volume resuscitation (not volume depletion) is a temporizing measure.",
+          "B": "Vasopressors may provide temporary hemodynamic support but do not address the underlying mechanical obstruction. They should be used only as a bridge while preparing for pericardiocentesis, not as a substitute for definitive drainage.",
+          "D": "Positive-pressure ventilation is dangerous in tamponade because it reduces venous return and can precipitate cardiovascular collapse. If intubation is necessary, it should only be performed after pericardiocentesis or with preparations for immediate drainage.",
+          "E": "CT angiography would delay treatment in a hemodynamically unstable patient with a clear diagnosis from bedside echocardiography. Imaging is unnecessary when the clinical picture and bedside echo confirm tamponade."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-028",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 55-year-old woman with end-stage renal disease presents with gradually worsening dyspnea over 4 weeks. Echocardiography reveals a large circumferential pericardial effusion estimated at 800 mL. She is hemodynamically stable with blood pressure 118/74 mmHg. A 25-year-old man presents after a motor vehicle accident with a pericardial effusion of only 200 mL but is hypotensive with frank tamponade physiology. Which of the following best explains why a smaller effusion caused tamponade in the second patient?",
+      "choices": [
+        { "label": "A", "text": "The younger patient has a thinner pericardium that is more susceptible to compression" },
+        { "label": "B", "text": "Rapid fluid accumulation exceeds the pericardium's ability to stretch and accommodate volume" },
+        { "label": "C", "text": "Traumatic effusions contain clotted blood that is more compressive than serous fluid" },
+        { "label": "D", "text": "Younger patients have lower baseline central venous pressure and less cardiac reserve" },
+        { "label": "E", "text": "The motor vehicle accident caused concurrent myocardial contusion reducing contractility" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The rate of fluid accumulation is the critical determinant of whether tamponade develops, not the absolute volume. Slow accumulation allows the pericardium to stretch and accommodate large volumes (up to 1-2 L) without significant pressure increase. Rapid accumulation (as in trauma) overwhelms the pericardial compliance, causing tamponade with small volumes (150-200 mL).",
+        "whyCorrect": "The pericardium has a J-shaped pressure-volume curve. With gradual accumulation, the pericardium stretches over days to weeks, allowing large volumes without significant pressure increase (flat portion of the curve). Rapid accumulation quickly reaches the steep portion of the curve, where small additional volumes produce large pressure increases, compressing the heart and causing tamponade.",
+        "whyWrongByChoice": {
+          "A": "Pericardial thickness does not significantly differ between individuals of these ages. The critical factor is the rate of fluid accumulation relative to pericardial compliance, not the baseline pericardial thickness.",
+          "C": "While hemopericardium may contain clots, the compressive effect is determined by the total intrapericardial volume and pressure, not the composition of the fluid. Serous fluid at the same pressure would produce the same hemodynamic effect.",
+          "D": "Young patients generally have higher cardiac reserve, not lower. The difference in hemodynamic presentation is explained by the rate of fluid accumulation, not baseline cardiovascular physiology.",
+          "E": "While myocardial contusion is possible in trauma, this does not explain the general principle of why small volumes cause tamponade. The question specifically asks about the volume-pressure relationship."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-029",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 48-year-old woman with cardiac tamponade undergoes pericardiocentesis. After removal of 300 mL of straw-colored fluid, her blood pressure improves from 82/60 to 122/78 mmHg. The pericardial fluid protein is 5.2 g/dL, LDH is 380 U/L (serum LDH 180 U/L), and fluid glucose is 35 mg/dL (serum glucose 110 mg/dL). ADA (adenosine deaminase) level is elevated at 45 U/L. Which of the following is the most likely etiology of this effusion?",
+      "choices": [
+        { "label": "A", "text": "Viral pericarditis from Coxsackievirus B infection" },
+        { "label": "B", "text": "Pericardial effusion secondary to congestive heart failure" },
+        { "label": "C", "text": "Hypothyroid-associated pericardial effusion (myxedema)" },
+        { "label": "D", "text": "Tuberculous pericarditis with granulomatous inflammation" },
+        { "label": "E", "text": "Post-cardiac injury syndrome after recent cardiac surgery" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pericardial fluid analysis shows an exudative effusion (high protein, elevated LDH with fluid-to-serum ratio >0.6) with low glucose and elevated adenosine deaminase (ADA). Elevated ADA (>40 U/L) in pericardial fluid has high sensitivity and specificity for tuberculous pericarditis.",
+        "whyCorrect": "Tuberculous pericarditis produces a lymphocyte-predominant exudative effusion with characteristically low glucose (from glucose consumption by activated macrophages and bacteria) and elevated ADA (released by activated T-lymphocytes in the granulomatous immune response). ADA >40 U/L has >85% sensitivity and >80% specificity for TB pericarditis.",
+        "whyWrongByChoice": {
+          "A": "Viral pericarditis produces an exudative effusion but typically has normal glucose and normal-to-mildly elevated ADA levels. The markedly elevated ADA and very low glucose are more specific for tuberculosis.",
+          "B": "Heart failure produces a transudative effusion (low protein, low LDH) due to increased hydrostatic pressure, not the exudative pattern seen here with high protein and LDH.",
+          "C": "Hypothyroid pericardial effusions are typically transudative or mildly exudative with high cholesterol content. They do not have the low glucose and elevated ADA pattern characteristic of TB.",
+          "E": "Post-cardiac injury syndrome produces an exudative effusion from autoimmune inflammation, but there is no history of recent cardiac surgery. Additionally, ADA would not be markedly elevated in this condition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-030",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 40-year-old man with cardiac tamponade is awaiting pericardiocentesis. His blood pressure is 78/56 mmHg. While preparations are being made, the emergency physician orders an intravenous fluid bolus of 500 mL normal saline. Which of the following best explains the physiological rationale for this intervention?",
+      "choices": [
+        { "label": "A", "text": "Volume expansion dilutes the pericardial fluid, reducing its osmotic pressure" },
+        { "label": "B", "text": "Normal saline has anti-inflammatory properties that reduce pericardial inflammation" },
+        { "label": "C", "text": "Fluid administration reduces heart rate, allowing more time for diastolic filling" },
+        { "label": "D", "text": "Crystalloid infusion decreases blood viscosity, improving coronary perfusion" },
+        { "label": "E", "text": "Increased intravascular volume raises central venous pressure above intrapericardial pressure, improving ventricular filling" }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In cardiac tamponade, ventricular filling is impaired because intrapericardial pressure equals or exceeds right atrial and ventricular diastolic pressures. Volume expansion raises central venous pressure (and thus right atrial pressure) above intrapericardial pressure, temporarily restoring the transmural pressure gradient needed for ventricular filling.",
+        "whyCorrect": "Tamponade occurs when intrapericardial pressure exceeds ventricular filling pressures, collapsing the chambers. IV fluid bolus raises CVP and right atrial pressure, creating a positive transmural pressure gradient (RA pressure minus intrapericardial pressure) that allows blood to enter the ventricles. This is a temporizing measure to maintain cardiac output while preparing for definitive pericardiocentesis.",
+        "whyWrongByChoice": {
+          "A": "IV fluids do not enter the pericardial space or affect pericardial fluid osmolarity. The mechanism of benefit is through raising intravascular pressure, not altering pericardial fluid composition.",
+          "B": "Normal saline has no anti-inflammatory properties. The benefit of volume resuscitation in tamponade is purely hemodynamic, not anti-inflammatory.",
+          "C": "Volume expansion in tamponade actually may not reduce heart rate, as tachycardia is a compensatory mechanism for the reduced stroke volume. The benefit is from increased preload, not heart rate reduction.",
+          "D": "While crystalloid infusion mildly reduces blood viscosity by hemodilution, this is not the clinically relevant mechanism in tamponade. The critical intervention is restoring the transmural filling pressure gradient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-031",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 38-year-old man presents with cardiac tamponade. ECG shows sinus tachycardia with low-voltage QRS complexes. On closer inspection, the QRS amplitude alternates between larger and smaller complexes on a beat-to-beat basis. Which of the following best explains this ECG finding?",
+      "choices": [
+        { "label": "A", "text": "Alternating left and right bundle branch block from septal compression" },
+        { "label": "B", "text": "Varying degrees of myocardial ischemia with each heartbeat" },
+        { "label": "C", "text": "Swinging motion of the heart within the large pericardial effusion" },
+        { "label": "D", "text": "Intermittent accessory pathway conduction producing variable QRS morphology" },
+        { "label": "E", "text": "Severe left ventricular systolic dysfunction with pulsus alternans" }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Electrical alternans (alternating QRS amplitude) in the setting of a large pericardial effusion is caused by the pendular swinging motion of the heart within the fluid-filled pericardial space. As the heart swings toward and away from the chest wall electrodes on alternate beats, the QRS amplitude varies.",
+        "whyCorrect": "When a large pericardial effusion is present, the heart is suspended in fluid and develops a pendular (swinging) motion at half the heart rate. On beats when the heart swings closer to the anterior chest wall, QRS amplitude increases; when it swings away, amplitude decreases. This produces the characteristic alternating QRS voltage pattern.",
+        "whyWrongByChoice": {
+          "A": "Alternating bundle branch block would produce alternating QRS morphology (changing shape, not just amplitude). Electrical alternans in tamponade shows consistent QRS morphology with alternating amplitude, reflecting a change in cardiac position rather than conduction.",
+          "B": "Beat-to-beat variation in myocardial ischemia does not produce electrical alternans. Ischemia causes ST-T wave changes, not systematic alternation in QRS amplitude.",
+          "D": "Intermittent accessory pathway conduction (as in WPW) would produce alternating QRS morphology with and without delta waves, not simple amplitude alternation. The morphology would change, not just the voltage.",
+          "E": "Pulsus alternans from severe LV dysfunction produces alternating pulse pressure but does not typically cause electrical alternans. The mechanism is different: pulsus alternans reflects alternating contractile force, while electrical alternans in tamponade reflects cardiac positional change."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-032",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 52-year-old man with known large pericardial effusion from malignancy undergoes echocardiography-guided pericardiocentesis. After drainage of 600 mL of serosanguinous fluid, he suddenly develops hypotension, tachycardia, and new ST elevation in leads V1-V3. Which of the following is the most likely complication?",
+      "choices": [
+        { "label": "A", "text": "Vasovagal syncope from rapid fluid removal" },
+        { "label": "B", "text": "Laceration of the right ventricular free wall by the drainage needle" },
+        { "label": "C", "text": "Acute pulmonary embolism from dislodged right atrial thrombus" },
+        { "label": "D", "text": "Reaccumulation of pericardial fluid from ongoing malignant exudation" },
+        { "label": "E", "text": "Pneumothorax from needle entry into the left pleural space" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypotension with new anterior ST elevation (V1-V3) during pericardiocentesis strongly suggests laceration of the right ventricular free wall by the needle or catheter. The RV is the most anterior cardiac structure and is at greatest risk of injury during the subxiphoid approach, especially as the effusion is drained and the heart moves closer to the needle.",
+        "whyCorrect": "As pericardial fluid is drained, the heart falls closer to the pericardiocentesis needle, increasing the risk of myocardial contact and perforation. RV laceration produces acute hemopericardium (re-tamponade), hemodynamic collapse, and ST elevation in the anterior leads (V1-V3) corresponding to the RV territory. This requires emergent surgical intervention.",
+        "whyWrongByChoice": {
+          "A": "Vasovagal syncope could cause transient hypotension and bradycardia (not tachycardia) but would not produce ST elevation. It is self-limited and does not explain the ECG changes.",
+          "C": "Pulmonary embolism would present with right heart strain signs (S1Q3T3, RBBB, RV dilation) rather than anterior ST elevation. Additionally, PE during pericardiocentesis would be an unusual temporal coincidence.",
+          "D": "Reaccumulation from malignant exudation occurs over days to weeks, not minutes during the procedure. The acute hemodynamic deterioration with new ECG changes suggests a procedural complication.",
+          "E": "Pneumothorax would cause dyspnea and unilateral absent breath sounds but would not produce ST elevation or explain the acute hemodynamic deterioration with tachycardia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-033",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 65-year-old woman with recurrent malignant pericardial effusions from breast cancer has undergone three pericardiocenteses in 6 months. Her oncologist discusses options for preventing reaccumulation. Which of the following procedures is most appropriate for long-term management of recurrent malignant pericardial effusion?",
+      "choices": [
+        { "label": "A", "text": "Percutaneous balloon pericardiotomy or surgical pericardial window" },
+        { "label": "B", "text": "Surgical pericardiectomy with complete pericardial removal" },
+        { "label": "C", "text": "Repeated percutaneous pericardiocentesis every 2-3 months as needed" },
+        { "label": "D", "text": "Intrapericardial administration of high-dose systemic chemotherapy" },
+        { "label": "E", "text": "Chronic indwelling pericardial catheter for continuous drainage" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For recurrent malignant pericardial effusions, percutaneous balloon pericardiotomy or surgical creation of a pericardial window provides continuous drainage into the pleural or peritoneal space, preventing reaccumulation. These procedures are preferred over repeated pericardiocentesis for long-term management.",
+        "whyCorrect": "A pericardial window (surgical or balloon pericardiotomy) creates a permanent opening that allows pericardial fluid to drain continuously into the pleural or peritoneal space, where it is absorbed by the larger serosal surface area. This prevents fluid reaccumulation and avoids the risks and discomfort of repeated procedures.",
+        "whyWrongByChoice": {
+          "C": "Repeated pericardiocentesis exposes the patient to cumulative procedural risks (perforation, infection, pneumothorax) and does not address the underlying mechanism of reaccumulation. It is not a sustainable long-term strategy.",
+          "B": "Complete pericardiectomy is overly aggressive for malignant effusion management. It carries significant surgical morbidity and mortality, especially in patients with advanced malignancy and limited life expectancy.",
+          "D": "Intrapericardial chemotherapy (e.g., cisplatin, thiotepa) may be used as adjunctive therapy but is not standard first-line management. Systemic chemotherapy doses are not appropriate for intrapericardial administration due to toxicity.",
+          "E": "Chronic indwelling pericardial catheters carry significant risks of infection and are generally used as temporary drainage rather than permanent management. A pericardial window is preferred for definitive drainage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-034",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 58-year-old man with known aortic dissection (DeBakey type I) suddenly develops hypotension, jugular venous distension, and muffled heart sounds. Echocardiography reveals a moderate pericardial effusion with echocardiographic signs of tamponade. The surgical team is being mobilized. Which of the following is the most appropriate management approach while awaiting surgery?",
+      "choices": [
+        { "label": "A", "text": "Aggressive pericardiocentesis to drain all pericardial fluid and normalize hemodynamics" },
+        { "label": "B", "text": "Cautious small-volume pericardiocentesis to restore blood pressure to approximately 90 mmHg systolic" },
+        { "label": "C", "text": "IV fluid resuscitation and vasopressors without pericardiocentesis to avoid decompensation" },
+        { "label": "D", "text": "Thrombolytic therapy to dissolve the pericardial clot and relieve tamponade" },
+        { "label": "E", "text": "Emergent chest tube placement for pericardial drainage via the left pleural space" }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In tamponade from aortic dissection, aggressive pericardiocentesis is dangerous because complete decompression can increase aortic transmural pressure, potentially causing uncontrolled hemorrhage from the dissection site. Cautious small-volume drainage to restore a minimally adequate blood pressure (~90 mmHg) is the bridge strategy while emergent surgery is prepared.",
+        "whyCorrect": "The pericardial tamponade in aortic dissection creates a temporary hemostatic equilibrium. Complete pericardiocentesis removes this tamponade effect, which can increase aortic wall stress and precipitate fatal rupture. Controlled, small-volume drainage raises BP just enough to maintain organ perfusion while preserving partial tamponade as a 'natural' hemostatic mechanism until definitive surgical repair.",
+        "whyWrongByChoice": {
+          "A": "Aggressive complete drainage is dangerous in aortic dissection because removing the tamponade effect increases aortic transmural pressure and can cause catastrophic re-bleeding or free rupture of the dissection.",
+          "C": "While IV fluids and vasopressors can be temporizing, withholding pericardiocentesis entirely may result in cardiovascular collapse and death before surgery is available. Controlled drainage is necessary if hemodynamics are severely compromised.",
+          "D": "Thrombolytics are absolutely contraindicated in aortic dissection as they would prevent hemostasis and promote bleeding from the dissection. This would be fatal.",
+          "E": "Chest tube placement does not provide controlled pericardial drainage and would not effectively decompress the pericardial space. Furthermore, uncontrolled drainage carries the same risks as aggressive pericardiocentesis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-035",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 43-year-old man with cardiac tamponade undergoes successful pericardiocentesis. Immediately after drainage, his blood pressure improves and he feels better. However, 2 hours later, he develops progressive dyspnea, bilateral pulmonary crackles, and an S3 gallop. Chest X-ray shows pulmonary edema. Which of the following best explains this complication?",
+      "choices": [
+        { "label": "A", "text": "Fluid overload from excessive intravenous crystalloid resuscitation during the procedure" },
+        { "label": "B", "text": "Acute right ventricular failure from septal shift after pericardial drainage" },
+        { "label": "C", "text": "Aspiration pneumonitis from sedation administered during pericardiocentesis" },
+        { "label": "D", "text": "Pericardial decompression syndrome with sudden increase in venous return to a noncompliant left ventricle" },
+        { "label": "E", "text": "Bilateral pneumothoraces from the pericardiocentesis procedure" }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pericardial decompression syndrome (PDS) is a rare but recognized complication occurring after pericardiocentesis, characterized by acute pulmonary edema and hemodynamic instability. It results from sudden relief of pericardial compression, causing a rapid increase in venous return to a left ventricle that has been chronically compressed and may have transient diastolic dysfunction.",
+        "whyCorrect": "When tamponade is relieved, venous return suddenly increases. The LV, which has been operating under chronic compression, may have transient myocardial dysfunction (stunned myocardium) and cannot accommodate the sudden volume load. This produces acute pulmonary edema. The mechanism involves sudden preload increase to a ventricle with reduced compliance, analogous to re-expansion pulmonary edema.",
+        "whyWrongByChoice": {
+          "A": "While fluid overload could cause pulmonary edema, PDS characteristically occurs even without excessive fluid administration. The mechanism is the sudden redistribution of intravascular volume and venous return after relief of cardiac compression.",
+          "B": "Septal shift after drainage would favor improved LV filling, not impaired filling. The RV is not expected to fail from pericardial drainage; rather, both ventricles experience increased filling.",
+          "C": "Aspiration pneumonitis would present with focal infiltrates, fever, and hypoxia, typically involving dependent lung segments. Bilateral pulmonary edema with an S3 gallop suggests a cardiogenic mechanism.",
+          "E": "Bilateral pneumothoraces would present with absent breath sounds, hyperresonance, and respiratory distress without the cardiogenic pulmonary edema pattern (S3, bilateral crackles) seen here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    },
+    {
+      "id": "pd-036",
+      "topicId": "pericardial-effusion-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "A 35-year-old woman with a large pericardial effusion from autoimmune pericarditis has echocardiographic findings concerning for early tamponade. Doppler evaluation of the mitral valve shows that the E-wave velocity decreases by 35% during the first beat of inspiration compared to expiration. Simultaneously, the tricuspid E-wave velocity increases by 40% during inspiration. Which of the following hemodynamic principles best explains these reciprocal findings?",
+      "choices": [
+        { "label": "A", "text": "Enhanced ventricular interdependence within a fixed total cardiac volume imposed by the tense effusion" },
+        { "label": "B", "text": "Pericardial effusion compresses the pulmonary veins, reducing left atrial filling during inspiration" },
+        { "label": "C", "text": "Inspiratory decrease in left ventricular contractility from reduced coronary perfusion pressure" },
+        { "label": "D", "text": "Reflex parasympathetic activation during inspiration reduces heart rate and stroke volume" },
+        { "label": "E", "text": "Inspiratory reduction in left atrial pressure from increased pulmonary vascular resistance" }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In cardiac tamponade, the tense pericardial effusion creates a fixed total cardiac volume. During inspiration, increased venous return to the right heart causes the RV to expand at the expense of the LV (the interventricular septum shifts leftward). This enhanced ventricular interdependence produces reciprocal respiratory changes in mitral and tricuspid inflow velocities.",
+        "whyCorrect": "The total intrapericardial volume is fixed by the tense effusion. When inspiration increases RV filling, the RV can only expand by shifting the interventricular septum leftward, reducing LV volume and filling. This produces the reciprocal pattern: increased tricuspid E-wave (RV filling) with decreased mitral E-wave (LV filling) during inspiration. This same mechanism underlies pulsus paradoxus.",
+        "whyWrongByChoice": {
+          "B": "The pericardial effusion does not directly compress the pulmonary veins. The mechanism is intra-cardiac: septal shift from enhanced ventricular interdependence within the fixed pericardial volume, not external compression of the pulmonary vasculature.",
+          "C": "Coronary perfusion is not significantly affected on a beat-to-beat basis by respiratory phase changes. Reduced coronary perfusion would cause ischemia rather than the specific reciprocal Doppler pattern described.",
+          "D": "Respiratory sinus arrhythmia does produce mild heart rate variation, but it does not explain the reciprocal changes in mitral versus tricuspid inflow velocities. The finding is specific to enhanced ventricular interdependence.",
+          "E": "Inspiration decreases (not increases) pulmonary vascular resistance due to expansion of alveolar vessels. Furthermore, changes in pulmonary vascular resistance alone do not explain the reciprocal mitral and tricuspid inflow pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": []
+    }
+  ]
+}
