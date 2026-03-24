@@ -34,6 +34,12 @@ export function HomePage({
             <h1 className="text-xl font-bold text-slate-100">CV QBank</h1>
             <p className="text-sm text-slate-400">Cardiovascular Question Bank</p>
           </div>
+          <a
+            href="https://zbenja168.github.io/Resp_QBank/"
+            className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-teal-400 hover:border-teal-600 transition-colors"
+          >
+            Resp QBank &rarr;
+          </a>
           <div className="flex items-center gap-3">
             {stats.total > 0 && (
               <button
