@@ -1,0 +1,2074 @@
+[
+  {
+    "id": "r08-001",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 58-year-old woman is brought to the emergency department after being found unresponsive. Her breathing is irregular with variable tidal volumes and unpredictable pauses. MRI of the brain reveals a large hemorrhagic infarction involving the lower brainstem. Which structure most likely contains the neurons responsible for generating her baseline respiratory rhythm?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Medulla oblongata"
+      },
+      {
+        "label": "B",
+        "text": "Caudal pons"
+      },
+      {
+        "label": "C",
+        "text": "Rostral pons"
+      },
+      {
+        "label": "D",
+        "text": "Frontal cerebral cortex"
+      },
+      {
+        "label": "E",
+        "text": "Posterior cerebellum"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The medulla oblongata is the primary respiratory control center, containing the dorsal respiratory group (DRG) for quiet inspiration and the ventral respiratory group (VRG) for forced breathing. The pons modulates breathing patterns but is not the primary center.",
+      "whyCorrect": "The medulla contains the DRG, which sets the basic rhythm of quiet breathing by sending signals through the phrenic and intercostal nerves. The VRG becomes active during forced breathing. Together they form the primary respiratory control center. Damage here produces ataxic (Biot) breathing or respiratory arrest.",
+      "whyWrongByChoice": {
+        "C": "The rostral pons contains the pneumotaxic center, which modulates breathing patterns by limiting inspiratory duration but does not generate the basic respiratory rhythm.",
+        "B": "The caudal pons contains the apneustic center, which promotes inspiration but relies on the medulla for the fundamental rhythm.",
+        "D": "The frontal cortex provides voluntary control of breathing for activities like speech and singing but does not control automatic respiration.",
+        "E": "The cerebellum coordinates motor movements and posture but does not house the respiratory rhythm generator."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "medulla",
+      "respiratory-control",
+      "brainstem"
+    ]
+  },
+  {
+    "id": "r08-002",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 72-year-old man with a history of chronic kidney disease presents with lethargy and confusion. Arterial blood gas shows pH 7.22, PaCO2 22 mmHg, PaO2 96 mmHg, and HCO3- 9 mEq/L. His respiratory rate is 28 breaths/min with deep, labored breathing. Which receptor type is the primary driver of his increased ventilation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Carotid body chemoreceptors"
+      },
+      {
+        "label": "B",
+        "text": "Central medullary chemoreceptors"
+      },
+      {
+        "label": "C",
+        "text": "Pulmonary stretch receptors"
+      },
+      {
+        "label": "D",
+        "text": "Aortic body baroreceptors"
+      },
+      {
+        "label": "E",
+        "text": "Juxtacapillary C-fiber receptors"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Central chemoreceptors in the ventral medulla respond to decreased CSF pH. In metabolic acidosis, the primary stimulus driving ventilation is the decreased pH sensed centrally. CO2 crosses the blood-brain barrier and lowers CSF pH, stimulating these receptors.",
+      "whyCorrect": "Central chemoreceptors detect decreased CSF pH resulting from CO2 diffusion across the blood-brain barrier and conversion to H+ via carbonic anhydrase. Although blood H+ cannot cross the BBB directly, sustained metabolic acidosis eventually lowers CSF pH through compensatory mechanisms, driving the hyperventilation seen here.",
+      "whyWrongByChoice": {
+        "A": "Peripheral chemoreceptors in the carotid body primarily detect low PaO2 (below 75 mmHg). This patient's PaO2 is 96 mmHg, so hypoxemia is not the stimulus driving his ventilation.",
+        "C": "Pulmonary stretch receptors detect lung distension and mediate the Hering-Breuer reflex. They limit overinflation but do not drive compensatory hyperventilation in metabolic acidosis.",
+        "D": "Aortic body baroreceptors sense blood pressure changes, not pH or blood gas alterations. They are part of cardiovascular, not respiratory, reflex pathways.",
+        "E": "Juxtacapillary receptors respond to pulmonary congestion and interstitial edema, causing rapid shallow breathing. They are not involved in the response to metabolic acidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "central-chemoreceptors",
+      "CSF-pH",
+      "ventilation-control"
+    ]
+  },
+  {
+    "id": "r08-003",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 45-year-old woman undergoes bilateral carotid endarterectomy. Postoperatively, she has blunted ventilatory responses to hypoxemia but maintains a normal response to hypercapnia. The surgically disrupted receptors are most sensitive to which stimulus?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Elevated cerebrospinal fluid pH"
+      },
+      {
+        "label": "B",
+        "text": "Elevated arterial PO2"
+      },
+      {
+        "label": "C",
+        "text": "Decreased arterial PO2"
+      },
+      {
+        "label": "D",
+        "text": "Reduced lung compliance"
+      },
+      {
+        "label": "E",
+        "text": "Increased hemoglobin affinity"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Peripheral chemoreceptors (carotid bodies via CN IX, aortic bodies via CN X) primarily detect low arterial PO2 (especially below 75 mmHg). They also respond to elevated PaCO2 and low pH, but their unique and primary role is oxygen sensing.",
+      "whyCorrect": "Carotid body chemoreceptors are the body's primary oxygen sensors. When PaO2 falls below approximately 75 mmHg, they significantly increase afferent signaling to the medulla via the glossopharyngeal nerve (CN IX), stimulating ventilation. Surgical disruption during endarterectomy eliminates this hypoxic sensing.",
+      "whyWrongByChoice": {
+        "A": "CSF pH is monitored by central chemoreceptors in the ventral medulla, not by peripheral carotid body chemoreceptors. Central chemoreceptors are unaffected by carotid surgery.",
+        "B": "High PaO2 does not stimulate chemoreceptors. If anything, very high PO2 suppresses the peripheral chemoreceptor output.",
+        "D": "Lung compliance changes are not detected by chemoreceptors. Pulmonary stretch receptors and mechanoreceptors sense mechanical lung properties.",
+        "E": "Hemoglobin oxygen affinity is not directly sensed by peripheral chemoreceptors. They respond to the partial pressure of dissolved oxygen in arterial blood."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "peripheral-chemoreceptors",
+      "carotid-body",
+      "hypoxemia"
+    ]
+  },
+  {
+    "id": "r08-004",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 71-year-old man with severe COPD and chronic CO2 retention (baseline PaCO2 58 mmHg) is admitted for pneumonia. A well-meaning nurse increases his supplemental oxygen to 6 L/min by nasal cannula. Thirty minutes later, the patient becomes somnolent with a PaCO2 of 78 mmHg. Which mechanism best explains this deterioration?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Worsened ventilation-perfusion mismatch"
+      },
+      {
+        "label": "B",
+        "text": "Oxygen-induced respiratory alkalosis"
+      },
+      {
+        "label": "C",
+        "text": "Enhanced surfactant degradation"
+      },
+      {
+        "label": "D",
+        "text": "Suppression of hypoxic ventilatory drive"
+      },
+      {
+        "label": "E",
+        "text": "Increased mucociliary clearance"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In chronic COPD with CO2 retention, central chemoreceptors become desensitized to elevated PaCO2. The remaining respiratory drive depends on peripheral chemoreceptors sensing hypoxemia (hypoxic drive). Excessive O2 raises PaO2, suppressing this last remaining drive, causing hypoventilation and dangerous CO2 narcosis.",
+      "whyCorrect": "Chronic hypercapnia desensitizes central chemoreceptors to CO2. The patient's breathing depends on peripheral chemoreceptor detection of low PaO2. Excessive supplemental O2 raises PaO2 above the hypoxic threshold, removing this drive and causing respiratory depression with worsening hypercapnia and somnolence.",
+      "whyWrongByChoice": {
+        "A": "While V/Q mismatch from release of hypoxic pulmonary vasoconstriction can contribute to CO2 retention with supplemental O2, the primary acute mechanism here is suppression of the hypoxic ventilatory drive leading to hypoventilation.",
+        "B": "Excessive O2 suppresses respiratory drive in these patients, causing hypoventilation and respiratory acidosis (not alkalosis). The rising PaCO2 confirms acidosis.",
+        "C": "Supplemental oxygen does not cause surfactant degradation. Surfactant is produced by type II pneumocytes independently of inspired O2 concentration.",
+        "E": "Supplemental oxygen does not significantly alter mucociliary clearance and cannot explain the acute rise in PaCO2 and somnolence."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "COPD",
+      "hypoxic-drive",
+      "oxygen-therapy"
+    ]
+  },
+  {
+    "id": "r08-005",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 34-year-old man is found unresponsive with pinpoint pupils and a respiratory rate of 4 breaths/min. His breathing pattern is irregular with variable tidal volumes and unpredictable pauses between breaths. Needle marks are visible on his arms. Which breathing pattern is most consistent with this presentation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Kussmaul respirations"
+      },
+      {
+        "label": "B",
+        "text": "Cheyne-Stokes breathing"
+      },
+      {
+        "label": "C",
+        "text": "Apneustic breathing pattern"
+      },
+      {
+        "label": "D",
+        "text": "Obstructive sleep apnea"
+      },
+      {
+        "label": "E",
+        "text": "Biot (ataxic) breathing"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Biot breathing (ataxic breathing) features an irregular, unpredictable pattern with episodes of apnea. It is classically associated with opioid intoxication or damage to the medulla, reflecting disruption of the primary respiratory control center.",
+      "whyCorrect": "The clinical picture (pinpoint pupils, needle marks, depressed consciousness, very low respiratory rate) indicates opioid overdose. Opioids depress medullary function, producing the chaotic, irregular breathing pattern with unpredictable pauses that defines Biot respiration.",
+      "whyWrongByChoice": {
+        "A": "Kussmaul respirations are deep, labored, continuous breathing without pauses, seen in severe metabolic acidosis such as diabetic ketoacidosis. They are regular, not chaotic.",
+        "B": "Cheyne-Stokes breathing shows a predictable crescendo-decrescendo pattern with regular central apneic episodes. It is associated with heart failure and bilateral cerebral lesions, not opioid overdose.",
+        "C": "Apneustic breathing features prolonged inspiratory holds followed by brief expirations and is caused by pontine lesions, not medullary depression from opioids.",
+        "D": "Obstructive sleep apnea causes intermittent upper airway obstruction during sleep with snoring, not the irregular ataxic pattern seen with medullary depression."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "biot-breathing",
+      "medulla",
+      "opioid-intoxication"
+    ]
+  },
+  {
+    "id": "r08-006",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 68-year-old man with systolic heart failure (ejection fraction 20%) is observed in the cardiac ICU. Overnight telemetry shows a cyclical breathing pattern with progressive increases then decreases in tidal volume, separated by 15-second periods of central apnea. Which condition is most likely responsible for this pattern?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Opioid-induced hypoventilation"
+      },
+      {
+        "label": "B",
+        "text": "Acute asthma exacerbation"
+      },
+      {
+        "label": "C",
+        "text": "Tension pneumothorax"
+      },
+      {
+        "label": "D",
+        "text": "Congestive heart failure"
+      },
+      {
+        "label": "E",
+        "text": "Acute COPD exacerbation"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cheyne-Stokes respiration features a crescendo-decrescendo pattern of breathing depth with periods of central apnea. It is seen in heart failure (delayed circulation time), neurologic disease, and high-altitude exposure.",
+      "whyCorrect": "The oscillating pattern results from delayed feedback between blood gas changes and the respiratory center. In severe heart failure, prolonged circulation time delays chemoreceptor feedback, causing the respiratory center to overcorrect repeatedly, producing the characteristic waxing-waning pattern with central apnea.",
+      "whyWrongByChoice": {
+        "A": "Opioid overdose produces Biot (ataxic) breathing with irregular, unpredictable pauses and variable tidal volumes, not the regular crescendo-decrescendo pattern described.",
+        "B": "Asthma exacerbation causes wheezing, prolonged expiration, and tachypnea from bronchospasm, not a cyclical crescendo-decrescendo breathing pattern.",
+        "C": "Tension pneumothorax causes acute dyspnea, hypotension, and absent breath sounds from lung collapse, not a cyclical breathing pattern.",
+        "E": "COPD exacerbation causes dyspnea with air trapping, wheezing, and prolonged expiration but is not typically associated with the crescendo-decrescendo apneic pattern described."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cheyne-stokes",
+      "heart-failure",
+      "pathological-breathing"
+    ]
+  },
+  {
+    "id": "r08-007",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 28-year-old man ascends to a base camp at 5,200 meters over 2 days. Within hours of arrival, he develops a headache, dizziness, and mild dyspnea at rest. Arterial blood gas shows pH 7.48, PaCO2 30 mmHg, and PaO2 52 mmHg. Which mechanism initiated his current ventilatory response?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Peripheral chemoreceptor activation"
+      },
+      {
+        "label": "B",
+        "text": "Central chemoreceptor inhibition"
+      },
+      {
+        "label": "C",
+        "text": "Increased arterial CO2 retention"
+      },
+      {
+        "label": "D",
+        "text": "Suppressed erythropoietin release"
+      },
+      {
+        "label": "E",
+        "text": "Leftward hemoglobin curve shift"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "At high altitude, decreased atmospheric PO2 causes hypoxemia (PaO2 52 mmHg). Peripheral chemoreceptors (carotid bodies) detect the low PaO2 and stimulate hyperventilation, which increases PAO2 while simultaneously lowering PaCO2, causing the respiratory alkalosis shown (pH 7.48, PaCO2 30 mmHg).",
+      "whyCorrect": "Peripheral chemoreceptors are the primary sensors for low PaO2. When PaO2 falls significantly at altitude, they increase afferent signaling to the medulla, triggering hyperventilation. The resulting CO2 washout produces respiratory alkalosis as the immediate compensatory response.",
+      "whyWrongByChoice": {
+        "B": "Central chemoreceptors would actually be inhibited by the respiratory alkalosis (elevated CSF pH from low PaCO2), which initially limits the hyperventilatory response. The drive comes from peripheral receptors detecting hypoxemia.",
+        "C": "Hyperventilation at altitude causes CO2 loss (low PaCO2 of 30 mmHg), not retention. The respiratory alkalosis confirms CO2 is being blown off, not retained.",
+        "D": "Chronic hypoxemia at altitude increases EPO production over days to weeks, stimulating erythrocyte production. EPO does not initiate the acute hyperventilatory response.",
+        "E": "Chronic altitude exposure causes a rightward shift (increased 2,3-DPG) to improve O2 delivery. A leftward shift would impair tissue O2 unloading and is not the mechanism here."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "high-altitude",
+      "hyperventilation",
+      "peripheral-chemoreceptors"
+    ]
+  },
+  {
+    "id": "r08-008",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 3-month-old infant undergoes pulmonary function testing in a research protocol. When tidal volume exceeds a certain threshold, inspiration is reflexively terminated. This protective reflex is abolished after bilateral sectioning of which nerve?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Glossopharyngeal nerve (CN IX)"
+      },
+      {
+        "label": "B",
+        "text": "Phrenic nerve (C3-C5)"
+      },
+      {
+        "label": "C",
+        "text": "Intercostal nerves (T1-T11)"
+      },
+      {
+        "label": "D",
+        "text": "Recurrent laryngeal nerve"
+      },
+      {
+        "label": "E",
+        "text": "Vagus nerve (CN X)"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The Hering-Breuer inflation reflex is mediated by slowly-adapting pulmonary stretch receptors in the airway smooth muscle. When the lungs inflate beyond a threshold, these receptors send inhibitory signals via the vagus nerve to the medulla to terminate inspiration.",
+      "whyCorrect": "Pulmonary stretch receptors detect the degree of lung inflation. As the lungs expand, increasing stretch triggers afferent signals through the vagus nerve (CN X) to the nucleus tractus solitarius, which inhibits inspiratory neurons in the medulla and terminates inspiration, preventing overinflation.",
+      "whyWrongByChoice": {
+        "A": "The glossopharyngeal nerve carries afferent signals from carotid body chemoreceptors. It does not mediate the Hering-Breuer inflation reflex.",
+        "B": "The phrenic nerve is a motor nerve to the diaphragm. It carries efferent signals for inspiration but does not carry the afferent limb of the Hering-Breuer reflex.",
+        "C": "Intercostal nerves innervate the intercostal muscles. They carry motor commands for chest wall movement but do not mediate the lung inflation reflex.",
+        "D": "The recurrent laryngeal nerve innervates the intrinsic laryngeal muscles controlling vocal cord movement. It is not involved in the Hering-Breuer reflex."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "hering-breuer",
+      "stretch-receptors",
+      "vagus-nerve"
+    ]
+  },
+  {
+    "id": "r08-009",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 55-year-old man has a posterior inferior cerebellar artery stroke affecting the lateral medulla. The neurologist notes that afferent respiratory input from both peripheral chemoreceptors and lung mechanoreceptors converges on the nucleus tractus solitarius in this region. These afferent signals travel via which cranial nerves?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Trigeminal and facial (V, VII)"
+      },
+      {
+        "label": "B",
+        "text": "Glossopharyngeal and vagus (IX, X)"
+      },
+      {
+        "label": "C",
+        "text": "Accessory and hypoglossal (XI, XII)"
+      },
+      {
+        "label": "D",
+        "text": "Oculomotor and trochlear (III, IV)"
+      },
+      {
+        "label": "E",
+        "text": "Olfactory and optic (I, II)"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The DRG/nucleus tractus solitarius receives afferent signals from the glossopharyngeal nerve (CN IX, from the carotid body) and the vagus nerve (CN X, from the aortic body and lung mechanoreceptors). These provide input about blood gases and lung mechanics.",
+      "whyCorrect": "CN IX carries signals from the carotid body chemoreceptors, while CN X carries signals from the aortic body chemoreceptors, pulmonary stretch receptors, and J-receptors. Both synapse in the nucleus tractus solitarius near the DRG to modulate respiratory output.",
+      "whyWrongByChoice": {
+        "A": "CN V (trigeminal) provides facial sensation and mastication, and CN VII (facial) controls facial muscles and taste. Neither carries chemoreceptor or pulmonary receptor input.",
+        "C": "CN XI (accessory) innervates the sternocleidomastoid and trapezius, and CN XII (hypoglossal) innervates the tongue. Neither provides respiratory afferent input to the medulla.",
+        "D": "CN III (oculomotor) and CN IV (trochlear) control eye movements. They have no role in respiratory afferent pathways.",
+        "E": "CN I (olfactory) mediates smell, and CN II (optic) mediates vision. Neither carries respiratory chemoreceptor or mechanoreceptor signals."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "DRG",
+      "CN-IX",
+      "CN-X",
+      "respiratory-control"
+    ]
+  },
+  {
+    "id": "r08-010",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 32-year-old woman has been living at 4,000 meters for 3 weeks. Laboratory studies show hemoglobin 17.2 g/dL (baseline 13.5 g/dL) and elevated erythropoietin levels. Her oxyhemoglobin dissociation curve is shifted rightward compared to sea-level controls. Which combined effect do these adaptations produce?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Reduced tissue oxygen delivery"
+      },
+      {
+        "label": "B",
+        "text": "Left curve shift with polycythemia"
+      },
+      {
+        "label": "C",
+        "text": "Enhanced tissue oxygen unloading"
+      },
+      {
+        "label": "D",
+        "text": "Decreased hemoglobin concentration"
+      },
+      {
+        "label": "E",
+        "text": "Increased pulmonary vascular resistance"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Increased 2,3-DPG shifts the oxyhemoglobin curve rightward (decreasing Hb O2 affinity, promoting tissue unloading), while increased EPO stimulates red blood cell production, raising hemoglobin and oxygen-carrying capacity. Together they improve tissue oxygen delivery at altitude.",
+      "whyCorrect": "The rightward shift from elevated 2,3-DPG facilitates O2 release at the tissue level. Increased RBC mass from EPO raises total oxygen content in the blood. These complementary adaptations partially compensate for the reduced arterial PO2 at altitude by enhancing tissue oxygen delivery.",
+      "whyWrongByChoice": {
+        "A": "These adaptations improve, not reduce, oxygen delivery to tissues. They are beneficial compensatory mechanisms for chronic altitude hypoxemia.",
+        "B": "The rightward shift (from 2,3-DPG) is the opposite of a leftward shift. While polycythemia is present, the curve direction is incorrect.",
+        "D": "EPO stimulates erythropoiesis, increasing hemoglobin from 13.5 to 17.2 g/dL (polycythemia). Hemoglobin concentration increases, not decreases.",
+        "E": "While hypoxic pulmonary vasoconstriction does increase PVR at altitude, the question specifically asks about the effects of elevated 2,3-DPG and EPO, which improve oxygen delivery rather than affect PVR."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "altitude-acclimatization",
+      "2,3-DPG",
+      "erythropoietin"
+    ]
+  },
+  {
+    "id": "r08-011",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 62-year-old man suffers a pontine hemorrhage affecting the rostral pons. Postoperatively, he exhibits deep, prolonged inspiratory efforts with markedly increased tidal volumes and a decreased respiratory rate. Which structure was most likely damaged to produce this pattern?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Dorsal respiratory group"
+      },
+      {
+        "label": "B",
+        "text": "Ventral respiratory group"
+      },
+      {
+        "label": "C",
+        "text": "Motor cortex"
+      },
+      {
+        "label": "D",
+        "text": "Pneumotaxic center"
+      },
+      {
+        "label": "E",
+        "text": "Carotid body afferents"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The pneumotaxic center (PNC) in the rostral pons inhibits inspiration by signaling the DRG to stop. Without this inhibitory input, inspiration is prolonged, leading to increased tidal volumes and a slower respiratory rate (apneustic-like pattern).",
+      "whyCorrect": "The PNC normally limits inspiration duration by sending inhibitory signals to the DRG. Without it, the apneustic center's stimulatory influence on inspiration is unopposed, causing prolonged inspiratory efforts with increased tidal volumes and decreased respiratory rate.",
+      "whyWrongByChoice": {
+        "A": "The DRG is located in the medulla, not the pons. Damage to the DRG would disrupt the basic respiratory rhythm, not produce prolonged inspiratory holds.",
+        "B": "The VRG is also in the medulla and is active during forced breathing. Its damage would impair forced ventilation, not cause the described pattern.",
+        "C": "The motor cortex mediates voluntary breathing. Its damage would impair speech and voluntary breath control but not produce the stereotyped prolonged inspiration seen here.",
+        "E": "Carotid body afferent damage would blunt hypoxic sensing. It would not produce prolonged inspiratory efforts or alter the basic breathing pattern in this manner."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "pneumotaxic-center",
+      "apneusis",
+      "pons"
+    ]
+  },
+  {
+    "id": "r08-012",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 25-year-old woman begins running on a treadmill during a cardiopulmonary exercise test. Within the first 10 seconds, her minute ventilation increases from 6 L/min to 18 L/min, before any measurable change in arterial PaCO2 or PaO2. Which mechanism best explains this immediate ventilatory response?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Peripheral chemoreceptor feedback"
+      },
+      {
+        "label": "B",
+        "text": "Central chemoreceptor stimulation"
+      },
+      {
+        "label": "C",
+        "text": "Feedforward anticipatory response"
+      },
+      {
+        "label": "D",
+        "text": "Hering-Breuer inflation reflex"
+      },
+      {
+        "label": "E",
+        "text": "Hypoxic pulmonary vasoconstriction"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "At the onset of exercise, ventilation increases almost immediately through a feedforward (anticipatory) neural mechanism, before any measurable changes in blood gases. The brain anticipates increased O2 demand and CO2 production and increases ventilation proactively.",
+      "whyCorrect": "The feedforward response is a neural mechanism where cortical motor areas and proprioceptive input from exercising muscles signal the respiratory centers to increase ventilation immediately. This occurs within seconds, before PaCO2 rises or PaO2 falls, explaining the pre-blood-gas ventilatory increase.",
+      "whyWrongByChoice": {
+        "A": "Peripheral chemoreceptors respond to actual blood gas changes (low PaO2, high PaCO2, low pH). Since blood gases have not changed yet, chemoreceptor feedback cannot explain the immediate response.",
+        "B": "Central chemoreceptors detect CSF pH changes from CO2. They contribute during sustained exercise but cannot explain the immediate onset ventilatory increase before any CO2 change occurs.",
+        "D": "The Hering-Breuer reflex prevents lung overinflation by terminating inspiration. It does not drive the initial ventilatory increase with exercise onset.",
+        "E": "Hypoxic pulmonary vasoconstriction is a pulmonary vascular response to alveolar hypoxia that redirects blood flow. It does not control minute ventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "exercise",
+      "feedforward",
+      "anticipatory-response"
+    ]
+  },
+  {
+    "id": "r08-013",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 19-year-old woman with type 1 diabetes presents to the emergency department with nausea, abdominal pain, and fruity breath odor. Her respiratory rate is 32 breaths/min with deep, labored breathing without pauses. Arterial blood gas shows pH 7.12, PaCO2 18 mmHg, and HCO3- 6 mEq/L. Which breathing pattern does this represent?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Biot ataxic respiration"
+      },
+      {
+        "label": "B",
+        "text": "Cheyne-Stokes respiration"
+      },
+      {
+        "label": "C",
+        "text": "Apneustic breathing pattern"
+      },
+      {
+        "label": "D",
+        "text": "Kussmaul respirations"
+      },
+      {
+        "label": "E",
+        "text": "Obstructive sleep apnea"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Kussmaul respirations are deep, rapid, labored breathing representing the respiratory system's maximal effort to compensate for severe metabolic acidosis. They are classically associated with diabetic ketoacidosis (DKA).",
+      "whyCorrect": "In DKA, ketoacid accumulation causes severe metabolic acidosis (pH 7.12, HCO3- 6 mEq/L). Central and peripheral chemoreceptors detect the low pH and drive maximal ventilation to blow off CO2 (PaCO2 18 mmHg). The resulting deep, continuous, labored breathing pattern without pauses is Kussmaul respiration.",
+      "whyWrongByChoice": {
+        "A": "Biot breathing is irregular with unpredictable pauses and variable volumes, caused by medullary damage or opioid overdose. Kussmaul breathing is regular, deep, and continuous.",
+        "B": "Cheyne-Stokes breathing features a predictable crescendo-decrescendo pattern with central apnea, seen in heart failure. The patient's breathing is continuously deep without cyclical variation.",
+        "C": "Apneustic breathing shows prolonged inspiratory holds followed by brief expirations, caused by pontine lesions. This pattern is distinctly different from the continuous deep breathing described.",
+        "E": "Obstructive sleep apnea causes intermittent upper airway obstruction during sleep with snoring and oxygen desaturation, not the deep continuous breathing seen in metabolic acidosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "kussmaul",
+      "DKA",
+      "metabolic-acidosis"
+    ]
+  },
+  {
+    "id": "r08-014",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A researcher studies the ventilatory response to CO2 in healthy volunteers. When subjects breathe a gas mixture with elevated CO2, their minute ventilation increases. The researcher then reduces the inspired O2 concentration to simulate mild hypoxemia while maintaining the same elevated CO2. Minute ventilation increases further. Which statement best explains this finding?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "High PaO2 potentiates CO2 sensitivity"
+      },
+      {
+        "label": "B",
+        "text": "Metabolic alkalosis augments the response"
+      },
+      {
+        "label": "C",
+        "text": "Decreased 2,3-DPG enhances chemoreception"
+      },
+      {
+        "label": "D",
+        "text": "Hypothermia increases receptor sensitivity"
+      },
+      {
+        "label": "E",
+        "text": "Concurrent hypoxemia amplifies CO2 response"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Hypoxemia amplifies the ventilatory response to CO2. When both PaCO2 is elevated and PaO2 is low, the ventilatory response is synergistically greater than either stimulus alone, providing a critical safety mechanism for gas exchange.",
+      "whyCorrect": "The ventilatory response curves demonstrate that at any given PaCO2, lower PaO2 produces a steeper and greater ventilatory increase. This synergy between hypercapnia and hypoxemia ensures a robust ventilatory response when both derangements are present simultaneously.",
+      "whyWrongByChoice": {
+        "A": "High PaO2 actually reduces ventilatory sensitivity to CO2 by removing the synergistic hypoxic contribution. It blunts, not potentiates, the CO2 response.",
+        "B": "Metabolic alkalosis raises blood pH, which opposes the acidifying effect of CO2 and blunts the ventilatory response rather than augmenting it.",
+        "C": "2,3-DPG affects hemoglobin oxygen affinity and tissue oxygen delivery. It does not directly alter the ventilatory chemoreceptor response to CO2.",
+        "D": "Hypothermia decreases metabolic rate, CO2 production, and overall neural responsiveness. It blunts rather than increases chemoreceptor sensitivity."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO2-ventilatory-response",
+      "hypoxemia",
+      "synergy"
+    ]
+  },
+  {
+    "id": "r08-015",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 30-year-old man ascends rapidly to 4,800 meters without acclimatization. On day 2, he develops severe headache, confusion, and gait ataxia. MRI of the brain shows diffuse cerebral edema. Which pathophysiologic mechanism is most responsible for this condition?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Hypocapnia-induced vasoconstriction"
+      },
+      {
+        "label": "B",
+        "text": "Hypoxia-induced cerebral vasodilation"
+      },
+      {
+        "label": "C",
+        "text": "Suppressed erythropoietin secretion"
+      },
+      {
+        "label": "D",
+        "text": "Hypoventilation-induced respiratory acidosis"
+      },
+      {
+        "label": "E",
+        "text": "Dehydration-mediated hemoconcentration"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "HACE (high-altitude cerebral edema) is caused by hypoxia-induced cerebral vasodilation at high altitude. The vasodilation increases capillary permeability and hydrostatic pressure, allowing fluid to leak into brain tissue, causing cerebral edema and increased intracranial pressure.",
+      "whyCorrect": "Hypoxia triggers cerebral vasodilation as a compensatory mechanism to increase brain blood flow and oxygen delivery. However, the increased blood flow and capillary pressure, combined with endothelial dysfunction and increased permeability, causes fluid transudation into brain tissue, producing HACE with confusion, ataxia, and altered consciousness.",
+      "whyWrongByChoice": {
+        "A": "Hypocapnia from hyperventilation at altitude causes cerebral vasoconstriction, which would reduce blood flow and edema formation. HACE results from the opposing vasodilatory effect of hypoxia.",
+        "C": "EPO production increases at altitude, stimulating red blood cell production. This is a beneficial compensatory response and does not cause cerebral edema.",
+        "D": "At altitude, respiratory alkalosis from hyperventilation occurs (not acidosis). The hyperventilation is driven by peripheral chemoreceptor detection of hypoxemia.",
+        "E": "While dehydration can occur at altitude from increased respiratory water loss, it does not cause the cerebral vasodilation and edema formation characteristic of HACE."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "HACE",
+      "high-altitude",
+      "cerebral-edema"
+    ]
+  },
+  {
+    "id": "r08-016",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 52-year-old woman with moderate persistent asthma presents during an exacerbation with diffuse expiratory wheezing. Spirometry shows her airway radius has decreased by 50% compared to baseline. According to Poiseuille's law, by what factor has her airway resistance increased?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "2-fold increase"
+      },
+      {
+        "label": "B",
+        "text": "4-fold increase"
+      },
+      {
+        "label": "C",
+        "text": "8-fold increase"
+      },
+      {
+        "label": "D",
+        "text": "16-fold increase"
+      },
+      {
+        "label": "E",
+        "text": "32-fold increase"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Per Poiseuille's law, R is proportional to 1/r^4. If radius decreases by 50% (r becomes 0.5r): new resistance = 1/(0.5)^4 = 1/0.0625 = 16 times the original resistance. Even small changes in airway caliber dramatically affect resistance.",
+      "whyCorrect": "Applying Poiseuille's law: R is proportional to 1/r^4. When r is halved, resistance becomes 1/(0.5)^4 = 16 times greater. This fourth-power relationship explains why even modest airway narrowing in asthma causes dramatic increases in resistance and severe dyspnea.",
+      "whyWrongByChoice": {
+        "A": "A 2-fold increase would apply if resistance were inversely proportional to the first power of radius (1/r). Poiseuille's law specifies the fourth power.",
+        "B": "A 4-fold increase would apply if the relationship were 1/r^2, not the fourth power specified by Poiseuille's law.",
+        "C": "An 8-fold increase would apply if the relationship were 1/r^3. The correct exponent is 4.",
+        "E": "A 32-fold increase would apply if the relationship were 1/r^5. Poiseuille's law uses exactly the fourth power of the radius."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "poiseuilles-law",
+      "airway-resistance",
+      "radius"
+    ]
+  },
+  {
+    "id": "r08-017",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A pulmonary physiologist measures airway resistance at different levels of the tracheobronchial tree in a healthy volunteer. She finds that total resistance is highest in a specific generation of airways, despite those airways having larger individual radii than terminal bronchioles. Which airway generation contributes most to total resistance?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Terminal bronchioles"
+      },
+      {
+        "label": "B",
+        "text": "Medium-sized bronchi"
+      },
+      {
+        "label": "C",
+        "text": "Alveolar ducts"
+      },
+      {
+        "label": "D",
+        "text": "Respiratory bronchioles"
+      },
+      {
+        "label": "E",
+        "text": "Alveolar sacs"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Although medium-sized bronchi have larger individual radii than small airways, they are fewer in number and lack the massive parallel arrangement of bronchioles. The small airways, while individually narrow, are so numerous that their combined cross-sectional area is enormous, resulting in low total resistance at that level.",
+      "whyCorrect": "Medium-sized bronchi (generations 3-7) contribute the most to total airway resistance because they have intermediate radii without the enormous parallel arrangement of the terminal bronchioles. The vast number of small airways in parallel gives them a huge combined cross-sectional area, making their total resistance low.",
+      "whyWrongByChoice": {
+        "A": "Terminal bronchioles individually have high resistance due to small radii, but their enormous number arranged in parallel gives them a very large combined cross-sectional area and therefore low total resistance.",
+        "C": "Alveolar ducts are in the gas exchange zone with very thin walls and minimal airflow velocity. They contribute negligible resistance to the total.",
+        "D": "Respiratory bronchioles, like terminal bronchioles, are small but extremely numerous in parallel. Their combined cross-sectional area is large, contributing little to total resistance.",
+        "E": "Alveolar sacs are terminal structures where gas exchange occurs by diffusion. There is minimal bulk airflow and therefore negligible resistance."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "airway-resistance",
+      "medium-bronchi",
+      "cross-sectional-area"
+    ]
+  },
+  {
+    "id": "r08-018",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 48-year-old man with newly diagnosed asthma asks his physician why inhaled ipratropium helps his breathing. The physician explains that the parasympathetic nervous system normally causes airway smooth muscle contraction. Which receptor mediates this parasympathetic bronchoconstriction?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Beta-2 adrenergic receptors"
+      },
+      {
+        "label": "B",
+        "text": "Alpha-1 adrenergic receptors"
+      },
+      {
+        "label": "C",
+        "text": "Nicotinic cholinergic receptors"
+      },
+      {
+        "label": "D",
+        "text": "Muscarinic cholinergic receptors"
+      },
+      {
+        "label": "E",
+        "text": "Histamine H1 receptors"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Parasympathetic fibers (via the vagus nerve) release acetylcholine, which acts on muscarinic receptors on bronchial smooth muscle, causing contraction (bronchoconstriction) and increased mucus secretion. This is the opposite of sympathetic beta-2 stimulation.",
+      "whyCorrect": "Parasympathetic cholinergic stimulation activates muscarinic (M3) receptors on airway smooth muscle, causing contraction that narrows the airway lumen and increases resistance. This is why anticholinergic drugs like ipratropium, which block muscarinic receptors, are effective bronchodilators.",
+      "whyWrongByChoice": {
+        "A": "Beta-2 adrenergic receptors mediate sympathetic bronchodilation when stimulated, causing smooth muscle relaxation. They are not involved in parasympathetic bronchoconstriction.",
+        "B": "Alpha-1 adrenergic receptors are found primarily in vascular smooth muscle and mediate vasoconstriction. They do not play a significant role in bronchial smooth muscle tone.",
+        "C": "Nicotinic cholinergic receptors are found at the neuromuscular junction and autonomic ganglia. Postganglionic parasympathetic effects on bronchial smooth muscle are mediated by muscarinic, not nicotinic, receptors.",
+        "E": "Histamine H1 receptors can contribute to bronchoconstriction during allergic reactions, but they do not mediate the baseline parasympathetic cholinergic tone described."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "parasympathetic",
+      "bronchoconstriction",
+      "muscarinic"
+    ]
+  },
+  {
+    "id": "r08-019",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 66-year-old man with a 40-pack-year smoking history presents with progressive dyspnea and barrel-shaped chest. CT scan shows diffuse alveolar wall destruction and enlarged air spaces. Pulmonary function tests reveal an FEV1/FVC ratio of 45% and markedly elevated residual volume. Which mechanism best explains his increased airway resistance during expiration?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Loss of radial traction on airways"
+      },
+      {
+        "label": "B",
+        "text": "Excessive bronchial smooth muscle tone"
+      },
+      {
+        "label": "C",
+        "text": "Increased pulmonary elastic recoil"
+      },
+      {
+        "label": "D",
+        "text": "Surfactant overproduction"
+      },
+      {
+        "label": "E",
+        "text": "Improved FEV1/FVC ratio"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In emphysema, destruction of alveolar walls and their elastic fibers weakens the radial traction that normally keeps small airways open during expiration. Without this tethering force, airways collapse when intrathoracic pressure rises during expiration (dynamic airway collapse), causing air trapping and hyperinflation.",
+      "whyCorrect": "Radial traction from surrounding alveolar tissue normally holds small airways open. Emphysema destroys the elastic tissue providing this traction, allowing airways to collapse when intrathoracic pressure exceeds airway pressure during expiration. This is the mechanism of air trapping, elevated residual volume, and the barrel-shaped chest.",
+      "whyWrongByChoice": {
+        "B": "While bronchospasm contributes to airway obstruction in asthma, the primary problem in emphysema is structural loss of elastic tissue and radial traction, not excessive smooth muscle tone.",
+        "C": "Elastic recoil is decreased (not increased) in emphysema due to destruction of elastin fibers. This loss of recoil is a hallmark of the disease and reduces the driving force for passive expiration.",
+        "D": "Surfactant production is not increased in emphysema. The pathology involves alveolar wall destruction, not surfactant abnormalities.",
+        "E": "The FEV1/FVC ratio is decreased to 45% in this patient, reflecting airflow obstruction. It does not improve in emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "emphysema",
+      "radial-traction",
+      "dynamic-airway-collapse",
+      "air-trapping"
+    ]
+  },
+  {
+    "id": "r08-020",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A medical student is studying respiratory physiology. She learns that at a specific lung volume, the inward elastic recoil of the lungs exactly balances the outward spring of the chest wall. At this equilibrium volume, with the glottis open, which statement is true?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Maximal muscular effort is required"
+      },
+      {
+        "label": "B",
+        "text": "Pleural pressure is strongly positive"
+      },
+      {
+        "label": "C",
+        "text": "The lungs are maximally inflated"
+      },
+      {
+        "label": "D",
+        "text": "Airway resistance is at its maximum"
+      },
+      {
+        "label": "E",
+        "text": "Alveolar pressure equals atmospheric pressure"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "FRC is the equilibrium point where the opposing elastic forces of the lungs and chest wall balance. At FRC, with the glottis open, alveolar pressure equals atmospheric pressure, no respiratory muscle effort is needed, and the respiratory system is at its most mechanically efficient.",
+      "whyCorrect": "At FRC, the inward pull of the lungs and outward spring of the chest wall are exactly balanced. With no net force and the glottis open, alveolar pressure equals atmospheric (zero transmural pressure gradient). No muscular effort is required, and this volume provides optimal compliance and minimal work of breathing.",
+      "whyWrongByChoice": {
+        "A": "No muscular effort is needed at FRC because it is the passive resting volume where elastic forces are perfectly balanced.",
+        "B": "Pleural pressure remains negative at FRC (approximately -5 cm H2O). It does not become positive until forced expiration.",
+        "C": "The lungs are partially inflated at FRC, not maximally. Total lung capacity represents maximum inflation.",
+        "D": "Airway resistance is relatively low at FRC due to adequate radial traction at this volume. Resistance is highest at very low lung volumes (near RV)."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "FRC",
+      "lung-mechanics",
+      "equilibrium"
+    ]
+  },
+  {
+    "id": "r08-021",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 55-year-old man with severe asthma is evaluated during an exacerbation. Auscultation reveals diffuse high-pitched wheezing, most prominent during expiration. He is using accessory muscles of respiration. Which property of his airflow pattern explains the increased work of breathing?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Turbulent flow with high resistance"
+      },
+      {
+        "label": "B",
+        "text": "Laminar flow with low resistance"
+      },
+      {
+        "label": "C",
+        "text": "Laminar flow limited to alveoli"
+      },
+      {
+        "label": "D",
+        "text": "Silent turbulence without sounds"
+      },
+      {
+        "label": "E",
+        "text": "Turbulence only during inspiration"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Turbulent flow generates chaotic vortices and eddies that substantially increase airway resistance compared to smooth laminar flow. Higher pressure gradients are needed to maintain the same flow rate, increasing the work of breathing and producing audible sounds such as wheezes.",
+      "whyCorrect": "Narrowed asthmatic airways convert laminar flow to turbulent flow. The chaotic vortices require much higher driving pressures to maintain adequate airflow, forcing the patient to use accessory muscles. The turbulence also produces the characteristic high-pitched wheezing sounds.",
+      "whyWrongByChoice": {
+        "B": "Laminar flow has lower resistance than turbulent flow and does not produce audible sounds. The patient's wheezing and increased work of breathing indicate turbulent flow through narrowed airways.",
+        "C": "Turbulent flow occurs in larger airways and narrowed passages, not predominantly in the alveoli where flow velocity is minimal and diffusion dominates gas exchange.",
+        "D": "Turbulent flow through narrowed airways produces characteristic sounds including wheezes, rhonchi, and stridor. The patient's diffuse wheezing confirms audible turbulence.",
+        "E": "In asthma, wheezing is most prominent during expiration when airways are narrowest, though it can occur during both phases in severe cases. Turbulence is not limited to inspiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "turbulent-flow",
+      "laminar-flow",
+      "airway-resistance"
+    ]
+  },
+  {
+    "id": "r08-022",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 70-year-old man with known emphysema undergoes pulmonary function testing. His pressure-volume curve is shifted upward and to the left compared to normal. At any given transpulmonary pressure, his lungs contain a larger volume of air than expected. Which property of his lungs is most directly altered?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Decreased compliance from fibrosis"
+      },
+      {
+        "label": "B",
+        "text": "Normal compliance throughout"
+      },
+      {
+        "label": "C",
+        "text": "Decreased compliance from surfactant excess"
+      },
+      {
+        "label": "D",
+        "text": "Variable compliance by respiratory rate"
+      },
+      {
+        "label": "E",
+        "text": "Increased compliance from elastin loss"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Emphysema destroys alveolar walls and their elastic fibers, reducing elastic recoil. Less recoil means less resistance to inflation, so the lungs are easier to inflate (increased compliance). The pressure-volume curve shifts upward and leftward, showing larger volumes for any given pressure.",
+      "whyCorrect": "Loss of elastin in emphysema makes the lungs more distensible (increased compliance). For a small change in pressure, there is a large change in volume. While easier to inflate, the loss of recoil means the lungs cannot effectively empty during expiration, causing hyperinflation and air trapping.",
+      "whyWrongByChoice": {
+        "A": "Decreased compliance from fibrosis characterizes restrictive lung diseases like pulmonary fibrosis, which shifts the curve downward and rightward. Emphysema shows the opposite change.",
+        "B": "Compliance is significantly increased in emphysema. The leftward/upward shift of the pressure-volume curve confirms this is not a normal finding.",
+        "C": "Surfactant excess is not a feature of emphysema. The increased compliance results from elastic tissue destruction, not surfactant abnormalities.",
+        "D": "While dynamic compliance can vary with respiratory rate in airway disease, the fundamental change in emphysema is consistently increased static compliance from loss of elastic tissue."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "emphysema",
+      "compliance",
+      "elastic-recoil"
+    ]
+  },
+  {
+    "id": "r08-023",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 58-year-old woman with progressive pulmonary fibrosis undergoes pulmonary function testing. Her total lung capacity is reduced to 65% of predicted, and her pressure-volume curve is shifted downward and to the right. Her functional residual capacity is most likely altered in which direction?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Decreased from reduced compliance"
+      },
+      {
+        "label": "B",
+        "text": "Increased from air trapping"
+      },
+      {
+        "label": "C",
+        "text": "Unchanged from baseline"
+      },
+      {
+        "label": "D",
+        "text": "Increased from chest wall changes"
+      },
+      {
+        "label": "E",
+        "text": "Completely eliminated"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In pulmonary fibrosis, the lungs are stiff (decreased compliance) and the compliance curve shifts downward and rightward. The new equilibrium between lung recoil and chest wall recoil occurs at a lower lung volume, decreasing FRC.",
+      "whyCorrect": "FRC is where lung and chest wall elastic forces balance. In fibrosis, increased lung stiffness (stronger inward recoil) means the balance point shifts to a lower volume where the chest wall's outward force can match the lungs' stronger inward pull. The FRC decreases, contributing to the restrictive pattern.",
+      "whyWrongByChoice": {
+        "B": "Increased FRC from air trapping is characteristic of obstructive diseases (emphysema, COPD). In restrictive fibrosis, FRC decreases because the stiff lungs pull inward more strongly.",
+        "C": "FRC is significantly reduced in pulmonary fibrosis due to decreased lung compliance. The downward/rightward shift of the compliance curve confirms an abnormal equilibrium point.",
+        "D": "While chest wall compliance can change with aging, the dominant change in pulmonary fibrosis is in lung compliance. The stiff lungs drive the FRC downward.",
+        "E": "FRC cannot be eliminated entirely. Even in severe fibrosis, some lung volume remains at the equilibrium point between lung and chest wall elastic forces."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "pulmonary-fibrosis",
+      "FRC",
+      "restrictive",
+      "compliance"
+    ]
+  },
+  {
+    "id": "r08-024",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A physiology instructor demonstrates that when a patient takes a deep breath from FRC to total lung capacity, the expanding alveoli and surrounding connective tissue exert an outward pulling force on the airway walls. This mechanism is called radial traction. What is the effect on airway resistance during this deep inspiration?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Resistance increases significantly"
+      },
+      {
+        "label": "B",
+        "text": "Resistance remains unchanged"
+      },
+      {
+        "label": "C",
+        "text": "Resistance decreases substantially"
+      },
+      {
+        "label": "D",
+        "text": "Resistance first rises then falls"
+      },
+      {
+        "label": "E",
+        "text": "Resistance depends on smooth muscle only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "During deep inspiration, expanding alveoli and surrounding connective tissue pull outward on airway walls (radial traction), increasing airway diameter and reducing resistance substantially. This is why airway resistance decreases with deeper inspiration.",
+      "whyCorrect": "As lung volume increases during inspiration, the expanding parenchyma exerts radial traction on the airways, physically widening them. Per Poiseuille's law (R proportional to 1/r^4), even small increases in radius from radial traction produce substantial reductions in airway resistance.",
+      "whyWrongByChoice": {
+        "A": "Airway resistance decreases during deep inspiration because radial traction widens the airways. Resistance increases during expiration as lung volume falls and traction decreases.",
+        "B": "Airway resistance changes dynamically with lung volume throughout the respiratory cycle. It is not constant and decreases substantially during deep inspiration.",
+        "D": "There is no biphasic response during a single deep inspiration. Resistance decreases continuously as lung volume increases from FRC to TLC.",
+        "E": "While smooth muscle tone contributes to airway caliber, radial traction from surrounding lung tissue is the dominant mechanism by which changes in lung volume alter airway resistance."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "radial-traction",
+      "airway-resistance",
+      "inspiration"
+    ]
+  },
+  {
+    "id": "r08-025",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 64-year-old man with severe emphysema performs a forced expiratory maneuver during spirometry. His flow-volume loop shows a characteristic 'scooped-out' expiratory pattern with markedly reduced expiratory flow rates. At a certain point along the airway, pleural pressure exceeds intraluminal airway pressure. Which term describes this phenomenon?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Surfactant depletion atelectasis"
+      },
+      {
+        "label": "B",
+        "text": "Equal pressure point collapse"
+      },
+      {
+        "label": "C",
+        "text": "Alveolar overdistension injury"
+      },
+      {
+        "label": "D",
+        "text": "Diaphragmatic splinting"
+      },
+      {
+        "label": "E",
+        "text": "Cartilaginous ring fracture"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "During forced expiration, intrathoracic pressure rises sharply. At the equal pressure point, elevated pleural pressure exceeds the pressure within the airway lumen. Downstream of this point, airways without cartilaginous support are compressed and may collapse (dynamic airway collapse).",
+      "whyCorrect": "Forced expiration generates high positive intrathoracic pressure. As air flows from alveoli toward the mouth, intraluminal pressure drops due to resistance. At the equal pressure point, pleural pressure equals and then exceeds airway pressure, compressing unsupported airways. In emphysema, loss of radial traction worsens this collapse, producing the scooped-out flow-volume loop.",
+      "whyWrongByChoice": {
+        "A": "Surfactant depletion causes alveolar collapse (atelectasis), not dynamic airway collapse during forced expiration. It is seen in neonatal respiratory distress syndrome and ARDS.",
+        "C": "Alveolar overdistension occurs with excessive positive pressure ventilation (barotrauma/volutrauma). It is not the mechanism of expiratory flow limitation during forced expiration.",
+        "D": "Diaphragmatic splinting refers to limited diaphragm excursion from pain or abdominal distension. It does not describe the pressure-dependent airway collapse during forced expiration.",
+        "E": "Cartilaginous ring fracture is a traumatic injury. Dynamic airway collapse affects small airways lacking cartilage, not through fracture of existing cartilage."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "dynamic-airway-collapse",
+      "equal-pressure-point",
+      "forced-expiration"
+    ]
+  },
+  {
+    "id": "r08-026",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 42-year-old woman presents to the emergency department with acute-onset dyspnea and chest tightness after exposure to a known allergen. On auscultation, high-pitched, musical sounds are heard predominantly during expiration bilaterally. Which mechanism produces these auscultatory findings?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Laminar flow in normal airways"
+      },
+      {
+        "label": "B",
+        "text": "Fluid popping open in alveoli"
+      },
+      {
+        "label": "C",
+        "text": "Air escaping the pleural space"
+      },
+      {
+        "label": "D",
+        "text": "Vibration of the vocal cords"
+      },
+      {
+        "label": "E",
+        "text": "Turbulent flow in narrowed airways"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Wheezes are high-pitched, musical sounds produced by turbulent airflow through narrowed small airways. They are characteristic of obstructive diseases like asthma, where airway walls flutter during expiration due to narrowing from bronchospasm, mucus, and inflammation.",
+      "whyCorrect": "Allergen exposure caused bronchospasm and airway inflammation, narrowing the airways. Air forced through these constricted passages becomes turbulent, causing the airway walls to vibrate and producing the characteristic high-pitched, musical wheeze most prominent during expiration when airways are narrowest.",
+      "whyWrongByChoice": {
+        "A": "Laminar flow through normal-caliber airways is smooth and silent. It does not produce audible sounds on auscultation.",
+        "B": "Fluid popping open in alveoli produces crackles (rales), which are discontinuous popping sounds heard during inspiration, not the continuous musical sounds of wheezes.",
+        "C": "Air in the pleural space (pneumothorax) causes absent or decreased breath sounds on the affected side, not bilateral musical wheezing.",
+        "D": "Vocal cord vibration produces voice sounds and, when pathologic (vocal cord dysfunction), stridor. Wheezes originate from the intrathoracic small airways, not the larynx."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "wheezes",
+      "turbulent-flow",
+      "narrowed-airways"
+    ]
+  },
+  {
+    "id": "r08-027",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A pulmonology fellow is reviewing the physiologic roles of functional residual capacity with a medical student. She lists several important functions: oxygen reservoir between breaths, prevention of alveolar collapse, and optimization of ventilation-perfusion matching. Which of the following is NOT a physiologic benefit of maintaining FRC?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Minimizes pulmonary vascular resistance"
+      },
+      {
+        "label": "B",
+        "text": "Provides oxygen reserve between breaths"
+      },
+      {
+        "label": "C",
+        "text": "Maximizes the work of breathing"
+      },
+      {
+        "label": "D",
+        "text": "Prevents alveolar collapse at end-expiration"
+      },
+      {
+        "label": "E",
+        "text": "Optimizes ventilation-perfusion matching"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "FRC minimizes (not maximizes) the work of breathing. At FRC, respiratory compliance is most favorable, requiring the least muscular effort for tidal breathing. The other options are all genuine physiologic roles of FRC.",
+      "whyCorrect": "FRC is the volume at which the respiratory system is most mechanically efficient. Lung compliance is greatest near FRC, meaning the least amount of muscular work is required for each tidal breath. FRC minimizes, not maximizes, the work of breathing.",
+      "whyWrongByChoice": {
+        "A": "PVR is at its minimum near FRC because the balance between compression of alveolar and extra-alveolar vessels is optimal, supporting efficient pulmonary blood flow.",
+        "B": "FRC acts as an oxygen reservoir containing enough O2 to sustain gas exchange for several breaths between inspirations, preventing rapid desaturation during brief apnea.",
+        "D": "By keeping alveoli partially inflated at end-expiration, FRC prevents collapse (atelectasis), reducing intrapulmonary shunt and maintaining gas exchange surface area.",
+        "E": "At FRC, the distribution of ventilation and perfusion is well-matched, supporting efficient gas exchange across the lung."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "FRC",
+      "work-of-breathing",
+      "lung-function"
+    ]
+  },
+  {
+    "id": "r08-028",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 68-year-old man with severe emphysema has a chest radiograph showing hyperinflated lungs and flattened hemidiaphragms. His FRC is measured at 5.2 L (predicted 3.0 L). Which mechanism best explains his markedly elevated FRC?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased chest wall compliance"
+      },
+      {
+        "label": "B",
+        "text": "Enhanced pulmonary elastic recoil"
+      },
+      {
+        "label": "C",
+        "text": "Excessive surfactant production"
+      },
+      {
+        "label": "D",
+        "text": "Loss of lung elastic recoil"
+      },
+      {
+        "label": "E",
+        "text": "Thickened bronchial cartilage"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In emphysema, destruction of elastin reduces lung elastic recoil. The lung compliance curve shifts upward and leftward. The new equilibrium between weaker lung inward recoil and unchanged chest wall outward recoil occurs at a higher volume, increasing FRC and causing the hyperinflation seen on imaging.",
+      "whyCorrect": "FRC is determined by the balance of lung and chest wall forces. When lung elastic recoil decreases from elastin destruction, the lungs resist collapse less effectively. The chest wall's outward spring is relatively unopposed, shifting the equilibrium to a larger volume. This produces the elevated FRC of 5.2 L and the flattened diaphragms.",
+      "whyWrongByChoice": {
+        "A": "Chest wall compliance does not typically change significantly in emphysema. The primary alteration is in lung compliance from destruction of elastic tissue within the alveolar walls.",
+        "B": "Elastic recoil is decreased, not enhanced, in emphysema. Loss of elastic recoil from tissue destruction is the fundamental pathologic problem driving hyperinflation.",
+        "C": "Surfactant production is not significantly altered in emphysema. The increased FRC results from structural loss of elastic fibers, not surfactant changes.",
+        "E": "Bronchial cartilage is not thickened in emphysema. The disease primarily affects the alveolar walls and their elastic tissue, not the cartilaginous airways."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "emphysema",
+      "FRC",
+      "elastic-recoil",
+      "hyperinflation"
+    ]
+  },
+  {
+    "id": "r08-029",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 24-year-old man is exercising vigorously on a stationary bike during a research study. His minute ventilation has increased from 6 L/min at rest to 90 L/min. He is now using his abdominal muscles and internal intercostals forcefully during expiration. Which brainstem respiratory group is most likely activated to recruit these accessory muscles?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Dorsal respiratory group"
+      },
+      {
+        "label": "B",
+        "text": "Pneumotaxic center"
+      },
+      {
+        "label": "C",
+        "text": "Ventral respiratory group"
+      },
+      {
+        "label": "D",
+        "text": "Apneustic center"
+      },
+      {
+        "label": "E",
+        "text": "Nucleus ambiguus"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The VRG is usually inactive during quiet breathing. It becomes active during exercise or respiratory distress when increased ventilatory effort is needed, driving both forced inspiration (accessory muscles) and active expiration (internal intercostals, abdominal muscles).",
+      "whyCorrect": "The VRG contains both inspiratory and expiratory neurons that are recruited when ventilatory demands exceed what the DRG alone can provide. During vigorous exercise requiring 90 L/min ventilation, the VRG activates accessory expiratory muscles (abdominals, internal intercostals) that are not used during quiet breathing.",
+      "whyWrongByChoice": {
+        "A": "The DRG drives the basic inspiratory rhythm during quiet breathing via the phrenic and external intercostal nerves. It does not recruit the accessory expiratory muscles needed for forced ventilation.",
+        "B": "The pneumotaxic center in the rostral pons modulates inspiratory duration by limiting inspiration length. It does not drive the recruitment of expiratory accessory muscles.",
+        "D": "The apneustic center promotes inspiration and is modulated by the pneumotaxic center. It does not control active expiration or accessory muscle recruitment.",
+        "E": "The nucleus ambiguus contains motor neurons for pharyngeal and laryngeal muscles involved in upper airway patency and swallowing, not the thoracic and abdominal muscles of forced expiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "VRG",
+      "forced-breathing",
+      "medulla"
+    ]
+  },
+  {
+    "id": "r08-030",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 72-year-old woman with congestive heart failure is admitted with acute pulmonary edema. She is tachypneic at 36 breaths/min with shallow tidal volumes and severe dyspnea. Chest radiograph shows bilateral alveolar infiltrates and Kerley B lines. Which pulmonary receptors are most likely driving her rapid shallow breathing pattern?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Slowly adapting stretch receptors"
+      },
+      {
+        "label": "B",
+        "text": "Rapidly adapting irritant receptors"
+      },
+      {
+        "label": "C",
+        "text": "Carotid body chemoreceptors"
+      },
+      {
+        "label": "D",
+        "text": "Juxtacapillary (J) receptors"
+      },
+      {
+        "label": "E",
+        "text": "Central medullary chemoreceptors"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "J-receptors are unmyelinated C-fiber endings located in the alveolar walls near the pulmonary capillaries. They are stimulated by pulmonary congestion, interstitial edema, and elevated capillary pressure, causing the characteristic rapid shallow breathing (tachypnea) and dyspnea.",
+      "whyCorrect": "In acute pulmonary edema from heart failure, elevated pulmonary capillary pressure and interstitial fluid accumulation directly stimulate J-receptors. They send signals via the vagus nerve to the medulla, producing rapid, shallow breathing and the intense dyspnea characteristic of this condition.",
+      "whyWrongByChoice": {
+        "A": "Slowly adapting stretch receptors detect lung inflation and mediate the Hering-Breuer reflex to prevent overinflation. They do not drive the rapid shallow breathing pattern seen in pulmonary edema.",
+        "B": "Rapidly adapting irritant receptors respond to inhaled particles, chemicals, and mechanical stimulation. While they can contribute to tachypnea, J-receptors are the primary sensors for pulmonary congestion and edema.",
+        "C": "Carotid body chemoreceptors sense arterial PO2, PCO2, and pH. While hypoxemia from pulmonary edema may stimulate them, the rapid shallow pattern is characteristic of J-receptor activation, not chemoreceptor stimulation.",
+        "E": "Central chemoreceptors respond to CSF pH changes from CO2. They drive increased ventilation in hypercapnia but are not primarily responsible for the tachypneic pattern of pulmonary edema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "J-receptors",
+      "pulmonary-edema",
+      "tachypnea"
+    ]
+  },
+  {
+    "id": "r08-031",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 35-year-old woman develops severe dyspnea and productive cough with pink frothy sputum after ascending to 4,500 meters during a Himalayan trek. Her oxygen saturation is 68% on room air, and she has bilateral crackles on auscultation. Which initial management is most appropriate?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Continue ascending for acclimatization"
+      },
+      {
+        "label": "B",
+        "text": "Administer IV normal saline bolus"
+      },
+      {
+        "label": "C",
+        "text": "Descent and supplemental oxygen"
+      },
+      {
+        "label": "D",
+        "text": "Inhaled bronchodilators as monotherapy"
+      },
+      {
+        "label": "E",
+        "text": "Empiric oral antibiotic therapy"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "HAPE (high-altitude pulmonary edema) is a life-threatening emergency caused by hypoxia-induced pulmonary vasoconstriction leading to non-cardiogenic pulmonary edema. The most effective immediate treatments are descent to lower altitude and supplemental oxygen.",
+      "whyCorrect": "Descent removes the hypoxic stimulus driving pulmonary vasoconstriction and HAPE. Supplemental oxygen directly increases alveolar PO2, reducing hypoxic pulmonary vasoconstriction and pulmonary vascular pressure. These are the cornerstones of HAPE treatment and should be initiated immediately.",
+      "whyWrongByChoice": {
+        "A": "Ascending further would worsen hypoxia, increase pulmonary vasoconstriction, and rapidly worsen HAPE. Immediate descent is required for this life-threatening condition.",
+        "B": "IV fluids could worsen pulmonary edema by increasing capillary hydrostatic pressure. Fluid restriction, not administration, is more appropriate in HAPE.",
+        "D": "Bronchodilators treat bronchospasm, which is not the primary pathology. HAPE is a vascular problem from hypoxic pulmonary vasoconstriction, not an airway problem.",
+        "E": "HAPE is non-cardiogenic pulmonary edema from hypoxia, not a pulmonary infection. Antibiotics are not indicated unless secondary infection develops."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "HAPE",
+      "treatment",
+      "descent",
+      "supplemental-oxygen"
+    ]
+  },
+  {
+    "id": "r08-032",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 50-year-old man is in the neuro-ICU following a pontine hemorrhage involving the caudal pons. His breathing pattern shows prolonged inspiratory holds lasting 10-15 seconds followed by brief, inadequate expirations. Which brainstem structure is most likely damaged?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Apneustic center"
+      },
+      {
+        "label": "B",
+        "text": "Dorsal medullary nucleus"
+      },
+      {
+        "label": "C",
+        "text": "Primary motor cortex"
+      },
+      {
+        "label": "D",
+        "text": "Peripheral carotid body"
+      },
+      {
+        "label": "E",
+        "text": "Phrenic motor nucleus"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Apneustic breathing results from damage to the caudal pons, specifically the apneustic center. The apneustic center normally promotes inspiration; when damaged along with loss of pneumotaxic modulation, the result is prolonged inspiratory holds (apneusis) followed by brief expirations.",
+      "whyCorrect": "The apneustic center in the caudal pons promotes inspiratory activity. Damage in this region disrupts the normal balance between inspiratory promotion and inhibition, producing the characteristic prolonged inspiratory hold (10-15 seconds) with brief, inadequate expirations seen in apneustic breathing.",
+      "whyWrongByChoice": {
+        "B": "Damage to the dorsal medullary nucleus (DRG) would disrupt the basic respiratory rhythm, producing ataxic (Biot) breathing or respiratory arrest, not the specific apneustic pattern of prolonged inspiration.",
+        "C": "Primary motor cortex damage affects voluntary breathing control (speech, singing) but does not produce the stereotyped prolonged inspiratory hold of apneustic breathing.",
+        "D": "The carotid body is a peripheral chemoreceptor, not a brainstem structure. Its damage would impair hypoxic sensing but would not produce apneustic breathing.",
+        "E": "The phrenic motor nucleus (C3-C5 spinal cord) innervates the diaphragm. Its damage would cause diaphragmatic paralysis, not the specific pontine breathing pattern of apneusis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "apneustic-breathing",
+      "pons",
+      "apneustic-center"
+    ]
+  },
+  {
+    "id": "r08-033",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 30-year-old marathon runner undergoes cardiopulmonary exercise testing. At peak exercise, her oxygen consumption is 3.5 L/min and CO2 production is 3.2 L/min, yet her PaCO2 remains at 40 mmHg and PaO2 at 95 mmHg. Which mechanism best explains why blood gases remain near normal despite this massive metabolic demand?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Chemoreceptor desensitization occurs"
+      },
+      {
+        "label": "B",
+        "text": "Ventilation matches metabolic demand"
+      },
+      {
+        "label": "C",
+        "text": "Pulmonary O2 stores increase acutely"
+      },
+      {
+        "label": "D",
+        "text": "Red cell production rises immediately"
+      },
+      {
+        "label": "E",
+        "text": "Exercise-induced bronchospasm limits CO2"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "During exercise, ventilation increases proportionally to metabolic demand through feedforward neural mechanisms and chemoreceptor fine-tuning. This precise matching keeps PaCO2 near 40 mmHg and PaO2 near normal despite dramatically increased CO2 production and O2 consumption.",
+      "whyCorrect": "The respiratory system precisely matches ventilation to metabolic demand during exercise. The feedforward response provides immediate ventilatory increase, and chemoreceptor feedback fine-tunes ventilation to maintain blood gas homeostasis. This proportional coupling explains the near-normal PaCO2 and PaO2.",
+      "whyWrongByChoice": {
+        "A": "Chemoreceptor sensitivity is maintained or enhanced during exercise, providing critical feedback for fine-tuning ventilation. Desensitization would impair blood gas homeostasis, not maintain it.",
+        "C": "Pulmonary oxygen stores (FRC reservoir) are finite and do not increase during exercise. The increased metabolic demand is met by increased ventilation and cardiac output, not by expanding oxygen reserves.",
+        "D": "Red blood cell production (erythropoiesis) takes days to weeks following EPO stimulation. It is not an acute response that explains maintained blood gases during a single exercise session.",
+        "E": "Exercise-induced bronchospasm would impair gas exchange and CO2 elimination. Normal exercise actually causes sympathetically-mediated bronchodilation, improving airflow."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "exercise",
+      "ventilation",
+      "blood-gases"
+    ]
+  },
+  {
+    "id": "r08-034",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 60-year-old man with moderate COPD is being evaluated in the pulmonary function laboratory. The technician explains that airflow through his airways is governed by the equation Q = deltaP / R, where Q is flow, deltaP is the pressure gradient, and R is resistance. If the patient's airway resistance doubles due to mucus plugging, what happens to airflow for a given pressure gradient?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Airflow doubles proportionally"
+      },
+      {
+        "label": "B",
+        "text": "Airflow remains unchanged"
+      },
+      {
+        "label": "C",
+        "text": "Airflow becomes entirely turbulent"
+      },
+      {
+        "label": "D",
+        "text": "Airflow is reduced by half"
+      },
+      {
+        "label": "E",
+        "text": "Airflow ceases completely"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Per the equation Q = deltaP/R, airflow is inversely proportional to resistance for any given pressure difference. If resistance doubles, flow is halved. This explains why diseases that increase airway resistance cause significant reductions in airflow and dyspnea.",
+      "whyCorrect": "The equation shows that flow and resistance are inversely related. With a constant driving pressure, doubling the resistance means flow is reduced to half its original value. This is the fundamental basis of obstructive airway disease symptoms.",
+      "whyWrongByChoice": {
+        "A": "Flow decreases (not doubles) when resistance increases. They are inversely proportional per the Q = deltaP/R equation.",
+        "B": "Flow is directly dependent on resistance. Higher resistance results in lower flow for the same pressure gradient. It cannot remain unchanged.",
+        "C": "Whether flow is laminar or turbulent depends on the Reynolds number, not simply on resistance magnitude. The equation applies to the overall flow-pressure-resistance relationship regardless of flow pattern.",
+        "E": "Airflow continues as long as any pressure gradient exists, even with high resistance. It is reduced but not eliminated. Complete cessation would require either infinite resistance or zero pressure gradient."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "airflow-equation",
+      "resistance",
+      "pressure-gradient"
+    ]
+  },
+  {
+    "id": "r08-035",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 14-year-old boy with an acute asthma attack is brought to the emergency department with severe wheezing and oxygen saturation of 88%. After administration of nebulized albuterol, his wheezing improves significantly and oxygen saturation rises to 96%. Albuterol achieves bronchodilation through which intracellular signaling mechanism?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Smooth muscle contraction via IP3"
+      },
+      {
+        "label": "B",
+        "text": "Increased goblet cell mucus secretion"
+      },
+      {
+        "label": "C",
+        "text": "Airway cartilage structural remodeling"
+      },
+      {
+        "label": "D",
+        "text": "Parasympathetic receptor potentiation"
+      },
+      {
+        "label": "E",
+        "text": "Smooth muscle relaxation via cAMP"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Beta-2 adrenergic receptor stimulation on bronchial smooth muscle activates adenylyl cyclase, increasing intracellular cAMP, which causes smooth muscle relaxation. This increases airway diameter and reduces resistance.",
+      "whyCorrect": "Albuterol stimulates beta-2 receptors on bronchial smooth muscle, activating Gs protein and adenylyl cyclase. The resulting increase in cAMP activates protein kinase A, which phosphorylates targets that promote smooth muscle relaxation. This widens airways, reduces resistance per Poiseuille's law, and improves airflow.",
+      "whyWrongByChoice": {
+        "A": "IP3-mediated smooth muscle contraction is the mechanism of parasympathetic bronchoconstriction through muscarinic receptors, not the mechanism of beta-2 agonist bronchodilation.",
+        "B": "Albuterol does not increase mucus secretion. Parasympathetic stimulation and inflammatory mediators drive mucus production. Beta-2 agonists may actually improve mucociliary clearance.",
+        "C": "Albuterol acts acutely on smooth muscle tone via beta-2 receptor signaling. It does not cause structural cartilage remodeling, which is a chronic process.",
+        "D": "Albuterol is a sympathomimetic agent that functionally opposes parasympathetic effects. It does not potentiate parasympathetic receptors."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "albuterol",
+      "beta2-agonist",
+      "bronchodilation"
+    ]
+  },
+  {
+    "id": "r08-036",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A biomedical engineer is designing a model to predict airflow patterns in the trachea during mechanical ventilation. She calculates that the Reynolds number in the trachea exceeds 2,000 during peak inspiratory flow. Above this threshold, airflow transitions from which pattern to which?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Turbulent to laminar flow"
+      },
+      {
+        "label": "B",
+        "text": "Laminar to turbulent flow"
+      },
+      {
+        "label": "C",
+        "text": "Diffusion to convection"
+      },
+      {
+        "label": "D",
+        "text": "Convection to diffusion"
+      },
+      {
+        "label": "E",
+        "text": "Static to oscillatory flow"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The Reynolds number is a dimensionless quantity that predicts the transition from laminar to turbulent flow. When the Reynolds number exceeds approximately 2,000, flow transitions from orderly laminar flow to chaotic turbulent flow.",
+      "whyCorrect": "A Reynolds number above 2,000 indicates that inertial forces dominate over viscous forces, causing the orderly laminar flow layers to break down into chaotic turbulent vortices and eddies. This transition increases resistance and the work of breathing in the airways.",
+      "whyWrongByChoice": {
+        "A": "The transition above Reynolds number 2,000 goes from laminar to turbulent, not the reverse. Higher Reynolds numbers promote turbulence, not laminar flow.",
+        "C": "The Reynolds number describes the transition between laminar and turbulent bulk airflow patterns. Diffusion and convection are separate gas transport mechanisms in the distal airways.",
+        "D": "Convection to diffusion occurs at the level of the respiratory bronchioles and alveolar ducts due to extremely low flow velocities, not at Reynolds number thresholds in the trachea.",
+        "E": "Static to oscillatory flow is not a recognized transition described by the Reynolds number. The Reynolds number specifically predicts the laminar-to-turbulent transition."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "reynolds-number",
+      "turbulent-flow",
+      "laminar-flow"
+    ]
+  },
+  {
+    "id": "r08-037",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 56-year-old man with chronic bronchitis presents with productive cough and dyspnea. On auscultation, low-pitched, snoring-like continuous sounds are heard bilaterally that partially clear with coughing. Which mechanism produces these breath sounds?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Airflow through mucus-filled bronchi"
+      },
+      {
+        "label": "B",
+        "text": "Air leaking through a pleural defect"
+      },
+      {
+        "label": "C",
+        "text": "Fluid reopening collapsed alveoli"
+      },
+      {
+        "label": "D",
+        "text": "Vocal cord inflammation and edema"
+      },
+      {
+        "label": "E",
+        "text": "Normal bronchovesicular breathing"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Rhonchi are low-pitched, continuous sounds produced by turbulent airflow through large airways (bronchi) partially obstructed by mucus or secretions. They characteristically clear or change with coughing, which distinguishes them from wheezes.",
+      "whyCorrect": "In chronic bronchitis, excessive mucus accumulation in the larger bronchi creates partial obstruction that generates turbulent flow. The vibration of airway walls and mucus produces the characteristic low-pitched, snoring-like quality of rhonchi. Their improvement with coughing confirms secretion-related obstruction.",
+      "whyWrongByChoice": {
+        "B": "Air leaking through a pleural defect (pneumothorax) causes absent breath sounds, not the bilateral continuous sounds that clear with coughing.",
+        "C": "Fluid reopening collapsed alveoli produces crackles (rales), which are discontinuous popping sounds heard during inspiration, not the continuous low-pitched sounds described.",
+        "D": "Vocal cord inflammation produces stridor (a high-pitched inspiratory sound) or hoarseness, not the low-pitched bilateral sounds described.",
+        "E": "Normal bronchovesicular sounds are mid-pitched and equal during inspiration and expiration. The low-pitched snoring sounds that clear with coughing are pathological rhonchi."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "rhonchi",
+      "mucus",
+      "auscultation"
+    ]
+  },
+  {
+    "id": "r08-038",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A premature neonate born at 28 weeks gestation develops respiratory distress shortly after birth. The infant's lungs are deficient in surfactant produced by type II alveolar cells. According to the Law of LaPlace (P = 2T/r), which alveoli are at greatest risk of collapse in this surfactant-deficient state?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Large alveoli with large radii"
+      },
+      {
+        "label": "B",
+        "text": "All alveoli collapse equally"
+      },
+      {
+        "label": "C",
+        "text": "Only apical lung alveoli"
+      },
+      {
+        "label": "D",
+        "text": "Alveoli adjacent to surfactant sources"
+      },
+      {
+        "label": "E",
+        "text": "Small alveoli with small radii"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Per LaPlace's law (P = 2T/r), for a given surface tension (T), smaller alveoli (smaller r) have higher collapsing pressure (P). Without surfactant to reduce T proportionally in smaller alveoli, they generate higher collapsing pressures and empty into larger ones.",
+      "whyCorrect": "LaPlace's law shows that collapsing pressure is inversely proportional to radius. Smaller alveoli generate higher collapsing pressures, making them most vulnerable to collapse. Normally, surfactant compensates by being more concentrated in smaller alveoli (reducing T more), but without surfactant, this protective mechanism is lost.",
+      "whyWrongByChoice": {
+        "A": "Large alveoli have lower collapsing pressure due to their larger radius in the denominator of LaPlace's equation. They are less prone to collapse than small alveoli.",
+        "B": "LaPlace's law specifically predicts size-dependent collapse risk. Smaller alveoli have proportionally higher collapsing pressures and collapse preferentially.",
+        "C": "Collapse susceptibility depends on alveolar size and surface tension, not anatomical location within the lung. Apical alveoli are not selectively vulnerable.",
+        "D": "Alveoli near surfactant-producing type II cells would have relatively more surfactant, making them less prone to collapse, not more vulnerable."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "laplaces-law",
+      "surfactant",
+      "alveolar-collapse"
+    ]
+  },
+  {
+    "id": "r08-039",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A neonatologist notices that a 2-day-old full-term neonate develops visible intercostal retractions during crying, with the chest wall being pulled inward by the lungs' elastic recoil. The infant's highly pliable rib cage provides minimal structural support against this inward pull. This finding is explained by which characteristic of infant physiology?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Calcified costal cartilages"
+      },
+      {
+        "label": "B",
+        "text": "Obesity-restricted thorax"
+      },
+      {
+        "label": "C",
+        "text": "High chest wall compliance"
+      },
+      {
+        "label": "D",
+        "text": "Kyphoscoliotic chest deformity"
+      },
+      {
+        "label": "E",
+        "text": "Ankylosed costovertebral joints"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Infants have highly compliant chest walls because their ribs are more cartilaginous and flexible. This high compliance means the chest wall offers little resistance to the lungs' inward recoil, making infants prone to visible retractions, alveolar collapse, and respiratory fatigue.",
+      "whyCorrect": "The infant chest wall is very pliable due to less ossification and more cartilage. While this allows easy thoracic expansion, it provides inadequate structural support against the lungs' inward elastic recoil, causing the visible intercostal retractions seen during increased respiratory effort.",
+      "whyWrongByChoice": {
+        "A": "Calcified costal cartilages occur with aging and decrease chest wall compliance (making the chest stiffer). Infants have uncalcified, flexible cartilage, which is the opposite finding.",
+        "B": "Obesity decreases chest wall compliance by adding mass that restricts thoracic expansion. This is not characteristic of neonatal chest wall physiology.",
+        "D": "Kyphoscoliosis is a structural skeletal deformity that decreases chest wall compliance through altered thoracic geometry. It is not present in this healthy neonate.",
+        "E": "Ankylosed (fused) costovertebral joints severely decrease chest wall compliance, as seen in ankylosing spondylitis. Infant joints are highly mobile, not fused."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "chest-wall-compliance",
+      "infants",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "r08-040",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 65-year-old man with COPD is started on inhaled ipratropium bromide in addition to his albuterol inhaler. He asks why he needs two different bronchodilators. His pulmonologist explains that ipratropium works by a mechanism distinct from albuterol. Which pharmacologic action describes ipratropium's bronchodilatory effect?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Beta-2 adrenergic receptor agonism"
+      },
+      {
+        "label": "B",
+        "text": "Muscarinic receptor blockade"
+      },
+      {
+        "label": "C",
+        "text": "Leukotriene receptor antagonism"
+      },
+      {
+        "label": "D",
+        "text": "Phosphodiesterase-4 inhibition"
+      },
+      {
+        "label": "E",
+        "text": "Glucocorticoid receptor activation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Ipratropium is an anticholinergic (antimuscarinic) that blocks acetylcholine at muscarinic receptors on bronchial smooth muscle. This prevents parasympathetic-mediated bronchoconstriction, allowing the airways to dilate and reducing resistance.",
+      "whyCorrect": "Parasympathetic vagal fibers release acetylcholine that activates muscarinic receptors on airway smooth muscle, causing bronchoconstriction. Ipratropium competitively blocks these muscarinic receptors, preventing cholinergic bronchoconstriction and reducing airway resistance through a mechanism complementary to albuterol's beta-2 agonism.",
+      "whyWrongByChoice": {
+        "A": "Beta-2 adrenergic receptor agonism is the mechanism of albuterol, not ipratropium. The question specifically asks about ipratropium's distinct mechanism.",
+        "C": "Leukotriene receptor antagonism is the mechanism of montelukast and zafirlukast. These drugs block inflammatory mediators, not cholinergic bronchomotor tone.",
+        "D": "Phosphodiesterase-4 inhibition is the mechanism of roflumilast, which reduces inflammation in COPD. It does not describe ipratropium's anticholinergic action.",
+        "E": "Glucocorticoid receptor activation is the mechanism of inhaled corticosteroids like fluticasone. Ipratropium is a bronchodilator, not an anti-inflammatory."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "ipratropium",
+      "anticholinergic",
+      "bronchodilation"
+    ]
+  },
+  {
+    "id": "r08-041",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 38-year-old firefighter inhales a large amount of smoke during a rescue operation. He immediately begins coughing violently, and spirometry performed in the field shows a brief period of increased airway resistance. Which receptor type was primarily activated by the inhaled irritants?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Slowly adapting stretch receptors"
+      },
+      {
+        "label": "B",
+        "text": "Juxtacapillary C-fiber receptors"
+      },
+      {
+        "label": "C",
+        "text": "Central medullary chemoreceptors"
+      },
+      {
+        "label": "D",
+        "text": "Rapidly adapting irritant receptors"
+      },
+      {
+        "label": "E",
+        "text": "Peripheral carotid chemoreceptors"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Irritant receptors (rapidly adapting receptors) line the airways and respond to inhaled particles, smoke, cold air, and chemical irritants. Their stimulation triggers the cough reflex and reflex bronchoconstriction as protective mechanisms.",
+      "whyCorrect": "Rapidly adapting irritant receptors in the airway epithelium detect noxious inhaled substances. They send afferent signals via the vagus nerve to the medulla, triggering the cough reflex to expel the irritant and reflex bronchoconstriction (increased resistance) to limit further penetration of harmful particles into the lower airways.",
+      "whyWrongByChoice": {
+        "A": "Slowly adapting stretch receptors respond to sustained lung inflation and mediate the Hering-Breuer reflex. They do not detect inhaled chemical irritants or trigger the cough reflex.",
+        "B": "Juxtacapillary C-fiber receptors respond to pulmonary congestion and interstitial edema, causing rapid shallow breathing. They are not the primary sensors for inhaled particulate irritants.",
+        "C": "Central chemoreceptors in the medulla detect CSF pH changes from CO2 diffusion. They do not sense inhaled smoke or trigger the cough reflex.",
+        "E": "Peripheral carotid chemoreceptors detect arterial PO2, PCO2, and pH changes. They are not responsive to inhaled particles or smoke."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "irritant-receptors",
+      "cough-reflex",
+      "bronchoconstriction"
+    ]
+  },
+  {
+    "id": "r08-042",
+    "topicId": "control-ventilation-altitude-exercise",
+    "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+    "stem": "A 26-year-old professional opera singer can sustain long phrases by consciously controlling her breathing pattern, overriding the automatic respiratory rhythm. During a performance, she holds her breath for an extended period despite rising PaCO2. Which brain region enables this voluntary override of automatic respiration?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Medullary respiratory center"
+      },
+      {
+        "label": "B",
+        "text": "Pontine pneumotaxic center"
+      },
+      {
+        "label": "C",
+        "text": "Cerebral cortex"
+      },
+      {
+        "label": "D",
+        "text": "Carotid body"
+      },
+      {
+        "label": "E",
+        "text": "Cerebellar vermis"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "While automatic breathing is controlled by the brainstem (medulla and pons), voluntary modifications of breathing for speaking, singing, swimming, and breath-holding are mediated by the cerebral cortex, which sends descending signals that can override the automatic rhythm.",
+      "whyCorrect": "The cerebral cortex provides descending voluntary control over respiratory motor neurons, allowing conscious modification of breathing patterns. This cortical override is essential for activities requiring coordinated breath control, such as the extended phrasing in opera singing despite rising PaCO2.",
+      "whyWrongByChoice": {
+        "A": "The medulla controls automatic (involuntary) breathing rhythm via the DRG and VRG. It generates the rhythm that the cortex overrides during voluntary breath control.",
+        "B": "The pneumotaxic center in the pons modulates inspiratory duration but operates as part of the automatic system. It does not mediate conscious voluntary control.",
+        "D": "The carotid body is a peripheral chemoreceptor that senses blood oxygen levels. It provides sensory input but does not execute voluntary breathing commands.",
+        "E": "The cerebellar vermis coordinates posture and gait. While the cerebellum may fine-tune motor coordination, it does not mediate the voluntary override of automatic respiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "voluntary-breathing",
+      "cerebral-cortex"
+    ]
+  },
+  {
+    "id": "r08-043",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 2-year-old boy presents to the emergency department with a barking cough, inspiratory difficulty, and a harsh high-pitched sound on inspiration. Neck radiograph shows subglottic narrowing ('steeple sign'). The inspiratory sound heard is most indicative of obstruction at which airway level?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Distal small airways"
+      },
+      {
+        "label": "B",
+        "text": "Upper extrathoracic airway"
+      },
+      {
+        "label": "C",
+        "text": "Bilateral pleural spaces"
+      },
+      {
+        "label": "D",
+        "text": "Alveolar parenchyma"
+      },
+      {
+        "label": "E",
+        "text": "Pulmonary vasculature"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Stridor is a high-pitched, harsh sound heard predominantly during inspiration, caused by turbulent airflow through a narrowed upper airway (larynx or extrathoracic trachea). The steeple sign on radiograph confirms subglottic narrowing consistent with croup.",
+      "whyCorrect": "Subglottic narrowing from croup (laryngotracheobronchitis) narrows the upper extrathoracic airway. During inspiration, negative intraluminal pressure further narrows this extrathoracic segment, creating high-velocity turbulent flow that produces the characteristic inspiratory stridor.",
+      "whyWrongByChoice": {
+        "A": "Distal small airway obstruction produces expiratory wheezes (high-pitched musical sounds), not inspiratory stridor. Wheezes are characteristic of asthma and COPD.",
+        "C": "Pleural space pathology (effusion, pneumothorax) causes absent or decreased breath sounds, not the inspiratory stridor described.",
+        "D": "Alveolar parenchymal disease (pneumonia, edema) produces crackles and decreased breath sounds, not stridor.",
+        "E": "Pulmonary vascular disease does not produce stridor. It may cause dyspnea and hypoxemia but does not create the turbulent upper airway sounds described."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "stridor",
+      "upper-airway-obstruction"
+    ]
+  },
+  {
+    "id": "r08-044",
+    "topicId": "airway-resistance",
+    "topicName": "Airway Resistance",
+    "stem": "A 67-year-old man with severe emphysema and markedly elevated FRC reports that breathing requires significantly more effort than expected. His diaphragms are flattened on chest radiograph. His physician explains that breathing from an elevated FRC places the respiratory system on an unfavorable portion of the pressure-volume curve. What is the primary consequence of initiating breaths from above normal FRC?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Decreased work of breathing"
+      },
+      {
+        "label": "B",
+        "text": "Improved alveolar gas exchange"
+      },
+      {
+        "label": "C",
+        "text": "Enhanced diaphragm efficiency"
+      },
+      {
+        "label": "D",
+        "text": "Reduced airway resistance"
+      },
+      {
+        "label": "E",
+        "text": "Increased work of breathing"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "FRC is the volume of optimal compliance. At volumes above FRC (hyperinflation), the lungs are already partially distended and the pressure-volume curve is on a less favorable (flatter) portion. More pressure is needed for the same volume change, substantially increasing the work of breathing.",
+      "whyCorrect": "Breathing from an elevated FRC means the respiratory muscles must work on a less compliant portion of the pressure-volume curve where the slope is flatter. Additionally, the flattened diaphragms have a mechanical disadvantage (reduced length-tension relationship), further increasing the muscular effort required for each breath.",
+      "whyWrongByChoice": {
+        "A": "Work of breathing increases, not decreases, when starting from above FRC. The compliance is less favorable and the diaphragm is mechanically disadvantaged.",
+        "B": "Gas exchange may actually worsen at elevated FRC due to V/Q mismatch from air trapping, overdistension of some alveoli, and increased dead space ventilation.",
+        "C": "Diaphragm efficiency is reduced at elevated FRC because the flattened diaphragm has a shortened resting length, reducing its force-generating capacity per the length-tension relationship.",
+        "D": "While airway resistance may be slightly lower at higher lung volumes due to radial traction, the net effect of hyperinflation is overwhelmingly detrimental due to worsened compliance and impaired diaphragm mechanics."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "FRC",
+      "compliance",
+      "hyperinflation",
+      "work-of-breathing"
+    ]
+  }
+]

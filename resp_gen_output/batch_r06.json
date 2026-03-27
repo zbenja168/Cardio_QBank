@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r06-001",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 50-year-old woman presents to her primary care physician with progressive fatigue and exertional dyspnea over the past 3 months. She reports heavy menstrual periods. Physical examination reveals pallor and tachycardia at 102 bpm. Laboratory studies show hemoglobin 7 g/dL, PaO\u2082 95 mmHg, and SpO\u2082 98%. Which measure of blood oxygen best explains her symptoms?",
+    "choices": [
+      {"label": "A", "text": "Arterial partial pressure"},
+      {"label": "B", "text": "Pulse oximetry reading"},
+      {"label": "C", "text": "Arterial oxygen content"},
+      {"label": "D", "text": "Mixed venous saturation"},
+      {"label": "E", "text": "Alveolar-arterial gradient"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In anemia, PaO\u2082 and SpO\u2082 remain normal because dissolved O\u2082 and percentage of hemoglobin site occupancy are unchanged. CaO\u2082 is markedly reduced because total hemoglobin available to carry oxygen is diminished.",
+      "whyCorrect": "CaO\u2082 = (1.36 \u00d7 [Hb] \u00d7 SaO\u2082) + (0.003 \u00d7 PaO\u2082). With Hb 7 g/dL: CaO\u2082 \u2248 9.6 mL/dL versus the normal ~20 mL/dL. This halved oxygen delivery directly explains her exertional symptoms despite normal saturation and PaO\u2082.",
+      "whyWrongByChoice": {
+        "A": "PaO\u2082 reflects dissolved oxygen in plasma and is normal at 95 mmHg. It does not account for the reduced hemoglobin-bound oxygen in anemia.",
+        "B": "SpO\u2082 measures the percentage of hemoglobin sites occupied by oxygen. In anemia each molecule is normally saturated, but fewer molecules are present overall.",
+        "D": "Mixed venous saturation may decrease from increased tissue extraction but does not directly explain why overall delivery is impaired.",
+        "E": "The A-a gradient assesses lung gas exchange efficiency and is normal in anemia because the lungs transfer oxygen normally."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "oxygen-content", "anemia", "CaO2"]
+  },
+  {
+    "id": "r06-002",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 65-year-old man with chronic obstructive pulmonary disease is admitted for an acute exacerbation with productive cough and dyspnea. An arterial blood gas is drawn. The resident asks a medical student which form accounts for the majority of CO\u2082 transport from peripheral tissues to the lungs. Which of the following is the correct answer?",
+    "choices": [
+      {"label": "A", "text": "Dissolved gas in plasma"},
+      {"label": "B", "text": "Carbaminohemoglobin complexes"},
+      {"label": "C", "text": "Carbonic acid in erythrocytes"},
+      {"label": "D", "text": "Plasma bicarbonate ions"},
+      {"label": "E", "text": "Albumin-bound carbon dioxide"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Approximately 85% of CO\u2082 is transported in the blood as bicarbonate ions in plasma, formed by the carbonic anhydrase reaction inside red blood cells. The remaining CO\u2082 is carried as carbaminohemoglobin (~10%) and dissolved in plasma (~5%).",
+      "whyCorrect": "CO\u2082 diffuses into RBCs where carbonic anhydrase converts it to carbonic acid, which dissociates into H\u207a and HCO\u2083\u207b. The bicarbonate is then transported out of the RBC into plasma via the chloride shift, accounting for approximately 85% of total CO\u2082 transport.",
+      "whyWrongByChoice": {
+        "A": "Dissolved CO\u2082 in plasma accounts for only about 5% of total CO\u2082 transport, which is insufficient to handle the body's metabolic CO\u2082 production.",
+        "B": "Carbaminohemoglobin, formed by CO\u2082 binding directly to hemoglobin amino groups, accounts for only about 10% of CO\u2082 transport.",
+        "C": "Carbonic acid (H\u2082CO\u2083) is a transient, unstable intermediate that rapidly dissociates into H\u207a and HCO\u2083\u207b; it is not a significant transport form.",
+        "E": "Albumin does not serve as a meaningful carrier of CO\u2082. Carbon dioxide transport depends on hemoglobin and the bicarbonate buffer system."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "CO2-transport", "bicarbonate", "carbonic-anhydrase"]
+  },
+  {
+    "id": "r06-003",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A first-year medical student is studying respiratory physiology and notes that the oxygen-hemoglobin dissociation curve has a characteristic sigmoid shape rather than a hyperbolic one. Her professor explains that this shape is a direct consequence of a specific molecular property of hemoglobin. Which of the following best explains the sigmoid shape?",
+    "choices": [
+      {"label": "A", "text": "Competitive CO\u2082 binding"},
+      {"label": "B", "text": "Cooperative oxygen binding"},
+      {"label": "C", "text": "Temperature-dependent solubility"},
+      {"label": "D", "text": "Iron oxidation state changes"},
+      {"label": "E", "text": "pH-dependent conformational shift"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Hemoglobin exhibits cooperative binding: binding of one O\u2082 molecule increases the affinity of remaining heme sites for subsequent O\u2082 molecules. This positive cooperativity produces the characteristic sigmoid (S-shaped) dissociation curve.",
+      "whyCorrect": "Each hemoglobin molecule has four heme groups. When the first O\u2082 binds, it induces a conformational change (T-state to R-state transition) that increases the affinity of the remaining binding sites. This cooperative mechanism produces the steep middle portion and plateau of the sigmoid curve.",
+      "whyWrongByChoice": {
+        "A": "CO\u2082 binds to amino groups on hemoglobin rather than the heme oxygen-binding site and does not produce the sigmoid shape of the dissociation curve.",
+        "C": "Temperature affects the position (shifting) of the curve but does not account for its fundamental sigmoid shape.",
+        "D": "Iron normally remains in the Fe\u00b2\u207a state during reversible oxygen binding. Oxidation to Fe\u00b3\u207a (methemoglobin) is pathologic and unrelated to sigmoid shape.",
+        "E": "pH changes shift the curve left or right (Bohr effect) but do not explain the underlying sigmoid shape created by cooperative binding."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "oxyhemoglobin-dissociation", "cooperative-binding", "sigmoid"]
+  },
+  {
+    "id": "r06-004",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 28-year-old man collapses at mile 20 of a marathon on a hot summer day. Paramedics find him diaphoretic with a temperature of 39.5\u00b0C, heart rate 145 bpm, and rapid deep respirations. His working muscles have been producing large amounts of CO\u2082 and lactic acid. Which combination of local tissue conditions best promotes oxygen delivery to his exercising muscles?",
+    "choices": [
+      {"label": "A", "text": "Low temperature, low PCO\u2082"},
+      {"label": "B", "text": "Low temperature, high 2,3-BPG"},
+      {"label": "C", "text": "Low 2,3-BPG, low temperature"},
+      {"label": "D", "text": "High PCO\u2082, decreased pH"},
+      {"label": "E", "text": "High pH, low temperature"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Exercise produces heat, CO\u2082, and lactic acid in working muscles. Increased PCO\u2082, decreased pH, and elevated temperature all shift the oxygen-hemoglobin dissociation curve to the right, decreasing hemoglobin's oxygen affinity and promoting oxygen release to tissues.",
+      "whyCorrect": "High PCO\u2082 and decreased pH (from lactic acid and carbonic acid) act via the Bohr effect to shift the curve rightward. Combined with elevated temperature, this triple stimulus maximizes oxygen extraction precisely where metabolic demand is greatest.",
+      "whyWrongByChoice": {
+        "A": "Low temperature and low PCO\u2082 would both shift the curve leftward, increasing oxygen affinity and impairing release to tissues during exercise.",
+        "B": "Low temperature shifts the curve left, partially counteracting the rightward shift from high 2,3-BPG. During exercise, temperature is elevated, not decreased.",
+        "C": "Low 2,3-BPG and low temperature both increase hemoglobin oxygen affinity (left shift), which opposes oxygen unloading at exercising tissues.",
+        "E": "High pH (alkalosis) and low temperature both cause a left shift, increasing oxygen affinity and reducing oxygen delivery to metabolically active tissues."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "oxyhemoglobin-dissociation", "right-shift", "bohr-effect", "exercise"]
+  },
+  {
+    "id": "r06-005",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 72-year-old man with septic shock is in the intensive care unit with blood cultures positive for Escherichia coli. His arterial blood gas shows pH 7.22 and PaCO\u2082 52 mmHg. Peripheral tissue beds are producing large amounts of CO\u2082 and H\u207a from anaerobic metabolism. According to the Bohr effect, how do these elevated CO\u2082 and H\u207a levels affect hemoglobin at the tissue level?",
+    "choices": [
+      {"label": "A", "text": "Hemoglobin binds O\u2082 tightly"},
+      {"label": "B", "text": "Hemoglobin converts to methemoglobin"},
+      {"label": "C", "text": "Hemoglobin releases O\u2082 readily"},
+      {"label": "D", "text": "Hemoglobin stops transporting CO\u2082"},
+      {"label": "E", "text": "Hemoglobin increases O\u2082 capacity"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The Bohr effect describes how increased CO\u2082 and H\u207a concentrations decrease hemoglobin's affinity for oxygen, causing a right shift of the dissociation curve and promoting oxygen release at metabolically active tissues.",
+      "whyCorrect": "Elevated CO\u2082 and H\u207a at the tissues bind to hemoglobin, inducing conformational changes that favor the T (tense/deoxy) state. This decreases oxygen affinity and promotes oxygen unloading precisely where it is needed most.",
+      "whyWrongByChoice": {
+        "A": "Increased CO\u2082 and H\u207a decrease, not increase, hemoglobin's affinity for oxygen. Tighter oxygen binding (left shift) occurs at the lungs where CO\u2082 and H\u207a are low.",
+        "B": "Methemoglobin formation requires oxidation of Fe\u00b2\u207a to Fe\u00b3\u207a and is not caused by CO\u2082 or H\u207a accumulation. It is a separate pathologic process.",
+        "D": "Deoxygenated hemoglobin actually binds CO\u2082 more readily (Haldane effect). Elevated tissue CO\u2082 does not prevent CO\u2082 transport by hemoglobin.",
+        "E": "The Bohr effect changes hemoglobin's affinity for oxygen, not its total oxygen-carrying capacity, which is determined by hemoglobin concentration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "bohr-effect", "oxygen-unloading", "tissues"]
+  },
+  {
+    "id": "r06-006",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 34-year-old woman undergoes pulmonary function testing that reveals normal gas exchange. Her physician explains how the Haldane effect facilitates CO\u2082 elimination at the lungs. In the pulmonary capillaries, as hemoglobin becomes oxygenated, the Haldane effect causes hemoglobin to perform which of the following actions?",
+    "choices": [
+      {"label": "A", "text": "Bind additional CO\u2082 and H\u207a"},
+      {"label": "B", "text": "Inhibit carbonic anhydrase activity"},
+      {"label": "C", "text": "Retain bicarbonate within RBCs"},
+      {"label": "D", "text": "Decrease its oxygen affinity"},
+      {"label": "E", "text": "Release CO\u2082 and H\u207a"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The Haldane effect describes how oxygenation of hemoglobin in the lungs decreases its capacity to bind CO\u2082 and H\u207a, causing their release. The released H\u207a recombines with bicarbonate to form CO\u2082 and water, facilitating CO\u2082 exhalation.",
+      "whyCorrect": "When O\u2082 binds hemoglobin in the lungs (high O\u2082 environment), hemoglobin undergoes a conformational change to the R (relaxed) state. This state has reduced affinity for CO\u2082 and H\u207a, causing their release and driving the conversion of bicarbonate back to CO\u2082 for exhalation.",
+      "whyWrongByChoice": {
+        "A": "Oxygenated hemoglobin releases, rather than binds, CO\u2082 and H\u207a. Deoxygenated hemoglobin at the tissues is the form that binds more CO\u2082 and H\u207a.",
+        "B": "The Haldane effect involves hemoglobin conformational changes, not inhibition of carbonic anhydrase. Carbonic anhydrase remains active in both directions.",
+        "C": "The Haldane effect promotes bicarbonate re-entry into RBCs and conversion back to CO\u2082 for exhalation, not retention of bicarbonate.",
+        "D": "Oxygen binding via the Haldane effect does not decrease oxygen affinity. The Bohr effect, not the Haldane effect, describes changes in oxygen affinity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "haldane-effect", "CO2-release", "lungs"]
+  },
+  {
+    "id": "r06-007",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 19-year-old college student is brought to the emergency department after being found unconscious in a house with a malfunctioning gas heater. She is confused with cherry-red skin coloration. Her carboxyhemoglobin level is 35%. How does carbon monoxide poisoning affect the oxygen-hemoglobin dissociation curve?",
+    "choices": [
+      {"label": "A", "text": "Right shift, increased P50"},
+      {"label": "B", "text": "Left shift, impaired unloading"},
+      {"label": "C", "text": "No effect on curve position"},
+      {"label": "D", "text": "Flattened sigmoid shape"},
+      {"label": "E", "text": "Increased oxygen-carrying capacity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Carbon monoxide binds hemoglobin with 200-250 times greater affinity than oxygen, occupying binding sites. CO binding also increases the remaining heme sites' affinity for O\u2082, shifting the curve left and impairing oxygen unloading at tissues.",
+      "whyCorrect": "CO binding stabilizes hemoglobin in the R (relaxed/oxy) state, which increases the affinity of the remaining unoccupied heme groups for oxygen. This left shift decreases P50 and impairs oxygen release at the tissues despite some sites still carrying O\u2082.",
+      "whyWrongByChoice": {
+        "A": "A right shift with increased P50 would improve oxygen unloading. CO poisoning does the opposite: it increases oxygen affinity (left shift) and decreases P50.",
+        "C": "CO profoundly alters the curve by increasing oxygen affinity at the remaining binding sites, causing a significant leftward shift.",
+        "D": "The curve maintains its general shape but shifts leftward. The sigmoid nature is preserved because cooperative binding still operates among remaining functional sites.",
+        "E": "CO occupies hemoglobin binding sites and reduces total oxygen-carrying capacity. It does not increase it."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "CO-poisoning", "left-shift", "oxyhemoglobin-dissociation"]
+  },
+  {
+    "id": "r06-008",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A physiology professor asks her students about the P50 value during a lecture on gas transport. She explains that P50 is the PO\u2082 at which hemoglobin is 50% saturated, and it quantifies hemoglobin's oxygen affinity. She then asks the class what the normal P50 value is for adult hemoglobin. Which of the following is correct?",
+    "choices": [
+      {"label": "A", "text": "Approximately 10 mmHg"},
+      {"label": "B", "text": "Approximately 40 mmHg"},
+      {"label": "C", "text": "Approximately 28 mmHg"},
+      {"label": "D", "text": "Approximately 60 mmHg"},
+      {"label": "E", "text": "Approximately 100 mmHg"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The normal P50 for adult hemoglobin is approximately 26-28 mmHg. This value places the 50% saturation point in the steep portion of the oxygen-hemoglobin dissociation curve, where oxygen unloading is most responsive to tissue needs.",
+      "whyCorrect": "A P50 of ~28 mmHg means hemoglobin is 50% saturated at a PO\u2082 of 28 mmHg. This sits in the steep portion of the curve, optimizing both oxygen loading in the lungs (plateau region at high PO\u2082) and unloading at the tissues (steep region at low PO\u2082).",
+      "whyWrongByChoice": {
+        "A": "A P50 of 10 mmHg would represent extremely high oxygen affinity (extreme left shift), incompatible with effective oxygen delivery to tissues under normal conditions.",
+        "B": "40 mmHg is the normal mixed venous PO\u2082, at which hemoglobin saturation is approximately 75%, not 50%.",
+        "D": "60 mmHg falls on the shoulder of the curve where saturation is approximately 90%. This is not the 50% saturation point.",
+        "E": "100 mmHg is the normal arterial PO\u2082 at which hemoglobin is approximately 98% saturated, far above the 50% saturation point."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "P50", "oxyhemoglobin-dissociation", "hemoglobin-affinity"]
+  },
+  {
+    "id": "r06-009",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A neonatologist explains to parents that their premature infant's blood has a higher oxygen affinity than adult blood. She notes that fetal hemoglobin (HbF) has a left-shifted oxygen-hemoglobin dissociation curve. The infant's blood tests show 80% HbF. Which molecular mechanism best explains the higher oxygen affinity of HbF?",
+    "choices": [
+      {"label": "A", "text": "Gamma chains bind 2,3-DPG poorly"},
+      {"label": "B", "text": "Increased affinity for 2,3-DPG"},
+      {"label": "C", "text": "Lower total hemoglobin concentration"},
+      {"label": "D", "text": "Four alpha chains per molecule"},
+      {"label": "E", "text": "Enhanced CO\u2082 binding capacity"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Fetal hemoglobin (HbF) contains \u03b3 (gamma) chains instead of the \u03b2 chains found in adult hemoglobin (HbA). These \u03b3 chains bind 2,3-DPG poorly, so HbF is less affected by the rightward-shifting effect of 2,3-DPG, resulting in higher oxygen affinity (left shift).",
+      "whyCorrect": "2,3-DPG normally stabilizes the T (deoxy) state of hemoglobin, reducing oxygen affinity. Because HbF's \u03b3 chains have reduced affinity for 2,3-DPG, the molecule remains preferentially in the R (oxy) state, giving HbF higher oxygen affinity. This allows fetal blood to extract oxygen from maternal blood at the placenta.",
+      "whyWrongByChoice": {
+        "B": "HbF has lower, not higher, affinity for 2,3-DPG. Higher 2,3-DPG binding would shift the curve right and decrease oxygen affinity.",
+        "C": "The hemoglobin concentration does not affect the position of the dissociation curve. It affects oxygen content but not oxygen affinity.",
+        "D": "HbF has two \u03b1 and two \u03b3 chains (\u03b1\u2082\u03b3\u2082), not four \u03b1 chains. A molecule with four identical \u03b1 chains would be hemoglobin Barts (Hb Barts).",
+        "E": "CO\u2082 binding capacity is related to the Haldane effect and does not explain the leftward shift of the HbF dissociation curve."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "fetal-hemoglobin", "left-shift", "2,3-DPG"]
+  },
+  {
+    "id": "r06-010",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 30-year-old man presents to the emergency department with cyanosis and chocolate-brown colored blood after ingesting a large amount of dapsone. His methemoglobin level is 28%. Oxidation of hemoglobin iron from Fe\u00b2\u207a to Fe\u00b3\u207a at the affected heme sites prevents oxygen binding at those sites. How does methemoglobinemia affect the oxygen-hemoglobin dissociation curve?",
+    "choices": [
+      {"label": "A", "text": "Right shift, increased P50"},
+      {"label": "B", "text": "Flattened curve throughout"},
+      {"label": "C", "text": "No change in curve position"},
+      {"label": "D", "text": "Steepened sigmoid portion"},
+      {"label": "E", "text": "Left shift, decreased P50"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In methemoglobinemia, affected heme sites (Fe\u00b3\u207a) cannot bind oxygen. The remaining functional heme sites on the same hemoglobin molecule exhibit increased oxygen affinity (left shift with decreased P50), impairing oxygen release at the tissues.",
+      "whyCorrect": "When some heme groups are oxidized to Fe\u00b3\u207a, the remaining Fe\u00b2\u207a sites are locked into a high-affinity (R-state) conformation. This increases oxygen affinity at functional sites, shifting the curve leftward and decreasing P50, which impairs tissue oxygen unloading and worsens tissue hypoxia.",
+      "whyWrongByChoice": {
+        "A": "A right shift with increased P50 would facilitate oxygen unloading. Methemoglobinemia does the opposite, with the remaining functional sites exhibiting increased oxygen affinity.",
+        "B": "The curve shifts leftward rather than flattening. The sigmoid shape is preserved, but the entire curve is displaced to the left.",
+        "C": "Methemoglobinemia significantly alters the curve by increasing oxygen affinity at the remaining functional heme sites, producing a clear left shift.",
+        "D": "The sigmoid shape is maintained but shifted left. Steepening of the curve does not describe the effect of methemoglobinemia."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "methemoglobinemia", "left-shift", "Fe3+"]
+  },
+  {
+    "id": "r06-011",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 55-year-old man with stable heart failure undergoes right heart catheterization. His mixed venous blood sample from the pulmonary artery shows a PO\u2082 of 40 mmHg with hemoglobin saturation of 75%. The attending physician asks the cardiology fellow what percentage of oxygen the tissues have extracted from arterial blood at rest. Which of the following is the correct answer?",
+    "choices": [
+      {"label": "A", "text": "Approximately 5%"},
+      {"label": "B", "text": "Approximately 10%"},
+      {"label": "C", "text": "Approximately 50%"},
+      {"label": "D", "text": "Approximately 25%"},
+      {"label": "E", "text": "Approximately 75%"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "At rest, arterial hemoglobin is ~98% saturated. Mixed venous blood returning to the lungs has ~75% saturation. The difference (98% - 75% = ~23-25%) represents the fraction of oxygen extracted by the tissues at rest.",
+      "whyCorrect": "Normal arterial saturation is ~98% and mixed venous saturation is ~75%. This means approximately 25% of the total oxygen carried by hemoglobin has been extracted by the tissues. During exercise, extraction increases substantially as venous PO\u2082 drops further.",
+      "whyWrongByChoice": {
+        "A": "A 5% extraction would leave venous saturation near 93%, which is far higher than the measured 75%. Normal resting extraction is much greater than 5%.",
+        "B": "A 10% extraction would yield venous saturation around 88%, inconsistent with the measured 75% venous saturation.",
+        "C": "A 50% extraction would leave venous saturation near 48%, which occurs during strenuous exercise, not at rest.",
+        "E": "A 75% extraction would leave venous saturation near 23%, indicating severe tissue oxygen debt, not a normal resting state."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "oxygen-extraction", "mixed-venous", "tissue-metabolism"]
+  },
+  {
+    "id": "r06-012",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A pharmacology researcher is studying acetazolamide, a carbonic anhydrase inhibitor. She explains to her team that the drug's diuretic effect depends on understanding the normal enzyme's function. In the context of CO\u2082 transport, which statement about carbonic anhydrase is correct?",
+    "choices": [
+      {"label": "A", "text": "Active only in lung tissue"},
+      {"label": "B", "text": "Requires ATP for its activity"},
+      {"label": "C", "text": "Inhibited by bicarbonate ions"},
+      {"label": "D", "text": "Only catalyzes forward reaction"},
+      {"label": "E", "text": "Catalyzes forward and reverse"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Carbonic anhydrase catalyzes the reversible reaction CO\u2082 + H\u2082O \u21cc H\u2082CO\u2083 in both directions at the same rate. The direction is determined by substrate concentrations: forming bicarbonate in peripheral tissues and regenerating CO\u2082 at the lungs.",
+      "whyCorrect": "Carbonic anhydrase accelerates both the forward reaction (CO\u2082 \u2192 HCO\u2083\u207b in tissues) and the reverse reaction (HCO\u2083\u207b \u2192 CO\u2082 in lungs). The local concentration of reactants drives the net direction, not the enzyme's directionality.",
+      "whyWrongByChoice": {
+        "A": "Carbonic anhydrase is active in both peripheral tissues (forming bicarbonate) and the lungs (regenerating CO\u2082). It is also active in the kidneys and other tissues.",
+        "B": "Carbonic anhydrase does not require ATP. It is a zinc metalloenzyme that catalyzes the hydration of CO\u2082 without energy input.",
+        "C": "Bicarbonate is a product of the forward reaction and a substrate of the reverse reaction. It does not inhibit carbonic anhydrase.",
+        "D": "The enzyme catalyzes the reaction in both directions. If it only catalyzed the forward reaction, CO\u2082 could not be regenerated at the lungs for exhalation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "carbonic-anhydrase", "reversible-reaction", "CO2-transport"]
+  },
+  {
+    "id": "r06-013",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 45-year-old firefighter is rescued from a burning building and brought to the emergency department with confusion and cherry-red skin. His pulse oximetry reads 99%, but the emergency physician suspects carbon monoxide poisoning and orders a co-oximetry panel. The carboxyhemoglobin level returns at 30%. Why is standard pulse oximetry unreliable in this setting?",
+    "choices": [
+      {"label": "A", "text": "CO displaces dissolved plasma O\u2082"},
+      {"label": "B", "text": "CO increases total hemoglobin"},
+      {"label": "C", "text": "CO blocks infrared light absorption"},
+      {"label": "D", "text": "Oximeter misreads carboxyhemoglobin"},
+      {"label": "E", "text": "CO causes methemoglobin formation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Standard pulse oximetry uses two wavelengths of light (660 nm and 940 nm) to distinguish oxyhemoglobin from deoxyhemoglobin. Carboxyhemoglobin absorbs light similarly to oxyhemoglobin at these wavelengths, causing the device to falsely report a normal SpO\u2082.",
+      "whyCorrect": "Carboxyhemoglobin and oxyhemoglobin have nearly identical light absorption at the wavelengths used by standard pulse oximeters. The device cannot differentiate between them, so it reads carboxyhemoglobin as oxyhemoglobin, yielding a falsely reassuring SpO\u2082 reading.",
+      "whyWrongByChoice": {
+        "A": "CO binds to hemoglobin, not to dissolved oxygen in plasma. The dissolved oxygen fraction (measured by PaO\u2082) may be relatively preserved in early CO poisoning.",
+        "B": "CO does not increase hemoglobin concentration. It binds to existing hemoglobin, occupying oxygen-binding sites and forming carboxyhemoglobin.",
+        "C": "CO does not block infrared light absorption. The issue is that carboxyhemoglobin absorbs light at similar wavelengths as oxyhemoglobin.",
+        "E": "CO forms carboxyhemoglobin, not methemoglobin. Methemoglobin involves oxidation of Fe\u00b2\u207a to Fe\u00b3\u207a, which is a distinct process unrelated to CO binding."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "CO-poisoning", "pulse-oximetry", "carboxyhemoglobin"]
+  },
+  {
+    "id": "r06-014",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 62-year-old woman with mild COPD lives at an elevation of 1500 meters. Her PaO\u2082 is 72 mmHg, yet her SpO\u2082 remains 94%. Her pulmonologist explains that the plateau region of the oxygen-hemoglobin dissociation curve (PaO\u2082 80-100 mmHg) provides a safety margin. What is the primary physiologic advantage of this plateau?",
+    "choices": [
+      {"label": "A", "text": "Maximizes CO\u2082 release at the lungs"},
+      {"label": "B", "text": "Prevents excessive hemoglobin binding"},
+      {"label": "C", "text": "Allows rapid unloading at the tissues"},
+      {"label": "D", "text": "Keeps PaO\u2082 constant at all altitudes"},
+      {"label": "E", "text": "Buffers against drops in saturation"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The plateau region (PaO\u2082 80-100 mmHg) means that even moderate drops in PaO\u2082 produce only small decreases in hemoglobin saturation. This buffers against reductions in inspired oxygen, maintaining high O\u2082 saturation under various conditions.",
+      "whyCorrect": "On the plateau, hemoglobin saturation remains above 90-95% even as PaO\u2082 drops from 100 to approximately 60 mmHg. This provides a safety margin, ensuring that minor decreases in alveolar oxygen (from mild lung disease or moderate altitude) do not critically impair oxygen loading.",
+      "whyWrongByChoice": {
+        "A": "CO\u2082 release at the lungs depends on the Haldane effect and ventilation, not on the plateau region of the oxygen dissociation curve.",
+        "B": "The plateau does not prevent hemoglobin binding. Rather, it means hemoglobin is nearly fully saturated across a wide PaO\u2082 range.",
+        "C": "Rapid oxygen unloading occurs on the steep portion of the curve (PaO\u2082 10-40 mmHg), not the plateau. The plateau represents efficient loading, not unloading.",
+        "D": "The plateau maintains saturation despite PaO\u2082 changes but does not keep PaO\u2082 itself constant. PaO\u2082 decreases with altitude or lung disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "oxyhemoglobin-dissociation", "plateau", "safety-margin"]
+  },
+  {
+    "id": "r06-015",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 35-year-old mountaineer has been trekking at 5,000 meters elevation for 3 weeks. Despite a PaO\u2082 of 55 mmHg, he is tolerating the altitude well. His physician notes that a chronic compensatory mechanism has shifted his oxygen-hemoglobin dissociation curve to the right. Which adaptation best explains this rightward shift?",
+    "choices": [
+      {"label": "A", "text": "Decreased hemoglobin concentration"},
+      {"label": "B", "text": "Increased surfactant production"},
+      {"label": "C", "text": "Increased erythrocyte 2,3-BPG"},
+      {"label": "D", "text": "Decreased carbonic anhydrase activity"},
+      {"label": "E", "text": "Increased lung compliance"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Chronic hypoxemia at high altitude stimulates increased production of 2,3-bisphosphoglycerate (2,3-BPG) in erythrocytes over days to weeks. Elevated 2,3-BPG stabilizes the T (deoxy) state of hemoglobin, shifting the curve right and improving oxygen release at tissues.",
+      "whyCorrect": "2,3-BPG binds in the central cavity of deoxyhemoglobin, stabilizing the T-state and reducing oxygen affinity. This rightward shift increases P50, facilitating oxygen unloading at the tissues. This adaptation partially compensates for reduced arterial oxygen content at altitude.",
+      "whyWrongByChoice": {
+        "A": "Chronic high altitude stimulates erythropoietin production, which increases hemoglobin concentration. Decreased hemoglobin would worsen oxygen delivery.",
+        "B": "Surfactant reduces alveolar surface tension and prevents atelectasis. It does not affect the oxygen-hemoglobin dissociation curve position.",
+        "D": "Carbonic anhydrase activity is not the mechanism of adaptation to chronic hypoxemia. The rightward shift is mediated by 2,3-BPG, not changes in carbonic anhydrase.",
+        "E": "Lung compliance relates to lung mechanics, not to the position of the oxygen-hemoglobin dissociation curve."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "2,3-BPG", "high-altitude", "right-shift", "adaptation"]
+  },
+  {
+    "id": "r06-016",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A hematology fellow is reviewing oxygen transport with a medical student. She explains that hemoglobin consists of four globin subunits, each containing a heme moiety with a central iron atom that reversibly binds one oxygen molecule. She asks the student how many oxygen molecules a single hemoglobin molecule can carry at full saturation.",
+    "choices": [
+      {"label": "A", "text": "One molecule"},
+      {"label": "B", "text": "Two molecules"},
+      {"label": "C", "text": "Four molecules"},
+      {"label": "D", "text": "Eight molecules"},
+      {"label": "E", "text": "Sixteen molecules"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Each hemoglobin molecule has four globin subunits (two \u03b1 and two \u03b2 in adult HbA), each containing one heme group with a central Fe\u00b2\u207a atom. Each heme can reversibly bind one O\u2082 molecule, so a fully saturated hemoglobin carries four O\u2082 molecules.",
+      "whyCorrect": "The four heme groups in a single hemoglobin molecule each bind one O\u2082, for a maximum of four O\u2082 molecules per hemoglobin. This is the basis of the oxygen-carrying capacity constant of 1.34-1.39 mL O\u2082 per gram of hemoglobin.",
+      "whyWrongByChoice": {
+        "A": "One oxygen molecule would mean only one heme group per hemoglobin, but hemoglobin is a tetramer with four heme-containing subunits.",
+        "B": "Two oxygen molecules would correspond to a dimeric hemoglobin, which does not represent the normal tetrameric structure.",
+        "D": "Eight would require two oxygen molecules per subunit, but each heme group binds only one O\u2082 molecule.",
+        "E": "Sixteen would require four oxygen molecules per subunit, which is not possible given that each heme group has only one iron atom capable of binding one O\u2082."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "hemoglobin", "oxygen-binding", "heme"]
+  },
+  {
+    "id": "r06-017",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 58-year-old obese man with obesity hypoventilation syndrome has a PaCO\u2082 of 55 mmHg. His physician explains that CO\u2082 retention shifts the bicarbonate buffer equilibrium. According to the Henderson-Hasselbalch equation, which of the following best describes the effect of increased CO\u2082 on blood pH?",
+    "choices": [
+      {"label": "A", "text": "pH increases (more alkaline)"},
+      {"label": "B", "text": "pH fluctuates unpredictably"},
+      {"label": "C", "text": "pH remains unchanged"},
+      {"label": "D", "text": "pH first increases then decreases"},
+      {"label": "E", "text": "pH decreases (more acidic)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Increased CO\u2082 drives the bicarbonate buffer equation (CO\u2082 + H\u2082O \u2192 H\u2082CO\u2083 \u2192 H\u207a + HCO\u2083\u207b) to the right, generating more H\u207a ions and lowering the blood pH. This is the fundamental mechanism of respiratory acidosis.",
+      "whyCorrect": "According to the Henderson-Hasselbalch equation, pH = 6.1 + log([HCO\u2083\u207b]/[0.03 \u00d7 PaCO\u2082]). An increase in PaCO\u2082 in the denominator decreases the ratio and thus decreases pH, making the blood more acidic.",
+      "whyWrongByChoice": {
+        "A": "Increased CO\u2082 produces more H\u207a via carbonic acid formation, which lowers (not raises) pH. A more alkaline pH would result from decreased CO\u2082 (hyperventilation).",
+        "B": "The effect of CO\u2082 on pH is predictable and governed by the Henderson-Hasselbalch equation. Higher CO\u2082 consistently lowers pH.",
+        "C": "pH does not remain unchanged when CO\u2082 rises, unless renal compensation fully corrects the acidosis over time, which takes days.",
+        "D": "There is no initial increase in pH when CO\u2082 rises. The relationship between CO\u2082 and pH is direct: more CO\u2082 means more H\u207a and lower pH."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "CO2-pH", "henderson-hasselbalch", "respiratory-acidosis"]
+  },
+  {
+    "id": "r06-018",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A medical intern calculates the arterial oxygen content for a patient with Hb 15 g/dL, SaO\u2082 98%, and PaO\u2082 95 mmHg using the formula CaO\u2082 = (1.36 \u00d7 [Hb] \u00d7 SaO\u2082) + (0.003 \u00d7 PaO\u2082). The hemoglobin-bound component is approximately 20 mL/dL and the dissolved component is approximately 0.29 mL/dL. Which component contributes most to total arterial oxygen content?",
+    "choices": [
+      {"label": "A", "text": "Dissolved plasma oxygen"},
+      {"label": "B", "text": "Both contribute equally"},
+      {"label": "C", "text": "Neither; depends on altitude"},
+      {"label": "D", "text": "Hemoglobin-bound oxygen"},
+      {"label": "E", "text": "Dissolved exceeds Hb-bound"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "At normal hemoglobin and PaO\u2082, the hemoglobin-bound component (1.36 \u00d7 15 \u00d7 0.98 \u2248 20 mL/dL) vastly exceeds the dissolved component (0.003 \u00d7 95 \u2248 0.29 mL/dL). Hemoglobin-bound oxygen accounts for approximately 98% of total arterial oxygen content.",
+      "whyCorrect": "The calculation shows hemoglobin-bound O\u2082 \u2248 20 mL/dL versus dissolved O\u2082 \u2248 0.29 mL/dL, making hemoglobin the overwhelmingly dominant contributor. This underscores why hemoglobin concentration is critical for tissue oxygen delivery.",
+      "whyWrongByChoice": {
+        "A": "Dissolved oxygen (0.003 \u00d7 PaO\u2082) contributes only about 0.29 mL/dL, which is less than 2% of total CaO\u2082. It is the minor component.",
+        "B": "The contributions are extremely unequal: hemoglobin carries ~98% and dissolved O\u2082 carries ~2% of total oxygen content.",
+        "C": "While altitude affects PaO\u2082, hemoglobin-bound oxygen dominates total oxygen content at any physiologically relevant altitude.",
+        "E": "Dissolved oxygen never exceeds hemoglobin-bound oxygen under normal conditions. Oxygen is poorly soluble in plasma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "oxygen-content", "CaO2", "calculation"]
+  },
+  {
+    "id": "r06-019",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A physiology professor is teaching medical students about CO\u2082 transport. She explains that when bicarbonate (HCO\u2083\u207b) is produced inside red blood cells and transported out into the plasma, another ion must move into the RBC to maintain electrical neutrality. This process is known as the chloride shift. Which ion enters the RBC?",
+    "choices": [
+      {"label": "A", "text": "Sodium (Na\u207a)"},
+      {"label": "B", "text": "Potassium (K\u207a)"},
+      {"label": "C", "text": "Calcium (Ca\u00b2\u207a)"},
+      {"label": "D", "text": "Phosphate (PO\u2084\u00b3\u207b)"},
+      {"label": "E", "text": "Chloride (Cl\u207b)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The chloride shift (Hamburger phenomenon) involves the exchange of intracellular HCO\u2083\u207b for extracellular Cl\u207b through the band 3 anion exchanger (AE1) in the RBC membrane. This maintains electrochemical neutrality as bicarbonate exits the cell.",
+      "whyCorrect": "As carbonic anhydrase generates HCO\u2083\u207b inside the RBC, it exits via the band 3 protein into the plasma. To maintain electrical neutrality, Cl\u207b moves into the RBC in exchange. This is the chloride shift, essential for efficient CO\u2082 transport.",
+      "whyWrongByChoice": {
+        "A": "Sodium does not participate in the chloride shift. It is primarily managed by the Na\u207a/K\u207a-ATPase pump and does not exchange for bicarbonate.",
+        "B": "Potassium is maintained by the Na\u207a/K\u207a-ATPase pump and does not exchange with bicarbonate in the chloride shift.",
+        "C": "Calcium does not participate in the anion exchange mechanism of the chloride shift. It plays roles in other cellular signaling processes.",
+        "D": "Phosphate is not the ion exchanged for bicarbonate in the chloride shift. The band 3 protein specifically exchanges Cl\u207b for HCO\u2083\u207b."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "chloride-shift", "bicarbonate", "anion-exchange"]
+  },
+  {
+    "id": "r06-020",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A 42-year-old woman with type 1 diabetes presents to the emergency department with Kussmaul respirations, fruity breath odor, and altered mental status. Her arterial blood gas shows pH 7.15, PaCO\u2082 22 mmHg, and HCO\u2083\u207b 8 mEq/L. Her serum glucose is 520 mg/dL and ketones are strongly positive. How does her severe acidosis affect hemoglobin's affinity for oxygen?",
+    "choices": [
+      {"label": "A", "text": "Increased affinity, leftward shift"},
+      {"label": "B", "text": "Depends on hemoglobin variant"},
+      {"label": "C", "text": "Decreased affinity, right shift"},
+      {"label": "D", "text": "No effect on oxygen affinity"},
+      {"label": "E", "text": "Initial left then right shift"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Severe metabolic acidosis from diabetic ketoacidosis (DKA) increases H\u207a concentration. Via the Bohr effect, excess H\u207a decreases hemoglobin's oxygen affinity, shifting the dissociation curve rightward and facilitating oxygen unloading at tissues.",
+      "whyCorrect": "The Bohr effect states that increased H\u207a (lower pH) decreases hemoglobin's oxygen affinity. In DKA, the severely acidic pH of 7.15 shifts the curve to the right, facilitating oxygen delivery to hypoperfused tissues. This is a compensatory benefit, though it diminishes below pH 7.2.",
+      "whyWrongByChoice": {
+        "A": "A left shift occurs with decreased H\u207a (higher pH/alkalosis). In DKA, the severe acidosis increases H\u207a and shifts the curve right, not left.",
+        "B": "The Bohr effect applies to all hemoglobin types (HbA, HbF, etc.). Acidosis shifts the curve right regardless of hemoglobin variant.",
+        "D": "pH has a well-established effect on hemoglobin oxygen affinity via the Bohr effect. Claiming no effect contradicts fundamental physiology.",
+        "E": "There is no biphasic response. Acidosis consistently decreases oxygen affinity (right shift) from onset."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "bohr-effect", "DKA", "right-shift", "acidosis"]
+  },
+  {
+    "id": "r06-021",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A critical care physician observes that deoxygenated blood returning from peripheral tissues carries significantly more CO\u2082 than oxygenated arterial blood. She explains to her team that deoxygenated hemoglobin has a greater capacity to bind CO\u2082 and H\u207a compared to oxygenated hemoglobin. Which physiologic effect best explains this observation?",
+    "choices": [
+      {"label": "A", "text": "Bohr effect"},
+      {"label": "B", "text": "Haldane effect"},
+      {"label": "C", "text": "Pasteur effect"},
+      {"label": "D", "text": "Warburg effect"},
+      {"label": "E", "text": "Root effect"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The Haldane effect describes how the oxygenation state of hemoglobin affects its capacity to transport CO\u2082 and H\u207a. Deoxygenated hemoglobin binds more CO\u2082 and H\u207a than oxygenated hemoglobin, facilitating CO\u2082 pickup at the tissues and release at the lungs.",
+      "whyCorrect": "The Haldane effect explains that deoxygenated hemoglobin (T-state) has greater affinity for CO\u2082 and H\u207a, promoting CO\u2082 loading at the tissues. When hemoglobin is oxygenated in the lungs, it releases CO\u2082 and H\u207a. The mnemonic is HaLdane = Lungs (high O\u2082 releases CO\u2082).",
+      "whyWrongByChoice": {
+        "A": "The Bohr effect describes how CO\u2082 and H\u207a affect hemoglobin's affinity for oxygen, not how oxygenation affects CO\u2082 binding. They are reciprocal but distinct effects.",
+        "C": "The Pasteur effect describes the inhibition of anaerobic glycolysis by oxygen and is unrelated to gas transport by hemoglobin.",
+        "D": "The Warburg effect describes the preference of cancer cells for aerobic glycolysis and has no relation to hemoglobin gas transport.",
+        "E": "The Root effect is found in fish hemoglobin where low pH dramatically reduces oxygen-carrying capacity. It is not relevant to human hemoglobin."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "haldane-effect", "deoxyhemoglobin", "CO2-transport"]
+  },
+  {
+    "id": "r06-022",
+    "topicId": "oxygen-co2-transport",
+    "topicName": "Oxygen and Carbon Dioxide Transport",
+    "stem": "A pulmonology fellow is reviewing arterial blood gas interpretation with a medical student. She notes that oxygen is poorly soluble in plasma, with a solubility coefficient of 0.003 mL O\u2082/mmHg/dL. She then asks the student what percentage of total blood oxygen is transported dissolved in plasma under normal conditions.",
+    "choices": [
+      {"label": "A", "text": "Approximately 2%"},
+      {"label": "B", "text": "Approximately 10%"},
+      {"label": "C", "text": "Approximately 25%"},
+      {"label": "D", "text": "Approximately 50%"},
+      {"label": "E", "text": "Approximately 85%"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Only about 2% of blood oxygen is transported dissolved in plasma. The remaining ~98% is bound to hemoglobin as oxyhemoglobin. Despite its small contribution, dissolved oxygen (PaO\u2082) is critical because it drives the diffusion gradient.",
+      "whyCorrect": "At normal PaO\u2082 of 100 mmHg, dissolved O\u2082 = 0.003 \u00d7 100 = 0.3 mL/dL, compared to total CaO\u2082 of ~20 mL/dL. This means dissolved O\u2082 accounts for only about 1.5-2% of total blood oxygen. Hemoglobin carries the vast majority.",
+      "whyWrongByChoice": {
+        "B": "10% of dissolved oxygen would require a much higher solubility coefficient or much lower hemoglobin-bound fraction. The actual dissolved fraction is about 2%.",
+        "C": "25% is not correct; approximately 98% of oxygen is hemoglobin-bound, leaving only about 2% dissolved.",
+        "D": "50% dissolved oxygen would require equal contributions from dissolved and hemoglobin-bound fractions, which does not occur given oxygen's poor plasma solubility.",
+        "E": "85% is the approximate percentage of CO\u2082 transported as bicarbonate in plasma, not the percentage of dissolved oxygen."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "dissolved-oxygen", "oxygen-transport", "solubility"]
+  },
+  {
+    "id": "r06-023",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 22-year-old man is brought to the emergency department by his roommate who found him unresponsive on the couch with slow breathing and needles on the floor. Examination reveals pinpoint pupils, respiratory rate of 7 breaths/min, and fresh injection marks on his left antecubital fossa. His arterial blood gas shows pH 7.18, PaCO\u2082 72 mmHg, and HCO\u2083\u207b 26 mEq/L. Which diagnosis best explains these findings?",
+    "choices": [
+      {"label": "A", "text": "Metabolic acidosis from lactate"},
+      {"label": "B", "text": "Chronic respiratory acidosis"},
+      {"label": "C", "text": "Respiratory alkalosis"},
+      {"label": "D", "text": "Acute respiratory acidosis"},
+      {"label": "E", "text": "Metabolic alkalosis from emesis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The clinical picture of pinpoint pupils, injection marks, and severely depressed respiratory rate points to opioid overdose. The ABG shows low pH and markedly elevated PaCO\u2082 with near-normal bicarbonate, indicating acute respiratory acidosis without renal compensation.",
+      "whyCorrect": "Opioid overdose depresses the brainstem respiratory center, causing hypoventilation and CO\u2082 retention. The near-normal HCO\u2083\u207b of 26 mEq/L indicates the kidneys have not had time to compensate, confirming an acute process. In chronic respiratory acidosis, HCO\u2083\u207b would be significantly elevated.",
+      "whyWrongByChoice": {
+        "A": "Metabolic acidosis would show low HCO\u2083\u207b and low PaCO\u2082 (from respiratory compensation). This patient's primary abnormality is elevated PaCO\u2082, not low bicarbonate.",
+        "B": "Chronic respiratory acidosis would show significantly elevated HCO\u2083\u207b from renal compensation (typically >30 mEq/L with this degree of hypercapnia). This patient's HCO\u2083\u207b is near-normal at 26.",
+        "C": "Respiratory alkalosis would present with elevated pH and decreased PaCO\u2082 from hyperventilation, the opposite of this patient's findings.",
+        "E": "Metabolic alkalosis would show elevated pH and elevated HCO\u2083\u207b with compensatory CO\u2082 retention. This patient has acidemia, not alkalemia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "respiratory-acidosis", "opioid-overdose", "ABG"]
+  },
+  {
+    "id": "r06-024",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 67-year-old man with advanced COPD presents with worsening dyspnea and productive cough. His ABG shows pH 7.30, PaCO\u2082 58 mmHg, and HCO\u2083\u207b 28 mEq/L. The two major mechanisms causing respiratory acidosis are impaired ventilation and impaired gas exchange. Which of the following conditions causes respiratory acidosis primarily through impaired ventilation rather than impaired gas exchange?",
+    "choices": [
+      {"label": "A", "text": "Emphysema with bullae"},
+      {"label": "B", "text": "Bilateral lobar pneumonia"},
+      {"label": "C", "text": "Opioid overdose"},
+      {"label": "D", "text": "Diffuse pulmonary edema"},
+      {"label": "E", "text": "Pulmonary fibrosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Opioid overdose depresses the brainstem respiratory center, reducing respiratory rate and tidal volume (impaired ventilation). In contrast, emphysema, pneumonia, pulmonary edema, and fibrosis primarily impair gas exchange at the alveolar level.",
+      "whyCorrect": "Opioids act on \u03bc-receptors in the brainstem respiratory center, decreasing both respiratory rate and tidal volume. The lungs themselves are normal, but reduced ventilatory drive leads to CO\u2082 retention. This is a pure ventilatory failure mechanism.",
+      "whyWrongByChoice": {
+        "A": "Emphysema destroys alveolar surface area, reducing the available membrane for gas exchange. It is primarily an impaired gas exchange mechanism.",
+        "B": "Pneumonia fills alveolar spaces with inflammatory exudates, impairing gas diffusion across the alveolar membrane. This is impaired gas exchange.",
+        "D": "Pulmonary edema thickens the alveolar-capillary barrier with fluid, impairing gas exchange rather than ventilatory drive or mechanics.",
+        "E": "Pulmonary fibrosis thickens the interstitium and reduces diffusion capacity, which is an impaired gas exchange mechanism."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "respiratory-acidosis", "impaired-ventilation", "opioid-overdose"]
+  },
+  {
+    "id": "r06-025",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 70-year-old woman with long-standing COPD has a stable ABG showing pH 7.36, PaCO\u2082 52 mmHg, and HCO\u2083\u207b 30 mEq/L. Her physician explains to a medical student that the kidneys have compensated for her chronic hypercapnia. Which of the following best describes the mechanism of renal compensation for respiratory acidosis?",
+    "choices": [
+      {"label": "A", "text": "Excreting HCO\u2083\u207b and retaining H\u207a"},
+      {"label": "B", "text": "Excreting H\u207a, regenerating HCO\u2083\u207b"},
+      {"label": "C", "text": "Increasing renal CO\u2082 excretion"},
+      {"label": "D", "text": "Decreasing carbonic anhydrase"},
+      {"label": "E", "text": "Producing additional volatile acids"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In respiratory acidosis, the kidneys compensate by excreting H\u207a (buffered by phosphate and ammonium in the urine) and regenerating new HCO\u2083\u207b that is added to the blood. This raises the serum bicarbonate, partially restoring the HCO\u2083\u207b/CO\u2082 ratio toward normal and improving pH.",
+      "whyCorrect": "For each H\u207a secreted into the tubular lumen, the kidneys regenerate a new bicarbonate molecule that enters the blood. Over days, this raises serum HCO\u2083\u207b sufficiently to buffer the elevated CO\u2082, partially normalizing the pH without correcting it to 7.40.",
+      "whyWrongByChoice": {
+        "A": "This is the opposite of compensation. Excreting HCO\u2083\u207b and retaining H\u207a would worsen acidosis. The kidneys excrete H\u207a and retain/regenerate HCO\u2083\u207b to compensate.",
+        "C": "The kidneys do not significantly excrete CO\u2082. CO\u2082 elimination is a pulmonary function. The kidneys compensate by adjusting bicarbonate and H\u207a.",
+        "D": "Carbonic anhydrase activity in the kidneys is actually essential for generating the H\u207a that is secreted and the HCO\u2083\u207b that is reabsorbed. Decreasing its activity would impair compensation.",
+        "E": "Volatile acids (CO\u2082-derived) are eliminated by the lungs, not produced by the kidneys. The kidneys handle non-volatile acid excretion and bicarbonate regeneration."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "respiratory-acidosis", "renal-compensation", "bicarbonate"]
+  },
+  {
+    "id": "r06-026",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A critical care physician is comparing two patients. Patient A suffered cardiac arrest 30 minutes ago and has acute respiratory acidosis with pH 7.20, PaCO\u2082 65 mmHg, and HCO\u2083\u207b 25 mEq/L. Patient B has chronic COPD with chronic respiratory acidosis and a similar PaCO\u2082 of 65 mmHg. How would Patient B's bicarbonate level compare to Patient A's?",
+    "choices": [
+      {"label": "A", "text": "Acute has higher bicarbonate"},
+      {"label": "B", "text": "Both have identical bicarbonate"},
+      {"label": "C", "text": "Chronic has higher bicarbonate"},
+      {"label": "D", "text": "Chronic has lower bicarbonate"},
+      {"label": "E", "text": "Bicarbonate unchanged in both"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In chronic respiratory acidosis, the kidneys have had time (days to weeks) to increase H\u207a excretion and bicarbonate regeneration, raising serum HCO\u2083\u207b significantly. In acute respiratory acidosis, there is no time for renal compensation, so HCO\u2083\u207b remains near-normal.",
+      "whyCorrect": "At a PaCO\u2082 of 65 mmHg, the chronic patient's kidneys would have raised HCO\u2083\u207b to approximately 32-36 mEq/L, significantly higher than the acute patient's 25 mEq/L. This renal compensation partially normalizes the pH in chronic disease.",
+      "whyWrongByChoice": {
+        "A": "In acute respiratory acidosis, bicarbonate increases minimally (1-2 mEq/L) due to chemical buffering only. The chronic patient has much higher bicarbonate from sustained renal compensation.",
+        "B": "The bicarbonate levels are significantly different because the chronic patient has had time for renal compensation, while the acute patient has not.",
+        "D": "Chronic respiratory acidosis produces higher, not lower, bicarbonate levels because the kidneys have had time to regenerate bicarbonate.",
+        "E": "Bicarbonate is elevated in both conditions relative to normal, but much more so in chronic respiratory acidosis due to renal compensation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "acute-vs-chronic", "respiratory-acidosis", "renal-compensation"]
+  },
+  {
+    "id": "r06-027",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 25-year-old man is brought to the emergency department by paramedics after being found unresponsive in a park. He has pinpoint pupils, a respiratory rate of 6 breaths/min, and cyanotic lips. The paramedics suspect opioid overdose. Which medication should be administered immediately, even before completing the diagnostic workup?",
+    "choices": [
+      {"label": "A", "text": "Naloxone"},
+      {"label": "B", "text": "Albuterol"},
+      {"label": "C", "text": "Sodium bicarbonate"},
+      {"label": "D", "text": "Epinephrine"},
+      {"label": "E", "text": "Furosemide"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Naloxone is a competitive opioid antagonist that rapidly reverses opioid-induced respiratory depression. It should be administered immediately in suspected opioid overdose, even before a complete workup, because respiratory arrest is imminent.",
+      "whyCorrect": "Naloxone competitively binds \u03bc-opioid receptors, displacing the opioid agonist and rapidly restoring respiratory drive. Patients typically begin to wake up within minutes. It has an excellent safety profile, making empiric administration appropriate when overdose is suspected.",
+      "whyWrongByChoice": {
+        "B": "Albuterol is a \u03b2\u2082-agonist bronchodilator used for bronchospasm (asthma, COPD). It does not reverse opioid-induced central respiratory depression.",
+        "C": "Sodium bicarbonate is used for severe metabolic acidosis or certain toxic ingestions. It does not address the underlying cause of opioid-induced hypoventilation.",
+        "D": "Epinephrine is used in cardiac arrest and anaphylaxis. While opioid overdose may progress to arrest, the first-line treatment is naloxone to reverse the respiratory depression.",
+        "E": "Furosemide is a loop diuretic used for fluid overload. It has no role in the acute management of opioid overdose."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "naloxone", "opioid-overdose", "respiratory-acidosis"]
+  },
+  {
+    "id": "r06-028",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A biochemistry professor explains to her class that the Krebs cycle produces over 15,000 millimoles of CO\u2082-derived acid per day. She classifies these as volatile acids. A student asks why these particular acids are called volatile. Which of the following best explains the classification?",
+    "choices": [
+      {"label": "A", "text": "Produced exclusively in liver"},
+      {"label": "B", "text": "Buffered only by plasma proteins"},
+      {"label": "C", "text": "Excreted by the kidneys"},
+      {"label": "D", "text": "Cannot be measured on ABG"},
+      {"label": "E", "text": "Eliminated as CO\u2082 gas via lungs"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Volatile acids are so named because they can be converted to a gas (CO\u2082) and eliminated through the lungs via ventilation. This distinguishes them from non-volatile (fixed) acids, which cannot be exhaled and must be excreted by the kidneys.",
+      "whyCorrect": "CO\u2082 produced by the Krebs cycle combines with water to form carbonic acid (H\u2082CO\u2083), a volatile acid. The term 'volatile' means capable of being converted to a gaseous state. The lungs eliminate this acid as CO\u2082 gas through ventilation, making it the body's primary mechanism for handling this massive daily acid load.",
+      "whyWrongByChoice": {
+        "A": "CO\u2082 is produced by the Krebs cycle in all metabolically active cells, not exclusively in the liver. The classification relates to the route of elimination, not production site.",
+        "B": "Volatile acids are primarily buffered by hemoglobin and the bicarbonate buffer system, not exclusively by plasma proteins. The term relates to eliminability via the lungs.",
+        "C": "Volatile acids are eliminated via the lungs as CO\u2082 gas, not by the kidneys. Non-volatile acids (sulfuric, phosphoric, lactic) are excreted by the kidneys.",
+        "D": "CO\u2082-derived volatile acids are directly measured on arterial blood gas as PaCO\u2082. The ABG is the primary tool for assessing volatile acid status."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "volatile-acids", "CO2", "acid-base"]
+  },
+  {
+    "id": "r06-029",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 60-year-old man with acute respiratory failure from severe pneumonia is intubated in the ICU. His PaCO\u2082 is 75 mmHg. The neurology consult notes that he has altered mental status with sluggish pupillary reflexes. His brain CT shows no structural lesion but diffuse cerebral edema. Which mechanism best explains the neurological effects of severe hypercapnia?",
+    "choices": [
+      {"label": "A", "text": "Cerebral vasoconstriction"},
+      {"label": "B", "text": "Improved neurotransmitter function"},
+      {"label": "C", "text": "Selective spinal cord depression"},
+      {"label": "D", "text": "Decreased CSF pH, no symptoms"},
+      {"label": "E", "text": "Cerebral vasodilation, raised ICP"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Elevated CO\u2082 causes cerebral vasodilation, which increases intracranial pressure (ICP). Additionally, CO\u2082 crosses the blood-brain barrier and lowers CSF pH, directly altering sodium and calcium channels and disrupting neurotransmitter activity, causing altered mental status.",
+      "whyCorrect": "High PaCO\u2082 causes cerebral arteriolar vasodilation, increasing cerebral blood flow and intracranial pressure. The resultant increase in ICP decreases cerebral perfusion pressure. Combined with decreased CSF pH affecting neural function, this produces the altered mental status seen in severe hypercapnia.",
+      "whyWrongByChoice": {
+        "A": "Hypercapnia causes cerebral vasodilation, not vasoconstriction. Vasoconstriction occurs with hypocapnia (low CO\u2082), which is why hyperventilation can temporarily reduce ICP.",
+        "B": "Elevated CO\u2082 disrupts neurotransmitter function through CSF acidosis, impairing rather than improving neural activity.",
+        "C": "Hypercapnia affects the brain globally through vasodilation and CSF acidosis. It does not selectively depress the spinal cord.",
+        "D": "Decreased CSF pH does cause significant neurological symptoms. Altered sodium and calcium channels from CSF acidosis contribute to altered mental status."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "hypercapnia", "cerebral-vasodilation", "intracranial-pressure"]
+  },
+  {
+    "id": "r06-030",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 68-year-old man with a COPD exacerbation presents with worsening dyspnea and wheezing. His ABG shows pH 7.28, PaCO\u2082 60 mmHg, and PaO\u2082 55 mmHg. Initial treatment with albuterol and ipratropium nebulizers does not improve his respiratory acidosis. His respiratory rate is 28 breaths/min with accessory muscle use. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Continuous positive airway pressure"},
+      {"label": "B", "text": "High-flow nasal cannula only"},
+      {"label": "C", "text": "Incentive spirometry"},
+      {"label": "D", "text": "Bilevel positive airway pressure"},
+      {"label": "E", "text": "Chest physiotherapy alone"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "BiPAP (bilevel positive airway pressure) provides both inspiratory and expiratory pressure support, increasing tidal volume and helping blow off CO\u2082. It is the recommended non-invasive ventilation for COPD exacerbations with persistent respiratory acidosis despite bronchodilators.",
+      "whyCorrect": "BiPAP provides inspiratory pressure support (IPAP) that augments tidal volume and reduces work of breathing, plus expiratory pressure (EPAP) that prevents airway collapse. This combination improves alveolar ventilation and CO\u2082 clearance in COPD exacerbations unresponsive to bronchodilators.",
+      "whyWrongByChoice": {
+        "A": "CPAP provides constant positive pressure but does not augment inspiratory effort or tidal volume. BiPAP is preferred in COPD exacerbations because it actively assists ventilation.",
+        "B": "High-flow nasal cannula improves oxygenation and provides mild positive pressure but is less effective than BiPAP at augmenting ventilation and CO\u2082 clearance in COPD exacerbations.",
+        "C": "Incentive spirometry is used for postoperative atelectasis prevention and is not appropriate for acute COPD exacerbation with respiratory acidosis.",
+        "E": "Chest physiotherapy helps mobilize secretions but does not address the acute ventilatory failure causing CO\u2082 retention in this patient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "BiPAP", "COPD-exacerbation", "respiratory-acidosis", "management"]
+  },
+  {
+    "id": "r06-031",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 38-year-old woman presents with progressive bilateral ptosis, diplopia, and difficulty swallowing over the past several months. On examination she has facial weakness and fatigable proximal limb weakness. Pulmonary function tests reveal a reduced forced vital capacity of 45% predicted. Her ABG shows pH 7.32, PaCO\u2082 52 mmHg, and HCO\u2083\u207b 27 mEq/L. Which neuromuscular disease is most likely causing her respiratory acidosis?",
+    "choices": [
+      {"label": "A", "text": "Parkinson disease"},
+      {"label": "B", "text": "Multiple sclerosis"},
+      {"label": "C", "text": "Myasthenia gravis"},
+      {"label": "D", "text": "Alzheimer disease"},
+      {"label": "E", "text": "Essential tremor"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Myasthenia gravis is an autoimmune neuromuscular junction disorder that causes fatigable weakness of voluntary muscles, including respiratory muscles. Weakness of the diaphragm and intercostal muscles reduces tidal volume, leading to hypoventilation and respiratory acidosis.",
+      "whyCorrect": "The clinical presentation of ptosis, diplopia, dysphagia, and fatigable weakness is classic for myasthenia gravis. Respiratory muscle involvement reduces tidal volume and can cause ventilatory failure with CO\u2082 retention (respiratory acidosis). Myasthenic crisis is a life-threatening complication.",
+      "whyWrongByChoice": {
+        "A": "Parkinson disease causes bradykinesia, rigidity, and tremor due to dopaminergic neuron loss. It does not typically cause significant respiratory muscle weakness or the described ocular/bulbar symptoms.",
+        "B": "Multiple sclerosis is a CNS demyelinating disease that can cause various neurologic symptoms but the combination of ptosis, diplopia, and fatigable weakness is classic for myasthenia gravis, not MS.",
+        "D": "Alzheimer disease is a neurodegenerative disorder causing progressive cognitive decline. It does not cause ptosis, diplopia, or fatigable respiratory muscle weakness.",
+        "E": "Essential tremor is a movement disorder causing action tremor. It does not cause respiratory muscle weakness, ptosis, or diplopia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "myasthenia-gravis", "respiratory-acidosis", "neuromuscular"]
+  },
+  {
+    "id": "r06-032",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A physiology professor explains that the Krebs cycle produces over 15,000 mmol of CO\u2082 daily, which forms carbonic acid when dissolved in blood. She asks her class what the body's primary defense against acidification from this enormous CO\u2082 load is. Which of the following is the correct answer?",
+    "choices": [
+      {"label": "A", "text": "Renal CO\u2082 excretion"},
+      {"label": "B", "text": "Hepatic CO\u2082 metabolism"},
+      {"label": "C", "text": "Protein buffering alone"},
+      {"label": "D", "text": "Pulmonary ventilation"},
+      {"label": "E", "text": "Sweat gland acid excretion"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The lungs are the primary defense against CO\u2082-derived acidification. Through ventilation, CO\u2082 is exhaled as a gas, preventing carbonic acid accumulation. The lungs handle the enormous daily CO\u2082 load (>15,000 mmol) that would otherwise cause severe acidosis.",
+      "whyCorrect": "Pulmonary ventilation eliminates CO\u2082 by exhaling it as a gas. Since CO\u2082 is a volatile acid, the lungs can rapidly adjust ventilation to match metabolic CO\u2082 production, maintaining PaCO\u2082 near 40 mmHg. This is the body's most important defense against volatile acid accumulation.",
+      "whyWrongByChoice": {
+        "A": "The kidneys do not significantly excrete CO\u2082. They handle non-volatile acid excretion and bicarbonate regulation. CO\u2082 elimination is a pulmonary function.",
+        "B": "The liver does not metabolize CO\u2082 as a waste removal pathway. While the liver produces and uses CO\u2082 in various metabolic reactions, it is not a defense against CO\u2082 accumulation.",
+        "C": "Protein buffering (hemoglobin, albumin) temporarily buffers H\u207a but cannot eliminate the CO\u2082 source. Without ventilation, buffering capacity would be quickly overwhelmed.",
+        "E": "Sweat glands do not play a significant role in acid excretion. Acid-base homeostasis depends on the lungs (volatile acids) and kidneys (non-volatile acids)."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "CO2-elimination", "pulmonary-ventilation", "volatile-acid"]
+  },
+  {
+    "id": "r06-033",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 55-year-old man with severe COPD is admitted with acute-on-chronic respiratory failure. His ABG shows pH 7.28, PaCO\u2082 58 mmHg, and HCO\u2083\u207b 27 mEq/L, consistent with acute respiratory acidosis. If this same patient had chronic respiratory acidosis at the same PaCO\u2082, which finding would you expect on his ABG?",
+    "choices": [
+      {"label": "A", "text": "pH near-normal, HCO\u2083\u207b elevated"},
+      {"label": "B", "text": "pH more acidic, HCO\u2083\u207b decreased"},
+      {"label": "C", "text": "pH identical, HCO\u2083\u207b unchanged"},
+      {"label": "D", "text": "pH alkalotic, HCO\u2083\u207b decreased"},
+      {"label": "E", "text": "Both pH and HCO\u2083\u207b fully normal"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In chronic respiratory acidosis, the kidneys have had time to compensate by excreting H\u207a and regenerating bicarbonate, raising HCO\u2083\u207b significantly. This partially normalizes the pH (closer to 7.35-7.40) but does not fully correct it. Compensation never fully normalizes pH.",
+      "whyCorrect": "With chronic respiratory acidosis at PaCO\u2082 58 mmHg, renal compensation would raise HCO\u2083\u207b to approximately 32-34 mEq/L, and pH would be closer to normal (approximately 7.34-7.38) compared to the acute setting where pH is 7.28 with HCO\u2083\u207b of only 27.",
+      "whyWrongByChoice": {
+        "B": "A more acidic pH with decreased HCO\u2083\u207b would indicate worsening, not compensation. Renal compensation raises HCO\u2083\u207b and improves pH toward normal.",
+        "C": "Chronic and acute respiratory acidosis at the same PaCO\u2082 do not have identical pH and HCO\u2083\u207b. Chronic disease shows renal compensation with higher HCO\u2083\u207b and improved pH.",
+        "D": "Compensation for respiratory acidosis does not overcorrect to alkalosis. The pH approaches but does not exceed 7.40. An alkalotic pH would suggest a concurrent metabolic alkalosis.",
+        "E": "Physiologic compensation is incomplete; it brings pH toward normal but never fully normalizes it to 7.40. Full normalization would suggest a mixed disorder."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "acute-vs-chronic", "respiratory-acidosis", "compensation"]
+  },
+  {
+    "id": "r06-034",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 48-year-old man develops progressive ascending weakness over 5 days following a Campylobacter jejuni gastroenteritis. He now has areflexia in all extremities and weakness of his facial muscles. His respiratory rate has decreased to 12 breaths/min with shallow breathing. He is admitted to the ICU for monitoring. Which ABG pattern would you expect if his respiratory muscles continue to weaken?",
+    "choices": [
+      {"label": "A", "text": "pH 7.50, PaCO\u2082 28, HCO\u2083\u207b 24"},
+      {"label": "B", "text": "pH 7.30, PaCO\u2082 35, HCO\u2083\u207b 16"},
+      {"label": "C", "text": "pH 7.55, PaCO\u2082 40, HCO\u2083\u207b 35"},
+      {"label": "D", "text": "pH 7.25, PaCO\u2082 60, HCO\u2083\u207b 25"},
+      {"label": "E", "text": "pH 7.40, PaCO\u2082 40, HCO\u2083\u207b 24"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Guillain-Barr\u00e9 syndrome causes ascending paralysis that can involve the respiratory muscles (diaphragm, intercostals), reducing tidal volume and causing acute respiratory acidosis with elevated PaCO\u2082, low pH, and near-normal HCO\u2083\u207b (no time for renal compensation).",
+      "whyCorrect": "Progressive respiratory muscle weakness from GBS reduces tidal volume, causing CO\u2082 retention. The ABG pattern of pH 7.25, PaCO\u2082 60, and HCO\u2083\u207b 25 is consistent with acute respiratory acidosis: elevated PaCO\u2082 with near-normal bicarbonate because the kidneys have not had time to compensate.",
+      "whyWrongByChoice": {
+        "A": "pH 7.50 with PaCO\u2082 28 represents respiratory alkalosis from hyperventilation. GBS with respiratory muscle weakness causes hypoventilation, not hyperventilation.",
+        "B": "pH 7.30 with PaCO\u2082 35 and HCO\u2083\u207b 16 represents metabolic acidosis with respiratory compensation. The primary problem in GBS is ventilatory failure, not metabolic acid production.",
+        "C": "pH 7.55 with PaCO\u2082 40 and HCO\u2083\u207b 35 represents metabolic alkalosis. This does not reflect the hypoventilation expected from respiratory muscle paralysis.",
+        "E": "Normal ABG values would indicate adequate ventilation. With progressive respiratory muscle weakness, the ABG would show CO\u2082 retention and acidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "Guillain-Barre", "respiratory-acidosis", "neuromuscular-weakness"]
+  },
+  {
+    "id": "r06-035",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A first-year medical student is reviewing acid-base physiology. Her textbook states that the body maintains blood pH within a narrow range essential for normal cellular function, and that deviations outside this range alter protein structure and enzymatic activity. What is the normal blood pH range?",
+    "choices": [
+      {"label": "A", "text": "6.80 to 7.00"},
+      {"label": "B", "text": "7.00 to 7.20"},
+      {"label": "C", "text": "7.50 to 7.60"},
+      {"label": "D", "text": "7.80 to 8.00"},
+      {"label": "E", "text": "7.35 to 7.45"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Normal blood pH is maintained between 7.35 and 7.45. Values below 7.35 indicate acidemia, and values above 7.45 indicate alkalemia. Deviations outside this narrow range impair protein function and enzymatic activity.",
+      "whyCorrect": "The body tightly regulates blood pH between 7.35 and 7.45 through the lungs (CO\u2082 elimination) and kidneys (H\u207a excretion and HCO\u2083\u207b regeneration). This narrow range is essential for maintaining proper protein tertiary structure and enzyme function.",
+      "whyWrongByChoice": {
+        "A": "A pH of 6.80-7.00 represents severe acidemia that is incompatible with normal cellular function and is life-threatening.",
+        "B": "A pH of 7.00-7.20 represents significant acidemia. While survivable in some acute situations, this is well below the normal range.",
+        "C": "A pH of 7.50-7.60 represents alkalemia, which is above the normal range and causes its own set of clinical problems including tetany and arrhythmias.",
+        "D": "A pH of 7.80-8.00 represents extreme alkalemia that is incompatible with life and would cause severe seizures and cardiac arrest."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "normal-pH", "acid-base", "reference-values"]
+  },
+  {
+    "id": "r06-036",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 52-year-old man with a BMI of 48 kg/m\u00b2 is evaluated for daytime somnolence and morning headaches. His ABG shows pH 7.34, PaCO\u2082 54 mmHg, and HCO\u2083\u207b 29 mEq/L. A sleep study confirms obesity hypoventilation syndrome. Which mechanism best explains why this condition causes chronic respiratory acidosis?",
+    "choices": [
+      {"label": "A", "text": "Obesity increases surfactant output"},
+      {"label": "B", "text": "Adipose tissue restricts diaphragm"},
+      {"label": "C", "text": "Obesity causes pulmonary fibrosis"},
+      {"label": "D", "text": "Fat tissue directly absorbs CO\u2082"},
+      {"label": "E", "text": "Obesity increases alveolar area"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In obesity hypoventilation syndrome, excess adipose tissue around the thorax and abdomen mechanically restricts diaphragmatic excursion and chest wall expansion, reducing tidal volume and causing chronic hypoventilation with CO\u2082 retention.",
+      "whyCorrect": "The mass loading effect of adipose tissue on the chest wall and abdomen impedes diaphragmatic descent during inspiration, reducing tidal volume and functional residual capacity. This mechanical restriction causes chronic hypoventilation, CO\u2082 retention, and respiratory acidosis.",
+      "whyWrongByChoice": {
+        "A": "Obesity does not increase surfactant production. Surfactant is produced by type II alveolar cells and is not directly affected by body fat distribution.",
+        "C": "Obesity does not cause pulmonary fibrosis. The mechanism in OHS is mechanical restriction from adipose tissue, not parenchymal lung disease.",
+        "D": "Adipose tissue does not absorb CO\u2082. CO\u2082 is eliminated exclusively through the lungs via ventilation.",
+        "E": "Obesity does not increase alveolar surface area. In fact, reduced lung volumes from chest wall restriction may decrease effective alveolar ventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "obesity-hypoventilation", "respiratory-acidosis", "mechanical-restriction"]
+  },
+  {
+    "id": "r06-037",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 72-year-old woman with severe pneumonia is on BiPAP in the ICU. Over the next 6 hours, her PaO\u2082 drops to 50 mmHg and PaCO\u2082 rises to 70 mmHg despite maximum BiPAP settings. She is increasingly fatigued with accessory muscle use and paradoxical abdominal breathing. Which intervention is most appropriate at this point?",
+    "choices": [
+      {"label": "A", "text": "Increase supplemental oxygen only"},
+      {"label": "B", "text": "Inhaled corticosteroids"},
+      {"label": "C", "text": "Endotracheal intubation"},
+      {"label": "D", "text": "Oral broad-spectrum antibiotics"},
+      {"label": "E", "text": "Chest physiotherapy alone"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Patients with markedly decreased PaO\u2082, rising PaCO\u2082, and progressive fatigue despite BiPAP are failing non-invasive ventilation and require endotracheal intubation and mechanical ventilation. These findings are preludes to respiratory arrest.",
+      "whyCorrect": "The combination of worsening hypoxemia, progressive hypercapnia, and respiratory muscle fatigue despite maximum non-invasive ventilation indicates imminent respiratory failure. Endotracheal intubation provides definitive airway control and mechanical ventilation to ensure adequate oxygenation and CO\u2082 elimination.",
+      "whyWrongByChoice": {
+        "A": "Supplemental oxygen alone does not address the ventilatory failure and rising PaCO\u2082. The patient needs ventilatory support, not just oxygenation.",
+        "B": "Inhaled corticosteroids are maintenance therapy for chronic airway inflammation. They do not address acute ventilatory failure requiring mechanical support.",
+        "D": "While antibiotics are needed for pneumonia treatment, they do not address the immediate life-threatening ventilatory failure. Intubation is the priority.",
+        "E": "Chest physiotherapy may help mobilize secretions but cannot substitute for mechanical ventilation in a patient with progressive respiratory failure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "intubation", "mechanical-ventilation", "respiratory-failure"]
+  },
+  {
+    "id": "r06-038",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A third-year medical student is interpreting arterial blood gases during her pulmonary rotation. Her attending asks which ABG pattern is diagnostic of respiratory acidosis. The student recalls that respiratory acidosis is characterized by elevated PaCO\u2082 as the primary disturbance. Which of the following ABG patterns is consistent with respiratory acidosis?",
+    "choices": [
+      {"label": "A", "text": "pH \u2193, PaCO\u2082 \u2191, HCO\u2083\u207b \u2191"},
+      {"label": "B", "text": "pH \u2191, PaCO\u2082 \u2193, HCO\u2083\u207b \u2193"},
+      {"label": "C", "text": "pH \u2193, PaCO\u2082 \u2193, HCO\u2083\u207b \u2193"},
+      {"label": "D", "text": "pH \u2191, PaCO\u2082 \u2191, HCO\u2083\u207b \u2193"},
+      {"label": "E", "text": "pH \u2191, PaCO\u2082 \u2191, HCO\u2083\u207b \u2191"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Respiratory acidosis shows decreased pH (acidemia), increased PaCO\u2082 (the primary disturbance from hypoventilation), and increased HCO\u2083\u207b (from renal compensation, especially in chronic disease). In acute cases, HCO\u2083\u207b may be only slightly elevated.",
+      "whyCorrect": "The hallmark of respiratory acidosis is elevated PaCO\u2082 causing decreased pH. The kidneys compensate by retaining bicarbonate, raising HCO\u2083\u207b. This pattern (\u2193pH, \u2191PaCO\u2082, \u2191HCO\u2083\u207b) is the classic ABG finding in respiratory acidosis with compensation.",
+      "whyWrongByChoice": {
+        "B": "Increased pH with decreased PaCO\u2082 and HCO\u2083\u207b represents respiratory alkalosis with metabolic compensation, the opposite of respiratory acidosis.",
+        "C": "Decreased pH with decreased PaCO\u2082 and HCO\u2083\u207b represents metabolic acidosis with respiratory compensation. The primary disturbance is low HCO\u2083\u207b, not elevated PaCO\u2082.",
+        "D": "Increased pH with increased PaCO\u2082 and decreased HCO\u2083\u207b is an internally inconsistent pattern that does not represent any standard acid-base disorder.",
+        "E": "Increased pH with increased PaCO\u2082 and HCO\u2083\u207b represents metabolic alkalosis with respiratory compensation. The pH is high, not low."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ABG-pattern", "respiratory-acidosis", "acid-base"]
+  },
+  {
+    "id": "r06-039",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 45-year-old man undergoes polysomnography after his wife reports witnessed apneas and loud snoring at night. The sleep study reveals recurrent episodes of airflow cessation without chest wall or abdominal effort. His morning ABG shows pH 7.33, PaCO\u2082 50 mmHg, and HCO\u2083\u207b 27 mEq/L. Through which mechanism does central sleep apnea cause respiratory acidosis?",
+    "choices": [
+      {"label": "A", "text": "Pharyngeal tissue obstruction"},
+      {"label": "B", "text": "Alveolar surface area destruction"},
+      {"label": "C", "text": "Brainstem fails to signal breathing"},
+      {"label": "D", "text": "Surfactant deficiency with atelectasis"},
+      {"label": "E", "text": "Bronchospasm from inflammation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Central sleep apnea results from failure of the brainstem respiratory center to generate appropriate signals to the respiratory muscles. Unlike obstructive sleep apnea, there is no airway obstruction; the problem is absent central drive causing periods of apnea with CO\u2082 retention.",
+      "whyCorrect": "The polysomnography finding of apneas without respiratory effort confirms central sleep apnea. The brainstem respiratory center fails to signal the diaphragm and intercostal muscles to breathe, causing intermittent apneas that lead to CO\u2082 accumulation and respiratory acidosis.",
+      "whyWrongByChoice": {
+        "A": "Pharyngeal tissue obstruction characterizes obstructive sleep apnea (OSA), where respiratory effort continues against a blocked airway. In central sleep apnea, there is no effort, indicating absent central drive.",
+        "B": "Alveolar destruction is seen in emphysema. Central sleep apnea is a neurological disorder of respiratory drive, not a parenchymal lung disease.",
+        "D": "Surfactant deficiency causes atelectasis in conditions like neonatal respiratory distress syndrome. It is not the mechanism of central sleep apnea.",
+        "E": "Bronchospasm from airway inflammation is characteristic of asthma. Central sleep apnea involves loss of central respiratory drive, not airway obstruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "central-sleep-apnea", "respiratory-drive", "respiratory-acidosis"]
+  },
+  {
+    "id": "r06-040",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A nephrology fellow is teaching a medical student about acid-base physiology. She explains that the relationship between pH and hydrogen ion concentration is logarithmic. She asks the student what a 0.3 unit change in pH corresponds to in terms of hydrogen ion concentration change.",
+    "choices": [
+      {"label": "A", "text": "A 10% change"},
+      {"label": "B", "text": "A 25% change"},
+      {"label": "C", "text": "A doubling or halving"},
+      {"label": "D", "text": "A 100-fold change"},
+      {"label": "E", "text": "No significant change"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Because pH is the negative logarithm (base 10) of H\u207a concentration, a 0.3 unit change in pH corresponds to a doubling or halving of the hydrogen ion concentration. For example, a pH drop from 7.40 to 7.10 doubles the [H\u207a] from 40 to 80 nmol/L.",
+      "whyCorrect": "Since log\u2081\u2080(2) \u2248 0.3, a 0.3 unit decrease in pH means [H\u207a] has doubled, and a 0.3 unit increase means [H\u207a] has halved. This logarithmic relationship is fundamental to understanding how small pH changes represent significant shifts in acid-base status.",
+      "whyWrongByChoice": {
+        "A": "A 10% change would correspond to a much smaller pH change (approximately 0.04 units). A 0.3 unit change represents a much larger shift in [H\u207a].",
+        "B": "A 25% change would correspond to approximately 0.1 pH units. A 0.3 unit change represents a 100% (doubling/halving) change in [H\u207a].",
+        "D": "A 100-fold change would correspond to a 2.0 unit change in pH (since log\u2081\u2080(100) = 2). A 0.3 unit change is a 2-fold, not 100-fold, change.",
+        "E": "A 0.3 unit pH change represents a doubling or halving of H\u207a concentration, which is clinically very significant."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "pH", "hydrogen-ion", "logarithmic"]
+  },
+  {
+    "id": "r06-041",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 40-year-old man presents to the emergency department with confusion, headache, and shallow breathing at 10 breaths/min. He has a history of chronic back pain and admits to taking extra oxycodone tablets. The physician suspects respiratory acidosis from opioid-related hypoventilation. Which diagnostic test is most helpful for initially confirming this diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Chest radiograph"},
+      {"label": "B", "text": "Pulmonary function testing"},
+      {"label": "C", "text": "Pulse oximetry alone"},
+      {"label": "D", "text": "Complete blood count"},
+      {"label": "E", "text": "Arterial blood gas"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "An arterial blood gas (ABG) directly measures pH, PaCO\u2082, and PaO\u2082, providing definitive confirmation of respiratory acidosis. It reveals the characteristic pattern of low pH and elevated PaCO\u2082 and allows assessment of compensation.",
+      "whyCorrect": "The ABG is the gold standard for diagnosing respiratory acidosis because it directly measures pH (to confirm acidemia) and PaCO\u2082 (to confirm the respiratory origin). HCO\u2083\u207b is calculated and helps distinguish acute from chronic disease. No other test provides this complete acid-base assessment.",
+      "whyWrongByChoice": {
+        "A": "A chest radiograph may help identify the underlying cause (pneumonia, pulmonary edema) but does not directly measure pH or PaCO\u2082 to confirm respiratory acidosis.",
+        "B": "Pulmonary function testing evaluates airflow and lung volumes but is performed when the patient is stable. It does not measure blood pH or PaCO\u2082 in the acute setting.",
+        "C": "Pulse oximetry measures oxygen saturation but does not assess PaCO\u2082 or pH. A patient can have significant CO\u2082 retention with a normal SpO\u2082, especially on supplemental oxygen.",
+        "D": "A complete blood count may reveal anemia or infection but provides no information about acid-base status or CO\u2082 levels."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ABG", "diagnosis", "respiratory-acidosis"]
+  },
+  {
+    "id": "r06-042",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 74-year-old man with severe COPD for 20 years has a baseline PaCO\u2082 of 55 mmHg but reports feeling well and performs activities of daily living without difficulty. In contrast, a previously healthy 30-year-old man who acutely develops a PaCO\u2082 of 55 mmHg after a heroin overdose is obtunded with a GCS of 8. Which mechanism best explains why the chronic COPD patient is less symptomatic?",
+    "choices": [
+      {"label": "A", "text": "Adapted to use less oxygen"},
+      {"label": "B", "text": "Renal compensation normalized pH"},
+      {"label": "C", "text": "Respiratory centers more sensitive"},
+      {"label": "D", "text": "Hypercapnia eliminates all symptoms"},
+      {"label": "E", "text": "New alveoli developed over time"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In chronic respiratory acidosis, the kidneys compensate over days to weeks by excreting H\u207a and regenerating bicarbonate, which partially normalizes the blood pH. This reduced CSF acidosis means less cerebral dysfunction, making chronic patients less symptomatic than acute patients at the same PaCO\u2082.",
+      "whyCorrect": "The COPD patient's kidneys have had years to increase serum bicarbonate, partially normalizing the HCO\u2083\u207b/CO\u2082 ratio and pH. The improved pH reduces CSF acidosis and cerebral dysfunction. The acute heroin overdose patient has no renal compensation, so pH drops severely, causing obtundation.",
+      "whyWrongByChoice": {
+        "A": "The body does not adapt to use less oxygen. Chronic respiratory acidosis is compensated through renal bicarbonate regeneration, not reduced oxygen requirements.",
+        "C": "In chronic hypercapnia, the respiratory centers actually become less sensitive to CO\u2082 (blunted CO\u2082 response), relying more on hypoxic drive. This does not explain reduced symptoms.",
+        "D": "Chronic hypercapnia does not eliminate symptoms entirely. Patients still have limitations, but renal compensation reduces the severity of neurologic symptoms compared to acute hypercapnia.",
+        "E": "The lungs do not generate new alveoli in chronic COPD. In fact, COPD destroys alveoli. The clinical improvement is from renal metabolic compensation, not lung regeneration."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "chronic-respiratory-acidosis", "renal-compensation", "symptoms"]
+  },
+  {
+    "id": "r06-043",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A biochemistry student is studying the bicarbonate buffer system: CO\u2082 + H\u2082O \u21cc H\u2082CO\u2083 \u21cc H\u207a + HCO\u2083\u207b. In a patient with respiratory acidosis from acute respiratory failure, PaCO\u2082 rises to 65 mmHg. In which direction does the equilibrium shift, and what is the effect on H\u207a concentration?",
+    "choices": [
+      {"label": "A", "text": "Leftward shift, decreasing H\u207a"},
+      {"label": "B", "text": "Rightward shift, increasing H\u207a"},
+      {"label": "C", "text": "No shift, equilibrium unchanged"},
+      {"label": "D", "text": "Leftward shift, increasing H\u207a"},
+      {"label": "E", "text": "Rightward shift, decreasing H\u207a"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "When PaCO\u2082 rises, the increased CO\u2082 drives the bicarbonate buffer equation to the right (Le Chatelier's principle), producing more H\u2082CO\u2083, which dissociates into H\u207a and HCO\u2083\u207b. The resulting increase in H\u207a concentration lowers pH, causing acidosis.",
+      "whyCorrect": "Elevated CO\u2082 shifts the equilibrium rightward: CO\u2082 + H\u2082O \u2192 H\u2082CO\u2083 \u2192 H\u207a + HCO\u2083\u207b. This generates more H\u207a ions, lowering blood pH. This is the fundamental mechanism of respiratory acidosis. The carbonic anhydrase enzyme accelerates this reaction in red blood cells.",
+      "whyWrongByChoice": {
+        "A": "A leftward shift with decreased H\u207a would occur with decreased CO\u2082 (hyperventilation/respiratory alkalosis), which is the opposite of what happens when PaCO\u2082 rises.",
+        "C": "The equilibrium does shift when substrate concentration changes. Increased CO\u2082 drives the reaction forward according to Le Chatelier's principle.",
+        "D": "A leftward shift would consume, not produce, H\u207a. This combination is internally inconsistent with the buffer equation.",
+        "E": "A rightward shift produces more H\u207a, not less. Increased H\u207a is the defining feature of the acidosis caused by CO\u2082 retention."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "bicarbonate-buffer", "equilibrium", "respiratory-acidosis"]
+  },
+  {
+    "id": "r06-044",
+    "topicId": "respiratory-acidosis",
+    "topicName": "Respiratory Acidosis",
+    "stem": "A 71-year-old woman with known severe COPD (baseline PaCO\u2082 50 mmHg, HCO\u2083\u207b 32 mEq/L) presents with worsening cough and purulent sputum over 3 days. Her ABG now shows pH 7.28, PaCO\u2082 62 mmHg, HCO\u2083\u207b 33 mEq/L, and PaO\u2082 52 mmHg. Which acid-base interpretation best describes her current status?",
+    "choices": [
+      {"label": "A", "text": "Acute respiratory acidosis only"},
+      {"label": "B", "text": "Primary respiratory alkalosis"},
+      {"label": "C", "text": "Primary metabolic alkalosis"},
+      {"label": "D", "text": "Normal acid-base status"},
+      {"label": "E", "text": "Acute-on-chronic acidosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This patient has chronic respiratory acidosis (baseline elevated PaCO\u2082 with compensatory elevated HCO\u2083\u207b) that has acutely worsened due to her COPD exacerbation. The markedly low pH despite elevated HCO\u2083\u207b indicates the acute component has overwhelmed the chronic compensation.",
+      "whyCorrect": "Her baseline ABG already showed chronic CO\u2082 retention (PaCO\u2082 50) with renal compensation (HCO\u2083\u207b 32). The acute worsening (PaCO\u2082 now 62) has outpaced the chronic compensation, dropping her pH to 7.28. The HCO\u2083\u207b of 33 reflects her chronic compensation but is insufficient for the new PaCO\u2082 level. This pattern defines acute-on-chronic respiratory acidosis.",
+      "whyWrongByChoice": {
+        "A": "Pure acute respiratory acidosis would show near-normal HCO\u2083\u207b (~24-26) because there has been no time for renal compensation. Her HCO\u2083\u207b of 33 indicates pre-existing chronic compensation.",
+        "B": "Respiratory alkalosis would show elevated pH and decreased PaCO\u2082 from hyperventilation. This patient has acidemia with hypercapnia.",
+        "C": "Metabolic alkalosis would show elevated pH and elevated HCO\u2083\u207b as the primary disturbance. This patient is acidemic with elevated PaCO\u2082 as the primary abnormality.",
+        "D": "A pH of 7.28 with PaCO\u2082 of 62 is clearly abnormal. Normal acid-base status would show pH 7.35-7.45 with PaCO\u2082 near 40 mmHg."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "acute-on-chronic", "COPD-exacerbation", "respiratory-acidosis", "ABG"]
+  }
+]

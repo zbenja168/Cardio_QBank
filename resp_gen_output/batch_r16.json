@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r16-001",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 3-month-old unvaccinated infant is brought to the emergency department with episodes of repetitive forceful coughing followed by a high-pitched inspiratory sound and post-tussive emesis. The episodes have worsened over the past week. Temperature is 37.8°C. CBC shows WBC 25,000/μL with 70% lymphocytes. Which toxin is most directly responsible for the lymphocytosis?",
+    "choices": [
+      {"label": "A", "text": "Adenylate cyclase toxin"},
+      {"label": "B", "text": "Tracheal cytotoxin"},
+      {"label": "C", "text": "Pertussis toxin"},
+      {"label": "D", "text": "Diphtheria toxin"},
+      {"label": "E", "text": "Bacterial lipopolysaccharide"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Pertussis toxin ADP-ribosylates the Gi protein, impairing chemokine receptor signaling on lymphocytes and preventing their migration into lymph nodes, resulting in a characteristic absolute lymphocytosis in peripheral blood.",
+      "whyCorrect": "Pertussis toxin specifically inactivates Gi proteins via ADP-ribosylation. In lymphocytes, this disrupts chemokine-mediated signaling required for lymphocyte homing to lymphoid tissue. The lymphocytes cannot exit the bloodstream, producing marked peripheral lymphocytosis.",
+      "whyWrongByChoice": {
+        "A": "Adenylate cyclase toxin enters phagocytes and increases intracellular cAMP, impairing phagocytic killing. It does not cause lymphocytosis.",
+        "B": "Tracheal cytotoxin damages ciliated respiratory epithelial cells and is responsible for the paroxysmal cough, not lymphocytosis.",
+        "D": "Diphtheria toxin ADP-ribosylates EF-2, inhibiting protein synthesis. It is produced by C. diphtheriae and does not cause lymphocytosis.",
+        "E": "Lipopolysaccharide activates innate immune responses and can cause fever but does not produce the marked lymphocytosis seen in pertussis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "pertussis-toxin", "lymphocytosis", "ADP-ribosylation", "Gi-protein"]
+  },
+  {
+    "id": "r16-002",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 6-year-old unvaccinated boy presents with a 3-day history of sore throat, low-grade fever, and malaise. Examination reveals a thick gray-white membrane overlying the tonsils and posterior pharynx that bleeds when removal is attempted. Cervical lymphadenopathy with surrounding soft tissue edema gives a \"bull neck\" appearance. Which of the following describes the mechanism of the responsible toxin?",
+    "choices": [
+      {"label": "A", "text": "ADP-ribosylation of Gi protein"},
+      {"label": "B", "text": "ADP-ribosylation of elongation factor 2"},
+      {"label": "C", "text": "Adenylate cyclase activation in leukocytes"},
+      {"label": "D", "text": "Cleavage of SNARE proteins"},
+      {"label": "E", "text": "Superantigen-mediated T-cell activation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient has diphtheria. Diphtheria toxin ADP-ribosylates elongation factor 2 (EF-2), halting protein synthesis and causing cell death, which leads to pseudomembrane formation.",
+      "whyCorrect": "Diphtheria toxin specifically ADP-ribosylates EF-2, essential for mRNA translation. Inactivation halts protein synthesis, causing cellular necrosis. The resulting dead cells, fibrin, bacteria, and leukocytes form the pseudomembrane.",
+      "whyWrongByChoice": {
+        "A": "ADP-ribosylation of Gi protein is the mechanism of pertussis toxin, leading to lymphocytosis, not pseudomembrane formation.",
+        "C": "Activation of adenylate cyclase in leukocytes is the mechanism of adenylate cyclase toxin from Bordetella pertussis.",
+        "D": "Cleavage of SNARE proteins is the mechanism of botulinum and tetanus toxins, not diphtheria toxin.",
+        "E": "Superantigen-mediated T-cell activation is seen with TSST-1 from S. aureus and erythrogenic toxin from S. pyogenes."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["diphtheria", "diphtheria-toxin", "EF-2", "ADP-ribosylation", "pseudomembrane"]
+  },
+  {
+    "id": "r16-003",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 4-week-old infant presents with apneic episodes. The mother reports rhinorrhea and mild cough for the past 10 days that has progressively worsened. The infant's 8-year-old sibling had a persistent cough 3 weeks ago that resolved spontaneously. Nasopharyngeal PCR is positive for Bordetella pertussis. During which stage was the sibling most likely contagious?",
+    "choices": [
+      {"label": "A", "text": "Incubation period"},
+      {"label": "B", "text": "Paroxysmal stage"},
+      {"label": "C", "text": "Catarrhal stage"},
+      {"label": "D", "text": "Convalescent stage"},
+      {"label": "E", "text": "Post-infectious period"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Patients with pertussis are most contagious during the catarrhal stage, when symptoms resemble a mild URI and the diagnosis is not yet suspected, driving community spread.",
+      "whyCorrect": "The catarrhal stage is the most infectious period. During this 1-2 week phase, patients have nonspecific cold-like symptoms and shed large amounts of bacteria before diagnosis is made.",
+      "whyWrongByChoice": {
+        "A": "During the incubation period (5-10 days), the patient is colonized but not yet shedding enough bacteria for efficient transmission.",
+        "B": "Patients are still infectious during the early paroxysmal stage, but peak contagiousness occurs during the catarrhal stage.",
+        "D": "During the convalescent stage, the organism has typically been cleared and the patient is no longer significantly contagious.",
+        "E": "After infection has resolved, the patient is no longer shedding bacteria."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "catarrhal-stage", "transmission", "infant", "apnea"]
+  },
+  {
+    "id": "r16-004",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A microbiologist cultures a gram-positive, club-shaped organism from a throat swab of a patient with suspected diphtheria. On one specialized medium, the organism forms black colonies due to intracellular metallic deposits. On another medium, metachromatic granules are enhanced. Which medium produces the black colonies?",
+    "choices": [
+      {"label": "A", "text": "Bordet-Gengou agar"},
+      {"label": "B", "text": "Chocolate agar"},
+      {"label": "C", "text": "Loeffler's medium"},
+      {"label": "D", "text": "MacConkey agar"},
+      {"label": "E", "text": "Potassium tellurite agar"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "C. diphtheriae forms black colonies on potassium tellurite agar due to reduction of tellurite to metallic tellurium. This selective medium differentiates C. diphtheriae from normal pharyngeal flora.",
+      "whyCorrect": "On potassium tellurite agar, C. diphtheriae reduces tellurite to metallic tellurium, which deposits intracellularly giving colonies their distinctive black appearance.",
+      "whyWrongByChoice": {
+        "A": "Bordet-Gengou agar is a specialized medium for culturing Bordetella pertussis, not C. diphtheriae.",
+        "B": "Chocolate agar is an enriched medium for fastidious organisms such as Haemophilus influenzae and Neisseria species.",
+        "C": "Loeffler's medium cultures C. diphtheriae and enhances metachromatic granules but does not produce black colonies.",
+        "D": "MacConkey agar is selective for gram-negative enteric organisms. C. diphtheriae is gram-positive and would not grow on this medium."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["diphtheria", "potassium-tellurite-agar", "culture-media", "microbiology"]
+  },
+  {
+    "id": "r16-005",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 7-year-old unvaccinated girl diagnosed with respiratory diphtheria develops new-onset heart failure with ST-T wave changes and first-degree heart block on ECG two weeks after initial presentation. Troponin is elevated. Echocardiogram shows diffuse left ventricular hypokinesis. Which of the following is the most likely cause of her cardiac findings?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune cross-reactivity with myosin"},
+      {"label": "B", "text": "Systemic diphtheria exotoxin absorption"},
+      {"label": "C", "text": "Immune complex coronary deposition"},
+      {"label": "D", "text": "Direct bacterial myocardial invasion"},
+      {"label": "E", "text": "Toxin-mediated superantigen activation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Myocarditis is a major complication of diphtheria caused by systemic absorption of the exotoxin, which ADP-ribosylates EF-2 in cardiomyocytes, causing cell death.",
+      "whyCorrect": "Diphtheria toxin is absorbed systemically and targets tissues with high metabolic activity including the heart. It ADP-ribosylates EF-2, inhibiting protein synthesis and causing myocyte necrosis, leading to myocarditis with ECG changes and heart failure.",
+      "whyWrongByChoice": {
+        "A": "Autoimmune cross-reactivity with cardiac myosin is the mechanism of rheumatic heart disease from Streptococcus pyogenes, not diphtheria.",
+        "D": "C. diphtheriae causes disease primarily through toxin production with minimal tissue invasion. The organism remains localized to the pharynx.",
+        "C": "Immune complex deposition is characteristic of type III hypersensitivity reactions, not diphtheria myocarditis.",
+        "E": "Superantigen activation is associated with S. aureus (TSST-1) and S. pyogenes, not C. diphtheriae."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diphtheria", "myocarditis", "diphtheria-toxin", "cardiac-complications"]
+  },
+  {
+    "id": "r16-006",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "An 8-month-old infant is hospitalized with severe paroxysmal coughing and post-tussive vomiting. Nasopharyngeal culture on Bordet-Gengou agar grows small, round, mercury-drop colonies. Gram stain reveals small gram-negative coccobacilli that are catalase-positive. Which of the following best describes this organism's oxygen requirement?",
+    "choices": [
+      {"label": "A", "text": "Obligate aerobe"},
+      {"label": "B", "text": "Facultative anaerobe"},
+      {"label": "C", "text": "Microaerophilic organism"},
+      {"label": "D", "text": "Obligate anaerobe"},
+      {"label": "E", "text": "Aerotolerant anaerobe"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Bordetella pertussis is an obligate aerobic, gram-negative coccobacillus that grows on Bordet-Gengou or Regan-Lowe agar.",
+      "whyCorrect": "B. pertussis is an obligate aerobe requiring oxygen for growth. This is a commonly tested characteristic alongside its gram-negative staining, coccobacillary morphology, and catalase positivity.",
+      "whyWrongByChoice": {
+        "B": "Facultative anaerobes grow with or without oxygen. B. pertussis strictly requires oxygen.",
+        "C": "Microaerophilic organisms require reduced oxygen. This describes Campylobacter and Helicobacter, not Bordetella.",
+        "D": "Obligate anaerobes are killed by oxygen. B. pertussis requires oxygen for growth.",
+        "E": "Aerotolerant anaerobes do not use oxygen but tolerate it. B. pertussis actively requires oxygen."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pertussis", "microbiology", "obligate-aerobe", "Bordet-Gengou"]
+  },
+  {
+    "id": "r16-007",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A laboratory is testing whether a clinical isolate of Corynebacterium diphtheriae produces toxin. Filter paper impregnated with antitoxin is placed on agar inoculated with the organism. After 48 hours, a precipitin line forms where toxin and antitoxin diffuse and meet. Which test is being described?",
+    "choices": [
+      {"label": "A", "text": "Elek test"},
+      {"label": "B", "text": "Quellung reaction"},
+      {"label": "C", "text": "Widal agglutination test"},
+      {"label": "D", "text": "Ziehl-Neelsen acid-fast stain"},
+      {"label": "E", "text": "CAMP hemolysis test"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The Elek test is an in vitro immunodiffusion assay that detects diphtheria toxin production by forming a precipitin line where toxin and antitoxin meet in agar.",
+      "whyCorrect": "The Elek test is the gold standard for determining toxigenicity. If the organism produces toxin, an immunoprecipitation band forms, confirming a toxigenic strain.",
+      "whyWrongByChoice": {
+        "B": "The Quellung reaction detects polysaccharide capsules in organisms such as S. pneumoniae by capsular swelling with antisera.",
+        "C": "The Widal test detects antibodies against Salmonella typhi antigens in typhoid fever diagnosis.",
+        "D": "Ziehl-Neelsen stain identifies Mycobacterium species, not C. diphtheriae.",
+        "E": "The CAMP test identifies Group B Streptococcus by enhanced hemolysis with S. aureus."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diphtheria", "Elek-test", "toxin-detection", "laboratory-diagnosis"]
+  },
+  {
+    "id": "r16-008",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 5-year-old child presents with a 2-week history of worsening cough occurring in sudden fits followed by loud inspiratory stridor and occasional vomiting. Between episodes, the child appears comfortable. A nasopharyngeal swab is sent for culture. Which of the following media is most appropriate for isolating the causative organism?",
+    "choices": [
+      {"label": "A", "text": "Charcoal yeast extract agar"},
+      {"label": "B", "text": "Loeffler's coagulated serum medium"},
+      {"label": "C", "text": "MacConkey lactose agar"},
+      {"label": "D", "text": "Regan-Lowe charcoal agar"},
+      {"label": "E", "text": "Thayer-Martin chocolate agar"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This presentation is classic for pertussis. Regan-Lowe agar supports growth of the fastidious B. pertussis while inhibiting normal respiratory flora.",
+      "whyCorrect": "Regan-Lowe agar contains charcoal, horse blood, and cephalexin to support B. pertussis growth while inhibiting normal flora. Along with Bordet-Gengou agar, it is standard for pertussis culture.",
+      "whyWrongByChoice": {
+        "A": "Charcoal yeast extract agar with iron and cysteine is used for Legionella pneumophila, not B. pertussis.",
+        "B": "Loeffler's medium cultures C. diphtheriae and enhances metachromatic granule formation.",
+        "C": "MacConkey agar is selective for gram-negative enteric organisms. B. pertussis does not grow on this medium.",
+        "E": "Thayer-Martin agar is selective chocolate agar for Neisseria gonorrhoeae and N. meningitidis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pertussis", "Regan-Lowe-agar", "culture-media", "whooping-cough"]
+  },
+  {
+    "id": "r16-009",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 10-year-old child is diagnosed with diphtheria. His physician explains that not all strains of C. diphtheriae produce toxin and that toxin production depends on a specific genetic element acquired from outside the bacterial chromosome. Which of the following best describes the origin of the diphtheria toxin gene?",
+    "choices": [
+      {"label": "A", "text": "Chromosomal gene in all strains"},
+      {"label": "B", "text": "Gene on a conjugative plasmid"},
+      {"label": "C", "text": "Transposon-mediated gene insertion"},
+      {"label": "D", "text": "Gene acquired through transformation"},
+      {"label": "E", "text": "Gene from a lysogenic bacteriophage"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Diphtheria toxin production requires lysogenic conversion. Only strains lysogenized by corynephage beta carry the tox gene and produce toxin.",
+      "whyCorrect": "The tox gene is encoded by a lysogenic bacteriophage (corynephage beta). When this phage integrates into C. diphtheriae, the bacterium gains toxin-producing ability. This is a classic example of lysogenic conversion.",
+      "whyWrongByChoice": {
+        "A": "Not all C. diphtheriae strains produce toxin. Only those lysogenized by the phage carrying the tox gene are toxigenic.",
+        "B": "The tox gene is phage-encoded, not carried on a conjugative plasmid.",
+        "C": "Transposons are mobile genetic elements. The tox gene is specifically phage-encoded, not transposon-mediated.",
+        "D": "Transformation involves uptake of free DNA. The diphtheria toxin gene is introduced by phage integration."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diphtheria", "lysogenic-conversion", "bacteriophage", "tox-gene"]
+  },
+  {
+    "id": "r16-010",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 2-month-old infant is brought to the clinic with a 5-day history of rhinorrhea and mild cough. The mother reports that the infant's 15-year-old aunt, who babysits regularly, has had a persistent cough for 3 weeks. The infant has not yet received any vaccinations. The pediatrician is concerned about a specific respiratory pathogen. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Administer DTaP vaccine only"},
+      {"label": "B", "text": "Obtain NP PCR and start azithromycin"},
+      {"label": "C", "text": "Reassure and follow up in a week"},
+      {"label": "D", "text": "Prescribe oral amoxicillin course"},
+      {"label": "E", "text": "Start empiric oseltamivir therapy"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This infant has symptoms consistent with the catarrhal stage of pertussis and exposure to a household contact with prolonged cough. Nasopharyngeal PCR and empiric azithromycin are indicated.",
+      "whyCorrect": "Given known contact with a coughing adolescent and the infant's age and vaccination status, pertussis should be suspected. Nasopharyngeal PCR is the preferred rapid test. Azithromycin should be started empirically in young infants while awaiting results.",
+      "whyWrongByChoice": {
+        "A": "DTaP begins at 2 months but takes multiple doses for protection. Vaccination alone does not address the current suspected infection.",
+        "D": "Amoxicillin is not effective against B. pertussis. Macrolides are the antibiotics of choice.",
+        "C": "Reassurance alone is inappropriate in a young unvaccinated infant with pertussis exposure. Infants are at highest risk for severe complications.",
+        "E": "Oseltamivir is an antiviral for influenza. The clinical scenario suggests pertussis based on prolonged household contact cough."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "azithromycin", "PCR", "infant", "management"]
+  },
+  {
+    "id": "r16-011",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A pathologist examines a throat biopsy from a patient with suspected diphtheria. Methylene blue staining reveals rod-shaped organisms arranged in V and L formations containing intracellular granules that stain deeper blue than the surrounding cytoplasm. These granules represent polyphosphate storage inclusions. Which of the following best describes these structures?",
+    "choices": [
+      {"label": "A", "text": "Bacterial endospores"},
+      {"label": "B", "text": "Metachromatic granules"},
+      {"label": "C", "text": "Lipid A inclusions"},
+      {"label": "D", "text": "Mycolic acid deposits"},
+      {"label": "E", "text": "Actinomyces sulfur granules"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Metachromatic granules (volutin granules) are a hallmark of C. diphtheriae. When stained with methylene blue, these polyphosphate storage granules exhibit metachromasia, staining a deeper blue-purple than surrounding cytoplasm.",
+      "whyCorrect": "Metachromatic granules are polyphosphate inclusions characteristic of Corynebacterium species. They exhibit metachromasia with methylene blue staining, a classic identifying feature.",
+      "whyWrongByChoice": {
+        "A": "Endospores are produced by Bacillus and Clostridium species. C. diphtheriae is non-spore-forming.",
+        "C": "Lipid A is a component of gram-negative LPS. C. diphtheriae is gram-positive.",
+        "D": "Mycolic acid is in the cell wall of Mycobacterium and Nocardia, identified with acid-fast staining.",
+        "E": "Sulfur granules are yellow aggregates in Actinomyces israelii infections, not C. diphtheriae."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["diphtheria", "metachromatic-granules", "methylene-blue", "microscopy"]
+  },
+  {
+    "id": "r16-012",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 14-year-old girl who received her last Tdap booster 2 years ago develops a mild cough lasting 3 weeks without whoop or post-tussive vomiting. Nasopharyngeal PCR is positive for Bordetella pertussis. Her physician notes that her symptoms are much milder than those of unvaccinated children. Which of the following best explains her attenuated clinical course?",
+    "choices": [
+      {"label": "A", "text": "Absence of tracheal cytotoxin in this strain"},
+      {"label": "B", "text": "Cross-immunity from recent viral infection"},
+      {"label": "C", "text": "Pertussis toxin ineffective in adolescents"},
+      {"label": "D", "text": "Lower respiratory tract colonization only"},
+      {"label": "E", "text": "Partial immunity from prior vaccination"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Breakthrough pertussis in vaccinated individuals is typically milder because residual immunity attenuates disease severity, producing shorter illness with less severe coughing.",
+      "whyCorrect": "Although vaccine efficacy wanes over time, residual immunity still provides partial protection. Vaccinated individuals with breakthrough infections have shorter, milder illness with fewer complications.",
+      "whyWrongByChoice": {
+        "A": "Breakthrough infections involve the same B. pertussis strains with the same virulence factors. The milder course is due to host immunity.",
+        "B": "Cross-immunity from unrelated viral infections does not protect against B. pertussis.",
+        "C": "Pertussis toxin is equally active regardless of patient age. Age does not determine toxin effectiveness.",
+        "D": "B. pertussis colonizes the ciliated upper respiratory epithelium in all age groups. It does not preferentially target the lower tract in adolescents."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "vaccination", "breakthrough-infection", "Tdap"]
+  },
+  {
+    "id": "r16-013",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A medical student is studying Bordetella pertussis virulence factors. She learns that one toxin enters phagocytic cells and catalyzes conversion of ATP to cAMP at supraphysiologic levels, suppressing the oxidative burst and impairing bacterial killing. This toxin does not ADP-ribosylate G proteins. Which toxin is she studying?",
+    "choices": [
+      {"label": "A", "text": "Adenylate cyclase toxin"},
+      {"label": "B", "text": "Pertussis toxin"},
+      {"label": "C", "text": "Diphtheria toxin"},
+      {"label": "D", "text": "Shiga toxin"},
+      {"label": "E", "text": "Tracheal cytotoxin"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Adenylate cyclase toxin (ACT) enters leukocytes and catalyzes ATP-to-cAMP conversion at supraphysiologic levels, suppressing phagocytic functions including the oxidative burst.",
+      "whyCorrect": "ACT is an invasive adenylate cyclase that enters phagocytes and dramatically increases cAMP, suppressing chemotaxis, the oxidative burst, and bacterial killing, helping B. pertussis evade innate immunity.",
+      "whyWrongByChoice": {
+        "B": "Pertussis toxin ADP-ribosylates Gi proteins, increasing cAMP through a different mechanism. It primarily affects lymphocyte trafficking, not direct phagocyte invasion.",
+        "C": "Diphtheria toxin ADP-ribosylates EF-2 to inhibit protein synthesis. It does not increase cAMP in phagocytes.",
+        "D": "Shiga toxin inhibits protein synthesis by cleaving 28S rRNA and is unrelated to B. pertussis.",
+        "E": "Tracheal cytotoxin damages ciliated epithelial cells and does not enter phagocytes or affect cAMP."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "adenylate-cyclase-toxin", "cAMP", "phagocytosis"]
+  },
+  {
+    "id": "r16-014",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 45-year-old missionary returning from sub-Saharan Africa presents with a chronic, nonhealing ulcer on his right forearm covered by a dirty gray membrane. He has no sore throat or respiratory symptoms. Wound culture grows Corynebacterium diphtheriae. Elek test confirms toxin production. Which of the following is the most appropriate antibiotic treatment?",
+    "choices": [
+      {"label": "A", "text": "Azithromycin"},
+      {"label": "B", "text": "Oral ciprofloxacin"},
+      {"label": "C", "text": "Oral doxycycline"},
+      {"label": "D", "text": "IV metronidazole"},
+      {"label": "E", "text": "IV vancomycin"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient has cutaneous diphtheria. Azithromycin is the preferred first-line antibiotic for both respiratory and cutaneous diphtheria.",
+      "whyCorrect": "Azithromycin is the preferred first-line antibiotic for diphtheria. It effectively eradicates C. diphtheriae with favorable once-daily dosing and good tissue penetration.",
+      "whyWrongByChoice": {
+        "B": "Ciprofloxacin is not part of the standard diphtheria treatment regimen.",
+        "C": "Doxycycline is not a recommended treatment for diphtheria. Macrolides and penicillin are established options.",
+        "D": "Metronidazole is for anaerobic and protozoal infections. It is not effective against C. diphtheriae.",
+        "E": "Vancomycin, while active against gram-positives, is not part of the standard diphtheria protocol. Macrolides are preferred."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diphtheria", "cutaneous-diphtheria", "azithromycin", "treatment"]
+  },
+  {
+    "id": "r16-015",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 4-year-old unvaccinated child presents with respiratory diphtheria and a large pharyngeal pseudomembrane. The attending physician immediately orders diphtheria antitoxin before culture results return, explaining that any delay could be fatal. The parents ask why the antitoxin must be given so urgently. Which of the following best explains this rationale?",
+    "choices": [
+      {"label": "A", "text": "Antitoxin kills C. diphtheriae directly"},
+      {"label": "B", "text": "Antitoxin cannot neutralize internalized toxin"},
+      {"label": "C", "text": "Antitoxin reverses existing toxin damage"},
+      {"label": "D", "text": "Antitoxin promotes bacterial phagocytosis"},
+      {"label": "E", "text": "Culture confirmation is needed before treatment"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Diphtheria antitoxin neutralizes circulating toxin but cannot reverse damage once toxin is internalized by host cells. Therefore, it must be given as early as possible.",
+      "whyCorrect": "Once diphtheria toxin enters cells and ADP-ribosylates EF-2 irreversibly, antitoxin cannot neutralize it. Antitoxin only binds circulating extracellular toxin. Any delay allows more toxin to enter cells and cause irreversible damage.",
+      "whyWrongByChoice": {
+        "A": "Antitoxin neutralizes the toxin; it has no direct bactericidal activity. Antibiotics eradicate the organism.",
+        "D": "Antitoxin binds and neutralizes exotoxin. It does not act as an opsonin for phagocytosis.",
+        "C": "Antitoxin cannot reverse damage already caused by internalized toxin. It only prevents further damage.",
+        "E": "Treatment must not be delayed for culture confirmation. Antitoxin is given based on clinical suspicion."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["diphtheria", "antitoxin", "management", "urgency"]
+  },
+  {
+    "id": "r16-016",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 30-year-old pregnant woman at 32 weeks' gestation is exposed to a household member diagnosed with pertussis. She is asymptomatic but concerned about transmitting infection to her newborn after delivery. Her obstetrician recommends post-exposure prophylaxis with an antibiotic safe in pregnancy. Which of the following is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Azithromycin"},
+      {"label": "B", "text": "Ciprofloxacin"},
+      {"label": "C", "text": "Doxycycline"},
+      {"label": "D", "text": "Metronidazole"},
+      {"label": "E", "text": "Trimethoprim-sulfamethoxazole"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Azithromycin is the preferred antibiotic for both treatment and post-exposure prophylaxis of pertussis, including in pregnant women.",
+      "whyCorrect": "Azithromycin is safe in pregnancy and effectively prevents pertussis infection when given prophylactically to close contacts.",
+      "whyWrongByChoice": {
+        "B": "Ciprofloxacin is contraindicated in pregnancy due to potential cartilage damage and is not effective against B. pertussis.",
+        "C": "Doxycycline is contraindicated in pregnancy due to effects on fetal teeth and bone development.",
+        "D": "Metronidazole is for anaerobic and protozoal infections and has no role in pertussis prophylaxis.",
+        "E": "TMP-SMX is an alternative for pertussis prophylaxis but is contraindicated in third-trimester pregnancy due to risk of neonatal hyperbilirubinemia."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pertussis", "prophylaxis", "azithromycin", "pregnancy"]
+  },
+  {
+    "id": "r16-017",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A researcher studies pertussis toxin's molecular mechanism. She finds it catalyzes ADP-ribose transfer from NAD+ to a specific host protein, resulting in constitutive adenylyl cyclase activation and elevated intracellular cAMP. The target protein normally inhibits adenylyl cyclase. Which host protein is the direct target?",
+    "choices": [
+      {"label": "A", "text": "Elongation factor 2"},
+      {"label": "B", "text": "Gs alpha subunit"},
+      {"label": "C", "text": "Rho GTPase protein"},
+      {"label": "D", "text": "60S ribosomal subunit"},
+      {"label": "E", "text": "Gi alpha subunit"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Pertussis toxin ADP-ribosylates the Gi alpha subunit, permanently inactivating it. Since Gi normally inhibits adenylyl cyclase, its inactivation results in constitutive activation and elevated cAMP.",
+      "whyCorrect": "Pertussis toxin specifically targets Gi alpha. When Gi is inactivated, adenylyl cyclase remains constitutively active, leading to sustained cAMP elevations that disrupt cell signaling.",
+      "whyWrongByChoice": {
+        "A": "Elongation factor 2 is the target of diphtheria toxin and Pseudomonas exotoxin A, not pertussis toxin.",
+        "B": "Gs alpha is the target of cholera toxin. Pertussis toxin achieves the same effect (increased cAMP) but by targeting Gi instead.",
+        "C": "Rho GTPases are targeted by C. difficile toxins A and B, not pertussis toxin.",
+        "D": "The 60S ribosomal subunit is targeted by Shiga toxin, which cleaves 28S rRNA."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "pertussis-toxin", "Gi-protein", "ADP-ribosylation", "cAMP"]
+  },
+  {
+    "id": "r16-018",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A previously healthy 3-year-old child recovering from pertussis develops fever, tachypnea, and a new productive cough with purulent sputum 4 weeks into the illness. Chest X-ray reveals right lower lobe consolidation with air bronchograms. The pertussis paroxysms had been improving before this new deterioration. Which of the following is the most likely explanation?",
+    "choices": [
+      {"label": "A", "text": "Allergic bronchopulmonary aspergillosis"},
+      {"label": "B", "text": "Secondary bacterial pneumonia"},
+      {"label": "C", "text": "Direct lung invasion by B. pertussis"},
+      {"label": "D", "text": "Pertussis toxin alveolar damage"},
+      {"label": "E", "text": "New viral pneumonia from reinfection"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Secondary bacterial pneumonia is a common serious complication of pertussis, especially in young children. Tracheal cytotoxin destroys ciliated epithelium, predisposing to secondary bacterial infection.",
+      "whyCorrect": "B. pertussis toxins, particularly tracheal cytotoxin, destroy ciliated cells and impair mucociliary clearance, predisposing to secondary bacterial pneumonia — the most common serious complication of pertussis.",
+      "whyWrongByChoice": {
+        "A": "ABPA occurs in patients with asthma or CF and is not a complication of pertussis.",
+        "C": "B. pertussis does not invade lung parenchyma. It remains attached to ciliated epithelium and causes disease through toxins.",
+        "D": "Pertussis toxin affects G-protein signaling but does not directly damage alveolar tissue.",
+        "E": "Purulent sputum with lobar consolidation is more consistent with bacterial pneumonia than a viral process."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pertussis", "secondary-pneumonia", "complication", "tracheal-cytotoxin"]
+  },
+  {
+    "id": "r16-019",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 9-year-old child with respiratory diphtheria develops progressive soft palate weakness, difficulty swallowing, and nasal regurgitation of fluids 6 weeks after the initial infection. Cranial nerve examination reveals bilateral palatal paralysis. His pharyngeal pseudomembrane resolved weeks ago with antibiotic therapy. Which of the following best explains these neurological findings?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune cranial nerve demyelination"},
+      {"label": "B", "text": "Toxin-mediated peripheral neuropathy"},
+      {"label": "C", "text": "Direct bacterial brainstem invasion"},
+      {"label": "D", "text": "Pseudomembrane nasopharyngeal extension"},
+      {"label": "E", "text": "Vitamin B12 deficiency from illness"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Peripheral neuropathy is a late complication of diphtheria caused by systemic toxin absorption. Palatal and pharyngeal nerves are commonly affected, causing dysphagia and nasal regurgitation.",
+      "whyCorrect": "Diphtheria toxin causes neuropathy by inhibiting protein synthesis in Schwann cells and neurons. Palatal paralysis is characteristic, typically occurring weeks after initial infection.",
+      "whyWrongByChoice": {
+        "A": "While demyelination occurs in diphtheria neuropathy, it is caused by direct toxin damage to Schwann cells, not an autoimmune process.",
+        "C": "C. diphtheriae does not invade tissues. It remains localized and causes systemic damage through toxin absorption.",
+        "D": "Pseudomembrane extension would cause local obstruction, not progressive neurological deficits weeks later.",
+        "E": "B12 deficiency causes subacute combined degeneration, not isolated palatal paralysis. This presentation is too specific for B12 deficiency."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["diphtheria", "peripheral-neuropathy", "palatal-paralysis", "complication"]
+  },
+  {
+    "id": "r16-020",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A pediatrician counsels parents about the DTaP vaccine for their 2-month-old infant. She explains that the pertussis component differs from older vaccine formulations because it contains purified antigenic components rather than whole killed bacteria. The parents ask what \"acellular\" means. Which of the following best describes the acellular pertussis component?",
+    "choices": [
+      {"label": "A", "text": "Inactivated whole bacterial cells"},
+      {"label": "B", "text": "Live attenuated B. pertussis"},
+      {"label": "C", "text": "Purified pertussis protein antigens"},
+      {"label": "D", "text": "Synthetic mRNA encoding pertussis proteins"},
+      {"label": "E", "text": "Diphtheria toxoid component only"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The acellular pertussis vaccine contains purified antigenic components (detoxified pertussis toxin, filamentous hemagglutinin, pertactin, fimbriae) rather than whole killed bacteria, producing fewer side effects.",
+      "whyCorrect": "The acellular formulation contains specific purified antigens that induce targeted immunity with fewer adverse reactions than whole-cell vaccines.",
+      "whyWrongByChoice": {
+        "A": "Whole-cell pertussis vaccines were used historically but replaced by acellular formulations due to higher adverse effect rates.",
+        "B": "There is no live attenuated pertussis vaccine. B. pertussis vaccines are either whole-cell killed or acellular.",
+        "D": "DTaP is a subunit/toxoid vaccine, not an mRNA vaccine. It contains purified protein antigens.",
+        "E": "DTaP contains components for diphtheria, tetanus, and pertussis. The 'a' refers to the acellular pertussis component."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pertussis", "DTaP", "vaccine", "acellular"]
+  },
+  {
+    "id": "r16-021",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A 22-year-old college student presents with a nonproductive cough lasting 6 weeks. He received his last Tdap at age 12. He denies fever, weight loss, or night sweats. Nasopharyngeal PCR confirms B. pertussis, though his physician notes that PCR sensitivity declines significantly after the third week. Which diagnostic test would have been more appropriate at this stage?",
+    "choices": [
+      {"label": "A", "text": "Blood culture for B. pertussis"},
+      {"label": "B", "text": "Bordet-Gengou agar culture"},
+      {"label": "C", "text": "Sputum acid-fast bacilli stain"},
+      {"label": "D", "text": "Serology for pertussis antibodies"},
+      {"label": "E", "text": "Urinary antigen testing"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "After 3 weeks of illness, B. pertussis is typically cleared from the nasopharynx, making PCR and culture unreliable. Serology detecting anti-pertussis toxin IgG is the preferred late-stage diagnostic method.",
+      "whyCorrect": "At 6 weeks, the organism has been cleared. Serology detects antibodies and is the recommended approach for patients presenting after 3 weeks of cough onset.",
+      "whyWrongByChoice": {
+        "A": "B. pertussis does not cause bacteremia and is not detected in blood cultures.",
+        "B": "Culture on Bordet-Gengou agar is useful during the first 2-3 weeks. At 6 weeks, culture sensitivity is extremely low.",
+        "C": "Acid-fast staining detects Mycobacterium. The confirmed PCR result identifies pertussis as the cause.",
+        "E": "Urinary antigen testing exists for Legionella and S. pneumoniae, not B. pertussis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pertussis", "serology", "diagnosis", "late-stage"]
+  },
+  {
+    "id": "r16-022",
+    "topicId": "pertussis-diphtheria",
+    "topicName": "B. pertussis and C. diphtheriae",
+    "stem": "A nurse accidentally scrapes the pseudomembrane from the pharynx of a patient with confirmed diphtheria, causing bleeding from the underlying tissue. The attending physician orders urgent monitoring for clinical deterioration. The patient's ECG and troponin are checked. Which of the following best explains why disrupting the pseudomembrane is dangerous?",
+    "choices": [
+      {"label": "A", "text": "Bacteremia is introduced into bloodstream"},
+      {"label": "B", "text": "Aspiration pneumonia from membrane fragments"},
+      {"label": "C", "text": "Spread of infection to the larynx"},
+      {"label": "D", "text": "Type III hypersensitivity reaction triggered"},
+      {"label": "E", "text": "Increased systemic toxin absorption"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Disrupting the pseudomembrane exposes raw, vascularized tissue, dramatically increasing systemic absorption of diphtheria toxin, which can cause acute myocarditis and neuropathy.",
+      "whyCorrect": "Scraping the membrane exposes highly vascularized surfaces, dramatically increasing toxin absorption into the bloodstream, potentially causing acute myocarditis, arrhythmias, and neuropathy.",
+      "whyWrongByChoice": {
+        "A": "C. diphtheriae is not invasive and does not typically cause bacteremia. The danger is increased toxin absorption.",
+        "B": "While aspiration is a theoretical concern, the primary danger is enhanced systemic toxin absorption.",
+        "C": "Local extension occurs as part of disease progression, not specifically from scraping the existing membrane.",
+        "D": "Type III hypersensitivity is not triggered by mechanical pseudomembrane disruption."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diphtheria", "pseudomembrane", "toxin-absorption", "complication"]
+  },
+  {
+    "id": "r16-023",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 35-year-old woman presents with 3 weeks of nasal congestion, purulent nasal discharge, and facial pressure over her cheeks. She initially improved after a cold but worsened 10 days later with thick yellow-green discharge and maxillary tenderness. NSAIDs and saline irrigation have not helped. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Amoxicillin-clavulanate therapy"},
+      {"label": "B", "text": "CT scan of the sinuses"},
+      {"label": "C", "text": "Intranasal fluticasone alone"},
+      {"label": "D", "text": "Oral prednisone taper"},
+      {"label": "E", "text": "Surgical referral for debridement"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient's double-sickening course with persistent symptoms beyond 10 days suggests acute bacterial rhinosinusitis. First-line antibiotic is amoxicillin-clavulanate.",
+      "whyCorrect": "Bacterial sinusitis is suspected with the double-sickening pattern. Amoxicillin-clavulanate covers S. pneumoniae, H. influenzae, and M. catarrhalis and is first-line for both adults and children.",
+      "whyWrongByChoice": {
+        "B": "CT imaging is not routinely indicated for acute rhinosinusitis. It is reserved for chronic sinusitis or suspected complications.",
+        "C": "Intranasal corticosteroids provide adjunctive relief but are insufficient alone for suspected bacterial sinusitis failing conservative therapy.",
+        "D": "Oral systemic corticosteroids are not standard first-line therapy for acute bacterial rhinosinusitis.",
+        "E": "Surgical debridement is reserved for invasive fungal sinusitis or complicated cases, not uncomplicated bacterial sinusitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bacterial-sinusitis", "amoxicillin-clavulanate", "double-sickening", "management"]
+  },
+  {
+    "id": "r16-024",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 28-year-old man presents with sneezing, clear watery rhinorrhea, and nasal congestion every spring when pollen counts are high. On anterior rhinoscopy, the nasal mucosa appears pale and edematous with a bluish hue. Skin prick testing is positive for multiple grass pollens. Which immune mechanism is most directly responsible?",
+    "choices": [
+      {"label": "A", "text": "Complement-mediated cell lysis"},
+      {"label": "B", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "C", "text": "Immune complex vessel deposition"},
+      {"label": "D", "text": "T-cell delayed-type hypersensitivity"},
+      {"label": "E", "text": "Antibody-dependent cellular cytotoxicity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Allergic rhinitis is a type I hypersensitivity reaction. Allergens cross-link IgE on mast cells causing degranulation and histamine release, producing rhinorrhea, sneezing, and congestion.",
+      "whyCorrect": "In allergic rhinitis, allergen-specific IgE binds FcεRI receptors on mast cells. On re-exposure, allergens cross-link IgE, triggering degranulation and histamine release causing vasodilation, increased permeability, and mucus production.",
+      "whyWrongByChoice": {
+        "A": "Complement-mediated cell lysis does not drive allergic rhinitis pathophysiology.",
+        "C": "Immune complex deposition (type III) causes diseases like serum sickness, not allergic rhinitis.",
+        "D": "T-cell delayed hypersensitivity (type IV) is responsible for contact dermatitis, not acute allergic rhinitis.",
+        "E": "Antibody-dependent cellular cytotoxicity (type II) targets antibody-coated cells and is not the mechanism of allergic rhinitis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["allergic-rhinitis", "type-I-hypersensitivity", "IgE", "mast-cell"]
+  },
+  {
+    "id": "r16-025",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 55-year-old man with poorly controlled type 2 diabetes presents with fever, facial pain, and bloody nasal discharge. Examination reveals a black necrotic eschar on the nasal turbinate. CT shows opacification of the maxillary and ethmoid sinuses with erosion into the orbit. His blood glucose is 450 mg/dL. Which organism is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Aspergillus fumigatus"},
+      {"label": "B", "text": "Candida albicans"},
+      {"label": "C", "text": "Staphylococcus aureus"},
+      {"label": "D", "text": "Mucor species"},
+      {"label": "E", "text": "Streptococcus pneumoniae"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This is classic invasive mucormycosis. Poorly controlled diabetes, black eschar, and rapid orbital extension are the hallmark features. Mucorales are angioinvasive, causing thrombosis and tissue necrosis.",
+      "whyCorrect": "Mucormycosis caused by Mucorales (Rhizopus, Mucor) is the most likely cause of rhino-orbital-cerebral mycosis in a diabetic patient. The organisms invade blood vessels causing tissue infarction and the characteristic black eschar.",
+      "whyWrongByChoice": {
+        "A": "Aspergillus can cause invasive sinusitis but the combination of diabetes, black eschar, and rapid orbital extension is most characteristic of mucormycosis.",
+        "B": "Candida causes mucosal infections but not the invasive, angioinvasive pattern with black eschar.",
+        "C": "S. aureus can cause bacterial sinusitis but does not cause black necrotic eschar or angioinvasive disease.",
+        "E": "S. pneumoniae is the most common cause of acute bacterial sinusitis but does not cause necrotic tissue destruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mucormycosis", "fungal-sinusitis", "diabetes", "invasive-infection"]
+  },
+  {
+    "id": "r16-026",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 42-year-old woman with asthma presents with recurrent nasal congestion and anosmia. She recently had an anaphylactoid reaction after taking aspirin. Nasal endoscopy reveals bilateral glistening masses. Biopsy shows edematous mucosa with prominent eosinophilic infiltration. Which clinical triad does she demonstrate?",
+    "choices": [
+      {"label": "A", "text": "Churg-Strauss syndrome"},
+      {"label": "B", "text": "Samter triad"},
+      {"label": "C", "text": "Kartagener syndrome"},
+      {"label": "D", "text": "Wegener granulomatosis"},
+      {"label": "E", "text": "Young syndrome"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Samter triad (aspirin-exacerbated respiratory disease) consists of aspirin sensitivity, asthma, and nasal polyps with eosinophilic inflammation.",
+      "whyCorrect": "This patient has all three features of Samter triad: aspirin sensitivity, asthma, and nasal polyps. The pathophysiology involves dysregulated arachidonic acid metabolism with leukotriene overproduction.",
+      "whyWrongByChoice": {
+        "A": "Churg-Strauss is a systemic vasculitis with asthma and eosinophilia but is not specifically a triad with aspirin sensitivity.",
+        "C": "Kartagener syndrome is primary ciliary dyskinesia with situs inversus, bronchiectasis, and sinusitis, not aspirin sensitivity.",
+        "D": "Wegener granulomatosis causes necrotizing granulomatous vasculitis with c-ANCA positivity, not the triad described.",
+        "E": "Young syndrome features obstructive azoospermia, bronchiectasis, and sinusitis, not aspirin sensitivity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["nasal-polyps", "Samter-triad", "aspirin-sensitivity", "asthma"]
+  },
+  {
+    "id": "r16-027",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 7-year-old boy is brought to the clinic for chronic mouth breathing, a narrow face, and frequent snoring. Examination reveals dark circles under the eyes, a short upper lip with visible upper incisors, and pale edematous nasal mucosa. His mother reports he has had \"allergies\" since age 3 with perennial symptoms. Which of the following is the most likely underlying condition?",
+    "choices": [
+      {"label": "A", "text": "Congenital choanal atresia"},
+      {"label": "B", "text": "Deviated nasal septum"},
+      {"label": "C", "text": "Nasal passage foreign body"},
+      {"label": "D", "text": "Chronic allergic rhinitis with adenoid hypertrophy"},
+      {"label": "E", "text": "Juvenile nasopharyngeal angiofibroma"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This child displays adenoid facies (long narrow face, short upper lip, exposed incisors) with allergic shiners and pale nasal mucosa, all resulting from chronic allergic rhinitis with adenoid hypertrophy.",
+      "whyCorrect": "Chronic allergic rhinitis causes persistent nasal obstruction and mouth breathing, leading to adenoid hypertrophy and characteristic adenoid facies. The allergic shiners and pale mucosa confirm the allergic etiology.",
+      "whyWrongByChoice": {
+        "A": "Choanal atresia is congenital and typically diagnosed in the neonatal period, not at age 7 with chronic allergic signs.",
+        "B": "A deviated septum causes unilateral obstruction but does not explain allergic signs or adenoid facies.",
+        "C": "A nasal foreign body causes unilateral foul-smelling discharge, not bilateral chronic symptoms with allergic findings.",
+        "E": "Juvenile nasopharyngeal angiofibroma presents in adolescent males with recurrent epistaxis, not the allergic picture described."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["allergic-rhinitis", "adenoid-facies", "children", "allergic-shiners"]
+  },
+  {
+    "id": "r16-028",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 50-year-old woman has been using oxymetazoline nasal spray daily for 3 weeks for nasal congestion from a cold. She now reports worsening congestion requiring the spray every few hours for temporary relief. She is using the spray 6-8 times daily. Which of the following best describes this condition?",
+    "choices": [
+      {"label": "A", "text": "Seasonal allergic rhinitis"},
+      {"label": "B", "text": "Chronic bacterial sinusitis"},
+      {"label": "C", "text": "Rhinitis medicamentosa"},
+      {"label": "D", "text": "Bilateral nasal polyposis"},
+      {"label": "E", "text": "Vasomotor rhinitis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Rhinitis medicamentosa is rebound nasal congestion from overuse of topical decongestant sprays beyond 3-5 days, creating a vicious cycle of congestion and escalating use.",
+      "whyCorrect": "Prolonged use of topical alpha-adrenergic agonist decongestants leads to tachyphylaxis and rebound vasodilatation. The cycle of dependency is prevented by limiting use to 3-5 consecutive days.",
+      "whyWrongByChoice": {
+        "A": "Allergic rhinitis presents with sneezing, clear rhinorrhea, and itching from allergen exposure, not from decongestant overuse.",
+        "B": "Chronic sinusitis requires symptoms lasting more than 12 weeks and is not caused by decongestant overuse.",
+        "D": "Nasal polyposis causes gradual obstruction and anosmia but is not related to decongestant spray use.",
+        "E": "Vasomotor rhinitis is triggered by temperature changes or odors, not medication overuse."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["rhinitis-medicamentosa", "oxymetazoline", "rebound-congestion", "decongestant"]
+  },
+  {
+    "id": "r16-029",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 60-year-old man presents with 4 months of bilateral nasal congestion, thick mucoid discharge, and decreased sense of smell. CT of the sinuses shows mucosal thickening and opacification of the maxillary sinuses bilaterally. He has been symptomatic continuously since onset. Which classification best describes his condition?",
+    "choices": [
+      {"label": "A", "text": "Acute rhinosinusitis"},
+      {"label": "B", "text": "Subacute rhinosinusitis"},
+      {"label": "C", "text": "Recurrent acute rhinosinusitis"},
+      {"label": "D", "text": "Chronic rhinosinusitis"},
+      {"label": "E", "text": "Uncomplicated viral rhinosinusitis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Chronic rhinosinusitis is defined as symptoms persisting longer than 12 weeks. This patient's 4-month continuous course with CT findings meets the criteria.",
+      "whyCorrect": "Rhinosinusitis lasting more than 12 weeks is classified as chronic. This patient has had symptoms for approximately 16 weeks. CT mucosal thickening and opacification support the diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Acute rhinosinusitis has symptom duration of less than 4 weeks.",
+        "B": "Subacute rhinosinusitis has symptoms lasting 4-12 weeks. At 16 weeks, this exceeds the subacute category.",
+        "C": "Recurrent acute rhinosinusitis is more than 4 episodes per year with complete resolution between episodes. This patient has continuous symptoms.",
+        "E": "Viral rhinosinusitis is self-limited, resolving within 7-10 days."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["chronic-rhinosinusitis", "classification", "CT-findings", "mucosal-thickening"]
+  },
+  {
+    "id": "r16-030",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 40-year-old woman with sinusitis develops sudden periorbital swelling, pain with eye movements, proptosis, and diplopia. She has a fever of 39.2°C. These findings suggest infection posterior to the orbital septum with potential for vision loss. Which complication is she most likely experiencing?",
+    "choices": [
+      {"label": "A", "text": "Allergic conjunctivitis"},
+      {"label": "B", "text": "Cavernous sinus thrombosis"},
+      {"label": "C", "text": "Preseptal (periorbital) cellulitis"},
+      {"label": "D", "text": "Orbital cellulitis"},
+      {"label": "E", "text": "Subperiosteal abscess"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Orbital cellulitis is a severe complication of sinusitis involving infection posterior to the orbital septum. Key distinguishing features include pain with eye movements, proptosis, and diplopia.",
+      "whyCorrect": "Orbital cellulitis extends posterior to the orbital septum via direct extension from infected sinuses. It requires urgent CT imaging and IV antibiotics to prevent abscess, cavernous sinus thrombosis, and intracranial extension.",
+      "whyWrongByChoice": {
+        "A": "Allergic conjunctivitis causes itching and tearing but not proptosis, pain with eye movements, or diplopia.",
+        "B": "Cavernous sinus thrombosis typically presents with bilateral eye findings and cranial nerve palsies. Unilateral findings suggest orbital cellulitis.",
+        "C": "Preseptal cellulitis involves tissue anterior to the orbital septum with eyelid swelling but without pain with eye movements, proptosis, or diplopia.",
+        "E": "Subperiosteal abscess is a specific CT finding that can occur with orbital cellulitis but is not the clinical syndrome described."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["orbital-cellulitis", "sinusitis-complication", "proptosis", "emergency"]
+  },
+  {
+    "id": "r16-031",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 32-year-old woman with seasonal allergic rhinitis reports significant impairment of quality of life every spring and fall despite oral cetirizine. She has tried multiple second-generation antihistamines with only partial relief. Her physician recommends stepping up to the most effective maintenance therapy. Which of the following is the most appropriate first-line treatment?",
+    "choices": [
+      {"label": "A", "text": "Intranasal corticosteroid spray"},
+      {"label": "B", "text": "Intranasal cromolyn sodium"},
+      {"label": "C", "text": "Daily oral decongestants"},
+      {"label": "D", "text": "Oral leukotriene antagonist"},
+      {"label": "E", "text": "Topical oxymetazoline spray"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Intranasal corticosteroids are the most effective first-line maintenance therapy for allergic rhinitis, superior to antihistamines, cromolyn, and leukotriene antagonists.",
+      "whyCorrect": "Intranasal corticosteroids provide broad anti-inflammatory effects by binding glucocorticoid receptors, reducing mucosal edema, congestion, rhinorrhea, and sneezing with consistent daily use.",
+      "whyWrongByChoice": {
+        "B": "Intranasal cromolyn is rarely used due to inferior efficacy, slow onset (4-7 days), and frequent dosing (3-4 times daily) compared to corticosteroids.",
+        "C": "Oral decongestants provide temporary symptomatic relief but do not address inflammation and are not recommended for long-term use due to cardiovascular effects.",
+        "D": "Leukotriene antagonists may provide some benefit but are less effective than intranasal corticosteroids as monotherapy.",
+        "E": "Topical oxymetazoline must be limited to 3-5 days to prevent rhinitis medicamentosa and is not appropriate for maintenance."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["allergic-rhinitis", "intranasal-corticosteroids", "first-line", "treatment"]
+  },
+  {
+    "id": "r16-032",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 19-year-old college student presents with 5 days of nasal congestion, clear rhinorrhea, mild sore throat, and nonproductive cough. He is afebrile with no facial pain. Examination reveals mildly erythematous nasal mucosa without purulence. He is otherwise healthy. Which of the following is the most likely causative organism?",
+    "choices": [
+      {"label": "A", "text": "Haemophilus influenzae"},
+      {"label": "B", "text": "Moraxella catarrhalis"},
+      {"label": "C", "text": "Streptococcus pneumoniae"},
+      {"label": "D", "text": "Aspergillus fumigatus"},
+      {"label": "E", "text": "Rhinovirus"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This is acute viral rhinosinusitis (the common cold). Rhinovirus is the most common cause. Clear discharge, brief duration, and absence of bacterial features point to a viral etiology.",
+      "whyCorrect": "Rhinovirus is the most common cause of acute viral rhinosinusitis. Clear rhinorrhea, nasal congestion, mild sore throat, and short duration without purulence is classic for viral URI.",
+      "whyWrongByChoice": {
+        "A": "H. influenzae causes bacterial sinusitis, suspected only with symptoms beyond 10 days or double-sickening pattern.",
+        "B": "M. catarrhalis is a bacterial cause of sinusitis, unlikely with clear discharge and only 5 days of symptoms.",
+        "C": "S. pneumoniae is the most common bacterial sinusitis cause but not suggested by this presentation.",
+        "D": "Aspergillus causes fungal sinusitis typically in immunocompromised patients, not this healthy young adult."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["viral-rhinosinusitis", "rhinovirus", "common-cold", "diagnosis"]
+  },
+  {
+    "id": "r16-033",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 65-year-old man with hypertension and daily aspirin use presents with profuse posterior nasal bleeding that does not respond to 20 minutes of direct anterior pressure. Anterior rhinoscopy does not identify an active bleeding source. The ENT team is consulted for posterior nasal packing. Which vascular structure is the most likely source?",
+    "choices": [
+      {"label": "A", "text": "Anterior ethmoidal artery"},
+      {"label": "B", "text": "Greater palatine artery"},
+      {"label": "C", "text": "Kiesselbach plexus (Little's area)"},
+      {"label": "D", "text": "Woodruff plexus"},
+      {"label": "E", "text": "Superior labial artery"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Posterior epistaxis originates from the Woodruff plexus in the posterior nasal cavity. These bleeds are more common in elderly hypertensive patients and tend to be severe.",
+      "whyCorrect": "The Woodruff plexus is supplied by branches of the sphenopalatine artery. Posterior epistaxis from this area is common in elderly patients with hypertension and antiplatelet therapy and is resistant to anterior pressure.",
+      "whyWrongByChoice": {
+        "A": "The anterior ethmoidal artery supplies the superior nasal area and is less commonly implicated in posterior bleeding.",
+        "B": "The greater palatine artery contributes to the anterior septum via Kiesselbach plexus and is more associated with anterior epistaxis.",
+        "C": "Kiesselbach plexus is the most common source of anterior epistaxis in children and young adults. Anterior bleeds respond to direct pressure.",
+        "E": "The superior labial artery contributes to the anterior septum and is not the source of posterior epistaxis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["epistaxis", "Woodruff-plexus", "posterior-bleeding", "hypertension"]
+  },
+  {
+    "id": "r16-034",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 38-year-old man with documented penicillin anaphylaxis presents with acute bacterial rhinosinusitis that has failed 10 days of watchful waiting with symptomatic therapy. He has purulent nasal discharge, facial pain, and low-grade fever. His physician selects an antibiotic with respiratory pathogen coverage and no beta-lactam cross-reactivity. Which is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Oral amoxicillin"},
+      {"label": "B", "text": "Amoxicillin-clavulanate"},
+      {"label": "C", "text": "Oral cephalexin"},
+      {"label": "D", "text": "Oral levofloxacin"},
+      {"label": "E", "text": "Trimethoprim-sulfamethoxazole"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "For acute bacterial rhinosinusitis in patients with true penicillin anaphylaxis, levofloxacin is an appropriate second-line antibiotic with excellent respiratory pathogen coverage.",
+      "whyCorrect": "Levofloxacin is a respiratory fluoroquinolone with excellent coverage of S. pneumoniae, H. influenzae, and M. catarrhalis without cross-reactivity with penicillins.",
+      "whyWrongByChoice": {
+        "A": "Amoxicillin is a penicillin and absolutely contraindicated with documented anaphylaxis.",
+        "B": "Amoxicillin-clavulanate is first-line but contraindicated with penicillin anaphylaxis.",
+        "C": "Cephalosporins are generally avoided in patients with penicillin anaphylaxis due to cross-reactivity risk.",
+        "E": "TMP-SMX has increasing resistance among common sinusitis pathogens and is not a recommended second-line agent."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bacterial-sinusitis", "penicillin-allergy", "levofloxacin", "alternative-antibiotic"]
+  },
+  {
+    "id": "r16-035",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 48-year-old immunocompromised woman with a renal transplant presents with rapidly progressive facial pain, nasal discharge, and fever. Nasal biopsy shows broad, ribbon-like, non-septate hyphae branching at right angles. The organism is identified as Rhizopus species. Surgical debridement is planned. Which antifungal is the first-line therapy?",
+    "choices": [
+      {"label": "A", "text": "Amphotericin B"},
+      {"label": "B", "text": "Caspofungin"},
+      {"label": "C", "text": "Fluconazole"},
+      {"label": "D", "text": "Itraconazole"},
+      {"label": "E", "text": "Voriconazole"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Invasive mucormycosis from Mucorales (Rhizopus, Mucor) is treated with amphotericin B as first-line, often combined with surgical debridement. Mucorales are intrinsically resistant to voriconazole.",
+      "whyCorrect": "Amphotericin B is the first-line antifungal for mucormycosis. It binds ergosterol causing cell death. Surgical debridement is also essential for source control.",
+      "whyWrongByChoice": {
+        "B": "Echinocandins like caspofungin have variable activity against Mucorales and are not first-line.",
+        "C": "Fluconazole has a narrow spectrum covering Candida and Cryptococcus but not Mucorales.",
+        "D": "Itraconazole has some mold activity but is not first-line for invasive mucormycosis.",
+        "E": "Voriconazole is first-line for Aspergillus but Mucorales are intrinsically resistant."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mucormycosis", "amphotericin-B", "Rhizopus", "antifungal-therapy"]
+  },
+  {
+    "id": "r16-036",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 25-year-old man presents to the emergency department after a direct blow to the nose during basketball. He has significant nasal swelling and tenderness. On anterior rhinoscopy, a soft, fluctuant, red-blue mass is visible on the nasal septum bilaterally. The physician explains that untreated, this could cause permanent nasal deformity. Which is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Apply ice and observe 48 hours"},
+      {"label": "B", "text": "CT scan of facial bones"},
+      {"label": "C", "text": "Anterior gauze nasal packing"},
+      {"label": "D", "text": "Incision and drainage"},
+      {"label": "E", "text": "Oral antibiotics with follow-up"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A septal hematoma requires prompt incision and drainage to prevent avascular necrosis of the septal cartilage, which can cause saddle nose deformity.",
+      "whyCorrect": "The hematoma compromises the cartilage's blood supply. Drainage is definitive treatment, typically followed by packing to prevent re-accumulation and antibiotics to prevent abscess.",
+      "whyWrongByChoice": {
+        "A": "Observation is inappropriate because an undrained hematoma can cause cartilage necrosis within 48-72 hours.",
+        "B": "CT may evaluate fractures but should not delay drainage of a septal hematoma.",
+        "C": "Packing alone without drainage will not prevent cartilage necrosis. Packing is used after drainage.",
+        "E": "Antibiotics alone do not address the hematoma compressing the cartilage."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["septal-hematoma", "nasal-trauma", "incision-drainage", "emergency"]
+  },
+  {
+    "id": "r16-037",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 12-year-old boy with cystic fibrosis presents with progressive bilateral nasal obstruction and hyposmia over 6 months. Anterior rhinoscopy reveals bilateral translucent, pedunculated masses. The pediatric pulmonologist notes that finding nasal polyps in a child should always raise suspicion for CF. Which histologic finding is most likely on biopsy?",
+    "choices": [
+      {"label": "A", "text": "Caseating granulomas"},
+      {"label": "B", "text": "Invasive squamous cell carcinoma"},
+      {"label": "C", "text": "Edematous mucosa with eosinophils"},
+      {"label": "D", "text": "Necrotizing vasculitis"},
+      {"label": "E", "text": "Non-caseating granulomas"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nasal polyps consist of edematous mucosa with eosinophilic inflammatory infiltration. In children, nasal polyps should prompt consideration of cystic fibrosis.",
+      "whyCorrect": "Nasal polyps are edematous nasal mucosa filled with eosinophilic inflammation. In CF, chronic inflammation and abnormal mucociliary clearance predispose to polyp formation.",
+      "whyWrongByChoice": {
+        "A": "Caseating granulomas are characteristic of tuberculosis, not nasal polyps.",
+        "B": "Squamous cell carcinoma presents as a unilateral destructive mass in older adults, not bilateral pedunculated masses in a child.",
+        "D": "Necrotizing vasculitis is seen in granulomatosis with polyangiitis with nasal ulceration, not polyps.",
+        "E": "Non-caseating granulomas are characteristic of sarcoidosis. Nasal polyps show edematous mucosa with eosinophils."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["nasal-polyps", "cystic-fibrosis", "eosinophilic-inflammation", "histology"]
+  },
+  {
+    "id": "r16-038",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 45-year-old man with acute rhinosinusitis develops severe headache, neck stiffness, and altered mental status. CT of the head reveals a ring-enhancing lesion in the frontal lobe adjacent to the frontal sinus. CSF analysis shows elevated WBC and protein. Which of the following best explains how this intracranial complication developed?",
+    "choices": [
+      {"label": "A", "text": "Allergic mediator systemic reaction"},
+      {"label": "B", "text": "Direct extension through sinus walls"},
+      {"label": "C", "text": "Hematogenous spread from distant site"},
+      {"label": "D", "text": "Meningeal irritation from nasal polyps"},
+      {"label": "E", "text": "Rhinovirus-induced viral encephalitis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Brain abscess from sinusitis occurs through direct extension through the thin bony sinus walls into adjacent brain parenchyma, particularly from the frontal sinus.",
+      "whyCorrect": "The frontal sinus is separated from the frontal lobe by a thin bony wall. Infection can erode through this barrier causing brain abscess. A ring-enhancing frontal lobe lesion in a patient with sinusitis indicates this complication.",
+      "whyWrongByChoice": {
+        "A": "Allergic mediators do not cause intracranial abscesses. This is a direct infectious complication.",
+        "C": "While hematogenous spread can cause brain abscesses, contiguous extension from the infected sinus is most likely here.",
+        "D": "Nasal polyps can predispose to sinusitis but do not directly cause brain abscesses.",
+        "E": "Rhinovirus causes the common cold. It does not cause encephalitis or brain abscesses."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sinusitis-complication", "brain-abscess", "direct-extension", "frontal-sinus"]
+  },
+  {
+    "id": "r16-039",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 30-year-old scuba diver presents with sudden severe maxillary facial pain and bloody nasal discharge during descent on a dive. He has no history of prior sinus disease. Examination on shore reveals maxillary tenderness and blood-tinged mucus. Symptoms resolved partially after surfacing. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Acute bacterial sinusitis"},
+      {"label": "B", "text": "Invasive fungal sinusitis"},
+      {"label": "C", "text": "Barosinusitis"},
+      {"label": "D", "text": "Nasal polyp rupture"},
+      {"label": "E", "text": "Septal perforation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Barosinusitis (sinus barotrauma) occurs when atmospheric pressure changes during diving cause a pressure differential within the sinuses, leading to mucosal damage, pain, and hemorrhage.",
+      "whyCorrect": "During descent, increasing ambient pressure cannot equalize within sinuses if ostia are narrowed, leading to mucosal edema, hemorrhage, and severe facial pain. The maxillary and frontal sinuses are most commonly affected.",
+      "whyWrongByChoice": {
+        "A": "Bacterial sinusitis develops over days with purulent discharge and lacks the acute temporal relationship with pressure changes.",
+        "B": "Invasive fungal sinusitis occurs in immunocompromised patients with progressive destruction, not acute barotrauma.",
+        "D": "Nasal polyps cause chronic gradual obstruction, not acute pain during pressure changes.",
+        "E": "Septal perforation causes crusting and epistaxis but is not triggered by atmospheric pressure changes."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["barosinusitis", "barotrauma", "diving", "atmospheric-pressure"]
+  },
+  {
+    "id": "r16-040",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 58-year-old woman with invasive Aspergillus sinusitis confirmed by biopsy showing septate hyphae branching at 45-degree angles is started on antifungal therapy. Her physician selects an agent with superior efficacy against Aspergillus compared to amphotericin B. Which antifungal is the first-line choice?",
+    "choices": [
+      {"label": "A", "text": "Amphotericin B"},
+      {"label": "B", "text": "Caspofungin"},
+      {"label": "C", "text": "Fluconazole"},
+      {"label": "D", "text": "Posaconazole"},
+      {"label": "E", "text": "Voriconazole"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Voriconazole is the first-line treatment for invasive aspergillosis with superior outcomes compared to amphotericin B.",
+      "whyCorrect": "Voriconazole inhibits fungal ergosterol synthesis and has demonstrated superior efficacy and safety compared to amphotericin B in clinical trials for invasive aspergillosis.",
+      "whyWrongByChoice": {
+        "A": "Amphotericin B was previously standard but has been supplanted by voriconazole. It remains first-line for mucormycosis.",
+        "B": "Caspofungin is salvage therapy for aspergillosis when voriconazole fails. It is not first-line.",
+        "C": "Fluconazole has no clinically meaningful activity against Aspergillus species.",
+        "D": "Posaconazole has Aspergillus activity and is used for prophylaxis and salvage but is not first-line treatment."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["aspergillosis", "voriconazole", "antifungal", "sinusitis"]
+  },
+  {
+    "id": "r16-041",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 6-year-old girl presents with 5 days of unilateral foul-smelling purulent nasal discharge from the right nostril. She has no fever or systemic symptoms. Anterior rhinoscopy reveals erythematous nasal mucosa with purulent discharge on the right side and a normal left nostril. Her mother denies any recent illness. Which is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Acute bacterial sinusitis"},
+      {"label": "B", "text": "Seasonal allergic rhinitis"},
+      {"label": "C", "text": "Congenital choanal atresia"},
+      {"label": "D", "text": "Unilateral nasal polyp"},
+      {"label": "E", "text": "Nasal foreign body"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Unilateral foul-smelling purulent nasal discharge in a young child without systemic symptoms is the classic presentation of a nasal foreign body.",
+      "whyCorrect": "Children frequently insert small objects into their noses, causing local inflammation, obstruction, and secondary infection producing characteristic malodorous unilateral discharge. Removal is the treatment.",
+      "whyWrongByChoice": {
+        "A": "Bacterial sinusitis typically presents bilaterally with facial pain and often follows a viral URI.",
+        "B": "Allergic rhinitis presents with bilateral clear, watery discharge, sneezing, and itching.",
+        "C": "Choanal atresia is congenital, typically diagnosed neonatally, not at age 6 with purulent discharge.",
+        "D": "Nasal polyps are uncommon in children this age unless associated with CF and present with bilateral obstruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["nasal-foreign-body", "pediatric", "unilateral-discharge", "diagnosis"]
+  },
+  {
+    "id": "r16-042",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 55-year-old woman with chronic rhinosinusitis undergoes CT scanning that reveals complete opacification of the right maxillary sinus with an air-fluid level in the left maxillary sinus and mucosal thickening in both ethmoid sinuses. Her physician explains that one finding indicates the most severe disease. Which CT finding is most indicative of severe chronic sinusitis?",
+    "choices": [
+      {"label": "A", "text": "Left maxillary air-fluid level"},
+      {"label": "B", "text": "Right maxillary sinus opacification"},
+      {"label": "C", "text": "Deviated nasal septum"},
+      {"label": "D", "text": "Ethmoid mucosal thickening"},
+      {"label": "E", "text": "Normal frontal sinus aeration"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Sinus opacification — complete filling of a sinus with fluid or inflammatory tissue — is the most severe CT finding in chronic sinusitis, indicating complete obstruction of sinus drainage.",
+      "whyCorrect": "Complete sinus opacification represents the most advanced disease on CT, indicating total obstruction of drainage with no visible air space remaining.",
+      "whyWrongByChoice": {
+        "A": "An air-fluid level indicates partial fluid filling and can be seen in both acute and chronic sinusitis. It is less severe than complete opacification.",
+        "C": "A deviated septum is an anatomic variant that may predispose to sinusitis but is not itself a sign of disease severity.",
+        "D": "Mucosal thickening is common in chronic sinusitis but represents less severe disease than complete opacification.",
+        "E": "Normal frontal sinus aeration indicates those sinuses are unaffected and is a normal finding."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["chronic-sinusitis", "CT-findings", "sinus-opacification", "imaging"]
+  },
+  {
+    "id": "r16-043",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A 34-year-old woman presents with nasal congestion that worsens in cold environments and when exposed to strong perfumes. She denies sneezing, nasal itching, or watery eyes. Skin prick testing is negative for common allergens. Nasal mucosa appears erythematous but not pale or edematous. Her symptoms are not seasonal. Which is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Seasonal allergic rhinitis"},
+      {"label": "B", "text": "Chronic bacterial sinusitis"},
+      {"label": "C", "text": "Nasal polyposis"},
+      {"label": "D", "text": "Nonallergic (vasomotor) rhinitis"},
+      {"label": "E", "text": "Rhinitis medicamentosa"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Nonallergic rhinitis is triggered by cold air, perfumes, and irritants without IgE-mediated hypersensitivity. Negative allergy testing and absence of typical allergic symptoms confirm the diagnosis.",
+      "whyCorrect": "This patient has rhinitis triggered by cold and perfumes with negative allergy testing, consistent with nonallergic (vasomotor) rhinitis. Erythematous rather than pale mucosa and absence of itching and sneezing further support this diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Allergic rhinitis is IgE-mediated with positive allergy testing. Negative skin prick testing and absence of sneezing, itching, and watery eyes argue against this.",
+        "B": "Chronic sinusitis requires symptoms lasting more than 12 weeks with facial pressure and purulent discharge, not irritant-triggered congestion.",
+        "C": "Nasal polyposis presents with progressive bilateral obstruction and hyposmia, not triggered by specific environmental exposures.",
+        "E": "Rhinitis medicamentosa is caused by decongestant spray overuse, which is not reported here."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["nonallergic-rhinitis", "vasomotor-rhinitis", "environmental-triggers", "diagnosis"]
+  },
+  {
+    "id": "r16-044",
+    "topicId": "inflammatory-nasal-sinuses",
+    "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+    "stem": "A physician counsels a patient with allergic rhinitis about treatment options. The patient asks about a medication that prevents mast cell degranulation rather than blocking histamine receptors. The physician explains this agent is rarely used because it requires dosing 3-4 times daily and takes 4-7 days for onset compared to intranasal corticosteroids. Which medication is described?",
+    "choices": [
+      {"label": "A", "text": "Oral cetirizine"},
+      {"label": "B", "text": "Intranasal fluticasone"},
+      {"label": "C", "text": "Cromolyn sodium"},
+      {"label": "D", "text": "Oral montelukast"},
+      {"label": "E", "text": "Topical oxymetazoline"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cromolyn sodium is a mast cell stabilizer that prevents histamine release but is rarely used due to inferior efficacy, slow onset, and frequent dosing compared to intranasal corticosteroids.",
+      "whyCorrect": "Cromolyn stabilizes mast cell membranes and prevents mediator release. Despite this mechanism, it is rarely prescribed because corticosteroids are more effective with faster onset and less frequent dosing.",
+      "whyWrongByChoice": {
+        "A": "Cetirizine is a second-generation antihistamine that blocks H1 receptors, not mast cell degranulation.",
+        "B": "Fluticasone is an intranasal corticosteroid — the first-line therapy being compared to, not the agent described.",
+        "D": "Montelukast is a leukotriene receptor antagonist. It does not prevent mast cell degranulation.",
+        "E": "Oxymetazoline is a topical alpha-adrenergic agonist decongestant with no effect on mast cells."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cromolyn", "mast-cell-stabilizer", "allergic-rhinitis", "pharmacology"]
+  }
+]

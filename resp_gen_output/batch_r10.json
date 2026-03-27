@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "r10-001",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 72-year-old man with a 50-pack-year smoking history presents to the emergency department with worsening dyspnea over 3 days. Vital signs show heart rate 102/min, respiratory rate 26/min, and SpO₂ 83% on room air. ABG reveals pH 7.36, PaCO₂ 48 mmHg, PaO₂ 52 mmHg, HCO₃⁻ 27 mEq/L, with a calculated A-a gradient of 38 mmHg. Which mechanism of hypoxemia is most consistent with these findings?",
+    "choices": [
+      { "label": "A", "text": "Low inspired oxygen tension" },
+      { "label": "B", "text": "Pure alveolar hypoventilation" },
+      { "label": "C", "text": "Ventilation-perfusion mismatch" },
+      { "label": "D", "text": "Right-to-left intracardiac shunt" },
+      { "label": "E", "text": "Isolated diffusion impairment" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This COPD patient has hypoxemia (PaO₂ 52 mmHg) with an elevated A-a gradient (38 mmHg; normal <10-20 mmHg). V/Q mismatch is the most common mechanism of hypoxemia in COPD exacerbations. While some hypoventilation is present (PaCO₂ 48), the elevated A-a gradient indicates V/Q mismatch is the dominant mechanism.",
+      "whyCorrect": "V/Q mismatch is the hallmark mechanism in COPD. Poorly ventilated but perfused alveoli create regions of low V/Q ratio, widening the A-a gradient. The elevated A-a gradient (38 mmHg) confirms a parenchymal cause beyond simple hypoventilation.",
+      "whyWrongByChoice": {
+        "A": "Low inspired oxygen (e.g., high altitude) produces hypoxemia with a normal A-a gradient because the lungs function normally. This patient has an elevated gradient.",
+        "B": "Pure hypoventilation raises PaCO₂ and lowers PaO₂ but keeps the A-a gradient normal. The elevated A-a gradient here rules out pure hypoventilation as the cause.",
+        "D": "Right-to-left shunt produces hypoxemia refractory to supplemental oxygen and a markedly elevated A-a gradient. COPD primarily causes V/Q mismatch rather than true shunt.",
+        "E": "Diffusion impairment elevates the A-a gradient but typically worsens with exercise. It is seen in interstitial lung disease, not as the primary mechanism in COPD."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "V/Q mismatch", "A-a gradient", "COPD", "ABG"]
+  },
+  {
+    "id": "r10-002",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 25-year-old woman is brought to the emergency department after being found unresponsive in a house fire. She is intubated and placed on mechanical ventilation. SpO₂ reads 98% on pulse oximetry, and ABG shows pH 7.30, PaCO₂ 32 mmHg, PaO₂ 95 mmHg, with lactate 8.2 mmol/L. Despite a normal PaO₂, the patient's tissues are severely hypoxic. Which condition best explains these findings?",
+    "choices": [
+      { "label": "A", "text": "Acquired methemoglobinemia" },
+      { "label": "B", "text": "Carbon monoxide inhalation" },
+      { "label": "C", "text": "Cyanide toxicity" },
+      { "label": "D", "text": "Acute hemorrhagic anemia" },
+      { "label": "E", "text": "Ventilation-perfusion mismatch" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In a house fire victim with normal PaO₂ but severe lactic acidosis, cyanide poisoning is the most likely cause of tissue hypoxia. Cyanide inhibits cytochrome c oxidase in the mitochondrial electron transport chain, preventing cells from utilizing oxygen despite adequate delivery.",
+      "whyCorrect": "Cyanide (released from burning synthetic materials) binds cytochrome c oxidase, blocking aerobic metabolism. Oxygen is delivered to tissues but cannot be used, causing histotoxic hypoxia with lactic acidosis. PaO₂ remains normal because the problem is at the cellular level.",
+      "whyWrongByChoice": {
+        "A": "Methemoglobinemia impairs oxygen delivery by converting hemoglobin iron to the ferric state. Pulse oximetry classically reads ~85%, not 98%. While PaO₂ may be normal, the clinical scenario favors cyanide.",
+        "B": "Carbon monoxide displaces oxygen from hemoglobin but causes a falsely normal SpO₂. CO poisoning could coexist, but the severe lactic acidosis with normal PaO₂ best fits cyanide toxicity.",
+        "D": "Severe anemia reduces oxygen-carrying capacity with a normal PaO₂, but there is no history of acute blood loss to explain this presentation in a fire victim.",
+        "E": "V/Q mismatch would lower PaO₂ itself. This patient's PaO₂ is 95 mmHg, ruling out V/Q mismatch as the mechanism of tissue hypoxia."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "tissue hypoxia", "cyanide", "house fire", "lactic acidosis"]
+  },
+  {
+    "id": "r10-003",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 68-year-old woman with a history of heart failure presents to the emergency department with progressive dyspnea. Vital signs show respiratory rate 28/min and SpO₂ 86% on room air. ABG reveals PaO₂ 52 mmHg with an SpO₂ corresponding to the steep portion of the oxyhemoglobin dissociation curve. The physician explains that her PaO₂ has crossed a critical threshold. Which PaO₂ value defines the standard threshold for hypoxemia?",
+    "choices": [
+      { "label": "A", "text": "Less than 90 mmHg" },
+      { "label": "B", "text": "Less than 80 mmHg" },
+      { "label": "C", "text": "Less than 70 mmHg" },
+      { "label": "D", "text": "Less than 60 mmHg" },
+      { "label": "E", "text": "Less than 50 mmHg" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Hypoxemia is defined as PaO₂ <60 mmHg. This threshold corresponds to the steep portion of the oxyhemoglobin dissociation curve, where small further decreases in PaO₂ lead to large drops in oxygen saturation (SpO₂ approximately 90% at PaO₂ 60 mmHg).",
+      "whyCorrect": "PaO₂ <60 mmHg is the standard threshold for hypoxemia. Below this value, the oxyhemoglobin dissociation curve enters its steep portion, and oxygen saturation falls rapidly with small changes in PaO₂.",
+      "whyWrongByChoice": {
+        "A": "PaO₂ <90 mmHg would include many normal individuals, as the normal PaO₂ range extends from 80-100 mmHg and varies with age.",
+        "B": "PaO₂ <80 mmHg is below the normal range but does not meet the formal definition of hypoxemia at 60 mmHg.",
+        "C": "PaO₂ <70 mmHg is below normal but above the 60 mmHg cutoff that defines hypoxemia.",
+        "E": "PaO₂ <50 mmHg represents severe hypoxemia, well below the standard threshold of 60 mmHg used to define the condition."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "definition", "PaO2", "oxyhemoglobin dissociation curve"]
+  },
+  {
+    "id": "r10-004",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 55-year-old man with severe community-acquired pneumonia has the following ABG on room air: pH 7.48, PaCO₂ 30 mmHg, PaO₂ 55 mmHg. Chest X-ray shows right lower lobe consolidation. Using the simplified alveolar gas equation (PAO₂ = 150 − PaCO₂/0.8), the A-a gradient is calculated. What is the approximate A-a gradient?",
+    "choices": [
+      { "label": "A", "text": "7.5 mmHg" },
+      { "label": "B", "text": "20.0 mmHg" },
+      { "label": "C", "text": "37.5 mmHg" },
+      { "label": "D", "text": "57.5 mmHg" },
+      { "label": "E", "text": "95.0 mmHg" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "PAO₂ = 150 − (30/0.8) = 150 − 37.5 = 112.5 mmHg. A-a gradient = PAO₂ − PaO₂ = 112.5 − 55 = 57.5 mmHg. This is markedly elevated (normal <10-20 mmHg), consistent with severe pneumonia causing V/Q mismatch and intrapulmonary shunting.",
+      "whyCorrect": "Using the alveolar gas equation: PAO₂ = 150 − (PaCO₂/0.8) = 150 − (30/0.8) = 150 − 37.5 = 112.5 mmHg. The A-a gradient = 112.5 − 55 = 57.5 mmHg. This markedly elevated gradient indicates significant intrapulmonary pathology.",
+      "whyWrongByChoice": {
+        "A": "An A-a gradient of 7.5 mmHg would be normal and is inconsistent with the severe hypoxemia from pneumonia.",
+        "B": "An A-a gradient of 20 mmHg is at the upper limit of normal and does not match the calculation yielding 57.5 mmHg.",
+        "C": "37.5 mmHg is the value of PaCO₂/0.8, which is an intermediate step in the calculation, not the final A-a gradient.",
+        "E": "95 mmHg is incorrect and might result from subtracting PaO₂ from 150 without accounting for the CO₂ correction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "A-a gradient", "alveolar gas equation", "calculation", "pneumonia"]
+  },
+  {
+    "id": "r10-005",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 30-year-old woman with Eisenmenger syndrome secondary to a ventricular septal defect presents with exertional dyspnea and SpO₂ 82% on room air. She is placed on 100% FiO₂ by non-rebreather mask for 20 minutes. Repeat ABG shows PaO₂ 58 mmHg with no significant improvement. Which mechanism of hypoxemia best explains this oxygen-refractory pattern?",
+    "choices": [
+      { "label": "A", "text": "Ventilation-perfusion mismatch" },
+      { "label": "B", "text": "Alveolar diffusion impairment" },
+      { "label": "C", "text": "Central alveolar hypoventilation" },
+      { "label": "D", "text": "Right-to-left cardiac shunt" },
+      { "label": "E", "text": "Reduced inspired oxygen tension" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Right-to-left shunt is the only mechanism of hypoxemia that does not significantly improve with supplemental oxygen. In Eisenmenger syndrome, reversal of flow through the VSD creates right-to-left shunting, mixing deoxygenated blood directly into systemic circulation.",
+      "whyCorrect": "In right-to-left shunt, deoxygenated blood bypasses ventilated alveoli entirely. Since the shunted blood never contacts alveolar gas, increasing FiO₂ has no effect on it. This oxygen-refractory hypoxemia is the hallmark of shunt physiology.",
+      "whyWrongByChoice": {
+        "A": "V/Q mismatch responds well to supplemental oxygen because increasing alveolar PO₂ in low-V/Q units improves oxygen uptake. This patient's failure to respond argues against V/Q mismatch.",
+        "B": "Diffusion impairment responds to supplemental oxygen because increasing the alveolar-capillary PO₂ gradient enhances diffusion even across a thickened membrane.",
+        "C": "Hypoventilation-induced hypoxemia improves with supplemental oxygen because increasing FiO₂ raises alveolar PO₂ even when ventilation is reduced.",
+        "E": "Low inspired oxygen (e.g., high altitude) is corrected by providing supplemental oxygen, which directly addresses the reduced input oxygen."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "right-to-left shunt", "Eisenmenger", "supplemental oxygen", "refractory hypoxemia"]
+  },
+  {
+    "id": "r10-006",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 40-year-old man presents to the emergency department with progressive dyspnea. Examination reveals bluish discoloration of the lips and fingertips. His hemoglobin is 15 g/dL and SpO₂ is 80%. The attending explains that cyanosis becomes visible once capillary deoxyhemoglobin reaches a specific absolute concentration. What is this minimum deoxyhemoglobin threshold?",
+    "choices": [
+      { "label": "A", "text": "Approximately 1 g/dL" },
+      { "label": "B", "text": "Approximately 3 g/dL" },
+      { "label": "C", "text": "Approximately 5 g/dL" },
+      { "label": "D", "text": "Approximately 7 g/dL" },
+      { "label": "E", "text": "Approximately 10 g/dL" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cyanosis becomes clinically visible when the concentration of deoxyhemoglobin in capillary blood reaches approximately 5 g/dL. This is an absolute concentration, not a percentage, which is why severely anemic patients may never appear cyanotic despite significant hypoxemia.",
+      "whyCorrect": "Central cyanosis requires approximately 5 g/dL of deoxyhemoglobin in the capillary bed. At this concentration, enough deoxygenated hemoglobin is present to produce the characteristic bluish discoloration of skin and mucous membranes.",
+      "whyWrongByChoice": {
+        "A": "1 g/dL of deoxyhemoglobin is insufficient to produce visible cyanosis. Most individuals have some deoxyhemoglobin without appearing cyanotic.",
+        "B": "3 g/dL of deoxyhemoglobin is below the threshold needed for visible cyanosis, which requires approximately 5 g/dL.",
+        "D": "7 g/dL of deoxyhemoglobin would indicate severe desaturation but exceeds the minimum threshold. Cyanosis appears well before this level.",
+        "E": "10 g/dL of deoxyhemoglobin would represent life-threatening desaturation and far exceeds the 5 g/dL threshold."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "cyanosis", "deoxyhemoglobin", "physical exam"]
+  },
+  {
+    "id": "r10-007",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A group of hikers ascends to 4,500 meters elevation. One 32-year-old male hiker develops headache, dizziness, and confusion. ABG shows pH 7.47, PaCO₂ 28 mmHg, PaO₂ 45 mmHg, with a calculated A-a gradient of 8 mmHg. The respiratory alkalosis reflects appropriate hyperventilation in response to his condition. Which finding best characterizes this hypoxemia?",
+    "choices": [
+      { "label": "A", "text": "Elevated gradient from embolism" },
+      { "label": "B", "text": "Normal gradient from diffusion impairment" },
+      { "label": "C", "text": "Elevated gradient from V/Q mismatch" },
+      { "label": "D", "text": "Normal gradient from reduced inspired oxygen" },
+      { "label": "E", "text": "Elevated gradient from intrapulmonary shunt" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "At high altitude, reduced barometric pressure lowers the partial pressure of inspired oxygen. This produces hypoxemia with a normal A-a gradient (8 mmHg) because the lungs are functioning normally. The respiratory alkalosis reflects appropriate hyperventilation in response to hypoxemia.",
+      "whyCorrect": "Low inspired oxygen at high altitude reduces PAO₂ and PaO₂, but the lungs transfer oxygen normally. Therefore, the A-a gradient remains normal (<10-20 mmHg), confirming normal gas exchange with reduced input oxygen.",
+      "whyWrongByChoice": {
+        "A": "Pulmonary embolism causes V/Q mismatch and dead space, producing an elevated A-a gradient. This patient's A-a gradient is normal at 8 mmHg.",
+        "B": "Diffusion impairment elevates the A-a gradient because the alveolar-capillary barrier is abnormal. A normal A-a gradient excludes this mechanism.",
+        "C": "V/Q mismatch would elevate the A-a gradient above normal. The normal gradient indicates the lungs are exchanging gas normally.",
+        "E": "Intrapulmonary shunt produces a markedly elevated A-a gradient. The normal gradient in this patient rules out shunt."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "high altitude", "low FiO2", "A-a gradient", "normal gradient"]
+  },
+  {
+    "id": "r10-008",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 60-year-old woman with idiopathic pulmonary fibrosis reports progressive dyspnea on exertion over 6 months. Physical examination reveals bibasilar fine crackles. Resting SpO₂ is 94%, but during a 6-minute walk test, SpO₂ drops to 82%. The patient's resting oxygenation is relatively preserved. Which mechanism primarily accounts for the exercise-induced desaturation?",
+    "choices": [
+      { "label": "A", "text": "Increased dead space ventilation" },
+      { "label": "B", "text": "Decreased resting cardiac output" },
+      { "label": "C", "text": "Progressive respiratory muscle fatigue" },
+      { "label": "D", "text": "Exercise-induced bronchospasm" },
+      { "label": "E", "text": "Impaired alveolar gas diffusion" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In pulmonary fibrosis, interstitial thickening impairs gas diffusion across the alveolar-capillary membrane. At rest, transit time through pulmonary capillaries is sufficient for equilibration. During exercise, increased cardiac output shortens capillary transit time, unmasking the diffusion limitation.",
+      "whyCorrect": "Diffusion impairment in pulmonary fibrosis is compensated at rest because normal capillary transit time (~0.75 seconds) provides enough time for gas exchange even across a thickened membrane. Exercise increases cardiac output, reducing transit time, and the thickened interstitium cannot equilibrate fast enough.",
+      "whyWrongByChoice": {
+        "A": "Increased dead space ventilation primarily affects CO₂ elimination. The hallmark of exercise-induced desaturation in pulmonary fibrosis is diffusion limitation.",
+        "B": "Cardiac output actually increases during exercise, which is part of the problem. Decreased cardiac output would cause a different clinical picture.",
+        "C": "Respiratory muscle fatigue occurs in neuromuscular disease but is not the primary mechanism of exercise-induced desaturation in pulmonary fibrosis.",
+        "D": "Bronchospasm is characteristic of asthma and causes airway obstruction, not the pattern seen in interstitial lung disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "diffusion impairment", "pulmonary fibrosis", "exercise desaturation"]
+  },
+  {
+    "id": "r10-009",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 35-year-old man with severe iron-deficiency anemia (hemoglobin 5 g/dL) presents with resting tachycardia and exertional dyspnea. ABG shows PaO₂ 92 mmHg and SpO₂ 97%. Despite these normal values, the patient has signs of tissue hypoxia including elevated lactate. Which finding best explains his tissue hypoxia without hypoxemia?",
+    "choices": [
+      { "label": "A", "text": "Reduced oxygen-carrying capacity" },
+      { "label": "B", "text": "Decreased dissolved plasma oxygen" },
+      { "label": "C", "text": "Intracardiac right-to-left shunt" },
+      { "label": "D", "text": "Alveolar ventilation-perfusion mismatch" },
+      { "label": "E", "text": "Impaired alveolar membrane diffusion" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Hypoxemia (low PaO₂) and tissue hypoxia (inadequate oxygen delivery) are distinct. With severe anemia, PaO₂ and SpO₂ are normal because dissolved oxygen and hemoglobin saturation percentages are unaffected. However, total oxygen content is severely reduced due to low hemoglobin.",
+      "whyCorrect": "Severe anemia reduces total oxygen-carrying capacity because oxygen content depends on hemoglobin concentration. At Hb 5 g/dL, even fully saturated hemoglobin carries far less total oxygen. PaO₂ reflects dissolved oxygen only and remains normal.",
+      "whyWrongByChoice": {
+        "B": "Dissolved oxygen accounts for only ~2% of total oxygen content and is normal in this patient (PaO₂ 92 mmHg). Its contribution is negligible.",
+        "C": "Right-to-left shunt would lower PaO₂ by mixing deoxygenated blood into arterial blood. This patient's PaO₂ is normal at 92 mmHg.",
+        "D": "V/Q mismatch would lower PaO₂ and widen the A-a gradient. This patient has a normal PaO₂.",
+        "E": "Impaired diffusion would lower PaO₂ and elevate the A-a gradient. The normal PaO₂ rules out a diffusion defect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "tissue hypoxia", "anemia", "oxygen content", "oxygen delivery"]
+  },
+  {
+    "id": "r10-010",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 68-year-old man with COPD and chronic hypoxemia is noted to have digital clubbing on examination. He also has cyanosis of the lips and nail beds, with SpO₂ of 84%. The physician explains that one of his clinical findings requires an absolute concentration of deoxyhemoglobin rather than a percentage of desaturation. Which finding depends on this absolute threshold?",
+    "choices": [
+      { "label": "A", "text": "Digital clubbing" },
+      { "label": "B", "text": "Exertional dyspnea" },
+      { "label": "C", "text": "Altered mental status" },
+      { "label": "D", "text": "Frontal headache" },
+      { "label": "E", "text": "Peripheral cyanosis" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Cyanosis requires an absolute concentration of deoxyhemoglobin of approximately 5 g/dL in capillary blood to become visible. Patients with polycythemia may become cyanotic at higher SpO₂ values, while severely anemic patients may never manifest cyanosis despite profound hypoxemia.",
+      "whyCorrect": "Cyanosis depends on the absolute amount of deoxyhemoglobin (~5 g/dL), not a percentage. An anemic patient may not appear cyanotic even with severe desaturation, while a polycythemic patient may appear cyanotic at higher SpO₂.",
+      "whyWrongByChoice": {
+        "A": "Clubbing is a chronic structural change associated with chronic hypoxemia and other conditions. It does not depend on an absolute deoxyhemoglobin concentration.",
+        "B": "Dyspnea is triggered by multiple pathways including chemoreceptor stimulation, not by a specific deoxyhemoglobin concentration.",
+        "C": "Altered mental status occurs from cerebral hypoxia related to PaO₂ and oxygen delivery, not specifically to absolute deoxyhemoglobin levels.",
+        "D": "Headache from hypoxemia results from cerebral vasodilation related to the degree of hypoxemia, not to the absolute deoxyhemoglobin level."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "cyanosis", "deoxyhemoglobin", "clinical signs", "clubbing"]
+  },
+  {
+    "id": "r10-011",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 50-year-old obese man (BMI 42) is referred for evaluation of daytime somnolence. ABG on room air shows PaO₂ 55 mmHg and PaCO₂ 55 mmHg, with a calculated A-a gradient of 13 mmHg. He is placed on 2 L/min nasal cannula, and repeat ABG shows PaO₂ 72 mmHg. Chest X-ray is unremarkable. Which diagnosis is most consistent with these findings?",
+    "choices": [
+      { "label": "A", "text": "Acute pulmonary embolism" },
+      { "label": "B", "text": "Idiopathic pulmonary fibrosis" },
+      { "label": "C", "text": "Eisenmenger cardiac shunt" },
+      { "label": "D", "text": "Obesity hypoventilation syndrome" },
+      { "label": "E", "text": "Community-acquired pneumonia" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Obesity hypoventilation syndrome causes hypoxemia through hypoventilation, producing elevated PaCO₂ with a relatively normal A-a gradient. The near-normal gradient (13 mmHg) suggests the lungs function relatively normally. Supplemental oxygen improves the hypoxemia by overcoming the reduced alveolar PO₂.",
+      "whyCorrect": "Obesity hypoventilation syndrome produces chronic hypercapnia and hypoxemia from reduced alveolar ventilation. The normal A-a gradient confirms preserved gas exchange. The triad of obesity, hypercapnia, and near-normal A-a gradient is characteristic.",
+      "whyWrongByChoice": {
+        "A": "Pulmonary embolism causes V/Q mismatch with a markedly elevated A-a gradient. The near-normal gradient of 13 mmHg makes PE unlikely.",
+        "B": "Pulmonary fibrosis causes diffusion impairment and V/Q mismatch with an elevated A-a gradient. The near-normal gradient argues against this.",
+        "C": "Eisenmenger syndrome causes right-to-left shunt with a markedly elevated A-a gradient and hypoxemia refractory to supplemental oxygen. This patient improved with O₂.",
+        "E": "Pneumonia causes V/Q mismatch with an elevated A-a gradient, along with fever and pulmonary infiltrates. Neither is present here."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "hypoventilation", "obesity", "A-a gradient", "normal gradient"]
+  },
+  {
+    "id": "r10-012",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 42-year-old woman with systemic lupus erythematosus presents with acute dyspnea and pleuritic chest pain. ABG on room air shows pH 7.48, PaCO₂ 28 mmHg, PaO₂ 62 mmHg, with a calculated A-a gradient of 53 mmHg. She is placed on 100% oxygen by non-rebreather mask, and repeat PaO₂ rises to 350 mmHg. Which mechanism of hypoxemia is most likely?",
+    "choices": [
+      { "label": "A", "text": "Intracardiac right-to-left shunt" },
+      { "label": "B", "text": "Ventilation-perfusion mismatch" },
+      { "label": "C", "text": "Reduced inspired oxygen tension" },
+      { "label": "D", "text": "Alveolar hypoventilation alone" },
+      { "label": "E", "text": "Intrapulmonary shunt from ARDS" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The elevated A-a gradient (53 mmHg) with dramatic improvement on 100% oxygen is characteristic of V/Q mismatch, most likely from pulmonary embolism in a patient with SLE (a hypercoagulable state). V/Q mismatch responds to supplemental oxygen because low-V/Q units still receive some ventilation.",
+      "whyCorrect": "V/Q mismatch produces an elevated A-a gradient that corrects with supplemental oxygen. In low V/Q regions, alveolar PO₂ is reduced but not zero. Increasing FiO₂ raises alveolar PO₂ in these units. The significant rise to PaO₂ 350 mmHg confirms V/Q mismatch rather than true shunt.",
+      "whyWrongByChoice": {
+        "A": "Intracardiac shunt would not respond to 100% oxygen because shunted blood never contacts alveolar gas. The dramatic improvement rules out significant shunt.",
+        "C": "Low inspired oxygen produces a normal A-a gradient. The elevated gradient of 53 mmHg rules out this mechanism.",
+        "D": "Alveolar hypoventilation produces a normal A-a gradient. This patient's gradient is markedly elevated, excluding pure hypoventilation.",
+        "E": "Intrapulmonary shunt from ARDS involves perfusion of unventilated alveoli and would not correct significantly with 100% O₂."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "V/Q mismatch", "pulmonary embolism", "supplemental oxygen", "SLE"]
+  },
+  {
+    "id": "r10-013",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 3-day-old neonate has persistent SpO₂ of 78% despite being placed on 100% FiO₂. The infant appears dusky and tachypneic. Echocardiography reveals transposition of the great arteries with an intact ventricular septum. The neonatologist explains that one feature is most useful in distinguishing this mechanism of hypoxemia from others. Which feature is it?",
+    "choices": [
+      { "label": "A", "text": "Presence of tachypnea" },
+      { "label": "B", "text": "Normal chest radiograph findings" },
+      { "label": "C", "text": "Elevated arterial PaCO₂" },
+      { "label": "D", "text": "Low hemoglobin concentration" },
+      { "label": "E", "text": "Failure to improve with oxygen" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The hallmark of right-to-left shunt is that hypoxemia does not improve with supplemental oxygen, including 100% FiO₂. Shunted blood bypasses ventilated alveoli entirely, so increasing FiO₂ cannot oxygenate it. All other causes of hypoxemia respond at least partially to supplemental oxygen.",
+      "whyCorrect": "In right-to-left shunt (as in transposition of the great arteries), deoxygenated blood bypasses the lungs. Since this blood never encounters alveolar gas, increasing FiO₂ has no effect. This oxygen-refractory hypoxemia is the classic distinguishing feature.",
+      "whyWrongByChoice": {
+        "A": "Tachypnea can occur with any cause of hypoxemia and many other neonatal conditions. It is not specific to shunt physiology.",
+        "B": "A normal chest radiograph can be seen with various causes of hypoxemia and is not specific to shunt.",
+        "C": "PaCO₂ is often normal or low in right-to-left shunt because CO₂ is much more diffusible and efficiently eliminated by the non-shunted lung.",
+        "D": "Hemoglobin level is unrelated to the mechanism of hypoxemia from shunt. Anemia is a separate cause of reduced oxygen delivery."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "right-to-left shunt", "congenital heart disease", "hyperoxia test", "neonate"]
+  },
+  {
+    "id": "r10-014",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 52-year-old woman with newly diagnosed interstitial lung disease has an ABG showing PaO₂ 58 mmHg on room air. Her pulmonologist discusses the five major mechanisms of hypoxemia and explains that each is classified by its effect on the A-a gradient. The patient asks which mechanism matches her condition. Which pairing of mechanism and A-a gradient status is correct?",
+    "choices": [
+      { "label": "A", "text": "V/Q mismatch — normal gradient" },
+      { "label": "B", "text": "Right-to-left shunt — normal gradient" },
+      { "label": "C", "text": "Hypoventilation — elevated gradient" },
+      { "label": "D", "text": "Low inspired O₂ — elevated gradient" },
+      { "label": "E", "text": "Diffusion impairment — elevated gradient" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The five mechanisms of hypoxemia are divided by A-a gradient. Normal A-a gradient: low inspired O₂ and hypoventilation. Elevated A-a gradient: V/Q mismatch, right-to-left shunt, and diffusion impairment. Diffusion impairment in interstitial lung disease correctly has an elevated gradient.",
+      "whyCorrect": "Diffusion impairment prevents complete equilibration of oxygen across the alveolar-capillary membrane. Alveolar PO₂ remains normal, but arterial PO₂ falls below expected, widening the A-a gradient.",
+      "whyWrongByChoice": {
+        "A": "V/Q mismatch produces an elevated A-a gradient, not a normal one. Poorly ventilated units cannot fully oxygenate blood.",
+        "B": "Right-to-left shunt produces a markedly elevated A-a gradient. Shunted deoxygenated blood lowers PaO₂ while PAO₂ remains normal.",
+        "C": "Hypoventilation produces a normal A-a gradient. Both PAO₂ and PaO₂ fall proportionally because the lungs function normally.",
+        "D": "Low inspired O₂ produces a normal A-a gradient because the lungs exchange gas normally with reduced input oxygen."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "A-a gradient", "mechanisms", "classification"]
+  },
+  {
+    "id": "r10-015",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 70-year-old man with severe kyphoscoliosis presents with morning headaches and daytime somnolence. ABG shows pH 7.34, PaCO₂ 58 mmHg, PaO₂ 52 mmHg, HCO₃⁻ 31 mEq/L, with a calculated A-a gradient of 12 mmHg. He is started on 2 L/min nasal cannula and his PaO₂ improves to 68 mmHg. What is the primary mechanism of his hypoxemia?",
+    "choices": [
+      { "label": "A", "text": "Alveolar hypoventilation" },
+      { "label": "B", "text": "V/Q mismatch from atelectasis" },
+      { "label": "C", "text": "Diffusion impairment from fibrosis" },
+      { "label": "D", "text": "Right-to-left cardiac shunt" },
+      { "label": "E", "text": "Intrapulmonary shunt from pneumonia" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient with kyphoscoliosis has chronic hypoventilation evidenced by elevated PaCO₂ with metabolic compensation (elevated HCO₃⁻). The normal A-a gradient confirms the lungs exchange gas normally and hypoxemia results from reduced alveolar ventilation. Supplemental O₂ improves PaO₂ by raising alveolar PO₂.",
+      "whyCorrect": "Kyphoscoliosis restricts chest wall movement, reducing tidal volume and alveolar ventilation. This raises PaCO₂ and proportionally lowers PAO₂ and PaO₂. The normal A-a gradient confirms intact gas exchange, and elevated HCO₃⁻ indicates chronic compensation.",
+      "whyWrongByChoice": {
+        "B": "V/Q mismatch from atelectasis would produce an elevated A-a gradient. This patient's gradient is normal at 12 mmHg.",
+        "C": "Diffusion impairment would produce an elevated A-a gradient and is associated with interstitial lung disease, not chest wall deformity.",
+        "D": "Right-to-left shunt would produce a markedly elevated A-a gradient and hypoxemia refractory to supplemental oxygen. Neither is present.",
+        "E": "Intrapulmonary shunt from pneumonia would produce an elevated A-a gradient with fever and infiltrates. The normal gradient excludes this."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "hypoventilation", "kyphoscoliosis", "A-a gradient", "chest wall"]
+  },
+  {
+    "id": "r10-016",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 28-year-old woman with a large atrial septal defect and right-to-left shunting confirmed by bubble echocardiography has PaO₂ 54 mmHg on room air with an A-a gradient of 55 mmHg. She is placed on 100% FiO₂ and repeat PaO₂ is only 62 mmHg. What is the expected change in A-a gradient when a patient with right-to-left shunt breathes 100% oxygen?",
+    "choices": [
+      { "label": "A", "text": "Gradient normalizes completely" },
+      { "label": "B", "text": "Gradient decreases slightly" },
+      { "label": "C", "text": "Gradient stays unchanged" },
+      { "label": "D", "text": "Gradient increases substantially" },
+      { "label": "E", "text": "Gradient becomes uncalculable" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "When a patient with right-to-left shunt breathes 100% oxygen, PAO₂ rises dramatically (to ~660 mmHg), but PaO₂ barely changes because shunted blood remains deoxygenated. The difference widens substantially, causing the A-a gradient to increase markedly.",
+      "whyCorrect": "On 100% FiO₂, PAO₂ rises to approximately 660 mmHg. Since shunted blood bypasses alveoli and remains deoxygenated, PaO₂ rises minimally. The A-a gradient therefore increases from 55 mmHg to several hundred mmHg, a hallmark of shunt physiology.",
+      "whyWrongByChoice": {
+        "A": "Normalization of the gradient would suggest V/Q mismatch or another responsive mechanism, not true shunt.",
+        "B": "A slight decrease is unexpected. PAO₂ rises substantially on 100% O₂ while PaO₂ hardly moves, widening the gap.",
+        "C": "The gradient does not remain unchanged because PAO₂ rises substantially on 100% O₂ while PaO₂ barely increases.",
+        "E": "The A-a gradient can be calculated at any FiO₂ using the alveolar gas equation. The calculation remains valid with FiO₂ = 1.0."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "right-to-left shunt", "A-a gradient", "100% FiO2", "ASD"]
+  },
+  {
+    "id": "r10-017",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 45-year-old man with a history of heroin use is found unresponsive with a respiratory rate of 6/min. ABG shows pH 7.22, PaCO₂ 72 mmHg, PaO₂ 48 mmHg, HCO₃⁻ 28 mEq/L, with a calculated A-a gradient of 12 mmHg. Pupils are pinpoint bilaterally. Which intervention is the most appropriate initial step?",
+    "choices": [
+      { "label": "A", "text": "Endotracheal intubation first" },
+      { "label": "B", "text": "Emergent chest tube placement" },
+      { "label": "C", "text": "High-flow supplemental oxygen" },
+      { "label": "D", "text": "Nebulized albuterol treatment" },
+      { "label": "E", "text": "Intravenous naloxone administration" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This patient has acute hypoventilation (PaCO₂ 72, normal A-a gradient) from opioid overdose (heroin use, depressed respiratory rate, pinpoint pupils). The most appropriate initial intervention is naloxone, an opioid receptor antagonist that rapidly reverses respiratory depression.",
+      "whyCorrect": "Naloxone is a competitive opioid receptor antagonist that rapidly reverses opioid-induced respiratory depression. In suspected opioid overdose with hypoventilation, it is the first-line intervention because it treats the underlying cause directly.",
+      "whyWrongByChoice": {
+        "A": "Intubation is appropriate if naloxone fails, but it is more invasive and should not be the first intervention when a rapidly reversible cause is suspected.",
+        "B": "Chest tube placement is for pneumothorax or pleural effusion. There is no indication of either in this scenario.",
+        "C": "Supplemental oxygen would raise PaO₂ but would not address the respiratory depression or hypercapnia. The patient needs improved ventilation.",
+        "D": "Albuterol treats bronchospasm and is not indicated for opioid-induced central hypoventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "hypoventilation", "opioid overdose", "naloxone", "management"]
+  },
+  {
+    "id": "r10-018",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "An 80-year-old woman with polycythemia vera (hemoglobin 19 g/dL) is noted to have cyanosis of her lips and fingertips during a routine visit. SpO₂ is 91% and PaO₂ is 72 mmHg. She is hemodynamically stable and reports no distress. Which finding best explains her visible cyanosis despite relatively preserved oxygenation?",
+    "choices": [
+      { "label": "A", "text": "Pulse oximetry unreliable in polycythemia" },
+      { "label": "B", "text": "Higher hemoglobin reaches deoxyhemoglobin threshold sooner" },
+      { "label": "C", "text": "Polycythemia shifts dissociation curve rightward" },
+      { "label": "D", "text": "Blood viscosity impairs oximetry accuracy" },
+      { "label": "E", "text": "Concurrent methemoglobinemia present" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Cyanosis requires approximately 5 g/dL of deoxyhemoglobin. With hemoglobin 19 g/dL, even modest desaturation produces a large absolute amount of deoxyhemoglobin. At the capillary level, tissue oxygen extraction further increases the deoxyhemoglobin fraction, so polycythemic patients develop visible cyanosis at higher SpO₂ values.",
+      "whyCorrect": "With hemoglobin 19 g/dL, even at SpO₂ 91%, the absolute deoxyhemoglobin in capillary blood (after tissue extraction) easily reaches the 5 g/dL threshold for visible cyanosis. Polycythemic patients appear cyanotic at higher saturations than those with normal hemoglobin.",
+      "whyWrongByChoice": {
+        "A": "Pulse oximetry is generally reliable in polycythemia. The cyanosis is real, not an artifact of measurement error.",
+        "C": "Polycythemia vera itself does not inherently shift the oxyhemoglobin dissociation curve. Shifts depend on pH, temperature, and 2,3-DPG.",
+        "D": "While increased viscosity can affect peripheral perfusion, pulse oximetry accuracy is not the explanation. The cyanosis is genuine.",
+        "E": "Methemoglobinemia is a separate condition not caused by polycythemia vera. There is no clinical indication of elevated methemoglobin."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "cyanosis", "polycythemia", "deoxyhemoglobin", "physical exam"]
+  },
+  {
+    "id": "r10-019",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 55-year-old man with ARDS is mechanically ventilated with FiO₂ 0.60 and PEEP 10 cm H₂O. ABG shows PaO₂ 68 mmHg and PaCO₂ 40 mmHg. The PaO₂/FiO₂ ratio is calculated to classify the severity of his condition. Which Berlin definition category does this ratio indicate?",
+    "choices": [
+      { "label": "A", "text": "No ARDS present" },
+      { "label": "B", "text": "Mild ARDS severity" },
+      { "label": "C", "text": "Moderate ARDS severity" },
+      { "label": "D", "text": "Severe ARDS severity" },
+      { "label": "E", "text": "Ratio invalid on ventilator" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "PaO₂/FiO₂ = 68/0.60 = 113. Per the Berlin definition: mild = 200-300, moderate = 100-200, severe = <100. A ratio of 113 falls in the moderate range.",
+      "whyCorrect": "The P/F ratio of 113 falls within the moderate ARDS range (100-200) per the Berlin definition. This classification system uses PaO₂/FiO₂ with a minimum PEEP of 5 cm H₂O to stratify ARDS severity.",
+      "whyWrongByChoice": {
+        "A": "A P/F ratio >300 would indicate no ARDS. This patient's ratio is 113, well below that threshold.",
+        "B": "Mild ARDS is defined as P/F ratio 200-300. A ratio of 113 is below the mild cutoff.",
+        "D": "Severe ARDS requires P/F ratio <100. This patient's ratio of 113 is above the severe threshold.",
+        "E": "The PaO₂/FiO₂ ratio is specifically designed for use in mechanically ventilated patients. The Berlin criteria require minimum PEEP of 5 cm H₂O."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypoxemia", "ARDS", "P/F ratio", "Berlin criteria", "severity"]
+  },
+  {
+    "id": "r10-020",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 62-year-old woman with a massive pulmonary embolism has PaO₂ 50 mmHg on room air. She is placed on 4 L/min nasal cannula, and repeat PaO₂ improves to 78 mmHg. A medical student asks why supplemental oxygen corrects V/Q mismatch but not true shunt. Which explanation is most accurate?",
+    "choices": [
+      { "label": "A", "text": "Mismatched units still receive some ventilation" },
+      { "label": "B", "text": "Supplemental oxygen increases cardiac output" },
+      { "label": "C", "text": "Oxygen dilates pulmonary arterioles" },
+      { "label": "D", "text": "V/Q mismatch involves diffusion impairment" },
+      { "label": "E", "text": "Oxygen directly corrects metabolic acidosis" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In V/Q mismatch, lung units with low V/Q ratios still receive some ventilation. Increasing FiO₂ raises the alveolar PO₂ in these partially ventilated units, improving oxygen uptake. In true shunt, blood completely bypasses ventilated alveoli, so supplemental oxygen cannot reach the shunted blood.",
+      "whyCorrect": "The key distinction is that V/Q mismatch involves units with reduced but nonzero ventilation. Supplemental oxygen increases the PO₂ of inspired gas reaching these hypoventilated units. In contrast, shunted blood has zero contact with alveolar gas.",
+      "whyWrongByChoice": {
+        "B": "Supplemental oxygen does not significantly increase cardiac output. High FiO₂ can cause mild vasoconstriction and slightly decrease cardiac output.",
+        "C": "Oxygen causes pulmonary vasoconstriction, not vasodilation. Hypoxia triggers hypoxic pulmonary vasoconstriction.",
+        "D": "V/Q mismatch and diffusion impairment are separate mechanisms. The benefit in V/Q mismatch comes from enriching alveolar gas in low-V/Q units.",
+        "E": "Supplemental oxygen does not directly correct metabolic acidosis. Acidosis correction requires treating the underlying cause."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "V/Q mismatch", "shunt", "supplemental oxygen", "mechanism"]
+  },
+  {
+    "id": "r10-021",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 38-year-old asymptomatic man undergoes preoperative evaluation. ABG on room air shows PaO₂ 58 mmHg, PaCO₂ 38 mmHg, with an A-a gradient of 24 mmHg. Chest X-ray is normal. Echocardiography with agitated saline shows late appearance of bubbles in the left atrium after 3-5 cardiac cycles. Which diagnosis is most likely?",
+    "choices": [
+      { "label": "A", "text": "Patent foramen ovale" },
+      { "label": "B", "text": "Pulmonary arteriovenous malformation" },
+      { "label": "C", "text": "Ventricular septal defect" },
+      { "label": "D", "text": "Secundum atrial septal defect" },
+      { "label": "E", "text": "Anomalous pulmonary venous return" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Late appearance of bubbles in the left atrium (after 3-5 cardiac cycles) indicates an intrapulmonary shunt, most commonly a pulmonary arteriovenous malformation. In intracardiac shunts, bubbles appear within 1-3 cardiac cycles because the communication is at the heart level.",
+      "whyCorrect": "Pulmonary AVMs create direct connections between pulmonary arteries and veins, bypassing the capillary bed. Agitated saline reaches the left atrium after traversing the pulmonary circulation (3-5 beats), distinguishing it from intracardiac shunts (1-3 beats).",
+      "whyWrongByChoice": {
+        "A": "Patent foramen ovale is an intracardiac shunt where bubbles cross directly from right to left atrium, appearing within 1-3 cardiac cycles.",
+        "C": "Ventricular septal defect is an intracardiac shunt with early bubble appearance. Most VSDs produce left-to-right shunting unless Eisenmenger physiology develops.",
+        "D": "Atrial septal defect typically produces left-to-right shunting. If right-to-left shunting occurs, bubbles appear within 1-3 cycles.",
+        "E": "Anomalous pulmonary venous return involves pulmonary veins draining to the right heart, causing left-to-right shunting rather than right-to-left shunting."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "intrapulmonary shunt", "pulmonary AVM", "bubble study", "echocardiography"]
+  },
+  {
+    "id": "r10-022",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 65-year-old woman with COPD and chronic hypoxemia (resting PaO₂ 52 mmHg on room air) is evaluated for long-term oxygen therapy. Supplemental oxygen at 2 L/min raises her PaO₂ to 65 mmHg. She also has evidence of right heart strain on echocardiography. Which is the primary goal of long-term oxygen therapy for this patient?",
+    "choices": [
+      { "label": "A", "text": "Reduce pulmonary hypertension and mortality" },
+      { "label": "B", "text": "Improve exercise tolerance only" },
+      { "label": "C", "text": "Eliminate all dyspnea symptoms" },
+      { "label": "D", "text": "Reverse airflow obstruction" },
+      { "label": "E", "text": "Prevent acute COPD exacerbations" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Long-term oxygen therapy (>15 hours/day) in COPD patients with chronic hypoxemia has been shown to improve survival. The mechanism involves reducing hypoxic pulmonary vasoconstriction, thereby lowering pulmonary artery pressures and right heart strain.",
+      "whyCorrect": "The NOTT and MRC trials demonstrated that continuous oxygen therapy reduces mortality in COPD with chronic hypoxemia. The benefit is primarily mediated through reduction of pulmonary hypertension from chronic hypoxic vasoconstriction.",
+      "whyWrongByChoice": {
+        "B": "While oxygen therapy improves exercise tolerance, the primary goal of long-term therapy is the survival benefit, not just exercise improvement.",
+        "C": "Oxygen therapy reduces but does not eliminate dyspnea. Complete symptom relief is not realistic and is not the primary goal.",
+        "D": "Supplemental oxygen does not reverse structural airflow obstruction in COPD.",
+        "E": "Long-term oxygen therapy has not been shown to prevent acute exacerbations. Exacerbation prevention involves other strategies."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypoxemia", "COPD", "long-term oxygen therapy", "pulmonary hypertension", "survival"]
+  },
+  {
+    "id": "r10-023",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 72-year-old man with severe COPD presents with progressive somnolence and confusion over 2 days. On examination, he has a flapping tremor of outstretched hands. ABG shows pH 7.28, PaCO₂ 78 mmHg, PaO₂ 50 mmHg, HCO₃⁻ 34 mEq/L. Which physical finding in this patient is most specifically associated with hypercapnia?",
+    "choices": [
+      { "label": "A", "text": "Progressive somnolence" },
+      { "label": "B", "text": "Mental status confusion" },
+      { "label": "C", "text": "Asterixis flapping tremor" },
+      { "label": "D", "text": "Subjective dyspnea" },
+      { "label": "E", "text": "Peripheral cyanosis" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Asterixis (flapping tremor) is a hallmark of CO₂ narcosis and hypercapnic encephalopathy. While also seen in hepatic encephalopathy, in the context of elevated PaCO₂, asterixis is the most specific physical finding for hypercapnia.",
+      "whyCorrect": "Asterixis is a negative myoclonus that manifests as a flapping tremor when the wrists are dorsiflexed. In respiratory failure, it is highly suggestive of CO₂ narcosis and hypercapnic encephalopathy from the toxic effects of elevated CO₂ on the brain.",
+      "whyWrongByChoice": {
+        "A": "Somnolence is nonspecific and can result from any metabolic encephalopathy, medications, infection, or intracranial pathology.",
+        "B": "Confusion is similarly nonspecific and occurs in many conditions including hypoxemia, sepsis, and metabolic derangements.",
+        "D": "Dyspnea is common in many respiratory and cardiac conditions and is not specific to hypercapnia.",
+        "E": "Cyanosis is a sign of hypoxemia (deoxyhemoglobin ≥5 g/dL) rather than hypercapnia specifically."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "asterixis", "CO2 narcosis", "encephalopathy", "physical exam"]
+  },
+  {
+    "id": "r10-024",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 65-year-old woman with severe COPD and chronic hypercapnia (baseline PaCO₂ 55 mmHg) presents with an acute exacerbation. She is placed on a Venturi mask at FiO₂ 0.28. After 30 minutes, ABG shows pH 7.25, PaCO₂ 72 mmHg, PaO₂ 85 mmHg. Which mechanism best explains the worsening hypercapnia after oxygen administration?",
+    "choices": [
+      { "label": "A", "text": "Alveolar damage from oxygen toxicity" },
+      { "label": "B", "text": "Paradoxical oxygen-induced bronchospasm" },
+      { "label": "C", "text": "Hypermetabolic CO₂ overproduction" },
+      { "label": "D", "text": "Suppressed hypoxic drive and Haldane effect" },
+      { "label": "E", "text": "Worsening left ventricular heart failure" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In chronic COPD with hypercapnia, central chemoreceptors become desensitized to CO₂. Supplemental oxygen can suppress the hypoxic drive from peripheral chemoreceptors. Additionally, the Haldane effect contributes: oxygenated hemoglobin has lower CO₂-carrying capacity, releasing CO₂ into plasma.",
+      "whyCorrect": "Two mechanisms contribute. First, correcting hypoxemia removes the hypoxic drive stimulus and reduces minute ventilation. Second, the Haldane effect causes oxygenated hemoglobin to release bound CO₂, further raising PaCO₂.",
+      "whyWrongByChoice": {
+        "A": "Oxygen toxicity requires prolonged high FiO₂ exposure (typically >0.60 for >24-48 hours). FiO₂ 0.28 for 30 minutes cannot cause oxygen toxicity.",
+        "B": "Paradoxical bronchospasm is not caused by supplemental oxygen. Bronchospasm can occur with certain inhaled medications but not with oxygen therapy.",
+        "C": "Increased CO₂ production requires conditions like fever or thyroid storm. Supplemental oxygen does not increase metabolic CO₂ production.",
+        "E": "There is no indication of left heart failure in this scenario. The mechanism is specific to COPD with chronic CO₂ retention."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "COPD", "oxygen-induced hypercapnia", "Haldane effect", "hypoxic drive"]
+  },
+  {
+    "id": "r10-025",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 58-year-old man with amyotrophic lateral sclerosis presents with progressive dyspnea and orthopnea over 3 months. ABG shows pH 7.32, PaCO₂ 56 mmHg, PaO₂ 62 mmHg, HCO₃⁻ 28 mEq/L, with a normal A-a gradient. Pulmonary function tests show reduced forced vital capacity. Which category of hypercapnia cause does this represent?",
+    "choices": [
+      { "label": "A", "text": "Increased dead space ventilation" },
+      { "label": "B", "text": "Increased CO₂ metabolic production" },
+      { "label": "C", "text": "Neuromuscular ventilatory failure" },
+      { "label": "D", "text": "Obstructive airway disease" },
+      { "label": "E", "text": "Parenchymal lung disease" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "ALS is a progressive neuromuscular disease causing motor neuron degeneration and respiratory muscle weakness. This results in decreased alveolar ventilation and CO₂ retention. The normal A-a gradient confirms normal lung parenchyma with inadequate ventilatory muscle strength.",
+      "whyCorrect": "ALS causes degeneration of motor neurons including those innervating respiratory muscles. Progressive weakness reduces tidal volume and minute ventilation, leading to alveolar hypoventilation and CO₂ retention. The normal A-a gradient confirms intact lung parenchyma.",
+      "whyWrongByChoice": {
+        "A": "Increased dead space ventilation occurs in conditions like COPD or PE where ventilated areas are not adequately perfused. ALS does not increase dead space.",
+        "B": "Increased CO₂ production raises PaCO₂ only transiently because a healthy respiratory system compensates. This is not the mechanism in ALS.",
+        "D": "Airway obstruction (COPD, asthma) is not the mechanism in ALS, which affects motor neurons rather than airways.",
+        "E": "Parenchymal lung disease would elevate the A-a gradient. The normal gradient excludes lung parenchymal pathology."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "neuromuscular disease", "ALS", "hypoventilation", "respiratory failure"]
+  },
+  {
+    "id": "r10-026",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 48-year-old woman is brought to the emergency department with altered consciousness after a suspected drug overdose. ABG shows pH 7.18, PaCO₂ 82 mmHg, PaO₂ 48 mmHg, HCO₃⁻ 29 mEq/L. Her pupils are dilated and she is unresponsive to verbal stimuli. Which acid-base disturbance does this patient have?",
+    "choices": [
+      { "label": "A", "text": "Acute respiratory acidosis" },
+      { "label": "B", "text": "Chronic respiratory acidosis" },
+      { "label": "C", "text": "Metabolic acidosis with compensation" },
+      { "label": "D", "text": "Mixed respiratory-metabolic acidosis" },
+      { "label": "E", "text": "Acute respiratory alkalosis" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient has acute respiratory acidosis. The markedly elevated PaCO₂ (82 mmHg) with a low pH (7.18) and only mildly elevated HCO₃⁻ (29 mEq/L) is consistent with acute CO₂ retention. In acute respiratory acidosis, HCO₃⁻ rises approximately 1 mEq/L per 10 mmHg rise in PaCO₂.",
+      "whyCorrect": "In acute respiratory acidosis, kidneys have not had time to compensate. HCO₃⁻ rises minimally (~1 mEq/L per 10 mmHg PaCO₂ increase). Expected HCO₃⁻ is ~28-29 mEq/L, matching this patient. The severely depressed pH confirms an acute process.",
+      "whyWrongByChoice": {
+        "B": "In chronic respiratory acidosis, renal compensation raises HCO₃⁻ by ~3.5 mEq/L per 10 mmHg PaCO₂ increase. Expected chronic HCO₃⁻ would be ~39 mEq/L with pH closer to 7.32-7.35.",
+        "C": "Metabolic acidosis with compensation would show low HCO₃⁻ and low PaCO₂. This patient has high PaCO₂ and near-normal HCO₃⁻.",
+        "D": "Mixed acidosis would show both elevated PaCO₂ and low HCO₃⁻. The HCO₃⁻ of 29 is appropriate for acute respiratory acidosis.",
+        "E": "Respiratory alkalosis would show low PaCO₂ and elevated pH. This patient has markedly elevated PaCO₂ with acidemic pH."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "respiratory acidosis", "acute", "ABG interpretation", "acid-base"]
+  },
+  {
+    "id": "r10-027",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 70-year-old man with stable severe COPD has been chronically hypercapnic for years. ABG shows pH 7.37, PaCO₂ 58 mmHg, HCO₃⁻ 33 mEq/L. His physician explains that his near-normal pH results from a specific renal compensatory mechanism. Which mechanism is primarily responsible?",
+    "choices": [
+      { "label": "A", "text": "Increased bicarbonate renal excretion" },
+      { "label": "B", "text": "Decreased hydrogen ion renal secretion" },
+      { "label": "C", "text": "Increased bicarbonate reabsorption and generation" },
+      { "label": "D", "text": "Isolated renal ammonia overproduction" },
+      { "label": "E", "text": "Renin-angiotensin-aldosterone activation" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In chronic respiratory acidosis, the kidneys compensate over 3-5 days by increasing bicarbonate reabsorption in the proximal tubule and generating new bicarbonate in the distal tubule. This raises serum HCO₃⁻ by ~3.5 mEq/L per 10 mmHg rise in PaCO₂.",
+      "whyCorrect": "Renal compensation involves increased HCO₃⁻ reabsorption (proximal tubule) and new HCO₃⁻ generation (distal tubule via H⁺ secretion). The distal nephron generates new bicarbonate that enters the blood, raising serum HCO₃⁻ and normalizing pH.",
+      "whyWrongByChoice": {
+        "A": "Increased bicarbonate excretion would worsen acidosis. The kidneys retain and generate more bicarbonate to compensate for respiratory acidosis.",
+        "B": "Decreased H⁺ secretion would worsen acidosis. The kidneys actually increase H⁺ secretion to generate more bicarbonate.",
+        "D": "Increased ammonia production is one component of the response but is only part of the process. The primary mechanism is overall bicarbonate reabsorption and generation.",
+        "E": "RAAS relates to volume and potassium regulation, not primary compensation for respiratory acidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "renal compensation", "chronic respiratory acidosis", "bicarbonate", "acid-base"]
+  },
+  {
+    "id": "r10-028",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 55-year-old man with myasthenia gravis is hospitalized for myasthenic crisis with progressive respiratory weakness. Vital capacity drops to 15 mL/kg (normal >60 mL/kg). ABG shows pH 7.30, PaCO₂ 62 mmHg, PaO₂ 55 mmHg. He is becoming increasingly drowsy. Which is the most appropriate management?",
+    "choices": [
+      { "label": "A", "text": "Start noninvasive BiPAP ventilation" },
+      { "label": "B", "text": "Endotracheal intubation and ventilation" },
+      { "label": "C", "text": "Increase supplemental oxygen flow" },
+      { "label": "D", "text": "Administer intravenous aminophylline" },
+      { "label": "E", "text": "Nebulized ipratropium bronchodilator" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient has severe respiratory muscle weakness (vital capacity 15 mL/kg, well below the intubation threshold of ~20 mL/kg) with acute ventilatory failure. Intubation is indicated when vital capacity falls below 15-20 mL/kg in neuromuscular respiratory failure.",
+      "whyCorrect": "In myasthenic crisis with vital capacity <15-20 mL/kg and rising PaCO₂, intubation is indicated. At this degree of weakness with acute hypercapnia, definitive airway management is needed. Standard intubation criteria include VC <15-20 mL/kg and rising PaCO₂.",
+      "whyWrongByChoice": {
+        "A": "BiPAP may be appropriate earlier when weakness is less severe. At vital capacity 15 mL/kg with significant hypercapnia and drowsiness, BiPAP failure risk is too high.",
+        "C": "Supplemental oxygen alone addresses hypoxemia but does not treat the ventilatory failure causing hypercapnia.",
+        "D": "Aminophylline is a bronchodilator with no role in neuromuscular respiratory failure.",
+        "E": "Ipratropium treats obstructive airway disease. Myasthenic crisis involves neuromuscular junction failure, not bronchospasm."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "myasthenia gravis", "ventilatory failure", "intubation", "management"]
+  },
+  {
+    "id": "r10-029",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 60-year-old man with COPD and chronic hypercapnia becomes obtunded during an acute exacerbation. His physician explains that under normal conditions, CO₂ is the primary stimulus for ventilation via central chemoreceptors. A medical student asks what these receptors actually sense. Which is the primary stimulus for central chemoreceptors?",
+    "choices": [
+      { "label": "A", "text": "Arterial oxygen partial pressure" },
+      { "label": "B", "text": "Arterial blood hydrogen ions" },
+      { "label": "C", "text": "Serum bicarbonate concentration" },
+      { "label": "D", "text": "Venous oxygen saturation level" },
+      { "label": "E", "text": "CSF hydrogen ions from CO₂" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Central chemoreceptors in the medulla respond primarily to H⁺ concentration in the CSF. CO₂ diffuses across the blood-brain barrier and is converted to H⁺ and HCO₃⁻ by carbonic anhydrase. The resulting H⁺ stimulates the central chemoreceptors.",
+      "whyCorrect": "Central chemoreceptors detect CSF pH changes, which closely track arterial PaCO₂. CO₂ crosses the blood-brain barrier rapidly, is hydrated to carbonic acid, and dissociates to H⁺. This makes CO₂ (via CSF H⁺) the primary respiratory drive stimulus.",
+      "whyWrongByChoice": {
+        "A": "PaO₂ is detected by peripheral chemoreceptors in the carotid and aortic bodies, not central chemoreceptors.",
+        "B": "Arterial pH is sensed by peripheral chemoreceptors. Central chemoreceptors respond to CSF H⁺ because arterial H⁺ ions do not freely cross the blood-brain barrier.",
+        "C": "Serum bicarbonate does not directly stimulate chemoreceptors. HCO₃⁻ crosses the blood-brain barrier slowly.",
+        "D": "Venous oxygen saturation is not directly monitored by any chemoreceptor. Arterial oxygenation is monitored by peripheral chemoreceptors."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "central chemoreceptors", "CO2", "ventilatory drive", "CSF"]
+  },
+  {
+    "id": "r10-030",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 60-year-old man with severe kyphoscoliosis and chronic hypercapnia (PaCO₂ 60 mmHg) is started on nocturnal BiPAP. After 3 months, his daytime PaCO₂ improves to 48 mmHg and he reports reduced morning headaches. He asks why a machine used only at night improves his daytime breathing. Which mechanism best explains this benefit?",
+    "choices": [
+      { "label": "A", "text": "Increased alveolar surfactant production" },
+      { "label": "B", "text": "Bronchodilation from positive pressure" },
+      { "label": "C", "text": "Permanent chest wall remodeling" },
+      { "label": "D", "text": "Reduced cardiac preload effect" },
+      { "label": "E", "text": "Muscle rest and chemoreceptor resetting" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Nocturnal BiPAP rests chronically fatigued respiratory muscles during sleep. Additionally, by lowering PaCO₂ during sleep, BiPAP helps reset central chemoreceptor sensitivity that has been blunted by chronic hypercapnia. Both mechanisms improve spontaneous daytime ventilation.",
+      "whyCorrect": "Chronic respiratory muscle fatigue reduces the patient's ability to maintain adequate ventilation. Nocturnal BiPAP offloads the muscles during sleep, allowing recovery. Reducing nocturnal PaCO₂ also restores chemoreceptor CO₂ sensitivity, improving daytime ventilatory drive.",
+      "whyWrongByChoice": {
+        "A": "Surfactant production is not significantly affected by BiPAP therapy. Surfactant is produced by type II pneumocytes independently of ventilatory support.",
+        "B": "BiPAP is not a bronchodilator. This patient has restrictive chest wall disease, not obstructive airway disease.",
+        "C": "BiPAP does not permanently alter chest wall compliance in kyphoscoliosis. The structural deformity persists.",
+        "D": "While positive pressure can affect cardiac preload, this is not the primary mechanism of improved daytime PaCO₂."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypercapnia", "BiPAP", "nocturnal ventilation", "respiratory muscle fatigue", "chemoreceptor reset"]
+  },
+  {
+    "id": "r10-031",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 45-year-old man undergoes general anesthesia for abdominal surgery. Intraoperatively, end-tidal CO₂ rises from 40 to 80 mmHg over 15 minutes. His temperature climbs to 40.5°C and he develops generalized muscle rigidity. Heart rate increases to 130/min. Which condition is the most likely cause?",
+    "choices": [
+      { "label": "A", "text": "Anesthetic-induced hypoventilation" },
+      { "label": "B", "text": "Malignant hyperthermia crisis" },
+      { "label": "C", "text": "Intraoperative pulmonary embolism" },
+      { "label": "D", "text": "Tension pneumothorax development" },
+      { "label": "E", "text": "Anaphylactic bronchospasm reaction" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Rapidly rising ETCO₂, high fever, and muscle rigidity during general anesthesia is the classic triad of malignant hyperthermia. This hypermetabolic crisis is caused by uncontrolled skeletal muscle calcium release, usually triggered by volatile anesthetics or succinylcholine.",
+      "whyCorrect": "Malignant hyperthermia causes uncontrolled hypermetabolism with dramatically increased CO₂ production. The rapidly rising ETCO₂, hyperthermia, and muscle rigidity form the classic triad. It is a pharmacogenetic disorder involving ryanodine receptor mutations.",
+      "whyWrongByChoice": {
+        "A": "Hypoventilation from anesthetics would cause a gradual CO₂ rise but not the high fever and muscle rigidity. The patient is on controlled mechanical ventilation.",
+        "C": "Pulmonary embolism would cause hypotension and possibly decreased ETCO₂ from dead space. It would not cause fever and muscle rigidity.",
+        "D": "Tension pneumothorax causes hypotension, hypoxemia, and decreased breath sounds, but not hyperthermia and muscle rigidity.",
+        "E": "Anaphylactic bronchospasm causes elevated airway pressures and wheezing but would not explain the fever and muscle rigidity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "malignant hyperthermia", "increased CO2 production", "anesthesia", "emergency"]
+  },
+  {
+    "id": "r10-032",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 68-year-old man with COPD presents with an acute exacerbation. ABG shows pH 7.30, PaCO₂ 65 mmHg, PaO₂ 52 mmHg. He is alert, cooperative, and able to protect his airway. Bronchodilators and controlled oxygen have been initiated. Which ventilatory support is most appropriate?",
+    "choices": [
+      { "label": "A", "text": "Immediate endotracheal intubation" },
+      { "label": "B", "text": "Bilevel positive airway pressure" },
+      { "label": "C", "text": "Continuous positive airway pressure" },
+      { "label": "D", "text": "High-flow nasal cannula oxygen" },
+      { "label": "E", "text": "Low-flow nasal cannula only" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "BiPAP is the first-line ventilatory support for acute hypercapnic respiratory failure in COPD when the patient is alert and can protect the airway. It provides inspiratory pressure to augment tidal volume and reduces the work of breathing.",
+      "whyCorrect": "Non-invasive BiPAP is the standard of care for acute hypercapnic respiratory failure in COPD when the patient is conscious and cooperative. It reduces intubation rates and mortality in this setting.",
+      "whyWrongByChoice": {
+        "A": "Immediate intubation is not indicated when the patient is alert and can cooperate with non-invasive ventilation. It is reserved for those who fail BiPAP.",
+        "C": "CPAP provides a single pressure level and does not augment ventilation. For hypercapnia, the patient needs inspiratory pressure support that CPAP does not provide.",
+        "D": "High-flow nasal cannula improves oxygenation but does not provide adequate positive pressure ventilatory support for significant hypercapnia.",
+        "E": "Low-flow nasal cannula addresses hypoxemia only. In COPD, excessive oxygen may worsen hypercapnia, and it provides no ventilatory support."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "COPD", "BiPAP", "non-invasive ventilation", "management"]
+  },
+  {
+    "id": "r10-033",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 22-year-old woman with Guillain-Barre syndrome is admitted with ascending weakness. Serial forced vital capacity measurements show progressive decline: Day 1 (3.2 L), Day 2 (2.4 L), Day 3 (1.6 L), Day 4 (1.0 L). On Day 4, ABG shows pH 7.35, PaCO₂ 44 mmHg. Despite the normal PaCO₂, the team considers her at imminent risk. Why is PaCO₂ still normal?",
+    "choices": [
+      { "label": "A", "text": "Compensatory increased respiratory rate" },
+      { "label": "B", "text": "Respiratory alkalosis masking CO₂" },
+      { "label": "C", "text": "Arterial blood gas sampling error" },
+      { "label": "D", "text": "Concurrent metabolic acidosis present" },
+      { "label": "E", "text": "CO₂ rises only after complete paralysis" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In early neuromuscular respiratory failure, patients compensate for decreasing tidal volumes by increasing respiratory rate to maintain minute ventilation. PaCO₂ may remain normal until compensatory tachypnea can no longer keep up. This is why serial vital capacity measurements are critical.",
+      "whyCorrect": "As vital capacity falls, the patient increases respiratory rate to maintain minute ventilation. PaCO₂ remains normal through this compensatory mechanism. However, sudden decompensation with rapid CO₂ rise can occur when reserve is exhausted.",
+      "whyWrongByChoice": {
+        "B": "There is no respiratory alkalosis here. pH is 7.35 and PaCO₂ is 44 mmHg, both within normal range.",
+        "C": "There is no reason to suspect incorrect sampling. ABG values are internally consistent.",
+        "D": "There is no evidence of metabolic acidosis. The pH and PaCO₂ are both normal.",
+        "E": "PaCO₂ can rise before complete paralysis. Compensatory tachypnea maintains normal PaCO₂ until reserve is exhausted, not until complete paralysis occurs."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypercapnia", "Guillain-Barre", "neuromuscular", "vital capacity", "compensation"]
+  },
+  {
+    "id": "r10-034",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 75-year-old man with COPD has chronic compensated hypercapnia (pH 7.38, PaCO₂ 55, HCO₃⁻ 32). During hospitalization for a urinary tract infection, he receives IV fluids and diuretics. Three days later, ABG shows pH 7.44, PaCO₂ 55 mmHg, HCO₃⁻ 36 mEq/L. What is the most likely explanation for this new acid-base finding?",
+    "choices": [
+      { "label": "A", "text": "Improvement in respiratory acidosis" },
+      { "label": "B", "text": "Superimposed metabolic alkalosis" },
+      { "label": "C", "text": "Worsening chronic respiratory acidosis" },
+      { "label": "D", "text": "Development of respiratory alkalosis" },
+      { "label": "E", "text": "Laboratory measurement error" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The PaCO₂ is unchanged at 55 mmHg, so respiratory status is stable. However, HCO₃⁻ has risen from 32 to 36 mEq/L and pH increased from 7.38 to 7.44, indicating superimposed metabolic alkalosis on top of compensated chronic respiratory acidosis.",
+      "whyCorrect": "With stable PaCO₂, the rising HCO₃⁻ and pH indicate a new metabolic process generating excess bicarbonate. In a hospitalized patient receiving diuretics, contraction alkalosis is the most likely cause.",
+      "whyWrongByChoice": {
+        "A": "The PaCO₂ is unchanged at 55 mmHg, so there is no improvement in the respiratory acidosis.",
+        "C": "Worsening respiratory acidosis would show higher PaCO₂, not the same PaCO₂ with a higher pH.",
+        "D": "Respiratory alkalosis would show decreased PaCO₂. The PaCO₂ is stable at 55 mmHg.",
+        "E": "The values are internally consistent and represent a recognizable clinical pattern, not an error."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypercapnia", "metabolic alkalosis", "mixed acid-base", "chronic respiratory acidosis", "ABG"]
+  },
+  {
+    "id": "r10-035",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 50-year-old man with severe COPD presents with flushing, headache, and palmar erythema. His wife reports increasing drowsiness over 2 days. ABG shows pH 7.31, PaCO₂ 68 mmHg, PaO₂ 55 mmHg. Which clinical feature is most classically described as a direct manifestation of acute hypercapnia?",
+    "choices": [
+      { "label": "A", "text": "Peripheral lip cyanosis" },
+      { "label": "B", "text": "Lower extremity edema" },
+      { "label": "C", "text": "Facial flushing and erythema" },
+      { "label": "D", "text": "Pleuritic chest pain" },
+      { "label": "E", "text": "Blood-streaked sputum" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Flushing and palmar erythema are classic vasodilatory signs of acute hypercapnia. CO₂ is a potent vasodilator, and elevated PaCO₂ causes peripheral vasodilation leading to skin flushing, palmar erythema, and bounding pulse.",
+      "whyCorrect": "CO₂ is a powerful vasodilator. Acute hypercapnia causes widespread arterial vasodilation, producing the characteristic findings of facial flushing, palmar erythema, and warm extremities. Cerebral vasodilation causes headache.",
+      "whyWrongByChoice": {
+        "A": "Cyanosis is a sign of hypoxemia (deoxyhemoglobin ≥5 g/dL), not hypercapnia specifically.",
+        "B": "Peripheral edema in COPD relates to cor pulmonale from chronic pulmonary hypertension, not acute hypercapnia.",
+        "D": "Pleuritic chest pain is not a typical manifestation of hypercapnia. It suggests pleural inflammation or pulmonary embolism.",
+        "E": "Blood-streaked sputum is associated with bronchiectasis, lung cancer, or PE, not with hypercapnia."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "flushing", "palmar erythema", "vasodilation", "symptoms"]
+  },
+  {
+    "id": "r10-036",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 62-year-old woman with obesity (BMI 48) presents with morning headaches, excessive daytime sleepiness, and lower extremity edema. She snores loudly. ABG shows pH 7.35, PaCO₂ 52 mmHg, PaO₂ 58 mmHg, HCO₃⁻ 28 mEq/L. Polysomnography confirms severe obstructive sleep apnea with mean overnight SpO₂ of 78%. Which is the most likely diagnosis?",
+    "choices": [
+      { "label": "A", "text": "Uncomplicated obstructive sleep apnea" },
+      { "label": "B", "text": "Idiopathic pulmonary arterial hypertension" },
+      { "label": "C", "text": "Primary central sleep apnea" },
+      { "label": "D", "text": "Obesity hypoventilation syndrome" },
+      { "label": "E", "text": "Decompensated congestive heart failure" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Obesity hypoventilation syndrome is defined by obesity (BMI ≥30), daytime hypercapnia (PaCO₂ >45 mmHg), and sleep-disordered breathing. This patient meets all criteria: BMI 48, daytime PaCO₂ 52, and severe OSA. Morning headaches reflect nocturnal CO₂ retention.",
+      "whyCorrect": "OHS requires daytime hypercapnia in an obese patient with sleep-disordered breathing. Unlike simple OSA with normal daytime ABGs, OHS patients have chronic daytime CO₂ retention. Lower extremity edema suggests early cor pulmonale.",
+      "whyWrongByChoice": {
+        "A": "Simple OSA causes nocturnal desaturation but does not produce daytime hypercapnia. The elevated daytime PaCO₂ distinguishes OHS from uncomplicated OSA.",
+        "B": "Idiopathic pulmonary hypertension does not cause hypercapnia or sleep-disordered breathing.",
+        "C": "Central sleep apnea involves loss of central respiratory drive during sleep. The obesity and obstructive pattern point to OHS.",
+        "E": "CHF can cause sleep-disordered breathing and edema but does not typically cause chronic daytime hypercapnia in this pattern."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "obesity hypoventilation syndrome", "OSA", "daytime hypercapnia", "cor pulmonale"]
+  },
+  {
+    "id": "r10-037",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 30-year-old man with Duchenne muscular dystrophy has progressive respiratory weakness. ABG shows pH 7.36, PaCO₂ 50 mmHg, PaO₂ 65 mmHg, HCO₃⁻ 28 mEq/L. Pulmonary function tests show FVC 35% predicted with normal FEV₁/FVC ratio. Chest X-ray shows small lung volumes but clear parenchyma. Which pattern of respiratory dysfunction explains his hypercapnia?",
+    "choices": [
+      { "label": "A", "text": "Obstructive airway ventilatory defect" },
+      { "label": "B", "text": "Interstitial restrictive lung disease" },
+      { "label": "C", "text": "Neuromuscular restrictive ventilatory defect" },
+      { "label": "D", "text": "Fixed upper airway obstruction" },
+      { "label": "E", "text": "Emphysematous dead space increase" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Duchenne muscular dystrophy causes progressive skeletal muscle weakness including respiratory muscles. This produces a restrictive ventilatory defect (low FVC with normal FEV₁/FVC) from inability to generate adequate pressures, not from stiff lungs.",
+      "whyCorrect": "Neuromuscular diseases cause restrictive physiology through respiratory muscle weakness. The low FVC with preserved FEV₁/FVC reflects inability to fully inflate the lungs. As weakness progresses, tidal volume falls below what is needed for CO₂ elimination.",
+      "whyWrongByChoice": {
+        "A": "An obstructive defect would show reduced FEV₁/FVC ratio. This patient has a normal ratio, characteristic of restriction.",
+        "B": "Interstitial lung disease causes restriction from stiff, fibrotic lungs. In Duchenne, the mechanism is weak muscles, not diseased parenchyma.",
+        "D": "Upper airway obstruction produces a flattened flow-volume loop. Duchenne affects respiratory pump muscles, not the upper airway.",
+        "E": "Emphysema causes obstructive physiology. This patient has a normal FEV₁/FVC ratio and a neuromuscular disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "neuromuscular disease", "Duchenne", "restrictive", "respiratory muscle weakness"]
+  },
+  {
+    "id": "r10-038",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 78-year-old woman with known COPD has an ABG showing pH 7.33, PaCO₂ 60 mmHg, HCO₃⁻ 31 mEq/L. Her physician uses the expected compensation formula for chronic respiratory acidosis (HCO₃⁻ rises 3.5 mEq/L per 10 mmHg increase in PaCO₂ above 40). Is the renal compensation appropriate?",
+    "choices": [
+      { "label": "A", "text": "Yes, appropriate chronic compensation" },
+      { "label": "B", "text": "No, superimposed metabolic alkalosis" },
+      { "label": "C", "text": "No, superimposed metabolic acidosis" },
+      { "label": "D", "text": "Pattern indicates acute acidosis" },
+      { "label": "E", "text": "Compensation cannot be assessed" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Expected HCO₃⁻ = 24 + 3.5 × [(60 − 40)/10] = 24 + 7 = 31 mEq/L. The observed HCO₃⁻ of 31 matches exactly, confirming appropriate chronic renal compensation without a superimposed metabolic disorder.",
+      "whyCorrect": "The expected HCO₃⁻ for chronic respiratory acidosis with PaCO₂ 60 mmHg is 31 mEq/L. The observed value matches perfectly, indicating appropriate chronic compensation.",
+      "whyWrongByChoice": {
+        "B": "If HCO₃⁻ were higher than 31 (e.g., 36-38), it would suggest superimposed metabolic alkalosis. The value matches expected compensation.",
+        "C": "If HCO₃⁻ were lower than expected (e.g., 26-27), it would suggest superimposed metabolic acidosis. The value matches expected compensation.",
+        "D": "Acute respiratory acidosis would show HCO₃⁻ rising only ~1 mEq/L per 10 mmHg, yielding expected HCO₃⁻ of ~26. The HCO₃⁻ of 31 indicates chronic compensation.",
+        "E": "Compensation can be assessed with pH, PaCO₂, and HCO₃⁻ using standard acid-base compensation formulas."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "acid-base", "chronic respiratory acidosis", "compensation", "calculation"]
+  },
+  {
+    "id": "r10-039",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 55-year-old man with severe COPD is brought to the ED lethargic after paramedics placed him on a non-rebreather mask at 15 L/min. In the ED, he is barely responsive with GCS 8. ABG shows pH 7.15, PaCO₂ 95 mmHg, PaO₂ 220 mmHg. Which intervention is the most appropriate next step?",
+    "choices": [
+      { "label": "A", "text": "Reduce oxygen and closely observe" },
+      { "label": "B", "text": "Start noninvasive BiPAP ventilation" },
+      { "label": "C", "text": "Emergent endotracheal intubation" },
+      { "label": "D", "text": "Administer intravenous sodium bicarbonate" },
+      { "label": "E", "text": "Intravenous doxapram respiratory stimulant" }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This patient has severe hypercapnic respiratory failure (PaCO₂ 95, pH 7.15) with depressed consciousness (GCS 8). He cannot protect his airway and is not a candidate for non-invasive ventilation. Immediate intubation is required.",
+      "whyCorrect": "With GCS 8 and severe respiratory acidosis (pH 7.15, PaCO₂ 95), this patient cannot protect his airway. BiPAP requires an alert, cooperative patient. The severity mandates definitive airway management.",
+      "whyWrongByChoice": {
+        "A": "While excessive oxygen likely contributed to worsening hypercapnia, reducing oxygen and observing is insufficient for life-threatening respiratory acidosis with GCS 8.",
+        "B": "BiPAP is contraindicated in patients who cannot protect their airway. Non-invasive ventilation requires alertness and cooperation.",
+        "D": "Sodium bicarbonate does not treat ventilatory failure and can paradoxically worsen intracellular acidosis. The treatment is restoring ventilation.",
+        "E": "Doxapram is rarely used and would be insufficient for this degree of respiratory failure in a patient with GCS 8."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "severe respiratory failure", "intubation", "COPD", "management"]
+  },
+  {
+    "id": "r10-040",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A medical student rotating in the ICU asks why COPD patients with chronic hypercapnia are at risk for worsening CO₂ retention when given supplemental oxygen. The attending explains that beyond the suppression of hypoxic drive, an additional physiological mechanism contributes. Which mechanism is it?",
+    "choices": [
+      { "label": "A", "text": "Oxygen increases airway resistance" },
+      { "label": "B", "text": "Oxygen decreases surfactant production" },
+      { "label": "C", "text": "Oxygen stimulates carbonic anhydrase" },
+      { "label": "D", "text": "Oxygen increases bronchial dead space" },
+      { "label": "E", "text": "Oxygenated hemoglobin releases CO₂" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The Haldane effect describes how oxygenated hemoglobin has reduced capacity to carry CO₂ compared to deoxygenated hemoglobin. When supplemental oxygen increases hemoglobin saturation, CO₂ is released from hemoglobin into plasma, raising PaCO₂.",
+      "whyCorrect": "Deoxygenated hemoglobin carries more CO₂ (as carbamino compounds and through enhanced buffering) than oxygenated hemoglobin. When O₂ is given, hemoglobin releases CO₂ as it becomes more saturated, directly raising PaCO₂. This is the Haldane effect.",
+      "whyWrongByChoice": {
+        "A": "Oxygen does not significantly increase airway resistance. Bronchomotor tone is regulated by autonomic innervation and inflammatory mediators.",
+        "B": "Oxygen does not decrease surfactant production at therapeutic levels.",
+        "C": "Oxygen does not stimulate carbonic anhydrase activity. Carbonic anhydrase activity is constitutive.",
+        "D": "Supplemental oxygen does not cause bronchodilation or increase dead space. It may release hypoxic pulmonary vasoconstriction, but that is a vascular effect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "Haldane effect", "COPD", "oxygen-induced hypercapnia", "physiology"]
+  },
+  {
+    "id": "r10-041",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 40-year-old man is brought to the trauma bay after a motor vehicle accident. Examination reveals paradoxical inward movement of the left chest wall during inspiration. CT shows fractures of ribs 4-7 in two places each. ABG shows pH 7.28, PaCO₂ 58 mmHg, PaO₂ 60 mmHg. Which mechanism best explains his hypercapnia?",
+    "choices": [
+      { "label": "A", "text": "Increased pain-related CO₂ production" },
+      { "label": "B", "text": "Increased dead space from contusion" },
+      { "label": "C", "text": "Rib fracture-induced bronchospasm" },
+      { "label": "D", "text": "Ineffective ventilation from chest instability" },
+      { "label": "E", "text": "Traumatic diaphragmatic rupture" }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Flail chest (≥3 consecutive ribs fractured in ≥2 places) creates a free-floating segment that moves paradoxically during breathing. This impairs effective chest wall mechanics, reducing tidal volume and alveolar ventilation, causing CO₂ retention.",
+      "whyCorrect": "The flail segment moves opposite to the rest of the chest wall, impairing the ability to generate effective negative intrathoracic pressure. Combined with pain-related splinting, the result is inadequate CO₂ elimination.",
+      "whyWrongByChoice": {
+        "A": "Pain mildly increases metabolic rate, but the CO₂ production increase is insufficient to cause this degree of hypercapnia. The mechanical problem is primary.",
+        "B": "While pulmonary contusion may coexist, the primary mechanism with flail chest and paradoxical movement is mechanical ventilatory impairment.",
+        "C": "Rib fractures do not cause bronchospasm. Bronchospasm is an airway smooth muscle phenomenon unrelated to chest wall trauma.",
+        "E": "Diaphragmatic rupture can occur in severe trauma but the question identifies flail chest with paradoxical movement as the pathology."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "flail chest", "chest wall", "trauma", "hypoventilation"]
+  },
+  {
+    "id": "r10-042",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 70-year-old man with end-stage COPD has chronic stable hypercapnia (baseline: pH 7.37, PaCO₂ 58, HCO₃⁻ 33). He develops pneumonia and presents with worsening dyspnea. New ABG shows pH 7.22, PaCO₂ 78 mmHg, HCO₃⁻ 31 mEq/L. Which acid-base disturbance does the new ABG represent?",
+    "choices": [
+      { "label": "A", "text": "Acute-on-chronic respiratory acidosis" },
+      { "label": "B", "text": "Simple acute respiratory acidosis" },
+      { "label": "C", "text": "Chronic acidosis with appropriate compensation" },
+      { "label": "D", "text": "Mixed respiratory-metabolic alkalosis" },
+      { "label": "E", "text": "Metabolic acidosis with respiratory compensation" }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient has baseline chronic compensated respiratory acidosis (PaCO₂ 58, HCO₃⁻ 33, pH 7.37). The acute rise to PaCO₂ 78 without proportional HCO₃⁻ increase and severely depressed pH (7.22) indicates acute-on-chronic respiratory acidosis.",
+      "whyCorrect": "HCO₃⁻ did not rise with the PaCO₂ increase. If purely chronic at PaCO₂ 78, expected HCO₃⁻ would be ~37. The HCO₃⁻ of 31 reflects prior compensation but no new renal compensation for the acute CO₂ rise.",
+      "whyWrongByChoice": {
+        "B": "Simple acute respiratory acidosis would start from normal baseline (PaCO₂ ~40, HCO₃⁻ ~24). This patient has baseline chronic hypercapnia with pre-existing compensation.",
+        "C": "Appropriate chronic compensation at PaCO₂ 78 would yield HCO₃⁻ ~37 and pH ~7.32-7.35. The pH of 7.22 and HCO₃⁻ of 31 are inconsistent with full chronic compensation.",
+        "D": "A metabolic alkalosis would raise HCO₃⁻ above expected. Here, HCO₃⁻ is below what chronic compensation would predict.",
+        "E": "Metabolic acidosis would show low HCO₃⁻ with compensatory low PaCO₂. Both values are elevated here."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypercapnia", "acute on chronic", "respiratory acidosis", "acid-base", "COPD exacerbation"]
+  },
+  {
+    "id": "r10-043",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 66-year-old woman with severe COPD is treated with BiPAP for an acute exacerbation. Initial ABG: pH 7.28, PaCO₂ 68 mmHg. After 2 hours of BiPAP, repeat ABG: pH 7.32, PaCO₂ 58 mmHg. She is more alert. The resident asks which BiPAP parameter most directly reduces PaCO₂. Which parameter is it?",
+    "choices": [
+      { "label": "A", "text": "Increasing expiratory pressure (EPAP)" },
+      { "label": "B", "text": "Increasing inspiratory pressure (IPAP)" },
+      { "label": "C", "text": "Increasing delivered FiO₂ concentration" },
+      { "label": "D", "text": "Increasing backup respiratory rate" },
+      { "label": "E", "text": "Adding circuit humidification" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "IPAP augments tidal volume by providing pressure support during inspiration. Increasing IPAP directly increases alveolar ventilation and CO₂ elimination. The pressure support is the IPAP-EPAP difference.",
+      "whyCorrect": "IPAP provides inspiratory pressure support that augments tidal volume. Since CO₂ elimination depends on alveolar ventilation, increasing tidal volume through higher IPAP directly reduces PaCO₂.",
+      "whyWrongByChoice": {
+        "A": "EPAP maintains airway patency and improves oxygenation but does not augment tidal volume or directly reduce PaCO₂.",
+        "C": "Increasing FiO₂ improves oxygenation but does not affect ventilation or CO₂ elimination. In COPD, excessive FiO₂ may worsen hypercapnia.",
+        "D": "Backup rate only activates if spontaneous rate falls below the threshold. IPAP is the primary driver of tidal volume augmentation.",
+        "E": "Humidification improves comfort and secretion management but has no direct effect on CO₂ elimination."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypercapnia", "BiPAP", "IPAP", "pressure support", "non-invasive ventilation"]
+  },
+  {
+    "id": "r10-044",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 52-year-old man with a C3-C4 spinal cord injury is ventilator-dependent. He develops a fever of 39.5°C and purulent secretions. The ventilator shows unchanged minute ventilation, but ETCO₂ rises from 38 to 52 mmHg. Which mechanism best explains the rising CO₂ despite stable minute ventilation?",
+    "choices": [
+      { "label": "A", "text": "Mechanical ventilator malfunction" },
+      { "label": "B", "text": "Developing metabolic alkalosis" },
+      { "label": "C", "text": "Progressive auto-PEEP air trapping" },
+      { "label": "D", "text": "Worsening spinal cord injury" },
+      { "label": "E", "text": "Increased CO₂ production from fever" }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Fever and infection increase metabolic rate and CO₂ production. Each 1°C rise in temperature increases CO₂ production by approximately 10-13%. With fixed minute ventilation, the higher CO₂ production exceeds elimination capacity, raising PaCO₂.",
+      "whyCorrect": "Fever (39.5°C) increases basal metabolic rate and CO₂ production. On fixed ventilator settings, the higher production rate exceeds the elimination capacity, causing PaCO₂ to rise. Ventilator adjustments are needed.",
+      "whyWrongByChoice": {
+        "A": "Ventilator malfunction would alter delivered volumes or pressures. The question states minute ventilation is unchanged.",
+        "B": "Metabolic alkalosis would not cause PaCO₂ to rise on controlled ventilation.",
+        "C": "Auto-PEEP typically occurs with obstructive disease and rapid rates. The clinical picture of fever with stable ventilation points to increased CO₂ production.",
+        "D": "Worsening spinal cord injury would not increase CO₂ production. This patient is already on full ventilator support."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypercapnia", "increased CO2 production", "fever", "ventilator management", "spinal cord injury"]
+  },
+  {
+    "id": "r10-045",
+    "topicId": "hypoxemia",
+    "topicName": "Hypoxemia",
+    "stem": "A 58-year-old man with cyanotic congenital heart disease and chronic hypoxemia is evaluated for progressive exercise intolerance. On examination, his fingertips show bulbous enlargement with loss of the normal nail-fold angle. SpO₂ is 78% at rest. The physician explains that the underlying mechanism of his digital clubbing involves specific growth factors released from hypoxic tissues. Which mediators are most responsible?",
+    "choices": [
+      { "label": "A", "text": "Calcium deposits in nail matrix" },
+      { "label": "B", "text": "PDGF and VEGF growth factors" },
+      { "label": "C", "text": "Direct CO₂ toxicity to nails" },
+      { "label": "D", "text": "Vitamin D deficiency effects" },
+      { "label": "E", "text": "Iron deposition in fingertips" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Clubbing is thought to result from chronic tissue hypoxia stimulating release of PDGF and VEGF that promote connective tissue proliferation and vascular changes in the distal phalanges.",
+      "whyCorrect": "Chronic hypoxemia triggers release of PDGF and VEGF from hypoxic tissues and megakaryocyte fragments. These growth factors stimulate fibroblast proliferation and angiogenesis in the nail bed, producing the soft tissue expansion of clubbing.",
+      "whyWrongByChoice": {
+        "A": "Calcium deposition does not cause clubbing. Clubbing results from connective tissue and vascular proliferation driven by growth factors.",
+        "C": "CO₂ does not directly damage the nail matrix. Clubbing is related to chronic hypoxemia, not hypercapnia.",
+        "D": "Vitamin D deficiency causes osteomalacia or rickets, not digital clubbing.",
+        "E": "Iron deposition (hemochromatosis) affects the liver, heart, and pancreas, not the fingertips in this pattern."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypoxemia", "clubbing", "VEGF", "PDGF", "physiology"]
+  },
+  {
+    "id": "r10-046",
+    "topicId": "hypercapnia",
+    "topicName": "Hypercapnia",
+    "stem": "A 64-year-old man with severe COPD and acute-on-chronic respiratory failure is evaluated in the ICU. ABG shows PaCO₂ 85 mmHg. On examination, when asked to hold his wrists in dorsiflexion, he demonstrates involuntary flapping movements of both hands. The neurologist confirms this finding represents asterixis. Which pathophysiological mechanism causes asterixis in this setting?",
+    "choices": [
+      { "label": "A", "text": "Cerebellar dysfunction from CO₂ toxicity" },
+      { "label": "B", "text": "Metabolic encephalopathy from hypercapnia" },
+      { "label": "C", "text": "Peripheral neuropathy from hypoxemia" },
+      { "label": "D", "text": "Hypocalcemia-induced muscle tetany" },
+      { "label": "E", "text": "Dehydration-related electrolyte imbalance" }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Asterixis is a negative myoclonus seen in metabolic encephalopathies, including CO₂ narcosis from severe hypercapnia. Elevated CO₂ causes cerebral vasodilation, decreased CSF pH, and impaired neurotransmitter function, producing the characteristic flapping tremor.",
+      "whyCorrect": "Hypercapnia causes metabolic encephalopathy through cerebral vasodilation with increased intracranial pressure, CSF acidification, and disrupted neurotransmitter activity. Asterixis is a classic sign of this CO₂-induced encephalopathy.",
+      "whyWrongByChoice": {
+        "A": "While CO₂ affects brain function broadly, asterixis is a manifestation of metabolic encephalopathy, not isolated cerebellar dysfunction.",
+        "C": "Peripheral neuropathy causes sensory and motor deficits in the extremities. Asterixis is a central nervous system phenomenon.",
+        "D": "Hypocalcemia causes tetany with Chvostek and Trousseau signs, not asterixis.",
+        "E": "Dehydration can cause confusion but is not the mechanism of asterixis in hypercapnia. The asterixis is from CO₂-induced cerebral dysfunction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypercapnia", "asterixis", "encephalopathy", "CO2 narcosis", "physiology"]
+  }
+]

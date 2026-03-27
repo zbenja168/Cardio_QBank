@@ -1,0 +1,2076 @@
+[
+  {
+    "id": "r07-001",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 27-year-old man with no significant medical history presents to the emergency department after a stressful work meeting. He reports sudden-onset shortness of breath, palpitations, and tingling around his mouth. Vital signs show a heart rate of 110 bpm, respiratory rate of 32 breaths/min, blood pressure of 130/82 mmHg, and SpO₂ of 99% on room air. An arterial blood gas reveals pH 7.52, PaCO₂ 28 mmHg, and HCO₃⁻ 23 mEq/L. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Acute respiratory alkalosis"
+      },
+      {
+        "label": "B",
+        "text": "Chronic respiratory alkalosis"
+      },
+      {
+        "label": "C",
+        "text": "Primary metabolic alkalosis"
+      },
+      {
+        "label": "D",
+        "text": "Acute respiratory acidosis"
+      },
+      {
+        "label": "E",
+        "text": "Compensated metabolic acidosis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The elevated pH (7.52) with decreased PaCO₂ (28 mmHg) confirms respiratory alkalosis. The normal HCO₃⁻ indicates an acute process without renal compensation. The clinical scenario of anxiety, stressful trigger, and normal SpO₂ points to acute anxiety-driven hyperventilation.",
+      "whyCorrect": "Acute respiratory alkalosis is characterized by elevated pH, decreased PaCO₂, and normal HCO₃⁻ because the kidneys have not had time to compensate. The clinical presentation of anxiety, rapid breathing, perioral tingling, and normal oxygenation is classic for panic-induced hyperventilation.",
+      "whyWrongByChoice": {
+        "B": "Chronic respiratory alkalosis would show decreased HCO₃⁻ from renal compensation over days. This patient's normal HCO₃⁻ of 23 mEq/L indicates an acute process.",
+        "C": "Metabolic alkalosis would show elevated pH with elevated HCO₃⁻ as the primary disturbance, not a reduced PaCO₂ as the driver.",
+        "D": "Respiratory acidosis would show decreased pH with elevated PaCO₂. This patient has the opposite pattern with high pH and low PaCO₂.",
+        "E": "Compensated metabolic acidosis shows low pH, low HCO₃⁻, and low PaCO₂. This patient has an elevated pH, ruling out acidosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "hyperventilation",
+      "panic-attack",
+      "ABG"
+    ]
+  },
+  {
+    "id": "r07-002",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 22-year-old woman presents to the emergency department with rapid breathing, dizziness, and bilateral hand tingling that began during a heated argument. Her vital signs show a respiratory rate of 28 breaths/min and SpO₂ of 100%. Physical examination reveals carpopedal spasm elicited by inflating a blood pressure cuff. An arterial blood gas shows pH 7.56, PaCO₂ 22 mmHg, and HCO₃⁻ 22 mEq/L. Which of the following best explains her paresthesias and carpopedal spasm?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Hyperkalemia from potassium shifts"
+      },
+      {
+        "label": "B",
+        "text": "Hypoglycemia from increased metabolism"
+      },
+      {
+        "label": "C",
+        "text": "Decreased ionized calcium from alkalemia"
+      },
+      {
+        "label": "D",
+        "text": "Direct CO₂ effect on nerves"
+      },
+      {
+        "label": "E",
+        "text": "Hypernatremia from renal losses"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In alkalemia, the increased pH causes calcium to shift from its ionized (active) form to albumin-bound form, decreasing free ionized calcium. This reduction in ionized calcium increases neuromuscular excitability, causing paresthesias, tingling, and potentially tetany with carpopedal spasm.",
+      "whyCorrect": "Alkalemia increases the negative charges on albumin, causing more calcium to bind to albumin. The resulting decrease in ionized (free) calcium lowers the threshold for nerve depolarization and promotes neuromuscular excitability, producing perioral and extremity paresthesias and carpopedal spasm (Trousseau sign).",
+      "whyWrongByChoice": {
+        "A": "Alkalemia causes hypokalemia (potassium shifts into cells), not hyperkalemia. While hypokalemia can cause symptoms, the paresthesias and carpopedal spasm here are primarily from decreased ionized calcium.",
+        "B": "Hypoglycemia is not a feature of respiratory alkalosis. Blood glucose levels are not significantly affected by acute changes in ventilation or pH.",
+        "D": "CO₂ itself does not directly cause peripheral nerve tingling or carpopedal spasm. The mechanism is the pH-dependent shift in calcium binding to albumin.",
+        "E": "Hypernatremia is not caused by respiratory alkalosis. Sodium homeostasis is not primarily affected by acute ventilation changes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "paresthesias",
+      "ionized-calcium",
+      "alkalemia"
+    ]
+  },
+  {
+    "id": "r07-003",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 34-year-old woman with a history of generalized anxiety disorder has been experiencing chronic hyperventilation for several weeks. Her arterial blood gas shows pH 7.43, PaCO₂ 30 mmHg, and HCO₃⁻ 19 mEq/L. A basic metabolic panel confirms the low bicarbonate. Which of the following best describes the renal compensation responsible for her near-normal pH?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased reabsorption of bicarbonate"
+      },
+      {
+        "label": "B",
+        "text": "Increased excretion of bicarbonate"
+      },
+      {
+        "label": "C",
+        "text": "Increased production of volatile acids"
+      },
+      {
+        "label": "D",
+        "text": "Enhanced carbonic anhydrase in lungs"
+      },
+      {
+        "label": "E",
+        "text": "Increased renal CO₂ production"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In chronic respiratory alkalosis, the kidneys compensate for the elevated pH by excreting bicarbonate and retaining H⁺. This lowers the HCO₃⁻/CO₂ ratio, bringing pH back toward normal over hours to days.",
+      "whyCorrect": "The kidneys respond to chronic alkalemia by reducing bicarbonate reabsorption and increasing bicarbonate excretion in the urine. This compensation takes hours to days to reach full effect and lowers serum HCO₃⁻, partially correcting the elevated pH to near-normal levels.",
+      "whyWrongByChoice": {
+        "A": "Retaining bicarbonate is the renal compensation for respiratory acidosis, not alkalosis. In respiratory alkalosis, the kidneys do the opposite to lower the pH.",
+        "C": "Volatile acid (CO₂) production is a metabolic process throughout the body, not a renal compensatory mechanism. The kidneys handle non-volatile acids and bicarbonate.",
+        "D": "Carbonic anhydrase in the lungs is not the mechanism of renal compensation. Renal compensation involves altered bicarbonate handling by the kidney tubules.",
+        "E": "The kidneys do not increase CO₂ production as compensation. CO₂ is produced by cellular metabolism and eliminated by the lungs."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "renal-compensation",
+      "bicarbonate-excretion"
+    ]
+  },
+  {
+    "id": "r07-004",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 30-year-old woman in her first trimester of pregnancy presents for routine prenatal care. She is asymptomatic and denies shortness of breath or chest pain. Vital signs are normal except for a respiratory rate of 18 breaths/min. An arterial blood gas obtained for baseline evaluation shows pH 7.44, PaCO₂ 32 mmHg, and HCO₃⁻ 21 mEq/L. Which of the following best explains these arterial blood gas findings?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Anxiety-driven acute hyperventilation"
+      },
+      {
+        "label": "B",
+        "text": "Gestational diabetes with ketoacidosis"
+      },
+      {
+        "label": "C",
+        "text": "Pre-eclampsia causing renal failure"
+      },
+      {
+        "label": "D",
+        "text": "Progesterone-mediated chronic alkalosis"
+      },
+      {
+        "label": "E",
+        "text": "Acute pulmonary embolism"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Pregnancy increases progesterone levels, which stimulates the respiratory center and causes increased tidal volume. This physiologic hyperventilation produces a mild chronic respiratory alkalosis with low PaCO₂ and compensatory decrease in HCO₃⁻. The near-normal pH reflects renal compensation.",
+      "whyCorrect": "Progesterone acts as a respiratory stimulant, increasing tidal volume and minute ventilation during pregnancy. The chronic mild hyperventilation lowers PaCO₂ to approximately 30-32 mmHg. Renal compensation through bicarbonate excretion brings HCO₃⁻ down, maintaining pH near normal. This is a normal physiologic finding in pregnancy.",
+      "whyWrongByChoice": {
+        "A": "While anxiety can cause hyperventilation, the chronic nature indicated by decreased HCO₃⁻ showing renal compensation and the pregnancy context make progesterone-mediated changes more likely. She is also asymptomatic.",
+        "B": "Gestational diabetes with metabolic acidosis would show low pH and low HCO₃⁻ as primary findings with compensatory low PaCO₂. This patient has a near-normal to slightly alkalotic pH.",
+        "C": "Pre-eclampsia with renal failure typically presents with hypertension, proteinuria, and potentially metabolic acidosis, not a compensated chronic respiratory alkalosis.",
+        "E": "PE would present acutely with symptoms such as dyspnea, tachypnea, or chest pain. This patient is asymptomatic with a chronic compensated pattern."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "pregnancy",
+      "progesterone",
+      "chronic"
+    ]
+  },
+  {
+    "id": "r07-005",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 28-year-old woman with a history of recurrent panic attacks presents to the emergency department with acute-onset dyspnea, tachypnea, and perioral numbness that began during a confrontation with her landlord. Her respiratory rate is 30 breaths/min, SpO₂ is 100%, and PaO₂ is 110 mmHg on room air. An arterial blood gas confirms respiratory alkalosis. Which of the following conditions can cause respiratory alkalosis with a normal or elevated PaO₂?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Lobar pneumonia"
+      },
+      {
+        "label": "B",
+        "text": "Acute respiratory distress syndrome"
+      },
+      {
+        "label": "C",
+        "text": "Congestive heart failure"
+      },
+      {
+        "label": "D",
+        "text": "High-altitude acclimatization"
+      },
+      {
+        "label": "E",
+        "text": "Panic disorder"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Panic disorder causes hyperventilation from CNS-driven anxiety, not from hypoxemia. PaO₂ remains normal or elevated because the lungs are healthy and the hyperventilation actually increases alveolar oxygen. This is a non-hypoxemic cause of respiratory alkalosis.",
+      "whyCorrect": "In panic disorder, the hyperventilation is driven by CNS stimulation from anxiety, not by low oxygen. The lungs function normally, so PaO₂ is normal or even elevated from the hyperventilation itself. This distinguishes non-hypoxemic causes from hypoxemia-driven causes.",
+      "whyWrongByChoice": {
+        "A": "Pneumonia impairs gas exchange through consolidation and V/Q mismatch, causing hypoxemia that triggers reflex hyperventilation. PaO₂ is typically decreased.",
+        "B": "ARDS causes severe V/Q mismatch, shunting, and hypoxemia, which drives hyperventilation. PaO₂ is markedly decreased.",
+        "C": "CHF can cause pulmonary edema and V/Q mismatch, leading to hypoxemia that reflexively drives hyperventilation.",
+        "D": "High altitude reduces inspired PO₂, causing hypoxemia and reflex hyperventilation through peripheral chemoreceptors. PaO₂ is decreased."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "panic-disorder",
+      "normal-PaO2"
+    ]
+  },
+  {
+    "id": "r07-006",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 19-year-old woman is brought to the emergency department after ingesting a large quantity of aspirin tablets in a suicide attempt 2 hours ago. She is tachypneic with a respiratory rate of 28 breaths/min, alert, and oriented. Her arterial blood gas shows pH 7.50, PaCO₂ 25 mmHg, and HCO₃⁻ 22 mEq/L with a normal lactate level. Which of the following acid-base patterns is most consistent with early salicylate toxicity?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Isolated respiratory alkalosis"
+      },
+      {
+        "label": "B",
+        "text": "Isolated metabolic acidosis"
+      },
+      {
+        "label": "C",
+        "text": "Primary respiratory acidosis"
+      },
+      {
+        "label": "D",
+        "text": "Primary metabolic alkalosis"
+      },
+      {
+        "label": "E",
+        "text": "Mixed respiratory and metabolic acidosis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In early salicylate overdose, aspirin directly stimulates the medullary respiratory center, causing hyperventilation and isolated respiratory alkalosis. As toxicity progresses, lactic acid accumulation from uncoupled oxidative phosphorylation adds metabolic acidosis, creating a mixed picture.",
+      "whyCorrect": "Salicylates stimulate the brainstem respiratory centers, causing early hyperventilation and respiratory alkalosis. This is a non-hypoxemic cause. Later, metabolic acidosis from lactate and the salicylate anion creates a mixed respiratory alkalosis-metabolic acidosis pattern.",
+      "whyWrongByChoice": {
+        "B": "Metabolic acidosis develops later in salicylate toxicity from lactic acid and the salicylate anion. Early toxicity presents with isolated respiratory alkalosis from CNS stimulation.",
+        "C": "Salicylates stimulate rather than depress the respiratory center, causing hyperventilation. Respiratory acidosis would require respiratory depression.",
+        "D": "Metabolic alkalosis is not caused by salicylate overdose. The metabolic component that develops later is acidosis from lactate accumulation.",
+        "E": "A mixed respiratory and metabolic acidosis is not the typical early pattern. The respiratory component in salicylate toxicity is alkalosis from CNS stimulation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "aspirin-overdose",
+      "respiratory-alkalosis",
+      "salicylate"
+    ]
+  },
+  {
+    "id": "r07-007",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 25-year-old man presents with acute-onset hyperventilation, dizziness, and near-syncope during a heated phone call. His respiratory rate is 34 breaths/min and SpO₂ is 99%. He reports the room is spinning and his vision is narrowing. An arterial blood gas shows pH 7.58, PaCO₂ 18 mmHg, and HCO₃⁻ 22 mEq/L. Which of the following mechanisms best explains his neurological symptoms?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased PaCO₂ causing vasodilation"
+      },
+      {
+        "label": "B",
+        "text": "Elevated bicarbonate levels"
+      },
+      {
+        "label": "C",
+        "text": "Hypocapnia-induced cerebral vasoconstriction"
+      },
+      {
+        "label": "D",
+        "text": "Increased ionized calcium levels"
+      },
+      {
+        "label": "E",
+        "text": "Hyperkalemia from transcellular shift"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "CO₂ is a potent cerebral vasodilator. In respiratory alkalosis, decreased PaCO₂ (hypocapnia) removes this vasodilatory stimulus, causing cerebral vasoconstriction. This reduces cerebral blood flow, contributing to dizziness, lightheadedness, visual changes, and syncope.",
+      "whyCorrect": "Low PaCO₂ causes cerebral vasoconstriction because CO₂ normally maintains cerebral vasodilation. Hypocapnia reduces cerebral blood flow, producing neurological symptoms like dizziness, lightheadedness, tunnel vision, and potential syncope.",
+      "whyWrongByChoice": {
+        "A": "Increased PaCO₂ causes cerebral vasodilation, not constriction, and would increase cerebral blood flow. This patient has low PaCO₂, not high.",
+        "B": "Elevated bicarbonate is seen in metabolic alkalosis or compensated respiratory acidosis. In this acute respiratory alkalosis, bicarbonate is normal and is not the cause of neurological symptoms.",
+        "D": "Ionized calcium decreases in alkalemia, not increases. Decreased ionized calcium causes paresthesias and neuromuscular excitability, not the cerebral symptoms described.",
+        "E": "Alkalemia causes hypokalemia (K⁺ shifts into cells), not hyperkalemia. Hypokalemia is not the mechanism of cerebral vasoconstriction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "cerebral-vasoconstriction",
+      "hypocapnia"
+    ]
+  },
+  {
+    "id": "r07-008",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 52-year-old woman with known chronic liver disease has an arterial blood gas obtained during a routine outpatient visit. The results show pH 7.43, PaCO₂ 28 mmHg, and HCO₃⁻ 18 mEq/L. She denies shortness of breath, chest pain, or anxiety. Her SpO₂ is 97% on room air. Which of the following arterial blood gas patterns is most consistent with chronic respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Elevated pH, low PaCO₂, normal HCO₃⁻"
+      },
+      {
+        "label": "B",
+        "text": "Near-normal pH, low PaCO₂, low HCO₃⁻"
+      },
+      {
+        "label": "C",
+        "text": "Low pH, high PaCO₂, high HCO₃⁻"
+      },
+      {
+        "label": "D",
+        "text": "High pH, high PaCO₂, high HCO₃⁻"
+      },
+      {
+        "label": "E",
+        "text": "Low pH, low PaCO₂, low HCO₃⁻"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In chronic respiratory alkalosis, sustained hyperventilation lowers PaCO₂. The kidneys compensate over days by excreting bicarbonate, lowering HCO₃⁻. The pH is slightly elevated or near-normal due to partial compensation.",
+      "whyCorrect": "The chronic nature allows renal compensation through bicarbonate excretion to lower HCO₃⁻ and bring pH closer to normal. The pattern of low PaCO₂ with low HCO₃⁻ and near-normal pH distinguishes chronic from acute respiratory alkalosis.",
+      "whyWrongByChoice": {
+        "A": "Normal HCO₃⁻ with low PaCO₂ and elevated pH describes acute respiratory alkalosis, where the kidneys have not yet had time to compensate through bicarbonate excretion.",
+        "C": "Low pH with high PaCO₂ and high HCO₃⁻ describes chronic respiratory acidosis with renal compensation, the opposite disturbance.",
+        "D": "High pH with high PaCO₂ and high HCO₃⁻ suggests metabolic alkalosis with respiratory compensation. It is not respiratory alkalosis.",
+        "E": "Low pH with both low PaCO₂ and low HCO₃⁻ describes metabolic acidosis with respiratory compensation through hyperventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "chronic-respiratory-alkalosis",
+      "ABG-pattern",
+      "renal-compensation"
+    ]
+  },
+  {
+    "id": "r07-009",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 55-year-old woman presents to the emergency department with sudden-onset dyspnea and pleuritic chest pain. She returned from a transatlantic flight 2 days ago. Her right calf is swollen and tender. Vital signs show a respiratory rate of 26 breaths/min and SpO₂ of 92%. An arterial blood gas shows pH 7.48, PaCO₂ 30 mmHg, and HCO₃⁻ 22 mEq/L. Which of the following is the most likely underlying cause of her respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Acute panic attack"
+      },
+      {
+        "label": "B",
+        "text": "Acute asthma exacerbation"
+      },
+      {
+        "label": "C",
+        "text": "Spontaneous pneumothorax"
+      },
+      {
+        "label": "D",
+        "text": "Pulmonary embolism"
+      },
+      {
+        "label": "E",
+        "text": "Gastroesophageal reflux disease"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Pulmonary embolism (PE) is a potentially fatal cause of respiratory alkalosis that must always be considered in unexplained hyperventilation. The triad of sudden dyspnea, pleuritic chest pain, and signs of deep venous thrombosis (unilateral calf swelling after prolonged immobilization) strongly suggests PE.",
+      "whyCorrect": "PE causes V/Q mismatch and often hypoxemia, triggering reflex hyperventilation and respiratory alkalosis. The combination of acute respiratory alkalosis, pleuritic chest pain, unilateral leg swelling suggestive of DVT, and recent prolonged immobility should prompt urgent evaluation with D-dimer and CT angiography.",
+      "whyWrongByChoice": {
+        "A": "Panic disorder causes respiratory alkalosis but does not present with pleuritic chest pain, unilateral leg swelling, or hypoxemia. These findings suggest a thromboembolic process.",
+        "B": "Asthma exacerbation causes wheezing and dyspnea from bronchoconstriction. It does not typically present with pleuritic chest pain and unilateral calf swelling.",
+        "C": "Pneumothorax causes sudden dyspnea and chest pain but presents with absent breath sounds on the affected side, not unilateral leg swelling suggestive of DVT.",
+        "E": "GERD causes heartburn and chest discomfort but does not cause respiratory alkalosis, pleuritic chest pain, hypoxemia, or leg swelling."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "pulmonary-embolism",
+      "respiratory-alkalosis",
+      "DVT"
+    ]
+  },
+  {
+    "id": "r07-010",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 42-year-old man presents with tachypnea, dizziness, and an arterial blood gas confirming respiratory alkalosis. His SpO₂ is 88% on room air, and a chest X-ray shows bilateral infiltrates consistent with pneumonia. He is placed on supplemental oxygen and started on empiric antibiotics. The attending physician explains that the overall management strategy for respiratory alkalosis primarily involves which of the following?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Administering intravenous bicarbonate"
+      },
+      {
+        "label": "B",
+        "text": "Prescribing oral potassium supplements"
+      },
+      {
+        "label": "C",
+        "text": "Breathing into a paper bag"
+      },
+      {
+        "label": "D",
+        "text": "Administering inhaled carbon dioxide"
+      },
+      {
+        "label": "E",
+        "text": "Treating the underlying cause"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The treatment of respiratory alkalosis focuses on identifying and treating the underlying cause. Respiratory alkalosis is more of a sign than a primary disease. If hypoxemia is present, oxygen should be administered while the underlying cause is investigated and treated.",
+      "whyCorrect": "Respiratory alkalosis is driven by hyperventilation from diverse causes (anxiety, PE, pneumonia, sepsis, pregnancy). Treatment targets the underlying condition: anxiolytics for panic, anticoagulation for PE, antibiotics for pneumonia. The alkalosis resolves when the cause is treated.",
+      "whyWrongByChoice": {
+        "A": "IV bicarbonate would worsen alkalosis by adding more base to an already alkalotic patient. It is used for metabolic acidosis, not respiratory alkalosis.",
+        "B": "While hypokalemia can occur in alkalosis, potassium supplements alone do not address the underlying cause of the hyperventilation.",
+        "C": "Breathing into a paper bag is an outdated and potentially dangerous practice, especially when the cause is PE or pneumonia. It should not be recommended for all patients.",
+        "D": "Inhaled CO₂ is not a standard treatment. While it would theoretically raise PaCO₂, addressing the underlying cause is the appropriate management approach."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "management",
+      "underlying-cause"
+    ]
+  },
+  {
+    "id": "r07-011",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 38-year-old man is evaluated for respiratory alkalosis after presenting with tachypnea. The attending physician notes that although respiratory alkalosis has many etiologies including anxiety, sepsis, high altitude, pulmonary embolism, and pregnancy, they all share a single common pathophysiologic mechanism. Which of the following is the sole direct cause of respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Renal bicarbonate retention"
+      },
+      {
+        "label": "B",
+        "text": "Increased metabolic acid production"
+      },
+      {
+        "label": "C",
+        "text": "Decreased cardiac output"
+      },
+      {
+        "label": "D",
+        "text": "Impaired alveolar gas exchange"
+      },
+      {
+        "label": "E",
+        "text": "Increased alveolar ventilation"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Respiratory alkalosis is caused exclusively by increased alveolar ventilation (hyperventilation), which leads to excessive CO₂ excretion and reduced PaCO₂. The numerous etiologies all converge on this single mechanism of excessive CO₂ loss from the lungs.",
+      "whyCorrect": "Every cause of respiratory alkalosis, whether hypoxemia-driven (altitude, pneumonia) or non-hypoxemic (panic, sepsis, pregnancy), produces the alkalosis through the same final pathway: increased alveolar ventilation causing excessive CO₂ elimination and a rise in pH.",
+      "whyWrongByChoice": {
+        "A": "Renal bicarbonate retention is the compensation for respiratory acidosis, not a cause of respiratory alkalosis. In respiratory alkalosis, the kidneys excrete bicarbonate.",
+        "B": "Increased metabolic acid production leads to metabolic acidosis, not respiratory alkalosis. The respiratory system may compensate for metabolic acidosis through hyperventilation.",
+        "C": "Decreased cardiac output does not directly cause respiratory alkalosis. It may lead to tissue hypoxia and compensatory hyperventilation, but the direct cause remains increased ventilation.",
+        "D": "Impaired gas exchange typically causes hypoxemia, which can trigger hyperventilation. But the direct cause of the alkalosis is the resulting increased ventilation, not the gas exchange impairment itself."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "hyperventilation",
+      "pathophysiology"
+    ]
+  },
+  {
+    "id": "r07-012",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 40-year-old man is found unresponsive at the scene of a house fire with singed nasal hair, superficial burns on his arms, and red discoloration of the skin in unburned areas. Paramedics place a pulse oximeter, which reads 98%. In the emergency department, an arterial blood gas is obtained and reveals PaO₂ of 95 mmHg. Despite these apparently normal oxygenation readings, the patient remains comatose. Which of the following best explains the discrepancy between the pulse oximetry reading and his clinical condition?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "COHb mimics oxyhemoglobin on oximetry"
+      },
+      {
+        "label": "B",
+        "text": "CO increases dissolved plasma oxygen"
+      },
+      {
+        "label": "C",
+        "text": "Patient has adequate tissue oxygenation"
+      },
+      {
+        "label": "D",
+        "text": "Fire exposure raises hemoglobin levels"
+      },
+      {
+        "label": "E",
+        "text": "Burns cause peripheral vasodilation"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Standard pulse oximeters use two wavelengths to distinguish oxyhemoglobin from deoxyhemoglobin. Carboxyhemoglobin (COHb) absorbs light similarly to oxyhemoglobin at these wavelengths, so the device reads COHb as oxygenated hemoglobin, giving a falsely normal SpO₂.",
+      "whyCorrect": "Pulse oximetry cannot differentiate COHb from oxyhemoglobin because both absorb light at 660 nm similarly. Despite significant CO poisoning and tissue hypoxia, SpO₂ appears normal. CO-oximetry using multiple wavelengths or arterial blood gas with co-oximetry is needed for accurate diagnosis.",
+      "whyWrongByChoice": {
+        "C": "The patient is severely hypoxic due to CO displacing O₂ from hemoglobin. The normal SpO₂ is falsely reassuring, not an indication of adequate oxygenation.",
+        "B": "CO does not increase dissolved oxygen. CO binds hemoglobin and inhibits O₂ release at tissues, worsening hypoxia rather than improving it.",
+        "D": "Fire exposure does not increase hemoglobin concentration. CO reduces the functional oxygen-carrying capacity of existing hemoglobin molecules.",
+        "E": "Burns may cause peripheral edema but this does not explain falsely normal pulse oximetry. The issue is spectrophotometric, not circulatory."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "pulse-oximetry",
+      "carboxyhemoglobin"
+    ]
+  },
+  {
+    "id": "r07-013",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 35-year-old man is brought to the emergency department after being found unconscious in a closed garage with the car engine running. His carboxyhemoglobin level is 35%. The attending physician explains that CO causes greater tissue hypoxia than an equivalent degree of anemia because CO has an additional mechanism beyond simply occupying hemoglobin binding sites. Which of the following describes this additional mechanism?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increasing P50 and promoting unloading"
+      },
+      {
+        "label": "B",
+        "text": "Destroying red blood cells by hemolysis"
+      },
+      {
+        "label": "C",
+        "text": "Blocking ventilation at the larynx"
+      },
+      {
+        "label": "D",
+        "text": "Left-shifting the dissociation curve"
+      },
+      {
+        "label": "E",
+        "text": "Inactivating carbonic anhydrase enzyme"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Beyond occupying O₂-binding sites, CO allosterically increases the O₂ affinity of the remaining functional heme groups, shifting the dissociation curve left. This impairs O₂ release at the tissues, making CO poisoning more severe than an equivalent degree of anemia.",
+      "whyCorrect": "CO binding to one heme site increases the remaining sites' affinity for O₂ (left shift, decreased P50). This means whatever O₂ is bound is held more tightly and released less readily at tissues, compounding the reduced carrying capacity with impaired delivery.",
+      "whyWrongByChoice": {
+        "A": "Increasing P50 would shift the curve right and promote O₂ unloading, which would actually be beneficial. CO does the opposite by decreasing P50 and left-shifting the curve.",
+        "B": "CO does not cause hemolysis. It binds to hemoglobin reversibly. The red blood cells remain structurally intact; their functional capacity is impaired.",
+        "C": "CO does not block ventilation at the larynx. It is an inhaled gas that enters the blood through the alveoli and binds hemoglobin intravascularly.",
+        "E": "CO does not inactivate carbonic anhydrase. CO binds heme-containing proteins such as hemoglobin, myoglobin, and cytochrome c oxidase, not zinc-containing enzymes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "left-shift",
+      "oxygen-affinity"
+    ]
+  },
+  {
+    "id": "r07-014",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 50-year-old industrial worker is brought to the emergency department after accidental exposure to hydrogen cyanide gas at a chemical processing plant. He presents with confusion, tachycardia, and severe metabolic acidosis with a lactate of 14 mmol/L. His PaO₂ is 98 mmHg and SpO₂ is 99% on room air. Which of the following is the primary mechanism by which cyanide causes cellular hypoxia?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Inhibiting cytochrome c oxidase irreversibly"
+      },
+      {
+        "label": "B",
+        "text": "Destroying alveolar gas exchange surface"
+      },
+      {
+        "label": "C",
+        "text": "Binding hemoglobin and blocking transport"
+      },
+      {
+        "label": "D",
+        "text": "Causing severe bronchospasm"
+      },
+      {
+        "label": "E",
+        "text": "Depleting alveolar surfactant stores"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Cyanide binds to ferric iron (Fe³⁺) in mitochondrial cytochrome c oxidase (complex IV), blocking the electron transport chain and preventing cells from using oxygen for aerobic metabolism. This causes severe lactic acidosis from forced anaerobic metabolism and can rapidly lead to cell death.",
+      "whyCorrect": "CN⁻ binds Fe³⁺ in cytochrome c oxidase, the terminal enzyme in the mitochondrial electron transport chain. This halts oxidative phosphorylation, preventing ATP production despite adequate oxygen delivery. Cells cannot use available O₂, leading to histotoxic hypoxia.",
+      "whyWrongByChoice": {
+        "C": "Binding hemoglobin is the mechanism of CO poisoning, not cyanide. Cyanide acts intracellularly at the mitochondria, not on hemoglobin in the blood.",
+        "B": "Cyanide does not primarily destroy alveolar epithelium. Its toxicity occurs at the cellular mitochondrial level, not at the gas exchange surface.",
+        "D": "Cyanide does not cause bronchospasm. Its primary mechanism is inhibition of cellular respiration at the mitochondrial level.",
+        "E": "Cyanide does not deplete surfactant. The pathophysiology is intracellular through inhibition of the electron transport chain."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-poisoning",
+      "cytochrome-c-oxidase",
+      "electron-transport-chain"
+    ]
+  },
+  {
+    "id": "r07-015",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 32-year-old woman is rescued from a burning apartment building and brought to the emergency department. She has altered mental status with a Glasgow Coma Scale of 9, dilated pupils bilaterally, tachycardia, and hypotension. Laboratory studies show a serum lactate of 12 mmol/L and an arterial pH of 7.15. Her PaO₂ is 92 mmHg and pulse oximetry reads 97%. These findings are most consistent with poisoning by which of the following agents?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Carbon monoxide alone"
+      },
+      {
+        "label": "B",
+        "text": "Cyanide"
+      },
+      {
+        "label": "C",
+        "text": "Methanol ingestion"
+      },
+      {
+        "label": "D",
+        "text": "Ethylene glycol ingestion"
+      },
+      {
+        "label": "E",
+        "text": "Acetaminophen overdose"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Severe lactic acidosis (>8 mM), altered mental status, and mydriasis (bilateral pupil dilation) in a fire victim strongly suggest cyanide poisoning. CN inhibits cytochrome c oxidase, forcing anaerobic metabolism with severe lactate production. Mydriasis is a noted diagnostic symptom specific to CN toxicity.",
+      "whyCorrect": "Cyanide produces severe lactic acidosis (typically >8 mM) from blocked aerobic metabolism. Mydriasis is a characteristic finding that helps distinguish CN from CO poisoning, which causes milder lactic acidosis (~3 mM) without mydriasis.",
+      "whyWrongByChoice": {
+        "A": "CO poisoning causes mild lactic acidosis around 3 mM and does not typically cause mydriasis. The severity of lactic acidosis and bilateral mydriasis point to cyanide.",
+        "C": "Methanol poisoning causes metabolic acidosis with an osmolar gap and visual symptoms, but is not associated with fire exposure or bilateral mydriasis.",
+        "D": "Ethylene glycol causes metabolic acidosis with oxalate crystals in urine. It is not associated with fire exposure or mydriasis.",
+        "E": "Acetaminophen overdose causes hepatotoxicity. It does not present with mydriasis and severe lactic acidosis in the context of fire exposure."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-poisoning",
+      "lactic-acidosis",
+      "mydriasis",
+      "fire-victim"
+    ]
+  },
+  {
+    "id": "r07-016",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 45-year-old firefighter is brought to the emergency department after prolonged exposure during a warehouse fire involving burning plastics and furniture. He presents with headache, confusion, and tachypnea. The toxicology team explains that he is at risk for combined CO and CN poisoning. Which of the following is the most common source of simultaneous exposure to both carbon monoxide and hydrogen cyanide?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Smoke inhalation during fires"
+      },
+      {
+        "label": "B",
+        "text": "Faulty home heating systems"
+      },
+      {
+        "label": "C",
+        "text": "Automobile exhaust inhalation"
+      },
+      {
+        "label": "D",
+        "text": "Industrial chemical spill exposure"
+      },
+      {
+        "label": "E",
+        "text": "Sodium nitroprusside infusion"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Smoke inhalation during fires is the most common source of combined CO and CN poisoning. CO is produced by incomplete combustion of carbon-containing materials, while CN (hydrogen cyanide gas) is released from burning synthetic materials like plastics, polyurethane, nylon, and silk.",
+      "whyCorrect": "Fires produce both CO from incomplete combustion of organic materials and HCN from combustion of nitrogen-containing synthetics. An estimated 35-40% of fire victims have toxic cyanide levels, and smoke inhalation accounts for 75-80% of fire-related deaths.",
+      "whyWrongByChoice": {
+        "C": "Automobile exhaust is a common source of CO alone from incomplete fuel combustion but does not typically produce cyanide.",
+        "B": "Faulty heating systems produce CO from incomplete combustion but do not generate hydrogen cyanide gas.",
+        "D": "Industrial exposure can cause either CO or CN poisoning separately, but combined exposure is most common in fire scenarios.",
+        "E": "Sodium nitroprusside can cause CN toxicity from its metabolism but does not simultaneously produce CO poisoning."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-CN-combined",
+      "smoke-inhalation",
+      "fire"
+    ]
+  },
+  {
+    "id": "r07-017",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 28-year-old man is brought to the emergency department after being found unconscious in a car in a closed garage with the engine running. His carboxyhemoglobin level is 30%. He is immediately started on 100% oxygen via a non-rebreather mask, and his mental status begins to improve over the next hour. Which of the following best describes the mechanism by which high-concentration oxygen treats CO poisoning?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Directly neutralizing CO in blood"
+      },
+      {
+        "label": "B",
+        "text": "Increasing red blood cell production"
+      },
+      {
+        "label": "C",
+        "text": "Stimulating hepatic CO metabolism"
+      },
+      {
+        "label": "D",
+        "text": "Converting CO to CO₂ for exhalation"
+      },
+      {
+        "label": "E",
+        "text": "Competitively displacing CO from hemoglobin"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "High-concentration oxygen (100% FiO₂) increases the PaO₂, which competitively displaces CO from hemoglobin binding sites. This reduces the half-life of COHb from approximately 5 hours on room air to approximately 1.5 hours on 100% O₂.",
+      "whyCorrect": "Since CO and O₂ compete for the same hemoglobin binding sites, dramatically increasing PaO₂ with 100% oxygen shifts the equilibrium toward O₂ binding. This displaces CO, reduces COHb levels, and restores oxygen-carrying capacity.",
+      "whyWrongByChoice": {
+        "A": "Oxygen does not chemically neutralize CO. It works through competitive displacement at hemoglobin binding sites.",
+        "B": "100% oxygen does not stimulate erythropoiesis. Its benefit is immediate through displacing CO from existing hemoglobin.",
+        "C": "CO is not metabolized by the liver. It is eliminated primarily through the lungs by competitive displacement with oxygen.",
+        "D": "CO is not converted to CO₂ in the body. CO is exhaled unchanged once displaced from hemoglobin binding sites."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "treatment",
+      "100%-oxygen"
+    ]
+  },
+  {
+    "id": "r07-018",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 38-year-old woman is rescued from a building fire and presents with confusion, seizures, and severe lactic acidosis with a lactate of 15 mmol/L. Cyanide poisoning is suspected and the toxicology team immediately administers hydroxocobalamin (Cyanokit) intravenously. The patient's mental status begins to improve over the next 30 minutes. Which of the following best describes the mechanism of action of hydroxocobalamin?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Displaces CN from cytochrome oxidase"
+      },
+      {
+        "label": "B",
+        "text": "Binds CN to form excreted cyanocobalamin"
+      },
+      {
+        "label": "C",
+        "text": "Enhances hepatic CN metabolism"
+      },
+      {
+        "label": "D",
+        "text": "Stimulates electron transport chain"
+      },
+      {
+        "label": "E",
+        "text": "Converts CN to CO for exhalation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Hydroxocobalamin directly binds free cyanide ions in the blood to form cyanocobalamin (vitamin B12), which is non-toxic and excreted by the kidneys. This reduces the amount of free CN available to inhibit cytochrome c oxidase.",
+      "whyCorrect": "Hydroxocobalamin has a cobalt center with high affinity for CN⁻. It chelates free cyanide, forming cyanocobalamin (a form of vitamin B12) that is safely eliminated in the urine. This is the preferred first-line antidote for cyanide poisoning.",
+      "whyWrongByChoice": {
+        "A": "Hydroxocobalamin does not directly displace CN from cytochrome c oxidase. It works by scavenging free CN in the blood before it reaches the mitochondria.",
+        "C": "Hepatic metabolism of cyanide via rhodanese and thiosulfate is the body's natural detoxification pathway but is slow. Hydroxocobalamin works by direct binding, not by enhancing hepatic metabolism.",
+        "D": "Hydroxocobalamin does not stimulate the electron transport chain. By reducing CN levels, it allows cytochrome c oxidase to resume normal function on its own.",
+        "E": "CN is not converted to CO. Hydroxocobalamin converts CN to cyanocobalamin for renal excretion, not to carbon monoxide."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-treatment",
+      "hydroxocobalamin",
+      "cyanocobalamin"
+    ]
+  },
+  {
+    "id": "r07-019",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 60-year-old man presents to the emergency department in January with headache, nausea, and confusion. His wife, who accompanied him, has similar symptoms. They recently had their old gas furnace repaired. Pulse oximetry shows SpO₂ of 99%. The emergency physician suspects CO poisoning and orders a specific diagnostic test. Which of the following methods is used to accurately measure carboxyhemoglobin levels?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Standard two-wavelength pulse oximetry"
+      },
+      {
+        "label": "B",
+        "text": "Complete blood count with differential"
+      },
+      {
+        "label": "C",
+        "text": "CO-oximetry on arterial blood gas"
+      },
+      {
+        "label": "D",
+        "text": "Serum lactate level measurement"
+      },
+      {
+        "label": "E",
+        "text": "Posteroanterior chest radiograph"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "CO-oximetry uses multiple wavelengths of light to specifically distinguish COHb from oxyhemoglobin and other hemoglobin species. It is performed on an arterial blood sample and provides the definitive measurement of COHb levels for diagnosing CO poisoning.",
+      "whyCorrect": "CO-oximetry uses 4 or more wavelengths compared to 2 for standard pulse oximetry to differentiate oxyhemoglobin, deoxyhemoglobin, carboxyhemoglobin, and methemoglobin. A COHb level above 3% in non-smokers or above 10% in smokers confirms significant CO exposure.",
+      "whyWrongByChoice": {
+        "A": "Standard pulse oximetry uses only two wavelengths and cannot distinguish COHb from oxyhemoglobin, giving falsely normal readings in CO poisoning.",
+        "B": "CBC measures hemoglobin concentration and blood cell counts but cannot detect COHb or quantify CO poisoning.",
+        "D": "Serum lactate may be elevated in CO poisoning but is nonspecific. It cannot confirm the diagnosis or quantify CO exposure.",
+        "E": "Chest X-ray evaluates lung structure and may show pulmonary edema but cannot measure COHb levels or directly diagnose CO poisoning."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "diagnosis",
+      "co-oximetry",
+      "COHb"
+    ]
+  },
+  {
+    "id": "r07-020",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 48-year-old man was treated for severe CO poisoning with COHb of 28% after a furnace malfunction. He was hospitalized for 3 days, treated with 100% oxygen, and discharged after his symptoms resolved and COHb normalized. Three weeks later, his wife brings him back to the emergency department because he has developed progressive memory loss, difficulty concentrating, and personality changes. His neurological examination reveals cognitive impairment. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Delayed neuropsychiatric syndrome"
+      },
+      {
+        "label": "B",
+        "text": "Post-traumatic stress disorder"
+      },
+      {
+        "label": "C",
+        "text": "Chronic pulmonary fibrosis"
+      },
+      {
+        "label": "D",
+        "text": "Hepatic encephalopathy"
+      },
+      {
+        "label": "E",
+        "text": "Drug-seeking malingering behavior"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Delayed neuropsychiatric syndrome (DNS) can develop days to weeks after CO poisoning, even after apparent clinical recovery. Manifestations include cognitive deficits, memory impairment, personality changes, and movement disorders from delayed neuronal injury and demyelination.",
+      "whyCorrect": "DNS occurs in up to 30-40% of severe CO poisoning survivors. The delayed damage is thought to result from oxidative stress, lipid peroxidation, and immune-mediated demyelination in the brain triggered during the initial poisoning episode.",
+      "whyWrongByChoice": {
+        "B": "PTSD can cause emotional symptoms but the progressive cognitive decline with personality changes following documented severe CO poisoning is more consistent with DNS.",
+        "C": "CO poisoning can cause acute pulmonary edema but is not typically associated with delayed pulmonary fibrosis. His symptoms are neurological, not respiratory.",
+        "D": "Hepatic encephalopathy requires liver disease and would present with asterixis, jaundice, and other signs of hepatic dysfunction, which are absent here.",
+        "E": "The temporal relationship between severe CO poisoning and progressive cognitive decline weeks later is a well-documented phenomenon and should not be dismissed."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "delayed-neuropsychiatric",
+      "cognitive-deficits"
+    ]
+  },
+  {
+    "id": "r07-021",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 62-year-old man is admitted to the ICU for a hypertensive emergency with blood pressure of 220/130 mmHg and is started on intravenous sodium nitroprusside. After 48 hours of continuous infusion, he develops altered mental status, tachycardia, and metabolic acidosis with a lactate of 10 mmol/L. The ICU team suspects cyanide toxicity. Which of the following best explains why prolonged nitroprusside use causes cyanide poisoning?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Nitroprusside releases CN during metabolism"
+      },
+      {
+        "label": "B",
+        "text": "Nitroprusside directly blocks cytochrome oxidase"
+      },
+      {
+        "label": "C",
+        "text": "Nitroprusside is converted to CO hepatically"
+      },
+      {
+        "label": "D",
+        "text": "Nitroprusside depletes circulating hemoglobin"
+      },
+      {
+        "label": "E",
+        "text": "Nitroprusside causes severe methemoglobinemia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Sodium nitroprusside contains five cyanide groups per molecule. During metabolism, these CN groups are released and must be detoxified by hepatic rhodanese using thiosulfate. Prolonged use or rapid infusion can overwhelm this detoxification pathway, causing cyanide accumulation.",
+      "whyCorrect": "The nitroprusside molecule (Na₂[Fe(CN)₅NO]) contains five CN⁻ groups that are liberated during drug metabolism. If the rate of CN release exceeds the capacity of rhodanese to convert it to thiocyanate, toxic levels accumulate, inhibiting cytochrome c oxidase.",
+      "whyWrongByChoice": {
+        "B": "Nitroprusside does not directly block cytochrome c oxidase. The released cyanide from its metabolism is what inhibits this enzyme.",
+        "C": "Nitroprusside is not converted to CO. It releases cyanide ions, not carbon monoxide, during its metabolism.",
+        "D": "Nitroprusside does not deplete hemoglobin. Its toxicity is related to the release of cyanide groups, not hemoglobin effects.",
+        "E": "While nitroprusside can theoretically cause mild methemoglobinemia through its nitric oxide component, the clinically significant toxicity is from cyanide release."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "nitroprusside",
+      "cyanide-toxicity",
+      "iatrogenic"
+    ]
+  },
+  {
+    "id": "r07-022",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A medical student is studying the oxygen-hemoglobin dissociation curve and considers a patient with 50% carboxyhemoglobin compared to a patient with severe anemia who has lost 50% of their total hemoglobin. Both patients have equivalent reductions in functional oxygen-carrying capacity. The student asks why the CO-poisoned patient experiences greater tissue hypoxia than the anemic patient. Which of the following best explains this difference?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "CO causes red blood cell hemolysis"
+      },
+      {
+        "label": "B",
+        "text": "Anemia patients have more erythropoietin"
+      },
+      {
+        "label": "C",
+        "text": "CO patients have lower plasma PaO₂"
+      },
+      {
+        "label": "D",
+        "text": "CO left-shifts the curve, impairing release"
+      },
+      {
+        "label": "E",
+        "text": "Anemia raises cardiac output more than CO"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "With the same 50% reduction in O₂-carrying capacity, CO poisoning is worse because CO also left-shifts the oxyhemoglobin dissociation curve. In anemia, the remaining hemoglobin releases O₂ normally. In CO poisoning, the remaining O₂-bound hemoglobin holds O₂ more tightly.",
+      "whyCorrect": "CO has a dual mechanism: it occupies binding sites reducing carrying capacity (like anemia), and it allosterically increases O₂ affinity of the remaining functional sites (left shift). The remaining O₂ is released less readily at tissues, making CO poisoning more dangerous than equivalent anemia.",
+      "whyWrongByChoice": {
+        "A": "CO does not destroy red blood cells. It reversibly binds hemoglobin. The RBCs are intact in both conditions.",
+        "B": "Compensatory erythropoiesis takes weeks and is not relevant to acute CO poisoning. The immediate difference is the left shift of the dissociation curve.",
+        "C": "Plasma PaO₂ is actually normal in CO poisoning because PaO₂ reflects dissolved O₂, which is unaffected by CO binding to hemoglobin.",
+        "E": "Both conditions can trigger compensatory increases in cardiac output. The critical difference is the left shift that prevents O₂ release in CO poisoning."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "anemia-comparison",
+      "left-shift",
+      "tissue-hypoxia"
+    ]
+  },
+  {
+    "id": "r07-023",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 63-year-old man with a history of ischemic cardiomyopathy presents to the emergency department with progressive dyspnea over 3 days. Physical examination reveals bibasilar crackles, jugular venous distension, and 3+ pitting edema of both lower extremities. His arterial blood gas shows pH 7.55, PaCO₂ 25 mmHg, PaO₂ 70 mmHg, and HCO₃⁻ 21 mEq/L. The SpO₂ is 85% on room air. Which of the following best explains the mechanism of his respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Anxiety from hospital admission"
+      },
+      {
+        "label": "B",
+        "text": "Hypoxemia-driven reflex hyperventilation"
+      },
+      {
+        "label": "C",
+        "text": "Metabolic compensation for renal failure"
+      },
+      {
+        "label": "D",
+        "text": "Opioid-induced respiratory stimulation"
+      },
+      {
+        "label": "E",
+        "text": "High-altitude exposure during travel"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Heart failure causes pulmonary edema, which impairs gas exchange and produces hypoxemia (PaO₂ 70 mmHg). The hypoxemia stimulates peripheral chemoreceptors, triggering reflex hyperventilation that causes respiratory alkalosis.",
+      "whyCorrect": "Pulmonary edema from decompensated heart failure creates V/Q mismatch and diffusion impairment, reducing PaO₂. Peripheral chemoreceptors detect the hypoxemia and increase ventilatory drive, causing excessive CO₂ elimination and respiratory alkalosis.",
+      "whyWrongByChoice": {
+        "A": "While anxiety can cause hyperventilation, this patient's clinical picture of crackles, JVD, edema, and hypoxemia clearly points to heart failure with hypoxemia-driven hyperventilation.",
+        "C": "Metabolic compensation involves the kidneys adjusting bicarbonate, not changing ventilation. The hyperventilation here is a primary respiratory response to hypoxemia.",
+        "D": "Opioids cause respiratory depression and acidosis, not alkalosis with hyperventilation. They would decrease respiratory rate and raise PaCO₂.",
+        "E": "The patient is in a clinical setting with clear heart failure symptoms. There is no indication of recent high-altitude exposure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "heart-failure",
+      "hypoxemia"
+    ]
+  },
+  {
+    "id": "r07-024",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 58-year-old man is admitted to the ICU with septic shock secondary to a perforated appendix. Despite fluid resuscitation and vasopressors, he remains tachypneic with a respiratory rate of 30 breaths/min. His arterial blood gas shows pH 7.48, PaCO₂ 30 mmHg, and HCO₃⁻ 22 mEq/L. Chest X-ray shows no infiltrates and SpO₂ is 96% on room air. Which of the following mechanisms best explains his respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Direct bacterial invasion of brainstem"
+      },
+      {
+        "label": "B",
+        "text": "Cytokine-mediated respiratory center stimulation"
+      },
+      {
+        "label": "C",
+        "text": "Alveolar tissue destruction from infection"
+      },
+      {
+        "label": "D",
+        "text": "Renal bicarbonate retention response"
+      },
+      {
+        "label": "E",
+        "text": "Bronchospasm from endotoxin release"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Sepsis causes respiratory alkalosis through inflammatory cytokines (TNF-α, IL-1, IL-6) that directly stimulate the brainstem respiratory centers, increasing ventilatory drive beyond metabolic CO₂ production and causing hypocapnia.",
+      "whyCorrect": "Inflammatory mediators released during sepsis stimulate the medullary respiratory centers, increasing ventilatory drive. The resulting hyperventilation exceeds CO₂ production, causing respiratory alkalosis even in the absence of hypoxemia.",
+      "whyWrongByChoice": {
+        "A": "Bacteria do not typically directly invade the respiratory center in the brainstem. The stimulation is mediated by inflammatory cytokines from the systemic immune response.",
+        "C": "This patient's chest X-ray is clear, indicating no alveolar tissue destruction. The primary mechanism is CNS stimulation by cytokines rather than lung parenchymal damage.",
+        "D": "Renal bicarbonate retention is the compensation for respiratory acidosis, not a cause of respiratory alkalosis. His normal HCO₃⁻ indicates this is acute.",
+        "E": "Bronchospasm causes airway obstruction, not respiratory alkalosis. It is more associated with obstructive diseases like asthma and would cause CO₂ retention."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "sepsis",
+      "cytokines"
+    ]
+  },
+  {
+    "id": "r07-025",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 24-year-old woman presents to the emergency department with severe hyperventilation after witnessing a motor vehicle accident. Her respiratory rate is 36 breaths/min. An arterial blood gas shows pH 7.60 and PaCO₂ 15 mmHg. A basic metabolic panel is drawn to evaluate for electrolyte disturbances. Which of the following electrolyte abnormalities is most likely to be found?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Hypokalemia"
+      },
+      {
+        "label": "B",
+        "text": "Hypernatremia"
+      },
+      {
+        "label": "C",
+        "text": "Hyperkalemia"
+      },
+      {
+        "label": "D",
+        "text": "Hypercalcemia"
+      },
+      {
+        "label": "E",
+        "text": "Hyperphosphatemia"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In alkalemia, H⁺ shifts out of cells into the blood to buffer the elevated pH. K⁺ moves into cells to maintain electrical neutrality, causing hypokalemia.",
+      "whyCorrect": "Alkalemia promotes the exchange of intracellular K⁺ for extracellular H⁺. Potassium shifts into cells, lowering serum K⁺ levels and potentially causing muscle weakness, arrhythmias, and other hypokalemic symptoms.",
+      "whyWrongByChoice": {
+        "C": "Alkalemia causes hypokalemia, not hyperkalemia. K⁺ shifts into cells in exchange for H⁺ moving out to buffer the alkalosis.",
+        "B": "Sodium levels are not significantly affected by acute respiratory alkalosis. Sodium homeostasis is not primarily altered by ventilation changes.",
+        "D": "Total calcium may be unchanged, but ionized calcium actually decreases in alkalosis. Total serum hypercalcemia does not occur.",
+        "E": "Phosphate levels are not typically elevated in acute respiratory alkalosis. Phosphate may actually shift intracellularly."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "hypokalemia",
+      "electrolyte"
+    ]
+  },
+  {
+    "id": "r07-026",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 22-year-old man with type 1 diabetes presents to the emergency department with deep, labored breathing at 28 breaths/min. His blood glucose is 450 mg/dL. The medical student initially suspects respiratory alkalosis from hyperventilation, but the attending physician orders an arterial blood gas which shows pH 7.18, PaCO₂ 20 mmHg, and HCO₃⁻ 8 mEq/L. Which of the following ABG findings best distinguishes this patient's Kussmaul breathing from primary respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Elevated pH with decreased PaCO₂"
+      },
+      {
+        "label": "B",
+        "text": "Elevated PaCO₂ with decreased pH"
+      },
+      {
+        "label": "C",
+        "text": "Normal pH with normal PaCO₂"
+      },
+      {
+        "label": "D",
+        "text": "Low pH with low HCO₃⁻ and low PaCO₂"
+      },
+      {
+        "label": "E",
+        "text": "Elevated HCO₃⁻ with elevated pH"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Kussmaul respirations are deep, labored breathing that compensates for severe metabolic acidosis such as DKA. The ABG shows low pH, low HCO₃⁻ (primary metabolic disturbance), and low PaCO₂ (compensatory hyperventilation), distinguishing it from primary respiratory alkalosis which shows elevated pH.",
+      "whyCorrect": "In Kussmaul breathing, the ABG shows pH below 7.35, low HCO₃⁻ as the primary metabolic problem, and low PaCO₂ from respiratory compensation. In primary respiratory alkalosis, pH is above 7.45 with low PaCO₂ as the primary disturbance.",
+      "whyWrongByChoice": {
+        "A": "Elevated pH with low PaCO₂ describes primary respiratory alkalosis, not Kussmaul breathing from metabolic acidosis. The key distinguishing feature is the pH.",
+        "B": "Elevated PaCO₂ with low pH describes respiratory acidosis. Kussmaul breathing shows low PaCO₂ from compensatory hyperventilation.",
+        "C": "Normal values would indicate no acid-base disturbance. Kussmaul breathing occurs in response to significant metabolic acidosis.",
+        "E": "Elevated HCO₃⁻ with elevated pH describes metabolic alkalosis, not the acidosis that triggers Kussmaul breathing."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "kussmaul-respirations",
+      "metabolic-acidosis",
+      "respiratory-alkalosis"
+    ]
+  },
+  {
+    "id": "r07-027",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 56-year-old man with alcoholic cirrhosis and ascites is evaluated in the hepatology clinic. He has no respiratory complaints and his SpO₂ is 97%. An arterial blood gas obtained for pre-procedure evaluation shows pH 7.46, PaCO₂ 28 mmHg, and HCO₃⁻ 19 mEq/L. Which of the following best explains the mechanism of respiratory alkalosis in this patient?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Portal hypertension compressing diaphragm"
+      },
+      {
+        "label": "B",
+        "text": "Hepatic overproduction of CO₂"
+      },
+      {
+        "label": "C",
+        "text": "Hepatorenal syndrome causing acidosis"
+      },
+      {
+        "label": "D",
+        "text": "Ascitic fluid restricting lung expansion"
+      },
+      {
+        "label": "E",
+        "text": "Accumulated progesterone stimulating respiration"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Cirrhosis causes chronic respiratory alkalosis through accumulation of substances that stimulate the brainstem respiratory center, including progesterone (normally metabolized by the liver) and ammonia.",
+      "whyCorrect": "Hepatic dysfunction leads to impaired metabolism of progesterone and ammonia. These accumulated substances stimulate the medullary respiratory centers, causing chronic hyperventilation independent of hypoxemia. This is a non-hypoxemic cause of respiratory alkalosis.",
+      "whyWrongByChoice": {
+        "A": "Ascites and portal hypertension can restrict diaphragm movement but would impair ventilation, not stimulate hyperventilation. The mechanism here is chemical stimulation of the respiratory center.",
+        "B": "The liver does not produce excess CO₂ in cirrhosis. The alkalosis results from increased ventilation driven by chemical stimulation from unmetabolized substances.",
+        "C": "Hepatorenal syndrome causes metabolic acidosis from renal failure, not respiratory alkalosis. This patient has an alkalotic pH, not acidosis.",
+        "D": "Ascitic fluid restriction would impair ventilation, potentially causing hypoventilation and respiratory acidosis, not hyperventilation and alkalosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cirrhosis",
+      "respiratory-alkalosis",
+      "progesterone"
+    ]
+  },
+  {
+    "id": "r07-028",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A biochemistry professor is teaching medical students about the bicarbonate buffer system: CO₂ + H₂O ↔ H₂CO₃ ↔ H⁺ + HCO₃⁻. She explains that when a patient hyperventilates and PaCO₂ falls, the equilibrium shifts leftward according to Le Chatelier's principle. She then asks the class which of the following changes occurs as a result of this leftward shift?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Both H⁺ and HCO₃⁻ increase"
+      },
+      {
+        "label": "B",
+        "text": "H⁺ increases while HCO₃⁻ decreases"
+      },
+      {
+        "label": "C",
+        "text": "Both H⁺ and HCO₃⁻ decrease"
+      },
+      {
+        "label": "D",
+        "text": "H⁺ decreases while HCO₃⁻ increases"
+      },
+      {
+        "label": "E",
+        "text": "Only H⁺ changes; HCO₃⁻ is unaffected"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "When PaCO₂ decreases, the equilibrium shifts left: H⁺ and HCO₃⁻ combine to form H₂CO₃ which becomes CO₂ + H₂O. Both H⁺ and HCO₃⁻ are consumed in this process. The decreased H⁺ raises pH, and the decreased HCO₃⁻ is the initial chemical (non-renal) bicarbonate reduction.",
+      "whyCorrect": "The leftward shift consumes both H⁺ and HCO₃⁻ as they recombine into carbonic acid. This explains why pH rises (less H⁺) and HCO₃⁻ drops slightly even before renal compensation begins.",
+      "whyWrongByChoice": {
+        "A": "Both reactants are consumed in the leftward shift, so both decrease, not increase.",
+        "B": "H⁺ decreases rather than increases because it is consumed. This is precisely why pH rises in respiratory alkalosis.",
+        "D": "While H⁺ decreases (correct), HCO₃⁻ also decreases because both are consumed in the leftward reaction.",
+        "E": "Both H⁺ and HCO₃⁻ change. They are both consumed as reactants in the leftward equilibrium shift."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "bicarbonate-buffer",
+      "respiratory-alkalosis",
+      "le-chatelier"
+    ]
+  },
+  {
+    "id": "r07-029",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 33-year-old man is treated for moderate CO poisoning (COHb 22%) after exposure to a malfunctioning space heater. He is started on 100% oxygen via non-rebreather mask. The emergency physician explains that on room air, the half-life of carboxyhemoglobin is approximately 5 hours. With 100% normobaric oxygen therapy, the COHb half-life decreases to approximately which of the following?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "1.5 hours"
+      },
+      {
+        "label": "B",
+        "text": "3 hours"
+      },
+      {
+        "label": "C",
+        "text": "4 hours"
+      },
+      {
+        "label": "D",
+        "text": "30 minutes"
+      },
+      {
+        "label": "E",
+        "text": "5 minutes"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "100% normobaric oxygen reduces COHb half-life from approximately 5 hours to approximately 1.5 hours by massively increasing PaO₂ and competitively displacing CO from hemoglobin. Hyperbaric oxygen further reduces it to approximately 20-30 minutes.",
+      "whyCorrect": "100% O₂ dramatically increases PaO₂, enhancing competitive displacement of CO from hemoglobin binding sites. The approximately 1.5 hour half-life represents a significant improvement and is the basis for immediate high-flow O₂ therapy in all CO poisoning cases.",
+      "whyWrongByChoice": {
+        "C": "4 hours represents only minimal improvement over the 5-hour room air half-life and underestimates the benefit of 100% oxygen therapy.",
+        "B": "3 hours underestimates the benefit of 100% O₂. The accepted half-life with normobaric 100% oxygen is approximately 1.5 hours.",
+        "D": "30 minutes is closer to the half-life achieved with hyperbaric oxygen at 2-3 atmospheres, not standard normobaric 100% O₂.",
+        "E": "5 minutes is too rapid even for hyperbaric oxygen therapy and is not physiologically achievable."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "COHb-half-life",
+      "100%-oxygen"
+    ]
+  },
+  {
+    "id": "r07-030",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "An emergency department physician is giving a lecture on CO poisoning epidemiology. She explains that CO poisoning affects approximately 50,000 people annually in the United States, with a 1-3% mortality rate, and that the incidence shows a clear seasonal pattern. She asks the residents which season is associated with the highest incidence of CO poisoning cases.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Summer months"
+      },
+      {
+        "label": "B",
+        "text": "Winter months"
+      },
+      {
+        "label": "C",
+        "text": "Spring months"
+      },
+      {
+        "label": "D",
+        "text": "Fall months"
+      },
+      {
+        "label": "E",
+        "text": "No seasonal variation exists"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "CO poisoning peaks in winter due to increased indoor heater use. Faulty or poorly ventilated heating systems in enclosed spaces are the most common non-fire source of CO exposure.",
+      "whyCorrect": "Winter brings increased use of gas furnaces, space heaters, wood stoves, and fireplaces. Faulty equipment in sealed homes allows CO to accumulate. Additionally, automobile exhaust exposure is more common in enclosed garages during cold months.",
+      "whyWrongByChoice": {
+        "A": "Summer has minimal indoor heating use, so CO poisoning rates are lower. Air conditioning does not produce CO.",
+        "C": "Spring does not have the seasonal CO poisoning risk factors associated with intensive indoor heating system use.",
+        "D": "Fall has some early heating use but does not represent the peak incidence of CO poisoning cases.",
+        "E": "CO poisoning has a well-documented seasonal peak in winter months related to heating system use."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "epidemiology",
+      "winter"
+    ]
+  },
+  {
+    "id": "r07-031",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 29-year-old woman is rescued from a house fire where synthetic furniture and carpet were burning. In the emergency department, she has altered mental status with a Glasgow Coma Scale of 8, bilateral mydriasis, tachycardia at 130 bpm, and blood pressure of 80/50 mmHg. Laboratory results show arterial pH 7.10, lactate 16 mmol/L, and PaO₂ 90 mmHg. These findings most strongly suggest poisoning by which of the following agents?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Carbon monoxide alone"
+      },
+      {
+        "label": "B",
+        "text": "Ethylene glycol ingestion"
+      },
+      {
+        "label": "C",
+        "text": "Cyanide"
+      },
+      {
+        "label": "D",
+        "text": "Methanol ingestion"
+      },
+      {
+        "label": "E",
+        "text": "Acetaminophen overdose"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cyanide blocks cytochrome c oxidase, forcing severe anaerobic metabolism with lactate above 8 mM. Mydriasis is a characteristic neurological finding of CN poisoning, and the rapid cardiovascular collapse with hypotension distinguishes CN from CO poisoning.",
+      "whyCorrect": "CN completely blocks aerobic ATP production, forcing severe anaerobic metabolism. The resulting lactate above 8-10 mM combined with bilateral mydriasis, rapid cardiovascular collapse, and fire exposure to burning synthetic materials is classic for cyanide poisoning.",
+      "whyWrongByChoice": {
+        "A": "CO causes milder lactic acidosis around 3 mM and does not typically cause mydriasis or such rapid cardiovascular collapse. The severity of findings points to cyanide.",
+        "B": "Ethylene glycol causes metabolic acidosis with oxalate crystals in urine. It is not associated with fire exposure, mydriasis, or this degree of lactic acidosis.",
+        "D": "Methanol causes metabolic acidosis with an osmolar gap and visual symptoms, but is not associated with fire exposure or bilateral mydriasis.",
+        "E": "Acetaminophen causes delayed hepatotoxicity, not acute lactic acidosis with mydriasis in the setting of fire exposure."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-poisoning",
+      "lactic-acidosis",
+      "mydriasis"
+    ]
+  },
+  {
+    "id": "r07-032",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 52-year-old man with coronary artery disease is brought to the emergency department after his home CO detector alarmed. He reports chest pain and palpitations. His COHb level is 20% and an ECG shows ST-segment depression in the anterolateral leads with multiple premature ventricular complexes. Troponin is elevated at 0.8 ng/mL. Which of the following mechanisms best explains his cardiac findings?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "CO causing mitral valve prolapse"
+      },
+      {
+        "label": "B",
+        "text": "CO binding to myocardial myoglobin"
+      },
+      {
+        "label": "C",
+        "text": "CO inducing pericardial effusion"
+      },
+      {
+        "label": "D",
+        "text": "CO causing aortic valve stenosis"
+      },
+      {
+        "label": "E",
+        "text": "CO creating atrial septal defect"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "CO binds myocardial myoglobin with high affinity, impairing intracellular oxygen delivery to cardiac muscle. This causes myocardial ischemia that can manifest as angina, ST changes, arrhythmias, MI, and heart failure.",
+      "whyCorrect": "Myoglobin facilitates O₂ transfer from hemoglobin to mitochondria in cardiac muscle. CO binding blocks this transfer, causing myocardial ischemia. The resulting electrical instability produces arrhythmias and can cause myocardial infarction with troponin elevation.",
+      "whyWrongByChoice": {
+        "A": "Mitral valve prolapse is a structural valvular abnormality that is unrelated to CO poisoning or toxic exposure.",
+        "C": "Pericardial effusion is not a typical complication of CO poisoning. The cardiac injury is at the myocardial level through myoglobin binding.",
+        "D": "Aortic stenosis is a degenerative or congenital valve disease unrelated to CO exposure.",
+        "E": "Atrial septal defect is a congenital heart defect, not an acquired condition caused by CO exposure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "myoglobin",
+      "myocardial-ischemia"
+    ]
+  },
+  {
+    "id": "r07-033",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A toxicology fellow is discussing the body's endogenous cyanide detoxification pathway with medical students. She explains that the mitochondrial enzyme rhodanese in the liver converts cyanide to a less toxic compound using thiosulfate as a sulfur donor. This less toxic metabolite is then excreted by the kidneys. Which of the following is the product of rhodanese-mediated cyanide detoxification?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Cyanate"
+      },
+      {
+        "label": "B",
+        "text": "Cyanocobalamin"
+      },
+      {
+        "label": "C",
+        "text": "Carbon monoxide"
+      },
+      {
+        "label": "D",
+        "text": "Thiocyanate"
+      },
+      {
+        "label": "E",
+        "text": "Bicarbonate"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Rhodanese (thiosulfate sulfurtransferase) converts CN⁻ plus thiosulfate to thiocyanate (SCN⁻), which is much less toxic and renally excreted. This pathway is rate-limited by thiosulfate availability.",
+      "whyCorrect": "Rhodanese catalyzes the transfer of sulfur from thiosulfate to cyanide, forming thiocyanate. This is the body's primary endogenous detoxification pathway but can be overwhelmed in severe poisoning when thiosulfate stores are depleted.",
+      "whyWrongByChoice": {
+        "A": "Cyanate is not the product of rhodanese-mediated metabolism. Thiocyanate is the specific product of this enzymatic pathway.",
+        "B": "Cyanocobalamin forms when the exogenous antidote hydroxocobalamin binds CN. It is not produced through the endogenous rhodanese pathway.",
+        "C": "CN is not converted to CO. These are separate toxins with entirely different chemical structures and mechanisms of toxicity.",
+        "E": "Bicarbonate is part of the acid-base buffer system. It is not a product of cyanide detoxification."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-detoxification",
+      "rhodanese",
+      "thiocyanate"
+    ]
+  },
+  {
+    "id": "r07-034",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 42-year-old painter presents to the emergency department with headache, nausea, dizziness, and confusion after spending 6 hours stripping paint in a poorly ventilated room using a methylene chloride-based solvent. His COHb level is 18% and continues to rise despite removal from the exposure. Which of the following best explains why his COHb level is still increasing after he has left the work environment?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Methylene chloride releases CO directly"
+      },
+      {
+        "label": "B",
+        "text": "Methylene chloride inhibits carbonic anhydrase"
+      },
+      {
+        "label": "C",
+        "text": "Liver metabolizes methylene chloride to CO"
+      },
+      {
+        "label": "D",
+        "text": "Methylene chloride displaces alveolar oxygen"
+      },
+      {
+        "label": "E",
+        "text": "Methylene chloride stimulates CO₂ production"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Methylene chloride (dichloromethane) is metabolized by hepatic CYP2E1 to CO. This produces delayed-onset CO poisoning because CO is generated endogenously, and COHb levels may rise even after external exposure ceases.",
+      "whyCorrect": "Unlike inhaled CO, methylene chloride is absorbed through the lungs and skin, then hepatically converted to CO. This produces a unique pattern of delayed and prolonged CO poisoning where COHb continues to rise after removal from the source.",
+      "whyWrongByChoice": {
+        "A": "Methylene chloride is a liquid solvent that does not directly release CO gas. CO is produced endogenously through hepatic metabolism of the absorbed compound.",
+        "B": "Methylene chloride does not inhibit carbonic anhydrase. Its toxicity stems from hepatic conversion to carbon monoxide.",
+        "D": "Methylene chloride does not displace oxygen from alveoli. The mechanism is endogenous CO production by the liver after systemic absorption.",
+        "E": "Methylene chloride does not stimulate CO₂ production. The toxic effect is from hepatic conversion to CO, not CO₂."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "methylene-chloride",
+      "CO-poisoning",
+      "hepatic-metabolism"
+    ]
+  },
+  {
+    "id": "r07-035",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 65-year-old man with a history of recent hip surgery presents to the emergency department with acute-onset dyspnea and tachypnea. His respiratory rate is 28 breaths/min and SpO₂ is 91% on room air. An arterial blood gas shows pH 7.49, PaCO₂ 28 mmHg, and HCO₃⁻ 22 mEq/L. The emergency physician suspects pulmonary embolism given his recent surgery and immobility. Which of the following is the most appropriate initial diagnostic evaluation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Transthoracic echocardiography"
+      },
+      {
+        "label": "B",
+        "text": "D-dimer then CT angiography if positive"
+      },
+      {
+        "label": "C",
+        "text": "Sputum culture and sensitivity"
+      },
+      {
+        "label": "D",
+        "text": "Flexible fiberoptic bronchoscopy"
+      },
+      {
+        "label": "E",
+        "text": "Pulmonary function spirometry"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "When PE is suspected, the initial workup involves D-dimer testing (a sensitive but nonspecific marker of thrombosis). If elevated, CT angiography of the chest is performed to visualize thrombus in the pulmonary arteries and confirm the diagnosis.",
+      "whyCorrect": "D-dimer has high sensitivity for thromboembolism. A negative D-dimer essentially rules out PE in low-risk patients. If positive, CT angiography provides definitive visualization of pulmonary arterial thrombi.",
+      "whyWrongByChoice": {
+        "A": "Echocardiography may show right heart strain in massive PE but is not the initial diagnostic test for suspected PE. It lacks sensitivity for smaller emboli.",
+        "C": "Sputum culture diagnoses pulmonary infections such as pneumonia, not pulmonary embolism.",
+        "D": "Bronchoscopy evaluates the airways for endobronchial lesions and is not used to diagnose thromboembolic disease.",
+        "E": "Spirometry measures lung function parameters like FEV₁ and FVC. It does not diagnose thromboembolic disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "pulmonary-embolism",
+      "D-dimer",
+      "CT-angiography"
+    ]
+  },
+  {
+    "id": "r07-036",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 45-year-old woman with a recent diagnosis of Graves disease presents for follow-up. She reports heat intolerance, weight loss, and occasional palpitations. Her respiratory rate is 22 breaths/min and she appears diaphoretic with a fine tremor. An arterial blood gas shows pH 7.47, PaCO₂ 32 mmHg, and HCO₃⁻ 23 mEq/L. Which of the following best explains the mechanism of hyperventilation in this patient?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Hypothalamic cooling response"
+      },
+      {
+        "label": "B",
+        "text": "Direct thyroid effect on diaphragm"
+      },
+      {
+        "label": "C",
+        "text": "Elevated metabolic demand driving ventilation"
+      },
+      {
+        "label": "D",
+        "text": "Thyroid inhibition of carbonic anhydrase"
+      },
+      {
+        "label": "E",
+        "text": "Goiter compressing the trachea"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Hyperthyroidism increases basal metabolic rate, which increases O₂ consumption and CO₂ production. The body responds by increasing ventilation to match the higher CO₂ output. If ventilation overshoots the increased CO₂ production, respiratory alkalosis results.",
+      "whyCorrect": "Elevated thyroid hormones increase cellular metabolism, raising CO₂ production. The respiratory center increases ventilation to match metabolic demand. If the ventilatory response exceeds the increased CO₂ production, PaCO₂ falls below normal, producing respiratory alkalosis.",
+      "whyWrongByChoice": {
+        "A": "Hyperthyroidism causes hyperthermia and heat intolerance, not hypothalamic cooling. The hyperventilation is driven by increased metabolic demand.",
+        "B": "Thyroid hormones do not directly act on the diaphragm to cause hyperventilation. The effect is indirect through increased metabolic CO₂ production.",
+        "D": "Thyroid hormones do not inhibit carbonic anhydrase. The hyperventilation results from increased CO₂ production from heightened cellular metabolism.",
+        "E": "While a large goiter can compress the trachea, this would cause stridor or upper airway obstruction, not respiratory alkalosis from hyperventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "hyperthyroidism",
+      "respiratory-alkalosis",
+      "metabolic-demand"
+    ]
+  },
+  {
+    "id": "r07-037",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 20-year-old college student presents to the student health center with recurrent episodes of dyspnea, chest tightness, and perioral tingling over the past 6 months. Each episode lasts 15-30 minutes and occurs during exam periods. Between episodes, she feels entirely well. SpO₂ is 100% and physical examination is normal. An arterial blood gas during an episode shows pH 7.54, PaCO₂ 24 mmHg, and HCO₃⁻ 22 mEq/L. Which of the following is the most common overall cause of respiratory alkalosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "High-altitude acclimatization"
+      },
+      {
+        "label": "B",
+        "text": "Community-acquired pneumonia"
+      },
+      {
+        "label": "C",
+        "text": "Acute pulmonary embolism"
+      },
+      {
+        "label": "D",
+        "text": "Panic disorder"
+      },
+      {
+        "label": "E",
+        "text": "Gram-negative sepsis"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Panic disorder (anxiety) is the most common overall cause of respiratory alkalosis. It triggers hyperventilation through CNS stimulation without any underlying pulmonary pathology.",
+      "whyCorrect": "Panic disorder produces hyperventilation from anxiety-driven stimulation of the respiratory center. It is extremely common, affecting millions of people, and is the single most frequent cause of respiratory alkalosis in clinical practice.",
+      "whyWrongByChoice": {
+        "A": "High altitude is a cause of hypoxemic respiratory alkalosis but affects a much smaller population than panic disorder.",
+        "B": "Pneumonia causes hypoxemia-driven hyperventilation but is less common than anxiety as a cause of respiratory alkalosis.",
+        "C": "PE is an important but relatively uncommon cause of respiratory alkalosis compared to panic disorder.",
+        "E": "Sepsis causes respiratory alkalosis through cytokine stimulation but is far less common than panic disorder."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "panic-disorder",
+      "most-common"
+    ]
+  },
+  {
+    "id": "r07-038",
+    "topicId": "respiratory-alkalosis",
+    "topicName": "Respiratory Alkalosis",
+    "stem": "A 70-year-old man with a history of congestive heart failure presents to the emergency department with worsening dyspnea and tachypnea. His SpO₂ is 82% on room air and an arterial blood gas confirms respiratory alkalosis with PaO₂ of 55 mmHg. The chest X-ray shows bilateral pleural effusions and pulmonary vascular congestion. While the underlying cause is being investigated, which of the following is the most appropriate immediate intervention?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Intravenous bicarbonate infusion"
+      },
+      {
+        "label": "B",
+        "text": "Oral benzodiazepine for anxiolysis"
+      },
+      {
+        "label": "C",
+        "text": "Endotracheal intubation immediately"
+      },
+      {
+        "label": "D",
+        "text": "Rebreathing mask to increase CO₂"
+      },
+      {
+        "label": "E",
+        "text": "Supplemental oxygen administration"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "All hypoxic patients with respiratory alkalosis should receive immediate supplemental oxygen while the underlying cause is investigated. Oxygen addresses the life-threatening hypoxemia; the underlying cause such as CHF requires specific treatment.",
+      "whyCorrect": "When respiratory alkalosis is accompanied by hypoxemia, the hyperventilation is a compensatory response to low oxygen. The priority is correcting hypoxemia with supplemental O₂ while pursuing the diagnosis and treating the underlying condition.",
+      "whyWrongByChoice": {
+        "A": "IV bicarbonate would worsen the alkalosis and is not indicated in respiratory alkalosis. It is used for metabolic acidosis.",
+        "B": "Anxiolytics are appropriate for anxiety-induced hyperventilation with normal oxygenation, not for hypoxemic respiratory alkalosis where sedation could worsen respiratory failure.",
+        "C": "Intubation is reserved for respiratory failure unresponsive to other measures. Initial supplemental oxygen should be attempted first in this patient.",
+        "D": "A rebreathing mask is dangerous in a hypoxemic patient. It could worsen hypoxemia by reducing inspired O₂ concentration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "respiratory-alkalosis",
+      "hypoxemia",
+      "supplemental-oxygen"
+    ]
+  },
+  {
+    "id": "r07-039",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 36-year-old industrial chemist is brought to the emergency department after accidental inhalation of hydrogen cyanide gas at his workplace. He reports headache, anxiety, and a peculiar bitter taste in his mouth. His coworker who accompanied him mentions noticing an unusual odor during the spill. Vital signs show tachycardia at 120 bpm and tachypnea at 26 breaths/min. Which of the following odors is classically associated with this type of poisoning?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Fruity acetone-like scent"
+      },
+      {
+        "label": "B",
+        "text": "Garlic-like pungent smell"
+      },
+      {
+        "label": "C",
+        "text": "Wintergreen mint scent"
+      },
+      {
+        "label": "D",
+        "text": "Fecal or sulfurous odor"
+      },
+      {
+        "label": "E",
+        "text": "Bitter almond odor"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "A bitter almond odor is a classic (though not always detectable) finding in cyanide poisoning, particularly with hydrogen cyanide gas inhalation. Not all individuals can detect this odor due to genetic variation in olfactory receptors.",
+      "whyCorrect": "Hydrogen cyanide gas has a characteristic bitter almond smell. While this finding is specific to CN poisoning when present, it is unreliable because approximately 40% of the population lacks the genetic ability to detect this odor.",
+      "whyWrongByChoice": {
+        "A": "A fruity acetone-like scent is associated with diabetic ketoacidosis, not cyanide poisoning.",
+        "B": "A garlic-like odor is associated with organophosphate or arsenic poisoning, not cyanide.",
+        "D": "A fecal or sulfurous odor is associated with hydrogen sulfide exposure, not cyanide poisoning.",
+        "C": "A wintergreen scent is associated with methyl salicylate (oil of wintergreen) toxicity, not cyanide."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-poisoning",
+      "bitter-almond",
+      "odor"
+    ]
+  },
+  {
+    "id": "r07-040",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A fire safety instructor is teaching a group of emergency medicine residents about the primary causes of mortality in structural fires. He presents data showing that most fire-related deaths in the United States are not from direct thermal burns but rather from toxic gas inhalation. He asks the residents what percentage of fire-related deaths are attributable to smoke inhalation injury.",
+    "choices": [
+      {
+        "label": "A",
+        "text": "10-15 percent"
+      },
+      {
+        "label": "B",
+        "text": "25-30 percent"
+      },
+      {
+        "label": "C",
+        "text": "50-55 percent"
+      },
+      {
+        "label": "D",
+        "text": "75-80 percent"
+      },
+      {
+        "label": "E",
+        "text": "95-100 percent"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Smoke inhalation accounts for 75-80% of fire-related deaths. The combination of CO poisoning, CN poisoning, and thermal/chemical airway injury makes smoke inhalation the primary killer in fires, not the burns themselves.",
+      "whyCorrect": "Most fire deaths result from inhaling toxic gases including CO from incomplete combustion and HCN from burning synthetics, along with hot particles, rather than from direct thermal burns to the skin.",
+      "whyWrongByChoice": {
+        "A": "10-15% greatly underestimates the contribution of smoke inhalation to fire-related mortality.",
+        "B": "25-30% is too low. Smoke inhalation is the dominant cause of death in structural fires.",
+        "C": "50-55% underestimates the role of smoke inhalation, which accounts for the vast majority of fire-related deaths.",
+        "E": "95-100% would suggest almost no deaths from direct thermal burns, which is not accurate."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "smoke-inhalation",
+      "fire-deaths",
+      "epidemiology"
+    ]
+  },
+  {
+    "id": "r07-041",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 44-year-old woman is brought to the emergency department after exposure to a faulty gas water heater. Her COHb level is 25%. The emergency physician notes that her arterial PaO₂ is 96 mmHg, which is within normal limits, despite her significant tissue hypoxia and altered mental status. A medical student asks why the PaO₂ can be normal in the setting of severe CO poisoning. Which of the following best explains this finding?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "PaO₂ measures total blood oxygen content"
+      },
+      {
+        "label": "B",
+        "text": "PaO₂ measures hemoglobin-bound oxygen"
+      },
+      {
+        "label": "C",
+        "text": "PaO₂ measures dissolved plasma oxygen only"
+      },
+      {
+        "label": "D",
+        "text": "PaO₂ measures carboxyhemoglobin levels"
+      },
+      {
+        "label": "E",
+        "text": "PaO₂ measures tissue oxygen delivery"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "PaO₂ measures the partial pressure of oxygen dissolved in plasma. In CO poisoning, dissolved O₂ is unaffected because the lungs transfer O₂ into plasma normally. The problem is that CO occupies hemoglobin binding sites, reducing the 98% of O₂ that is normally carried bound to hemoglobin.",
+      "whyCorrect": "PaO₂ reflects only dissolved O₂ in plasma, which represents approximately 2% of total blood oxygen. Since the lungs function normally in CO poisoning, dissolved O₂ and PaO₂ remain normal. The tissue hypoxia results from CO occupying hemoglobin sites and left-shifting the dissociation curve.",
+      "whyWrongByChoice": {
+        "A": "Total oxygen content (CaO₂) includes hemoglobin-bound O₂ and would be decreased in CO poisoning. PaO₂ does not measure total oxygen content.",
+        "B": "Oxygen bound to hemoglobin is measured by SaO₂ or included in CaO₂ calculations. PaO₂ measures only dissolved oxygen partial pressure.",
+        "D": "Carboxyhemoglobin levels are measured by CO-oximetry, not by PaO₂ on a standard blood gas.",
+        "E": "Oxygen delivery (DO₂) depends on CaO₂ multiplied by cardiac output. PaO₂ measures dissolved oxygen pressure only."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "PaO2",
+      "dissolved-oxygen"
+    ]
+  },
+  {
+    "id": "r07-042",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 55-year-old man is brought to the emergency department after being found unconscious in his basement workshop near a malfunctioning propane heater. His COHb level is 32%, and he has been unconscious for an unknown duration. An ECG shows ST-segment elevation in leads V1-V4 and troponin is significantly elevated. After initial stabilization with 100% oxygen, the toxicology team recommends a more definitive therapy. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Continue normobaric oxygen only"
+      },
+      {
+        "label": "B",
+        "text": "Administer intravenous hydroxocobalamin"
+      },
+      {
+        "label": "C",
+        "text": "Administer intravenous naloxone"
+      },
+      {
+        "label": "D",
+        "text": "Hyperbaric oxygen therapy"
+      },
+      {
+        "label": "E",
+        "text": "Administer sodium bicarbonate"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Hyperbaric oxygen (HBO) therapy delivers 100% O₂ at 2-3 atmospheres of pressure, reducing COHb half-life to approximately 20-30 minutes. It is indicated for severe CO poisoning with neurological symptoms, cardiac ischemia, or COHb above 25% to minimize the risk of delayed neuropsychiatric sequelae.",
+      "whyCorrect": "HBO dramatically increases dissolved O₂, accelerating CO displacement from hemoglobin and providing tissue oxygenation independent of hemoglobin. Indications include COHb above 25%, loss of consciousness, cardiac ischemia, and severe metabolic acidosis.",
+      "whyWrongByChoice": {
+        "A": "While 100% normobaric O₂ is the initial treatment for all CO poisoning, severe cases with loss of consciousness, cardiac ischemia, and COHb above 25% warrant hyperbaric oxygen therapy.",
+        "B": "Hydroxocobalamin is the antidote for cyanide poisoning, not CO poisoning. This patient's presentation is consistent with isolated CO exposure from a propane heater.",
+        "C": "Naloxone is the antidote for opioid overdose. It has no role in CO poisoning management.",
+        "E": "Sodium bicarbonate treats metabolic acidosis. The primary treatment for CO poisoning is oxygen to displace CO from hemoglobin."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "CO-poisoning",
+      "hyperbaric-oxygen",
+      "severe-poisoning"
+    ]
+  },
+  {
+    "id": "r07-043",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 40-year-old woman is brought to the emergency department after ingesting a cyanide-containing industrial cleaning solution in a suicide attempt. On arrival, she is confused with a heart rate of 130 bpm and blood pressure of 160/95 mmHg. Over the next 10 minutes, her heart rate drops to 45 bpm and blood pressure falls to 70/40 mmHg. Pupils are bilaterally dilated. Which of the following best explains this biphasic cardiovascular response in cyanide poisoning?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Progressive cardiac myocyte destruction"
+      },
+      {
+        "label": "B",
+        "text": "Direct cyanide effect on sinoatrial node"
+      },
+      {
+        "label": "C",
+        "text": "Cyanide-mediated coronary vasospasm then dilation"
+      },
+      {
+        "label": "D",
+        "text": "Increasing carboxyhemoglobin levels"
+      },
+      {
+        "label": "E",
+        "text": "Sympathetic activation then cellular energy failure"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Early in CN poisoning, sympathetic nervous system activation (stress response) causes tachycardia and hypertension. As cellular energy failure from cytochrome c oxidase inhibition progresses, the heart and vasculature can no longer maintain function, leading to bradycardia, hypotension, and cardiovascular collapse.",
+      "whyCorrect": "The initial phase reflects the body's sympathetic fight-or-flight response to tissue hypoxia. As CN progressively blocks aerobic ATP production in cardiac and vascular smooth muscle cells, energy failure leads to loss of cardiac contractility and vascular tone.",
+      "whyWrongByChoice": {
+        "A": "While cardiac myocyte damage does occur, the rapid biphasic response over minutes is better explained by initial sympathetic activation followed by energy failure, not progressive structural destruction.",
+        "B": "CN does not have a specific direct effect on the SA node. The cardiovascular changes are systemic, reflecting whole-body energy failure.",
+        "C": "CN does not cause coronary vasospasm. The cardiac effects result from intracellular energy failure from cytochrome c oxidase inhibition.",
+        "D": "Carboxyhemoglobin is specific to CO poisoning. CN does not form carboxyhemoglobin or affect hemoglobin binding."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-poisoning",
+      "biphasic-cardiovascular",
+      "sympathetic-activation"
+    ]
+  },
+  {
+    "id": "r07-044",
+    "topicId": "co-cn-poisoning",
+    "topicName": "Carbon Monoxide and Cyanide Poisoning",
+    "stem": "A 48-year-old man is brought to the emergency department with suspected cyanide poisoning after industrial exposure. The hospital's hydroxocobalamin supply is depleted, so the toxicology team decides to use the alternative cyanide antidote kit containing amyl nitrite, sodium nitrite, and sodium thiosulfate. The attending physician explains that the nitrite component works through an indirect mechanism. Which of the following best describes how nitrites counteract cyanide toxicity?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Directly binding and inactivating cyanide"
+      },
+      {
+        "label": "B",
+        "text": "Enhancing hepatic rhodanese enzyme activity"
+      },
+      {
+        "label": "C",
+        "text": "Inducing methemoglobin to scavenge cyanide"
+      },
+      {
+        "label": "D",
+        "text": "Increasing renal cyanide excretion rate"
+      },
+      {
+        "label": "E",
+        "text": "Displacing cyanide from hemoglobin sites"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nitrites oxidize hemoglobin Fe²⁺ to Fe³⁺, intentionally creating methemoglobin. Methemoglobin's Fe³⁺ has high affinity for CN⁻, forming cyanmethemoglobin. This draws CN away from cytochrome c oxidase, reactivating aerobic metabolism. Sodium thiosulfate then provides sulfur for rhodanese to convert the freed CN to thiocyanate.",
+      "whyCorrect": "The nitrite-thiosulfate kit works in two steps: nitrites create methemoglobin (Fe³⁺) which acts as a CN scavenger by binding CN⁻ with high affinity, pulling it off cytochrome c oxidase; then thiosulfate provides substrate for rhodanese to convert the CN to thiocyanate for renal excretion.",
+      "whyWrongByChoice": {
+        "A": "Nitrites do not directly bind cyanide. They work indirectly by creating methemoglobin, which then scavenges free CN⁻ ions.",
+        "B": "Nitrites do not enhance rhodanese activity. Sodium thiosulfate provides the substrate for rhodanese, while the nitrites create the methemoglobin CN scavenger.",
+        "D": "Nitrites do not increase renal CN excretion. Renal excretion of thiocyanate occurs after the thiosulfate-rhodanese step, not from nitrite action.",
+        "E": "Cyanide does not bind hemoglobin in the same way CO does. CN binds cytochrome c oxidase, not hemoglobin. The nitrite strategy creates methemoglobin specifically to attract CN away from the mitochondria."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "cyanide-antidote",
+      "nitrite-thiosulfate",
+      "methemoglobin"
+    ]
+  }
+]

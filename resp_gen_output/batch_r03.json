@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r03-001",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 10-year-old unrestrained passenger is brought to the emergency department after a high-speed motor vehicle collision. On examination, he has weak, shallow respirations with paradoxical abdominal movement. Arterial blood gas shows hypercapnia. Cervical spine MRI reveals a contusion at a single vertebral level, and fluoroscopy demonstrates markedly diminished bilateral diaphragm excursion. Which spinal cord levels give rise to the nerve most likely injured?",
+    "choices": [
+      {"label": "A", "text": "C1-C2 spinal segments"},
+      {"label": "B", "text": "C3-C5 spinal segments"},
+      {"label": "C", "text": "C6-C8 spinal segments"},
+      {"label": "D", "text": "T1-T4 spinal segments"},
+      {"label": "E", "text": "T8-T10 spinal segments"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The phrenic nerve arises from C3, C4, and C5 and provides motor innervation to the diaphragm. Injury at these levels impairs diaphragmatic contraction, causing respiratory compromise with diminished excursion on fluoroscopy.",
+      "whyCorrect": "The phrenic nerve originates from C3-C5 ('C3, 4, 5 keeps the diaphragm alive'). A spinal cord contusion at these levels disrupts motor signals to the diaphragm bilaterally, explaining the paradoxical breathing pattern and hypercapnia seen in this patient.",
+      "whyWrongByChoice": {
+        "A": "C1-C2 injury would affect breathing by disrupting descending signals passing through, but the phrenic nerve itself arises from C3-C5, not C1-C2.",
+        "C": "C6-C8 segments contribute to the brachial plexus and innervate upper extremity muscles, not the diaphragm.",
+        "D": "T1-T4 gives rise to intercostal nerves for chest wall muscles. Injury here would impair intercostal function but would not abolish diaphragmatic excursion.",
+        "E": "T8-T10 supplies lower intercostal and abdominal wall innervation and does not contribute to the phrenic nerve."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "phrenic-nerve", "C3-C5"]
+  },
+  {
+    "id": "r03-002",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 58-year-old woman with a large hiatal hernia is scheduled for surgical repair. Preoperative CT of the chest and abdomen shows the esophagus traversing the diaphragm at the T10 level. The surgeon reviews the anatomy of the three major diaphragmatic openings before the procedure. Which of the following correctly matches each structure with its vertebral level of passage?",
+    "choices": [
+      {"label": "A", "text": "IVC at T10, esophagus at T12, aorta at T8"},
+      {"label": "B", "text": "Aorta at T8, IVC at T10, esophagus at T12"},
+      {"label": "C", "text": "Esophagus at T8, aorta at T10, IVC at T12"},
+      {"label": "D", "text": "IVC at T8, esophagus at T10, aorta at T12"},
+      {"label": "E", "text": "IVC at T12, esophagus at T8, aorta at T10"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The three major diaphragmatic openings are the caval opening (IVC at T8), the esophageal hiatus (T10), and the aortic hiatus (T12). The mnemonic 'I ate ten eggs at twelve' helps recall these levels.",
+      "whyCorrect": "The inferior vena cava passes through the central tendon at T8, the esophagus traverses the muscular diaphragm at T10 (the hiatus being repaired in this patient), and the aorta passes posterior to the diaphragm at T12. This patient's CT confirms the T10 esophageal passage.",
+      "whyWrongByChoice": {
+        "A": "This incorrectly assigns the IVC to T10 and the esophagus to T12. The IVC passes through at T8, not T10.",
+        "B": "This reverses the aorta and IVC positions. The aorta passes at T12 (most posterior), not T8.",
+        "C": "This assigns all three structures to incorrect levels. The esophagus passes at T10, not T8.",
+        "E": "This reverses the IVC and esophagus levels. The IVC passes at T8, the esophagus at T10."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "diaphragmatic-openings", "T8-T10-T12"]
+  },
+  {
+    "id": "r03-003",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 45-year-old man is brought to the emergency department after a motorcycle accident with a right-sided pneumothorax confirmed on chest radiograph. The trauma surgeon prepares to insert a chest tube at the 5th intercostal space in the midaxillary line. She instructs the resident to insert the needle carefully to avoid injuring the intercostal neurovascular bundle. At which location relative to the ribs should the needle be directed?",
+    "choices": [
+      {"label": "A", "text": "Superior border of rib below"},
+      {"label": "B", "text": "Midpoint between adjacent ribs"},
+      {"label": "C", "text": "Inferior border of rib above"},
+      {"label": "D", "text": "Directly through the rib bone"},
+      {"label": "E", "text": "At the costal cartilage junction"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The intercostal neurovascular bundle (vein, artery, nerve) runs in the costal groove along the inferior border of each rib. To avoid injury, instruments are inserted just superior to the upper border of the rib below.",
+      "whyCorrect": "The intercostal vein, artery, and nerve (VAN) travel in the costal groove at the inferior margin of the rib above. Directing the needle just above the superior border of the rib below keeps the instrument away from the neurovascular bundle.",
+      "whyWrongByChoice": {
+        "C": "Inserting at the inferior border of the rib above places the needle directly into the costal groove where the neurovascular bundle runs, risking hemorrhage and nerve injury.",
+        "B": "The midpoint between ribs does not reliably avoid the neurovascular bundle. There is also a collateral branch near the superior border of the lower rib.",
+        "D": "Inserting through rib bone is not feasible with standard thoracostomy technique and would cause unnecessary fracture and pain.",
+        "E": "The costal cartilage junction is on the anterior chest wall and is not the standard approach for intercostal procedures in the midaxillary line."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "intercostal-space", "neurovascular-bundle", "thoracostomy"]
+  },
+  {
+    "id": "r03-004",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 24-year-old woman with a history of severe persistent asthma presents to the emergency department with acute dyspnea and diffuse expiratory wheezing. Her oxygen saturation is 89% on room air. She is sitting upright with her hands braced on her knees and arms locked straight. The emergency physician notes this tripod positioning and explains to a medical student why it helps the patient breathe. Which of the following best explains this benefit?",
+    "choices": [
+      {"label": "A", "text": "Fixes arms so pectorals lift chest"},
+      {"label": "B", "text": "Compresses abdomen to aid expiration"},
+      {"label": "C", "text": "Relaxes the abdominal wall muscles"},
+      {"label": "D", "text": "Increases diaphragmatic relaxation rate"},
+      {"label": "E", "text": "Opens the glottis to reduce resistance"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The tripod position fixes the arms in place, converting the pectoralis major and minor from arm movers into accessory inspiratory muscles that elevate the chest wall and increase thoracic volume.",
+      "whyCorrect": "By locking the arms straight against the knees, the patient creates a stable base so the pectoralis muscles act on the rib cage rather than the arms. This allows them to pull the chest wall upward and outward, augmenting forced inspiration during respiratory distress.",
+      "whyWrongByChoice": {
+        "C": "The tripod position does not specifically relax abdominal muscles. Abdominal muscles assist forced expiration, and the tripod position primarily aids forced inspiration.",
+        "B": "Compressing the abdomen pushes the diaphragm upward during forced expiration. The tripod position instead helps with inspiratory effort by recruiting chest wall muscles.",
+        "D": "Diaphragmatic relaxation contributes to passive expiration. The tripod position assists with active forced inspiration by enabling accessory muscle recruitment.",
+        "E": "The tripod position does not directly affect glottic aperture. Its benefit comes from fixing the upper extremities to allow accessory chest muscles to assist ventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "accessory-muscles", "tripod-position", "respiratory-distress"]
+  },
+  {
+    "id": "r03-005",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 32-year-old woman is evaluated in the pulmonary function laboratory. During quiet tidal breathing at rest, spirometry tracings show a normal expiratory phase that is slightly longer than the inspiratory phase. The technician explains to a student that no active muscular effort is required during this phase. Which of the following best describes the mechanism of normal quiet expiration?",
+    "choices": [
+      {"label": "A", "text": "Internal intercostal muscle contraction"},
+      {"label": "B", "text": "Abdominal wall muscle contraction"},
+      {"label": "C", "text": "Active upward diaphragm movement"},
+      {"label": "D", "text": "Sternocleidomastoid muscle activation"},
+      {"label": "E", "text": "Passive diaphragm relaxation and recoil"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Normal quiet expiration is a passive process. The diaphragm relaxes and returns to its dome shape, and the elastic recoil of the lungs and chest wall reduces thoracic volume, pushing air out without active muscular effort.",
+      "whyCorrect": "During quiet expiration, the diaphragm passively relaxes upward to its resting dome position while the inherent elastic recoil of lung tissue decreases thoracic volume, raising alveolar pressure above atmospheric pressure and driving air out.",
+      "whyWrongByChoice": {
+        "A": "Internal intercostal muscles actively contract during forced expiration, not during quiet expiration, which is entirely passive.",
+        "B": "Abdominal wall muscles contract during forced expiration to push abdominal contents against the diaphragm. They are not recruited during quiet breathing.",
+        "C": "The diaphragm passively relaxes upward during quiet expiration. Active upward movement would only occur during forced expiration with abdominal muscle assistance.",
+        "D": "The sternocleidomastoid is an accessory muscle of forced inspiration that elevates the chest wall. It plays no role in expiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "expiration", "passive-breathing"]
+  },
+  {
+    "id": "r03-006",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 67-year-old man with triple-vessel coronary artery disease undergoes coronary artery bypass grafting. The cardiac surgeon harvests the left internal thoracic artery as the preferred conduit for the left anterior descending graft. This artery is also the source of the anterior intercostal branches to the upper six intercostal spaces. Which property makes this vessel superior to saphenous vein grafts?",
+    "choices": [
+      {"label": "A", "text": "Largest artery in the chest wall"},
+      {"label": "B", "text": "Arises directly from the aortic arch"},
+      {"label": "C", "text": "Resistance to atherosclerotic disease"},
+      {"label": "D", "text": "Runs through posterior mediastinum"},
+      {"label": "E", "text": "Has no sacrificeable side branches"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The internal thoracic artery is preferred for coronary bypass grafting because of its remarkable resistance to atherosclerosis, providing superior long-term patency compared to venous grafts.",
+      "whyCorrect": "The internal thoracic artery has endothelial properties that confer exceptional resistance to atherosclerosis. Ten-year patency rates exceed 90%, far superior to saphenous vein grafts, making it the gold standard conduit for CABG.",
+      "whyWrongByChoice": {
+        "A": "The internal thoracic artery is not the largest chest wall artery. Its preference for grafting is based on its atherosclerosis resistance, not its caliber.",
+        "B": "The internal thoracic artery arises from the subclavian artery, not directly from the aortic arch.",
+        "D": "The internal thoracic artery runs along the inner surface of the anterior chest wall, not through the posterior mediastinum.",
+        "E": "The internal thoracic artery has multiple branches including anterior intercostal, musculophrenic, and superior epigastric arteries that are sacrificed during harvesting."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "internal-thoracic-artery", "CABG", "atherosclerosis"]
+  },
+  {
+    "id": "r03-007",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A first-year medical student is studying the bony thorax in the anatomy laboratory. She identifies ribs 1 through 7 on a skeletal specimen and notes that each has an individual cartilaginous connection to the sternum. Her instructor asks her to explain what classification these ribs receive based on this articulation pattern. Which of the following is the correct classification and reason?",
+    "choices": [
+      {"label": "A", "text": "True ribs with direct sternal attachment"},
+      {"label": "B", "text": "False ribs with shared costal cartilage"},
+      {"label": "C", "text": "Floating ribs without anterior connection"},
+      {"label": "D", "text": "Atypical ribs with lumbar articulation"},
+      {"label": "E", "text": "Vertebral ribs with unique costal groove"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Ribs 1-7 are true ribs because each has its own costal cartilage that articulates directly with the sternum. False ribs (8-10) connect indirectly via shared cartilage, and floating ribs (11-12) have no anterior attachment.",
+      "whyCorrect": "True ribs (ribs 1-7) are defined by their individual costal cartilages that each connect directly to the sternum, providing a direct anterior skeletal attachment. This distinguishes them from false and floating ribs.",
+      "whyWrongByChoice": {
+        "B": "False ribs (ribs 8-10) articulate with the sternum indirectly through the costal cartilage of rib 7. Ribs 1-7 have individual direct connections.",
+        "C": "Floating ribs (ribs 11-12) have no anterior attachment to the sternum or costal margin. Ribs 1-7 clearly attach anteriorly.",
+        "D": "All 12 pairs of ribs articulate posteriorly with thoracic vertebrae, not lumbar vertebrae. This is not a distinguishing feature.",
+        "E": "All ribs have a costal groove on their inferior surface for the neurovascular bundle. This feature is not unique to any particular rib group."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "ribs", "true-ribs", "sternum"]
+  },
+  {
+    "id": "r03-008",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 30-year-old woman presents with a 3-month history of right arm numbness and tingling that worsens when reaching overhead. Neurological examination reveals diminished grip strength and a positive Roos test with early fatigue. A cervical spine radiograph shows an extra bony structure arising from the C7 vertebra extending toward the first rib. Which of the following best describes this finding?",
+    "choices": [
+      {"label": "A", "text": "Bifid rib malformation"},
+      {"label": "B", "text": "Cervical rib anomaly"},
+      {"label": "C", "text": "Floating rib displacement"},
+      {"label": "D", "text": "Supernumerary thoracic rib"},
+      {"label": "E", "text": "Fused rib deformity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "A cervical rib is an extra rib arising from C7, found in about 1% of the population. It can compress the brachial plexus or subclavian vessels at the thoracic outlet, causing thoracic outlet syndrome with upper extremity neurological and vascular symptoms.",
+      "whyCorrect": "This patient has classic thoracic outlet syndrome from a cervical rib. The extra rib from C7 compresses neurovascular structures traversing the thoracic outlet, explaining her arm numbness, tingling, weakness, and symptom exacerbation with overhead activities.",
+      "whyWrongByChoice": {
+        "A": "A bifid rib is a congenital variant where a rib splits into two at its anterior end. It does not describe an extra rib arising from a cervical vertebra.",
+        "C": "Floating ribs (11-12) are normal thoracic ribs that lack anterior attachment. They are not extra ribs from the cervical spine.",
+        "D": "A supernumerary thoracic rib would originate from a thoracic vertebra. This patient's extra rib arises from C7, making it cervical in origin.",
+        "E": "A fused rib deformity describes two adjacent ribs joined together. The radiograph shows an additional separate rib from C7."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "cervical-rib", "thoracic-outlet-syndrome"]
+  },
+  {
+    "id": "r03-009",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 62-year-old man with severe COPD presents with worsening dyspnea and barrel chest on examination. During observation of his breathing pattern, the physician notes vigorous contraction of the abdominal wall muscles during each expiratory phase. Spirometry confirms severe airflow obstruction with an FEV1 of 30% predicted. Which of the following best describes how abdominal muscle contraction assists this patient's expiration?",
+    "choices": [
+      {"label": "A", "text": "Elevates rib cage to enlarge thorax"},
+      {"label": "B", "text": "Directly pulls lung tissue downward"},
+      {"label": "C", "text": "Opens bronchioles to reduce resistance"},
+      {"label": "D", "text": "Pushes viscera up against the diaphragm"},
+      {"label": "E", "text": "Increases lung parenchymal elastic recoil"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "During forced expiration, contraction of the abdominal wall muscles increases intra-abdominal pressure, pushing the abdominal viscera upward against the diaphragm. This forces the diaphragm higher into the thorax, decreasing thoracic volume and assisting air expulsion.",
+      "whyCorrect": "Abdominal muscles (rectus abdominis, obliques, transversus abdominis) compress abdominal contents upward against the inferior surface of the diaphragm, pushing it superiorly and accelerating the decrease in thoracic volume during forced expiration in COPD.",
+      "whyWrongByChoice": {
+        "A": "Elevating the rib cage increases thoracic volume, which assists inspiration, not expiration. External intercostals and accessory muscles perform this function.",
+        "B": "Abdominal muscles do not directly contact the lungs. They act indirectly through increasing intra-abdominal pressure against the diaphragm.",
+        "C": "Abdominal muscle contraction does not affect bronchiolar diameter. Bronchodilation is controlled by the autonomic nervous system.",
+        "E": "Elastic recoil is an intrinsic property of lung parenchyma (elastin and collagen). Abdominal muscle contraction cannot change the inherent recoil properties."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "abdominal-muscles", "forced-expiration", "accessory-muscles"]
+  },
+  {
+    "id": "r03-010",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 40-year-old man undergoes pulmonary rehabilitation after a prolonged ICU stay for pneumonia. His physical therapist evaluates his inspiratory muscle function and explains that the intercostal muscles are arranged in three distinct layers between the ribs. The therapist focuses rehabilitation on the layer that assists inspiration by elevating the ribs. Which intercostal muscle layer is the therapist targeting?",
+    "choices": [
+      {"label": "A", "text": "External intercostal layer"},
+      {"label": "B", "text": "Innermost intercostal layer"},
+      {"label": "C", "text": "Internal intercostal layer"},
+      {"label": "D", "text": "Transversus thoracis muscle"},
+      {"label": "E", "text": "Subcostalis muscle group"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The external intercostal muscles assist inspiration by elevating the ribs and expanding the thoracic cage. Their fiber orientation runs posteriorly to anteriorly on the rib below, so contraction lifts the ribs upward and outward.",
+      "whyCorrect": "External intercostals span from the posterior aspect of one rib to the anterior aspect of the rib below. When they contract, they elevate the ribs in bucket-handle and pump-handle motions, expanding the thoracic cavity for inspiration.",
+      "whyWrongByChoice": {
+        "C": "Internal intercostals assist expiration by depressing the ribs and decreasing thoracic volume, the opposite of what is needed for inspiratory rehabilitation.",
+        "B": "Innermost intercostals assist the internal intercostals during forced expiration, not inspiration.",
+        "D": "Transversus thoracis is a thin muscle on the inner anterior chest wall that assists expiration, not inspiration.",
+        "E": "Subcostalis muscles are small posterior muscles spanning multiple intercostal spaces that contribute to expiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "external-intercostals", "inspiration", "rib-elevation"]
+  },
+  {
+    "id": "r03-011",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 72-year-old man presents with progressive dyspnea over 6 months following right-sided mediastinal surgery for esophageal cancer. Chest radiograph reveals an elevated right hemidiaphragm with mediastinal shift. Fluoroscopic sniff test confirms paradoxical upward motion of the right hemidiaphragm during inspiration. Injury to which nerve is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Right vagus nerve"},
+      {"label": "B", "text": "Right recurrent laryngeal nerve"},
+      {"label": "C", "text": "Right long thoracic nerve"},
+      {"label": "D", "text": "Right intercostal nerve at T6"},
+      {"label": "E", "text": "Right phrenic nerve"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Unilateral hemidiaphragm elevation with paradoxical motion on sniff test indicates phrenic nerve paralysis. The right phrenic nerve was likely injured during mediastinal surgery, causing right hemidiaphragm paralysis.",
+      "whyCorrect": "The phrenic nerve innervates its ipsilateral hemidiaphragm. Right phrenic nerve injury during esophageal surgery causes right hemidiaphragm paralysis, which rises due to unopposed abdominal pressure and moves paradoxically upward during inspiration (sniff test positive).",
+      "whyWrongByChoice": {
+        "A": "The vagus nerve provides parasympathetic innervation to thoracic and abdominal viscera. Its injury would not cause hemidiaphragm elevation.",
+        "B": "The recurrent laryngeal nerve innervates the laryngeal muscles. Injury causes vocal cord paralysis and hoarseness, not diaphragmatic dysfunction.",
+        "C": "The long thoracic nerve innervates the serratus anterior muscle. Its injury causes winged scapula, not hemidiaphragm paralysis.",
+        "D": "Intercostal nerve T6 innervates the intercostal muscles at that level. Injury causes localized chest wall sensory loss, not diaphragm elevation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "phrenic-nerve", "hemidiaphragm-paralysis", "chest-radiograph"]
+  },
+  {
+    "id": "r03-012",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 55-year-old man with blunt chest trauma has a CT angiogram showing active extravasation from a posterior intercostal artery at the level of the 6th rib. The interventional radiologist prepares for embolization and notes that posterior intercostal arteries at this level arise directly from which of the following parent vessels?",
+    "choices": [
+      {"label": "A", "text": "Internal thoracic artery"},
+      {"label": "B", "text": "Thoracic (descending) aorta"},
+      {"label": "C", "text": "Costocervical trunk branch"},
+      {"label": "D", "text": "Subclavian artery directly"},
+      {"label": "E", "text": "Musculophrenic artery branch"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Posterior intercostal arteries for spaces 3-11 branch directly from the thoracic aorta. The first two posterior intercostals arise from the supreme intercostal artery off the costocervical trunk.",
+      "whyCorrect": "The thoracic (descending) aorta gives off paired posterior intercostal arteries supplying spaces 3-11. The 6th rib level falls within this range, so the bleeding artery arises directly from the thoracic aorta.",
+      "whyWrongByChoice": {
+        "A": "The internal thoracic artery gives rise to anterior intercostal branches for the upper six spaces, not the posterior intercostal arteries.",
+        "C": "The costocervical trunk (via the supreme intercostal artery) supplies only the 1st and 2nd posterior intercostal arteries, not the 6th level.",
+        "D": "The subclavian artery gives rise to the costocervical trunk and internal thoracic artery but does not directly supply posterior intercostals at the 6th rib level.",
+        "E": "The musculophrenic artery is a terminal branch of the internal thoracic artery supplying anterior intercostal branches to spaces 7-9, not posterior intercostals."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "intercostal-arteries", "thoracic-aorta", "blood-supply"]
+  },
+  {
+    "id": "r03-013",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 19-year-old college athlete is evaluated after a tackle during a football game. Physical examination reveals point tenderness over the anterior midline of the chest at the junction between the upper and middle thirds of the sternum. The team physician palpates a bony ridge at this location and explains that this is where two components of the sternum meet. Which of the following lists the sternum components from superior to inferior?",
+    "choices": [
+      {"label": "A", "text": "Body, manubrium, xiphoid process"},
+      {"label": "B", "text": "Xiphoid process, body, manubrium"},
+      {"label": "C", "text": "Manubrium, xiphoid process, body"},
+      {"label": "D", "text": "Body, xiphoid process, manubrium"},
+      {"label": "E", "text": "Manubrium, body, xiphoid process"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "From superior to inferior, the sternum consists of the manubrium, body, and xiphoid process. The sternal angle (angle of Louis) marks the junction between the manubrium and body, corresponding to the palpable ridge in this patient.",
+      "whyCorrect": "The sternum has three parts: manubrium (superior, articulates with clavicles), body (middle, longest segment), and xiphoid process (small inferior tip). The sternal angle where this athlete has tenderness is the manubrium-body junction.",
+      "whyWrongByChoice": {
+        "A": "This places the body superior to the manubrium. The manubrium is the most superior component of the sternum.",
+        "B": "This lists the components in reverse (inferior to superior) order. The xiphoid process is the most inferior part.",
+        "C": "This places the xiphoid process between the manubrium and body. The body lies between the manubrium superiorly and xiphoid inferiorly.",
+        "D": "This incorrectly places the body first and the manubrium last. The manubrium is the most superior component."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "sternum", "manubrium", "xiphoid-process"]
+  },
+  {
+    "id": "r03-014",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 50-year-old man undergoes abdominal CT for evaluation of chronic back pain. The radiologist notes the diaphragm's posterior attachments to the lumbar vertebrae and identifies prominent tendinous structures extending from L1 to L3 that converge anterior to the aorta. These posterior muscular attachments of the diaphragm to the lumbar spine are called which of the following?",
+    "choices": [
+      {"label": "A", "text": "Central tendon of diaphragm"},
+      {"label": "B", "text": "Costal cartilage attachments"},
+      {"label": "C", "text": "Median arcuate ligament alone"},
+      {"label": "D", "text": "Left and right diaphragmatic crura"},
+      {"label": "E", "text": "Pericardial ligament extensions"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The crura (singular: crus) are tendinous extensions that attach the diaphragm posteriorly to the L1-L4 lumbar vertebrae. They converge anterior to the aorta, connected by the median arcuate ligament.",
+      "whyCorrect": "The left and right crura are the posterior anchors of the diaphragm to the lumbar vertebrae. The right crus attaches to L1-L3 (or L4) and the left to L1-L2. They converge anterior to the aorta, joined by the median arcuate ligament.",
+      "whyWrongByChoice": {
+        "A": "The central tendon is the dense aponeurosis at the diaphragm's center where muscle fibers insert. It attaches to the pericardium above, not to the lumbar spine.",
+        "B": "Costal cartilages connect ribs to the sternum anteriorly. The diaphragm attaches to the lowest six ribs laterally, not via costal cartilages posteriorly.",
+        "C": "The median arcuate ligament connects the two crura anterior to the aorta but is not the actual vertebral attachment. The crura themselves anchor to the lumbar vertebrae.",
+        "E": "The pericardium attaches to the superior surface of the central tendon. It is not the posterior vertebral attachment of the diaphragm."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "crura", "lumbar-attachment"]
+  },
+  {
+    "id": "r03-015",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 28-year-old man with status asthmaticus is admitted to the ICU with severe respiratory distress. On examination, he is using visible neck muscles with each breath and his oxygen saturation is 85% on high-flow nasal cannula. The attending asks the intern to identify which neck muscle being recruited is a classic accessory muscle of forced inspiration. Which of the following is this muscle?",
+    "choices": [
+      {"label": "A", "text": "Rectus abdominis muscle"},
+      {"label": "B", "text": "Internal oblique muscle"},
+      {"label": "C", "text": "Transversus abdominis muscle"},
+      {"label": "D", "text": "Internal intercostal muscle"},
+      {"label": "E", "text": "Sternocleidomastoid muscle"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The sternocleidomastoid is a prominent accessory muscle of forced inspiration. Along with scalene and pectoralis muscles, it elevates the rib cage to expand lung volume during respiratory distress.",
+      "whyCorrect": "The sternocleidomastoid muscle acts as an accessory inspiratory muscle by elevating the sternum and upper rib cage when the head is fixed. Its visible use in this ICU patient with status asthmaticus indicates severe respiratory distress.",
+      "whyWrongByChoice": {
+        "A": "Rectus abdominis is an abdominal wall muscle that assists forced expiration by compressing abdominal contents upward, not inspiration.",
+        "B": "Internal oblique is an abdominal wall muscle for forced expiration, not a neck muscle involved in inspiration.",
+        "C": "Transversus abdominis is the deepest abdominal muscle that assists forced expiration through abdominal compression.",
+        "D": "Internal intercostals are chest wall muscles that assist expiration by depressing ribs. They are not neck muscles and do not aid inspiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "accessory-muscles", "sternocleidomastoid", "forced-inspiration"]
+  },
+  {
+    "id": "r03-016",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 48-year-old woman with cirrhosis and massive ascites develops progressive dyspnea from diaphragmatic splinting. Her physician discusses the blood supply of the diaphragm with a trainee, noting that the primary arterial supply comes from the inferior phrenic arteries arising from the inferior surface. From which vessel do the inferior phrenic arteries typically originate?",
+    "choices": [
+      {"label": "A", "text": "Abdominal aorta directly"},
+      {"label": "B", "text": "Descending thoracic aorta"},
+      {"label": "C", "text": "Internal thoracic artery"},
+      {"label": "D", "text": "Celiac trunk exclusively"},
+      {"label": "E", "text": "Superior mesenteric artery"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The inferior phrenic arteries are the primary blood supply to the inferior surface of the diaphragm. They arise directly from the abdominal aorta, typically just below the diaphragm.",
+      "whyCorrect": "The inferior phrenic arteries branch directly from the abdominal aorta as its first major paired branches below the diaphragm. They supply the inferior diaphragmatic surface and are the dominant arterial supply to the muscle.",
+      "whyWrongByChoice": {
+        "C": "The internal thoracic artery gives off pericardiacophrenic and musculophrenic arteries that supply the superior diaphragm, but these are secondary contributors.",
+        "B": "The descending thoracic aorta gives off posterior intercostal and bronchial arteries above the diaphragm. The inferior phrenic arteries arise below the diaphragm from the abdominal aorta.",
+        "D": "The celiac trunk is an occasional alternate origin for the inferior phrenic arteries, but the most common origin is the abdominal aorta directly.",
+        "E": "The superior mesenteric artery supplies the midgut and does not give branches to the diaphragm."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "inferior-phrenic-arteries", "abdominal-aorta"]
+  },
+  {
+    "id": "r03-017",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 35-year-old man undergoes thoracentesis for a large left pleural effusion. During the procedure, the operator accidentally inserts the needle too close to the inferior border of the rib above and the patient develops severe sharp chest pain radiating along the intercostal space. The order of the neurovascular bundle structures from superior to inferior within the costal groove is best described by which arrangement?",
+    "choices": [
+      {"label": "A", "text": "Vein, artery, then nerve"},
+      {"label": "B", "text": "Artery, vein, then nerve"},
+      {"label": "C", "text": "Nerve, artery, then vein"},
+      {"label": "D", "text": "Vein, nerve, then artery"},
+      {"label": "E", "text": "Nerve, vein, then artery"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Within the costal groove along the inferior border of each rib, the neurovascular bundle runs in the order vein, artery, nerve (VAN) from superior to inferior. The nerve is most inferior and therefore most vulnerable to injury during improper needle placement.",
+      "whyCorrect": "The mnemonic VAN describes the arrangement from superior to inferior: Vein (most superior, closest to the rib), Artery (middle), and Nerve (most inferior and most likely injured in this patient). This explains the radiating pain from intercostal nerve injury.",
+      "whyWrongByChoice": {
+        "C": "This reverses the order. The nerve is the most inferior structure, not the most superior.",
+        "B": "This places the artery most superiorly. The vein is closest to the rib in the costal groove.",
+        "D": "This places the nerve between the vein and artery. The correct sequence is VAN.",
+        "E": "This places the nerve most superiorly. The vein occupies the most superior position."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "intercostal-neurovascular-bundle", "VAN", "costal-groove"]
+  },
+  {
+    "id": "r03-018",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 22-year-old medical student is performing a cadaveric dissection and identifies ribs 11 and 12. She notes that these ribs have short tips that do not connect to the sternum or to the costal cartilage of any other rib. Her anatomy professor asks what classification these ribs receive. Which feature defines floating ribs?",
+    "choices": [
+      {"label": "A", "text": "No posterior vertebral articulation"},
+      {"label": "B", "text": "No anterior sternal or costal attachment"},
+      {"label": "C", "text": "Complete absence of costal cartilage"},
+      {"label": "D", "text": "Shorter than all remaining ribs"},
+      {"label": "E", "text": "No intercostal muscles between them"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Floating ribs (ribs 11 and 12) are defined by their lack of anterior attachment to the sternum or costal margin. True ribs (1-7) attach directly, and false ribs (8-10) attach indirectly via shared cartilage.",
+      "whyCorrect": "Floating ribs have free anterior ends with no connection to the sternum or shared costal cartilage. They articulate posteriorly with thoracic vertebrae but 'float' anteriorly, which gives them their name.",
+      "whyWrongByChoice": {
+        "A": "All 12 pairs of ribs, including floating ribs, articulate posteriorly with thoracic vertebrae. This is not absent.",
+        "C": "Floating ribs do have small costal cartilage tips at their anterior ends; they simply do not connect to the sternum or other ribs.",
+        "D": "While ribs 11 and 12 are relatively short, length alone does not define the floating rib classification. The defining feature is absent anterior attachment.",
+        "E": "Intercostal muscles are present between all ribs. The 11th intercostal space between ribs 11 and 12 contains intercostal muscles."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "floating-ribs", "rib-classification"]
+  },
+  {
+    "id": "r03-019",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 60-year-old man with right upper lobe lung cancer develops persistent right shoulder pain without any musculoskeletal pathology on MRI. His oncologist explains that irritation of the central diaphragm by tumor invasion can cause referred pain to the shoulder because sensory fibers from this region travel via the phrenic nerve. However, the peripheral diaphragm has different sensory innervation. Which nerves convey sensation from the peripheral diaphragm?",
+    "choices": [
+      {"label": "A", "text": "Vagus nerve branches"},
+      {"label": "B", "text": "Intercostal and subcostal nerves"},
+      {"label": "C", "text": "Greater splanchnic nerve fibers"},
+      {"label": "D", "text": "Phrenic nerve exclusively"},
+      {"label": "E", "text": "Thoracodorsal nerve branches"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Sensory innervation of the diaphragm is divided: the central portion is innervated by the phrenic nerve (C3-C5), while the peripheral portion is supplied by the lower intercostal (T5-T11) and subcostal (T12) nerves.",
+      "whyCorrect": "The peripheral diaphragm receives sensory innervation from the lower intercostal and subcostal nerves. This dual innervation explains why central diaphragmatic irritation causes referred shoulder pain (phrenic nerve dermatome) while peripheral irritation causes localized chest or abdominal wall pain.",
+      "whyWrongByChoice": {
+        "A": "The vagus nerve provides parasympathetic innervation to thoracic and abdominal viscera. It does not provide sensory innervation to the diaphragm.",
+        "C": "The greater splanchnic nerve carries sympathetic fibers to the abdominal viscera. It does not innervate the diaphragm.",
+        "D": "The phrenic nerve provides motor and sensory innervation to the central diaphragm only. Peripheral sensory innervation comes from intercostal and subcostal nerves.",
+        "E": "The thoracodorsal nerve innervates the latissimus dorsi muscle and has no role in diaphragmatic sensory innervation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "sensory-innervation", "intercostal-nerves"]
+  },
+  {
+    "id": "r03-020",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 55-year-old woman undergoes fluoroscopic evaluation of diaphragm function during preoperative assessment for lung volume reduction surgery. During quiet tidal breathing, the radiologist measures the craniocaudal excursion of the right hemidiaphragm. Which of the following ranges best represents normal diaphragm excursion during quiet breathing?",
+    "choices": [
+      {"label": "A", "text": "0.5 to 1 cm excursion"},
+      {"label": "B", "text": "3 to 5 cm excursion"},
+      {"label": "C", "text": "8 to 10 cm excursion"},
+      {"label": "D", "text": "12 to 15 cm excursion"},
+      {"label": "E", "text": "1 to 2 mm excursion"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "During normal quiet breathing, diaphragm excursion is approximately 3-5 cm. Greater excursion occurs during deep or forced breathing, when the diaphragm can ascend as high as the T5 vertebral level.",
+      "whyCorrect": "The diaphragm moves approximately 3-5 cm during normal tidal breathing. This relatively modest excursion is sufficient for quiet ventilation and can be measured fluoroscopically during preoperative evaluation.",
+      "whyWrongByChoice": {
+        "A": "An excursion of 0.5-1 cm would represent minimal movement, far less than typical quiet breathing. This might suggest partial diaphragm paresis.",
+        "C": "An 8-10 cm excursion would approach maximal forced breathing range, well beyond what occurs during quiet tidal ventilation.",
+        "D": "A 12-15 cm excursion exceeds the physiological range and is not achievable even with maximal voluntary effort.",
+        "E": "A 1-2 mm excursion is negligible and would suggest near-complete diaphragmatic paralysis, not normal function."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "diaphragm", "excursion", "quiet-breathing"]
+  },
+  {
+    "id": "r03-021",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 38-year-old woman undergoes an intercostal nerve block for chronic post-thoracotomy pain. The anesthesiologist explains that the intercostal nerves travel alongside the intercostal arteries at the lower edge of each rib. These intercostal nerves originate from which spinal cord levels?",
+    "choices": [
+      {"label": "A", "text": "C3 through C5 segments"},
+      {"label": "B", "text": "C6 through C8 segments"},
+      {"label": "C", "text": "T1 through T11 segments"},
+      {"label": "D", "text": "T12 through L2 segments"},
+      {"label": "E", "text": "L1 through L4 segments"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The intercostal nerves originate from spinal cord levels T1-T11 and travel in the intercostal spaces alongside the intercostal arteries and veins at the lower edge of each rib.",
+      "whyCorrect": "Each intercostal nerve arises from its corresponding thoracic spinal level (T1-T11) and innervates the intercostal muscles and overlying skin in that space. The subcostal nerve from T12 runs below the 12th rib.",
+      "whyWrongByChoice": {
+        "A": "C3-C5 gives rise to the phrenic nerve for the diaphragm, not intercostal nerves.",
+        "B": "C6-C8 contributes to the brachial plexus for upper extremity innervation, not the intercostal nerves.",
+        "D": "T12 gives rise to the subcostal nerve below the 12th rib, and L1-L2 feeds the lumbar plexus. These are not intercostal nerves.",
+        "E": "L1-L4 contributes to the lumbar plexus (iliohypogastric, ilioinguinal, femoral nerves) and does not supply the intercostal spaces."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "intercostal-nerves", "T1-T11", "innervation"]
+  },
+  {
+    "id": "r03-022",
+    "topicId": "anatomy-diaphragm-ribs-intercostals",
+    "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "stem": "A 65-year-old man with congestive heart failure and a large right pleural effusion is scheduled for therapeutic thoracentesis. The pulmonologist positions the patient sitting upright and marks the skin at the midaxillary line. To access the costodiaphragmatic recess where dependent fluid has accumulated, the procedure is most commonly performed at which intercostal space?",
+    "choices": [
+      {"label": "A", "text": "2nd to 3rd intercostal space"},
+      {"label": "B", "text": "4th to 5th intercostal space"},
+      {"label": "C", "text": "7th to 9th intercostal space"},
+      {"label": "D", "text": "10th to 11th intercostal space"},
+      {"label": "E", "text": "1st intercostal space only"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Thoracentesis is most commonly performed at the 7th-9th intercostal space in the midaxillary line to access the costodiaphragmatic recess, where pleural fluid accumulates dependently.",
+      "whyCorrect": "The 7th-9th intercostal space in the midaxillary line overlies the costodiaphragmatic recess, the most dependent part of the pleural cavity in an upright patient. This provides safe access above the diaphragm for fluid drainage.",
+      "whyWrongByChoice": {
+        "A": "The 2nd-3rd intercostal space is too high to reach the dependent fluid collection. This level is used for procedures targeting apical pathology.",
+        "B": "The 4th-5th intercostal space is the typical location for chest tube insertion for pneumothorax, not for accessing the costodiaphragmatic recess.",
+        "D": "The 10th-11th intercostal space risks entering below the diaphragm, potentially injuring abdominal organs such as the liver or spleen.",
+        "E": "The 1st intercostal space is at the thoracic apex and would not access dependent pleural fluid collections."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "thoracentesis", "costodiaphragmatic-recess", "intercostal-space"]
+  },
+  {
+    "id": "r03-023",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 70-year-old retired engineer with a 56-pack-year smoking history and emphysema presents to the emergency department with worsening dyspnea over 2 days. His oxygen saturation is 91% on room air. After placing him on 2L supplemental oxygen via nasal cannula, his saturation improves to 96%. According to Fick's law of diffusion, which factor is primarily enhanced by supplemental oxygen administration?",
+    "choices": [
+      {"label": "A", "text": "Alveolar membrane surface area"},
+      {"label": "B", "text": "Alveolar-capillary membrane thickness"},
+      {"label": "C", "text": "Oxygen diffusion coefficient value"},
+      {"label": "D", "text": "Alveolar-to-capillary pressure gradient"},
+      {"label": "E", "text": "Hemoglobin oxygen binding affinity"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Supplemental oxygen increases alveolar PO2, steepening the partial pressure gradient between alveolar air and capillary blood. Per Fick's law, a larger pressure gradient (P1-P2) increases the rate of oxygen diffusion across the alveolar membrane.",
+      "whyCorrect": "Fick's law states gas diffusion is proportional to the pressure gradient (P1-P2). Supplemental oxygen raises alveolar PO2, widening the gradient between alveolar gas and deoxygenated capillary blood (~40 mmHg), thereby increasing oxygen diffusion despite his reduced surface area.",
+      "whyWrongByChoice": {
+        "A": "Surface area is reduced in emphysema due to alveolar destruction. Supplemental oxygen cannot restore destroyed alveoli or increase surface area.",
+        "B": "Supplemental oxygen does not alter membrane thickness. This is a structural property changed by diseases like pulmonary fibrosis, not oxygen therapy.",
+        "C": "The diffusion coefficient is an inherent property of each gas based on its solubility and molecular weight. It is fixed and cannot be changed.",
+        "E": "Hemoglobin oxygen-binding affinity is determined by pH, temperature, and 2,3-DPG. Supplemental oxygen works by increasing dissolved alveolar oxygen, not altering binding affinity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "supplemental-oxygen", "pressure-gradient"]
+  },
+  {
+    "id": "r03-024",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 52-year-old woman with progressive pulmonary fibrosis presents with worsening dyspnea on exertion over 6 months. High-resolution CT shows bilateral honeycombing and ground-glass opacities. Pulmonary function testing reveals a severely decreased DLCO at 38% predicted. According to Fick's law, which change in the alveolar barrier best explains her impaired diffusion?",
+    "choices": [
+      {"label": "A", "text": "Increased alveolar membrane thickness"},
+      {"label": "B", "text": "Decreased partial pressure gradient"},
+      {"label": "C", "text": "Increased gas exchange surface area"},
+      {"label": "D", "text": "Increased oxygen diffusion coefficient"},
+      {"label": "E", "text": "Decreased capillary blood transit time"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In pulmonary fibrosis, fibrotic thickening of the interstitium increases the distance gases must traverse across the alveolar membrane. Per Fick's law, increased thickness (T) reduces the rate of gas diffusion, explaining her decreased DLCO.",
+      "whyCorrect": "Fick's law shows diffusion is inversely proportional to membrane thickness. Pulmonary fibrosis causes fibrotic thickening of the alveolar interstitium and basement membranes, increasing the diffusion distance. This is the hallmark pathophysiological change that impairs gas transfer.",
+      "whyWrongByChoice": {
+        "B": "The partial pressure gradient is typically maintained at rest in fibrosis. The primary pathology is structural thickening of the barrier, not a reduced driving pressure.",
+        "C": "Pulmonary fibrosis causes loss of alveolar surface area due to honeycombing. Surface area decreases, not increases.",
+        "D": "The diffusion coefficient is a fixed physical property of each gas and does not change with disease.",
+        "E": "Decreased capillary transit time occurs during exercise and can unmask diffusion impairment, but it is not itself a change in the alveolar barrier structure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "pulmonary-fibrosis", "membrane-thickness", "DLCO"]
+  },
+  {
+    "id": "r03-025",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 25-year-old man undergoes respiratory physiology testing in a research laboratory. A manometer in the airway measures real-time alveolar pressure during the respiratory cycle. During quiet inspiration, the diaphragm contracts and the thoracic cavity expands. Which of the following pressure changes directly causes airflow into the lungs?",
+    "choices": [
+      {"label": "A", "text": "Alveolar pressure rises above atmospheric"},
+      {"label": "B", "text": "Alveolar pressure falls below atmospheric"},
+      {"label": "C", "text": "Intrapleural pressure becomes positive"},
+      {"label": "D", "text": "Airway resistance acutely increases"},
+      {"label": "E", "text": "Atmospheric pressure rapidly decreases"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "When the diaphragm contracts and thoracic volume increases, alveolar volume expands, causing alveolar pressure to drop below atmospheric pressure. This negative pressure gradient drives air from the atmosphere into the lungs.",
+      "whyCorrect": "By Boyle's law, increasing thoracic and alveolar volume decreases alveolar pressure below atmospheric pressure. Air flows down the pressure gradient from the atmosphere (higher pressure) into the alveoli (lower, or subatmospheric, pressure).",
+      "whyWrongByChoice": {
+        "A": "Alveolar pressure rising above atmospheric drives air out of the lungs during expiration, not into them during inspiration.",
+        "C": "Intrapleural pressure becomes more negative during inspiration, not positive. Positive intrapleural pressure would compress and collapse the lung.",
+        "D": "Airway resistance does not increase during normal inspiration. Airway caliber actually increases slightly as lung volume expands.",
+        "E": "Atmospheric pressure remains essentially constant during breathing. The change occurs in alveolar pressure relative to atmospheric."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "inspiration", "pressure-gradient", "boyles-law"]
+  },
+  {
+    "id": "r03-026",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A pathologist examining a lung biopsy from a patient with diffuse alveolar damage describes the layers of the alveolar-capillary barrier that are disrupted. Starting from the alveolar air space and moving toward the capillary blood, which of the following lists the layers in the correct order?",
+    "choices": [
+      {"label": "A", "text": "Endothelium, basement membranes, epithelium, surfactant"},
+      {"label": "B", "text": "Epithelium, surfactant, endothelium, basement membranes"},
+      {"label": "C", "text": "Surfactant, endothelium, interstitium, alveolar epithelium"},
+      {"label": "D", "text": "Basement membranes, epithelium, surfactant, endothelium"},
+      {"label": "E", "text": "Surfactant layer, alveolar epithelium, basement membranes, endothelium"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "From air to blood, the alveolar-capillary barrier consists of: (1) surfactant and fluid layer, (2) alveolar epithelium (type I pneumocytes), (3) epithelial and capillary basement membranes with interstitial space, and (4) capillary endothelium.",
+      "whyCorrect": "Moving from the alveolar air space to the blood: the surfactant/fluid layer faces the air, then the alveolar epithelial cells, then the fused basement membranes with interstitial connective tissue, and finally the capillary endothelium lining the blood side.",
+      "whyWrongByChoice": {
+        "A": "This lists the layers in reverse order (blood to air). The endothelium faces the blood, not the air space.",
+        "B": "This places the surfactant between the epithelium and endothelium. Surfactant lines the air-facing surface of the alveolus and is encountered first.",
+        "C": "This places the endothelium immediately after surfactant, skipping the alveolar epithelium and basement membranes entirely.",
+        "D": "This places basement membranes first from the air side, but surfactant and epithelium are encountered before the basement membranes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "alveolar-capillary-barrier", "gas-exchange"]
+  },
+  {
+    "id": "r03-027",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 4-year-old boy is brought to the pediatrician with a 5-day history of productive cough and low-grade fever following an upper respiratory infection. The physician explains to the parents that the conducting airways have a built-in defense mechanism called the mucociliary escalator that normally clears trapped particles upward. Which cellular structure performs this rhythmic upward transport?",
+    "choices": [
+      {"label": "A", "text": "Motile epithelial cell cilia"},
+      {"label": "B", "text": "Airway smooth muscle fibers"},
+      {"label": "C", "text": "Mucus-secreting goblet cells"},
+      {"label": "D", "text": "Submucosal gland acini"},
+      {"label": "E", "text": "Resident alveolar macrophages"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Cilia are motile hair-like projections on respiratory epithelial cells that beat rhythmically in a coordinated upward pattern, propelling the overlying mucus blanket and its trapped particles toward the pharynx.",
+      "whyCorrect": "Cilia on respiratory epithelial cells beat in a coordinated, rhythmic pattern that moves the mucus layer upward toward the mouth, functioning like an escalator. This mucociliary transport clears inhaled particles and pathogens from the airways.",
+      "whyWrongByChoice": {
+        "C": "Goblet cells produce mucus that traps particles, but they do not have motile structures to move the mucus upward. That transport function belongs to cilia.",
+        "B": "Smooth muscle regulates airway caliber through contraction and relaxation. It does not participate in mucociliary transport.",
+        "D": "Submucosal glands secrete mucus and antimicrobial proteins but do not physically transport the mucus layer upward.",
+        "E": "Alveolar macrophages provide phagocytic defense in the alveoli, which lack cilia. They are not part of the mucociliary escalator."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "mucociliary-escalator", "cilia", "airway-defense"]
+  },
+  {
+    "id": "r03-028",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 68-year-old man with a 40-pack-year smoking history presents with progressive exertional dyspnea. Chest CT shows diffuse centrilobular emphysema with destruction of alveolar walls and enlarged air spaces. Pulmonary function testing reveals a markedly decreased DLCO. According to Fick's law, which factor in the diffusion equation is most directly reduced by this alveolar wall destruction?",
+    "choices": [
+      {"label": "A", "text": "Gas exchange surface area"},
+      {"label": "B", "text": "Partial pressure gradient magnitude"},
+      {"label": "C", "text": "Alveolar membrane thickness value"},
+      {"label": "D", "text": "Oxygen diffusion coefficient"},
+      {"label": "E", "text": "Capillary blood flow velocity"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In emphysema, destruction of alveolar septa greatly reduces the surface area (A) available for gas exchange. Per Fick's law, diffusion is directly proportional to surface area, so this destruction significantly impairs gas exchange.",
+      "whyCorrect": "Emphysema destroys alveolar walls, merging multiple alveoli into enlarged air spaces with markedly reduced total surface area. Since Fick's law states diffusion rate is proportional to area (A), this loss directly explains the decreased DLCO.",
+      "whyWrongByChoice": {
+        "C": "Membrane thickness may actually decrease as alveolar walls thin and are destroyed. The primary impairment in emphysema is loss of surface area, not increased thickness.",
+        "B": "The partial pressure gradient is not directly reduced by alveolar wall destruction itself. Ventilation-perfusion mismatch may affect it secondarily, but surface area loss is the primary Fick's factor.",
+        "D": "The diffusion coefficient is an inherent property of each gas determined by its molecular weight and solubility. It cannot change with disease.",
+        "E": "Blood flow velocity is not a direct variable in Fick's diffusion equation. While capillary transit time affects gas exchange, the primary Fick's variable reduced here is surface area."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "emphysema", "surface-area"]
+  },
+  {
+    "id": "r03-029",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A physiology professor presents arterial blood gas data showing that carbon dioxide diffuses across the alveolar membrane approximately 20 times more readily than oxygen, despite having a much smaller partial pressure gradient (6 mmHg for CO2 versus 60 mmHg for O2). She asks the class which property of CO2 accounts for its superior diffusion efficiency. Which answer is correct?",
+    "choices": [
+      {"label": "A", "text": "Lower molecular weight than oxygen"},
+      {"label": "B", "text": "Greater binding affinity for hemoglobin"},
+      {"label": "C", "text": "Higher alveolar gas concentration"},
+      {"label": "D", "text": "Larger partial pressure gradient present"},
+      {"label": "E", "text": "Much higher solubility in plasma"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "CO2 has approximately 20 times greater solubility in plasma than O2, giving it a much higher diffusion coefficient. This allows CO2 to diffuse rapidly across the alveolar membrane even with a much smaller pressure gradient.",
+      "whyCorrect": "The diffusion coefficient in Fick's law depends on gas solubility and molecular weight. CO2 is roughly 20 times more soluble in plasma than O2, giving it a much higher diffusion coefficient that more than compensates for its smaller pressure gradient.",
+      "whyWrongByChoice": {
+        "A": "CO2 (molecular weight 44) is actually heavier than O2 (molecular weight 32). Its superior diffusibility is due to its much higher solubility, not lower weight.",
+        "B": "CO2 transport as bicarbonate and carbaminohemoglobin is important for blood carriage, but diffusion across the membrane depends on dissolved gas and pressure gradient, not hemoglobin binding.",
+        "C": "Alveolar CO2 concentration (PACO2 ~40 mmHg) is lower than alveolar O2 (PAO2 ~100 mmHg). CO2's advantage is solubility, not concentration.",
+        "D": "The question explicitly states CO2 has a smaller pressure gradient than O2. This cannot explain CO2's more efficient diffusion."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "CO2-diffusion", "solubility"]
+  },
+  {
+    "id": "r03-030",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 45-year-old construction worker with a 25-pack-year smoking history presents with a chronic productive cough and recurrent lower respiratory tract infections over 2 years. Bronchoscopy reveals inflamed, erythematous airways with thick mucus adherent to the bronchial walls. His pulmonologist explains that smoking has specifically impaired the mucociliary escalator. Which of the following effects of smoking on this defense mechanism is most responsible?",
+    "choices": [
+      {"label": "A", "text": "Increased goblet cell proliferation"},
+      {"label": "B", "text": "Elevated mucus viscosity levels"},
+      {"label": "C", "text": "Reduced ciliary beat and length"},
+      {"label": "D", "text": "Destruction of alveolar macrophages"},
+      {"label": "E", "text": "Smooth muscle hypertrophy and spasm"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cigarette smoke toxins directly damage cilia by reducing ciliary beat frequency, disrupting coordinated beating patterns, and shortening ciliary length, impairing the mucociliary escalator's clearance function.",
+      "whyCorrect": "Smoking directly damages cilia by reducing their beat frequency, disrupting their coordinated motion, and decreasing their length. This impairs the escalator's ability to clear mucus and trapped pathogens, predisposing to chronic bronchitis and recurrent infections.",
+      "whyWrongByChoice": {
+        "A": "Smoking does cause goblet cell hyperplasia with increased mucus production, but this is a separate mechanism from the impaired mucociliary escalator clearance function.",
+        "B": "While mucus composition may change with smoking, the primary mucociliary escalator impairment is reduced ciliary function, not viscosity changes.",
+        "D": "Alveolar macrophages operate beyond the terminal bronchioles in the alveolar region. They are not part of the mucociliary escalator in the conducting airways.",
+        "E": "Smooth muscle hypertrophy contributes to airway narrowing but does not explain the impaired mucociliary transport of mucus and particles."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "mucociliary-escalator", "smoking", "ciliary-dysfunction"]
+  },
+  {
+    "id": "r03-031",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 58-year-old farmer with decades of grain dust exposure undergoes bronchoalveolar lavage revealing numerous dust-laden cells in the alveolar washings. His pulmonologist explains that beyond the terminal bronchioles, the airway epithelium lacks cilia and goblet cells. Particle clearance in this region depends primarily on which of the following?",
+    "choices": [
+      {"label": "A", "text": "Residual goblet cell secretions"},
+      {"label": "B", "text": "Submucosal gland mucus output"},
+      {"label": "C", "text": "Phagocytic alveolar macrophages"},
+      {"label": "D", "text": "Terminal bronchiolar club cells"},
+      {"label": "E", "text": "Type II pneumocyte surfactant"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In the respiratory zone beyond the terminal bronchioles, particle clearance shifts from mucociliary transport to phagocytosis by alveolar macrophages. These dust-laden cells in the lavage fluid demonstrate this defense mechanism.",
+      "whyCorrect": "Alveolar macrophages reside on the alveolar surface and phagocytose inhaled particles, microorganisms, and debris. They are the primary defense in the gas exchange zone where cilia and goblet cells are absent, explaining the dust-laden cells found in this farmer's lavage.",
+      "whyWrongByChoice": {
+        "A": "Goblet cells are progressively absent beyond the terminal bronchioles. They cannot contribute to particle clearance in the alveolar region.",
+        "B": "Submucosal glands are found in the trachea and bronchi only. They are not present in the distal airways or alveoli.",
+        "D": "Club cells in terminal bronchioles secrete protective proteins and metabolize toxins, but they do not phagocytose particles in the alveolar region.",
+        "E": "Type II pneumocytes produce surfactant to reduce surface tension. They do not function as phagocytic particle-clearing cells."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "alveolar-macrophages", "particle-clearance", "respiratory-zone"]
+  },
+  {
+    "id": "r03-032",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A medical student asks her physiology professor why blood can carry far more oxygen than would be possible with simple dissolution in plasma. The professor explains that hemoglobin plays a critical role at the alveolar-capillary interface by maintaining the diffusion gradient. Which of the following best describes how hemoglobin facilitates continued oxygen diffusion from alveoli into blood?",
+    "choices": [
+      {"label": "A", "text": "Increases alveolar oxygen partial pressure"},
+      {"label": "B", "text": "Thins the alveolar-capillary membrane"},
+      {"label": "C", "text": "Binds dissolved O2 to keep PO2 low"},
+      {"label": "D", "text": "Converts oxygen into carbon dioxide"},
+      {"label": "E", "text": "Raises the oxygen diffusion coefficient"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Hemoglobin continuously binds dissolved O2 as it enters capillary blood, keeping plasma PO2 low. This maintains the partial pressure gradient between alveolar air and blood, allowing diffusion to continue until hemoglobin is fully saturated.",
+      "whyCorrect": "Only dissolved O2 contributes to partial pressure. By binding dissolved O2 and sequestering it, hemoglobin removes free oxygen from plasma, preventing PO2 from equilibrating quickly with alveolar PO2 and preserving the gradient for continued diffusion.",
+      "whyWrongByChoice": {
+        "A": "At the alveolar-capillary interface, hemoglobin binds oxygen from blood, not the alveolar gas. It does not alter alveolar PO2.",
+        "B": "Hemoglobin is inside red blood cells within the capillary. It has no effect on the physical structure or thickness of the alveolar membrane.",
+        "D": "Hemoglobin does not convert O2 to CO2. Carbon dioxide is produced by cellular metabolism in peripheral tissues.",
+        "E": "The diffusion coefficient is an inherent physical property of each gas determined by molecular weight and solubility. Hemoglobin cannot change it."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "hemoglobin", "diffusion-gradient", "oxygen-transport"]
+  },
+  {
+    "id": "r03-033",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 42-year-old woman with well-controlled hypertension on an ACE inhibitor develops a persistent dry cough. Her physician explains that the lungs have important non-gas-exchange metabolic functions, including expression of angiotensin-converting enzyme on pulmonary capillary endothelial cells. Which of the following is another recognized non-gas-exchange function of the respiratory system?",
+    "choices": [
+      {"label": "A", "text": "Oxygen delivery to peripheral tissues"},
+      {"label": "B", "text": "Carbon dioxide removal from blood"},
+      {"label": "C", "text": "Hemoglobin oxygenation in lung capillaries"},
+      {"label": "D", "text": "Acid-base balance via CO2 regulation"},
+      {"label": "E", "text": "Diffusion of gases across alveolar walls"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Beyond gas exchange, the respiratory system has multiple non-gas-exchange functions including acid-base regulation via CO2 elimination, metabolite generation (surfactant, ACE), phonation, and immune defense against inhaled pathogens.",
+      "whyCorrect": "The respiratory system regulates blood pH through the CO2-bicarbonate buffer system. By adjusting ventilation rate, the lungs control CO2 elimination, which shifts the carbonic acid equilibrium and directly influences blood pH. This is a regulatory function beyond simple gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Oxygen delivery to tissues is a direct consequence of the gas exchange function and oxygen transport by hemoglobin.",
+        "B": "Carbon dioxide removal is a core gas exchange function of the lungs at the alveolar-capillary interface.",
+        "C": "Hemoglobin oxygenation in pulmonary capillaries is the direct result of alveolar gas exchange.",
+        "E": "Diffusion of gases across alveolar walls is the fundamental gas exchange process of the lungs."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "ACE", "non-gas-exchange-functions", "pulmonary-metabolism"]
+  },
+  {
+    "id": "r03-034",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 12-year-old boy with cystic fibrosis is hospitalized for a pulmonary exacerbation. Sputum culture grows Pseudomonas aeruginosa. His pulmonologist explains that defective CFTR channels cause dehydrated, viscous airway secretions that impair mucociliary clearance. Which of the following is the most likely direct consequence of this impaired clearance mechanism?",
+    "choices": [
+      {"label": "A", "text": "Increased alveolar gas exchange area"},
+      {"label": "B", "text": "Decreased total airway resistance"},
+      {"label": "C", "text": "Improved ventilation-perfusion matching"},
+      {"label": "D", "text": "Recurrent lower respiratory infections"},
+      {"label": "E", "text": "Decreased overall mucus production"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In cystic fibrosis, defective CFTR channels produce dehydrated, viscous mucus that cannot be effectively cleared. This stagnant mucus promotes bacterial colonization and recurrent pulmonary infections, as demonstrated by this patient's Pseudomonas infection.",
+      "whyCorrect": "When mucociliary clearance is impaired, mucus stagnates and creates a warm, moist environment ideal for bacterial growth. This leads to recurrent and chronic pulmonary infections, which are the major cause of morbidity and mortality in cystic fibrosis patients.",
+      "whyWrongByChoice": {
+        "A": "Chronic infection and airway damage from impaired clearance reduce functional alveolar surface area over time, not increase it.",
+        "B": "Accumulated thick mucus narrows airway lumens, increasing airway resistance rather than decreasing it.",
+        "C": "Mucus plugging causes regional ventilation-perfusion mismatch, worsening gas exchange rather than improving it.",
+        "E": "Mucus production may actually increase due to chronic inflammation. The fundamental problem is impaired clearance of thick secretions, not decreased production."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "cystic-fibrosis", "mucociliary-clearance", "recurrent-infections"]
+  },
+  {
+    "id": "r03-035",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A second-year medical student is reviewing Fick's law of diffusion, which states that the rate of gas transfer equals (A x D x (P1 - P2)) / T. She notes that membrane thickness (T) appears in the denominator. A classmate asks what mathematical relationship this creates between diffusion rate and membrane thickness. Which of the following correctly describes this relationship?",
+    "choices": [
+      {"label": "A", "text": "Directly proportional relationship"},
+      {"label": "B", "text": "Inversely proportional relationship"},
+      {"label": "C", "text": "Exponentially proportional relationship"},
+      {"label": "D", "text": "Completely independent of each other"},
+      {"label": "E", "text": "Logarithmically proportional relationship"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In Fick's law, membrane thickness (T) is in the denominator. Therefore diffusion rate is inversely proportional to thickness: as the membrane thickens, diffusion rate decreases proportionally.",
+      "whyCorrect": "Fick's law places T in the denominator (Vgas = A x D x delta-P / T). As thickness increases, diffusion rate proportionally decreases. This explains why pulmonary fibrosis, which thickens the alveolar membrane, impairs gas exchange.",
+      "whyWrongByChoice": {
+        "A": "If diffusion were directly proportional to thickness, a thicker membrane would increase diffusion, which contradicts basic physics of gas transfer.",
+        "C": "The relationship is a simple inverse proportion (1/T), not an exponential function.",
+        "D": "Membrane thickness is explicitly a variable in the Fick's equation denominator. Diffusion is clearly dependent on it.",
+        "E": "The relationship is a straightforward inverse proportion, not a logarithmic function."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "membrane-thickness", "diffusion"]
+  },
+  {
+    "id": "r03-036",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 35-year-old woman undergoes right heart catheterization for evaluation of pulmonary hypertension. A blood sample drawn from the pulmonary artery (mixed venous blood) shows a PO2 of 40 mmHg. The attending cardiologist explains that this value, compared to an alveolar PO2 of approximately 100 mmHg, creates the driving force for oxygen diffusion. What is the approximate PO2 of the deoxygenated blood entering the pulmonary capillaries?",
+    "choices": [
+      {"label": "A", "text": "Approximately 0 mmHg"},
+      {"label": "B", "text": "Approximately 20 mmHg"},
+      {"label": "C", "text": "Approximately 60 mmHg"},
+      {"label": "D", "text": "Approximately 40 mmHg"},
+      {"label": "E", "text": "Approximately 100 mmHg"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Mixed venous blood entering the pulmonary capillaries has a PO2 of approximately 40 mmHg. The gradient between alveolar PO2 (~100 mmHg) and venous blood PO2 (~40 mmHg) provides the ~60 mmHg driving force for oxygen diffusion.",
+      "whyCorrect": "Mixed venous blood returning to the lungs via the pulmonary artery has a PO2 of approximately 40 mmHg, as confirmed by this patient's catheterization. The ~60 mmHg gradient between alveolar and venous PO2 drives oxygen diffusion across the alveolar membrane.",
+      "whyWrongByChoice": {
+        "A": "A PO2 of 0 mmHg would mean no dissolved oxygen, which is incompatible with venous blood that retains significant oxygen after systemic capillary gas exchange.",
+        "B": "A PO2 of 20 mmHg would indicate severely hypoxic venous blood, well below the normal mixed venous value measured at catheterization.",
+        "C": "A PO2 of 60 mmHg is closer to arterial blood values and would indicate nearly oxygenated blood, not typical mixed venous blood.",
+        "E": "A PO2 of 100 mmHg equals alveolar PO2. If incoming blood matched this value, there would be no pressure gradient and no oxygen diffusion."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "oxygen-diffusion", "partial-pressure", "alveolar-capillary"]
+  },
+  {
+    "id": "r03-037",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 52-year-old coal miner with 30 years of underground exposure presents with progressive dyspnea and chronic cough. Chest radiograph shows diffuse bilateral upper-lobe opacities. Bronchoalveolar lavage reveals numerous pigment-laden macrophages. This finding demonstrates the primary particle clearance mechanism in which region of the respiratory tract?",
+    "choices": [
+      {"label": "A", "text": "IgA-rich nasal mucosal surface"},
+      {"label": "B", "text": "Goblet cell-lined tracheal epithelium"},
+      {"label": "C", "text": "Ciliated bronchial conducting airways"},
+      {"label": "D", "text": "Submucosal gland-rich bronchial wall"},
+      {"label": "E", "text": "Alveolar gas exchange region"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In the alveolar region, where cilia and goblet cells are absent, particle clearance depends on alveolar macrophages. The pigment-laden macrophages in this coal miner demonstrate macrophage-mediated phagocytosis in the gas exchange zone.",
+      "whyCorrect": "Beyond the terminal bronchioles, particle clearance shifts from mucociliary transport to phagocytosis by alveolar macrophages. These macrophages engulf inhaled coal dust particles, becoming the characteristic pigment-laden (carbon-laden) cells of coal workers' pneumoconiosis.",
+      "whyWrongByChoice": {
+        "A": "The nasal mucosa uses IgA and mucociliary transport for initial defense. Pigment-laden macrophages are not a feature of nasal defense.",
+        "B": "The trachea uses goblet cell mucus and ciliary transport. Particle clearance here is mucociliary, not macrophage-based.",
+        "C": "Ciliated bronchial airways use the mucociliary escalator for particle clearance, not macrophage phagocytosis.",
+        "D": "Submucosal glands secrete mucus in the bronchi for mucociliary clearance, not macrophage-mediated defense."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "alveolar-macrophages", "pneumoconiosis", "phagocytosis"]
+  },
+  {
+    "id": "r03-038",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A pathology resident examines a lung biopsy under electron microscopy and notes that the alveolar capillaries have continuous endothelium without any pores or gaps. She compares this to the fenestrated capillaries she observed in a kidney biopsy earlier. Which structural feature do continuous capillaries like those in the alveoli specifically lack?",
+    "choices": [
+      {"label": "A", "text": "Endothelial cell lining"},
+      {"label": "B", "text": "Complete basement membrane"},
+      {"label": "C", "text": "Fenestrae or endothelial pores"},
+      {"label": "D", "text": "Intercellular tight junctions"},
+      {"label": "E", "text": "Central vascular lumen"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Continuous capillaries have an uninterrupted endothelial lining without fenestrae (pores). This contrasts with fenestrated capillaries (kidneys, intestines) and sinusoidal capillaries (liver, spleen) that have openings in their walls.",
+      "whyCorrect": "Alveolar capillaries are continuous capillaries with a complete endothelial barrier lacking fenestrae or gaps. This provides controlled permeability while still allowing efficient gas diffusion across the thin endothelial layer.",
+      "whyWrongByChoice": {
+        "A": "All capillary types, including continuous, have endothelial cells forming their walls. This is fundamental to all blood vessels.",
+        "B": "Continuous capillaries have a complete basement membrane. It is sinusoidal (discontinuous) capillaries that may have an incomplete basement membrane.",
+        "D": "Continuous capillaries have tight junctions between endothelial cells that limit paracellular transport. This is a feature they possess, not lack.",
+        "E": "All capillaries have a central lumen for blood flow. This is essential to capillary function regardless of type."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "alveolar-capillaries", "continuous-capillaries", "fenestrae"]
+  },
+  {
+    "id": "r03-039",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A pulmonology fellow is teaching medical students about Fick's law of diffusion using the equation Vgas = (A x D x (P1 - P2)) / T. She emphasizes that while all variables influence diffusion rate, one factor serves as the primary driving force that determines both the direction and magnitude of gas movement. Which Fick's law variable is this primary driving force?",
+    "choices": [
+      {"label": "A", "text": "Membrane surface area (A)"},
+      {"label": "B", "text": "Gas diffusion coefficient (D)"},
+      {"label": "C", "text": "Membrane thickness value (T)"},
+      {"label": "D", "text": "Partial pressure gradient (P1-P2)"},
+      {"label": "E", "text": "Pulmonary blood flow rate"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The partial pressure gradient (P1-P2) is the primary driving force for gas diffusion. It determines both the direction (high to low pressure) and the magnitude of gas movement across the alveolar membrane.",
+      "whyCorrect": "The partial pressure gradient reflects the kinetic energy difference of gas molecules between two compartments. It is the fundamental force that propels molecules from one side to the other, determining both direction and rate of diffusion.",
+      "whyWrongByChoice": {
+        "A": "Surface area is proportional to diffusion rate but is a capacity factor, not a driving force. It determines how much membrane is available.",
+        "B": "The diffusion coefficient is a gas-specific constant that influences rate but does not drive or determine the direction of diffusion.",
+        "C": "Membrane thickness is inversely proportional to rate and represents a resistance factor, not a driving force.",
+        "E": "Pulmonary blood flow rate is not a variable in Fick's law of diffusion. It affects oxygen delivery but is separate from the diffusion equation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ficks-law", "pressure-gradient", "driving-force"]
+  },
+  {
+    "id": "r03-040",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 33-year-old woman with chronic cough undergoes bronchoscopy revealing thick mucus plugging in the distal airways. Biopsy of the terminal bronchiolar epithelium shows a prominent population of non-ciliated secretory cells. The pathologist explains that in the terminal bronchioles, where goblet cells are largely absent, these cells provide local protection by secreting defensive proteins and metabolizing inhaled toxins. Which cell type is the pathologist describing?",
+    "choices": [
+      {"label": "A", "text": "Type I alveolar pneumocytes"},
+      {"label": "B", "text": "Type II alveolar pneumocytes"},
+      {"label": "C", "text": "Bronchiolar club cells"},
+      {"label": "D", "text": "Resident alveolar macrophages"},
+      {"label": "E", "text": "Circulating blood neutrophils"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Club cells (formerly Clara cells) are abundant non-ciliated secretory cells in terminal bronchioles where goblet cells diminish. They secrete protective proteins, detoxify inhaled substances, and serve as progenitor cells for bronchiolar epithelial repair.",
+      "whyCorrect": "In the terminal bronchioles, club cells replace goblet cells as the primary secretory cell. They produce protective proteins with antimicrobial properties, metabolize inhaled xenobiotics via cytochrome P450, and function as progenitor cells for epithelial regeneration.",
+      "whyWrongByChoice": {
+        "A": "Type I pneumocytes are thin squamous cells in the alveoli specialized for gas exchange. They are not secretory cells of the terminal bronchioles.",
+        "B": "Type II pneumocytes produce surfactant in the alveoli. They are not the protective secretory cells found in terminal bronchiolar epithelium.",
+        "D": "Alveolar macrophages are phagocytic immune cells in the alveolar space, not secretory epithelial cells of the terminal bronchioles.",
+        "E": "Neutrophils are circulating immune cells recruited during acute inflammation. They are not resident protective cells of the bronchiolar epithelium."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "club-cells", "terminal-bronchioles", "airway-protection"]
+  },
+  {
+    "id": "r03-041",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 29-year-old woman completes a spirometry test during a routine physical examination. The technician records that her normal tidal exhalation is slightly longer than inhalation and occurs without visible muscular effort. She asks the technician what primary force drives air out of the lungs during quiet resting expiration. Which of the following is the correct answer?",
+    "choices": [
+      {"label": "A", "text": "Active diaphragmatic muscle contraction"},
+      {"label": "B", "text": "External intercostal muscle activation"},
+      {"label": "C", "text": "Abdominal wall muscle compression"},
+      {"label": "D", "text": "Passive lung elastic tissue recoil"},
+      {"label": "E", "text": "Sternocleidomastoid muscle contraction"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Normal quiet exhalation is entirely passive, driven by the elastic recoil of lung tissue. As inspiratory muscles relax, the elastic properties of elastin and collagen in the lung parenchyma cause the lungs to recoil inward, raising alveolar pressure and pushing air out.",
+      "whyCorrect": "At rest, exhalation requires no active muscular effort. The elastic fibers (elastin and collagen) in lung tissue and chest wall store energy during inspiration and release it during expiration, creating a positive pressure gradient that expels air passively.",
+      "whyWrongByChoice": {
+        "A": "Diaphragm contraction occurs during inspiration to flatten the dome and expand the thorax. During quiet exhalation, the diaphragm passively relaxes.",
+        "B": "External intercostals elevate the ribs during inspiration. They do not contract during quiet expiration.",
+        "C": "Abdominal wall muscles contract during forced expiration only. They are not needed for quiet resting exhalation.",
+        "E": "The sternocleidomastoid is an accessory muscle of forced inspiration used during respiratory distress. It plays no role in expiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "exhalation", "elastic-recoil", "passive-expiration"]
+  },
+  {
+    "id": "r03-042",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 48-year-old sandblaster with 20 years of occupational silica exposure presents with progressive dyspnea and a restrictive pattern on pulmonary function testing. Lung biopsy shows silicotic nodules with birefringent particles surrounded by fibrotic tissue. Bronchoalveolar lavage demonstrates impaired macrophage viability. Which of the following best describes the pathologic consequence of dysfunctional alveolar macrophages in this condition?",
+    "choices": [
+      {"label": "A", "text": "Decreased airway mucus production"},
+      {"label": "B", "text": "Chronic inflammation causing pulmonary fibrosis"},
+      {"label": "C", "text": "Increased alveolar surfactant secretion"},
+      {"label": "D", "text": "Improved inhaled particle clearance rate"},
+      {"label": "E", "text": "Decreased total airway flow resistance"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Silica particles impair macrophage function by damaging lysosomes and killing the phagocytes, releasing inflammatory mediators. New macrophages re-phagocytose the silica, perpetuating a cycle of chronic inflammation that drives progressive pulmonary fibrosis.",
+      "whyCorrect": "Silica is toxic to macrophage lysosomes. When macrophages ingest silica particles, the crystals damage intracellular membranes, leading to cell death with release of inflammatory cytokines and the silica itself. This triggers fibroblast activation and progressive fibrosis.",
+      "whyWrongByChoice": {
+        "A": "Mucus production is a function of goblet cells and submucosal glands in the conducting airways, not alveolar macrophages.",
+        "C": "Surfactant is produced by type II pneumocytes. Macrophage dysfunction does not stimulate increased surfactant production.",
+        "D": "Macrophage impairment decreases particle clearance, which is the central problem. Impaired clearance perpetuates inflammation and fibrosis.",
+        "E": "Silicosis causes restrictive lung disease with fibrosis and stiffening of the parenchyma. This does not reduce airway resistance."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "silicosis", "alveolar-macrophages", "pulmonary-fibrosis"]
+  },
+  {
+    "id": "r03-043",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 22-year-old man with diabetic ketoacidosis presents with deep, rapid Kussmaul respirations. His arterial blood gas shows pH 7.15, PaCO2 15 mmHg, and HCO3 6 mEq/L. The attending physician explains that the respiratory system is compensating for the metabolic acidosis. Which mechanism does the respiratory system use to regulate blood pH in this situation?",
+    "choices": [
+      {"label": "A", "text": "Renal bicarbonate tubular reabsorption"},
+      {"label": "B", "text": "Hepatic lactate oxidative metabolism"},
+      {"label": "C", "text": "CO2 elimination through hyperventilation"},
+      {"label": "D", "text": "Hydrogen ion urinary excretion"},
+      {"label": "E", "text": "Albumin-mediated plasma buffering"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The respiratory system regulates blood pH by adjusting CO2 elimination through ventilation. In DKA, the lungs compensate by hyperventilating to blow off CO2, shifting the carbonic acid equilibrium leftward to reduce H+ and raise pH.",
+      "whyCorrect": "This patient's Kussmaul breathing represents maximal respiratory compensation. Hyperventilation increases CO2 elimination, reducing PaCO2 to 15 mmHg. Since CO2 + H2O forms H2CO3 (carbonic acid), removing CO2 shifts the equilibrium to consume H+ and raise blood pH.",
+      "whyWrongByChoice": {
+        "A": "Renal bicarbonate reabsorption is a kidney mechanism for acid-base compensation. It acts over hours to days, not the acute respiratory compensation shown here.",
+        "B": "Hepatic lactate metabolism is a liver function unrelated to respiratory acid-base compensation.",
+        "D": "Hydrogen ion excretion into urine is a renal compensation mechanism, not a respiratory mechanism.",
+        "E": "Albumin buffering is a hepatic protein function. While albumin acts as a plasma buffer, it is not produced or regulated by the respiratory system."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "acid-base-balance", "CO2-regulation", "ventilation"]
+  },
+  {
+    "id": "r03-044",
+    "topicId": "overview-respiratory-physiology",
+    "topicName": "Overview of Respiratory Physiology",
+    "stem": "A 63-year-old man with severe emphysema undergoes pulmonary function testing showing decreased DLCO, increased total lung capacity, and markedly increased residual volume. His physician explains that in addition to reduced surface area from alveolar destruction, loss of elastin in the alveolar walls impairs another critical mechanical property. Which pulmonary function abnormality is most directly caused by this elastin loss?",
+    "choices": [
+      {"label": "A", "text": "Reduced ciliary beat frequency"},
+      {"label": "B", "text": "Decreased airway mucus production"},
+      {"label": "C", "text": "Impaired elastic recoil causing air trapping"},
+      {"label": "D", "text": "Diminished surfactant secretion rate"},
+      {"label": "E", "text": "Impaired phrenic nerve conduction speed"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In emphysema, destruction of alveolar walls includes loss of elastin fibers. This impairs elastic recoil needed to drive passive expiration, leading to air trapping and hyperinflation, which explains this patient's increased residual volume and total lung capacity.",
+      "whyCorrect": "Elastin fibers provide the elastic recoil that drives passive expiration. When destroyed in emphysema, the lungs cannot effectively recoil, trapping air in the enlarged air spaces. This manifests as increased residual volume and total lung capacity on pulmonary function testing.",
+      "whyWrongByChoice": {
+        "A": "Ciliary beat frequency is a conducting airway function affected by smoking but unrelated to alveolar elastin loss.",
+        "B": "Mucus production is a function of goblet cells and submucosal glands. It is not directly affected by loss of alveolar wall elastin.",
+        "D": "Surfactant secretion is a function of type II pneumocytes. While alveolar destruction may affect these cells, the question specifically asks about the consequence of elastin loss.",
+        "E": "Phrenic nerve conduction is a neural function unrelated to alveolar wall destruction. The phrenic nerve is not affected by emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "emphysema", "elastic-recoil", "air-trapping"]
+  }
+]

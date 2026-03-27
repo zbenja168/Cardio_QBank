@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "r18-001",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 63-year-old retired accountant presents with a 14-month history of progressive exertional dyspnea and a dry cough. He has a 15-pack-year smoking history but quit 20 years ago. He takes no medications and has no known environmental exposures. Physical examination reveals bilateral inspiratory crackles described as \"Velcro-like\" at the lung bases. Pulmonary function tests show FVC 62% predicted, FEV1/FVC ratio 82%, TLC 58% predicted, and DLCO 45% predicted. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Chronic obstructive pulmonary disease"},
+      {"label": "B", "text": "Hypersensitivity pneumonitis"},
+      {"label": "C", "text": "Drug-induced pulmonary fibrosis"},
+      {"label": "D", "text": "Sarcoidosis with pulmonary involvement"},
+      {"label": "E", "text": "Idiopathic pulmonary fibrosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This older male presents with progressive dyspnea, dry cough, bibasilar Velcro-like crackles, and a restrictive pattern on PFTs with markedly reduced DLCO. In the absence of identifiable secondary causes, the diagnosis is idiopathic pulmonary fibrosis.",
+      "whyCorrect": "IPF is the most common idiopathic interstitial pneumonia, typically presenting in patients aged 55-75 with insidious dyspnea, nonproductive cough, bibasilar Velcro crackles, and a restrictive pattern with markedly reduced DLCO. The absence of secondary causes makes this a diagnosis of exclusion consistent with IPF.",
+      "whyWrongByChoice": {
+        "A": "COPD produces an obstructive pattern on PFTs (low FEV1/FVC ratio), not the restrictive pattern seen here. The patient's FEV1/FVC ratio of 82% is normal.",
+        "B": "Hypersensitivity pneumonitis requires a clear immune-mediated etiology from an identifiable antigen exposure. This patient has no such exposure history.",
+        "D": "Sarcoidosis typically affects younger patients (20-40 years), often presents with bilateral hilar lymphadenopathy, and may involve extrapulmonary organs.",
+        "C": "Drug-induced pulmonary fibrosis requires exposure to a causative medication such as bleomycin, amiodarone, or methotrexate. This patient takes no medications."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "restrictive-lung-disease", "diagnosis-of-exclusion", "PFTs"]
+  },
+  {
+    "id": "r18-002",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 68-year-old woman with idiopathic pulmonary fibrosis undergoes a surgical lung biopsy after HRCT findings are inconclusive. Her FVC is 58% predicted. The pathologist examines multiple tissue sections from the lower lobes. Which histologic finding is most characteristic of this condition?",
+    "choices": [
+      {"label": "A", "text": "Noncaseating granulomas with giant cells"},
+      {"label": "B", "text": "Diffuse alveolar damage with hyaline membranes"},
+      {"label": "C", "text": "Patchy fibrosis with fibroblastic foci"},
+      {"label": "D", "text": "Organizing pneumonia with Masson bodies"},
+      {"label": "E", "text": "Uniform inflammation without fibrosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "IPF demonstrates a usual interstitial pneumonia (UIP) pattern on biopsy, characterized by temporal heterogeneity with patchy interstitial fibrosis, fibroblastic foci, and honeycomb changes in a peripheral/subpleural distribution.",
+      "whyCorrect": "The hallmark histologic pattern of IPF is usual interstitial pneumonia (UIP), which features patchy interstitial fibrosis in a patchwork pattern with a predilection for subpleural and paraseptal locations. Fibroblastic foci represent active fibrogenesis and are a key diagnostic feature.",
+      "whyWrongByChoice": {
+        "A": "Noncaseating granulomas are the hallmark of sarcoidosis and berylliosis, not IPF. IPF shows fibrotic changes rather than granulomatous inflammation.",
+        "B": "Diffuse alveolar damage with hyaline membranes is characteristic of acute respiratory distress syndrome (ARDS), not the chronic, progressive fibrosis of IPF.",
+        "D": "Organizing pneumonia with Masson bodies is seen in cryptogenic organizing pneumonia, a different form of interstitial lung disease.",
+        "E": "Uniform interstitial inflammation without fibrosis would suggest a cellular pattern of nonspecific interstitial pneumonia, not UIP."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "UIP", "histology", "fibroblastic-foci"]
+  },
+  {
+    "id": "r18-003",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 70-year-old man with progressive dyspnea and chronic dry cough undergoes high-resolution CT of the chest. His oxygen saturation is 89% on room air, and he has bibasilar crackles on exam. The scan shows bilateral, predominantly basal and peripheral reticular opacities with honeycombing and traction bronchiectasis. These findings are most consistent with which pattern?",
+    "choices": [
+      {"label": "A", "text": "Lymphoid interstitial pneumonia"},
+      {"label": "B", "text": "Usual interstitial pneumonia"},
+      {"label": "C", "text": "Nonspecific interstitial pneumonia"},
+      {"label": "D", "text": "Desquamative interstitial pneumonia"},
+      {"label": "E", "text": "Cryptogenic organizing pneumonia"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Bilateral basal and peripheral honeycombing with traction bronchiectasis on HRCT is the classic radiologic pattern of usual interstitial pneumonia (UIP), the imaging correlate of IPF.",
+      "whyCorrect": "The UIP pattern on HRCT is defined by subpleural, basal-predominant reticular opacities, honeycombing, and traction bronchiectasis. When identified in the appropriate clinical setting, it is sufficient to diagnose IPF without lung biopsy.",
+      "whyWrongByChoice": {
+        "A": "Lymphoid interstitial pneumonia on HRCT shows ground-glass opacities, thin-walled cysts, and centrilobular nodules, without the honeycomb pattern.",
+        "C": "Nonspecific interstitial pneumonia shows bilateral symmetric ground-glass opacities with fine reticulation and subpleural sparing, and importantly lacks honeycombing.",
+        "D": "Desquamative interstitial pneumonia appears on HRCT as diffuse ground-glass opacities in smokers, without honeycombing.",
+        "E": "Cryptogenic organizing pneumonia shows patchy consolidations, often peribronchovascular, not honeycombing."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "UIP", "HRCT", "honeycombing", "traction-bronchiectasis"]
+  },
+  {
+    "id": "r18-004",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 65-year-old man is diagnosed with idiopathic pulmonary fibrosis. His physician starts him on a medication that blocks multiple tyrosine kinase receptors involved in fibrogenesis, including receptors for platelet-derived growth factor and vascular endothelial growth factor. At his 1-month follow-up he reports a new side effect. Which adverse effect is he most likely experiencing?",
+    "choices": [
+      {"label": "A", "text": "Photosensitivity rash"},
+      {"label": "B", "text": "Adrenal insufficiency"},
+      {"label": "C", "text": "Significant diarrhea"},
+      {"label": "D", "text": "Peripheral neuropathy"},
+      {"label": "E", "text": "QT interval prolongation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The described medication is nintedanib, a multi-tyrosine kinase receptor blocker used in IPF. Its most common adverse effect is significant diarrhea, along with nausea and vomiting.",
+      "whyCorrect": "Nintedanib is a receptor blocker for multiple tyrosine kinases that mediate fibrogenic growth factors. Gastrointestinal side effects, particularly diarrhea, are the most commonly reported adverse effect. It can also cause hepatotoxicity and increased bleeding risk.",
+      "whyWrongByChoice": {
+        "A": "Photosensitivity is a notable adverse effect of pirfenidone, the other antifibrotic used in IPF, not nintedanib.",
+        "B": "Adrenal insufficiency is not an adverse effect of nintedanib. It is associated with chronic glucocorticoid use and abrupt withdrawal.",
+        "D": "Peripheral neuropathy is not a recognized side effect of nintedanib. It is more commonly associated with chemotherapy agents such as vincristine.",
+        "E": "QT prolongation is not a characteristic adverse effect of nintedanib. Medications such as amiodarone are associated with this risk."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "nintedanib", "pharmacology", "adverse-effects"]
+  },
+  {
+    "id": "r18-005",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 72-year-old man with idiopathic pulmonary fibrosis develops worsening hypoxemia despite supplemental oxygen at 4 L/min. His FVC has declined by 15% over the past 6 months, and his DLCO is now 28% predicted. His oxygen saturation is 85% on room air. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "High-dose systemic corticosteroids"},
+      {"label": "B", "text": "Initiation of cyclophosphamide infusions"},
+      {"label": "C", "text": "Addition of long-acting beta-agonist"},
+      {"label": "D", "text": "Referral for lung transplant evaluation"},
+      {"label": "E", "text": "Repeat lung biopsy for reassessment"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In a patient with IPF who has progressive hypoxemia and significant decline in FVC despite treatment, referral for lung transplantation evaluation is the most appropriate next step.",
+      "whyCorrect": "Worsening hypoxemia, decreased overall function, and significant drops in FVC or DLCO are indications for lung transplantation referral in IPF. IPF is the second most common lung disease in lung transplant recipients, and patients should be referred as soon as progressive decline is recognized.",
+      "whyWrongByChoice": {
+        "A": "IPF is not responsive to corticosteroids, unlike some other interstitial lung diseases. Systemic corticosteroids do not improve outcomes in IPF.",
+        "B": "Immunosuppressive agents such as cyclophosphamide are not beneficial in IPF and have been shown to be harmful.",
+        "C": "Long-acting beta-agonists are used for obstructive airway diseases like COPD and asthma. They do not address the restrictive pathology in IPF.",
+        "E": "The patient already has an established diagnosis of IPF with progressive disease. Repeat biopsy would not change management."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "management", "lung-transplant", "progressive-disease"]
+  },
+  {
+    "id": "r18-006",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 60-year-old man with a 2-year history of idiopathic pulmonary fibrosis presents for follow-up. He asks why his physician has not prescribed prednisone, which helped his neighbor's interstitial lung disease. His FVC is 68% predicted and DLCO is 50% predicted. Which of the following best explains why corticosteroids are not used in IPF?",
+    "choices": [
+      {"label": "A", "text": "IPF is primarily fibrotic with minimal inflammation"},
+      {"label": "B", "text": "Corticosteroids accelerate collagen deposition"},
+      {"label": "C", "text": "IPF patients have glucocorticoid receptor mutations"},
+      {"label": "D", "text": "Corticosteroids worsen honeycombing on HRCT"},
+      {"label": "E", "text": "IPF is an infectious process unresponsive to steroids"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "IPF is characterized by progressive fibrosis with relatively less inflammatory activity compared to other ILDs. Because the dominant process is fibrosis rather than inflammation, anti-inflammatory agents like corticosteroids are ineffective.",
+      "whyCorrect": "Unlike other ILDs where inflammation plays a predominant role, IPF has less inflammatory activity and is driven by aberrant fibroblast proliferation and collagen deposition mediated by TGF-beta. Corticosteroids target inflammation, so they are not effective against this primarily fibrotic process.",
+      "whyWrongByChoice": {
+        "B": "Corticosteroids do not accelerate collagen deposition. While they are ineffective in IPF, the mechanism is not promotion of fibrosis.",
+        "C": "There is no evidence that IPF patients have glucocorticoid receptor mutations. The lack of response is due to the nature of the disease process.",
+        "D": "Corticosteroids do not worsen honeycombing. They simply fail to improve the fibrotic process.",
+        "E": "IPF is not an infectious process. It is an idiopathic fibrotic interstitial lung disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "corticosteroids", "pathophysiology", "fibrosis"]
+  },
+  {
+    "id": "r18-007",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 66-year-old woman with recently diagnosed idiopathic pulmonary fibrosis is started on pirfenidone. Two weeks later, she develops a painful erythematous rash on sun-exposed areas of her face and arms. Her FVC is 65% predicted. Which of the following best describes the mechanism of her medication?",
+    "choices": [
+      {"label": "A", "text": "Blocks multiple tyrosine kinase receptors"},
+      {"label": "B", "text": "Suppresses T-cell activation and proliferation"},
+      {"label": "C", "text": "Inhibits phosphodiesterase-4 activity"},
+      {"label": "D", "text": "Inhibits TGF-beta-stimulated collagen synthesis"},
+      {"label": "E", "text": "Blocks leukotriene receptor signaling"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Pirfenidone is an antifibrotic agent that inhibits TGF-beta-stimulated collagen synthesis, decreases extracellular matrix production, and blocks fibroblast proliferation. Photosensitivity is a well-known adverse effect.",
+      "whyCorrect": "Pirfenidone works by inhibiting transforming growth factor-beta (TGF-beta)-stimulated collagen synthesis, decreasing extracellular matrix deposition, and blocking fibroblast proliferation. The photosensitivity rash described is a characteristic adverse effect.",
+      "whyWrongByChoice": {
+        "A": "Blocking multiple tyrosine kinase receptors is the mechanism of nintedanib, the other antifibrotic drug used in IPF, not pirfenidone.",
+        "B": "Suppression of T-cell activation is the mechanism of calcineurin inhibitors (e.g., cyclosporine), which are not used in IPF treatment.",
+        "C": "Phosphodiesterase-4 inhibition is the mechanism of roflumilast, used in COPD management, not IPF.",
+        "E": "Leukotriene receptor blockade is the mechanism of montelukast, used in asthma, not IPF."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "pirfenidone", "TGF-beta", "pharmacology", "photosensitivity"]
+  },
+  {
+    "id": "r18-008",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 64-year-old man with idiopathic pulmonary fibrosis has arterial blood gas results showing PaO2 of 58 mmHg and PaCO2 of 36 mmHg while breathing room air at rest. His respiratory rate is 22/min and oxygen saturation is 88%. Which of the following best explains the relatively preserved PaCO2 despite severe hypoxemia?",
+    "choices": [
+      {"label": "A", "text": "CO2 has a much higher diffusion coefficient"},
+      {"label": "B", "text": "Fibrosis selectively spares pulmonary vasculature"},
+      {"label": "C", "text": "IPF causes preferential deoxygenated blood shunting"},
+      {"label": "D", "text": "CO2 is primarily eliminated by renal compensation"},
+      {"label": "E", "text": "Dead space increases CO2 retention equally with O2"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In IPF, the thickened interstitial membrane impairs oxygen diffusion first because CO2 has a diffusion coefficient approximately 20 times higher than O2. Additionally, patients can increase respiratory rate to compensate.",
+      "whyCorrect": "CO2 has a diffusion coefficient approximately 20 times higher than O2, allowing it to cross even thickened alveolar membranes more readily. Furthermore, patients with IPF can increase their respiratory rate to maintain CO2 elimination. Hypercapnia develops only in advanced disease when severe fibrosis restricts tidal volumes.",
+      "whyWrongByChoice": {
+        "B": "Fibrosis does not selectively spare the pulmonary vasculature. The fibrotic process affects capillaries and contributes to V/Q mismatch.",
+        "C": "While V/Q mismatch occurs in IPF, the mechanism for preserved CO2 is primarily the high diffusion coefficient of CO2.",
+        "D": "Renal compensation adjusts bicarbonate levels over days in response to respiratory disorders. It does not explain the acute preservation of PaCO2.",
+        "E": "Alveolar dead space does not explain the differential impairment of O2 versus CO2. Dead space would impair both gases similarly."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["IPF", "gas-exchange", "diffusion", "hypoxemia", "CO2"]
+  },
+  {
+    "id": "r18-009",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 58-year-old woman with chronic gastroesophageal reflux disease presents with progressive dyspnea over 18 months. She has never smoked and takes omeprazole daily. Examination reveals digital clubbing and bibasilar crackles. HRCT shows bibasilar honeycombing consistent with UIP. Which mechanism most likely links her reflux disease to her pulmonary condition?",
+    "choices": [
+      {"label": "A", "text": "Acid-mediated vagal reflex bronchospasm"},
+      {"label": "B", "text": "Chronic microaspiration causing epithelial injury"},
+      {"label": "C", "text": "Esophageal dysmotility causing mediastinal inflammation"},
+      {"label": "D", "text": "Proton pump inhibitor alveolar toxicity"},
+      {"label": "E", "text": "Helicobacter pylori-triggered autoimmune pneumonitis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "GERD is a recognized risk factor for IPF. Chronic microaspiration of gastric contents causes repeated injury to the alveolar epithelium, which may trigger the aberrant fibrotic response characteristic of IPF.",
+      "whyCorrect": "GERD and chronic aspiration of gastrointestinal contents into the airways is a recognized risk factor for IPF. The repeated micro-injury to the alveolar epithelium from aspirated gastric acid and enzymes may initiate the cycle of epithelial damage, release of TGF-beta, and fibroblast proliferation that characterizes IPF.",
+      "whyWrongByChoice": {
+        "A": "Vagal reflex-mediated bronchospasm occurs in asthma, not in the development of interstitial fibrosis.",
+        "C": "Esophageal dysmotility does not cause mediastinal inflammation leading to pulmonary fibrosis.",
+        "D": "PPIs are not known to cause alveolar toxicity. In fact, PPIs are recommended as part of IPF supportive care.",
+        "E": "There is no established link between H. pylori and autoimmune pneumonitis or pulmonary fibrosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["IPF", "GERD", "risk-factors", "microaspiration", "pathogenesis"]
+  },
+  {
+    "id": "r18-010",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 61-year-old man with a known diagnosis of IPF develops sudden worsening of dyspnea over 5 days. He is afebrile, blood cultures are negative, and sputum is nonpurulent. His oxygen saturation drops from a baseline of 92% to 82% on 3 L/min supplemental oxygen. Chest imaging shows new bilateral ground-glass opacities superimposed on baseline honeycombing. Which of the following best describes this scenario?",
+    "choices": [
+      {"label": "A", "text": "Acute exacerbation of IPF"},
+      {"label": "B", "text": "Bacterial superinfection"},
+      {"label": "C", "text": "Acute pulmonary embolism"},
+      {"label": "D", "text": "Drug-induced pneumonitis"},
+      {"label": "E", "text": "Decompensated congestive heart failure"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Acute exacerbations of IPF occur in 5-20% of patients, presenting with rapid worsening of dyspnea over days to weeks with new bilateral ground-glass opacities on imaging, in the absence of infection or other causes.",
+      "whyCorrect": "Acute exacerbations of IPF present with rapid deterioration over days to weeks, new bilateral ground-glass opacities superimposed on the underlying UIP pattern, and no identifiable infectious or other etiology. This occurs in 5-20% of IPF patients and carries significant morbidity and mortality.",
+      "whyWrongByChoice": {
+        "B": "Bacterial superinfection would typically present with fever, purulent sputum, and focal consolidation. Negative blood cultures further argue against this.",
+        "C": "Pulmonary embolism typically presents with pleuritic chest pain and tachycardia. Bilateral ground-glass opacities are not characteristic of PE.",
+        "D": "Drug-induced pneumonitis requires exposure to a causative medication. The question does not mention a new or offending drug.",
+        "E": "Congestive heart failure would present with cardiomegaly, pleural effusions, and Kerley B lines, not ground-glass opacities superimposed on honeycombing."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["IPF", "acute-exacerbation", "ground-glass-opacities"]
+  },
+  {
+    "id": "r18-011",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A lung biopsy from a patient with suspected IPF shows areas of normal alveolar tissue adjacent to zones of dense collagen deposition and fibroblastic foci, as well as regions of honeycomb change. The pathologist notes lesions at different developmental stages within the same specimen. Which term best describes this hallmark feature?",
+    "choices": [
+      {"label": "A", "text": "Spatial homogeneity"},
+      {"label": "B", "text": "Diffuse alveolar damage"},
+      {"label": "C", "text": "Granulomatous inflammation"},
+      {"label": "D", "text": "Temporal heterogeneity"},
+      {"label": "E", "text": "Caseating necrosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The coexistence of normal lung, active fibroblastic foci (early lesions), and dense fibrosis with honeycomb change (late lesions) within the same biopsy specimen is called temporal heterogeneity, the defining feature of the UIP pattern.",
+      "whyCorrect": "Temporal heterogeneity refers to lesions at different stages of development within the same specimen: areas of normal lung, early fibroblastic foci representing active fibrogenesis, and established dense fibrosis with honeycomb changes. This patchwork of old and new lesions is the hallmark of UIP.",
+      "whyWrongByChoice": {
+        "A": "Spatial homogeneity would imply uniform involvement throughout the lung, which is the opposite of the UIP pattern.",
+        "B": "Diffuse alveolar damage is the histologic correlate of ARDS, characterized by hyaline membranes and uniform injury.",
+        "C": "Granulomatous inflammation is characteristic of sarcoidosis and berylliosis, not IPF.",
+        "E": "Caseating necrosis is characteristic of tuberculosis and certain fungal infections."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "UIP", "temporal-heterogeneity", "histology"]
+  },
+  {
+    "id": "r18-012",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 69-year-old man with IPF undergoes exercise testing. At rest, his oxygen saturation is 94% and respiratory rate is 18/min. After walking for 3 minutes, his saturation drops to 82% and respiratory rate increases to 30/min. His baseline DLCO is 40% predicted. Which of the following best explains the exertional desaturation?",
+    "choices": [
+      {"label": "A", "text": "Exercise-induced bronchospasm reducing airflow"},
+      {"label": "B", "text": "Shortened capillary transit time impairing diffusion"},
+      {"label": "C", "text": "Increased anatomic shunting through bronchial arteries"},
+      {"label": "D", "text": "Reduced cardiac output during exertion"},
+      {"label": "E", "text": "Respiratory muscle fatigue causing hypoventilation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "During exercise, increased cardiac output shortens the transit time of blood through the pulmonary capillaries. In IPF, the thickened alveolar-capillary membrane already impairs O2 diffusion; the shortened transit time further reduces the time available for oxygen transfer.",
+      "whyCorrect": "In IPF, the thickened interstitial membrane slows oxygen diffusion. At rest, blood spends enough time in capillaries to partially compensate. During exercise, increased cardiac output reduces transit time, leaving insufficient time for oxygen to diffuse across the thickened membrane.",
+      "whyWrongByChoice": {
+        "A": "Exercise-induced bronchospasm is a feature of asthma, not IPF. IPF causes restriction, not obstruction.",
+        "C": "Anatomic shunting through bronchial arteries is minimal and does not significantly increase with exercise.",
+        "D": "Cardiac output increases, not decreases, during exercise. It is this increase that shortens capillary transit time.",
+        "E": "While respiratory muscle fatigue can occur in advanced IPF, the primary mechanism of exertional desaturation is diffusion limitation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["IPF", "exercise-desaturation", "diffusion-limitation", "capillary-transit-time"]
+  },
+  {
+    "id": "r18-013",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 71-year-old man with IPF is being considered for lung transplantation. His FVC is 40% predicted and he requires continuous supplemental oxygen. His physician discusses the major risks of transplantation. Which post-transplant complication most significantly limits long-term survival?",
+    "choices": [
+      {"label": "A", "text": "Recurrence of IPF in transplanted lung"},
+      {"label": "B", "text": "Post-transplant lymphoproliferative disorder"},
+      {"label": "C", "text": "Chronic rejection and opportunistic infection"},
+      {"label": "D", "text": "Bronchial artery hemorrhage"},
+      {"label": "E", "text": "Phrenic nerve paralysis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Chronic rejection and opportunistic infections related to long-term immunosuppression are the most significant complications limiting survival after lung transplantation, which has a median survival of 6.7 years.",
+      "whyCorrect": "Following lung transplantation, patients require lifelong immunosuppression, which predisposes them to bacterial and fungal infections. Chronic rejection (bronchiolitis obliterans syndrome) is the leading cause of death beyond the first year. Median post-transplant survival is 6.7 years.",
+      "whyWrongByChoice": {
+        "A": "IPF does not recur in transplanted lungs because the donor lung has normal tissue.",
+        "B": "Post-transplant lymphoproliferative disorder can occur but is less common than chronic rejection and infection.",
+        "D": "Bronchial artery hemorrhage is a rare complication, not the most significant one limiting long-term survival.",
+        "E": "Phrenic nerve injury can occur during surgery but is typically manageable and not the primary determinant of long-term survival."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "lung-transplant", "complications", "chronic-rejection"]
+  },
+  {
+    "id": "r18-014",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 67-year-old man diagnosed with IPF 2 years ago presents for routine follow-up. His FVC has declined from 75% to 60% predicted over the past year. He is on nintedanib and supplemental oxygen. He asks about his prognosis. Which of the following best describes the expected clinical course?",
+    "choices": [
+      {"label": "A", "text": "Spontaneous remission in most patients"},
+      {"label": "B", "text": "Relapsing-remitting course over decades"},
+      {"label": "C", "text": "Stable disease with steroid-responsive flares"},
+      {"label": "D", "text": "Rapid improvement with antifibrotic therapy"},
+      {"label": "E", "text": "Progressive decline with median survival 3-5 years"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "IPF is a chronic, progressive, and ultimately fatal disease with a median survival of 3 to 5 years from diagnosis. While the course is variable, the overall trajectory is one of progressive decline.",
+      "whyCorrect": "IPF has a median survival of 3 to 5 years from diagnosis. Although individual courses vary, the disease is progressive and has no cure. Antifibrotic medications slow but do not halt progression.",
+      "whyWrongByChoice": {
+        "A": "Spontaneous remission does not occur in IPF. The fibrotic changes are irreversible and progressive.",
+        "B": "IPF does not follow a relapsing-remitting pattern. It is characterized by progressive, irreversible fibrosis.",
+        "C": "While acute exacerbations occur in 5-20% of patients, IPF does not respond to corticosteroids.",
+        "D": "Antifibrotic agents slow the rate of FVC decline but do not reverse or cure the disease."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "prognosis", "median-survival"]
+  },
+  {
+    "id": "r18-015",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 62-year-old man with a family history of pulmonary fibrosis in his father and paternal aunt is evaluated for progressive dyspnea over 12 months. HRCT shows basilar honeycombing, and secondary causes are excluded. Genetic testing reveals a mutation in a gene associated with familial IPF. Which gene is most likely mutated?",
+    "choices": [
+      {"label": "A", "text": "CFTR (cystic fibrosis transmembrane regulator)"},
+      {"label": "B", "text": "Alpha-1 antitrypsin gene"},
+      {"label": "C", "text": "TERT (telomerase reverse transcriptase)"},
+      {"label": "D", "text": "HLA-B27 allele"},
+      {"label": "E", "text": "BRCA1 tumor suppressor gene"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Familial IPF is associated with mutations in genes involved in telomerase function (TERT, TERC), surfactant production, and mucin synthesis. TERT mutations are among the most well-characterized genetic risk factors.",
+      "whyCorrect": "IPF occasionally runs in families, and mutations in telomerase-related genes (TERT, TERC) are among the best-characterized genetic variants associated with familial IPF. Shortened telomeres from TERT mutations may predispose alveolar epithelial cells to premature senescence and impaired repair.",
+      "whyWrongByChoice": {
+        "A": "CFTR mutations cause cystic fibrosis, an obstructive lung disease characterized by thick mucus, not interstitial fibrosis.",
+        "B": "Alpha-1 antitrypsin deficiency causes emphysema, a form of COPD with alveolar wall destruction, not interstitial fibrosis.",
+        "D": "HLA-B27 is associated with ankylosing spondylitis, not pulmonary fibrosis.",
+        "E": "BRCA1 mutations are associated with hereditary breast and ovarian cancer, not pulmonary fibrosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["IPF", "genetics", "telomerase", "TERT", "familial"]
+  },
+  {
+    "id": "r18-016",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 59-year-old woman with a 10-year history of rheumatoid arthritis presents with progressive dyspnea and bibasilar crackles. Her anti-CCP antibody is strongly positive. HRCT shows honeycombing and traction bronchiectasis in a UIP pattern. Lung biopsy confirms UIP. Which of the following best explains why this patient does NOT have IPF?",
+    "choices": [
+      {"label": "A", "text": "UIP pattern cannot occur in women"},
+      {"label": "B", "text": "Her connective tissue disease is a known UIP cause"},
+      {"label": "C", "text": "She is too young for IPF diagnosis"},
+      {"label": "D", "text": "Traction bronchiectasis excludes IPF"},
+      {"label": "E", "text": "Bibasilar crackles are inconsistent with UIP"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "IPF is a diagnosis of exclusion. The UIP pattern can occur in other conditions such as rheumatoid arthritis. Because this patient has RA as a known secondary cause, her diagnosis is RA-associated UIP, not IPF.",
+      "whyCorrect": "IPF requires excluding all secondary causes of interstitial lung disease. The UIP histologic pattern can be seen in several conditions, including rheumatoid arthritis. Since this patient has RA, her pulmonary fibrosis is attributable to RA, making IPF inappropriate.",
+      "whyWrongByChoice": {
+        "A": "UIP can occur in both men and women. While IPF is more common in men, sex does not exclude the diagnosis.",
+        "C": "Age 59 is within the typical age range for IPF (55-75 years). Age alone does not exclude the diagnosis.",
+        "D": "Traction bronchiectasis is actually a characteristic finding of IPF/UIP on HRCT, not a feature that excludes it.",
+        "E": "Bibasilar Velcro-like crackles are a classic physical examination finding in UIP/IPF."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "diagnosis-of-exclusion", "rheumatoid-arthritis", "UIP"]
+  },
+  {
+    "id": "r18-017",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 73-year-old man with advanced IPF and chronic hypoxemia is noted to have digital clubbing on examination. His resting oxygen saturation is 86% on room air, and his FVC is 42% predicted. He requires 4 L/min supplemental oxygen continuously. Which supportive care measure is most important?",
+    "choices": [
+      {"label": "A", "text": "Supplemental oxygen therapy"},
+      {"label": "B", "text": "Inhaled corticosteroid therapy"},
+      {"label": "C", "text": "Continuous positive airway pressure"},
+      {"label": "D", "text": "Prophylactic antibiotic courses"},
+      {"label": "E", "text": "High-dose vitamin D supplementation"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Supplemental oxygen is a critical supportive care measure for IPF patients with chronic hypoxemia. Digital clubbing indicates long-standing hypoxia, reinforcing the need for oxygen therapy.",
+      "whyCorrect": "Supportive care in IPF includes supplemental oxygen for patients with hypoxemia, vaccination, pulmonary rehabilitation, and acid reflux prevention. With a resting saturation of 86%, supplemental oxygen is the most important intervention.",
+      "whyWrongByChoice": {
+        "C": "CPAP is used for obstructive sleep apnea, not chronic hypoxemia from ILD.",
+        "B": "Inhaled corticosteroids are not indicated in IPF. The disease is not driven by airway inflammation responsive to steroids.",
+        "D": "Prophylactic antibiotics are not standard of care in IPF.",
+        "E": "Vitamin D supplementation has no established role in IPF management."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "supportive-care", "supplemental-oxygen", "clubbing"]
+  },
+  {
+    "id": "r18-018",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 64-year-old farmer presents with progressive dyspnea and a dry cough for 8 months. He works in a grain silo and is regularly exposed to moldy hay. His temperature is 37.5°C. HRCT shows bilateral ground-glass opacities with a mosaic attenuation pattern, predominantly in the upper and mid lung zones. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Idiopathic pulmonary fibrosis"},
+      {"label": "B", "text": "Asbestosis from prior exposure"},
+      {"label": "C", "text": "Hypersensitivity pneumonitis"},
+      {"label": "D", "text": "Sarcoidosis with pulmonary involvement"},
+      {"label": "E", "text": "Silicosis from dust inhalation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This farmer with exposure to moldy hay and HRCT showing ground-glass opacities with mosaic attenuation has hypersensitivity pneumonitis, not IPF. HP has a clear immune-mediated etiology from the antigen exposure.",
+      "whyCorrect": "Hypersensitivity pneumonitis results from immune-mediated reaction to inhaled organic antigens in moldy hay. The HRCT pattern of ground-glass opacities with mosaic attenuation is typical of HP. Unlike IPF, HP has an identifiable cause and does not show basal honeycombing.",
+      "whyWrongByChoice": {
+        "A": "IPF is a diagnosis of exclusion and cannot be diagnosed when there is a clear environmental exposure. IPF shows basal honeycombing, not mosaic attenuation.",
+        "B": "Asbestosis requires asbestos exposure and shows lower lobe fibrosis with pleural plaques.",
+        "D": "Sarcoidosis typically affects younger patients and shows bilateral hilar lymphadenopathy.",
+        "E": "Silicosis is caused by silica dust in mining or sandblasting, not agricultural work."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "differential-diagnosis", "hypersensitivity-pneumonitis", "farmer"]
+  },
+  {
+    "id": "r18-019",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A pathologist examining a lung specimen from a patient with IPF describes the gross appearance as having multiple cystic spaces surrounded by dense fibrotic tissue, giving the cut surface a sponge-like appearance. The lungs are small and the pleural surface shows a cobblestone pattern. Which term best describes this gross finding?",
+    "choices": [
+      {"label": "A", "text": "Honeycomb change"},
+      {"label": "B", "text": "Cavitation from necrosis"},
+      {"label": "C", "text": "Emphysematous destruction"},
+      {"label": "D", "text": "Bronchiectatic dilation"},
+      {"label": "E", "text": "Cystic adenomatoid malformation"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Honeycomb change is the characteristic gross pathologic finding in IPF, consisting of cystically dilated air spaces separated by dense fibrotic tissue.",
+      "whyCorrect": "Gross specimens from IPF lungs reveal cystically dilated air spaces surrounded by dense fibrosis, which pathologists describe as honeycomb changes. Histologically, these cystic spaces are lined by respiratory epithelium with fibrotic walls.",
+      "whyWrongByChoice": {
+        "C": "Emphysema causes enlarged airspaces from alveolar wall destruction without fibrosis. The surrounding fibrotic tissue distinguishes honeycomb change.",
+        "B": "Cavitation refers to formation of a single cavity within a lesion, often from necrosis. Multiple cystic spaces with fibrosis are not cavities.",
+        "D": "Bronchiectatic dilation involves abnormal bronchial expansion. The gross finding described represents parenchymal honeycomb change.",
+        "E": "Congenital cystic adenomatoid malformation is a developmental anomaly unrelated to IPF."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "gross-pathology", "honeycomb-change"]
+  },
+  {
+    "id": "r18-020",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 66-year-old man recently diagnosed with IPF asks why he is more susceptible to pneumonia. He has already had two episodes of bacterial pneumonia in the past year. His FVC is 55% predicted. Which of the following best explains this increased susceptibility?",
+    "choices": [
+      {"label": "A", "text": "Antifibrotic medications suppress immune system"},
+      {"label": "B", "text": "Altered lung architecture impairs clearance and cough"},
+      {"label": "C", "text": "IPF causes immunoglobulin deficiency"},
+      {"label": "D", "text": "Fibrosis promotes bacterial colonization of pleura"},
+      {"label": "E", "text": "Reduced surfactant inhibits opsonization"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In IPF, altered lung architecture impairs mucociliary clearance. Additionally, poor lung compliance reduces the ability to take deep breaths and generate effective coughs.",
+      "whyCorrect": "Patients with IPF are more prone to pneumonia because fibrotic changes disrupt normal lung architecture and impair mucociliary clearance. Decreased lung compliance reduces the ability to inhale deeply and produce effective coughs, both important defense mechanisms.",
+      "whyWrongByChoice": {
+        "A": "Pirfenidone and nintedanib are antifibrotic agents, not immunosuppressive drugs. They do not significantly increase infection risk.",
+        "C": "IPF does not cause immunoglobulin deficiency. The increased pneumonia risk is due to mechanical factors.",
+        "D": "Fibrosis does not promote bacterial colonization of the pleural space.",
+        "E": "While surfactant gene variants may contribute to IPF risk, surfactant does not function as an opsonin."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "pneumonia", "mucociliary-clearance", "complications"]
+  },
+  {
+    "id": "r18-021",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 68-year-old man with IPF started on nintedanib develops elevated liver transaminases (ALT 180 U/L, AST 150 U/L) at his 2-month follow-up. His baseline liver function tests were normal. He is otherwise feeling well with stable respiratory symptoms. Which of the following is the most appropriate management?",
+    "choices": [
+      {"label": "A", "text": "Continue nintedanib and add N-acetylcysteine"},
+      {"label": "B", "text": "Switch to high-dose prednisone"},
+      {"label": "C", "text": "Add ursodeoxycholic acid and continue nintedanib"},
+      {"label": "D", "text": "Discontinue nintedanib and monitor for resolution"},
+      {"label": "E", "text": "Obtain emergent liver transplant evaluation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Nintedanib can cause drug-induced liver injury, most often manifesting within the first 3 months of use. The hepatotoxicity typically resolves when the medication is stopped.",
+      "whyCorrect": "Drug-induced liver injury is a recognized adverse effect of nintedanib, most commonly presenting within the first three months. The appropriate management is to discontinue the medication, as hepatotoxicity typically resolves upon withdrawal. The patient may then be considered for pirfenidone.",
+      "whyWrongByChoice": {
+        "A": "Continuing nintedanib in the setting of hepatotoxicity risks worsening liver injury.",
+        "B": "Prednisone is not appropriate for IPF or for drug-induced liver injury from nintedanib.",
+        "C": "Continuing the offending drug while adding a hepatoprotective agent is not appropriate with evidence of drug-induced liver injury.",
+        "E": "Nintedanib-induced liver injury typically resolves upon discontinuation and does not usually require transplantation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["IPF", "nintedanib", "hepatotoxicity", "drug-adverse-effects"]
+  },
+  {
+    "id": "r18-022",
+    "topicId": "idiopathic-pulmonary-fibrosis",
+    "topicName": "Idiopathic Pulmonary Fibrosis",
+    "stem": "A 70-year-old man with IPF has a chest x-ray showing bilateral, symmetric, peripheral interstitial thickening predominantly in the lower lung fields. Small, round opacities in a reticulonodular pattern are also present. His FVC is 50% predicted. Which additional chest x-ray finding would indicate the most advanced disease stage?",
+    "choices": [
+      {"label": "A", "text": "Unilateral pleural effusion"},
+      {"label": "B", "text": "Eggshell calcification of hilar nodes"},
+      {"label": "C", "text": "Cavitary lesion in upper lobe"},
+      {"label": "D", "text": "Bilateral hilar lymphadenopathy"},
+      {"label": "E", "text": "Honeycomb changes bilaterally"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In IPF, honeycomb changes on chest x-ray represent the most advanced stage of disease. The radiologic progression goes from normal to reticular opacities and finally to honeycombing in late disease.",
+      "whyCorrect": "Honeycomb changes represent end-stage fibrotic lung disease with cystic spaces surrounded by dense fibrosis. This is the most advanced radiologic finding in IPF.",
+      "whyWrongByChoice": {
+        "A": "Unilateral pleural effusion is not a feature of IPF progression. It suggests malignancy, infection, or asbestosis.",
+        "B": "Eggshell calcification of hilar lymph nodes is characteristic of silicosis, not IPF.",
+        "C": "Cavitary lesions are associated with tuberculosis, lung abscess, or squamous cell carcinoma, not IPF.",
+        "D": "Bilateral hilar lymphadenopathy is characteristic of sarcoidosis, not IPF."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["IPF", "chest-x-ray", "honeycombing", "disease-staging"]
+  },
+  {
+    "id": "r18-023",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 55-year-old man who has worked in a coal mine for 30 years presents with chronic cough and mild dyspnea on exertion. His temperature is 36.8°C and oxygen saturation is 93%. Chest x-ray reveals multiple small nodular opacities in both upper lobes. A sputum sample shows dark-pigmented macrophages. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Coal workers' pneumoconiosis"},
+      {"label": "B", "text": "Asbestosis from fiber inhalation"},
+      {"label": "C", "text": "Silicosis from quartz exposure"},
+      {"label": "D", "text": "Berylliosis with granulomas"},
+      {"label": "E", "text": "Sarcoidosis with lung involvement"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A coal miner with 30 years of exposure presenting with cough, dyspnea, upper lobe nodules, and carbon-laden macrophages on sputum has coal workers' pneumoconiosis.",
+      "whyCorrect": "CWP results from chronic inhalation of coal dust during mining. The hallmark histologic finding is carbon-laden macrophages (anthracosis). Chest imaging typically shows small nodular opacities in the upper lobes. CWP usually requires more than 10 years of exposure.",
+      "whyWrongByChoice": {
+        "B": "Asbestosis affects the lower lobes and shows pleural plaques. It is associated with shipbuilding and construction, not coal mining.",
+        "C": "Silicosis also shows upper lobe nodules, but dark-pigmented macrophages specifically point to carbon deposition from coal dust, not silica.",
+        "D": "Berylliosis causes noncaseating granulomas and is associated with aerospace and electronics workers, not coal miners.",
+        "E": "Sarcoidosis can cause bilateral hilar lymphadenopathy but is not associated with coal dust exposure or carbon-laden macrophages."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "CWP", "coal-dust", "carbon-laden-macrophages"]
+  },
+  {
+    "id": "r18-024",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 62-year-old retired sandblaster presents with progressive dyspnea over 2 years. His oxygen saturation is 91% on room air. Chest x-ray shows bilateral upper lobe nodular opacities and calcified hilar lymph nodes with a characteristic peripheral rim of calcification. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Asbestosis with pleural plaques"},
+      {"label": "B", "text": "Coal workers' pneumoconiosis"},
+      {"label": "C", "text": "Silicosis with eggshell calcification"},
+      {"label": "D", "text": "Lung adenocarcinoma"},
+      {"label": "E", "text": "Pulmonary tuberculosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "A former sandblaster with upper lobe nodular opacities and eggshell calcification of hilar lymph nodes has silicosis. Sandblasting is a classic occupation associated with silica dust exposure.",
+      "whyCorrect": "Silicosis is caused by inhalation of silica dioxide, commonly encountered during sandblasting. The hallmark finding is eggshell calcification (peripheral rim) of hilar lymph nodes along with bilateral upper lobe nodular opacities.",
+      "whyWrongByChoice": {
+        "A": "Asbestosis involves the lower lobes and is characterized by pleural plaques, not eggshell calcification of hilar nodes.",
+        "B": "CWP can show upper lobe nodules but does not characteristically produce eggshell calcification. The sandblasting occupation points to silica.",
+        "D": "Lung adenocarcinoma typically presents as a solitary mass, not bilateral nodular opacities with eggshell calcification.",
+        "E": "Tuberculosis can cause upper lobe disease and hilar lymphadenopathy but does not produce the characteristic eggshell pattern."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "silicosis", "eggshell-calcification", "sandblaster"]
+  },
+  {
+    "id": "r18-025",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "An 80-year-old retired shipyard worker presents with progressive dyspnea and a chronic cough over 3 years. His oxygen saturation is 90% on room air. Chest CT shows bilateral lower lobe interstitial fibrosis and calcified pleural plaques along the diaphragmatic surfaces. Which histologic finding would be expected on lung biopsy?",
+    "choices": [
+      {"label": "A", "text": "Carbon-laden macrophages"},
+      {"label": "B", "text": "Birefringent silica crystals"},
+      {"label": "C", "text": "Noncaseating granulomas"},
+      {"label": "D", "text": "Ferruginous bodies with iron coating"},
+      {"label": "E", "text": "Reed-Sternberg cells"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A former shipyard worker with lower lobe fibrosis and calcified diaphragmatic pleural plaques has asbestosis. The characteristic histologic finding is ferruginous bodies (asbestos bodies), which are asbestos fibers coated with iron-rich hemosiderin.",
+      "whyCorrect": "Asbestosis is common in shipyard workers. Histologically, it is characterized by ferruginous bodies, which are dumbbell-shaped, golden-brown structures consisting of asbestos fibers coated with iron-containing hemosiderin.",
+      "whyWrongByChoice": {
+        "A": "Carbon-laden macrophages are the hallmark of coal workers' pneumoconiosis, not asbestosis.",
+        "B": "Birefringent silica crystals on polarized light microscopy are characteristic of silicosis.",
+        "C": "Noncaseating granulomas are the hallmark of sarcoidosis and berylliosis.",
+        "E": "Reed-Sternberg cells are the diagnostic finding in Hodgkin lymphoma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "ferruginous-bodies", "pleural-plaques"]
+  },
+  {
+    "id": "r18-026",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 58-year-old man who has worked in a hard rock mine for 25 years is diagnosed with silicosis. He is also being evaluated for night sweats, weight loss of 4 kg over 2 months, and a productive cough. His PPD skin test is strongly positive at 18 mm induration. Which infection is this patient at greatest risk of developing?",
+    "choices": [
+      {"label": "A", "text": "Pneumocystis jirovecii pneumonia"},
+      {"label": "B", "text": "Aspergillus fumigatus infection"},
+      {"label": "C", "text": "Mycobacterium tuberculosis infection"},
+      {"label": "D", "text": "Staphylococcus aureus pneumonia"},
+      {"label": "E", "text": "Legionella pneumophila pneumonia"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Silicosis significantly increases susceptibility to tuberculosis. Silica particles damage alveolar macrophages by disrupting phagolysosomal membranes, impairing their ability to kill intracellular bacteria like M. tuberculosis.",
+      "whyCorrect": "Patients with silicosis have a well-established increased risk of developing tuberculosis. Silica particles disrupt phagolysosomal membranes in alveolar macrophages, leading to impaired killing of intracellular organisms. The night sweats and weight loss are classic TB symptoms.",
+      "whyWrongByChoice": {
+        "A": "Pneumocystis jirovecii pneumonia occurs in immunocompromised patients, particularly those with HIV/AIDS, not specifically in silicosis.",
+        "B": "Aspergillus infection is more commonly associated with cavitary lung disease and neutropenia, not silicosis specifically.",
+        "D": "Staphylococcus aureus pneumonia is not specifically associated with silicosis.",
+        "E": "Legionella pneumonia is associated with contaminated water systems, not silicosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "silicosis", "tuberculosis", "macrophage-dysfunction"]
+  },
+  {
+    "id": "r18-027",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 65-year-old retired construction worker with a long history of asbestos exposure is found to have a pleural-based mass on chest CT. He has progressive chest pain and dyspnea over 3 months. Biopsy reveals malignant epithelioid cells with positive calretinin staining. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Squamous cell carcinoma of lung"},
+      {"label": "B", "text": "Lung adenocarcinoma"},
+      {"label": "C", "text": "Small cell lung carcinoma"},
+      {"label": "D", "text": "Malignant mesothelioma"},
+      {"label": "E", "text": "Metastatic renal cell carcinoma"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Asbestos exposure is the major risk factor for malignant mesothelioma, a pleural-based tumor. Calretinin positivity is a characteristic immunohistochemical marker that helps distinguish mesothelioma from adenocarcinoma.",
+      "whyCorrect": "Mesothelioma is strongly associated with asbestos exposure. It arises from mesothelial cells of the pleura and presents as a pleural-based mass. Calretinin is a positive immunohistochemical marker for mesothelioma.",
+      "whyWrongByChoice": {
+        "A": "Squamous cell carcinoma typically presents as a central/hilar mass, not a pleural-based mass.",
+        "B": "Lung adenocarcinoma can metastasize to the pleura but is typically calretinin-negative and presents as a peripheral parenchymal nodule.",
+        "C": "Small cell lung carcinoma presents as a central mass with hilar lymphadenopathy, not a pleural-based mass.",
+        "E": "Metastatic renal cell carcinoma would not be calretinin-positive and is less likely given significant asbestos exposure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "mesothelioma", "calretinin"]
+  },
+  {
+    "id": "r18-028",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 48-year-old aerospace industry worker presents with progressive dyspnea and dry cough over 8 months. Chest x-ray shows bilateral hilar lymphadenopathy. Transbronchial biopsy reveals well-formed noncaseating granulomas. Serum ACE level is normal, and tuberculosis testing is negative. Which occupational exposure best explains this presentation?",
+    "choices": [
+      {"label": "A", "text": "Asbestos fiber exposure"},
+      {"label": "B", "text": "Silica dust exposure"},
+      {"label": "C", "text": "Coal dust exposure"},
+      {"label": "D", "text": "Iron oxide particle exposure"},
+      {"label": "E", "text": "Beryllium dust exposure"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Berylliosis (chronic beryllium disease) is caused by beryllium exposure in aerospace and electronics industries. It mimics sarcoidosis, producing noncaseating granulomas and bilateral hilar lymphadenopathy.",
+      "whyCorrect": "Berylliosis occurs in aerospace and electronics workers. It produces noncaseating granulomas histologically identical to sarcoidosis, along with bilateral hilar lymphadenopathy. The key distinguishing feature is the occupational exposure history.",
+      "whyWrongByChoice": {
+        "A": "Asbestos causes fibrosis and pleural plaques, not noncaseating granulomas.",
+        "B": "Silica causes nodular fibrosis with birefringent crystals, not noncaseating granulomas.",
+        "C": "Coal dust causes anthracosis with carbon-laden macrophages, not granulomatous inflammation.",
+        "D": "Iron oxide inhalation causes siderosis, a benign condition without significant fibrosis or granuloma formation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "berylliosis", "noncaseating-granulomas", "aerospace"]
+  },
+  {
+    "id": "r18-029",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 60-year-old coal miner with known CWP develops progressive massive fibrosis. Chest imaging reveals large, dense opacities in the upper lobes bilaterally, each greater than 1 cm. His FVC has declined from 70% to 50% predicted over 2 years. Which of the following best describes the pathogenesis?",
+    "choices": [
+      {"label": "A", "text": "Malignant transformation of coal macules"},
+      {"label": "B", "text": "Superimposed aspergilloma within preexisting cavities"},
+      {"label": "C", "text": "Immune-complex deposition in pulmonary vessels"},
+      {"label": "D", "text": "Coalescence of coal macules into fibrotic masses"},
+      {"label": "E", "text": "Metastatic spread from extrapulmonary malignancy"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Progressive massive fibrosis (PMF) is the complicated form of CWP, resulting from coalescence of smaller coal macules into large fibrotic masses greater than 1 cm, typically in the upper lobes.",
+      "whyCorrect": "In a minority of CWP patients (<10%), simple CWP progresses to PMF when small coal macules coalesce into large masses of dense interstitial fibrosis. PMF appears as large bilateral upper lobe opacities.",
+      "whyWrongByChoice": {
+        "A": "Coal macules do not undergo malignant transformation. PMF is a fibrotic process, not a neoplastic one.",
+        "B": "Aspergilloma fills pre-existing cavities with a fungal ball. PMF is a fibrotic complication, not infectious.",
+        "C": "Immune-complex deposition causes vasculitis, not the large fibrotic masses seen in PMF.",
+        "E": "The bilateral upper lobe fibrotic masses result from coal dust-induced fibrosis, not metastatic disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "CWP", "progressive-massive-fibrosis"]
+  },
+  {
+    "id": "r18-030",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 50-year-old man who works in a stone quarry undergoes occupational health screening. His physician discusses the factors that determine whether inhaled dust particles can reach the distal airways and cause pneumoconiosis. Which particle characteristic is most important?",
+    "choices": [
+      {"label": "A", "text": "Chemical reactivity of the particle"},
+      {"label": "B", "text": "Electrical charge of the particle"},
+      {"label": "C", "text": "Color of the particle"},
+      {"label": "D", "text": "Solubility of the particle"},
+      {"label": "E", "text": "Diameter of the particle"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Particle diameter (1-5 micrometers) is the most critical factor determining whether inhaled dust reaches the distal airways. Larger particles are filtered out by upper airway defenses.",
+      "whyCorrect": "For particles to cause pneumoconiosis, they must be 1-5 micrometers in diameter to bypass upper airway filtration (nasal hairs, mucociliary elevator, cough reflex) and become lodged in the distal airways and alveoli.",
+      "whyWrongByChoice": {
+        "A": "Chemical reactivity affects the severity of inflammatory response once particles reach the lungs, but does not determine whether they reach the distal airways.",
+        "B": "Electrical charge does not play a significant role in respiratory tract deposition.",
+        "C": "Particle color has no bearing on its ability to penetrate to the distal airways.",
+        "D": "Solubility may affect tissue response but does not primarily determine whether particles reach the lower airways."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "particle-size", "pathogenesis"]
+  },
+  {
+    "id": "r18-031",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 52-year-old coal miner with known CWP develops joint pain and swelling in his hands. Rheumatoid factor is positive at a high titer. Chest x-ray reveals multiple well-defined, round nodules 1-5 cm in diameter scattered throughout both lung fields, larger than typical CWP nodules. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Caplan syndrome"},
+      {"label": "B", "text": "Miliary tuberculosis"},
+      {"label": "C", "text": "Metastatic lung disease"},
+      {"label": "D", "text": "Sarcoidosis with lung nodules"},
+      {"label": "E", "text": "Granulomatosis with polyangiitis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Caplan syndrome is the combination of pneumoconiosis (typically CWP) with rheumatoid arthritis, producing characteristic large (1-5 cm) well-defined round pulmonary nodules.",
+      "whyCorrect": "Caplan syndrome (rheumatoid pneumoconiosis) occurs when a patient with pneumoconiosis also develops RA. It features well-defined round nodules, typically 1-5 cm, larger than simple CWP opacities. The positive rheumatoid factor and joint symptoms confirm concurrent RA.",
+      "whyWrongByChoice": {
+        "C": "Metastatic disease can produce multiple nodules but would not explain the rheumatoid arthritis or occupational history.",
+        "B": "Miliary TB shows innumerable tiny (1-2 mm) nodules, not well-defined 1-5 cm nodules.",
+        "D": "Sarcoidosis produces bilateral hilar lymphadenopathy, not large well-defined nodules in a patient with CWP and RA.",
+        "E": "Granulomatosis with polyangiitis produces cavitating nodules and is associated with c-ANCA, not rheumatoid factor."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "Caplan-syndrome", "rheumatoid-arthritis", "CWP"]
+  },
+  {
+    "id": "r18-032",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 70-year-old retired insulation worker has a routine chest x-ray that reveals bilateral calcified pleural plaques along the diaphragm and lateral chest walls. He is currently asymptomatic with normal oxygen saturation and clear lung fields on auscultation. Which is the most accurate interpretation?",
+    "choices": [
+      {"label": "A", "text": "Active mesothelioma requiring biopsy"},
+      {"label": "B", "text": "Benign age-related calcification"},
+      {"label": "C", "text": "Evidence of prior tuberculosis"},
+      {"label": "D", "text": "Sign of coal workers' pneumoconiosis"},
+      {"label": "E", "text": "Marker of prior asbestos exposure"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Calcified pleural plaques are the most common radiographic manifestation of prior asbestos exposure. They are benign fibrotic deposits that mark elevated cancer risk but are not themselves malignant.",
+      "whyCorrect": "Calcified pleural plaques, particularly along the diaphragm and lateral chest walls, are the hallmark of prior asbestos exposure. They represent benign parietal pleural deposits. While they indicate asbestos exposure and associated cancer risk, the plaques themselves are not malignant.",
+      "whyWrongByChoice": {
+        "A": "Pleural plaques are not mesothelioma. While asbestos exposure increases mesothelioma risk, calcified plaques are benign markers.",
+        "B": "Calcified pleural plaques are not normal age-related findings. They are specifically associated with asbestos exposure.",
+        "C": "Prior TB can cause apical pleural thickening, but bilateral diaphragmatic pleural plaques are characteristic of asbestos exposure.",
+        "D": "CWP shows upper lobe nodular opacities, not pleural plaques."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "pleural-plaques", "asbestos-exposure"]
+  },
+  {
+    "id": "r18-033",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 56-year-old foundry worker is diagnosed with silicosis after presenting with chronic cough and dyspnea. Lung biopsy shows nodular collagen deposition. Under polarized light microscopy, the pathologist observes bright white birefringent crystals within the nodules. Which of the following is the identity of these crystals?",
+    "choices": [
+      {"label": "A", "text": "Calcium pyrophosphate dihydrate"},
+      {"label": "B", "text": "Silica (silicon dioxide) particles"},
+      {"label": "C", "text": "Monosodium urate crystals"},
+      {"label": "D", "text": "Calcium oxalate crystals"},
+      {"label": "E", "text": "Cholesterol clefts"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In silicosis, silica (silicon dioxide) crystals are visible as bright white birefringent particles under polarized light microscopy within nodular foci of collagen deposition.",
+      "whyCorrect": "Silicosis is caused by inhalation of silica dioxide particles. Histologically, silica induces a fibrogenic response producing nodular collagen foci. Under polarized light, silica crystals appear as bright white birefringent particles.",
+      "whyWrongByChoice": {
+        "A": "Calcium pyrophosphate crystals are found in pseudogout within joints, not in lung tissue.",
+        "C": "Uric acid crystals are found in gout (needle-shaped, negatively birefringent) in joints.",
+        "D": "Calcium oxalate crystals are found in kidney stones, not in pulmonary fibrotic nodules.",
+        "E": "Cholesterol crystals are found in atheromatous plaques, not in silicotic nodules."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "silicosis", "polarized-light", "histology"]
+  },
+  {
+    "id": "r18-034",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 45-year-old electronics manufacturing worker presents with cough and dyspnea over 6 months. Chest imaging shows bilateral hilar lymphadenopathy. Transbronchial biopsy shows noncaseating granulomas. A beryllium lymphocyte proliferation test is positive. Which feature best distinguishes this condition from sarcoidosis?",
+    "choices": [
+      {"label": "A", "text": "Presence of noncaseating granulomas"},
+      {"label": "B", "text": "Bilateral hilar lymphadenopathy on imaging"},
+      {"label": "C", "text": "Restrictive pattern on pulmonary function tests"},
+      {"label": "D", "text": "Identifiable occupational beryllium exposure"},
+      {"label": "E", "text": "Elevated serum angiotensin-converting enzyme"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Berylliosis and sarcoidosis are histologically identical. The key distinguishing feature is the identifiable occupational exposure to beryllium, confirmed by positive BeLPT.",
+      "whyCorrect": "Berylliosis mimics sarcoidosis in nearly every way: noncaseating granulomas, bilateral hilar lymphadenopathy, and restrictive lung disease. The critical distinguishing factor is the occupational history of beryllium exposure, confirmed by positive BeLPT. Sarcoidosis is idiopathic.",
+      "whyWrongByChoice": {
+        "A": "Noncaseating granulomas are found in both conditions and do not distinguish them.",
+        "B": "Bilateral hilar lymphadenopathy can be seen in both and does not differentiate them.",
+        "C": "A restrictive pattern is common to both and all interstitial lung diseases.",
+        "E": "Elevated ACE can occur in both conditions."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "berylliosis", "sarcoidosis", "differential-diagnosis"]
+  },
+  {
+    "id": "r18-035",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 50-year-old man who works in a coal-powered plant undergoes pulmonary function testing as part of occupational screening. He has worked at the plant for 15 years and reports mild exertional dyspnea. Chest x-ray shows small bilateral upper lobe nodules. Which PFT pattern is most consistent with pneumoconiosis?",
+    "choices": [
+      {"label": "A", "text": "Decreased FEV1/FVC with increased TLC"},
+      {"label": "B", "text": "Decreased FEV1/FVC with normal TLC"},
+      {"label": "C", "text": "Increased FEV1/FVC with increased RV"},
+      {"label": "D", "text": "Normal FEV1/FVC with increased TLC"},
+      {"label": "E", "text": "Normal FEV1/FVC with decreased TLC"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Pneumoconiosis is a restrictive lung disease. PFTs show a restrictive pattern with normal or high FEV1/FVC ratio and decreased TLC.",
+      "whyCorrect": "Pneumoconiosis causes interstitial fibrosis that stiffens the lung and reduces volumes. The hallmark is decreased TLC with normal or elevated FEV1/FVC ratio, because both FEV1 and FVC decrease proportionally.",
+      "whyWrongByChoice": {
+        "A": "A decreased FEV1/FVC with increased TLC is an obstructive pattern (e.g., COPD), not restrictive.",
+        "B": "A decreased FEV1/FVC with normal TLC suggests obstructive disease, not restriction.",
+        "C": "Increased FEV1/FVC with increased RV is not a typical pattern of any common lung disease.",
+        "D": "Normal FEV1/FVC with increased TLC suggests hyperinflation from obstructive disease."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "PFTs", "restrictive-lung-disease"]
+  },
+  {
+    "id": "r18-036",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 63-year-old retired roofer with a 40-year occupational history presents with chest pain and progressive dyspnea over 4 months. His oxygen saturation is 89% on room air. CT shows a circumferential pleural mass encasing the right lung with associated bloody pleural effusion. Which is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Malignant mesothelioma"},
+      {"label": "B", "text": "Pleural metastasis from breast cancer"},
+      {"label": "C", "text": "Empyema from bacterial infection"},
+      {"label": "D", "text": "Benign fibrous pleural plaque"},
+      {"label": "E", "text": "Loculated pleural effusion"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A retired roofer with asbestos exposure presenting with a circumferential pleural mass encasing the lung has malignant mesothelioma.",
+      "whyCorrect": "Roofing involves historical asbestos exposure. Mesothelioma grows as a circumferential pleural mass encasing the lung. The long latency period (20-40 years) between exposure and disease is consistent.",
+      "whyWrongByChoice": {
+        "C": "Empyema would present with fever and leukocytosis, not a solid circumferential mass.",
+        "B": "Pleural metastasis from breast cancer is less likely given occupational asbestos exposure and the circumferential growth pattern.",
+        "D": "Pleural plaques are flat, calcified, and benign. They do not form circumferential masses.",
+        "E": "A loculated effusion is a fluid collection, not a solid mass encasing the lung."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "mesothelioma", "pleural-mass"]
+  },
+  {
+    "id": "r18-037",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 55-year-old coal miner with simple coal workers' pneumoconiosis asks about his prognosis. His chest x-ray shows scattered small nodular opacities bilaterally, and his PFTs show FVC 82% predicted and FEV1/FVC ratio 80%. His oxygen saturation is 96% on room air. Which statement about simple CWP is most accurate?",
+    "choices": [
+      {"label": "A", "text": "Rapidly progresses to respiratory failure"},
+      {"label": "B", "text": "Usually causes little functional impairment"},
+      {"label": "C", "text": "Requires immediate lung transplantation"},
+      {"label": "D", "text": "High rate of malignant transformation"},
+      {"label": "E", "text": "Responds well to systemic corticosteroids"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Simple CWP is usually benign, causing little decrement in lung function. Only a minority (<10%) progress to complicated CWP (progressive massive fibrosis).",
+      "whyCorrect": "Simple CWP causes minimal impact on lung function. Coal macules and small nodular opacities are present on imaging but do not significantly impair gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Simple CWP does not rapidly progress to respiratory failure. It is typically slowly progressive or stable.",
+        "C": "Lung transplantation is not indicated for simple CWP.",
+        "D": "CWP does not have significant malignant transformation risk. This is more associated with asbestosis.",
+        "E": "CWP does not respond to corticosteroids. Fibrotic changes from dust deposition are not reversible."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "CWP", "prognosis", "simple-CWP"]
+  },
+  {
+    "id": "r18-038",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 58-year-old man with a 30-year history of working in a silica quarry is diagnosed with silicosis. He also smokes one pack of cigarettes daily and has a 30-pack-year history. His physician discusses the interaction between his smoking and occupational exposure. Which of the following best describes this interaction?",
+    "choices": [
+      {"label": "A", "text": "Smoking is protective against silicosis"},
+      {"label": "B", "text": "Risks are independent and non-additive"},
+      {"label": "C", "text": "Smoking replaces dust as primary disease cause"},
+      {"label": "D", "text": "Smoking amplifies toxic effects of dust exposure"},
+      {"label": "E", "text": "Smoking only affects upper airway disease"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Smoking and occupational dust exposure have a synergistic effect, amplifying each other's toxic effects and approximately doubling the overall risk.",
+      "whyCorrect": "Smoking impairs mucociliary clearance, allowing more dust particles to be retained. The combination increases the risk of progressive lung disease and lung cancer more than either exposure alone.",
+      "whyWrongByChoice": {
+        "A": "Smoking is never protective against pneumoconiosis. It impairs clearance and exacerbates particle injury.",
+        "B": "The risks are not merely additive or independent. They have a synergistic relationship.",
+        "C": "Smoking does not replace dust as the cause. Both contribute, with occupational exposure as the primary cause.",
+        "E": "Smoking affects the entire respiratory tract, including the lower airways where dust deposits."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "smoking", "synergistic-effect", "risk-factors"]
+  },
+  {
+    "id": "r18-039",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 72-year-old retired plumber with known asbestosis presents with a new bloody pleural effusion on the right side. He has progressive dyspnea and dull chest pain. Cytology of the pleural fluid shows atypical mesothelial cells. Which of the following is the most important next step?",
+    "choices": [
+      {"label": "A", "text": "Initiation of anti-tuberculosis therapy"},
+      {"label": "B", "text": "Observation with repeat imaging in 6 months"},
+      {"label": "C", "text": "Therapeutic thoracentesis only"},
+      {"label": "D", "text": "Pleural biopsy for definitive tissue diagnosis"},
+      {"label": "E", "text": "Systemic corticosteroid therapy"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In an asbestosis patient with a bloody pleural effusion and atypical mesothelial cells, mesothelioma or lung carcinoma must be excluded. Pleural biopsy is required for definitive diagnosis.",
+      "whyCorrect": "Asbestos exposure increases risk of mesothelioma and lung carcinoma. A bloody effusion with atypical mesothelial cells raises strong suspicion for malignancy. Pleural biopsy provides definitive tissue for histopathological analysis.",
+      "whyWrongByChoice": {
+        "A": "Anti-tuberculosis therapy is not indicated without evidence of TB. Asbestosis does not have a specific association with tuberculosis.",
+        "B": "Observation is inappropriate when malignancy is suspected with atypical cells on cytology.",
+        "C": "Thoracentesis addresses symptoms but does not provide tissue diagnosis.",
+        "E": "Corticosteroids are not indicated for asbestosis or suspected mesothelioma."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "pleural-effusion", "biopsy", "malignancy"]
+  },
+  {
+    "id": "r18-040",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 47-year-old man who works in a stone-cutting factory develops progressive cough and dyspnea after only 8 months of extremely heavy silica exposure. His chest x-ray shows diffuse nodular opacities bilaterally. His FVC is 60% predicted. Which form of silicosis does this rapid onset represent?",
+    "choices": [
+      {"label": "A", "text": "Chronic silicosis"},
+      {"label": "B", "text": "Accelerated silicosis"},
+      {"label": "C", "text": "Simple silicosis"},
+      {"label": "D", "text": "Conglomerate silicosis"},
+      {"label": "E", "text": "Latent silicosis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Accelerated silicosis occurs with heavy exposure over a shorter period (less than 10 years), while chronic silicosis develops after 10+ years.",
+      "whyCorrect": "Accelerated silicosis develops within less than 10 years of high-concentration silica exposure. Unlike chronic silicosis (10+ years), accelerated silicosis results from higher concentrations over a shorter period and tends to progress more rapidly.",
+      "whyWrongByChoice": {
+        "A": "Chronic silicosis develops after more than 10 years of lower-level exposure. An 8-month onset is inconsistent.",
+        "C": "Simple silicosis refers to the early radiographic stage of chronic silicosis with small nodules, not rapid-onset disease.",
+        "D": "Conglomerate silicosis describes coalescence of nodules into larger masses, a stage rather than a form based on onset timing.",
+        "E": "Latent silicosis is not a recognized clinical classification."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "silicosis", "accelerated", "onset"]
+  },
+  {
+    "id": "r18-041",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 60-year-old retired asbestos miner with known asbestosis has his annual screening chest CT. The radiologist notes bilateral lower lobe fibrosis, pleural plaques, and a new 2.5-cm spiculated mass in the right lower lobe. He has a 35-pack-year smoking history. Given the combination of asbestos exposure and smoking, which malignancy is he at greatest risk for?",
+    "choices": [
+      {"label": "A", "text": "Bronchogenic carcinoma"},
+      {"label": "B", "text": "Malignant mesothelioma"},
+      {"label": "C", "text": "Pulmonary carcinoid tumor"},
+      {"label": "D", "text": "Pulmonary lymphoma"},
+      {"label": "E", "text": "Solitary fibrous tumor of pleura"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The combination of asbestos exposure and smoking has a synergistic effect on bronchogenic carcinoma risk. A spiculated parenchymal mass in a patient with both exposures is most likely bronchogenic carcinoma.",
+      "whyCorrect": "Asbestos and smoking together have a synergistic effect that dramatically increases lung cancer risk. The spiculated mass is characteristic of primary lung malignancy. While asbestos also increases mesothelioma risk, smoking does not increase mesothelioma risk, and the parenchymal location favors bronchogenic carcinoma.",
+      "whyWrongByChoice": {
+        "B": "Mesothelioma is associated with asbestos but not with smoking, and it arises from the pleura rather than presenting as a parenchymal spiculated mass.",
+        "C": "Pulmonary carcinoid tumors are neuroendocrine tumors not associated with asbestos or smoking.",
+        "D": "Pulmonary lymphoma is not associated with asbestos exposure or smoking.",
+        "E": "Solitary fibrous tumor of the pleura is benign and not associated with asbestos exposure."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "lung-cancer", "smoking-synergism"]
+  },
+  {
+    "id": "r18-042",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 65-year-old man with coal workers' pneumoconiosis asks what he can do to prevent worsening of his disease. He continues to work in the mine part-time and smokes half a pack of cigarettes daily. His FVC is 70% predicted. Which of the following is the single most important preventive measure?",
+    "choices": [
+      {"label": "A", "text": "Starting antifibrotic medication"},
+      {"label": "B", "text": "Beginning high-dose vitamin supplementation"},
+      {"label": "C", "text": "Initiating prophylactic corticosteroids"},
+      {"label": "D", "text": "Avoiding further exposure to the offending agent"},
+      {"label": "E", "text": "Starting empiric antibiotic therapy"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Avoiding further exposure is the single most important preventive measure. Continued inhalation of coal dust will lead to progressive accumulation and worsening fibrosis.",
+      "whyCorrect": "The most important step is preventing further exposure to causative dust. OSHA standards emphasize protective equipment and workplace modifications, but complete avoidance is most effective.",
+      "whyWrongByChoice": {
+        "A": "Antifibrotic medications are used for IPF, not pneumoconioses. There is no approved antifibrotic for CWP.",
+        "B": "Vitamin supplementation has no proven role in preventing pneumoconiosis progression.",
+        "C": "Corticosteroids do not prevent or slow pneumoconiosis progression.",
+        "E": "Prophylactic antibiotics are not indicated for pneumoconiosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "prevention", "occupational-health"]
+  },
+  {
+    "id": "r18-043",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 68-year-old retired miner with silicosis develops fever, night sweats, and hemoptysis over 3 weeks. His weight has decreased by 5 kg. A sputum acid-fast bacilli smear is positive. Which mechanism best explains why silicosis predisposed him to this infection?",
+    "choices": [
+      {"label": "A", "text": "Silica promotes bacterial adherence to epithelium"},
+      {"label": "B", "text": "Silica inhibits neutrophil chemotaxis to lungs"},
+      {"label": "C", "text": "Silica disrupts phagolysosomal membranes in macrophages"},
+      {"label": "D", "text": "Silica suppresses immunoglobulin production"},
+      {"label": "E", "text": "Silica blocks dendritic cell antigen presentation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Silica particles phagocytosed by alveolar macrophages disrupt phagolysosomal membranes, leading to macrophage death and impaired killing of intracellular bacteria such as M. tuberculosis.",
+      "whyCorrect": "Silica particles damage phagolysosomal membranes when engulfed by macrophages. This impairs the macrophage's ability to kill intracellular organisms and can lead to macrophage death, releasing viable bacteria. M. tuberculosis thrives when this mechanism is disrupted.",
+      "whyWrongByChoice": {
+        "A": "Silica does not promote bacterial adherence to bronchial epithelium. The mechanism involves macrophage dysfunction.",
+        "B": "Silica does not specifically inhibit neutrophil chemotaxis. The primary mechanism is macrophage phagolysosomal disruption.",
+        "D": "Silica does not suppress B-cell immunoglobulin production. The immune defect is in macrophage intracellular killing.",
+        "E": "Silica does not specifically block dendritic cell antigen presentation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "silicosis", "tuberculosis", "phagolysosome", "macrophage"]
+  },
+  {
+    "id": "r18-044",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 59-year-old woman who has lived in a home built in the 1960s is concerned about asbestos exposure. The home has intact asbestos insulation that has never been disturbed. She has no respiratory symptoms and her chest x-ray is normal. Which of the following is the most appropriate advice?",
+    "choices": [
+      {"label": "A", "text": "Immediate removal of all home asbestos"},
+      {"label": "B", "text": "Intact undisturbed asbestos is generally not risky"},
+      {"label": "C", "text": "Begin annual CT screening immediately"},
+      {"label": "D", "text": "She likely has subclinical asbestosis already"},
+      {"label": "E", "text": "Prophylactic steroids are recommended"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Intact, undisturbed asbestos insulation is generally not a health hazard. The risk arises when asbestos is disturbed during renovation, releasing fibers into the air.",
+      "whyCorrect": "Asbestos that is intact and undisturbed does not release fibers and is generally not hazardous. Risk comes from inhaling airborne fibers during disturbance. Protective measures should be taken if the material is to be disturbed.",
+      "whyWrongByChoice": {
+        "A": "Immediate removal is not necessary and could increase risk by disturbing the material. Professional encapsulation or monitoring is preferred.",
+        "C": "Annual CT screening is not indicated for household exposure to intact asbestos. Screening is for workers with significant occupational exposure.",
+        "D": "Subclinical asbestosis from undisturbed household asbestos is very unlikely. Asbestosis requires significant prolonged exposure to airborne fibers.",
+        "E": "Prophylactic steroids have no role in asbestosis prevention."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "environmental-exposure", "risk-assessment"]
+  },
+  {
+    "id": "r18-045",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 62-year-old man with a 25-year history of working in a coal mine presents with worsening dyspnea over 6 months. Physical examination reveals crackles bilaterally. Pulse oximetry shows 88% oxygen saturation at rest. His FVC is 55% predicted. Which of the following is the most appropriate treatment?",
+    "choices": [
+      {"label": "A", "text": "Oral prednisone 40 mg daily"},
+      {"label": "B", "text": "Supplemental oxygen and bronchodilators"},
+      {"label": "C", "text": "Nintedanib 150 mg twice daily"},
+      {"label": "D", "text": "Cyclophosphamide infusion therapy"},
+      {"label": "E", "text": "Surgical resection of affected segments"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Treatment of pneumoconiosis is supportive, not curative. Supplemental oxygen for hypoxemia and bronchodilators for dyspnea are the mainstays of symptomatic management.",
+      "whyCorrect": "Pneumoconiosis cannot be cured. Treatment is supportive: supplemental oxygen for hypoxemia (this patient's SpO2 is 88%) and bronchodilators to reduce dyspnea. These improve quality of life even though they cannot reverse fibrosis.",
+      "whyWrongByChoice": {
+        "A": "Corticosteroids are not effective in pneumoconiosis. The fibrotic process does not respond to anti-inflammatory therapy.",
+        "C": "Nintedanib is approved for IPF, not pneumoconiosis. It has not been shown to benefit CWP patients.",
+        "D": "Cyclophosphamide is used in autoimmune conditions and has no role in pneumoconiosis treatment.",
+        "E": "Surgical resection is not standard for CWP. The disease is typically diffuse and bilateral."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "CWP", "treatment", "supportive-care"]
+  },
+  {
+    "id": "r18-046",
+    "topicId": "pneumoconioses",
+    "topicName": "Pneumoconioses",
+    "stem": "A 55-year-old construction worker who has been exposed to asbestos for 20 years has a chest x-ray showing calcified pleural plaques and bibasilar interstitial fibrosis. Lung biopsy shows golden-brown, dumbbell-shaped structures within fibrotic tissue. These structures represent asbestos fibers coated with which material?",
+    "choices": [
+      {"label": "A", "text": "Calcium phosphate deposits"},
+      {"label": "B", "text": "Collagen fibril coating"},
+      {"label": "C", "text": "Mucopolysaccharide matrix"},
+      {"label": "D", "text": "Iron-rich proteinaceous material (hemosiderin)"},
+      {"label": "E", "text": "Lipid-laden macrophage debris"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Ferruginous bodies (asbestos bodies) are asbestos fibers coated with iron-rich proteinaceous material (hemosiderin), giving them a characteristic golden-brown, dumbbell-shaped appearance.",
+      "whyCorrect": "When asbestos fibers lodge in lung tissue, macrophages attempt to engulf them. The fibers become coated with iron-containing hemosiderin and other proteins, forming characteristic golden-brown, dumbbell-shaped ferruginous bodies. These are pathognomonic for asbestosis.",
+      "whyWrongByChoice": {
+        "A": "Calcium phosphate is found in dystrophic calcification and bone tissue, not in asbestos body coating.",
+        "B": "Collagen fibrils are components of surrounding fibrotic tissue but do not coat the asbestos fibers themselves.",
+        "C": "Mucopolysaccharides are connective tissue components and do not coat asbestos fibers.",
+        "E": "Lipid-laden macrophage debris is characteristic of lipoid pneumonia, not asbestosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumoconiosis", "asbestosis", "ferruginous-bodies", "hemosiderin", "histology"]
+  }
+]

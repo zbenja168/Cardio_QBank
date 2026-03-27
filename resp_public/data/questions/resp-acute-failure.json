@@ -1,0 +1,3108 @@
+{
+  "categoryId": "resp-acute-failure",
+  "categoryName": "Acute Respiratory Failure",
+  "questions": [
+    {
+      "id": "r22-001",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 58-year-old woman is admitted to the intensive care unit with urosepsis caused by Escherichia coli bacteremia. Over the next 48 hours, she develops progressive dyspnea and hypoxemia despite supplemental oxygen. Chest X-ray shows bilateral diffuse pulmonary infiltrates. Echocardiography reveals a normal ejection fraction of 60%. Arterial blood gas on 100% FiO2 shows PaO2 of 85 mmHg. Which of the following best classifies the severity of her condition according to the Berlin criteria?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mild ARDS (ratio 200-300)"
+        },
+        {
+          "label": "B",
+          "text": "Moderate ARDS (ratio 100-200)"
+        },
+        {
+          "label": "C",
+          "text": "Not ARDS (ratio exceeds 300)"
+        },
+        {
+          "label": "D",
+          "text": "Severe ARDS (ratio below 100)"
+        },
+        {
+          "label": "E",
+          "text": "Cannot classify without PCWP measurement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Her PaO2/FiO2 ratio is 85/1.0 = 85, which is <100, classifying her ARDS as severe according to the Berlin criteria.",
+        "whyCorrect": "The Berlin criteria classify ARDS severity by PaO2/FiO2 ratio: mild (200-300), moderate (100-200), and severe (<100). With a PaO2 of 85 mmHg on FiO2 of 1.0, her ratio is 85, placing her in the severe category. She also meets the other Berlin criteria: acute onset within 1 week, bilateral infiltrates, and noncardiogenic edema (normal echocardiogram).",
+        "whyWrongByChoice": {
+          "A": "A mild classification requires a PaO2/FiO2 ratio of 200-300. Her ratio of 85 is far below this range.",
+          "B": "A moderate classification requires a PaO2/FiO2 ratio of 100-200. Her ratio of 85 falls below 100.",
+          "C": "A PaO2/FiO2 ratio >300 would not meet ARDS criteria. Her ratio is 85, well below 300.",
+          "E": "The Berlin criteria do not require PCWP measurement. Echocardiography showing normal cardiac function is sufficient to exclude cardiogenic pulmonary edema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "Berlin-criteria",
+        "severity-classification",
+        "PaO2-FiO2-ratio"
+      ]
+    },
+    {
+      "id": "r22-002",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 45-year-old man develops acute respiratory failure 3 days after being hospitalized for necrotizing pancreatitis. Lung biopsy shows intra-alveolar pink, glassy material lining the alveolar surfaces with necrotic epithelial cell debris. Which of the following best describes this histopathologic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseous necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyaline membrane formation"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Squamous metaplasia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pink, glassy intra-alveolar material composed of fibrin-rich edema fluid and necrotic cell debris represents hyaline membranes, the hallmark of the exudative phase of diffuse alveolar damage in ARDS.",
+        "whyCorrect": "Hyaline membranes are composed of fibrin-rich exudate mixed with remnants of necrotic alveolar epithelial cells. They line the alveolar surfaces and impair gas exchange. This finding is characteristic of diffuse alveolar damage (DAD), the histopathologic pattern seen in ARDS during the early exudative phase (first 7-10 days).",
+        "whyWrongByChoice": {
+          "A": "Caseous necrosis is characteristic of tuberculosis and some fungal infections. It appears as amorphous, cheese-like granular debris, not glassy membranes lining alveoli.",
+          "C": "Fibrinoid necrosis involves deposition of fibrin-like proteinaceous material in vessel walls, typically seen in vasculitis or malignant hypertension, not diffusely lining alveolar surfaces.",
+          "D": "Granulomatous inflammation features aggregates of epithelioid macrophages and multinucleated giant cells, which is not described in this biopsy.",
+          "E": "Squamous metaplasia is the replacement of one epithelial type with squamous epithelium due to chronic irritation. It may occur in later stages of lung injury but does not describe the acute alveolar membrane formation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "histopathology",
+        "hyaline-membranes",
+        "diffuse-alveolar-damage"
+      ]
+    },
+    {
+      "id": "r22-003",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 62-year-old man with community-acquired pneumonia develops progressive respiratory failure requiring mechanical ventilation. His ventilator is set to deliver a tidal volume of 6 mL/kg of ideal body weight with moderate PEEP. Despite adequate oxygenation, his PaCO2 rises to 65 mmHg. The medical team decides to tolerate this elevated PaCO2 rather than increase the tidal volume. Which of the following best explains this approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High tidal volumes improve V/Q matching"
+        },
+        {
+          "label": "B",
+          "text": "Elevated PaCO2 improves oxygen delivery"
+        },
+        {
+          "label": "C",
+          "text": "Low PaCO2 causes cerebral vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory acidosis stimulates surfactant production"
+        },
+        {
+          "label": "E",
+          "text": "Higher tidal volumes risk alveolar overdistension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Permissive hypercapnia accepts an elevated PaCO2 to avoid volutrauma from excessive tidal volumes, which can overdistend healthier alveoli and worsen lung injury in the heterogeneously damaged ARDS lung.",
+        "whyCorrect": "In ARDS, alveolar disease is heterogeneous - some alveoli are collapsed while others remain relatively compliant. Increasing tidal volumes would preferentially overdistend the more compliant alveoli, causing volutrauma. Low tidal volume ventilation (6 mL/kg) minimizes this risk. The resulting rise in PaCO2 (permissive hypercapnia) is tolerated, as patients can withstand PaCO2 levels up to 80-100 mmHg, with renal bicarbonate retention partially compensating the respiratory acidosis.",
+        "whyWrongByChoice": {
+          "A": "High tidal volumes do not improve V/Q matching. In ARDS with heterogeneous disease, higher volumes overdistend compliant alveoli without reopening collapsed ones.",
+          "B": "Elevated PaCO2 does not meaningfully improve oxygen delivery. Oxygenation is primarily determined by FiO2 and PEEP, not ventilation parameters.",
+          "C": "While severe hypocapnia can cause cerebral vasoconstriction, the rationale for permissive hypercapnia is preventing lung injury, not avoiding cerebral effects.",
+          "D": "There is no evidence that respiratory acidosis stimulates surfactant production. Surfactant is produced by type 2 pneumocytes and is not regulated by blood pH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "permissive-hypercapnia",
+        "low-tidal-volume-ventilation",
+        "volutrauma"
+      ]
+    },
+    {
+      "id": "r22-004",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 40-year-old woman is admitted to the ICU after a motor vehicle accident causing multiple rib fractures and a femur fracture. On day 2, she develops sudden-onset dyspnea and a petechial rash on her chest and axillae. Chest X-ray shows diffuse bilateral infiltrates. Her PaO2/FiO2 ratio is 150. Echocardiography is normal. Which of the following is the most likely cause of her respiratory deterioration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fat embolism syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Aspiration pneumonitis"
+        },
+        {
+          "label": "C",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary thromboembolism"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The triad of respiratory distress, petechial rash, and neurological changes developing 24-72 hours after long bone fracture is classic for fat embolism syndrome, which can cause ARDS through ischemic lung injury and inflammatory cytokine release.",
+        "whyCorrect": "Fat embolism syndrome typically occurs 24-72 hours after long bone fractures (especially femur). Fat globules enter the venous circulation and lodge in pulmonary capillaries, causing direct ischemic injury and triggering a systemic inflammatory response that damages the alveolar-capillary membrane. The petechial rash (particularly on the chest and axillae) is a classic clinical clue. Her imaging and PaO2/FiO2 ratio meet Berlin criteria for moderate ARDS.",
+        "whyWrongByChoice": {
+          "B": "Aspiration pneumonitis typically presents with infiltrates in dependent lung segments, not diffuse bilateral infiltrates, and would not explain the petechial rash.",
+          "C": "Cardiogenic pulmonary edema is excluded by normal echocardiography. It would also show cardiomegaly and cephalization of blood flow on chest X-ray.",
+          "D": "Pulmonary thromboembolism typically causes pleuritic chest pain and may show a wedge-shaped opacity, not diffuse bilateral infiltrates. It does not cause a petechial rash.",
+          "E": "Tension pneumothorax presents with unilateral absent breath sounds, tracheal deviation, and hypotension, not bilateral diffuse infiltrates."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "fat-embolism",
+        "trauma",
+        "petechial-rash"
+      ]
+    },
+    {
+      "id": "r22-005",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 55-year-old man with ARDS secondary to bacterial pneumonia is on mechanical ventilation. His care team places him in a prone position for 16 hours per day. Which of the following best explains the physiologic benefit of prone positioning in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cardiac preload"
+        },
+        {
+          "label": "B",
+          "text": "Increased diaphragmatic excursion"
+        },
+        {
+          "label": "C",
+          "text": "Reduced gravitational lung compression"
+        },
+        {
+          "label": "D",
+          "text": "Reduced mucus plugging"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of surfactant release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Prone positioning reduces V/Q mismatch by decreasing gravitational compression of the lungs by the heart and abdominal contents, allowing better aeration of previously dependent, collapsed lung regions.",
+        "whyCorrect": "In the supine position, gravity causes the heart and mediastinal structures to compress the dorsal lung regions, promoting atelectasis and V/Q mismatch. Prone positioning redistributes gravitational forces more evenly, reduces compression of dorsal lung parenchyma, and improves ventilation to previously collapsed alveoli, thereby improving oxygenation.",
+        "whyWrongByChoice": {
+          "A": "Prone positioning does not significantly affect cardiac preload. Its primary benefit is in improving lung mechanics and V/Q matching.",
+          "B": "Diaphragmatic excursion is not substantially increased by prone positioning. The benefit comes from redistribution of lung ventilation, not diaphragmatic mechanics.",
+          "D": "While postural drainage may help clear secretions, the primary rationale for prone positioning in ARDS is improving V/Q mismatch, not mucus clearance.",
+          "E": "Prone positioning does not stimulate surfactant release. Surfactant production by type 2 pneumocytes is not influenced by body position."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "prone-positioning",
+        "VQ-mismatch",
+        "management"
+      ]
+    },
+    {
+      "id": "r22-006",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 70-year-old woman with a history of congestive heart failure presents with acute dyspnea and bilateral pulmonary infiltrates on chest X-ray. Her oxygen saturation is 88% on room air. Which of the following findings would most strongly support a diagnosis of ARDS rather than cardiogenic pulmonary edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral pleural effusions"
+        },
+        {
+          "label": "B",
+          "text": "Elevated B-type natriuretic peptide"
+        },
+        {
+          "label": "C",
+          "text": "Prominent cephalization of vessels"
+        },
+        {
+          "label": "D",
+          "text": "Normal pulmonary capillary wedge pressure"
+        },
+        {
+          "label": "E",
+          "text": "Widened cardiac silhouette"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A normal pulmonary capillary wedge pressure (PCWP) indicates that pulmonary edema is not due to elevated left atrial pressure from heart failure, supporting a diagnosis of noncardiogenic pulmonary edema characteristic of ARDS.",
+        "whyCorrect": "ARDS causes noncardiogenic pulmonary edema from increased capillary permeability, so the PCWP remains normal. In cardiogenic pulmonary edema, elevated left heart pressures lead to an elevated PCWP. A pulmonary artery catheter measuring a normal PCWP in a patient with bilateral pulmonary edema strongly supports ARDS over heart failure.",
+        "whyWrongByChoice": {
+          "A": "Bilateral pleural effusions are more commonly associated with cardiogenic pulmonary edema and heart failure, not ARDS.",
+          "B": "Elevated B-type natriuretic peptide (BNP) suggests volume overload and cardiac dysfunction, which would favor cardiogenic pulmonary edema over ARDS.",
+          "C": "Cephalization of pulmonary vessels indicates elevated pulmonary venous pressure, a feature of cardiogenic pulmonary edema, not ARDS.",
+          "E": "A widened cardiac silhouette suggests cardiomegaly from heart failure, which favors cardiogenic pulmonary edema."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "cardiogenic-vs-noncardiogenic",
+        "PCWP",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r22-007",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 48-year-old man is hospitalized with severe acute pancreatitis. On hospital day 4, he develops worsening hypoxemia with bilateral opacities on chest X-ray. A lung biopsy is obtained. Which of the following cell types, when damaged, is most directly responsible for the protein-rich fluid leaking into the alveolar space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary capillary endothelial cells"
+        },
+        {
+          "label": "C",
+          "text": "Club cells"
+        },
+        {
+          "label": "D",
+          "text": "Type 1 pneumocytes"
+        },
+        {
+          "label": "E",
+          "text": "Type 2 pneumocytes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Damage to pulmonary capillary endothelial cells increases vascular permeability, allowing protein-rich fluid to leak from the capillaries into the alveolar space and interstitium, producing the noncardiogenic pulmonary edema characteristic of ARDS.",
+        "whyCorrect": "The hallmark of ARDS is diffuse pulmonary capillary endothelial and alveolar damage. Endothelial cell injury makes the capillaries highly permeable, allowing protein-rich fluid (exudate) to leak into the interstitium and alveoli. This is the direct mechanism of noncardiogenic pulmonary edema in ARDS.",
+        "whyWrongByChoice": {
+          "A": "Alveolar macrophages are part of the innate immune response. While they release inflammatory mediators that contribute to ARDS pathogenesis, they are not the barrier whose damage causes fluid leakage.",
+          "C": "Club cells are found in terminal bronchioles and secrete protective proteins. Their damage does not directly cause alveolar fluid leak.",
+          "D": "Type 1 pneumocytes form the alveolar epithelial surface and are involved in gas exchange. While they are damaged in ARDS, the protein-rich fluid leak originates from increased capillary endothelial permeability.",
+          "E": "Type 2 pneumocytes produce surfactant. Their damage leads to decreased surfactant and alveolar collapse, but not directly to protein-rich fluid leakage from the vasculature."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "pathophysiology",
+        "endothelial-damage",
+        "noncardiogenic-edema"
+      ]
+    },
+    {
+      "id": "r22-008",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 35-year-old woman receives 8 units of packed red blood cells following a postpartum hemorrhage. Six hours later, she develops acute dyspnea with oxygen saturation of 82% on room air. Chest X-ray shows new bilateral pulmonary infiltrates. Echocardiography is unremarkable. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute hemolytic transfusion reaction"
+        },
+        {
+          "label": "B",
+          "text": "Anaphylactic transfusion reaction"
+        },
+        {
+          "label": "C",
+          "text": "Transfusion-related acute lung injury"
+        },
+        {
+          "label": "D",
+          "text": "Transfusion-associated circulatory overload"
+        },
+        {
+          "label": "E",
+          "text": "Simple fluid overload from transfusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Transfusion-related acute lung injury (TRALI) is a form of ARDS triggered by blood transfusion. It presents with acute respiratory distress, bilateral infiltrates, and hypoxemia within 6 hours of transfusion, with a normal echocardiogram excluding cardiogenic causes.",
+        "whyCorrect": "TRALI is a recognized cause of ARDS that occurs within 6 hours of blood product transfusion. Donor antibodies or bioactive lipids in stored blood activate recipient neutrophils, causing a cytokine surge that damages pulmonary capillary endothelium. This case meets Berlin criteria for ARDS with the normal echocardiogram excluding cardiogenic edema.",
+        "whyWrongByChoice": {
+          "A": "Acute hemolytic transfusion reactions present with fever, flank pain, dark urine, and hemoglobinemia, not primarily with bilateral pulmonary infiltrates and respiratory failure.",
+          "B": "Anaphylactic reactions present with urticaria, hypotension, bronchospasm, and angioedema, typically occurring within minutes of transfusion. Bilateral infiltrates are not characteristic.",
+          "D": "TACO presents with signs of volume overload and elevated cardiac filling pressures, which are not present here given the normal echocardiogram.",
+          "E": "Simple fluid overload would cause cardiogenic-pattern edema, but the echocardiogram is normal, excluding this."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "TRALI",
+        "transfusion",
+        "noncardiogenic-edema"
+      ]
+    },
+    {
+      "id": "r22-009",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 50-year-old man with ARDS is on mechanical ventilation. Increasing the positive end-expiratory pressure (PEEP) from 5 to 12 cmH2O results in improvement of his oxygen saturation from 85% to 94%. Which of the following best explains how PEEP improves oxygenation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prevents alveolar collapse at end-expiration"
+        },
+        {
+          "label": "B",
+          "text": "Decreases pulmonary vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "Increases the respiratory rate"
+        },
+        {
+          "label": "D",
+          "text": "Reduces airway inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates endogenous surfactant production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PEEP maintains positive airway pressure at end-expiration, keeping alveoli open that would otherwise collapse. This recruits more alveoli for gas exchange, reduces intrapulmonary shunt, and improves functional residual capacity and oxygenation.",
+        "whyCorrect": "In ARDS, decreased surfactant and alveolar edema cause alveoli to collapse at end-expiration. PEEP applies continuous positive pressure that splints alveoli open, preventing end-expiratory collapse (atelectasis). This increases the functional residual capacity, reduces shunt fraction, and improves oxygenation.",
+        "whyWrongByChoice": {
+          "B": "PEEP can actually increase pulmonary vascular resistance by compressing pulmonary capillaries. Its benefit is in alveolar recruitment, not vascular resistance reduction.",
+          "C": "PEEP does not change the respiratory rate. It is a pressure maintained at the end of each breath. Respiratory rate is controlled by a separate ventilator setting.",
+          "D": "PEEP does not directly reduce airway inflammation. It is a mechanical intervention that keeps alveoli open; it does not have anti-inflammatory properties.",
+          "E": "PEEP does not stimulate surfactant production. Surfactant is produced by type 2 pneumocytes and is not regulated by airway pressure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "PEEP",
+        "mechanical-ventilation",
+        "oxygenation"
+      ]
+    },
+    {
+      "id": "r22-010",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 65-year-old man with ARDS from pneumonia survives the acute illness but remains ventilator-dependent for 4 weeks. A lung biopsy at this time is most likely to show which of the following findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abundant hyaline membranes"
+        },
+        {
+          "label": "B",
+          "text": "Caseating granulomas"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophilic alveolar infiltrates"
+        },
+        {
+          "label": "D",
+          "text": "Normal lung architecture"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fibrosis with cyst formation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "After 4 weeks, ARDS has progressed to the fibrotic stage, characterized by obliteration of normal lung architecture, interstitial fibrosis, and cyst formation.",
+        "whyCorrect": "ARDS progresses through three histopathologic stages: the exudative phase (days 1-10, hyaline membranes), the fibroproliferative phase (collagen deposition, type 2 cell proliferation), and the fibrotic phase (obliteration of normal architecture with fibrosis and cyst formation). At 4 weeks, the patient is in the fibrotic stage.",
+        "whyWrongByChoice": {
+          "A": "Hyaline membranes are characteristic of the early exudative phase (first 7-10 days). By 4 weeks, these have been replaced by organizing fibrotic tissue.",
+          "B": "Caseating granulomas are characteristic of tuberculosis and certain fungal infections, not ARDS.",
+          "C": "Neutrophilic infiltrates are a feature of the early inflammatory phase. By 4 weeks, the acute inflammation has resolved and been replaced by fibrosis.",
+          "D": "After prolonged ARDS, the normal lung architecture is destroyed by the fibrotic process. Return to normal is unlikely at this stage."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "fibrotic-phase",
+        "histopathology",
+        "progression"
+      ]
+    },
+    {
+      "id": "r22-011",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 42-year-old man is brought to the emergency department after aspiration of gastric contents during seizure activity. He rapidly develops hypoxemia with bilateral infiltrates on chest X-ray. Bronchoalveolar lavage reveals edema fluid with high protein concentration. Which of the following best explains the high protein content?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated hydrostatic capillary pressure"
+        },
+        {
+          "label": "B",
+          "text": "Decreased oncotic pressure from liver failure"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary permeability from endothelial damage"
+        },
+        {
+          "label": "D",
+          "text": "Lymphatic obstruction by mediastinal mass"
+        },
+        {
+          "label": "E",
+          "text": "Overproduction of albumin by pneumocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In ARDS, inflammatory damage to pulmonary capillary endothelium increases permeability, allowing protein-rich fluid (exudate) to leak into the alveolar space. This is noncardiogenic pulmonary edema.",
+        "whyCorrect": "Aspiration triggers an inflammatory cascade that damages pulmonary capillary endothelial cells, making them highly permeable. This allows both fluid and plasma proteins to leak into the interstitium and alveolar space, producing protein-rich exudative edema. In contrast, cardiogenic pulmonary edema is a transudate with low protein content because the capillary barrier remains intact.",
+        "whyWrongByChoice": {
+          "A": "Elevated hydrostatic pressure causes transudative edema with low protein content, as seen in heart failure. The high protein content indicates exudative edema from capillary damage.",
+          "B": "Hepatic failure causes hypoalbuminemia and generalized edema, not protein-rich pulmonary edema with bilateral infiltrates following aspiration.",
+          "D": "Lymphatic obstruction would cause chylous effusions or lymphedema, not acute protein-rich alveolar edema following aspiration.",
+          "E": "Pneumocytes do not produce albumin. The protein in the edema fluid leaks from damaged capillaries."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "exudative-edema",
+        "capillary-permeability",
+        "aspiration"
+      ]
+    },
+    {
+      "id": "r22-012",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 60-year-old woman with sepsis-induced ARDS has an arterial blood gas showing PaO2 55 mmHg, PaCO2 60 mmHg, pH 7.25, and HCO3 26 mEq/L on mechanical ventilation with a tidal volume of 6 mL/kg. Which of the following acid-base disturbances is present?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metabolic acidosis with respiratory compensation"
+        },
+        {
+          "label": "B",
+          "text": "Metabolic alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory acidosis with partial renal compensation"
+        },
+        {
+          "label": "D",
+          "text": "Mixed metabolic and respiratory acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The elevated PaCO2 (60 mmHg) with low pH (7.25) indicates a primary respiratory acidosis. The slightly elevated HCO3 (26 mEq/L) reflects early renal compensation through bicarbonate retention.",
+        "whyCorrect": "In ARDS, dead space ventilation and low tidal volume ventilation impair CO2 elimination, leading to respiratory acidosis (elevated PaCO2, decreased pH). The HCO3 of 26 mEq/L is mildly elevated above normal (22-24), indicating the kidneys have begun to retain bicarbonate to compensate, though compensation is incomplete as the pH remains acidotic.",
+        "whyWrongByChoice": {
+          "A": "In metabolic acidosis with respiratory compensation, HCO3 would be low and PaCO2 would decrease as the lungs attempt to blow off CO2. Here, PaCO2 is elevated as the primary disturbance.",
+          "B": "Metabolic alkalosis would present with elevated HCO3 and elevated pH. This patient has acidemia.",
+          "D": "In a mixed metabolic and respiratory acidosis, HCO3 would be low (not 26 mEq/L) concurrent with elevated PaCO2. The mildly elevated HCO3 reflects compensation, not a primary metabolic process.",
+          "E": "Respiratory alkalosis presents with low PaCO2 and elevated pH. This patient has the opposite pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "acid-base",
+        "respiratory-acidosis",
+        "permissive-hypercapnia"
+      ]
+    },
+    {
+      "id": "r22-013",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 38-year-old woman with ARDS is receiving mechanical ventilation. Suddenly, her oxygen saturation drops from 94% to 78%, peak inspiratory pressure increases sharply, and auscultation reveals absent breath sounds on the right side. Which of the following is the most likely complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right-sided tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Atelectasis of the left lung"
+        },
+        {
+          "label": "C",
+          "text": "Mucus plug in right mainstem bronchus"
+        },
+        {
+          "label": "D",
+          "text": "Right-sided pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Ventilator malfunction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sudden oxygen desaturation with increased peak inspiratory pressure and absent unilateral breath sounds in a mechanically ventilated ARDS patient strongly suggests tension pneumothorax from barotrauma.",
+        "whyCorrect": "Mechanical ventilation in ARDS, especially with positive pressure, can cause barotrauma leading to alveolar rupture and pneumothorax. Tension pneumothorax causes sudden, severe desaturation, increased airway pressures, and absent breath sounds on the affected side. This is a medical emergency requiring immediate needle decompression.",
+        "whyWrongByChoice": {
+          "B": "Atelectasis of the left lung would cause absent breath sounds on the left, not the right.",
+          "C": "A mucus plug could cause lobar collapse and increased airway pressure, but the acute onset and complete absence of breath sounds in a ventilated patient is more consistent with pneumothorax.",
+          "D": "Pleural effusion develops gradually and would not cause the sudden acute changes described.",
+          "E": "Ventilator malfunction would affect both lungs equally, not cause unilateral absent breath sounds."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "barotrauma",
+        "pneumothorax",
+        "mechanical-ventilation"
+      ]
+    },
+    {
+      "id": "r22-014",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 55-year-old woman develops ARDS following gram-negative sepsis. Despite mechanical ventilation with 100% FiO2, her PaO2 remains 60 mmHg with a significantly elevated A-a gradient. Which of the following mechanisms best explains the refractory hypoxemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Decreased hemoglobin oxygen-binding affinity"
+        },
+        {
+          "label": "C",
+          "text": "Hypoventilation from sedation"
+        },
+        {
+          "label": "D",
+          "text": "Intrapulmonary shunting past fluid-filled alveoli"
+        },
+        {
+          "label": "E",
+          "text": "V/Q mismatch from bronchospasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Refractory hypoxemia unresponsive to supplemental oxygen is caused by intrapulmonary shunting, where blood passes through non-ventilated, fluid-filled alveoli without undergoing gas exchange. Shunt does not respond to increased FiO2.",
+        "whyCorrect": "In ARDS, fluid-filled and collapsed alveoli allow blood to pass through pulmonary capillaries without gas exchange (true intrapulmonary shunt). Unlike V/Q mismatch, shunt-mediated hypoxemia does not improve with supplemental oxygen because the blood never contacts ventilated alveoli. The elevated A-a gradient and refractory hypoxemia despite 100% FiO2 are hallmarks of shunt physiology.",
+        "whyWrongByChoice": {
+          "A": "Decreased cardiac output would reduce oxygen delivery to tissues but would not cause refractory hypoxemia with an elevated A-a gradient.",
+          "B": "Decreased hemoglobin oxygen-binding affinity (right shift) affects oxygen unloading at tissues, not oxygen uptake in the lungs.",
+          "C": "Hypoventilation from sedation would increase PaCO2 and lower PaO2 but would respond to increased FiO2.",
+          "E": "V/Q mismatch from bronchospasm would typically respond to increased FiO2, unlike the refractory hypoxemia seen here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "intrapulmonary-shunt",
+        "refractory-hypoxemia",
+        "Aa-gradient"
+      ]
+    },
+    {
+      "id": "r22-015",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 52-year-old man develops acute respiratory failure 2 days after admission for acute pancreatitis. Chest X-ray shows bilateral fluffy infiltrates predominantly in the peripheral lung fields with a normal cardiac silhouette. Which of the following patterns would instead suggest cardiogenic pulmonary edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral peripheral ground-glass opacities"
+        },
+        {
+          "label": "B",
+          "text": "Central perihilar infiltrates with cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse miliary nodules bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Right lower lobe consolidation"
+        },
+        {
+          "label": "E",
+          "text": "Unilateral pleural effusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiogenic pulmonary edema characteristically shows central perihilar infiltrates starting near the hilar vessels and spreading outward, along with cardiomegaly and cephalization of blood flow, unlike the peripheral distribution seen in ARDS.",
+        "whyCorrect": "In cardiogenic pulmonary edema, elevated left atrial pressures cause fluid to accumulate starting from the hilar vessels centrally and spreading outward. The chest X-ray shows perihilar infiltrates, cardiomegaly, dilated pulmonary artery hilar vessels, and cephalization of blood flow. In contrast, ARDS shows peripheral, diffuse fluffy opacifications with a normal cardiac silhouette.",
+        "whyWrongByChoice": {
+          "A": "Bilateral peripheral ground-glass opacities are more characteristic of ARDS, not cardiogenic pulmonary edema.",
+          "C": "Diffuse miliary nodules suggest miliary tuberculosis or hematogenous metastases, not cardiogenic pulmonary edema.",
+          "D": "Right lower lobe consolidation suggests lobar pneumonia, not the pattern of cardiogenic pulmonary edema.",
+          "E": "While pleural effusions can occur with heart failure, a unilateral effusion alone is not the characteristic pattern."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "chest-xray",
+        "cardiogenic-vs-noncardiogenic",
+        "radiology"
+      ]
+    },
+    {
+      "id": "r22-016",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 30-year-old man is admitted after a cocaine overdose. He develops progressive dyspnea, bilateral infiltrates on chest X-ray, and a PaO2/FiO2 ratio of 180 over the next 24 hours. Echocardiography is normal. Which of the following inflammatory mediators is most directly responsible for the pulmonary capillary endothelial damage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "B",
+          "text": "Bradykinin"
+        },
+        {
+          "label": "C",
+          "text": "Histamine"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin"
+        },
+        {
+          "label": "E",
+          "text": "Tumor necrosis factor-alpha"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TNF-alpha is a key pro-inflammatory cytokine that, along with IL-1 and IL-6, mediates the excessive innate immune response leading to pulmonary capillary endothelial damage in ARDS.",
+        "whyCorrect": "In ARDS, injurious stimuli (including drug overdoses) trigger an excessive activation of the innate immune response with massive release of pro-inflammatory cytokines including TNF-alpha, IL-1, and IL-6, as well as cytotoxic enzymes and free radicals. TNF-alpha is a principal mediator that damages pulmonary capillary endothelial cells.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine is a neurotransmitter involved in parasympathetic signaling. It does not play a major role in the inflammatory cascade causing ARDS.",
+          "B": "Bradykinin is a vasoactive peptide involved in pain and vasodilation but is not a primary mediator of the diffuse alveolar damage seen in ARDS.",
+          "C": "Histamine mediates type I hypersensitivity reactions but is not the primary cytokine driving the diffuse endothelial damage in ARDS.",
+          "D": "Serotonin plays roles in mood, vasoconstriction, and platelet aggregation but is not a key mediator of ARDS pathogenesis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "cytokines",
+        "TNF-alpha",
+        "pathogenesis"
+      ]
+    },
+    {
+      "id": "r22-017",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 47-year-old woman is diagnosed with ARDS secondary to septic shock. She is intubated and placed on mechanical ventilation. The respiratory therapist asks about the recommended tidal volume setting. Which of the following is most appropriate for lung-protective ventilation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "4 mL/kg ideal body weight"
+        },
+        {
+          "label": "B",
+          "text": "6 mL/kg ideal body weight"
+        },
+        {
+          "label": "C",
+          "text": "8 mL/kg ideal body weight"
+        },
+        {
+          "label": "D",
+          "text": "10 mL/kg ideal body weight"
+        },
+        {
+          "label": "E",
+          "text": "12 mL/kg ideal body weight"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lung-protective ventilation in ARDS uses low tidal volumes of 6 mL/kg ideal body weight to prevent alveolar overdistension (volutrauma) in the heterogeneously damaged lung.",
+        "whyCorrect": "The ARDSNet trial established that low tidal volume ventilation at 6 mL/kg ideal body weight significantly reduces mortality in ARDS compared to conventional volumes. This approach minimizes alveolar overdistension because in the heterogeneously damaged ARDS lung, the delivered volume preferentially fills compliant alveoli, risking volutrauma if excessive.",
+        "whyWrongByChoice": {
+          "A": "4 mL/kg is below the recommended range and would result in significant hypoventilation with severe hypercapnia.",
+          "C": "8 mL/kg is higher than the recommended lung-protective tidal volume and carries increased risk of alveolar overdistension.",
+          "D": "10 mL/kg is a conventional tidal volume that has been shown to increase mortality in ARDS.",
+          "E": "12 mL/kg was the conventional ventilation strategy shown to be harmful in the landmark ARDSNet trial."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "low-tidal-volume",
+        "lung-protective-ventilation",
+        "management"
+      ]
+    },
+    {
+      "id": "r22-018",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 68-year-old man with ARDS has an arterial blood gas showing PaO2 of 250 mmHg while on mechanical ventilation with FiO2 of 1.0 and PEEP of 10 cmH2O. The medical team decides to wean the FiO2. Which of the following is the primary concern of prolonged high FiO2 exposure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen toxicity with additional lung damage"
+        },
+        {
+          "label": "B",
+          "text": "Carbon dioxide narcosis"
+        },
+        {
+          "label": "C",
+          "text": "Atelectasis from nitrogen washout"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary vasoconstriction"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Prolonged exposure to high FiO2 generates reactive oxygen species that cause oxidative damage to the already injured lung parenchyma, worsening ARDS. PEEP reduces the need for high FiO2.",
+        "whyCorrect": "High concentrations of inspired oxygen generate reactive oxygen species that damage pulmonary epithelium and endothelium. In the already injured ARDS lung, this additional oxidative stress can exacerbate lung injury. The goal is to use the minimum FiO2 needed to maintain adequate oxygenation.",
+        "whyWrongByChoice": {
+          "B": "Carbon dioxide narcosis is a concern in patients with chronic CO2 retention (e.g., severe COPD). It is not the primary risk of high FiO2 in ARDS.",
+          "C": "Absorption atelectasis from nitrogen washout can occur with high FiO2 but is a secondary concern compared to direct oxygen toxicity.",
+          "D": "High oxygen levels cause pulmonary vasodilation, not vasoconstriction. Hypoxia causes pulmonary vasoconstriction.",
+          "E": "Respiratory alkalosis is caused by hyperventilation, not high FiO2. Oxygen concentration does not directly affect pH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "oxygen-toxicity",
+        "FiO2",
+        "management"
+      ]
+    },
+    {
+      "id": "r22-019",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 56-year-old man with ARDS has regions of his lung that are perfused but not ventilated due to alveolar collapse and edema. Other regions have damaged capillaries with ventilation but no blood flow. Which of the following best describes the combination of these two pathologic processes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dead space ventilation and intrapulmonary shunt"
+        },
+        {
+          "label": "B",
+          "text": "Diffusion impairment and bronchospasm"
+        },
+        {
+          "label": "C",
+          "text": "Left-to-right cardiac shunt and atelectasis"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive airway disease and pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Right-to-left cardiac shunt and pleural effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In ARDS, perfused but non-ventilated alveoli create intrapulmonary shunt (causing hypoxemia), while ventilated but non-perfused areas from capillary damage create physiologic dead space (causing hypercapnia).",
+        "whyCorrect": "ARDS simultaneously creates two types of V/Q abnormality: (1) Intrapulmonary shunt occurs when blood flows past collapsed or fluid-filled alveoli without gas exchange, causing refractory hypoxemia. (2) Dead space occurs when capillary damage eliminates perfusion to ventilated areas, impairing CO2 elimination.",
+        "whyWrongByChoice": {
+          "B": "While diffusion impairment occurs in ARDS, bronchospasm is not a primary feature. The processes described are shunt and dead space.",
+          "C": "A left-to-right cardiac shunt is an intracardiac defect, not a pulmonary process.",
+          "D": "Obstructive airway disease and PE are separate disease entities, not the V/Q abnormalities intrinsic to ARDS.",
+          "E": "A right-to-left cardiac shunt is an intracardiac process. The shunting in ARDS occurs within the pulmonary vasculature."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "shunt",
+        "dead-space",
+        "VQ-mismatch"
+      ]
+    },
+    {
+      "id": "r22-020",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 44-year-old woman develops ARDS after severe Staphylococcus aureus pneumonia. She requires intubation and mechanical ventilation. Her husband asks about the prognosis. Which of the following statements about ARDS outcomes is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mortality is approximately 5-10%"
+        },
+        {
+          "label": "B",
+          "text": "Mortality may reach 40-50%"
+        },
+        {
+          "label": "C",
+          "text": "Most patients recover without sequelae"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence is the leading cause of death"
+        },
+        {
+          "label": "E",
+          "text": "Survivors rarely have functional limitations"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARDS carries a mortality rate of approximately 40-50%, partly due to the severity of the underlying illness. Survivors often have lasting pulmonary, cognitive, and psychological sequelae.",
+        "whyCorrect": "The mortality rate of ARDS may be as high as 40-50%, reflecting both the lung injury itself and the severity of the underlying conditions that triggered it. Many survivors experience lingering effects including breathing problems, fatigue, muscle weakness, memory issues, and depression.",
+        "whyWrongByChoice": {
+          "A": "A 5-10% mortality rate significantly underestimates the severity of ARDS.",
+          "C": "Most survivors of ARDS do have some degree of residual impairment.",
+          "D": "Death in ARDS is usually from the underlying illness or multiorgan failure, not recurrence.",
+          "E": "Survivors frequently have functional limitations including breathing problems, fatigue, weakness, and cognitive difficulties."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "prognosis",
+        "mortality",
+        "outcomes"
+      ]
+    },
+    {
+      "id": "r22-021",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 63-year-old man with ARDS from bacterial peritonitis is on day 14 of mechanical ventilation. Lung biopsy shows resolution of edema with proliferation of type II pneumocytes, squamous metaplasia, and early collagen deposition in the interstitium. Which histopathologic stage of ARDS does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early exudative stage"
+        },
+        {
+          "label": "B",
+          "text": "Fibrotic stage"
+        },
+        {
+          "label": "C",
+          "text": "Fibroproliferative stage"
+        },
+        {
+          "label": "D",
+          "text": "Resolution stage"
+        },
+        {
+          "label": "E",
+          "text": "Hemorrhagic stage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fibroproliferative stage follows the exudative phase and is characterized by resolution of edema, type II pneumocyte proliferation, squamous metaplasia, interstitial myofibroblast infiltration, and early collagen deposition.",
+        "whyCorrect": "The fibroproliferative stage occurs after the initial exudative phase. It is characterized by resolution of pulmonary edema, proliferation of type II alveolar cells, squamous metaplasia, interstitial infiltration by myofibroblasts, and early collagen deposition, representing the lung's attempt to repair acute damage.",
+        "whyWrongByChoice": {
+          "A": "The early exudative stage (first 7-10 days) features interstitial edema, inflammation, and hyaline membrane formation. The edema has resolved here.",
+          "B": "The fibrotic stage is characterized by complete obliteration of normal lung architecture and extensive fibrosis. Early collagen deposition indicates the fibroproliferative stage.",
+          "D": "There is no formally recognized 'resolution stage' in the three-stage classification of ARDS histopathology.",
+          "E": "There is no 'hemorrhagic stage' in the standard classification of ARDS histopathology."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "fibroproliferative-stage",
+        "histopathology",
+        "type-II-pneumocytes"
+      ]
+    },
+    {
+      "id": "r22-022",
+      "topicId": "ards",
+      "topicName": "Acute Respiratory Distress Syndrome (ARDS)",
+      "stem": "A 72-year-old man with a history of coronary artery bypass surgery presents with acute dyspnea. Chest X-ray shows bilateral pulmonary infiltrates. His PaO2/FiO2 ratio is 220. A bedside lung ultrasound is performed. Which ultrasound finding would be most consistent with ARDS rather than cardiogenic pulmonary edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homogeneous distribution of B-lines"
+        },
+        {
+          "label": "B",
+          "text": "Isolated posterior A-lines"
+        },
+        {
+          "label": "C",
+          "text": "Normal sliding lung sign bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Unilateral B-lines in right base"
+        },
+        {
+          "label": "E",
+          "text": "Patchy, heterogeneous B-lines"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "On lung ultrasound, ARDS produces a patchy, heterogeneous distribution of B-lines due to its nonuniform lung involvement, while cardiogenic pulmonary edema causes a homogeneous distribution.",
+        "whyCorrect": "Lung ultrasound in ARDS shows vertical B-lines in a patchy, heterogeneous distribution, reflecting the nonuniform nature of alveolar damage and edema. In contrast, cardiogenic pulmonary edema produces a uniform, homogeneous distribution of B-lines because hydrostatic edema distributes more evenly.",
+        "whyWrongByChoice": {
+          "A": "Homogeneous distribution of B-lines is characteristic of cardiogenic pulmonary edema, not ARDS.",
+          "B": "A-lines are normal reverberation artifacts indicating no significant interstitial fluid, inconsistent with either ARDS or cardiogenic edema.",
+          "C": "A normal sliding lung sign does not differentiate between cardiogenic and noncardiogenic edema.",
+          "D": "Unilateral B-lines suggest a focal process such as pneumonia, not the diffuse bilateral involvement of ARDS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ARDS",
+        "lung-ultrasound",
+        "B-lines",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r22-023",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A male infant is born at 28 weeks' gestation via emergency cesarean section. Within 30 minutes of delivery, he develops tachypnea, intercostal retractions, nasal flaring, and audible expiratory grunting. Pulse oximetry shows oxygen saturation of 80%. Which of the following is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspiration of meconium"
+        },
+        {
+          "label": "B",
+          "text": "Congenital diaphragmatic hernia"
+        },
+        {
+          "label": "C",
+          "text": "Surfactant deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Group B Streptococcus pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Transient tachypnea of newborn"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A premature infant born at 28 weeks with respiratory distress immediately after birth most likely has neonatal respiratory distress syndrome caused by surfactant deficiency due to immature type 2 pneumocytes.",
+        "whyCorrect": "At 28 weeks' gestation, the lungs are immature with insufficient surfactant production by type 2 pneumocytes. Without adequate surfactant, alveoli collapse, increasing the work of breathing and causing respiratory failure. The risk of NRDS is >90% at 28 weeks or less.",
+        "whyWrongByChoice": {
+          "A": "Meconium aspiration syndrome typically occurs in term or post-term infants. Premature infants at 28 weeks rarely produce meconium.",
+          "B": "Congenital diaphragmatic hernia presents with absent breath sounds on one side and scaphoid abdomen, not the bilateral findings described.",
+          "D": "While GBS pneumonia can present similarly, extreme prematurity makes surfactant deficiency far more likely.",
+          "E": "Transient tachypnea of the newborn is generally seen in more mature infants and resolves within 24-78 hours."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "surfactant-deficiency",
+        "prematurity",
+        "presentation"
+      ]
+    },
+    {
+      "id": "r22-024",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A 30-week gestational age infant with neonatal respiratory distress syndrome undergoes chest X-ray. Which of the following radiographic findings is most characteristic of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral hyperinflation with flat diaphragms"
+        },
+        {
+          "label": "B",
+          "text": "Ground-glass opacities with air bronchograms"
+        },
+        {
+          "label": "C",
+          "text": "Focal right lower lobe consolidation"
+        },
+        {
+          "label": "D",
+          "text": "Left-sided opacification with mediastinal shift"
+        },
+        {
+          "label": "E",
+          "text": "Unilateral hyperlucency"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Neonatal RDS characteristically shows diffuse bilateral ground-glass opacities from atelectasis and pulmonary edema, with air bronchograms representing air-filled bronchi surrounded by collapsed, fluid-filled alveoli.",
+        "whyCorrect": "The chest X-ray in NRDS shows diffuse, fine reticulonodular (ground-glass) infiltrates in all lung fields caused by widespread atelectasis and pulmonary edema from surfactant deficiency. Air bronchograms appear because air-filled bronchi become visible against opacified, collapsed alveolar tissue.",
+        "whyWrongByChoice": {
+          "A": "Bilateral hyperinflation with flat diaphragms suggests air trapping, as seen in meconium aspiration syndrome, not NRDS.",
+          "C": "Focal right lower lobe consolidation suggests lobar pneumonia, not the diffuse bilateral pattern of NRDS.",
+          "D": "Left-sided opacification with mediastinal shift could indicate congenital diaphragmatic hernia or complete lung collapse.",
+          "E": "Unilateral hyperlucency suggests pneumothorax, not the diffuse bilateral opacification of NRDS."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "chest-xray",
+        "ground-glass",
+        "air-bronchograms"
+      ]
+    },
+    {
+      "id": "r22-025",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A pregnant woman at 31 weeks' gestation presents with preterm labor. The obstetrician administers betamethasone intramuscularly. Which of the following best describes how this medication reduces the risk of neonatal respiratory distress syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Directly provides exogenous surfactant"
+        },
+        {
+          "label": "B",
+          "text": "Inhibits prostaglandin synthesis to delay labor"
+        },
+        {
+          "label": "C",
+          "text": "Reduces fetal lung inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Accelerates fetal type 2 pneumocyte maturation"
+        },
+        {
+          "label": "E",
+          "text": "Suppresses the maternal immune response"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Antenatal corticosteroids (betamethasone) cross the placenta and accelerate the maturation of fetal type 1 and type 2 pneumocytes, increasing surfactant production and reducing the risk of NRDS.",
+        "whyCorrect": "Betamethasone administered to the mother 2-7 days prior to delivery crosses the placenta and speeds the development of fetal type 1 and type 2 pneumocytes. Mature type 2 pneumocytes produce surfactant, which prevents alveolar collapse.",
+        "whyWrongByChoice": {
+          "A": "Betamethasone is a corticosteroid, not surfactant. It stimulates the fetus's own cells to produce surfactant.",
+          "B": "Betamethasone does not inhibit prostaglandin synthesis. Tocolytic agents serve that purpose.",
+          "C": "While corticosteroids have anti-inflammatory properties, the primary benefit here is acceleration of pneumocyte maturation.",
+          "E": "Maternal immune suppression is not the mechanism by which antenatal corticosteroids prevent NRDS."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "betamethasone",
+        "antenatal-corticosteroids",
+        "prevention"
+      ]
+    },
+    {
+      "id": "r22-026",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A set of twins is born at 32 weeks' gestation. Both infants develop respiratory distress shortly after birth. Immaturity of which of the following cell types is most directly responsible for the surfactant deficiency causing their condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar macrophages"
+        },
+        {
+          "label": "B",
+          "text": "Clara (club) cells"
+        },
+        {
+          "label": "C",
+          "text": "Type 2 pneumocytes"
+        },
+        {
+          "label": "D",
+          "text": "Goblet cells"
+        },
+        {
+          "label": "E",
+          "text": "Type 1 pneumocytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type 2 pneumocytes are responsible for producing surfactant. In premature infants, these cells are immature and produce insufficient surfactant, leading to NRDS.",
+        "whyCorrect": "Pulmonary surfactant is produced exclusively by type 2 pneumocytes during the third trimester. In premature infants, type 2 pneumocytes have not matured sufficiently to produce adequate surfactant, leading to increased alveolar surface tension, atelectasis, and respiratory failure.",
+        "whyWrongByChoice": {
+          "A": "Alveolar macrophages are phagocytic cells involved in immune defense. They do not produce surfactant.",
+          "B": "Clara (club) cells are found in terminal bronchioles and secrete protective proteins, but they do not produce surfactant.",
+          "D": "Goblet cells secrete mucus in the airway epithelium. They are not involved in surfactant production.",
+          "E": "Type 1 pneumocytes are thin cells that facilitate gas exchange. They do not produce surfactant."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "type-2-pneumocytes",
+        "surfactant",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r22-027",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 29 weeks develops neonatal respiratory distress syndrome. Despite supplemental oxygen, the infant's hypoxemia worsens. Echocardiography reveals right-to-left shunting through a patent ductus arteriosus. Which of the following best explains why hypoxemia promotes this shunting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypoxemia causes left ventricular failure"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxemia triggers pulmonary vasoconstriction"
+        },
+        {
+          "label": "C",
+          "text": "Hypoxemia causes systemic vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxemia inhibits ductus closure"
+        },
+        {
+          "label": "E",
+          "text": "Hypoxemia stimulates erythropoietin release"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypoxemia causes pulmonary arteriolar vasoconstriction, increasing pulmonary vascular resistance. When pulmonary pressures exceed systemic pressures, blood shunts right-to-left through the patent ductus arteriosus and foramen ovale.",
+        "whyCorrect": "In NRDS, hypoxemia from atelectasis triggers hypoxic pulmonary vasoconstriction, raising pulmonary vascular resistance. This causes blood to shunt from the pulmonary to systemic circulation through fetal shunt pathways that remain open in premature neonates, worsening hypoxemia in a vicious cycle.",
+        "whyWrongByChoice": {
+          "A": "Left ventricular failure is not the mechanism. The shunting is driven by elevated pulmonary vascular resistance from hypoxic vasoconstriction.",
+          "C": "Systemic vasodilation alone would not cause right-to-left shunting. The primary mechanism is increased pulmonary vascular resistance.",
+          "D": "While hypoxemia can delay ductus arteriosus closure, the shunting direction is determined by elevated pulmonary vascular resistance.",
+          "E": "Erythropoietin release is a chronic response to hypoxemia that does not contribute to acute shunting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "hypoxic-vasoconstriction",
+        "shunting",
+        "PDA"
+      ]
+    },
+    {
+      "id": "r22-028",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A 31-week gestation infant is diagnosed with neonatal respiratory distress syndrome. After stabilization with supplemental oxygen and CPAP, exogenous surfactant is administered via endotracheal tube. Which of the following is the primary physiologic effect of surfactant replacement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreases airway resistance"
+        },
+        {
+          "label": "B",
+          "text": "Increases mucociliary clearance"
+        },
+        {
+          "label": "C",
+          "text": "Increases pulmonary blood flow"
+        },
+        {
+          "label": "D",
+          "text": "Reduces alveolar surface tension"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates immune cell recruitment"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Exogenous surfactant reduces alveolar surface tension, preventing collapse and improving lung compliance. This reduces atelectasis and improves gas exchange.",
+        "whyCorrect": "Surfactant is a lipoprotein complex that reduces surface tension at the air-liquid interface within alveoli. By lowering surface tension, surfactant prevents alveolar collapse at end-expiration, improves lung compliance, and reduces the work of breathing.",
+        "whyWrongByChoice": {
+          "A": "Surfactant acts at the alveolar level. It does not directly affect airway resistance.",
+          "B": "Mucociliary clearance is a function of ciliated epithelial cells, not surfactant.",
+          "C": "While improved oxygenation may secondarily reduce hypoxic vasoconstriction, the primary effect is on surface tension.",
+          "E": "Surfactant does not primarily function as an immune mediator. Its role is mechanical."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "surfactant-replacement",
+        "surface-tension",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r22-029",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A neonatologist counsels parents of a 26-week infant about the risks of prolonged supplemental oxygen therapy. She mentions that excessive oxygen can damage the infant's developing retinal vessels. Which of the following complications is she describing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital cataracts"
+        },
+        {
+          "label": "B",
+          "text": "Kernicterus"
+        },
+        {
+          "label": "C",
+          "text": "Retinopathy of prematurity"
+        },
+        {
+          "label": "D",
+          "text": "Periventricular leukomalacia"
+        },
+        {
+          "label": "E",
+          "text": "Retinoblastoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Retinopathy of prematurity (ROP) is caused by excessive oxygen exposure that inhibits normal retinal blood vessel growth in premature infants, potentially leading to abnormal neovascularization and vision loss.",
+        "whyCorrect": "Premature infants have incompletely vascularized retinas. Excessive oxygen generates reactive oxygen species that inhibit normal retinal vessel growth. When oxygen is later reduced, the ischemic retina releases VEGF, causing abnormal neovascularization that can lead to retinal detachment and blindness.",
+        "whyWrongByChoice": {
+          "A": "Congenital cataracts are caused by genetic conditions or intrauterine infections, not supplemental oxygen therapy.",
+          "B": "Kernicterus is caused by unconjugated bilirubin deposition in the brain from severe neonatal jaundice.",
+          "D": "Periventricular leukomalacia is white matter brain injury from ischemia, not a complication of oxygen therapy.",
+          "E": "Retinoblastoma is a malignant tumor caused by RB1 mutations, not by oxygen exposure."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "retinopathy-of-prematurity",
+        "oxygen-toxicity",
+        "complications"
+      ]
+    },
+    {
+      "id": "r22-030",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 33 weeks develops progressive respiratory distress within 2 hours of birth. Before delivery, amniocentesis showed a lecithin-to-sphingomyelin (L/S) ratio of 1.2. Which of the following best describes what this ratio indicates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fetal kidney maturity"
+        },
+        {
+          "label": "B",
+          "text": "Fetal liver maturity"
+        },
+        {
+          "label": "C",
+          "text": "Fetal neurologic maturity"
+        },
+        {
+          "label": "D",
+          "text": "Fetal lung immaturity"
+        },
+        {
+          "label": "E",
+          "text": "Maternal gestational diabetes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An L/S ratio of 1.2 (<2.0) indicates fetal lung immaturity with insufficient surfactant production. An L/S ratio of 2.0 or greater indicates lung maturity.",
+        "whyCorrect": "The L/S ratio reflects fetal lung maturity. Lecithin is the major phospholipid component of surfactant. As fetal lungs mature, lecithin production increases while sphingomyelin remains constant. An L/S ratio of 2.0 or greater indicates maturity; 1.2 indicates immature lungs at high risk for NRDS.",
+        "whyWrongByChoice": {
+          "A": "The L/S ratio reflects pulmonary surfactant production, not renal maturity.",
+          "B": "Fetal liver maturity is not assessed by the L/S ratio.",
+          "C": "Neurologic maturity is not evaluated by the L/S ratio. It specifically reflects pulmonary surfactant production.",
+          "E": "While gestational diabetes increases NRDS risk, the L/S ratio directly measures fetal lung maturity, not maternal metabolic status."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "LS-ratio",
+        "lung-maturity",
+        "amniocentesis"
+      ]
+    },
+    {
+      "id": "r22-031",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature neonate with respiratory distress syndrome is placed on continuous positive airway pressure (CPAP). Which of the following is the primary mechanism by which CPAP improves respiratory function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delivers supplemental surfactant to alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Maintains alveolar patency at end-expiration"
+        },
+        {
+          "label": "C",
+          "text": "Increases tidal volume delivery"
+        },
+        {
+          "label": "D",
+          "text": "Reduces airway secretions"
+        },
+        {
+          "label": "E",
+          "text": "Stimulates brainstem respiratory center"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CPAP delivers continuous positive pressure to the airways, keeping alveoli open at end-expiration when they are most likely to collapse due to surfactant deficiency.",
+        "whyCorrect": "In NRDS, surfactant deficiency causes alveoli to collapse at end-expiration. CPAP applies continuous positive pressure that splints alveoli open, preventing atelectasis and improving functional residual capacity and gas exchange.",
+        "whyWrongByChoice": {
+          "A": "CPAP delivers pressurized air, not surfactant. Exogenous surfactant is administered separately.",
+          "C": "CPAP maintains airway pressure but does not directly increase tidal volume.",
+          "D": "CPAP does not reduce airway secretions. Its mechanism is maintaining positive airway pressure.",
+          "E": "CPAP does not directly stimulate the brainstem respiratory center."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "CPAP",
+        "atelectasis",
+        "management"
+      ]
+    },
+    {
+      "id": "r22-032",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 27 weeks develops neonatal respiratory distress syndrome. A lung biopsy shows eosinophilic material lining the alveolar ducts and alveoli, composed of fibrin mixed with necrotic cell debris. The remaining airspaces are lined by cuboidal epithelium indicating immaturity. Which histopathologic finding is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseous granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Foreign body giant cells"
+        },
+        {
+          "label": "C",
+          "text": "Hyaline membranes"
+        },
+        {
+          "label": "D",
+          "text": "Mucous plugging"
+        },
+        {
+          "label": "E",
+          "text": "Squamous metaplasia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hyaline membranes composed of fibrin and necrotic epithelial cell debris lining alveolar ducts and alveoli are the characteristic histopathologic finding of neonatal respiratory distress syndrome.",
+        "whyCorrect": "Hyaline membranes are pathognomonic of NRDS. They consist of eosinophilic material composed of fibrin-rich exudate mixed with necrotic cell debris lining the respiratory bronchioles, alveolar ducts, and alveoli. The cuboidal epithelium indicates lung immaturity.",
+        "whyWrongByChoice": {
+          "A": "Caseous granulomas are characteristic of tuberculosis, not NRDS.",
+          "B": "Foreign body giant cells form in response to exogenous material, not NRDS.",
+          "D": "Mucous plugging involves mucus accumulation seen in asthma and cystic fibrosis.",
+          "E": "Squamous metaplasia is replacement of normal epithelium with squamous cells from chronic irritation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "hyaline-membranes",
+        "histopathology",
+        "fibrin"
+      ]
+    },
+    {
+      "id": "r22-033",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A neonate born at 34 weeks' gestation to a mother with gestational diabetes develops respiratory distress 1 hour after birth. Regarding the relationship between maternal diabetes and neonatal respiratory distress syndrome, which of the following is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maternal diabetes accelerates fetal lung maturation"
+        },
+        {
+          "label": "B",
+          "text": "Maternal diabetes directly destroys type 2 pneumocytes"
+        },
+        {
+          "label": "C",
+          "text": "Maternal diabetes is protective against NRDS"
+        },
+        {
+          "label": "D",
+          "text": "Maternal diabetes increases the risk of NRDS"
+        },
+        {
+          "label": "E",
+          "text": "Only insulin-dependent diabetes affects lung maturation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gestational diabetes is a recognized risk factor for NRDS. Maternal hyperglycemia and fetal hyperinsulinemia can delay fetal lung maturation and surfactant production.",
+        "whyCorrect": "Gestational diabetes is listed among NRDS risk factors. Maternal hyperglycemia leads to fetal hyperglycemia and compensatory fetal hyperinsulinemia, which can delay type 2 pneumocyte maturation and inhibit surfactant production.",
+        "whyWrongByChoice": {
+          "A": "Maternal diabetes delays, not accelerates, fetal lung maturation.",
+          "B": "Maternal diabetes does not directly destroy type 2 pneumocytes. It delays their maturation.",
+          "C": "Maternal diabetes increases the risk of NRDS; it is not protective.",
+          "E": "Both gestational and pre-existing diabetes are risk factors through similar mechanisms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "gestational-diabetes",
+        "risk-factors",
+        "surfactant"
+      ]
+    },
+    {
+      "id": "r22-034",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 30 weeks with NRDS is receiving supplemental oxygen and CPAP. On day 3, the infant begins producing endogenous surfactant. Which physical principle best explains how surfactant prevents alveolar collapse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bernoulli's principle"
+        },
+        {
+          "label": "B",
+          "text": "Boyle's law"
+        },
+        {
+          "label": "C",
+          "text": "Dalton's law of partial pressures"
+        },
+        {
+          "label": "D",
+          "text": "Laplace's law"
+        },
+        {
+          "label": "E",
+          "text": "Fick's law of diffusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Laplace's law states that the collapsing pressure to keep an alveolus open is directly proportional to surface tension and inversely proportional to radius. Surfactant lowers surface tension, reducing collapse pressure.",
+        "whyCorrect": "Laplace's law (P = 2T/r) states that intra-alveolar collapsing pressure is directly proportional to surface tension (T) and inversely proportional to alveolar radius (r). Surfactant reduces surface tension, lowering collapse pressure and allowing alveoli to remain open.",
+        "whyWrongByChoice": {
+          "A": "Bernoulli's principle relates fluid velocity to pressure in streamline flow, not alveolar surface tension.",
+          "B": "Boyle's law describes the inverse relationship between gas volume and pressure, relevant to ventilation but not surfactant mechanics.",
+          "C": "Dalton's law states that total gas pressure equals the sum of partial pressures, relevant to gas exchange but not alveolar collapse.",
+          "E": "Fick's law describes gas diffusion rates across membranes, not alveolar collapse mechanics."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "Laplace-law",
+        "surfactant",
+        "surface-tension"
+      ]
+    },
+    {
+      "id": "r22-035",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 26 weeks is treated for NRDS with mechanical ventilation and supplemental oxygen for 6 weeks. At 3 months, the infant continues to require supplemental oxygen with persistent bilateral haziness on chest X-ray. Which complication has most likely developed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchopulmonary dysplasia"
+        },
+        {
+          "label": "B",
+          "text": "Congenital lobar emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Persistent pulmonary hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary hypoplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bronchopulmonary dysplasia (BPD) is a chronic lung disease developing in premature infants following prolonged mechanical ventilation and oxygen therapy for NRDS.",
+        "whyCorrect": "BPD is the most common chronic complication of NRDS. The combination of barotrauma from ventilation and oxygen toxicity damages the developing lung, leading to chronic disease with persistent oxygen dependence.",
+        "whyWrongByChoice": {
+          "B": "Congenital lobar emphysema is a congenital malformation, not a complication of NRDS treatment.",
+          "C": "Cystic fibrosis is a genetic disorder caused by CFTR mutations, not a complication of prematurity.",
+          "D": "Persistent pulmonary hypertension is an acute condition at birth, not a chronic complication developing over months.",
+          "E": "Pulmonary hypoplasia is underdevelopment from congenital causes, not a complication of NRDS treatment."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "bronchopulmonary-dysplasia",
+        "complications",
+        "prematurity"
+      ]
+    },
+    {
+      "id": "r22-036",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A newborn delivered at 35 weeks develops mild tachypnea and subcostal retractions 2 hours after birth. Chest X-ray shows fluid in the interlobar fissures and mild bilateral perihilar streaking. The symptoms resolve within 24 hours without intervention. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Congenital pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Meconium aspiration syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal respiratory distress syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Transient tachypnea of the newborn"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transient tachypnea of the newborn (TTN) is caused by failure to clear fetal alveolar fluid. It presents with mild respiratory distress in near-term infants and resolves within 24-78 hours.",
+        "whyCorrect": "TTN is the most common cause of neonatal respiratory distress. It results from delayed clearance of fetal alveolar fluid. Chest X-ray shows interstitial edema, fluid in fissures, and small pleural effusions. It resolves spontaneously within 24-78 hours.",
+        "whyWrongByChoice": {
+          "A": "Congenital pneumonia would not resolve within 24 hours without antibiotics.",
+          "B": "Meconium aspiration occurs in term or post-term infants and shows patchy infiltrates with hyperinflation.",
+          "C": "NRDS shows ground-glass opacities, progressively worsens, and does not resolve spontaneously within 24 hours.",
+          "E": "Pneumothorax shows unilateral hyperlucency, not bilateral perihilar streaking."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "transient-tachypnea",
+        "differential-diagnosis",
+        "TTN"
+      ]
+    },
+    {
+      "id": "r22-037",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "During fetal life, the lungs are fluid-filled and do not perform gas exchange. Oxygenated blood reaches the fetus through the placenta. Which of the following fetal circulatory structures allows blood to bypass the pulmonary circulation in utero?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "Umbilical vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ductus arteriosus connects the pulmonary artery to the aorta, shunting blood away from the non-functioning fetal lungs directly into the systemic circulation.",
+        "whyCorrect": "In fetal circulation, the ductus arteriosus connects the pulmonary artery to the descending aorta, allowing most right ventricular output to bypass the lungs. Along with the foramen ovale, it ensures blood bypasses the non-functional pulmonary circulation.",
+        "whyWrongByChoice": {
+          "A": "The coronary sinus drains blood from the heart muscle into the right atrium. It does not bypass the lungs.",
+          "C": "The ductus venosus connects the umbilical vein to the IVC, bypassing the liver, not the lungs.",
+          "D": "The IVC returns systemic venous blood to the right atrium. It is not a pulmonary bypass structure.",
+          "E": "The umbilical vein carries oxygenated blood from the placenta. It does not bypass the lungs."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "fetal-circulation",
+        "ductus-arteriosus",
+        "physiology"
+      ]
+    },
+    {
+      "id": "r22-038",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 29 weeks develops respiratory distress syndrome. Arterial blood gas shows pH 7.20, PaO2 40 mmHg, PaCO2 65 mmHg, and HCO3 24 mEq/L. Which physiologic mechanism best explains the hypercapnia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased metabolic CO2 production"
+        },
+        {
+          "label": "B",
+          "text": "Impaired gas exchange from atelectasis"
+        },
+        {
+          "label": "C",
+          "text": "Increased bicarbonate reabsorption"
+        },
+        {
+          "label": "D",
+          "text": "Increased dead space from pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory compensation for metabolic acidosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In NRDS, widespread atelectasis from surfactant deficiency reduces alveolar surface area for gas exchange, leading to both hypoxemia and hypercapnia.",
+        "whyCorrect": "Surfactant deficiency causes widespread alveolar collapse, dramatically reducing the surface area for gas exchange. Collapsed alveoli cannot participate in ventilation, creating V/Q mismatch and resulting in both hypoxemia and hypercapnia.",
+        "whyWrongByChoice": {
+          "A": "Decreased CO2 production would lower PaCO2, not increase it.",
+          "C": "Increased bicarbonate reabsorption is a renal compensatory response, not a cause of hypercapnia.",
+          "D": "Pulmonary embolism is extremely rare in neonates. The hypercapnia is from surfactant-deficiency atelectasis.",
+          "E": "In metabolic acidosis, respiratory compensation lowers PaCO2. The elevated PaCO2 here indicates respiratory acidosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "hypercapnia",
+        "atelectasis",
+        "blood-gas"
+      ]
+    },
+    {
+      "id": "r22-039",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A nurse in the neonatal ICU observes that a 28-week premature infant with respiratory distress makes a low, guttural sound with each expiration. Which of the following best explains the physiologic purpose of this sound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clearing mucus from large airways"
+        },
+        {
+          "label": "B",
+          "text": "Expelling excess surfactant from alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Generating positive pressure to prevent collapse"
+        },
+        {
+          "label": "D",
+          "text": "Indicating pain from chest retractions"
+        },
+        {
+          "label": "E",
+          "text": "Signaling hunger to the caregiver"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Expiratory grunting occurs when the infant exhales against a partially closed glottis, generating positive airway pressure that helps keep collapsing alveoli open.",
+        "whyCorrect": "Expiratory grunting is a compensatory mechanism. By exhaling against a partially closed glottis, the infant creates auto-PEEP in the airways, helping keep surfactant-deficient alveoli from collapsing, functioning similarly to CPAP.",
+        "whyWrongByChoice": {
+          "A": "Grunting is not a mechanism for clearing mucus. It is a pressure-generating maneuver.",
+          "B": "Infants with NRDS have surfactant deficiency, not excess. The grunting compensates for lack of surfactant.",
+          "D": "Grunting is not a pain response. It is a purposeful physiologic compensation for impending alveolar collapse.",
+          "E": "Persistent expiratory grunting with respiratory distress is a pathologic sign, not a hunger cue."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "expiratory-grunting",
+        "clinical-signs",
+        "compensation"
+      ]
+    },
+    {
+      "id": "r22-040",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A 32-week gestational age infant with neonatal respiratory distress syndrome develops worsening abdominal distension, bloody stools, and pneumatosis intestinalis on abdominal X-ray on day 5 of life. Which complication of prematurity has developed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenal atresia"
+        },
+        {
+          "label": "B",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "C",
+          "text": "Intussusception"
+        },
+        {
+          "label": "D",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "E",
+          "text": "Necrotizing enterocolitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Necrotizing enterocolitis (NEC) is a serious GI complication of prematurity, presenting with abdominal distension, bloody stools, and pneumatosis intestinalis on X-ray.",
+        "whyCorrect": "NEC is the most common gastrointestinal emergency in premature neonates. The triad of abdominal distension, bloody stools, and pneumatosis intestinalis (air within the bowel wall) is classic.",
+        "whyWrongByChoice": {
+          "A": "Duodenal atresia presents with bilious vomiting and a 'double bubble' sign at birth, not pneumatosis.",
+          "B": "Hirschsprung disease presents with failure to pass meconium, not bloody stools and pneumatosis.",
+          "C": "Intussusception typically occurs in older infants (6-36 months), not premature neonates.",
+          "D": "Meconium ileus is associated with cystic fibrosis and presents with bowel obstruction at birth."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "NEC",
+        "prematurity",
+        "complications"
+      ]
+    },
+    {
+      "id": "r22-041",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant born at 28 weeks develops respiratory distress syndrome. The neonatologist explains that surfactant therapy maintains the infant for 3-4 days until endogenous production begins. During which trimester does surfactant production normally begin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First trimester"
+        },
+        {
+          "label": "B",
+          "text": "Early second trimester"
+        },
+        {
+          "label": "C",
+          "text": "Third trimester"
+        },
+        {
+          "label": "D",
+          "text": "Late second trimester"
+        },
+        {
+          "label": "E",
+          "text": "Only at the time of birth"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surfactant production by type 2 pneumocytes begins during the third trimester. Infants born before adequate surfactant has been produced are at risk for NRDS.",
+        "whyCorrect": "Surfactant is produced by type 2 pneumocytes during the third trimester (approximately 24-28 weeks onward, with adequate levels by 34-36 weeks). This is why infants born before 34 weeks are at significant risk for NRDS.",
+        "whyWrongByChoice": {
+          "A": "During the first trimester, the lungs are in the embryonic stage. Type 2 pneumocytes have not yet differentiated.",
+          "B": "During the early second trimester, type 2 pneumocytes are not yet producing surfactant.",
+          "D": "While some early precursors may be present in the late second trimester, meaningful production occurs in the third trimester.",
+          "E": "Surfactant must be present before birth. If produced only at birth, all infants would develop respiratory distress."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "surfactant",
+        "lung-development",
+        "third-trimester"
+      ]
+    },
+    {
+      "id": "r22-042",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A 33-week gestational age male infant born via cesarean section develops respiratory distress. Male infants have a higher incidence of NRDS than females at the same gestational age. Which of the following additional factors in this infant's history also increases the risk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "African American ethnicity"
+        },
+        {
+          "label": "B",
+          "text": "Cesarean section delivery"
+        },
+        {
+          "label": "C",
+          "text": "Maternal preeclampsia"
+        },
+        {
+          "label": "D",
+          "text": "Post-term pregnancy"
+        },
+        {
+          "label": "E",
+          "text": "Singleton gestation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cesarean section delivery is a risk factor for NRDS because it bypasses the thoracic compression and catecholamine surge of vaginal delivery that help clear fetal lung fluid.",
+        "whyCorrect": "Cesarean delivery bypasses the thoracic compression that expels fetal lung fluid and the labor-induced catecholamine surge that promotes fluid clearance. This increases respiratory distress risk.",
+        "whyWrongByChoice": {
+          "A": "White ethnicity, not African American, is listed as a risk factor for NRDS.",
+          "C": "Maternal preeclampsia may actually accelerate fetal lung maturity through chronic stress.",
+          "D": "Post-term pregnancy is associated with mature lungs. NRDS risk increases with prematurity.",
+          "E": "Multifetal gestations increase NRDS risk, not singleton pregnancies."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "cesarean-section",
+        "risk-factors",
+        "male-sex"
+      ]
+    },
+    {
+      "id": "r22-043",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A premature infant with NRDS is on day 2 of life with progressively worsening respiratory distress. The neonatologist notes that atelectasis leads to pulmonary edema, which further worsens lung compliance. Which of the following best describes the effect of decreased lung compliance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased airway resistance"
+        },
+        {
+          "label": "B",
+          "text": "Decreased functional residual capacity"
+        },
+        {
+          "label": "C",
+          "text": "Decreased respiratory rate"
+        },
+        {
+          "label": "D",
+          "text": "Increased tidal volume"
+        },
+        {
+          "label": "E",
+          "text": "Increased work of breathing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Decreased lung compliance (increased stiffness) means more effort is required to expand the lungs with each breath, substantially increasing the work of breathing and eventually leading to respiratory failure.",
+        "whyCorrect": "Both atelectasis and pulmonary edema reduce lung compliance. A less compliant lung requires greater pressure changes to achieve the same tidal volume, dramatically increasing the work of breathing, leading to fatigue and respiratory failure.",
+        "whyWrongByChoice": {
+          "A": "Decreased lung compliance does not decrease airway resistance. These are separate mechanical properties.",
+          "B": "While atelectasis does decrease functional residual capacity, this is a separate effect from compliance.",
+          "C": "Decreased compliance increases, not decreases, respiratory rate as the infant compensates.",
+          "D": "Decreased compliance reduces tidal volume because the stiff lungs are harder to inflate."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "lung-compliance",
+        "work-of-breathing",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r22-044",
+      "topicId": "neonatal-rds",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "A pregnant woman at 30 weeks' gestation has preterm premature rupture of membranes. The obstetrician plans antenatal corticosteroids. For optimal benefit in reducing NRDS, how long before delivery should they ideally be given?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1-2 hours before delivery"
+        },
+        {
+          "label": "B",
+          "text": "2-7 days before delivery"
+        },
+        {
+          "label": "C",
+          "text": "12-24 hours before delivery"
+        },
+        {
+          "label": "D",
+          "text": "2-4 weeks before delivery"
+        },
+        {
+          "label": "E",
+          "text": "At the time of delivery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Antenatal corticosteroids provide optimal benefit when given 2-7 days before delivery, allowing sufficient time to accelerate type 2 pneumocyte maturation and surfactant production.",
+        "whyCorrect": "Antenatal corticosteroids should ideally be given 2-7 days prior to expected delivery. This window allows the corticosteroids to cross the placenta and stimulate fetal pneumocyte maturation and surfactant production.",
+        "whyWrongByChoice": {
+          "A": "1-2 hours is insufficient time for corticosteroids to exert their effect on fetal lung maturation.",
+          "C": "While 24 hours provides some partial benefit, the optimal window is 2-7 days.",
+          "D": "2-4 weeks is too early. Benefits diminish beyond 7 days.",
+          "E": "Administration at delivery provides no benefit, as the corticosteroids require time to work."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "neonatal-RDS",
+        "antenatal-corticosteroids",
+        "timing",
+        "prevention"
+      ]
+    },
+    {
+      "id": "r23-001",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 48-year-old man presents to his primary care physician because his wife reports that he stops breathing during sleep. He has been increasingly tired during the day and has fallen asleep at work twice in the past month. His BMI is 34 kg/m2, blood pressure is 152/94 mm Hg, and neck circumference is 44 cm. Physical examination reveals a crowded oropharynx. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Begin continuous positive airway pressure"
+        },
+        {
+          "label": "B",
+          "text": "Prescribe modafinil for daytime sleepiness"
+        },
+        {
+          "label": "C",
+          "text": "Refer for uvulopalatopharyngoplasty"
+        },
+        {
+          "label": "D",
+          "text": "Order polysomnography"
+        },
+        {
+          "label": "E",
+          "text": "Recommend weight loss alone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has classic features of obstructive sleep apnea (witnessed apneas, excessive daytime sleepiness, obesity, hypertension, large neck circumference). Polysomnography is the gold standard diagnostic test and must be performed before initiating treatment.",
+        "whyCorrect": "Polysomnography (PSG) is the gold standard for diagnosing sleep apnea. It measures brain activity, oxygen saturation, and respiratory effort during sleep and provides the apnea-hypopnea index (AHI), which is essential for confirming the diagnosis and determining severity before treatment is initiated.",
+        "whyWrongByChoice": {
+          "A": "CPAP is the first-line treatment for OSA, but the diagnosis must be confirmed with polysomnography before initiating therapy.",
+          "B": "Modafinil may be used as adjunctive therapy for residual daytime sleepiness in OSA patients already on CPAP. It does not address the underlying airway obstruction.",
+          "C": "Surgery is reserved for patients with specific anatomical abnormalities who have failed or cannot tolerate CPAP. It is not appropriate before establishing a diagnosis.",
+          "E": "Weight loss is an important lifestyle modification but alone is insufficient. The patient needs diagnostic confirmation and definitive treatment given his significant symptoms."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "polysomnography",
+        "diagnosis",
+        "obesity"
+      ]
+    },
+    {
+      "id": "r23-002",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 55-year-old obese man is diagnosed with obstructive sleep apnea after polysomnography reveals an apnea-hypopnea index of 38 events per hour. He is started on continuous positive airway pressure (CPAP) therapy. Which of the following best describes the mechanism by which CPAP improves his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delivers high-concentration supplemental oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Increases brainstem respiratory drive"
+        },
+        {
+          "label": "C",
+          "text": "Maintains upper airway patency with pressure"
+        },
+        {
+          "label": "D",
+          "text": "Stimulates pharyngeal muscle contraction"
+        },
+        {
+          "label": "E",
+          "text": "Reduces pulmonary vascular resistance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CPAP works by delivering air at a pressure sufficient to overcome pharyngeal collapse, thereby maintaining patency of the upper airway during sleep and preventing obstructive events.",
+        "whyCorrect": "CPAP delivers continuous positive pressure through a mask that pneumatically splints the upper airway open. This prevents the pharyngeal collapse that occurs during sleep in patients with OSA, maintaining airway patency and allowing unobstructed ventilation throughout the night.",
+        "whyWrongByChoice": {
+          "A": "CPAP delivers room air at positive pressure, not supplemental oxygen. Its primary mechanism is maintaining airway patency, not increasing the fraction of inspired oxygen.",
+          "B": "CPAP does not stimulate brainstem respiratory centers. It mechanically prevents airway collapse. Central respiratory drive stimulation would be relevant for central sleep apnea, not OSA.",
+          "D": "CPAP does not directly stimulate pharyngeal muscles. It works by providing a pneumatic splint that keeps the airway open regardless of muscle tone.",
+          "E": "While treating OSA may eventually improve pulmonary pressures, the primary therapeutic mechanism is mechanical maintenance of airway patency."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "CPAP",
+        "mechanism",
+        "treatment",
+        "OSA"
+      ]
+    },
+    {
+      "id": "r23-003",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 60-year-old man with a history of congestive heart failure (ejection fraction 25%) is evaluated for excessive daytime sleepiness. His wife reports progressively deeper breathing followed by periods of no breathing during sleep. A sleep study shows central apneas without evidence of upper airway obstruction. Which of the following breathing patterns is most likely observed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biot breathing"
+        },
+        {
+          "label": "B",
+          "text": "Cheyne-Stokes respiration"
+        },
+        {
+          "label": "C",
+          "text": "Kussmaul breathing"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive hypopneas"
+        },
+        {
+          "label": "E",
+          "text": "Paradoxical breathing"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cheyne-Stokes respiration is a pattern of cyclically waxing and waning tidal volumes with interposed central apneas, classically associated with severe heart failure and central sleep apnea.",
+        "whyCorrect": "Cheyne-Stokes respiration is characterized by a crescendo-decrescendo pattern of breathing alternating with periods of apnea. It is strongly associated with heart failure because prolonged circulation time delays the detection of blood gas changes by central chemoreceptors, causing an oscillating overshoot-undershoot cycle in ventilation.",
+        "whyWrongByChoice": {
+          "A": "Biot breathing (ataxic breathing) consists of irregular and unpredictable periods of apnea alternating with breathing. It is typically associated with brainstem damage, not heart failure.",
+          "C": "Kussmaul breathing is deep, rapid, and labored breathing in response to metabolic acidosis (e.g., diabetic ketoacidosis). It is not associated with central sleep apnea.",
+          "D": "Obstructive hypopneas involve partial airflow reduction due to upper airway narrowing with continued respiratory effort. This patient has central apneas without obstruction.",
+          "E": "Paradoxical breathing occurs when the chest wall and abdomen move in opposite directions, seen in diaphragmatic paralysis or severe upper airway obstruction, not CSA with heart failure."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "Cheyne-Stokes",
+        "heart-failure",
+        "breathing-patterns"
+      ]
+    },
+    {
+      "id": "r23-004",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 4-year-old boy is brought to the pediatrician because of loud snoring, mouth breathing during sleep, and daytime behavioral problems at preschool. On examination, he has tonsillar hypertrophy graded 3+ bilaterally. Polysomnography confirms obstructive sleep apnea with an AHI of 8. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenotonsillectomy"
+        },
+        {
+          "label": "B",
+          "text": "Continuous positive airway pressure"
+        },
+        {
+          "label": "C",
+          "text": "Intranasal fluticasone"
+        },
+        {
+          "label": "D",
+          "text": "Mandibular advancement device"
+        },
+        {
+          "label": "E",
+          "text": "Weight loss counseling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adenotonsillectomy is the first-line treatment for OSA in children with adenotonsillar hypertrophy. It improves daytime behavior, decreases sleepiness, and increases quality of life.",
+        "whyCorrect": "In children, the most common cause of OSA is adenotonsillar hypertrophy. Adenotonsillectomy is recommended first-line therapy because it directly addresses the anatomical cause and has been shown to improve symptoms and quality of life.",
+        "whyWrongByChoice": {
+          "B": "CPAP is the first-line therapy for adults with OSA, not children with adenotonsillar hypertrophy. Surgery is preferred when a correctable cause is identified.",
+          "C": "Intranasal corticosteroids may have a role in mild pediatric OSA but are not first-line when significant adenotonsillar hypertrophy is present.",
+          "D": "Mandibular advancement devices are used in adults with mild to moderate OSA. They are not appropriate for a 4-year-old child.",
+          "E": "Weight loss counseling is relevant for obese patients. This child's OSA is caused by adenotonsillar hypertrophy requiring surgical correction."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pediatric-OSA",
+        "adenotonsillectomy",
+        "treatment",
+        "tonsillar-hypertrophy"
+      ]
+    },
+    {
+      "id": "r23-005",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 50-year-old man with newly diagnosed obstructive sleep apnea asks why his physician is concerned about his blood pressure. His polysomnography showed an AHI of 25 with oxygen desaturation to 78% during events. Which of the following best explains how OSA contributes to systemic hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic respiratory alkalosis from hyperventilation"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cardiac output during apneic episodes"
+        },
+        {
+          "label": "C",
+          "text": "Intermittent hypoxia activating sympathetic tone"
+        },
+        {
+          "label": "D",
+          "text": "Persistent hypercapnia suppressing renin-angiotensin system"
+        },
+        {
+          "label": "E",
+          "text": "Upper airway inflammation extending to vasculature"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Recurrent episodes of intermittent hypoxia during obstructive events trigger sympathetic nervous system activation, leading to systemic vasoconstriction and sustained hypertension.",
+        "whyCorrect": "Repetitive cycles of hypoxia and reoxygenation activate the sympathetic nervous system through peripheral chemoreceptor stimulation. This results in elevated catecholamine levels, vasoconstriction, and an inflammatory response contributing to sustained systemic hypertension even during waking hours.",
+        "whyWrongByChoice": {
+          "A": "OSA causes intermittent hypoxia and hypercapnia, not chronic respiratory alkalosis. Hyperventilation is not a feature of obstructive sleep apnea.",
+          "B": "While cardiac output may transiently decrease during severe apneas, the primary mechanism of hypertension is sympathetically mediated vasoconstriction from intermittent hypoxia.",
+          "D": "OSA is associated with intermittent hypercapnia, but this does not suppress the renin-angiotensin system. Sympathetic activation tends to stimulate this system.",
+          "E": "While OSA is associated with systemic inflammation, the primary mechanism of hypertension is sympathetic activation from intermittent hypoxia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "hypertension",
+        "pathophysiology",
+        "sympathetic-activation"
+      ]
+    },
+    {
+      "id": "r23-006",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 45-year-old woman presents with excessive daytime sleepiness and morning headaches. She denies snoring but her husband reports frequent pauses in breathing during sleep. She has a BMI of 23 kg/m2 and a normal oropharyngeal examination. Her history is significant for a brainstem stroke 6 months ago. A sleep study shows frequent apneas without respiratory effort. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central sleep apnea"
+        },
+        {
+          "label": "B",
+          "text": "Narcolepsy"
+        },
+        {
+          "label": "C",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "D",
+          "text": "Obesity hypoventilation syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Upper airway resistance syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Apneas without respiratory effort on polysomnography indicate central sleep apnea. Her brainstem stroke is a recognized cause of CSA due to impaired central respiratory drive.",
+        "whyCorrect": "Central sleep apnea is characterized by cessation of airflow without respiratory effort, distinguishing it from OSA where effort against a closed airway is present. Brainstem strokes can damage respiratory centers, impairing the CNS drive to breathe. Her normal BMI and oropharynx further argue against an obstructive etiology.",
+        "whyWrongByChoice": {
+          "B": "Narcolepsy causes excessive daytime sleepiness but is characterized by cataplexy, hypnagogic hallucinations, and sleep paralysis, not apneic episodes without respiratory effort.",
+          "C": "OSA is characterized by apneas with continued respiratory effort against a collapsed upper airway. This patient has apneas without effort.",
+          "D": "Obesity hypoventilation syndrome requires obesity (BMI >=30) with chronic daytime hypercapnia. This patient has a normal BMI of 23.",
+          "E": "Upper airway resistance syndrome involves increased respiratory effort against a partially obstructed airway, not apneas without respiratory effort."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "brainstem-stroke",
+        "diagnosis",
+        "respiratory-effort"
+      ]
+    },
+    {
+      "id": "r23-007",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 62-year-old man with a BMI of 42 kg/m2 presents with worsening dyspnea, daytime somnolence, and lower extremity edema. Arterial blood gas on room air shows pH 7.34, PaCO2 52 mm Hg, PaO2 58 mm Hg, and HCO3 30 mEq/L. Pulmonary function tests show a mild restrictive pattern. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic obstructive pulmonary disease"
+        },
+        {
+          "label": "B",
+          "text": "Congestive heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Idiopathic pulmonary fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Obesity hypoventilation syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Obesity hypoventilation syndrome (Pickwickian syndrome) is defined by obesity (BMI >=30), chronic daytime hypoventilation (PaCO2 >45 mm Hg), and hypoxemia not attributed to another condition. The elevated HCO3 confirms chronicity.",
+        "whyCorrect": "This patient meets all criteria for OHS: morbid obesity (BMI 42), chronic daytime hypercapnia (PaCO2 52), and hypoxemia (PaO2 58). The elevated bicarbonate indicates metabolic compensation for chronic respiratory acidosis. The restrictive PFT pattern is consistent with decreased chest wall compliance from obesity.",
+        "whyWrongByChoice": {
+          "A": "COPD causes an obstructive pattern on PFTs, not the restrictive pattern seen here. COPD is typically associated with smoking, not morbid obesity.",
+          "B": "While heart failure can cause dyspnea and edema, it does not typically present with chronic hypercapnia and a restrictive PFT pattern.",
+          "C": "IPF causes a restrictive pattern but presents with fine bibasilar crackles and does not cause chronic hypercapnia in early stages.",
+          "E": "Pulmonary embolism causes acute hypoxemia and hypocapnia from hyperventilation, not chronic hypercapnia with metabolic compensation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OHS",
+        "Pickwickian",
+        "hypercapnia",
+        "obesity"
+      ]
+    },
+    {
+      "id": "r23-008",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 58-year-old man is being evaluated for resistant hypertension despite adherence to three antihypertensive medications. His wife reports loud snoring and breathing pauses during sleep. He is obese with a BMI of 33 kg/m2. Which of the following is the most likely underlying cause of his resistant hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cushing syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Pheochromocytoma"
+        },
+        {
+          "label": "C",
+          "text": "Primary hyperaldosteronism"
+        },
+        {
+          "label": "D",
+          "text": "Renal artery stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Obstructive sleep apnea"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Obstructive sleep apnea is a common and often underrecognized cause of secondary (resistant) hypertension. The combination of snoring, witnessed apneas, and obesity strongly suggests OSA.",
+        "whyCorrect": "OSA is one of the most common causes of resistant hypertension. Intermittent hypoxia triggers sustained sympathetic activation and inflammatory responses contributing to hypertension refractory to standard pharmacotherapy. This patient has classic OSA risk factors and symptoms.",
+        "whyWrongByChoice": {
+          "A": "Cushing syndrome can cause hypertension but typically presents with moon facies, striae, muscle weakness, and glucose intolerance.",
+          "B": "Pheochromocytoma causes episodic hypertension with paroxysmal headaches, diaphoresis, and palpitations. The clinical picture here is more consistent with OSA.",
+          "C": "Primary hyperaldosteronism causes resistant hypertension but the sleep-related symptoms make OSA the most likely diagnosis.",
+          "D": "Renal artery stenosis can cause resistant hypertension but there is no abdominal bruit or renal insufficiency described. The sleep symptoms point to OSA."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "resistant-hypertension",
+        "secondary-hypertension",
+        "complications"
+      ]
+    },
+    {
+      "id": "r23-009",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 52-year-old man undergoes polysomnography for suspected sleep apnea. The study reveals 22 episodes per hour of complete airflow cessation lasting at least 10 seconds, all associated with continued chest and abdominal wall movement. Which of the following best characterizes these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Central apneas, moderate severity"
+        },
+        {
+          "label": "B",
+          "text": "Mixed apneas, mild severity"
+        },
+        {
+          "label": "C",
+          "text": "Obstructive apneas, moderate severity"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive apneas, severe severity"
+        },
+        {
+          "label": "E",
+          "text": "Obstructive hypopneas, mild severity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Complete cessation of airflow with continued respiratory effort (chest and abdominal movement) defines obstructive apneas. An AHI of 22 falls in the moderate range (15-30 events/hour).",
+        "whyCorrect": "Continued respiratory effort despite absent airflow is the hallmark of obstructive apneas. An AHI of 22 classifies as moderate severity (mild: 5-15, moderate: 15-30, severe: >30).",
+        "whyWrongByChoice": {
+          "A": "Central apneas are characterized by absence of both airflow and respiratory effort. This patient has continued chest and abdominal movement.",
+          "B": "Mixed apneas have an initial central component followed by an obstructive component. All events here show continuous effort. Also, 22/hour is moderate, not mild.",
+          "D": "Severe OSA is AHI greater than 30. This patient has an AHI of 22, which is moderate.",
+          "E": "Hypopneas are partial reductions in airflow, not complete cessation. These events involve complete cessation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polysomnography",
+        "AHI",
+        "severity",
+        "obstructive-apnea"
+      ]
+    },
+    {
+      "id": "r23-010",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 65-year-old man with NYHA class III heart failure and central sleep apnea has persistent symptoms despite optimization of heart failure therapy. His sleep study shows an AHI of 35 with predominantly central apneas. Which of the following is the most appropriate initial treatment for his sleep-disordered breathing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continuous positive airway pressure"
+        },
+        {
+          "label": "B",
+          "text": "Acetazolamide"
+        },
+        {
+          "label": "C",
+          "text": "Bilevel positive airway pressure"
+        },
+        {
+          "label": "D",
+          "text": "Mandibular advancement device"
+        },
+        {
+          "label": "E",
+          "text": "Supplemental oxygen alone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CPAP is the initial positive airway pressure therapy recommended for central sleep apnea associated with heart failure, as it can reduce central apneas and improve cardiac function.",
+        "whyCorrect": "For CSA due to heart failure, CPAP is recommended as initial positive pressure therapy. CPAP reduces preload and afterload, improving cardiac function while stabilizing ventilation.",
+        "whyWrongByChoice": {
+          "B": "Acetazolamide has been studied for altitude-related CSA but is not standard first-line therapy for heart failure-related CSA.",
+          "C": "BiPAP may be considered for CSA patients who fail CPAP, but CPAP is the initial therapy to try.",
+          "D": "Mandibular advancement devices are designed for obstructive sleep apnea. They have no role in central sleep apnea.",
+          "E": "Supplemental oxygen alone may partially reduce central apneas but does not address the underlying ventilatory instability."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "heart-failure",
+        "CPAP",
+        "treatment"
+      ]
+    },
+    {
+      "id": "r23-011",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 35-year-old woman with a BMI of 24 kg/m2 presents with daytime fatigue and unrefreshing sleep. She denies snoring. She takes oxycodone daily for chronic back pain. A sleep study reveals an AHI of 18, with apneas occurring without respiratory effort. Which of the following is the most likely mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased pharyngeal muscle tone from opioids"
+        },
+        {
+          "label": "B",
+          "text": "Fat deposition narrowing upper airway"
+        },
+        {
+          "label": "C",
+          "text": "Opioid suppression of central respiratory drive"
+        },
+        {
+          "label": "D",
+          "text": "Retrognathia causing airway obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Tonsillar hypertrophy obstructing oropharynx"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has central sleep apnea caused by chronic opioid use. Opioids suppress brainstem respiratory centers, leading to apneas without respiratory effort.",
+        "whyCorrect": "Opioids are a well-established cause of central sleep apnea. They suppress brainstem respiratory centers, reducing central drive to breathe during sleep. The apneas without respiratory effort confirm the central nature. Normal BMI, absent snoring, and lack of anatomical abnormalities argue against obstructive causes.",
+        "whyWrongByChoice": {
+          "A": "Decreased pharyngeal muscle tone would produce obstructive apneas with continued respiratory effort. This patient has apneas without effort.",
+          "B": "Fat deposition causes obstructive sleep apnea. This patient has a normal BMI, and her apneas are central.",
+          "D": "Retrognathia causes obstructive sleep apnea with respiratory effort. This patient's apneas are central.",
+          "E": "Tonsillar hypertrophy causes obstructive sleep apnea with snoring and respiratory effort, neither of which is present."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "opioids",
+        "central-respiratory-drive",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r23-012",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 42-year-old man with moderate obstructive sleep apnea (AHI 20) cannot tolerate CPAP despite multiple mask adjustments. He has a BMI of 28 kg/m2 and normal tonsils. Which of the following is the most appropriate alternative therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenotonsillectomy"
+        },
+        {
+          "label": "B",
+          "text": "Mandibular advancement device"
+        },
+        {
+          "label": "C",
+          "text": "Bilevel positive airway pressure"
+        },
+        {
+          "label": "D",
+          "text": "Hypoglossal nerve stimulator"
+        },
+        {
+          "label": "E",
+          "text": "Tracheostomy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mandibular advancement devices are the recommended alternative for patients with mild to moderate OSA who cannot tolerate CPAP. They advance the mandible forward, enlarging the pharyngeal airway.",
+        "whyCorrect": "Oral appliances such as mandibular advancement devices are recommended for patients with mild to moderate OSA who fail CPAP. They work by advancing the mandible and tongue forward, increasing pharyngeal space.",
+        "whyWrongByChoice": {
+          "A": "Adenotonsillectomy is first-line for children with OSA from tonsillar hypertrophy. This adult has normal tonsils.",
+          "C": "BiPAP provides bilevel pressures for central sleep apnea or patients requiring higher inspiratory pressures, not for CPAP mask intolerance in OSA.",
+          "D": "Hypoglossal nerve stimulation is emerging therapy for selected patients who fail CPAP. An oral appliance trial is typically first.",
+          "E": "Tracheostomy is a last-resort treatment. It is not appropriate for moderate OSA with available alternatives."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "mandibular-advancement",
+        "oral-appliance",
+        "CPAP-intolerance"
+      ]
+    },
+    {
+      "id": "r23-013",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 47-year-old man with untreated obstructive sleep apnea presents to the emergency department after a motor vehicle accident. He reports falling asleep at the wheel. His wife has been urging him to seek treatment for loud snoring. Which of the following is this event an example of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arrhythmia-related syncope"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxia-induced seizure"
+        },
+        {
+          "label": "C",
+          "text": "Narcoleptic episode"
+        },
+        {
+          "label": "D",
+          "text": "Transient ischemic attack"
+        },
+        {
+          "label": "E",
+          "text": "Excessive daytime sleepiness-related accident"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Untreated OSA causes fragmented sleep from recurrent arousals, leading to excessive daytime sleepiness that significantly increases motor vehicle accident risk.",
+        "whyCorrect": "Excessive daytime sleepiness is a major consequence of fragmented sleep in untreated OSA. Patients have significantly increased risk of drowsy driving and motor vehicle accidents.",
+        "whyWrongByChoice": {
+          "A": "While OSA is associated with arrhythmias, the patient reports falling asleep, consistent with excessive daytime sleepiness rather than syncope.",
+          "B": "Hypoxia-induced seizures would present with convulsive activity, not gradual sleep onset.",
+          "C": "Narcolepsy is a separate disorder with cataplexy and sleep paralysis. This patient's sleepiness is from untreated OSA.",
+          "D": "TIAs cause focal neurological deficits, not gradual sleep onset while driving."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "daytime-sleepiness",
+        "motor-vehicle-accident",
+        "complications"
+      ]
+    },
+    {
+      "id": "r23-014",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 56-year-old man with OSA treated with CPAP for 3 years presents for follow-up. His wife reports resolved snoring and no apneic episodes. However, he has persistent morning headaches. An arterial blood gas shows PaCO2 of 50 mm Hg while awake. His BMI is 38 kg/m2. Which of the following best explains his persistent symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CPAP machine malfunction"
+        },
+        {
+          "label": "B",
+          "text": "Coexisting central sleep apnea"
+        },
+        {
+          "label": "C",
+          "text": "Inadequate CPAP pressure settings"
+        },
+        {
+          "label": "D",
+          "text": "Coexisting obesity hypoventilation syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Tension-type headache unrelated to apnea"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Morning headaches and daytime hypercapnia despite well-controlled OSA suggest coexisting obesity hypoventilation syndrome, characterized by obesity with chronic daytime hypercapnia not explained by another condition.",
+        "whyCorrect": "OHS is defined by obesity (BMI >=30), chronic awake hypoventilation (PaCO2 >45 mm Hg), and sleep-disordered breathing. It frequently coexists with OSA. Despite adequate CPAP controlling obstructive events, the chronic hypercapnia and morning headaches indicate OHS requiring additional management.",
+        "whyWrongByChoice": {
+          "A": "CPAP malfunction would result in recurrent obstructive events and snoring. The wife confirms these are resolved.",
+          "B": "While CSA can coexist with OSA, awake hypercapnia is more consistent with OHS than isolated CSA.",
+          "C": "Inadequate CPAP pressure would fail to resolve snoring and apneas, which are reported as resolved.",
+          "E": "Morning headaches with awake hypercapnia are due to CO2 retention causing cerebral vasodilation, not coincidental tension headache."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "OHS",
+        "OSA",
+        "hypercapnia",
+        "morning-headaches"
+      ]
+    },
+    {
+      "id": "r23-015",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 40-year-old man is referred for a sleep study. He has a BMI of 32 kg/m2 and reports loud snoring. The study can be done in a sleep laboratory or at home. Which of the following measurements is available with in-laboratory polysomnography but typically NOT with home sleep testing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airflow measurement"
+        },
+        {
+          "label": "B",
+          "text": "Electroencephalography"
+        },
+        {
+          "label": "C",
+          "text": "Heart rate monitoring"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen saturation"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory effort"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Home sleep apnea testing devices typically do not include EEG, meaning they cannot reliably detect arousals or determine sleep stages, unlike in-laboratory polysomnography.",
+        "whyCorrect": "In-laboratory PSG includes EEG monitoring for sleep staging and arousal detection. Most home devices lack EEG, so they cannot identify sleep stages or arousals, potentially underestimating the AHI since total sleep time cannot be accurately determined.",
+        "whyWrongByChoice": {
+          "A": "Airflow measurement is a core component of both in-laboratory PSG and home devices.",
+          "C": "Heart rate monitoring is included in both settings through pulse oximetry or ECG.",
+          "D": "Oxygen saturation via pulse oximetry is standard in both in-laboratory and home testing.",
+          "E": "Many home devices include respiratory effort bands, though quality may vary. EEG is the major absent modality."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "polysomnography",
+        "HSAT",
+        "EEG",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "r23-016",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 68-year-old man with atrial fibrillation and congestive heart failure presents with worsening daytime sleepiness. His wife describes progressively deeper breathing, then shallower, followed by a pause, in a repeating cycle throughout the night. Which pathophysiological mechanism best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pharyngeal muscle collapse during REM sleep"
+        },
+        {
+          "label": "B",
+          "text": "Delayed chemoreceptor feedback from prolonged circulation"
+        },
+        {
+          "label": "C",
+          "text": "Diaphragmatic fatigue from chronic heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Increased peripheral oxygen chemoreceptor sensitivity"
+        },
+        {
+          "label": "E",
+          "text": "Vagal nerve stimulation from atrial distension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In heart failure, prolonged circulatory time delays blood gas information from reaching central chemoreceptors, creating an overshoot-undershoot ventilatory pattern manifesting as Cheyne-Stokes respiration.",
+        "whyCorrect": "Heart failure causes prolonged circulation time, so changes in blood gas tensions take longer to reach brainstem chemoreceptors. This delay creates feedback loop instability: by the time the brain detects rising PaCO2, hyperventilation overshoots, dropping PaCO2 below the apneic threshold and causing apnea. The cycle repeats.",
+        "whyWrongByChoice": {
+          "A": "Pharyngeal muscle collapse is the mechanism of OSA. This patient has a crescendo-decrescendo pattern consistent with central sleep apnea.",
+          "C": "Diaphragmatic fatigue does not produce cyclical crescendo-decrescendo breathing. CSA with heart failure is due to ventilatory control instability.",
+          "D": "The key mechanism involves central CO2 chemoreceptors with delayed feedback, not peripheral oxygen chemoreceptors.",
+          "E": "While atrial distension occurs in heart failure, vagal stimulation does not cause periodic breathing. The mechanism is delayed circulatory feedback."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "Cheyne-Stokes",
+        "circulatory-time",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "r23-017",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 50-year-old man with severe OSA (AHI 45) has been on CPAP for 6 months but removes it after 2 hours nightly. He drinks 3 beers every evening and takes lorazepam for anxiety before bed. Which recommendation is most likely to improve his sleep apnea symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add supplemental oxygen to CPAP circuit"
+        },
+        {
+          "label": "B",
+          "text": "Increase CPAP pressure to compensate"
+        },
+        {
+          "label": "C",
+          "text": "Replace CPAP with mandibular device"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue alcohol and sedatives before sleep"
+        },
+        {
+          "label": "E",
+          "text": "Switch to auto-titrating CPAP device"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alcohol and benzodiazepines decrease pharyngeal muscle tone and suppress arousal responses, worsening OSA. Discontinuing these substances before sleep is a critical lifestyle modification.",
+        "whyCorrect": "Both alcohol and benzodiazepines worsen OSA by decreasing upper airway muscle tone, promoting pharyngeal collapse, and increasing the arousal threshold. Discontinuing these is a key intervention.",
+        "whyWrongByChoice": {
+          "A": "Supplemental oxygen does not address upper airway obstruction. Addressing modifiable factors is the priority.",
+          "B": "Increasing pressure does not compensate for limited use duration. Addressing alcohol and sedatives that worsen OSA is the priority.",
+          "C": "With severe OSA (AHI 45), CPAP remains preferred. Addressing modifiable worsening factors should come first.",
+          "E": "While auto-titrating CPAP may improve comfort, addressing alcohol and benzodiazepines that actively worsen OSA should be the first step."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "alcohol",
+        "benzodiazepines",
+        "lifestyle-modification"
+      ]
+    },
+    {
+      "id": "r23-018",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 55-year-old man with obstructive sleep apnea undergoes echocardiogram showing right ventricular dilation, tricuspid regurgitation, and estimated pulmonary artery systolic pressure of 55 mm Hg. Which of the following best describes the pathophysiological link between his OSA and these cardiac findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic intermittent hypoxia causing pulmonary vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular diastolic dysfunction from obesity"
+        },
+        {
+          "label": "C",
+          "text": "Nocturnal hypertension causing aortic root dilation"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent Valsalva maneuvers increasing right atrial pressure"
+        },
+        {
+          "label": "E",
+          "text": "Systemic inflammation damaging tricuspid valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic intermittent hypoxia from recurrent obstructive apneas causes hypoxic pulmonary vasoconstriction, leading over time to pulmonary hypertension, right ventricular dilation, and cor pulmonale.",
+        "whyCorrect": "Recurrent hypoxia triggers pulmonary arteriolar vasoconstriction. Chronic exposure leads to vascular remodeling and sustained pulmonary hypertension. Increased RV afterload results in dilation and tricuspid regurgitation (cor pulmonale).",
+        "whyWrongByChoice": {
+          "B": "While obesity commonly coexists with OSA, the direct link between OSA and right heart findings is through pulmonary vasoconstriction from intermittent hypoxia.",
+          "C": "OSA causes nocturnal BP surges, but right heart findings are from pulmonary hypertension, not aortic root pathology.",
+          "D": "Negative intrathoracic pressure swings occur during obstructive events but are not Valsalva maneuvers. The primary mechanism is pulmonary hypertension from chronic hypoxia.",
+          "E": "The tricuspid regurgitation is functional from RV dilation, not structural valve damage from inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "pulmonary-hypertension",
+        "cor-pulmonale",
+        "hypoxic-vasoconstriction"
+      ]
+    },
+    {
+      "id": "r23-019",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 38-year-old woman with a BMI of 26 kg/m2 presents with excessive daytime sleepiness. Physical examination reveals a small, posteriorly displaced mandible. Her husband reports loud snoring. Polysomnography reveals an AHI of 12. Which anatomical finding most directly contributes to her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deviated nasal septum"
+        },
+        {
+          "label": "B",
+          "text": "Enlarged thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Retrognathia"
+        },
+        {
+          "label": "D",
+          "text": "Macroglossia"
+        },
+        {
+          "label": "E",
+          "text": "Tonsillar hypertrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Retrognathia (posteriorly displaced mandible) narrows the retroglossal airway space, predisposing to pharyngeal collapse during sleep. This is a recognized structural risk factor for OSA, especially in non-obese patients.",
+        "whyCorrect": "Retrognathia causes posterior displacement of the mandible and tongue base, reducing retroglossal airway space and predisposing to upper airway collapse during sleep. In this non-obese patient, the small, posteriorly displaced mandible is the most likely anatomical contributor.",
+        "whyWrongByChoice": {
+          "A": "A deviated nasal septum can worsen snoring but is not the primary mechanism causing pharyngeal collapse in a patient with documented retrognathia.",
+          "B": "An enlarged thyroid can cause external airway compression but is not described in this patient.",
+          "D": "Macroglossia can contribute to obstruction, but the examination specifically identifies retrognathia as the structural abnormality.",
+          "E": "Tonsillar hypertrophy is the most common cause in children. This patient has retrognathia identified on exam, with no enlarged tonsils mentioned."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "retrognathia",
+        "anatomy",
+        "risk-factors"
+      ]
+    },
+    {
+      "id": "r23-020",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 60-year-old man with hypothyroidism and a BMI of 36 kg/m2 is diagnosed with obstructive sleep apnea. He asks his physician why sleeping on his back makes symptoms worse. Which of the following best explains the positional worsening?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased venous return when supine"
+        },
+        {
+          "label": "B",
+          "text": "Increased chest wall compliance when supine"
+        },
+        {
+          "label": "C",
+          "text": "Reduced diaphragmatic excursion from abdominal contents"
+        },
+        {
+          "label": "D",
+          "text": "Gravity displaces tongue posteriorly when supine"
+        },
+        {
+          "label": "E",
+          "text": "Vagus nerve stimulation compressing airway"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the supine position, gravity pulls the tongue and soft palate posteriorly toward the pharyngeal wall, narrowing the upper airway and increasing the likelihood of obstruction.",
+        "whyCorrect": "When sleeping supine, gravity causes the tongue, soft palate, and pharyngeal tissues to fall posteriorly, narrowing the already compromised upper airway. This is why positional therapy (avoiding supine sleep) can be beneficial.",
+        "whyWrongByChoice": {
+          "A": "Venous return actually increases in the supine position. This is not the mechanism for OSA worsening.",
+          "B": "Chest wall compliance is not significantly altered by position. The worsening is due to gravitational effects on upper airway soft tissues.",
+          "C": "While abdominal contents can reduce diaphragmatic excursion in obese patients, the specific positional worsening of OSA is from posterior tongue displacement.",
+          "E": "The vagus nerve does not compress the airway. Positional worsening is mechanical from gravity on pharyngeal tissues."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "supine-position",
+        "positional-therapy",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "r23-021",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 44-year-old woman with acromegaly presents for evaluation of excessive daytime sleepiness and witnessed apneas. Her BMI is 27 kg/m2. Polysomnography confirms OSA with an AHI of 28. Which feature of acromegaly most directly contributes to her obstructive sleep apnea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomyopathy causing fluid redistribution"
+        },
+        {
+          "label": "B",
+          "text": "Growth hormone excess causing insulin resistance"
+        },
+        {
+          "label": "C",
+          "text": "Macroglossia and pharyngeal tissue hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral neuropathy affecting respiratory muscles"
+        },
+        {
+          "label": "E",
+          "text": "Pituitary tumor compressing the brainstem"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acromegaly causes macroglossia and pharyngeal tissue enlargement from excess growth hormone, narrowing the upper airway and predisposing to obstructive sleep apnea.",
+        "whyCorrect": "Excess growth hormone causes soft tissue hypertrophy throughout the body, including macroglossia and pharyngeal tissue enlargement. These narrow the upper airway, making it more susceptible to collapse during sleep.",
+        "whyWrongByChoice": {
+          "A": "While acromegaly can cause cardiomyopathy, fluid redistribution is not the primary mechanism of OSA. The cause is soft tissue hypertrophy.",
+          "B": "Insulin resistance contributes to metabolic complications but does not directly cause upper airway obstruction.",
+          "D": "Peripheral neuropathy would contribute to central hypoventilation, not obstructive sleep apnea from anatomical narrowing.",
+          "E": "The pituitary gland is in the sella turcica, far from the brainstem. A pituitary adenoma does not compress the brainstem."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "OSA",
+        "acromegaly",
+        "macroglossia",
+        "endocrine"
+      ]
+    },
+    {
+      "id": "r23-022",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "A 70-year-old man with severe heart failure and central sleep apnea continues to have an elevated AHI with predominantly central events despite optimized heart failure medications and a trial of CPAP. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add nocturnal supplemental oxygen only"
+        },
+        {
+          "label": "B",
+          "text": "Discontinue positive airway pressure therapy"
+        },
+        {
+          "label": "C",
+          "text": "Refer for phrenic nerve stimulator placement"
+        },
+        {
+          "label": "D",
+          "text": "Switch to uvulopalatopharyngoplasty"
+        },
+        {
+          "label": "E",
+          "text": "Switch to bilevel positive airway pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "For CSA patients with heart failure who fail CPAP despite optimized cardiac therapy, bilevel positive airway pressure (BiPAP) provides higher inspiratory pressures to support ventilation during central apneas.",
+        "whyCorrect": "When CSA persists despite optimized heart failure therapy and CPAP trial, BiPAP is an appropriate escalation. BiPAP delivers higher inspiratory and lower expiratory pressures, more effectively supporting ventilation when central respiratory drive is insufficient.",
+        "whyWrongByChoice": {
+          "A": "Supplemental oxygen alone does not adequately address central apneas or provide ventilatory support during absent respiratory drive.",
+          "B": "Discontinuing positive airway pressure would worsen hypoxemia and sleep quality.",
+          "C": "Phrenic nerve stimulation is emerging therapy but not yet standard of care. BiPAP should be trialed first.",
+          "D": "Uvulopalatopharyngoplasty treats obstructive sleep apnea by removing pharyngeal tissue. It has no role in central sleep apnea."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "CSA",
+        "BiPAP",
+        "heart-failure",
+        "treatment-escalation"
+      ]
+    }
+  ]
+}

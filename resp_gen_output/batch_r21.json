@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r21-001",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 72-year-old man presents with a 3-month history of progressive dyspnea and dull right-sided chest pain. He retired 10 years ago after working 35 years at a shipyard. Physical examination reveals dullness to percussion and decreased breath sounds at the right base. Chest CT shows circumferential pleural thickening encasing the right lung with an associated large pleural effusion. A thoracoscopic biopsy is performed. Which of the following immunohistochemical staining patterns is most consistent with the expected diagnosis?",
+    "choices": [
+      {"label": "A", "text": "TTF-1 and napsin A positive"},
+      {"label": "B", "text": "Chromogranin and synaptophysin positive"},
+      {"label": "C", "text": "Calretinin and WT1 positive"},
+      {"label": "D", "text": "CD20 and CD79a positive"},
+      {"label": "E", "text": "S-100 and HMB-45 positive"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This patient's occupational asbestos exposure, long latency, and circumferential pleural thickening encasing the lung are classic for malignant mesothelioma. Calretinin and WT1 are the key immunohistochemical markers for mesothelial origin.",
+      "whyCorrect": "Calretinin and WT1 are positive in mesothelioma and are used to distinguish it from pulmonary adenocarcinoma and other pleural malignancies. These markers confirm mesothelial origin of the tumor cells obtained on biopsy.",
+      "whyWrongByChoice": {
+        "A": "TTF-1 and napsin A are markers of pulmonary adenocarcinoma. Mesothelioma is not a lung cancer but a cancer of the pleural mesothelium, and these markers would be negative.",
+        "B": "Chromogranin and synaptophysin are neuroendocrine markers seen in small cell lung cancer and carcinoid tumors, not mesothelioma.",
+        "D": "CD20 and CD79a are B-cell lymphocyte markers used to diagnose B-cell lymphomas, not mesothelioma.",
+        "E": "S-100 and HMB-45 are markers for melanoma. While melanoma can metastasize to the pleura, the clinical history and imaging pattern are classic for mesothelioma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "immunohistochemistry", "asbestos", "pleural-tumor"]
+  },
+  {
+    "id": "r21-002",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 68-year-old retired construction worker presents with progressive dyspnea over 4 months. He has a 40-pack-year smoking history and worked in building demolition for 25 years. Chest imaging reveals diffuse pleural thickening and a large left-sided pleural effusion. Thoracoscopic biopsy confirms malignant mesothelioma. Which of the following best describes the relationship between this patient's risk factors and his diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Smoking is the primary etiologic factor"},
+      {"label": "B", "text": "Smoking synergistically increases mesothelioma risk"},
+      {"label": "C", "text": "Smoking is protective against mesothelioma"},
+      {"label": "D", "text": "Asbestos drives risk; smoking is irrelevant"},
+      {"label": "E", "text": "Both contribute equally to mesothelioma risk"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Asbestos exposure is the dominant risk factor for mesothelioma. Unlike asbestos-related lung carcinoma, smoking does not increase the risk of mesothelioma in asbestos-exposed individuals.",
+      "whyCorrect": "Chronic asbestos exposure is the major risk factor for mesothelioma. Studies have shown that smoking does not increase mesothelioma risk in asbestos-exposed workers, although smoking does synergistically increase their risk of developing lung carcinoma (a different malignancy).",
+      "whyWrongByChoice": {
+        "A": "Smoking is not a cause of mesothelioma. It is a risk factor for lung carcinoma, which is a distinct malignancy arising from lung parenchyma rather than the mesothelium.",
+        "B": "The synergistic relationship between smoking and asbestos applies to lung carcinoma risk, not mesothelioma risk. Mesothelioma risk is driven by asbestos exposure alone.",
+        "C": "Smoking is not protective against mesothelioma. It simply has no significant effect on mesothelioma risk, neither increasing nor decreasing it.",
+        "E": "The risk factors do not contribute equally. Asbestos is the dominant risk factor for mesothelioma, while smoking has no demonstrated effect on mesothelioma risk."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "asbestos", "smoking", "risk-factors"]
+  },
+  {
+    "id": "r21-003",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 75-year-old man who worked as a firefighter for 30 years presents with 2 months of worsening shortness of breath and right-sided pleuritic chest pain. He reports an unintentional 8-kg weight loss. Chest X-ray reveals a large right pleural effusion and calcified pleural plaques bilaterally. Thoracentesis yields bloody pleural fluid. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Malignant mesothelioma"},
+      {"label": "B", "text": "Congestive heart failure"},
+      {"label": "C", "text": "Bacterial empyema"},
+      {"label": "D", "text": "Pulmonary tuberculosis"},
+      {"label": "E", "text": "Benign asbestos effusion"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A former firefighter with calcified pleural plaques (indicating prior asbestos exposure) who presents with a bloody pleural effusion and progressive dyspnea should raise strong suspicion for malignant mesothelioma.",
+      "whyCorrect": "The combination of occupational asbestos exposure (firefighter), calcified pleural plaques (evidence of prior asbestos exposure), and a bloody pleural effusion in an elderly man is highly suspicious for malignant mesothelioma. Pleural effusion is present in the vast majority of patients at diagnosis.",
+      "whyWrongByChoice": {
+        "B": "Heart failure causes bilateral transudative effusions, not unilateral bloody effusions. Pleural plaques are not associated with heart failure.",
+        "C": "Empyema produces purulent (cloudy, pus-filled) fluid, not bloody fluid. It typically occurs in the setting of pneumonia or surgery.",
+        "D": "Tuberculosis can cause pleural effusions, but the occupational history, calcified pleural plaques, and bloody fluid point toward mesothelioma rather than TB.",
+        "E": "Benign asbestos pleural effusions can occur but are typically self-limiting and exudative. The progressive symptoms and bloody nature of this effusion favor a malignant process."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "pleural-effusion", "asbestos", "firefighter"]
+  },
+  {
+    "id": "r21-004",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 70-year-old man is diagnosed with early-stage malignant pleural mesothelioma of epithelioid histology after thoracoscopic biopsy. CT shows a pleural-based mass without extension to mediastinal structures. He is otherwise healthy with good functional status. Which of the following is the most appropriate initial treatment approach?",
+    "choices": [
+      {"label": "A", "text": "Observation with serial imaging"},
+      {"label": "B", "text": "Cytoreductive surgery then chemotherapy"},
+      {"label": "C", "text": "Whole-lung radiation therapy"},
+      {"label": "D", "text": "Palliative pleurodesis only"},
+      {"label": "E", "text": "Systemic chemotherapy alone"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Early-stage mesothelioma with epithelioid histology in a patient with good functional status is treated with gross cytoreductive surgery (debulking) followed by adjuvant chemotherapy or chemoradiation.",
+      "whyCorrect": "For resectable disease (early-stage, epithelioid histology), the standard treatment is cytoreductive surgery to remove all visible tumor, followed by adjuvant chemotherapy. Surgical options include pleurectomy/decortication or extrapleural pneumonectomy.",
+      "whyWrongByChoice": {
+        "A": "Observation alone is not appropriate for a patient with resectable mesothelioma and good functional status. Without treatment, the tumor will progress and become unresectable.",
+        "C": "Whole-lung radiation therapy alone is not standard primary treatment for mesothelioma. Radiation may be used as part of adjuvant therapy after surgery.",
+        "D": "Pleurodesis treats pleural effusion symptoms but does not address the underlying malignancy. It is used as a palliative measure, not as primary treatment for resectable disease.",
+        "E": "Systemic chemotherapy alone is reserved for unresectable disease (late-stage, non-epithelioid histology, or poor surgical candidates). This patient has resectable disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "treatment", "surgery", "epithelioid"]
+  },
+  {
+    "id": "r21-005",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 67-year-old woman presents with progressive abdominal distention and vague abdominal pain over 3 months. She worked in a textile factory for 20 years where asbestos-containing materials were processed. CT abdomen shows diffuse peritoneal thickening with moderate ascites. Paracentesis reveals malignant cells on cytology. Which of the following is the most likely primary site of this malignancy?",
+    "choices": [
+      {"label": "A", "text": "Ovarian epithelium"},
+      {"label": "B", "text": "Colonic mucosa"},
+      {"label": "C", "text": "Gastric mucosa"},
+      {"label": "D", "text": "Pancreatic parenchyma"},
+      {"label": "E", "text": "Peritoneal mesothelium"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This patient with significant asbestos exposure history presenting with diffuse peritoneal thickening and ascites most likely has peritoneal mesothelioma, which accounts for 10-15% of mesothelioma cases.",
+      "whyCorrect": "Peritoneal mesothelioma is the second most common site of mesothelioma (10-15% of cases) after the pleura. The history of asbestos exposure, diffuse peritoneal thickening, and ascites are characteristic. Patients present with abdominal pain, distention, and ascites.",
+      "whyWrongByChoice": {
+        "A": "Ovarian cancer can present similarly with peritoneal carcinomatosis and ascites, but the asbestos exposure history and diffuse peritoneal thickening pattern favor peritoneal mesothelioma.",
+        "B": "Colon cancer with peritoneal metastases could cause ascites, but it would more typically present with a primary colonic mass rather than diffuse peritoneal thickening.",
+        "C": "Gastric cancer with peritoneal involvement is possible but would typically show a gastric mass. The asbestos history strongly favors mesothelioma.",
+        "D": "Pancreatic cancer can cause ascites from peritoneal spread, but the diffuse peritoneal thickening pattern with asbestos exposure history points to mesothelioma."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["mesothelioma", "peritoneal", "asbestos", "ascites"]
+  },
+  {
+    "id": "r21-006",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 73-year-old retired insulation installer is diagnosed with malignant pleural mesothelioma. Over the following weeks, he develops progressive facial swelling, dilated neck veins, and bilateral upper extremity edema. His dyspnea has worsened despite thoracentesis. Which of the following complications best explains these new findings?",
+    "choices": [
+      {"label": "A", "text": "Cardiac tamponade"},
+      {"label": "B", "text": "Tension pneumothorax"},
+      {"label": "C", "text": "Superior vena cava syndrome"},
+      {"label": "D", "text": "Pulmonary embolism"},
+      {"label": "E", "text": "Horner syndrome"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Facial swelling, dilated neck veins, upper extremity edema, and dyspnea in a patient with mesothelioma indicate superior vena cava (SVC) syndrome from tumor compression of the SVC.",
+      "whyCorrect": "SVC syndrome results from compression of the SVC by locally spreading mesothelioma. This impedes venous return from the head, neck, and upper extremities, causing facial swelling, dilated neck veins, upper extremity edema, and dyspnea. It is a recognized complication of mesothelioma.",
+      "whyWrongByChoice": {
+        "A": "Cardiac tamponade from pericardial involvement causes hypotension, muffled heart sounds, and JVD (Beck triad), but would not explain the facial swelling and bilateral upper extremity edema.",
+        "B": "Tension pneumothorax causes acute respiratory distress, hypotension, and tracheal deviation, but not progressive facial swelling and bilateral upper extremity edema.",
+        "D": "Pulmonary embolism causes acute dyspnea, pleuritic chest pain, and tachycardia, but not progressive facial swelling and upper extremity edema.",
+        "E": "Horner syndrome from sympathetic nerve damage causes ptosis, miosis, and anhidrosis, which are not present in this patient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "SVC-syndrome", "complications", "local-invasion"]
+  },
+  {
+    "id": "r21-007",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 65-year-old retired shipyard worker undergoes chest X-ray for a routine pre-operative evaluation. He is completely asymptomatic. The imaging shows bilateral calcified pleural plaques along the diaphragmatic and lateral chest wall surfaces. There is no pleural effusion or mass. Which of the following statements about this finding is most accurate?",
+    "choices": [
+      {"label": "A", "text": "These are precursors to mesothelioma"},
+      {"label": "B", "text": "These confirm a diagnosis of asbestosis"},
+      {"label": "C", "text": "These are diagnostic of mesothelioma"},
+      {"label": "D", "text": "These indicate ongoing active asbestos exposure"},
+      {"label": "E", "text": "These are the commonest asbestos-related finding"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Pleural plaques are the most commonly encountered pathologic manifestation after asbestos exposure. They are benign and are not precursor lesions of mesothelioma.",
+      "whyCorrect": "Pleural plaques (collagen fiber deposition on the pleura) are benign findings that represent the most common pathologic result of asbestos exposure. While they indicate prior asbestos exposure and should raise suspicion if other findings develop, they are not themselves precancerous.",
+      "whyWrongByChoice": {
+        "A": "Pleural plaques are benign and are not precursor lesions to mesothelioma. They indicate asbestos exposure but do not themselves undergo malignant transformation.",
+        "B": "Asbestosis is a restrictive interstitial lung disease (pneumoconiosis) with pulmonary fibrosis, not simply pleural plaques. Plaques indicate exposure but are a separate entity from asbestosis.",
+        "C": "Pleural plaques alone are not diagnostic of mesothelioma. They indicate asbestos exposure, which is a risk factor for mesothelioma, but a tissue biopsy is needed for definitive diagnosis.",
+        "D": "Pleural plaques indicate prior asbestos exposure, not necessarily current exposure. The latency between exposure and plaque development is typically years to decades."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "pleural-plaques", "asbestos", "imaging"]
+  },
+  {
+    "id": "r21-008",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A pathologist examines a thoracoscopic biopsy from a 71-year-old man with diffuse pleural thickening and a 30-year history of asbestos exposure. The tumor cells are arranged in papillary and acinar patterns and adhere to one another in sheet-like formations. Which histologic subtype and associated prognosis does this best represent?",
+    "choices": [
+      {"label": "A", "text": "Sarcomatoid subtype; best prognosis"},
+      {"label": "B", "text": "Biphasic subtype; best prognosis"},
+      {"label": "C", "text": "Epithelioid subtype; worst prognosis"},
+      {"label": "D", "text": "Epithelioid subtype; best prognosis"},
+      {"label": "E", "text": "Sarcomatoid subtype; worst prognosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cells arranged in papillary and acinar patterns resembling epithelial cells define the epithelioid subtype, which is the most common and has the best prognosis among mesothelioma subtypes. It is also the subtype amenable to surgical resection.",
+      "whyCorrect": "The epithelioid subtype is characterized by cells that resemble epithelial cells, arranged in solid, papillary, or acinar (glandular) patterns. It is the most common subtype and carries the best prognosis, making it a candidate for surgical resection with adjuvant therapy.",
+      "whyWrongByChoice": {
+        "A": "The sarcomatoid subtype has a spindle cell pattern resembling fibrosarcoma, not the papillary/acinar pattern described. It has the worst prognosis among mesothelioma subtypes.",
+        "B": "Biphasic mesothelioma contains both epithelioid and sarcomatoid elements. The description shows only epithelioid features. Biphasic has an intermediate prognosis.",
+        "C": "While this is correctly identified as epithelioid, it does not have the worst prognosis. The epithelioid subtype has the best prognosis and is the most amenable to surgical treatment.",
+        "E": "The sarcomatoid subtype has a fibrotic, paucicellular appearance, not the epithelial-like pattern described. However, it does carry the worst prognosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["mesothelioma", "histology", "epithelioid", "prognosis"]
+  },
+  {
+    "id": "r21-009",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 69-year-old man with recently diagnosed malignant pleural mesothelioma develops recurrent large pleural effusions causing debilitating dyspnea despite repeated thoracenteses. His fluid reaccumulates within days of each drainage procedure. Which of the following interventions provides the most durable long-term relief?",
+    "choices": [
+      {"label": "A", "text": "Daily oral diuretic therapy"},
+      {"label": "B", "text": "Serial thoracentesis every week"},
+      {"label": "C", "text": "Pleurodesis with talc instillation"},
+      {"label": "D", "text": "Systemic corticosteroid therapy"},
+      {"label": "E", "text": "Increased supplemental oxygen delivery"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Pleurodesis (introduction of talc into the pleural space) shrinks the pleural space and provides long-term relief from recurrent malignant pleural effusions, which are a major source of morbidity in mesothelioma.",
+      "whyCorrect": "Pleurodesis with talc instillation causes inflammation and subsequent adhesion of the visceral and parietal pleural surfaces, obliterating the pleural space and preventing fluid reaccumulation. This provides sustained relief compared to repeated drainage procedures.",
+      "whyWrongByChoice": {
+        "A": "Diuretics are effective for transudative effusions (e.g., heart failure) but have limited efficacy for malignant exudative effusions, which are caused by direct tumor involvement of the pleura.",
+        "B": "Repeated thoracentesis provides only temporary symptom relief. The fluid rapidly reaccumulates in malignant effusions, making this approach burdensome and not a durable solution.",
+        "D": "Systemic corticosteroids do not effectively control malignant pleural effusions. They may be used for other indications but do not address the underlying mechanism of fluid production.",
+        "E": "Supplemental oxygen may help with hypoxemia but does not address the mechanical compression from the effusion that causes dyspnea."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "pleurodesis", "pleural-effusion", "management"]
+  },
+  {
+    "id": "r21-010",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 74-year-old man with a history of asbestos exposure 30 years ago presents with unilateral ptosis, miosis, and anhidrosis on the right side. He also reports right-sided chest pain and progressive dyspnea over 6 weeks. Chest imaging reveals a right-sided pleural mass with an associated effusion. Which of the following best explains his ocular and facial findings?",
+    "choices": [
+      {"label": "A", "text": "Metastasis to the brain"},
+      {"label": "B", "text": "Sympathetic chain invasion by tumor"},
+      {"label": "C", "text": "Recurrent laryngeal nerve compression"},
+      {"label": "D", "text": "Paraneoplastic autoimmune syndrome"},
+      {"label": "E", "text": "Phrenic nerve compression by mass"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Ptosis, miosis, and anhidrosis constitute Horner syndrome, which results from damage to the sympathetic nerve chain. In mesothelioma, this occurs from local tumor invasion into the sympathetic chain.",
+      "whyCorrect": "Horner syndrome (ptosis, miosis, anhidrosis) results from disruption of the sympathetic pathway. Mesothelioma can cause Horner syndrome through local spread and invasion of the sympathetic chain in the chest. This is a recognized complication of locally invasive mesothelioma.",
+      "whyWrongByChoice": {
+        "A": "Brain metastasis could cause various neurological symptoms, but the classic triad of unilateral ptosis, miosis, and anhidrosis specifically localizes to the sympathetic chain, not the brain. Mesothelioma metastases are rare at presentation.",
+        "C": "Recurrent laryngeal nerve compression causes hoarseness due to vocal cord paralysis, not ptosis, miosis, or anhidrosis.",
+        "D": "Paraneoplastic syndromes are uncommon in mesothelioma. Horner syndrome in this context is caused by direct local tumor invasion, not a paraneoplastic mechanism.",
+        "E": "Phrenic nerve compression causes diaphragmatic paralysis with dyspnea but does not produce ptosis, miosis, or anhidrosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "Horner-syndrome", "sympathetic-nerve", "complications"]
+  },
+  {
+    "id": "r21-011",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 60-year-old man presents with progressive dyspnea and weight loss. He worked in an asbestos mine 35 years ago. CT chest shows diffuse pleural thickening with nodularity and a moderate pleural effusion. Biopsy confirms malignant mesothelioma. Genetic analysis reveals a somatic mutation in a tumor suppressor gene found in approximately 60% of mesotheliomas. Which gene is most likely mutated?",
+    "choices": [
+      {"label": "A", "text": "TP53"},
+      {"label": "B", "text": "BRCA1"},
+      {"label": "C", "text": "BAP1"},
+      {"label": "D", "text": "RB1"},
+      {"label": "E", "text": "APC"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "BAP1 (BRCA1-associated protein 1) is the tumor suppressor gene most characteristically mutated in mesothelioma, with somatic mutations found in up to 60% of cases. Germline BAP1 mutations also confer genetic predisposition.",
+      "whyCorrect": "BAP1 inactivation is strongly associated with malignant mesothelioma. Somatic BAP1 mutations are found in up to 60% of mesotheliomas, and germline mutations in BAP1 have been identified as a genetic predisposition to the disease.",
+      "whyWrongByChoice": {
+        "A": "TP53 mutations are common in many cancers but are not the characteristic tumor suppressor mutation associated with mesothelioma at this frequency.",
+        "B": "BRCA1 mutations are associated with breast and ovarian cancers, not mesothelioma. Though BAP1 is BRCA1-associated protein 1, it is a distinct gene.",
+        "D": "RB1 mutations are classically associated with retinoblastoma and some other cancers, not mesothelioma.",
+        "E": "APC mutations are the hallmark of familial adenomatous polyposis and colorectal cancer, not mesothelioma."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["mesothelioma", "BAP1", "genetics", "tumor-suppressor"]
+  },
+  {
+    "id": "r21-012",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 78-year-old man with known malignant pleural mesothelioma is brought to the emergency department with acute dyspnea, hypotension, jugular venous distension, and muffled heart sounds. His blood pressure is 80/50 mmHg and heart rate is 120 bpm. Echocardiography reveals a large pericardial effusion with diastolic collapse of the right ventricle. Which of the following is the most likely cause of his acute decompensation?",
+    "choices": [
+      {"label": "A", "text": "Massive pulmonary embolism"},
+      {"label": "B", "text": "Tension pneumothorax"},
+      {"label": "C", "text": "Acute myocardial infarction"},
+      {"label": "D", "text": "Cardiac tamponade from pericardial extension"},
+      {"label": "E", "text": "Septic shock"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The combination of hypotension, jugular venous distension, and muffled heart sounds constitutes Beck triad, which is diagnostic of cardiac tamponade. Mesothelioma can cause tamponade through pericardial fluid buildup from local extension.",
+      "whyCorrect": "Cardiac tamponade is a recognized complication of mesothelioma, occurring when the tumor extends to the pericardium and causes fluid buildup that compresses the heart. Beck triad (hypotension, JVD, muffled heart sounds) is the classic presentation.",
+      "whyWrongByChoice": {
+        "A": "Massive pulmonary embolism can cause hypotension and JVD but typically does not cause muffled heart sounds. It more commonly presents with acute right heart strain.",
+        "B": "Tension pneumothorax causes hypotension and JVD but also produces absent breath sounds, tracheal deviation, and hyperresonance on the affected side, not muffled heart sounds.",
+        "C": "Acute MI can cause hypotension and sometimes JVD (if right ventricle involved), but muffled heart sounds are not a typical feature. The triad described is specific for tamponade.",
+        "E": "Septic shock causes hypotension with warm extremities and tachycardia but does not typically present with JVD and muffled heart sounds together."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "cardiac-tamponade", "Beck-triad", "complications"]
+  },
+  {
+    "id": "r21-013",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 66-year-old man is evaluated for chronic cough and exertional dyspnea. He worked as a factory worker for 20 years in the 1970s handling insulation materials. Chest imaging reveals interstitial fibrosis predominantly in the lower lobes with honeycombing. Pulmonary function tests show a restrictive pattern with reduced DLCO. Which of the following best describes this condition and its relationship to mesothelioma?",
+    "choices": [
+      {"label": "A", "text": "Asbestosis; a precursor to mesothelioma"},
+      {"label": "B", "text": "Asbestosis; separate from mesothelioma"},
+      {"label": "C", "text": "Idiopathic pulmonary fibrosis; unrelated entirely"},
+      {"label": "D", "text": "Silicosis; increases mesothelioma risk"},
+      {"label": "E", "text": "Sarcoidosis; autoimmune granulomatous disease"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient has asbestosis, a restrictive interstitial lung disease (pneumoconiosis) caused by chronic asbestos exposure. Asbestosis is a separate consequence of asbestos exposure and is not a precursor to mesothelioma.",
+      "whyCorrect": "Asbestosis is a nonneoplastic lung disorder caused by asbestos exposure, characterized by lower lobe-predominant interstitial fibrosis and a restrictive pattern on PFTs. While both asbestosis and mesothelioma result from asbestos exposure, asbestosis does not transform into mesothelioma.",
+      "whyWrongByChoice": {
+        "A": "While this is correctly identified as asbestosis, it is not a precursor to mesothelioma. Asbestosis and mesothelioma are separate conditions that can both result from asbestos exposure.",
+        "C": "The occupational history of factory work in the 1970s strongly suggests asbestos exposure. The fibrosis pattern is consistent with asbestosis rather than idiopathic pulmonary fibrosis.",
+        "D": "Silicosis is caused by silica exposure (mining, sandblasting), not factory work with asbestos. The clinical presentation is consistent with asbestosis, not silicosis.",
+        "E": "Sarcoidosis is a granulomatous disease of unknown etiology that typically affects upper lobes and hilar lymph nodes, not lower lobe fibrosis in an asbestos-exposed worker."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "asbestosis", "pneumoconiosis", "asbestos"]
+  },
+  {
+    "id": "r21-014",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 71-year-old retired pipe fitter presents with progressive dyspnea, cough, and a 7-kg weight loss over 4 months. He worked with insulation materials from age 20 to 50. Physical examination reveals asymmetric chest wall expansion with decreased breath sounds on the left. Which of the following best describes the typical latency period between asbestos exposure and mesothelioma development?",
+    "choices": [
+      {"label": "A", "text": "1 to 5 years"},
+      {"label": "B", "text": "5 to 10 years"},
+      {"label": "C", "text": "25 to 45 years"},
+      {"label": "D", "text": "10 to 15 years"},
+      {"label": "E", "text": "50 to 70 years"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The latency period between asbestos exposure and the development of mesothelioma is typically 25-45 years, which explains why most patients are diagnosed at age 65 or older.",
+      "whyCorrect": "Mesothelioma has one of the longest latency periods of any malignancy, typically 25-45 years from the time of initial asbestos exposure. This long latency means patients are usually elderly at diagnosis, with the highest rates in those over 80.",
+      "whyWrongByChoice": {
+        "A": "A 1-5 year latency is far too short for mesothelioma. Asbestos-related malignancies require decades to develop.",
+        "B": "A 5-10 year latency is too short. Mesothelioma requires a much longer period of chronic inflammation and genetic changes before clinical manifestation.",
+        "D": "While 10-15 years may apply to some asbestos-related conditions, mesothelioma typically has a latency of 25-45 years.",
+        "E": "A 50-70 year latency, while possible in rare cases, exceeds the typical range. Most cases develop within 25-45 years of exposure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["mesothelioma", "latency", "asbestos", "epidemiology"]
+  },
+  {
+    "id": "r21-015",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 76-year-old man with malignant pleural mesothelioma undergoes staging with PET-CT, which reveals a large pleural-based mass with sarcomatoid histology and evidence of mediastinal lymph node involvement. He has moderate functional status. Which of the following is the most appropriate treatment approach?",
+    "choices": [
+      {"label": "A", "text": "Chemotherapy or palliative care"},
+      {"label": "B", "text": "Extrapleural pneumonectomy"},
+      {"label": "C", "text": "Pleurectomy with adjuvant radiation"},
+      {"label": "D", "text": "Watchful waiting with repeat imaging"},
+      {"label": "E", "text": "Curative-intent radiation alone"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Sarcomatoid histology renders mesothelioma unresectable regardless of stage. Combined with mediastinal lymph node involvement, this patient should receive chemotherapy or palliative care based on his wishes.",
+      "whyCorrect": "Unresectable disease includes late-stage tumors, metastatic disease, and tumors with nonepithelioid histology (sarcomatoid, biphasic). This patient has sarcomatoid histology and lymph node involvement, making surgery inappropriate. Treatment options include chemotherapy or palliative care.",
+      "whyWrongByChoice": {
+        "B": "Extrapleural pneumonectomy is a radical surgery reserved for resectable disease with epithelioid histology. Sarcomatoid histology and lymph node involvement make this patient a poor surgical candidate.",
+        "C": "Pleurectomy/decortication is appropriate for early-stage epithelioid tumors. The sarcomatoid histology and nodal involvement preclude this approach.",
+        "D": "Watchful waiting is not appropriate for a symptomatic patient with advanced mesothelioma. Treatment should be offered to manage symptoms and potentially extend survival.",
+        "E": "Radiation alone is not a standard curative approach for mesothelioma. It may be used as adjuvant therapy or for palliation but not as primary treatment."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "sarcomatoid", "treatment", "unresectable"]
+  },
+  {
+    "id": "r21-016",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 64-year-old man presents with pleuritic chest pain and dyspnea. He has no history of occupational asbestos exposure. Family history reveals that his father and paternal uncle both died of mesothelioma. Genetic testing reveals a germline BAP1 mutation. Which additional genetic abnormality is most commonly found in mesothelioma tumor cells?",
+    "choices": [
+      {"label": "A", "text": "BCR-ABL translocation"},
+      {"label": "B", "text": "EGFR gene amplification"},
+      {"label": "C", "text": "KRAS point mutation"},
+      {"label": "D", "text": "Homozygous CDKN2A deletion on 9p"},
+      {"label": "E", "text": "HER2 protein overexpression"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Homozygous deletion of CDKN2A (a tumor suppressor gene on chromosome 9p) occurs in approximately 80% of mesotheliomas. Along with BAP1 mutations and NF2 mutations, these are the most common genetic alterations.",
+      "whyCorrect": "CDKN2A encodes p16, a tumor suppressor involved in cell cycle regulation. Homozygous deletion of this gene on chromosome 9p is found in about 80% of mesotheliomas, making it the most common genetic abnormality in this malignancy.",
+      "whyWrongByChoice": {
+        "A": "BCR-ABL translocation t(9;22) is the hallmark of chronic myelogenous leukemia (CML), not mesothelioma.",
+        "B": "EGFR amplification is associated with non-small cell lung cancer and glioblastoma, not mesothelioma.",
+        "C": "KRAS mutations are common in pancreatic cancer and lung adenocarcinoma but are not characteristic of mesothelioma.",
+        "E": "HER2 overexpression is associated with breast and gastric cancers, not mesothelioma."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["mesothelioma", "CDKN2A", "genetics", "chromosome-9p"]
+  },
+  {
+    "id": "r21-017",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 70-year-old man with a 30-year history of asbestos exposure presents with chest pain and dyspnea. CT chest reveals a pleural-based mass with associated effusion. Thoracentesis yields blood-tinged exudative fluid, but cytology is inconclusive. Which of the following diagnostic procedures provides the highest yield for tissue diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Repeat thoracentesis with cytology"},
+      {"label": "B", "text": "Bronchoscopy with transbronchial biopsy"},
+      {"label": "C", "text": "Sputum cytology collection"},
+      {"label": "D", "text": "CT-guided fine-needle aspiration"},
+      {"label": "E", "text": "Video-assisted thoracoscopic biopsy"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Video-assisted thoracoscopic surgery (VATS) biopsy provides the best diagnostic yield for mesothelioma, as it allows direct visualization and sampling of the pleural tumor under magnified view.",
+      "whyCorrect": "VATS biopsy or surgical thoracostomy provides the highest diagnostic yield for mesothelioma. It allows direct visualization of the pleural surface, adequate tissue sampling for both morphologic analysis and immunohistochemical staining needed to confirm the diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Repeat thoracentesis has a low diagnostic yield for mesothelioma. Fluid cytology alone is often inconclusive because mesothelial cells can be difficult to distinguish from reactive mesothelial cells.",
+        "B": "Bronchoscopy evaluates endobronchial lesions. Mesothelioma is a pleural-based tumor that does not typically invade the airways, making transbronchial biopsy low-yield.",
+        "C": "Sputum cytology is useful for central lung cancers shedding cells into the airways. Mesothelioma arises from the pleura and does not shed cells into sputum.",
+        "D": "CT-guided FNA may obtain cells but often provides insufficient tissue for the immunohistochemistry needed to confirm mesothelioma and distinguish it from adenocarcinoma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "VATS", "biopsy", "diagnosis"]
+  },
+  {
+    "id": "r21-018",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 68-year-old man with a known history of occupational asbestos exposure presents with a new 3-cm lung mass on chest CT. He has a 50-pack-year smoking history. Biopsy reveals adenocarcinoma with TTF-1 positivity and calretinin negativity. Which of the following best characterizes this malignancy?",
+    "choices": [
+      {"label": "A", "text": "Asbestos-related lung carcinoma"},
+      {"label": "B", "text": "Epithelioid subtype of mesothelioma"},
+      {"label": "C", "text": "Benign mesothelial proliferation"},
+      {"label": "D", "text": "Metastatic extrapulmonary adenocarcinoma"},
+      {"label": "E", "text": "Sarcomatoid mesothelioma"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "TTF-1 positive adenocarcinoma arising in a lung mass is a primary lung cancer, not mesothelioma. Asbestos exposure increases the risk of lung carcinoma, and this risk is synergistically increased by smoking.",
+      "whyCorrect": "This is an asbestos-related lung carcinoma. TTF-1 positivity confirms pulmonary origin (lung adenocarcinoma). Asbestos-exposed patients are at higher risk for lung cancer, and smoking synergistically increases this risk. This is distinct from mesothelioma, which arises from the mesothelium.",
+      "whyWrongByChoice": {
+        "B": "Mesothelioma is TTF-1 negative and calretinin/WT1 positive. TTF-1 positivity confirms this is a lung carcinoma, not mesothelioma. Additionally, mesothelioma presents as pleural-based disease, not a parenchymal lung mass.",
+        "C": "Benign mesothelial proliferation would not present as adenocarcinoma with TTF-1 positivity. The biopsy confirms malignancy.",
+        "D": "TTF-1 is a marker of pulmonary and thyroid origin. In the context of a lung mass, TTF-1 positivity indicates primary lung adenocarcinoma, not a metastasis from another site.",
+        "E": "Sarcomatoid mesothelioma has a spindle cell pattern and is TTF-1 negative. This tumor is TTF-1 positive adenocarcinoma arising from lung parenchyma."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["mesothelioma", "lung-carcinoma", "TTF-1", "asbestos"]
+  },
+  {
+    "id": "r21-019",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 72-year-old man with pleural mesothelioma undergoes surgical staging. Gross examination reveals diffusely thickened pleura with fusion of the visceral and parietal layers. The tumor extends into the interlobar fissures and encases the entire right lung, but there is no invasion into the lung parenchyma itself. Which of the following best describes the characteristic pathological behavior of this malignancy?",
+    "choices": [
+      {"label": "A", "text": "Early hematogenous metastasis to liver"},
+      {"label": "B", "text": "Local spread with rare distant metastasis"},
+      {"label": "C", "text": "Cavitation within lung parenchyma"},
+      {"label": "D", "text": "Bilateral symmetric pleural involvement"},
+      {"label": "E", "text": "Rapid invasion deep into lung tissue"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Mesothelioma characteristically grows along the pleural surface, causing diffuse thickening, fusion of pleural layers, and encasement of the lung. Unlike lung cancers, distant metastases are rare at presentation.",
+      "whyCorrect": "Mesothelioma spreads locally along the pleura, extending into fissures and encasing the lung. The visceral and parietal layers may fuse due to tumor infiltration. Morbidity and mortality are primarily from local invasion, and metastases are rare at presentation.",
+      "whyWrongByChoice": {
+        "A": "Unlike many other malignancies, mesothelioma primarily causes morbidity through local invasion rather than early hematogenous metastasis. Distant metastases are uncommon at presentation.",
+        "C": "Cavitation is a feature of certain lung cancers (particularly squamous cell carcinoma) and infections, not mesothelioma. Mesothelioma grows along the pleural surface.",
+        "D": "Mesothelioma is typically unilateral at presentation. It arises from the pleura on one side and spreads locally rather than involving both sides symmetrically.",
+        "E": "While mesothelioma encases the lung, significant invasion into actual lung parenchyma is rare. The tumor grows primarily along the pleural surface."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mesothelioma", "pathology", "local-invasion", "gross-appearance"]
+  },
+  {
+    "id": "r21-020",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 62-year-old man with a germline BAP1 mutation undergoes screening after his father was diagnosed with mesothelioma and his brother died of uveal melanoma. He asks about the anatomic sites where mesothelioma can develop. The pleura accounts for 85% of cases and the peritoneum for 10-15%. Which serosal sites are uncommonly involved?",
+    "choices": [
+      {"label": "A", "text": "Pleura only"},
+      {"label": "B", "text": "Peritoneum only"},
+      {"label": "C", "text": "Pericardium and tunica vaginalis"},
+      {"label": "D", "text": "Pleura and peritoneum equally"},
+      {"label": "E", "text": "Tunica vaginalis only"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Mesothelioma most commonly involves the pleura (85%), followed by the peritoneum (10-15%). Pericardial and tunica vaginalis mesotheliomas are both uncommon.",
+      "whyCorrect": "The pleura is affected in 85% of cases, the peritoneum in 10-15%, and both the pericardium and tunica vaginalis are uncommon sites. This patient has a germline BAP1 mutation, which confers genetic predisposition to mesothelioma (and uveal melanoma, as seen in his brother).",
+      "whyWrongByChoice": {
+        "A": "The pleura is the most common site for mesothelioma, involved in approximately 85% of cases. It is not uncommon.",
+        "B": "The peritoneum is the second most common site, involved in 10-15% of mesothelioma cases. While less common than pleural disease, it is not rare.",
+        "D": "The pleura and peritoneum are not equally common. The pleura accounts for 85% of cases while the peritoneum accounts for 10-15%.",
+        "E": "Tunica vaginalis mesothelioma is indeed uncommon, but it is not the only uncommon site. Pericardial mesothelioma is equally rare."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["mesothelioma", "anatomy", "serosal-membranes", "BAP1"]
+  },
+  {
+    "id": "r21-021",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "An 80-year-old man with recently diagnosed malignant pleural mesothelioma presents with worsening dyspnea and progressive hypoxemia requiring supplemental oxygen. He underwent extrapleural pneumonectomy 6 months ago, but staging now reveals disease recurrence. His overall condition has declined significantly. Which of the following is the primary cause of death in patients with mesothelioma?",
+    "choices": [
+      {"label": "A", "text": "Distant brain metastases"},
+      {"label": "B", "text": "Hepatic failure from liver metastases"},
+      {"label": "C", "text": "Renal failure from paraneoplastic syndrome"},
+      {"label": "D", "text": "Respiratory failure from local invasion"},
+      {"label": "E", "text": "Gastrointestinal hemorrhage"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Most patients with mesothelioma ultimately die from respiratory failure caused by local invasion. Mechanical restriction, nerve disruption, and blood shunting from tumor growth lead to progressive dyspnea and hypoxia.",
+      "whyCorrect": "Morbidity and mortality in mesothelioma are primarily from complications of local invasion. Tumor growth restricts lung mechanics, disrupts nerves, and causes blood shunting within the lung, ultimately leading to respiratory failure and death.",
+      "whyWrongByChoice": {
+        "A": "Brain metastases are uncommon in mesothelioma. The disease causes morbidity primarily through local spread rather than distant metastasis.",
+        "B": "Liver metastases are uncommon at presentation and are not the primary cause of death. Local invasion and respiratory failure are the dominant mechanisms.",
+        "C": "Paraneoplastic syndromes are not a major cause of death in mesothelioma. Renal failure from paraneoplastic mechanisms is very unusual in this malignancy.",
+        "E": "GI hemorrhage is not a recognized cause of death in mesothelioma. The disease primarily affects thoracic structures through local invasion."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["mesothelioma", "prognosis", "respiratory-failure", "mortality"]
+  },
+  {
+    "id": "r21-022",
+    "topicId": "mesothelioma",
+    "topicName": "Mesothelioma",
+    "stem": "A 69-year-old man with known early-stage epithelioid mesothelioma undergoes surgical treatment. The procedure involves complete removal of the pleura, lung, ipsilateral diaphragm, and pericardium en bloc. Which of the following surgical procedures was performed?",
+    "choices": [
+      {"label": "A", "text": "Pleurectomy and decortication"},
+      {"label": "B", "text": "Lobectomy"},
+      {"label": "C", "text": "Extrapleural pneumonectomy"},
+      {"label": "D", "text": "Wedge resection"},
+      {"label": "E", "text": "Segmentectomy"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Extrapleural pneumonectomy is a radical operation that involves complete resection of the pleura, lung, ipsilateral diaphragm, and pericardium. It is one of two surgical options for resectable mesothelioma.",
+      "whyCorrect": "Extrapleural pneumonectomy is the more radical of the two surgical options for mesothelioma. It involves en bloc removal of the pleura, entire lung, ipsilateral diaphragm, and pericardium to achieve complete gross tumor removal.",
+      "whyWrongByChoice": {
+        "A": "Pleurectomy/decortication is a lung-preserving procedure that removes the pleura and gross tumor, with or without diaphragmatic and pericardial resection, but preserves the lung itself.",
+        "B": "Lobectomy removes a single lobe of the lung and is used for primary lung cancers, not mesothelioma, which involves the entire pleural surface.",
+        "D": "Wedge resection removes a small peripheral portion of lung and is used for small peripheral lung nodules, not pleural-based malignancies.",
+        "E": "Segmentectomy removes a bronchopulmonary segment and is used for small lung cancers, not mesothelioma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["mesothelioma", "surgery", "extrapleural-pneumonectomy", "treatment"]
+  },
+  {
+    "id": "r21-023",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 45-year-old man is brought to the emergency department after a motor vehicle collision. He has severe left chest wall pain and difficulty breathing. Physical examination reveals a segment of the left lateral chest wall that moves inward during inspiration and outward during expiration. Chest X-ray shows fractures of ribs 4 through 7, each fractured in two locations. Which of the following is the most accurate diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Simple rib fractures"},
+      {"label": "B", "text": "Flail chest"},
+      {"label": "C", "text": "Costochondritis"},
+      {"label": "D", "text": "Sternal fracture"},
+      {"label": "E", "text": "Pulmonary contusion"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Flail chest is defined as 3 or more consecutive ribs fractured in 2 or more places, creating a free-floating segment that moves paradoxically (inward with inspiration, outward with expiration).",
+      "whyCorrect": "This patient has 4 consecutive ribs (4-7) each fractured in two places, meeting the definition of flail chest. The hallmark finding is paradoxical chest wall movement, where the flail segment moves opposite to the rest of the chest wall during respiration.",
+      "whyWrongByChoice": {
+        "A": "Simple rib fractures involve individual rib fractures without creating a free-floating segment. They do not cause paradoxical chest wall motion.",
+        "C": "Costochondritis is inflammation of the costochondral junctions causing localized chest pain reproducible with palpation, not traumatic rib fractures with paradoxical motion.",
+        "D": "A sternal fracture involves the sternum, not the lateral ribs. It does not create a paradoxically moving chest wall segment.",
+        "E": "Pulmonary contusion is a bruise of the lung parenchyma that causes opacification on imaging but does not produce paradoxical chest wall movement."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["flail-chest", "rib-fractures", "paradoxical-motion", "trauma"]
+  },
+  {
+    "id": "r21-024",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 55-year-old man sustains multiple left-sided rib fractures after falling from a ladder. He is alert and hemodynamically stable but splints with breathing due to pain. His oxygen saturation is 94% on room air. Chest X-ray shows no pneumothorax or effusion. Which of the following is the most important initial management priority?",
+    "choices": [
+      {"label": "A", "text": "Emergent surgical rib fixation"},
+      {"label": "B", "text": "Immediate intubation and ventilation"},
+      {"label": "C", "text": "Prophylactic chest tube placement"},
+      {"label": "D", "text": "Tight chest wall wrapping"},
+      {"label": "E", "text": "Multimodal pain control with breathing coaching"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In stable patients with rib fractures, adequate multimodal pain control is the most important initial priority. Pain limits deep breathing and coughing, increasing the risk of atelectasis and pulmonary complications.",
+      "whyCorrect": "Pain from rib fractures limits the patient's ability to breathe deeply and cough, increasing risks of atelectasis and other pulmonary complications. Multimodal pain management, early mobilization, and coaching on deep breathing and coughing are the cornerstones of initial management.",
+      "whyWrongByChoice": {
+        "A": "Surgical fixation (SSRF with ORIF) is reserved for flail chest patients who fail conservative management or require mechanical ventilation, not for simple rib fractures in a stable patient.",
+        "B": "Intubation is reserved for patients with respiratory failure. This patient is alert with adequate oxygenation and needs pain control, not mechanical ventilation.",
+        "C": "Prophylactic chest tube placement is not indicated without evidence of pneumothorax or hemothorax. Unnecessary procedures carry their own risks.",
+        "D": "Chest wall binding restricts chest expansion and worsens ventilation, increasing the risk of atelectasis and respiratory complications. It is contraindicated."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["rib-fractures", "pain-management", "atelectasis", "trauma"]
+  },
+  {
+    "id": "r21-025",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 30-year-old man is stabbed in the left chest at the 6th intercostal space in the midaxillary line. He arrives at the emergency department with a blood pressure of 90/60 mmHg and heart rate of 125 bpm. A chest tube is placed and immediately drains 1,800 mL of blood. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Observation with serial chest X-rays"},
+      {"label": "B", "text": "CT angiography of the chest"},
+      {"label": "C", "text": "Emergent thoracotomy for hemorrhage control"},
+      {"label": "D", "text": "Removal of chest tube with closure"},
+      {"label": "E", "text": "Autotransfusion of collected blood only"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "An initial chest tube output exceeding 1,500 mL constitutes a massive hemothorax requiring emergent thoracotomy for surgical hemorrhage control in a hemodynamically unstable patient.",
+      "whyCorrect": "A massive hemothorax is defined as initial chest tube output greater than 1,500 mL. In a hemodynamically unstable patient, this requires emergent thoracotomy to identify and control the bleeding source, which may be an intercostal vessel, internal mammary artery, or pulmonary vasculature.",
+      "whyWrongByChoice": {
+        "A": "Observation is inappropriate for a hemodynamically unstable patient with a massive hemothorax. This patient needs immediate surgical intervention to control the hemorrhage.",
+        "B": "CT angiography would delay definitive treatment in a hemodynamically unstable patient with active hemorrhage requiring emergent surgical intervention.",
+        "D": "Removing the chest tube would cause re-accumulation of blood in the pleural space, worsening respiratory compromise. The source of bleeding must be addressed surgically.",
+        "E": "While autotransfusion may be a useful adjunct, it does not address the ongoing hemorrhage. The primary need is surgical hemorrhage control."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hemothorax", "massive", "thoracotomy", "penetrating-trauma"]
+  },
+  {
+    "id": "r21-026",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 28-year-old woman is involved in a high-speed motor vehicle collision and intubated in the field. Chest X-ray on arrival shows diffuse opacification of the left lung without pleural effusion and left-sided rib fractures. Over the next 24 hours, her oxygenation progressively worsens despite ventilatory support. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Tension pneumothorax"},
+      {"label": "B", "text": "Pulmonary embolism"},
+      {"label": "C", "text": "Lobar pneumonia"},
+      {"label": "D", "text": "Pulmonary contusion"},
+      {"label": "E", "text": "Aortic transection"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Pulmonary contusion is a bruise of the lung parenchyma from blunt trauma, appearing as opacification on chest X-ray. It characteristically worsens over 24-48 hours as inflammation progresses.",
+      "whyCorrect": "Pulmonary contusion results from blunt chest trauma causing hemorrhage and edema within the lung parenchyma. CXR shows opacification at the site of injury. The pathophysiology worsens over 24-48 hours as inflammatory processes progress, causing worsening V/Q mismatch and hypoxemia.",
+      "whyWrongByChoice": {
+        "A": "Tension pneumothorax would show absent lung markings, mediastinal shift, and hemodynamic instability, not diffuse lung opacification.",
+        "B": "Pulmonary embolism causes acute hypoxemia but does not produce diffuse lung opacification on chest X-ray. It presents with clear lung fields or wedge-shaped infarcts.",
+        "C": "Lobar pneumonia would be unusual immediately after trauma. The opacification corresponds to the traumatic injury site and rib fractures, consistent with contusion.",
+        "E": "Aortic transection presents with a widened mediastinum on chest X-ray and hemodynamic instability, not diffuse lung opacification."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pulmonary-contusion", "blunt-trauma", "chest-xray", "hypoxemia"]
+  },
+  {
+    "id": "r21-027",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 40-year-old man is brought to the emergency department after a motorcycle crash. Chest X-ray shows a nasogastric tube coiling upward into the left hemithorax. Loops of bowel are visible above the expected level of the left hemidiaphragm. The patient is hemodynamically stable but tachypneic. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Left hemothorax"},
+      {"label": "B", "text": "Left-sided pleural effusion"},
+      {"label": "C", "text": "Traumatic diaphragmatic rupture"},
+      {"label": "D", "text": "Left lower lobe atelectasis"},
+      {"label": "E", "text": "Esophageal perforation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "A nasogastric tube coiling into the left hemithorax and bowel loops above the diaphragm after trauma indicate herniation of abdominal contents through a diaphragmatic tear, confirming traumatic diaphragmatic rupture.",
+      "whyCorrect": "The chest X-ray shows the stomach (followed by the NG tube) and bowel loops herniated into the left hemithorax through a diaphragmatic defect. The negative intrathoracic pressure pulls abdominal contents upward through the tear. Left-sided injuries are more common because the liver protects the right hemidiaphragm.",
+      "whyWrongByChoice": {
+        "A": "A hemothorax would show a homogeneous fluid collection in the dependent portion of the chest, not bowel loops and a displaced NG tube in the thorax.",
+        "B": "A pleural effusion would show a meniscus sign on upright X-ray, not loops of bowel and an NG tube in the thorax.",
+        "D": "Atelectasis would show opacification with volume loss and mediastinal shift toward the affected side, not bowel loops in the thorax.",
+        "E": "Esophageal perforation can cause pneumomediastinum and mediastinitis but would not cause bowel loops to appear in the left hemithorax."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diaphragmatic-rupture", "herniation", "trauma", "chest-xray"]
+  },
+  {
+    "id": "r21-028",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 35-year-old woman presents with sharp, stabbing chest pain that worsens with deep inspiration and coughing. She recently recovered from a viral upper respiratory infection. Auscultation reveals a creaking, rubbing sound during both inspiration and expiration that disappears when she holds her breath. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Pericarditis"},
+      {"label": "B", "text": "Costochondritis"},
+      {"label": "C", "text": "Pneumothorax"},
+      {"label": "D", "text": "Pleuritis"},
+      {"label": "E", "text": "Pulmonary embolism"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Sharp chest pain worsening with inspiration, a pleural friction rub (creaking sound during inspiration and expiration that ceases with breath holding), and recent viral infection are classic for pleuritis (pleural inflammation).",
+      "whyCorrect": "Pleuritis presents with sharp, pleuritic chest pain and a pleural friction rub. The friction rub is distinguished from a pericardial friction rub by its cessation during breath holding (pericardial rubs continue). Viral infections are a common cause of pleuritis.",
+      "whyWrongByChoice": {
+        "A": "Pericarditis can produce a friction rub, but a pericardial friction rub continues even when the patient holds their breath, since it is related to cardiac motion, not respiratory motion.",
+        "B": "Costochondritis causes reproducible chest wall tenderness with palpation. It does not produce a friction rub on auscultation.",
+        "C": "Pneumothorax causes sudden pleuritic chest pain and decreased breath sounds on the affected side, not a friction rub.",
+        "E": "Pulmonary embolism causes acute dyspnea and pleuritic pain but does not typically produce a pleural friction rub on auscultation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleuritis", "friction-rub", "pleuritic-chest-pain", "viral"]
+  },
+  {
+    "id": "r21-029",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "Three days after an esophagectomy, a 58-year-old man develops a right-sided pleural effusion with progressive dyspnea. Thoracentesis yields milky white fluid. Laboratory analysis shows triglycerides of 180 mg/dL and a lymphocyte-predominant cell count exceeding 80%. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Emergent thoracic duct ligation"},
+      {"label": "B", "text": "Intravenous antibiotics and drainage"},
+      {"label": "C", "text": "Chest tube and low-fat MCT diet"},
+      {"label": "D", "text": "Systemic anticoagulation therapy"},
+      {"label": "E", "text": "Pleurodesis with talc instillation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Milky fluid with elevated triglycerides (>110 mg/dL) and lymphocyte predominance after esophagectomy confirms chylothorax from thoracic duct injury. Initial management is conservative: chest tube drainage and dietary modification with medium-chain triglycerides.",
+      "whyCorrect": "Chylothorax management begins conservatively with chest tube drainage and nutritional support using a low-fat diet containing medium-chain triglycerides (which absorb into intestinal capillaries rather than lymphatics). This reduces lymphatic flow and allows approximately 50% of chylothoraxes to heal.",
+      "whyWrongByChoice": {
+        "A": "Thoracic duct ligation is reserved for cases that fail conservative management after 2-3 weeks. Initial management should be conservative.",
+        "B": "This is a chylothorax, not an empyema. Antibiotics are not indicated. The milky fluid with high triglycerides and lymphocytes is chyle, not infected fluid.",
+        "D": "Anticoagulation has no role in chylothorax management and could worsen any surgical bleeding.",
+        "E": "Pleurodesis may be considered if conservative measures fail but is not the first-line treatment for post-surgical chylothorax."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["chylothorax", "thoracic-duct", "medium-chain-triglycerides", "management"]
+  },
+  {
+    "id": "r21-030",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 50-year-old man develops severe chest pain, subcutaneous emphysema in the neck, and fever 6 hours after upper endoscopy with dilation of an esophageal stricture. He becomes increasingly tachycardic and hypotensive. Chest X-ray shows pneumomediastinum. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Myocardial infarction"},
+      {"label": "B", "text": "Esophageal perforation with mediastinitis"},
+      {"label": "C", "text": "Spontaneous pneumothorax"},
+      {"label": "D", "text": "Pulmonary embolism"},
+      {"label": "E", "text": "Acute pancreatitis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Severe chest pain, subcutaneous emphysema, fever, and hemodynamic instability after esophageal instrumentation indicate esophageal perforation with resultant mediastinitis, a surgical emergency.",
+      "whyCorrect": "Esophageal perforation is a known complication of endoscopic dilation. Air escaping from the esophageal breach into the mediastinum causes pneumomediastinum and subcutaneous emphysema. The contamination of the mediastinum with esophageal contents leads to mediastinitis, which can rapidly progress to septic shock.",
+      "whyWrongByChoice": {
+        "A": "MI causes chest pain and hemodynamic instability but does not cause subcutaneous emphysema or fever acutely. The temporal relationship to endoscopy points to esophageal perforation.",
+        "C": "Spontaneous pneumothorax could cause chest pain and subcutaneous emphysema but would not cause fever, and the temporal relationship to endoscopy strongly suggests esophageal perforation.",
+        "D": "Pulmonary embolism causes acute dyspnea and chest pain but does not produce subcutaneous emphysema or fever in this timeframe.",
+        "E": "Acute pancreatitis causes abdominal pain, not subcutaneous emphysema. While it can be a rare complication of ERCP, this presentation is classic for esophageal perforation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mediastinitis", "esophageal-perforation", "subcutaneous-emphysema", "endoscopy"]
+  },
+  {
+    "id": "r21-031",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 22-year-old man sustains a single stab wound to the left anterior chest just medial to the nipple. He arrives at the emergency department with a blood pressure of 70/40 mmHg, heart rate of 140 bpm, jugular venous distension, and muffled heart sounds. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Tension pneumothorax"},
+      {"label": "B", "text": "Massive hemothorax"},
+      {"label": "C", "text": "Aortic transection"},
+      {"label": "D", "text": "Cardiac tamponade"},
+      {"label": "E", "text": "Flail chest"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A stab wound medial to the left nipple with hypotension, JVD, and muffled heart sounds (Beck triad) is classic for cardiac tamponade from penetrating cardiac injury with a small pericardial defect.",
+      "whyCorrect": "Penetrating cardiac injury is the most lethal mediastinal injury. When the pericardial defect is small, blood accumulates in the pericardial sac causing tamponade. Beck triad (hypotension, JVD, muffled heart sounds) confirms the diagnosis. The wound location medial to the nipple places it over the cardiac silhouette.",
+      "whyWrongByChoice": {
+        "A": "Tension pneumothorax causes JVD and hypotension but also produces absent breath sounds, tracheal deviation, and hyperresonance, not muffled heart sounds.",
+        "B": "Massive hemothorax causes hypotension and decreased breath sounds but not JVD and muffled heart sounds together. Blood collects in the pleural space, not the pericardium.",
+        "C": "Aortic transection typically occurs from deceleration injury in blunt trauma, not penetrating stab wounds. It presents with a widened mediastinum.",
+        "E": "Flail chest requires multiple rib fractures from blunt trauma, not a single stab wound. It presents with paradoxical chest wall motion."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cardiac-tamponade", "Beck-triad", "penetrating-trauma", "cardiac-injury"]
+  },
+  {
+    "id": "r21-032",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 60-year-old man with severe ARDS from sepsis is mechanically ventilated with high airway pressures due to poor lung compliance. He suddenly develops worsening hypoxemia, hypotension, and absent breath sounds on the right side with tracheal deviation to the left. Which of the following is the most likely complication?",
+    "choices": [
+      {"label": "A", "text": "Mucus plugging of right bronchus"},
+      {"label": "B", "text": "Right-sided pulmonary embolism"},
+      {"label": "C", "text": "Tension pneumothorax from barotrauma"},
+      {"label": "D", "text": "Right lower lobe pneumonia"},
+      {"label": "E", "text": "Cardiac tamponade"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Patients with fibrotic, noncompliant lungs (as in ARDS) ventilated with high pressures are at high risk for pulmonary barotrauma. Sudden hypoxemia, hypotension, and absent breath sounds indicate tension pneumothorax from alveolar rupture.",
+      "whyCorrect": "Pulmonary barotrauma occurs when high ventilatory pressures cause alveolar overdistension and rupture in noncompliant lungs. Air escapes into the pleural space, causing pneumothorax that can progress to tension physiology with mediastinal shift, hypotension, and absent breath sounds.",
+      "whyWrongByChoice": {
+        "A": "Mucus plugging causes atelectasis with decreased breath sounds but would not cause sudden hypotension. It develops gradually and does not cause tension physiology.",
+        "B": "Pulmonary embolism causes acute hypoxemia but does not produce absent breath sounds. Breath sounds would be preserved in PE.",
+        "D": "Pneumonia develops over hours to days with fever, productive cough, and gradually worsening oxygenation, not acute hemodynamic collapse.",
+        "E": "Cardiac tamponade produces muffled heart sounds and JVD, not absent breath sounds on one side. It is not caused by mechanical ventilation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["barotrauma", "pneumothorax", "ARDS", "mechanical-ventilation"]
+  },
+  {
+    "id": "r21-033",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 19-year-old competitive swimmer is found unconscious in the pool during a breath-hold training session. Witnesses report that he took several forceful deep breaths before submerging. He is resuscitated and intubated. Which of the following best explains the mechanism of his loss of consciousness?",
+    "choices": [
+      {"label": "A", "text": "Cardiac arrhythmia from cold immersion"},
+      {"label": "B", "text": "Aspiration causing acute laryngospasm"},
+      {"label": "C", "text": "Nitrogen narcosis from prolonged submersion"},
+      {"label": "D", "text": "Hyperventilation-induced hypoxia before breathing urge"},
+      {"label": "E", "text": "Seizure disorder triggered by exercise"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Shallow water blackout occurs when pre-dive hyperventilation lowers CO2 levels, delaying the urge to breathe. Oxygen continues to fall during breath-holding, reaching critically low levels and causing unconsciousness before the diver feels the need to surface.",
+      "whyCorrect": "Hyperventilation before submersion lowers arterial CO2 (the primary driver of respiratory urge). During breath-holding, O2 continues to be consumed while the reduced CO2 delays the breathing stimulus. The diver loses consciousness from hypoxia before feeling the urge to breathe and surface.",
+      "whyWrongByChoice": {
+        "A": "Cold water immersion can trigger vagal responses, but this mechanism does not explain the classic scenario of hyperventilation before submersion in a pool setting.",
+        "B": "Laryngospasm is a reflex that occurs during drowning but is not the primary mechanism. The initial event was loss of consciousness from hypoxia due to shallow water blackout.",
+        "C": "Nitrogen narcosis occurs at depths greater than 30 meters in scuba diving due to compressed nitrogen. It does not occur during breath-hold swimming in a pool.",
+        "E": "While seizures are in the differential for underwater loss of consciousness, the history of deliberate hyperventilation before submersion is classic for shallow water blackout."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["shallow-water-blackout", "hyperventilation", "drowning", "hypoxia"]
+  },
+  {
+    "id": "r21-034",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 42-year-old man sustains blunt chest trauma in a motor vehicle collision. A chest tube is placed for a left hemothorax and drains 800 mL of blood initially. Over the next 4 hours, the chest tube consistently drains 250 mL per hour. He is receiving blood transfusions but remains tachycardic. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Continue observation and transfuse blood"},
+      {"label": "B", "text": "Remove chest tube and apply dressing"},
+      {"label": "C", "text": "Administer tranexamic acid and observe"},
+      {"label": "D", "text": "Place a second chest tube"},
+      {"label": "E", "text": "Surgical exploration for hemostasis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Persistent chest tube output exceeding 200 mL/hour for 2-4 hours indicates ongoing hemorrhage that requires surgical exploration for hemostasis, either by VATS or thoracotomy.",
+      "whyCorrect": "Indications for surgical intervention in hemothorax include massive initial output (>1,500 mL) or persistent heavy bleeding (>200 mL/hour for 2-4 hours). This patient has persistent output of 250 mL/hour for 4 hours, requiring surgical exploration.",
+      "whyWrongByChoice": {
+        "A": "Continued observation with ongoing hemorrhage at 250 mL/hour would lead to hemodynamic collapse. The rate of bleeding exceeds the threshold for surgical intervention.",
+        "B": "Removing the chest tube would allow blood to reaccumulate in the pleural space, causing respiratory compromise. The source of bleeding must be addressed.",
+        "C": "While tranexamic acid may have a role in trauma resuscitation, it would not adequately control a major vascular injury bleeding at this rate.",
+        "D": "A second chest tube would not address the underlying bleeding source. The patient needs surgical exploration for hemorrhage control."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hemothorax", "persistent-bleeding", "surgical-exploration", "trauma"]
+  },
+  {
+    "id": "r21-035",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 48-year-old woman presents to the emergency department with localized anterior chest pain after lifting heavy boxes. The pain is reproducible with palpation of the left 3rd and 4th costochondral junctions. There is no dyspnea, and vital signs are normal. ECG and troponin levels are both normal. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Acute coronary syndrome"},
+      {"label": "B", "text": "Pulmonary embolism"},
+      {"label": "C", "text": "Costochondritis"},
+      {"label": "D", "text": "Rib fracture"},
+      {"label": "E", "text": "Pleuritis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Costochondritis is inflammation of the cartilaginous joints between ribs and sternum, causing localized chest pain reproducible with palpation. Normal ECG and troponin exclude cardiac causes.",
+      "whyCorrect": "Costochondritis causes localized chest pain at the costochondral junctions that is typically reproducible with palpation and worsens with movement. It mimics cardiac pain but is distinguished by the reproducibility on exam and normal cardiac workup. It is often self-limiting and managed with analgesics.",
+      "whyWrongByChoice": {
+        "A": "Acute coronary syndrome would present with chest pain that is not reproducible with palpation, and troponin and/or ECG would typically be abnormal. This patient's workup is normal.",
+        "B": "Pulmonary embolism causes acute dyspnea and pleuritic chest pain but does not produce reproducible tenderness at the costochondral junctions.",
+        "D": "Rib fractures typically follow significant trauma and are tender at the fracture site (usually along the rib shaft), not specifically at the costochondral junction.",
+        "E": "Pleuritis causes sharp pain that worsens with inspiration and may produce a friction rub, not focal tenderness at the costochondral junctions on palpation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["costochondritis", "chest-pain", "musculoskeletal", "diagnosis"]
+  },
+  {
+    "id": "r21-036",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A chest tube is being inserted for a traumatic hemopneumothorax. The surgeon identifies the anatomic landmarks for the Triangle of Safety. Which of the following correctly describes the boundaries of this safe zone for chest tube placement?",
+    "choices": [
+      {"label": "A", "text": "Mid-clavicular line at second interspace"},
+      {"label": "B", "text": "Below the scapular angle near spine"},
+      {"label": "C", "text": "Medial to mid-clavicular line at fifth space"},
+      {"label": "D", "text": "Anterior to latissimus, posterior to pectoralis, above nipple"},
+      {"label": "E", "text": "Within the supraclavicular fossa"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The Triangle of Safety for chest tube insertion is defined as anterior to the latissimus dorsi, posterior to the pectoralis major, and above the level of the nipple (or inframammary crease), typically at the 5th intercostal space at the anterior axillary line.",
+      "whyCorrect": "The Triangle of Safety is the standard anatomic landmark for chest tube placement. Its boundaries (anterior to latissimus dorsi, posterior to pectoralis major, above the nipple line) ensure safe access to the pleural space while minimizing risk of injuring abdominal organs through the diaphragm.",
+      "whyWrongByChoice": {
+        "A": "The 2nd intercostal space in the mid-clavicular line is used for needle decompression of tension pneumothorax, not for formal chest tube placement.",
+        "B": "Placement below the scapular angle near the spine risks injury to the thoracic aorta, esophagus, and spine. This is not a safe location for chest tube insertion.",
+        "C": "Medial placement risks injury to the internal mammary artery and heart. Chest tubes should be placed laterally within the Triangle of Safety.",
+        "E": "The supraclavicular fossa is above the pleural space and is not an appropriate site for chest tube placement."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["chest-tube", "Triangle-of-Safety", "anatomy", "procedure"]
+  },
+  {
+    "id": "r21-037",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 55-year-old man with ARDS has been on 100% FiO2 for 3 days. His oxygenation paradoxically worsens despite maximum ventilator settings. Chest X-ray shows new bilateral diffuse opacities and areas of atelectasis that were not present 2 days ago. Which of the following is the most likely cause of his deterioration?",
+    "choices": [
+      {"label": "A", "text": "Ventilator-associated pneumonia"},
+      {"label": "B", "text": "Left ventricular heart failure"},
+      {"label": "C", "text": "Oxygen toxicity with resorptive atelectasis"},
+      {"label": "D", "text": "Acute pulmonary embolism"},
+      {"label": "E", "text": "New pleural effusion development"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Exposure to 100% oxygen for more than 24-48 hours causes oxygen toxicity through reactive oxygen species and resorptive atelectasis from loss of nitrogen stenting, paradoxically worsening oxygenation.",
+      "whyCorrect": "Prolonged exposure to 100% O2 causes oxidative stress from reactive oxygen species and resorptive atelectasis. Without nitrogen to keep alveoli open (nitrogen stenting), alveoli collapse as oxygen is fully absorbed. This can progress to ARDS-like injury. The goal is to maintain FiO2 below 60%.",
+      "whyWrongByChoice": {
+        "A": "Ventilator-associated pneumonia typically presents with fever, purulent secretions, and new focal infiltrate, not the diffuse pattern with atelectasis described after prolonged high FiO2.",
+        "B": "Left ventricular failure causes cardiogenic pulmonary edema with bilateral effusions and vascular congestion, but the context of prolonged 100% FiO2 makes oxygen toxicity more likely.",
+        "D": "PE causes acute hypoxemia but not the bilateral diffuse opacities with atelectasis pattern seen here. The temporal correlation with prolonged 100% FiO2 points to oxygen toxicity.",
+        "E": "Pleural effusions would show dependent fluid collections on X-ray, not diffuse opacities with atelectasis throughout both lungs."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["oxygen-toxicity", "resorptive-atelectasis", "FiO2", "ARDS"]
+  },
+  {
+    "id": "r21-038",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 38-year-old man presents with a left hemothorax after blunt trauma. A chest tube drains 400 mL of blood initially with minimal subsequent output. Two weeks later, he develops progressive dyspnea with decreased breath sounds on the left. CT shows a thick fibrous peel trapping the left lung. Which of the following complications has developed?",
+    "choices": [
+      {"label": "A", "text": "Empyema"},
+      {"label": "B", "text": "Fibrothorax"},
+      {"label": "C", "text": "Recurrent hemothorax"},
+      {"label": "D", "text": "Tension pneumothorax"},
+      {"label": "E", "text": "Chylothorax"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Fibrothorax is dense scarring that traps the lung, developing from organized, clotted blood that was not adequately drained from the pleural space. It causes restrictive lung physiology and progressive dyspnea.",
+      "whyCorrect": "Fibrothorax develops when retained blood in the pleural space organizes and forms a thick fibrous peel (cortex) that entraps the lung, preventing full expansion. This is why significant hemothoraces warrant drainage to prevent this complication.",
+      "whyWrongByChoice": {
+        "A": "Empyema is an infected pleural collection that would present with fever, elevated WBC, and purulent drainage, not a thick fibrous peel on CT.",
+        "C": "Recurrent hemothorax would show new fluid collection on imaging, not a solid fibrous peel trapping the lung.",
+        "D": "Tension pneumothorax presents acutely with hemodynamic instability, not as progressive dyspnea over weeks with a fibrous peel.",
+        "E": "Chylothorax produces milky lymphatic fluid and is not associated with organized fibrous tissue encasing the lung."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["fibrothorax", "hemothorax", "organized-clot", "complication"]
+  },
+  {
+    "id": "r21-039",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 26-year-old man is stabbed in the left lower chest at the 8th intercostal space. He is hemodynamically stable with a small left hemothorax on chest X-ray. After chest tube placement, the surgical team is concerned about a possible diaphragmatic injury. Which of the following is the gold standard for diagnosing occult diaphragmatic injury in this setting?",
+    "choices": [
+      {"label": "A", "text": "CT of chest and abdomen"},
+      {"label": "B", "text": "Chest X-ray"},
+      {"label": "C", "text": "Ultrasound of the diaphragm"},
+      {"label": "D", "text": "Diagnostic thoracoscopy or laparoscopy"},
+      {"label": "E", "text": "MRI of the chest"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Surgical inspection by thoracoscopy or laparoscopy is the gold standard for evaluating diaphragmatic injury from penetrating wounds in the danger zone (between nipple line and umbilicus), as many small injuries are missed by CT.",
+      "whyCorrect": "Many diaphragmatic injuries from penetrating trauma are small and cannot be detected by CT imaging. The gold standard evaluation is direct surgical inspection via thoracoscopy or laparoscopy. This is especially important because untreated small injuries can gradually enlarge due to negative intrathoracic pressure, leading to delayed herniation.",
+      "whyWrongByChoice": {
+        "A": "CT can detect larger diaphragmatic injuries and herniation but misses many smaller penetrating injuries. It is not the gold standard.",
+        "B": "Chest X-ray may show findings suggesting diaphragmatic injury (e.g., herniated bowel) but misses most small injuries without herniation.",
+        "C": "Ultrasound has limited sensitivity for small diaphragmatic injuries and is not considered the gold standard.",
+        "E": "MRI is useful for some soft tissue evaluation but is not practical or standard for acute penetrating trauma evaluation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diaphragmatic-injury", "thoracoscopy", "laparoscopy", "penetrating-trauma"]
+  },
+  {
+    "id": "r21-040",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 5-year-old boy is pulled from a swimming pool after being submerged for approximately 3 minutes. He is coughing, mildly tachypneic, with oxygen saturation of 93% on room air and scattered bilateral wheezes. After 8 hours of observation, he is completely asymptomatic with oxygen saturation of 99% on room air and normal lung exam. Which of the following is the most appropriate disposition?",
+    "choices": [
+      {"label": "A", "text": "Admit to ICU for 48-hour monitoring"},
+      {"label": "B", "text": "Observe 24 hours for delayed drowning"},
+      {"label": "C", "text": "Discharge home with follow-up instructions"},
+      {"label": "D", "text": "Admit for prophylactic antibiotic course"},
+      {"label": "E", "text": "Intubate for airway protection"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Near-drowning patients who remain asymptomatic, maintain normal oxygen saturation on room air, and have normal pulmonary exams after 8 hours of observation are safe for discharge. 'Delayed drowning' in asymptomatic patients is a myth.",
+      "whyCorrect": "If symptoms or complications from near-drowning are to develop, they do so within the first 8 hours. Patients who are asymptomatic with normal oxygen saturation and normal exams after 8 hours can be safely discharged. 'Dry drowning' or delayed deterioration in completely asymptomatic patients is not a real phenomenon.",
+      "whyWrongByChoice": {
+        "A": "ICU admission is unnecessary for a patient who is completely asymptomatic after 8 hours with normal vital signs and exam.",
+        "B": "The concept of 'delayed drowning' occurring after a patient has been completely asymptomatic through an 8-hour observation period is a myth. Additional observation is unnecessary.",
+        "D": "Prophylactic antibiotics are not recommended for near-drowning patients. Antibiotics should be reserved for documented infections.",
+        "E": "Intubation is not indicated for an asymptomatic patient with normal oxygen saturation and clear lungs."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["near-drowning", "observation", "discharge", "pediatric"]
+  },
+  {
+    "id": "r21-041",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 45-year-old man with flail chest after a motor vehicle collision is intubated for respiratory failure. Despite mechanical ventilation and multimodal pain management with epidural analgesia, he continues to have difficulty weaning from the ventilator after 5 days. Which of the following surgical interventions may speed his recovery?",
+    "choices": [
+      {"label": "A", "text": "Thoracotomy with lung resection"},
+      {"label": "B", "text": "Rib fixation with titanium plates"},
+      {"label": "C", "text": "Pleurodesis"},
+      {"label": "D", "text": "Diaphragmatic plication"},
+      {"label": "E", "text": "Tracheostomy alone"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Surgical Stabilization of Rib Fractures (SSRF) using Open Reduction and Internal Fixation (ORIF) with titanium plates and screws can speed recovery in flail chest patients who require mechanical ventilation.",
+      "whyCorrect": "SSRF with ORIF involves operatively realigning fractured ribs and stabilizing them with titanium plates and screws. This restores chest wall integrity, reduces paradoxical motion, improves respiratory mechanics, and can facilitate weaning from mechanical ventilation.",
+      "whyWrongByChoice": {
+        "A": "Lung resection is not indicated for flail chest. The underlying lung parenchyma is not diseased; the problem is chest wall instability from multiple rib fractures.",
+        "C": "Pleurodesis obliterates the pleural space and is used for recurrent pleural effusions or pneumothorax, not for stabilizing rib fractures.",
+        "D": "Diaphragmatic plication is used for diaphragm paralysis, not for flail chest with rib fractures.",
+        "E": "Tracheostomy may be needed for prolonged ventilation but does not address the mechanical problem of the flail segment causing respiratory failure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["flail-chest", "SSRF", "ORIF", "rib-fractures"]
+  },
+  {
+    "id": "r21-042",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 52-year-old man develops a chylothorax 5 days after thoracic spine surgery. Conservative management with NPO status and total parenteral nutrition is initiated. The chest tube continues to drain 800 mL of chyle daily after 3 weeks. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Continue conservative management longer"},
+      {"label": "B", "text": "Systemic chemotherapy"},
+      {"label": "C", "text": "Switch to a regular diet"},
+      {"label": "D", "text": "Remove the chest tube"},
+      {"label": "E", "text": "Thoracic duct ligation or pleurodesis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "When conservative management of chylothorax fails after 2-3 weeks, surgical intervention with thoracic duct ligation or pleurodesis is indicated.",
+      "whyCorrect": "Conservative measures (chest tube drainage, NPO/low-fat diet with MCTs) allow approximately 50% of chylothoraxes to heal. If output persists after 2-3 weeks, surgical intervention with thoracic duct ligation or pleurodesis is the next step to definitively stop the chyle leak.",
+      "whyWrongByChoice": {
+        "A": "Prolonged conservative management beyond 2-3 weeks is unlikely to succeed if there has been no improvement. Continued chyle loss leads to nutritional depletion and immunocompromise.",
+        "B": "Chemotherapy is used for malignant causes of chylothorax (e.g., lymphoma). This is a surgical chylothorax requiring mechanical intervention.",
+        "C": "Switching to a regular diet would increase lymphatic flow and worsen the chylothorax output.",
+        "D": "Removing the chest tube without resolving the chyle leak would cause re-accumulation of chylothorax with respiratory compromise."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["chylothorax", "thoracic-duct-ligation", "pleurodesis", "surgical-management"]
+  },
+  {
+    "id": "r21-043",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 33-year-old man has a chest X-ray after a motor vehicle collision that shows air outlining the mediastinal structures with a continuous diaphragm sign. He has mild substernal discomfort and crepitus in the neck. CT confirms pneumomediastinum without evidence of esophageal or tracheal injury. Which of the following is the most appropriate management?",
+    "choices": [
+      {"label": "A", "text": "Emergent thoracotomy"},
+      {"label": "B", "text": "Immediate esophageal stent placement"},
+      {"label": "C", "text": "Bilateral chest tube placement"},
+      {"label": "D", "text": "Supportive care with monitoring"},
+      {"label": "E", "text": "Broad-spectrum antibiotics for mediastinitis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Pneumomediastinum from alveolar rupture (without esophageal or tracheal injury) typically causes mild discomfort and subcutaneous emphysema but resolves without specific treatment. Supportive care and monitoring are appropriate.",
+      "whyCorrect": "Most pneumomediastinum results from alveolar rupture and is self-limiting. When CT confirms no esophageal or tracheal injury, the air will resorb spontaneously. The subcutaneous emphysema and discomfort resolve with supportive care.",
+      "whyWrongByChoice": {
+        "A": "Thoracotomy is not indicated for simple pneumomediastinum without evidence of esophageal or tracheal injury or ongoing hemodynamic compromise.",
+        "B": "Esophageal stent placement would be considered for esophageal perforation, which has been excluded by CT in this patient.",
+        "C": "Chest tubes are indicated for an associated pneumothorax but not for pneumomediastinum alone. There is no pneumothorax described.",
+        "E": "Antibiotics for mediastinitis are indicated when there is esophageal or tracheal breach causing contamination. Simple pneumomediastinum from alveolar rupture does not cause mediastinitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumomediastinum", "alveolar-rupture", "conservative-management", "imaging"]
+  },
+  {
+    "id": "r21-044",
+    "topicId": "traumatic-chest-disorders",
+    "topicName": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "stem": "A 28-year-old scuba diver ascends rapidly from 30 meters depth after running out of air. Upon surfacing, he develops acute chest pain, dyspnea, and hemoptysis. A chest X-ray reveals a left-sided pneumothorax and pneumomediastinum. Which of the following is the underlying mechanism of his injuries?",
+    "choices": [
+      {"label": "A", "text": "Alveolar overdistension from rapid decompression"},
+      {"label": "B", "text": "Dissolved nitrogen forming tissue bubbles"},
+      {"label": "C", "text": "Hyperbaric oxygen toxicity to lungs"},
+      {"label": "D", "text": "Saltwater aspiration during ascent"},
+      {"label": "E", "text": "Nitrogen narcosis at depth"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Pulmonary barotrauma during rapid ascent occurs because gas in the lungs expands as ambient pressure decreases (Boyle's law), causing alveolar overdistension and rupture. Air escapes into the pleural cavity (pneumothorax) and mediastinum (pneumomediastinum).",
+      "whyCorrect": "During rapid ascent, ambient pressure decreases, causing trapped gas in the lungs to expand. If the diver does not exhale adequately, alveolar overdistension and rupture occur, allowing air to escape into the interstitial spaces, pleural cavity, and mediastinum.",
+      "whyWrongByChoice": {
+        "B": "Decompression sickness involves dissolved nitrogen forming bubbles in blood and tissues, causing joint pain, neurological symptoms, and skin changes, not primarily pneumothorax from alveolar rupture.",
+        "C": "Oxygen toxicity occurs with prolonged exposure to high-pressure oxygen and affects the CNS (seizures) or lungs over time. It does not cause acute pneumothorax from rapid ascent.",
+        "D": "Aspiration would cause coughing and hypoxemia from fluid in the airways, not pneumothorax and pneumomediastinum from air leak.",
+        "E": "Nitrogen narcosis occurs at depth and causes impaired judgment and euphoria. It resolves with ascent and does not cause pneumothorax."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["barotrauma", "scuba-diving", "pneumothorax", "rapid-ascent"]
+  }
+]

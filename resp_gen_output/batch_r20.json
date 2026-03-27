@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r20-001",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 68-year-old man with a 10-year history of congestive heart failure presents with progressive dyspnea over 2 weeks. Physical examination reveals bilateral 2+ pitting edema, jugular venous distension, and dullness to percussion at the right lung base with decreased breath sounds. Chest X-ray shows blunting of the right costophrenic angle with cardiomegaly. Thoracentesis yields straw-colored fluid. Which pleural fluid finding is most consistent with his diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Protein ratio greater than 0.5"},
+      {"label": "B", "text": "LDH ratio less than 0.6"},
+      {"label": "C", "text": "Glucose below 60 mg/dL"},
+      {"label": "D", "text": "LDH ratio greater than 0.6"},
+      {"label": "E", "text": "WBC above 50,000 per microliter"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient has a transudative pleural effusion secondary to congestive heart failure. Transudative effusions do not meet any of Light's criteria, meaning the LDH ratio is <0.6.",
+      "whyCorrect": "Heart failure causes transudative effusions through increased capillary hydrostatic pressure. Transudative fluid has low protein and low LDH. A pleural-to-serum LDH ratio <0.6 is consistent with a transudate by Light's criteria.",
+      "whyWrongByChoice": {
+        "A": "A protein ratio >0.5 meets Light's criteria for an exudate. Heart failure produces transudative effusions with protein ratios <0.5.",
+        "C": "Glucose <60 mg/dL suggests bacterial infection, malignancy, or rheumatoid arthritis — all exudative causes.",
+        "D": "An LDH ratio >0.6 classifies fluid as exudate. Transudative effusions from heart failure have ratios below this.",
+        "E": "WBC >50,000/μL indicates empyema with purulent fluid, not simple transudation from heart failure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "transudate", "Light-criteria", "heart-failure"]
+  },
+  {
+    "id": "r20-002",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 55-year-old woman with hepatic cirrhosis and a history of heavy alcohol use presents with increasing abdominal girth and shortness of breath over 3 weeks. Physical examination reveals ascites, spider angiomata on the chest, palmar erythema, and decreased breath sounds at the right lung base. Serum albumin is 2.0 g/dL. Chest X-ray confirms a right-sided pleural effusion. Which of the following is the primary mechanism of effusion formation?",
+    "choices": [
+      {"label": "A", "text": "Decreased plasma oncotic pressure"},
+      {"label": "B", "text": "Increased capillary wall permeability"},
+      {"label": "C", "text": "Mediastinal lymphatic obstruction"},
+      {"label": "D", "text": "Direct pleural membrane inflammation"},
+      {"label": "E", "text": "Thoracic duct traumatic disruption"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Hepatic cirrhosis leads to decreased albumin synthesis, lowering plasma oncotic pressure. This allows fluid to shift from capillaries into the pleural space, producing a transudative effusion.",
+      "whyCorrect": "In cirrhosis, impaired hepatic synthetic function leads to hypoalbuminemia (2.0 g/dL here) and decreased plasma oncotic pressure. Per Starling forces, reduced oncotic pressure allows fluid to shift into the pleural space.",
+      "whyWrongByChoice": {
+        "B": "Increased capillary permeability causes exudative effusions from inflammation or infection, not cirrhosis.",
+        "C": "Lymphatic obstruction causes effusions in lymphoma or mediastinal tumors, not cirrhosis.",
+        "D": "Pleural inflammation produces exudative effusions with high protein and LDH, not a transudative process.",
+        "E": "Thoracic duct disruption causes chylothorax with milky fluid and elevated triglycerides."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "cirrhosis", "oncotic-pressure", "transudate"]
+  },
+  {
+    "id": "r20-003",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 42-year-old man hospitalized for community-acquired pneumonia develops worsening fever to 39.8°C and right-sided pleuritic chest pain on hospital day 3 despite appropriate antibiotics. Physical examination reveals decreased breath sounds at the right base. Thoracentesis yields purulent, foul-smelling fluid with pH 6.9, glucose 30 mg/dL, and WBC 65,000/μL. Gram stain shows gram-positive cocci in chains. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Continue current antibiotics only"},
+      {"label": "B", "text": "Repeat thoracentesis in 48 hours"},
+      {"label": "C", "text": "Chest tube drainage"},
+      {"label": "D", "text": "Increase intravenous diuretic therapy"},
+      {"label": "E", "text": "Chemical pleurodesis procedure"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This patient has empyema, evidenced by purulent fluid, very low pH, low glucose, and markedly elevated WBC. Empyema requires drainage because antibiotics alone cannot penetrate the infected pleural collection.",
+      "whyCorrect": "Empyema requires chest tube drainage for source control. Frankly purulent fluid, pH <7.20, glucose <60 mg/dL, and WBC >50,000/μL all confirm empyema. Antibiotics poorly penetrate walled-off collections.",
+      "whyWrongByChoice": {
+        "A": "Antibiotics alone are insufficient for empyema because they cannot achieve therapeutic concentrations in purulent pleural collections.",
+        "B": "Delaying intervention for 48 hours risks clinical deterioration in the setting of active empyema.",
+        "D": "Diuretics are appropriate for transudative effusions from volume overload, not infected exudative collections.",
+        "E": "Pleurodesis is for recurrent effusions, typically malignant, not acute empyema."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "empyema", "chest-tube", "parapneumonic"]
+  },
+  {
+    "id": "r20-004",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 60-year-old woman with metastatic breast cancer presents with progressive dyspnea over 3 weeks. Chest X-ray shows a large left-sided pleural effusion with a meniscus sign. Thoracentesis yields bloody fluid with a pleural-to-serum protein ratio of 0.7 and pleural LDH of 350 U/L (upper limit of normal serum LDH 250 U/L). Cytology shows clusters of malignant epithelial cells. Which of the following best classifies this effusion?",
+    "choices": [
+      {"label": "A", "text": "Transudative effusion"},
+      {"label": "B", "text": "Exudative effusion"},
+      {"label": "C", "text": "Chylous effusion"},
+      {"label": "D", "text": "Pseudochylous effusion"},
+      {"label": "E", "text": "Traumatic hemothorax"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The fluid meets Light's criteria for an exudate: protein ratio >0.5 and pleural LDH exceeding two-thirds the upper limit of normal serum LDH. Malignancy is a classic cause of exudative effusions.",
+      "whyCorrect": "Light's criteria classify fluid as exudative if any one criterion is met. This fluid has protein ratio 0.7 (>0.5) and LDH 350, exceeding two-thirds of normal serum LDH (167 U/L). Malignant effusions are exudative.",
+      "whyWrongByChoice": {
+        "A": "Transudative effusions fail to meet any of Light's criteria. This fluid exceeds thresholds for both protein ratio and LDH.",
+        "C": "Chylous effusions appear milky with elevated triglycerides from thoracic duct disruption, not bloody fluid.",
+        "D": "Pseudochylous effusions have a milky appearance due to high cholesterol in chronic inflammation.",
+        "E": "Hemothorax refers specifically to blood from trauma or vascular injury, not malignancy-related effusions."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "exudate", "Light-criteria", "malignancy"]
+  },
+  {
+    "id": "r20-005",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 35-year-old man with nephrotic syndrome from membranous nephropathy presents with bilateral lower extremity edema and mild dyspnea. Serum albumin is 1.8 g/dL. Urinalysis shows 4+ proteinuria. Chest X-ray shows small bilateral pleural effusions. Thoracentesis yields clear, straw-colored fluid that does not meet Light's criteria. Which Starling force abnormality best explains the effusion formation?",
+    "choices": [
+      {"label": "A", "text": "Increased interstitial oncotic pressure"},
+      {"label": "B", "text": "Decreased capillary hydrostatic pressure"},
+      {"label": "C", "text": "Increased capillary wall permeability"},
+      {"label": "D", "text": "Decreased plasma oncotic pressure"},
+      {"label": "E", "text": "Increased lymphatic reabsorption capacity"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Nephrotic syndrome causes massive proteinuria leading to hypoalbuminemia. The resulting decrease in plasma oncotic pressure allows fluid to shift from capillaries into the pleural space.",
+      "whyCorrect": "In nephrotic syndrome, excess protein lost in urine lowers serum albumin and plasma oncotic pressure. Per Starling forces, decreased oncotic pressure reduces fluid reabsorption into capillaries, allowing fluid to accumulate in the pleural space.",
+      "whyWrongByChoice": {
+        "A": "Increased interstitial oncotic pressure could draw fluid out but is not the primary mechanism in nephrotic syndrome.",
+        "B": "Decreased capillary hydrostatic pressure would reduce fluid movement out of capillaries and prevent effusions.",
+        "C": "Increased capillary permeability causes exudative effusions from inflammation. Nephrotic syndrome produces transudative effusions.",
+        "E": "Increased lymphatic drainage would protect against effusion, not cause it."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "nephrotic-syndrome", "Starling-forces", "transudate"]
+  },
+  {
+    "id": "r20-006",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 72-year-old man with a 20-year history of seropositive rheumatoid arthritis presents with left-sided pleuritic chest pain and low-grade fever for 1 week. Physical examination reveals dullness to percussion and decreased breath sounds at the left base. Thoracentesis reveals exudative fluid with glucose of 25 mg/dL and elevated LDH. Which additional pleural fluid finding would be most consistent with his underlying condition?",
+    "choices": [
+      {"label": "A", "text": "pH less than 7.20"},
+      {"label": "B", "text": "Triglycerides above 110 mg/dL"},
+      {"label": "C", "text": "pH greater than 7.40"},
+      {"label": "D", "text": "Low LDH concentration"},
+      {"label": "E", "text": "WBC below 100 per microliter"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Rheumatoid pleural effusions characteristically have very low glucose (<60 mg/dL) and low pH (<7.20), reflecting intense pleural inflammation.",
+      "whyCorrect": "Rheumatoid arthritis causes exudative effusions with markedly low glucose and low pH. The decreased glucose reflects impaired transport and consumption by inflammatory cells. pH <7.20 indicates significant metabolic activity.",
+      "whyWrongByChoice": {
+        "B": "Elevated triglycerides suggest chylothorax from thoracic duct disruption, not rheumatoid pleuritis.",
+        "C": "pH >7.40 indicates alkaline fluid, inconsistent with intense pleural inflammation.",
+        "D": "Rheumatoid effusions are exudative with elevated LDH due to cellular damage.",
+        "E": "Rheumatoid effusions are inflammatory with elevated WBC counts."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "rheumatoid-arthritis", "exudate", "glucose"]
+  },
+  {
+    "id": "r20-007",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 48-year-old man undergoes esophagectomy for distal esophageal cancer. Five days postoperatively, he develops fever to 38.5°C, left-sided dyspnea, and decreased oral intake. Physical examination reveals decreased breath sounds at the left base. Thoracentesis yields milky white fluid with triglycerides of 180 mg/dL and positive Sudan stain for fat. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Postoperative congestive heart failure"},
+      {"label": "B", "text": "Parapneumonic pleural effusion"},
+      {"label": "C", "text": "Iatrogenic thoracic duct injury"},
+      {"label": "D", "text": "Acute pulmonary thromboembolism"},
+      {"label": "E", "text": "Nephrotic syndrome exacerbation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Milky pleural fluid with triglycerides >110 mg/dL is diagnostic of chylothorax. Following esophagectomy, the most likely cause is iatrogenic thoracic duct injury.",
+      "whyCorrect": "Chylothorax results from thoracic duct leakage. Chyle is fat-rich lymph that appears milky. Thoracic duct injury is a recognized complication of esophagectomy due to anatomic proximity.",
+      "whyWrongByChoice": {
+        "A": "Heart failure produces clear, straw-colored transudative fluid, not milky fluid with elevated triglycerides.",
+        "B": "Parapneumonic effusions may be turbid or purulent but lack the milky appearance and elevated triglycerides of chylothorax.",
+        "D": "PE-related effusions are typically serosanguinous, not milky with elevated triglycerides.",
+        "E": "Nephrotic syndrome causes clear transudative effusions, not milky fluid."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "chylothorax", "thoracic-duct", "surgery"]
+  },
+  {
+    "id": "r20-008",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 50-year-old woman presents with dyspnea and right-sided chest heaviness for 5 days. On examination, there is decreased tactile fremitus, dullness to percussion, and absent breath sounds at the right lung base. Heart sounds are normal. The left lung is clear to auscultation. Which chest X-ray finding would you most expect?",
+    "choices": [
+      {"label": "A", "text": "Bilateral hyperinflated lung fields"},
+      {"label": "B", "text": "Bilateral hilar lymphadenopathy"},
+      {"label": "C", "text": "Right-sided hyperresonant hemithorax"},
+      {"label": "D", "text": "Blunted right costophrenic angle"},
+      {"label": "E", "text": "Absent lung markings on right"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Decreased tactile fremitus, dullness to percussion, and absent breath sounds at the base are classic for pleural effusion. On upright chest X-ray, fluid causes blunting of the costophrenic angle.",
+      "whyCorrect": "Pleural effusion causes dullness to percussion, decreased breath sounds, and decreased tactile fremitus. On upright X-ray, fluid collects at the base and obscures the costophrenic angle with a meniscus sign.",
+      "whyWrongByChoice": {
+        "A": "Hyperinflated lungs are seen in obstructive diseases presenting with hyperresonance, not dullness.",
+        "B": "Bilateral hilar lymphadenopathy occurs in sarcoidosis or lymphoma and is unrelated to this unilateral presentation.",
+        "C": "Hyperresonance indicates air-filled space as in pneumothorax, the opposite of the dullness found here.",
+        "E": "Absent lung markings suggest pneumothorax, not the homogeneous opacity of pleural effusion."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "physical-exam", "chest-X-ray", "costophrenic-angle"]
+  },
+  {
+    "id": "r20-009",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 45-year-old man recently treated for pulmonary tuberculosis presents with chronic cough, night sweats, and left-sided pleuritic chest pain for 6 weeks. Physical examination reveals dullness and decreased breath sounds at the left base. Thoracentesis yields straw-colored exudative fluid with a lymphocyte-predominant WBC differential (85% lymphocytes) and protein of 5.2 g/dL. ADA (adenosine deaminase) is elevated. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Decompensated congestive heart failure"},
+      {"label": "B", "text": "Tuberculous pleural effusion"},
+      {"label": "C", "text": "Hepatic hydrothorax"},
+      {"label": "D", "text": "Nephrotic syndrome effusion"},
+      {"label": "E", "text": "Acute pancreatitis effusion"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Tuberculous pleural effusions are exudative with very high protein (often >4 g/dL) and lymphocyte-predominant WBC differential. Constitutional symptoms and elevated ADA further support the diagnosis.",
+      "whyCorrect": "Tuberculosis causes exudative effusions through granulomatous pleural inflammation. The effusion characteristically shows lymphocyte predominance and very high protein, distinguishing it from other exudative causes.",
+      "whyWrongByChoice": {
+        "A": "Heart failure causes transudative effusions with low protein, not the high protein exudate seen here.",
+        "C": "Hepatic hydrothorax produces transudative effusions with low protein from ascites.",
+        "D": "Nephrotic syndrome causes transudative effusions through hypoalbuminemia.",
+        "E": "Pancreatitis-related effusions are neutrophil-predominant with elevated amylase, not lymphocyte-predominant."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "tuberculosis", "exudate", "lymphocyte"]
+  },
+  {
+    "id": "r20-010",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 64-year-old woman with heart failure and reduced ejection fraction has been noncompliant with medications for 2 weeks. She presents with worsening dyspnea, orthopnea, and bilateral 3+ pitting edema. Chest X-ray reveals bilateral pleural effusions, cardiomegaly, and cephalization of pulmonary vessels. BNP is 1,200 pg/mL. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Bilateral therapeutic thoracentesis"},
+      {"label": "B", "text": "Bilateral chest tube placement"},
+      {"label": "C", "text": "Chemical pleurodesis procedure"},
+      {"label": "D", "text": "Broad-spectrum intravenous antibiotics"},
+      {"label": "E", "text": "Diuresis and medication optimization"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Bilateral effusions in decompensated heart failure should be managed with diuresis and optimization of heart failure medications, which addresses the underlying cause.",
+      "whyCorrect": "This patient has transudative effusions from decompensated heart failure due to medication noncompliance. First-line management is diuresis to reduce volume and restarting heart failure medications.",
+      "whyWrongByChoice": {
+        "A": "Thoracentesis provides temporary relief but does not address the underlying volume overload.",
+        "B": "Chest tubes are for empyema or large effusions unresponsive to medical therapy.",
+        "C": "Pleurodesis is for recurrent malignant effusions, not heart failure-related effusions.",
+        "D": "There are no signs of infection. The effusions are from decompensated heart failure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "heart-failure", "diuresis", "management"]
+  },
+  {
+    "id": "r20-011",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 58-year-old man with non-small cell lung cancer presents with worsening dyspnea and right-sided pleuritic chest pain. Thoracentesis yields exudative fluid with positive cytology for malignant cells. Despite three therapeutic thoracenteses over 3 weeks, the effusion recurs within 5–7 days each time. His performance status remains good. Which of the following is the most appropriate long-term management?",
+    "choices": [
+      {"label": "A", "text": "Weekly scheduled repeated therapeutic thoracentesis"},
+      {"label": "B", "text": "Daily oral diuretic therapy"},
+      {"label": "C", "text": "Systemic corticosteroid course"},
+      {"label": "D", "text": "Pleurodesis or indwelling catheter placement"},
+      {"label": "E", "text": "Watchful observation only"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Recurrent malignant pleural effusions that reaccumulate despite repeated thoracentesis are best managed with pleurodesis or an indwelling pleural catheter.",
+      "whyCorrect": "Pleurodesis obliterates the pleural space by inducing fibrosis, preventing fluid reaccumulation. Alternatively, an indwelling pleural catheter allows intermittent home drainage. Both are preferred over repeated thoracentesis.",
+      "whyWrongByChoice": {
+        "A": "Weekly thoracentesis provides temporary relief but carries cumulative risks and impairs quality of life.",
+        "B": "Diuretics are for transudative effusions from volume overload, not malignant exudative effusions.",
+        "C": "Corticosteroids do not prevent malignant fluid reaccumulation.",
+        "E": "Observation is inappropriate for symptomatic recurrent malignant effusion."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "malignancy", "pleurodesis", "recurrent"]
+  },
+  {
+    "id": "r20-012",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "During a thoracentesis procedure on a 65-year-old man, the physician inadvertently inserts the needle along the lower border of the 8th rib rather than above the 9th rib. The patient immediately experiences severe pain and brisk bleeding at the insertion site. The physician applies pressure and repositions. Which anatomic structure was most likely injured?",
+    "choices": [
+      {"label": "A", "text": "Phrenic nerve branch"},
+      {"label": "B", "text": "Intercostal neurovascular bundle"},
+      {"label": "C", "text": "Internal thoracic artery"},
+      {"label": "D", "text": "Thoracic duct main lymphatic trunk"},
+      {"label": "E", "text": "Posterior azygos vein"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The intercostal neurovascular bundle (vein, artery, nerve) runs along the inferior border of each rib. Inserting at the lower border risks direct injury to these structures.",
+      "whyCorrect": "The intercostal neurovascular bundle courses along the undersurface of each rib. Thoracentesis needles should be inserted above the rib to avoid it. Inferior insertion directly endangers these structures.",
+      "whyWrongByChoice": {
+        "A": "The phrenic nerve courses through the mediastinum, not at the rib margins.",
+        "C": "The internal thoracic artery runs along the anterior chest wall near the sternum.",
+        "D": "The thoracic duct is a deep mediastinal structure not accessible from posterolateral thoracentesis.",
+        "E": "The azygos vein runs deep within the posterior mediastinum."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "thoracentesis", "anatomy", "neurovascular-bundle"]
+  },
+  {
+    "id": "r20-013",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 70-year-old man with recently diagnosed lung adenocarcinoma has a large left-sided pleural effusion causing significant dyspnea. Thoracentesis yields serosanguinous fluid with positive cytology for malignant cells. Pleural fluid VEGF (vascular endothelial growth factor) is elevated. Which mechanism most likely contributed to effusion formation?",
+    "choices": [
+      {"label": "A", "text": "Increased plasma oncotic pressure"},
+      {"label": "B", "text": "Decreased capillary hydrostatic pressure"},
+      {"label": "C", "text": "Pleural lymphatic drainage obstruction"},
+      {"label": "D", "text": "Decreased capillary wall permeability"},
+      {"label": "E", "text": "Enhanced pleural fluid reabsorption"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Malignant effusions form when cancer cells obstruct pleural lymphatic drainage and produce factors increasing capillary permeability, preventing normal fluid reabsorption.",
+      "whyCorrect": "Lung neoplasms cause effusions primarily by obstructing the pleural lymphatic system. Tumor cells also increase capillary permeability via VEGF and inflammatory mediators. Blocked lymphatic drainage prevents reabsorption.",
+      "whyWrongByChoice": {
+        "A": "Increased oncotic pressure would draw fluid into capillaries and protect against effusion.",
+        "B": "Decreased hydrostatic pressure would reduce fluid movement out of capillaries.",
+        "D": "Decreased permeability would reduce fluid leakage. Malignancy increases permeability.",
+        "E": "Enhanced reabsorption would reduce effusion. Malignancy impairs reabsorption."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "malignancy", "lymphatic-obstruction", "exudate"]
+  },
+  {
+    "id": "r20-014",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 30-year-old woman with known systemic lupus erythematosus presents with bilateral pleuritic chest pain, low-grade fever of 38.3°C, and mild dyspnea for 4 days. She has no cough or hemoptysis. Chest X-ray shows small bilateral pleural effusions. Thoracentesis yields exudative fluid with WBC 12,000/μL with neutrophilic predominance and negative Gram stain. ANA is positive in the pleural fluid. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Hypoalbuminemia from renal loss"},
+      {"label": "B", "text": "Decompensated right heart failure"},
+      {"label": "C", "text": "Thoracic duct lymphatic obstruction"},
+      {"label": "D", "text": "Autoimmune pleural inflammation"},
+      {"label": "E", "text": "Cirrhosis-related hepatic hydrothorax"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "SLE can cause exudative pleural effusions through autoimmune inflammation of the pleura (lupus pleuritis), producing bilateral effusions with elevated WBC counts.",
+      "whyCorrect": "SLE inflames the pleural membranes (lupus pleuritis), causing exudative effusions from increased capillary permeability. Bilateral pleuritic pain, fever, and positive pleural ANA are typical.",
+      "whyWrongByChoice": {
+        "A": "SLE-related nephrotic syndrome would produce transudative effusions, not exudative fluid.",
+        "B": "Heart failure produces transudative effusions, inconsistent with the exudative fluid here.",
+        "C": "Thoracic duct obstruction causes chylothorax with milky fluid and elevated triglycerides.",
+        "E": "Cirrhosis causes transudative effusions. There is no liver disease history here."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "lupus", "autoimmune", "exudate"]
+  },
+  {
+    "id": "r20-015",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A physician evaluates a 55-year-old woman with suspected small pleural effusion. An upright PA chest X-ray appears normal with sharp costophrenic angles bilaterally. A lateral view also appears normal. The physician suspects approximately 50 mL of fluid may be present. Which imaging modality would be most sensitive for confirming this small effusion?",
+    "choices": [
+      {"label": "A", "text": "Bedside pleural ultrasound"},
+      {"label": "B", "text": "Repeat upright PA chest film"},
+      {"label": "C", "text": "Supine AP chest radiograph"},
+      {"label": "D", "text": "Lateral decubitus chest film"},
+      {"label": "E", "text": "Chest CT with contrast"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Bedside pleural ultrasound is the most sensitive modality for detecting very small effusions, capable of identifying volumes as low as 5–10 mL using the spine sign.",
+      "whyCorrect": "Pleural ultrasound detects effusions as small as 5–10 mL using the spine sign. This sensitivity exceeds all chest X-ray views and rivals CT with less radiation and cost.",
+      "whyWrongByChoice": {
+        "B": "Upright PA films require approximately 200 mL to opacify a costophrenic angle. A repeat would miss 50 mL.",
+        "C": "Supine AP films are less sensitive than upright PA views because fluid layers posteriorly.",
+        "D": "Lateral decubitus films can detect about 10 mL but ultrasound is even more sensitive.",
+        "E": "CT can detect small effusions but involves radiation and is more expensive than bedside ultrasound."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "ultrasound", "imaging", "spine-sign"]
+  },
+  {
+    "id": "r20-016",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 56-year-old man admitted with pneumonia develops fever of 39.5°C and worsening dyspnea on hospital day 5 despite appropriate antibiotics. Chest X-ray shows a left-sided pleural effusion that does not layer on a lateral decubitus film. Thoracentesis yields cloudy fluid with pH 7.0 and positive Gram stain for gram-positive cocci. Which of the following best explains why this effusion is loculated?",
+    "choices": [
+      {"label": "A", "text": "Low protein prevents fluid flow"},
+      {"label": "B", "text": "Fibrinous adhesions from inflammation"},
+      {"label": "C", "text": "Increased pleural oncotic pressure"},
+      {"label": "D", "text": "Thoracic duct lymphatic obstruction"},
+      {"label": "E", "text": "Decreased alveolar surfactant production"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Loculated effusions are trapped by fibrinous adhesions formed during intense pleural inflammation. Empyema frequently becomes loculated because fibrin deposits create pockets.",
+      "whyCorrect": "In infected effusions, intense inflammation produces fibrin deposited on pleural surfaces. These fibrinous adhesions create loculations that trap fluid, preventing free layering on decubitus films.",
+      "whyWrongByChoice": {
+        "A": "Infected effusions are exudative with high protein. Low protein would indicate a freely flowing transudate.",
+        "C": "Oncotic pressure changes do not cause loculation, which is a structural phenomenon from fibrin adhesions.",
+        "D": "Thoracic duct obstruction causes chylothorax, not loculated inflammatory effusions.",
+        "E": "Surfactant reduces alveolar surface tension and plays no role in pleural fibrin adhesion formation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "loculated", "empyema", "fibrin"]
+  },
+  {
+    "id": "r20-017",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 62-year-old woman with a history of ischemic cardiomyopathy presents with progressive dyspnea and orthopnea over 10 days. On examination, there is dullness to percussion and decreased breath sounds at the left base with bilateral pitting edema. Chest X-ray shows a massive left-sided effusion with mediastinal shift to the right. Thoracentesis yields serous fluid with protein ratio 0.3 and LDH ratio 0.4. Which underlying condition is most likely?",
+    "choices": [
+      {"label": "A", "text": "Malignant mesothelioma"},
+      {"label": "B", "text": "Community-acquired pneumonia"},
+      {"label": "C", "text": "Congestive heart failure"},
+      {"label": "D", "text": "Acute pulmonary embolism"},
+      {"label": "E", "text": "Pulmonary tuberculosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The fluid does not meet any of Light's criteria (protein ratio <0.5, LDH ratio <0.6), classifying it as a transudate. Heart failure is the most common transudative cause and can produce massive effusions.",
+      "whyCorrect": "The fluid is transudative by Light's criteria. Among the choices, congestive heart failure is the only condition producing transudative effusions. The history of cardiomyopathy and bilateral edema support this.",
+      "whyWrongByChoice": {
+        "A": "Mesothelioma causes exudative effusions through direct pleural invasion.",
+        "B": "Pneumonia causes exudative parapneumonic effusions with elevated protein and LDH.",
+        "D": "PE typically causes exudative effusions, and massive effusions with mediastinal shift are uncommon.",
+        "E": "Tuberculosis produces exudative effusions with very high protein."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "transudate", "heart-failure", "Light-criteria"]
+  },
+  {
+    "id": "r20-018",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 38-year-old man is hospitalized for acute pancreatitis with lipase of 1,500 U/L. On hospital day 3, he develops left-sided pleuritic chest pain and dyspnea. Chest X-ray shows a left-sided pleural effusion. Thoracentesis reveals exudative fluid with elevated WBC and neutrophilic predominance. Which pleural fluid finding would most strongly support pancreatitis as the cause?",
+    "choices": [
+      {"label": "A", "text": "Elevated triglyceride levels"},
+      {"label": "B", "text": "Low LDH concentration"},
+      {"label": "C", "text": "Low protein concentration"},
+      {"label": "D", "text": "Elevated chylomicron count"},
+      {"label": "E", "text": "Elevated amylase levels"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Pancreatitis-related pleural effusions characteristically show elevated amylase in the pleural fluid. The effusion is typically left-sided and exudative.",
+      "whyCorrect": "Pancreatic inflammation extends to the pleural space, and pancreatic enzymes including amylase leak into the pleural fluid. A left-sided effusion is typical due to the pancreas's anatomic position.",
+      "whyWrongByChoice": {
+        "A": "Elevated triglycerides suggest chylothorax from thoracic duct disruption, not pancreatitis.",
+        "B": "Pancreatitis causes exudative effusions with elevated LDH, not low LDH.",
+        "C": "Low protein suggests transudative effusions. Pancreatitis produces exudative effusions.",
+        "D": "Elevated chylomicrons indicate chylothorax, not pancreatitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "pancreatitis", "amylase", "exudate"]
+  },
+  {
+    "id": "r20-019",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 74-year-old man with end-stage kidney disease on peritoneal dialysis develops bilateral pleural effusions. His serum albumin is 2.1 g/dL, and he has mild peripheral edema. Thoracentesis yields clear, straw-colored fluid that does not meet Light's criteria. Pleural fluid protein is 1.8 g/dL. Which of the following best explains the effusion mechanism?",
+    "choices": [
+      {"label": "A", "text": "Low albumin reducing oncotic pressure"},
+      {"label": "B", "text": "Bacterial seeding of pleural space"},
+      {"label": "C", "text": "Inflammatory cytokine mediator release"},
+      {"label": "D", "text": "Direct uremic crystal deposition and pleural invasion"},
+      {"label": "E", "text": "Thoracic duct external compression"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "End-stage kidney disease on peritoneal dialysis causes hypoalbuminemia and decreased oncotic pressure, producing transudative pleural effusions.",
+      "whyCorrect": "ESKD causes hypoalbuminemia through protein loss, poor nutrition, and chronic inflammation. Peritoneal dialysis further contributes to albumin loss. Decreased oncotic pressure allows fluid to shift into the pleural space.",
+      "whyWrongByChoice": {
+        "B": "Bacterial seeding would produce exudative fluid or empyema, not transudative fluid.",
+        "C": "Inflammatory mediators would produce exudative effusions, not transudative fluid.",
+        "D": "Uremic crystals do not directly invade the pleural space. The transudative fluid points to oncotic pressure changes.",
+        "E": "Thoracic duct compression would cause chylothorax with milky fluid."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "kidney-disease", "peritoneal-dialysis", "oncotic-pressure"]
+  },
+  {
+    "id": "r20-020",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 50-year-old man on amiodarone 200 mg daily for atrial fibrillation for 2 years presents with pleuritic chest pain and progressive dyspnea for 3 weeks. Temperature is 37.2°C. Chest X-ray shows a right-sided pleural effusion with mild pleural thickening. Thoracentesis reveals exudative fluid. Blood and pleural cultures are negative. He has no risk factors for venous thromboembolism. Which of the following best explains his effusion?",
+    "choices": [
+      {"label": "A", "text": "Heart failure from atrial fibrillation"},
+      {"label": "B", "text": "Occult pulmonary thromboembolism"},
+      {"label": "C", "text": "Drug-induced pleural inflammation"},
+      {"label": "D", "text": "Bacterial community-acquired pneumonia"},
+      {"label": "E", "text": "Underlying hepatic cirrhosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Amiodarone is a well-known cause of drug-induced pleural effusion. It can cause exudative effusions through pleural inflammation and thickening.",
+      "whyCorrect": "Amiodarone can cause pleural effusion, pleural thickening, and pleuritic chest pain. The effusion is exudative from drug-induced pleural inflammation. Negative cultures and temporal association support this.",
+      "whyWrongByChoice": {
+        "A": "Heart failure would produce transudative fluid, not exudative effusion.",
+        "B": "PE is possible but unlikely without risk factors, and amiodarone use makes drug-induced pleuritis more likely.",
+        "D": "Pneumonia would present with fever, productive cough, and positive cultures.",
+        "E": "Cirrhosis causes transudative effusions, inconsistent with exudative fluid."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "amiodarone", "drug-induced", "exudate"]
+  },
+  {
+    "id": "r20-021",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 43-year-old woman is brought to the emergency department after a stab wound to the left lower chest. She is tachycardic at 125/min with blood pressure 80/50 mmHg. Physical examination reveals absent breath sounds on the left and a 3-cm wound at the 7th intercostal space. Chest X-ray shows complete opacification of the left hemithorax. Which type of pleural fluid collection is most likely?",
+    "choices": [
+      {"label": "A", "text": "Transudative pleural effusion"},
+      {"label": "B", "text": "Chylous pleural effusion"},
+      {"label": "C", "text": "Empyema fluid collection"},
+      {"label": "D", "text": "Simple parapneumonic effusion"},
+      {"label": "E", "text": "Traumatic hemothorax"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "A penetrating chest wound with hemodynamic instability and complete hemithorax opacification is most consistent with hemothorax — blood accumulation in the pleural space.",
+      "whyCorrect": "Hemothorax from penetrating trauma involves injury to intercostal vessels, lung parenchyma, or great vessels. Tachycardia, hypotension, and complete opacification following a stab wound is classic.",
+      "whyWrongByChoice": {
+        "A": "Transudative effusions develop gradually from systemic conditions, not acute trauma.",
+        "B": "Chylothorax can result from thoracic duct injury but would not cause acute hemodynamic collapse.",
+        "C": "Empyema develops over days from infection, not immediately after a stab wound.",
+        "D": "Parapneumonic effusions develop adjacent to pneumonia, not from trauma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "hemothorax", "trauma", "emergency"]
+  },
+  {
+    "id": "r20-022",
+    "topicId": "pleural-effusion",
+    "topicName": "Pleural Effusion",
+    "stem": "A 66-year-old man with chronic right heart failure from severe tricuspid regurgitation presents with progressive dyspnea and bilateral lower extremity edema. Physical examination shows elevated jugular venous pressure to 15 cm H2O, hepatomegaly, and dullness to percussion at the right lung base. Chest X-ray reveals a right-sided pleural effusion. Thoracentesis yields transudative fluid. Which mechanism best explains the effusion?",
+    "choices": [
+      {"label": "A", "text": "Reduced cardiac output lowering hydrostatic pressure"},
+      {"label": "B", "text": "Systemic inflammation increasing permeability"},
+      {"label": "C", "text": "Elevated venous pressure in pleural capillaries"},
+      {"label": "D", "text": "Hepatomegaly compressing the thoracic duct"},
+      {"label": "E", "text": "Right atrial pressure impairing lymphatic flow"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Right heart failure increases systemic venous pressure, transmitted to pleural capillaries as increased hydrostatic pressure. This drives fluid into the pleural space.",
+      "whyCorrect": "In right heart failure, the right ventricle cannot pump blood forward, causing elevated venous pressures transmitted retrograde to pleural capillaries. The elevated capillary hydrostatic pressure drives fluid into the pleural space per Starling forces.",
+      "whyWrongByChoice": {
+        "A": "The direct mechanism is increased venous pressure transmitted to capillaries, not decreased hydrostatic pressure.",
+        "B": "Increased permeability produces exudative effusions. Right heart failure causes transudative effusions.",
+        "D": "Hepatomegaly from heart failure does not obstruct the thoracic duct.",
+        "E": "While elevated right atrial pressure can impair lymphatics, the primary mechanism is increased capillary hydrostatic pressure."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pleural-effusion", "right-heart-failure", "hydrostatic-pressure", "Starling-forces"]
+  },
+  {
+    "id": "r20-023",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 22-year-old tall, thin man presents to the emergency department with sudden-onset right-sided chest pain and dyspnea that started while jogging. He has no significant medical history but smokes cigarettes socially on weekends. On examination, heart rate is 95/min, blood pressure 128/78 mmHg, and oxygen saturation 95%. Breath sounds are diminished on the right with hyperresonance to percussion. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Primary spontaneous pneumothorax"},
+      {"label": "B", "text": "Acute myocardial coronary syndrome"},
+      {"label": "C", "text": "Acute pulmonary embolism"},
+      {"label": "D", "text": "Tension pneumothorax"},
+      {"label": "E", "text": "Thoracic aortic dissection"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A tall, thin young male with sudden unilateral chest pain, diminished breath sounds, and hyperresonance is the classic presentation for primary spontaneous pneumothorax, typically from ruptured apical blebs.",
+      "whyCorrect": "Primary spontaneous pneumothorax classically occurs in tall, thin males aged 10–30. Smoking increases risk 7- to 100-fold. The sudden onset of pleuritic pain with diminished breath sounds and hyperresonance is the hallmark.",
+      "whyWrongByChoice": {
+        "B": "ACS causes substernal pressure-type pain and is uncommon in a 22-year-old without cardiac risk factors.",
+        "C": "PE causes sudden dyspnea but would not produce unilateral diminished breath sounds with hyperresonance.",
+        "D": "Tension pneumothorax presents with hemodynamic compromise (hypotension, tachycardia, distended neck veins). This patient has stable vitals.",
+        "E": "Aortic dissection causes severe tearing pain radiating to the back in older patients with hypertension."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "primary-spontaneous", "bleb", "young-male"]
+  },
+  {
+    "id": "r20-024",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 65-year-old man with severe COPD (FEV1 28% predicted) and home oxygen therapy presents with acute worsening of his baseline dyspnea and sharp left-sided chest pain for 4 hours. On examination, breath sounds are absent on the left with hyperresonance to percussion. Oxygen saturation is 82% on 2L nasal cannula. Chest X-ray shows a left-sided pneumothorax with a visible pleural line. Which classification best describes this pneumothorax?",
+    "choices": [
+      {"label": "A", "text": "Primary spontaneous pneumothorax"},
+      {"label": "B", "text": "Secondary spontaneous pneumothorax"},
+      {"label": "C", "text": "Iatrogenic procedure-related pneumothorax"},
+      {"label": "D", "text": "Traumatic pneumothorax"},
+      {"label": "E", "text": "Tension pneumothorax"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "A pneumothorax in a patient with underlying COPD without trauma is classified as secondary spontaneous. COPD is the most common cause due to increased bleb formation.",
+      "whyCorrect": "Secondary spontaneous pneumothorax occurs in patients with known underlying lung disease. COPD is the most common cause, as emphysematous destruction increases bleb formation. Patient age (>55–60) and COPD history are consistent.",
+      "whyWrongByChoice": {
+        "A": "Primary spontaneous pneumothorax occurs without underlying lung disease, typically in young individuals.",
+        "C": "Iatrogenic pneumothorax results from medical procedures, which did not precede this event.",
+        "D": "Traumatic pneumothorax results from chest injury. There is no trauma history.",
+        "E": "Tension pneumothorax involves hemodynamic compromise. While this patient is hypoxic, he lacks hypotension or mediastinal shift."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "secondary-spontaneous", "COPD", "classification"]
+  },
+  {
+    "id": "r20-025",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 45-year-old woman involved in a high-speed motor vehicle collision is brought to the emergency department. She is hypotensive at 70/40 mmHg, tachycardic at 130/min, and has distended neck veins. Breath sounds are absent on the left, and the trachea is deviated to the right. Oxygen saturation is 78% on high-flow oxygen. Which of the following is the most appropriate immediate intervention?",
+    "choices": [
+      {"label": "A", "text": "Portable chest X-ray"},
+      {"label": "B", "text": "CT angiography of chest"},
+      {"label": "C", "text": "Emergent pericardiocentesis"},
+      {"label": "D", "text": "Needle thoracostomy decompression"},
+      {"label": "E", "text": "Intravenous fluid bolus and observation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This patient has tension pneumothorax with hypotension, distended neck veins, absent breath sounds, and tracheal deviation. Needle decompression must be performed immediately without waiting for imaging.",
+      "whyCorrect": "Tension pneumothorax is a clinical diagnosis requiring immediate treatment. Needle thoracostomy at the second intercostal space in the midclavicular line rapidly decompresses the positive pressure and is life-saving.",
+      "whyWrongByChoice": {
+        "A": "Chest X-ray would delay treatment of this life-threatening emergency.",
+        "B": "CT angiography is inappropriate for an unstable patient with clinical tension pneumothorax.",
+        "C": "Pericardiocentesis treats cardiac tamponade. The absent breath sounds and tracheal deviation indicate pneumothorax, not tamponade.",
+        "E": "IV fluids alone cannot correct obstructive shock from tension pneumothorax."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "tension", "needle-decompression", "emergency"]
+  },
+  {
+    "id": "r20-026",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 28-year-old man with primary spontaneous pneumothorax undergoes chest tube placement connected to a drainage system. His physician explains how the system prevents air from re-entering the pleural space during inspiration. The drainage chamber contains sterile water with the tube tip submerged. Which of the following best describes this protective mechanism?",
+    "choices": [
+      {"label": "A", "text": "Continuous wall suction maintains negative pressure"},
+      {"label": "B", "text": "Tube is clamped between respiratory cycles"},
+      {"label": "C", "text": "Inflatable balloon tip seals the entry site"},
+      {"label": "D", "text": "Water seal acts as a one-way valve"},
+      {"label": "E", "text": "Fibrin clot seals the tube tract"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Chest tube drainage systems use a water seal to create a one-way valve. Air bubbles out through water during expiration but cannot be drawn back during inspiration.",
+      "whyCorrect": "The tube's distal end is submerged under water. During expiration, trapped air exits through the tube and bubbles through water. During inspiration, the water seal prevents atmospheric air from being drawn back into the pleural space.",
+      "whyWrongByChoice": {
+        "A": "Wall suction can enhance drainage, but the primary mechanism preventing air re-entry is the water seal.",
+        "B": "Chest tubes are not clamped between breaths. The water seal provides continuous protection.",
+        "C": "Standard chest tubes do not have inflatable balloon tips.",
+        "E": "While fibrin may form around the entry site over time, the water seal provides immediate protection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "chest-tube", "water-seal", "management"]
+  },
+  {
+    "id": "r20-027",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 30-year-old man presents with mild right-sided chest discomfort and is diagnosed with a small primary spontaneous pneumothorax on chest X-ray. The pneumothorax occupies approximately 15% of the hemithorax. Vital signs are normal with oxygen saturation of 98% on room air. He is comfortable and breathing easily. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Emergent chest tube insertion"},
+      {"label": "B", "text": "Immediate needle decompression"},
+      {"label": "C", "text": "Chemical pleurodesis procedure"},
+      {"label": "D", "text": "Observation with supplemental oxygen"},
+      {"label": "E", "text": "Thoracoscopic surgical bleb resection"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Small, stable primary spontaneous pneumothoraces in hemodynamically stable patients can be managed with observation. Supplemental high-flow oxygen accelerates reabsorption through nitrogen washout.",
+      "whyCorrect": "A small pneumothorax (~15%) in a stable patient with normal vitals can be managed conservatively. High-flow oxygen accelerates pleural air reabsorption by replacing blood nitrogen with oxygen, increasing the gradient for nitrogen absorption from the pleural space.",
+      "whyWrongByChoice": {
+        "A": "Chest tube placement is for large pneumothoraces or hemodynamically unstable patients.",
+        "B": "Needle decompression is emergency treatment for tension pneumothorax with hemodynamic compromise.",
+        "C": "Pleurodesis is for recurrent pneumothoraces, not first-time small episodes.",
+        "E": "Surgical bleb resection is for recurrent pneumothoraces or persistent air leaks."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "small", "observation", "oxygen-therapy"]
+  },
+  {
+    "id": "r20-028",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 55-year-old man on mechanical ventilation for ARDS suddenly develops hypotension to 65/40 mmHg, tachycardia to 140/min, and oxygen saturation drops to 75%. Breath sounds are absent on the right, and central venous pressure is markedly elevated at 22 mmHg. Peak airway pressures have acutely risen from 28 to 48 cmH2O. Which of the following best explains why ventilated patients are at increased risk?",
+    "choices": [
+      {"label": "A", "text": "Positive pressure forces air across defects"},
+      {"label": "B", "text": "Sedation delays symptom recognition"},
+      {"label": "C", "text": "Endotracheal tube erosion through bronchial walls"},
+      {"label": "D", "text": "Ventilators suppress surfactant production"},
+      {"label": "E", "text": "Mechanical ventilation increases pleural fluid"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Positive pressure ventilation can force air across a pleural defect (barotrauma). Even small pneumothoraces in ventilated patients rapidly progress to tension because the ventilator continuously pushes air into the pleural space.",
+      "whyCorrect": "Mechanical ventilation delivers positive pressure that can push air through any breach in the visceral pleura. This continuously worsens the pneumothorax, rapidly converting it to tension. This is why even small pneumothoraces require chest tubes in ventilated patients.",
+      "whyWrongByChoice": {
+        "B": "Sedation may delay recognition but does not increase the risk of developing pneumothorax.",
+        "C": "Endotracheal tubes sit in the trachea and do not erode through bronchial walls normally.",
+        "D": "Ventilation does not significantly decrease surfactant production.",
+        "E": "Mechanical ventilation does not increase pleural fluid. The risk is from air, not fluid."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "tension", "mechanical-ventilation", "barotrauma"]
+  },
+  {
+    "id": "r20-029",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 19-year-old man with known Marfan syndrome presents with sudden-onset left chest pain and shortness of breath. He is tall with arm span exceeding height and has a high-arched palate. Chest X-ray reveals a left-sided pneumothorax. His cardiologist explains that the underlying genetic defect predisposes to bleb formation. Which of the following best explains the predisposition?",
+    "choices": [
+      {"label": "A", "text": "Increased airway mucus plugging"},
+      {"label": "B", "text": "Chronic bronchial wall inflammation"},
+      {"label": "C", "text": "Impaired mucociliary clearance and bronchial dysfunction"},
+      {"label": "D", "text": "Excessive surfactant overproduction"},
+      {"label": "E", "text": "Defective fibrillin-1 weakens lung tissue"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Marfan syndrome results from FBN1 gene mutations affecting fibrillin-1, a key elastic fiber component. Weakened pulmonary connective tissue predisposes to bleb formation and rupture.",
+      "whyCorrect": "Marfan syndrome is an autosomal dominant disorder caused by FBN1 mutations affecting fibrillin-1, essential for elastic fibers. Weakened lung connective tissue predisposes to subpleural blebs that can rupture.",
+      "whyWrongByChoice": {
+        "A": "Mucus plugging is associated with cystic fibrosis and asthma, not Marfan syndrome.",
+        "B": "Chronic bronchial inflammation is seen in COPD and asthma, not connective tissue disorders.",
+        "C": "Impaired mucociliary clearance is a feature of primary ciliary dyskinesia.",
+        "D": "Surfactant abnormalities are associated with neonatal respiratory distress, not Marfan syndrome."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "Marfan-syndrome", "fibrillin", "connective-tissue"]
+  },
+  {
+    "id": "r20-030",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "Twenty minutes after insertion of a right subclavian central venous catheter, a 58-year-old hospitalized patient develops pleuritic right chest pain and mild dyspnea. Vital signs are stable with oxygen saturation 96% on room air. Chest X-ray shows a small right apical pneumothorax and the central line tip in the superior vena cava in correct position. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Immediate central line removal"},
+      {"label": "B", "text": "Needle decompression at second interspace"},
+      {"label": "C", "text": "Emergent large-bore chest tube insertion"},
+      {"label": "D", "text": "Observation with supplemental oxygen"},
+      {"label": "E", "text": "CT-guided pigtail catheter placement"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A small iatrogenic pneumothorax in a stable patient with a properly positioned central line can be managed with observation and supplemental oxygen.",
+      "whyCorrect": "This small iatrogenic pneumothorax in a stable patient with a correctly positioned line warrants conservative management. Supplemental oxygen accelerates air reabsorption through nitrogen washout.",
+      "whyWrongByChoice": {
+        "A": "The properly positioned line does not need removal. The pneumothorax occurred during insertion, not from the catheter itself.",
+        "B": "Needle decompression is for tension pneumothorax with hemodynamic compromise.",
+        "C": "Emergent chest tube is not indicated for a small, stable iatrogenic pneumothorax.",
+        "E": "CT-guided drainage is unnecessary for a visible small apical pneumothorax."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "iatrogenic", "central-line", "observation"]
+  },
+  {
+    "id": "r20-031",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A patient with clinical signs of tension pneumothorax requires emergency needle thoracostomy. The emergency physician prepares a large-bore angiocatheter and identifies the correct anatomical landmark. The skin is prepped and the needle is inserted perpendicularly through the chest wall. At which of the following locations should the needle be placed?",
+    "choices": [
+      {"label": "A", "text": "Fifth interspace, anterior axillary line"},
+      {"label": "B", "text": "Second interspace, midclavicular line"},
+      {"label": "C", "text": "Seventh interspace, posterior axillary line"},
+      {"label": "D", "text": "Fourth interspace, midaxillary line"},
+      {"label": "E", "text": "Second interspace, midaxillary line"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Needle thoracostomy for tension pneumothorax is performed at the second intercostal space in the midclavicular line on the affected side.",
+      "whyCorrect": "The standard site is the second intercostal space at the midclavicular line. This provides safe access to the pleural space with minimal risk to major structures.",
+      "whyWrongByChoice": {
+        "A": "The fifth interspace at the anterior axillary line is the landmark for chest tube insertion, not needle decompression.",
+        "C": "The seventh interspace posteriorly is too inferior and risks diaphragm and abdominal organ injury.",
+        "D": "The fourth interspace at the midaxillary line is sometimes used as an alternative but is not the standard teaching.",
+        "E": "The midaxillary line at the second interspace is not the standard landmark."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "needle-thoracostomy", "anatomy", "emergency"]
+  },
+  {
+    "id": "r20-032",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 24-year-old man presents with a second episode of right-sided spontaneous pneumothorax within 6 months. The first episode was managed with chest tube drainage. CT scan shows multiple apical blebs bilaterally. After chest tube placement achieves lung re-expansion, his pulmonologist recommends a definitive procedure. Which intervention would best prevent recurrence?",
+    "choices": [
+      {"label": "A", "text": "Thoracoscopic bleb resection with pleurodesis"},
+      {"label": "B", "text": "Long-term supplemental oxygen therapy"},
+      {"label": "C", "text": "Prophylactic daily antibiotic course"},
+      {"label": "D", "text": "Chronic indwelling chest tube drainage indefinitely"},
+      {"label": "E", "text": "Scheduled inhaled bronchodilator therapy"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Recurrent pneumothorax is an indication for surgical management. VATS allows bleb resection combined with pleurodesis to prevent future collapse.",
+      "whyCorrect": "Recurrent spontaneous pneumothorax (two or more ipsilateral episodes) requires surgical intervention. Thoracoscopy allows bleb resection, eliminating the air leak source. Pleurodesis obliterates the pleural space by inducing fibrosis between pleural layers.",
+      "whyWrongByChoice": {
+        "B": "Oxygen helps reabsorb existing pneumothorax but does not prevent recurrence or address blebs.",
+        "C": "Antibiotics play no role in pneumothorax prevention, which is a mechanical process.",
+        "D": "Chronic chest tube drainage is not viable long-term and does not address the underlying blebs.",
+        "E": "Bronchodilators treat airway obstruction and do not affect subpleural blebs."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "recurrent", "thoracoscopy", "pleurodesis"]
+  },
+  {
+    "id": "r20-033",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 60-year-old man with right-sided tension pneumothorax has tracheal deviation to the left, absent breath sounds on the right, and blood pressure of 60/35 mmHg. Neck veins are markedly distended. Heart rate is 145/min. Skin is cool and clammy. Which of the following is the primary mechanism of hemodynamic collapse?",
+    "choices": [
+      {"label": "A", "text": "Left ventricular outflow obstruction"},
+      {"label": "B", "text": "Coronary artery external compression"},
+      {"label": "C", "text": "Decreased venous return from vena caval compression"},
+      {"label": "D", "text": "Direct blunt cardiac contusion"},
+      {"label": "E", "text": "Aortic wall dissection from mediastinal pressure shift"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In tension pneumothorax, rising intrathoracic pressure compresses the vena cavae and causes kinking from mediastinal shift. This drastically reduces venous return, cardiac output, and causes obstructive shock.",
+      "whyCorrect": "The one-way valve mechanism causes progressive air accumulation and rising intrathoracic pressure. This compresses the great veins and the mediastinal shift causes kinking, severely reducing venous return to the right atrium and causing obstructive shock.",
+      "whyWrongByChoice": {
+        "A": "Left ventricular outflow obstruction occurs in hypertrophic cardiomyopathy, not tension pneumothorax.",
+        "B": "Coronary compression does not occur in tension pneumothorax.",
+        "D": "Cardiac contusion results from blunt trauma, not the pressure dynamics of tension pneumothorax.",
+        "E": "Mediastinal shift does not cause aortic dissection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "tension", "obstructive-shock", "venous-return"]
+  },
+  {
+    "id": "r20-034",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A chest X-ray of a 25-year-old man with suspected pneumothorax shows a thin white line parallel to the chest wall on the right side. Peripheral to this line, the lung field appears hyperlucent with no visible blood vessels or lung markings. Medial to this line, normal lung markings are present. Which anatomic structure does this white line represent?",
+    "choices": [
+      {"label": "A", "text": "Parietal pleural membrane"},
+      {"label": "B", "text": "Chest wall muscle fascia"},
+      {"label": "C", "text": "Collapsed main bronchus"},
+      {"label": "D", "text": "Overlying skin fold artifact"},
+      {"label": "E", "text": "Visceral pleural surface"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The visible pleural line on X-ray represents the visceral pleura, marking the outer boundary of the collapsed lung. Beyond it lies free air without lung markings.",
+      "whyCorrect": "In pneumothorax, the collapsed lung separates from the chest wall. The visceral pleura becomes visible as a thin white line. Peripheral to it, air without parenchyma shows no vessels or markings.",
+      "whyWrongByChoice": {
+        "A": "The parietal pleura lines the chest wall and is not visible as a separate displaced line.",
+        "B": "Chest wall muscle fascia is external to the pleural space and would not appear as an intrathoracic line.",
+        "C": "A collapsed bronchus would appear as a central airway structure, not a peripheral line.",
+        "D": "Skin fold artifacts typically extend beyond the lung field and lung markings can be seen beyond them."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "chest-X-ray", "visceral-pleura", "diagnosis"]
+  },
+  {
+    "id": "r20-035",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A physician performs bedside pleural ultrasound on a 30-year-old trauma patient with suspected pneumothorax. On M-mode imaging, she identifies a point where the granular seashore pattern abruptly transitions to parallel horizontal lines (barcode pattern). B-mode imaging at the same location shows lung sliding on one side and absent sliding on the other. Which of the following does this transition point indicate?",
+    "choices": [
+      {"label": "A", "text": "Free-flowing pleural effusion"},
+      {"label": "B", "text": "Consolidated lung parenchyma"},
+      {"label": "C", "text": "Lung point of a pneumothorax"},
+      {"label": "D", "text": "Normal bilateral lung expansion"},
+      {"label": "E", "text": "Circumferential pericardial effusion"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The lung point is where normal lung sliding (seashore sign) transitions to absent sliding (barcode sign). This boundary between aerated lung and pneumothorax is highly specific for pneumothorax.",
+      "whyCorrect": "On M-mode, the seashore sign indicates normal lung sliding, while the barcode sign indicates absent sliding from air separating the pleural layers. The lung point where they meet is highly specific for pneumothorax.",
+      "whyWrongByChoice": {
+        "A": "Pleural effusion appears as anechoic fluid and does not produce a seashore-to-barcode transition.",
+        "B": "Lung consolidation shows tissue-like echotexture with air bronchograms, not a barcode pattern.",
+        "D": "Normal expansion shows the seashore sign throughout. A transition to barcode indicates abnormality.",
+        "E": "Pericardial effusion is visualized around the heart, not at the pleural line."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumothorax", "ultrasound", "lung-point", "M-mode"]
+  },
+  {
+    "id": "r20-036",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 26-year-old man who smokes one pack of cigarettes daily experiences his first primary spontaneous pneumothorax. After successful chest tube management and hospital discharge, his physician counsels him about recurrence risk reduction. Which of the following lifestyle modifications would most significantly decrease his recurrence risk?",
+    "choices": [
+      {"label": "A", "text": "Avoiding commercial air travel"},
+      {"label": "B", "text": "Daily cardiovascular exercise program"},
+      {"label": "C", "text": "High-protein supplemental diet"},
+      {"label": "D", "text": "Complete smoking cessation"},
+      {"label": "E", "text": "Permanent high-altitude avoidance"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Smoking increases pneumothorax risk 7- to 100-fold by damaging lung tissue and promoting bleb formation. Cessation is the single most important modifiable risk factor.",
+      "whyCorrect": "Smoking damages lung tissue, increases bleb development and rupture risk. The risk is 7 to 100 times higher in smokers. Cessation significantly reduces new bleb formation and recurrence.",
+      "whyWrongByChoice": {
+        "A": "Air travel restriction is temporary and less impactful than smoking cessation.",
+        "B": "Exercise is generally healthy but does not address smoking-related bleb formation.",
+        "C": "Diet does not play a significant role in pneumothorax recurrence.",
+        "E": "Permanent altitude avoidance is overly restrictive and less impactful than smoking cessation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "smoking-cessation", "prevention", "risk-factor"]
+  },
+  {
+    "id": "r20-037",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 70-year-old woman with advanced cystic fibrosis and chronic bronchiectasis develops sudden-onset dyspnea and right-sided chest pain. On examination, the right hemithorax is hyperresonant with absent breath sounds. She has a history of two prior left-sided pneumothoraces. CT scan confirms a right pneumothorax with multiple bilateral subpleural cysts. Which mechanism most likely caused this pneumothorax?",
+    "choices": [
+      {"label": "A", "text": "Acute bronchospasm-induced air trapping"},
+      {"label": "B", "text": "Pulmonary hypertension vessel rupture"},
+      {"label": "C", "text": "Autoimmune destruction of visceral pleura"},
+      {"label": "D", "text": "Medication-induced pleural membrane thinning"},
+      {"label": "E", "text": "Chronic lung disease with bleb formation"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Cystic fibrosis causes secondary spontaneous pneumothorax through chronic lung destruction leading to subpleural bleb and cyst formation that can rupture.",
+      "whyCorrect": "CF causes chronic lung destruction with bronchiectasis, mucus plugging, and recurrent infections. This leads to subpleural bleb and cyst formation, similar to COPD. These can rupture into the pleural space.",
+      "whyWrongByChoice": {
+        "A": "While bronchospasm occurs in CF, pneumothorax results from chronic structural bleb formation, not acute bronchospasm.",
+        "B": "Pulmonary hypertension can complicate CF but does not cause pneumothorax through vascular rupture.",
+        "C": "CF is not autoimmune. The lung damage results from defective CFTR chloride channels.",
+        "D": "CF medications do not cause pleural thinning. The pneumothorax results from the underlying disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "cystic-fibrosis", "secondary-spontaneous", "blebs"]
+  },
+  {
+    "id": "r20-038",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 35-year-old man presents after a bar altercation with a stab wound to the left chest at the 5th intercostal space. On examination, there is a sucking chest wound with air audibly moving through the defect during inspiration and expiration. Heart rate is 110/min and blood pressure is 100/65 mmHg. Breath sounds are diminished on the left. Which of the following describes the greatest risk from this wound?",
+    "choices": [
+      {"label": "A", "text": "Open pneumothorax progressing to tension"},
+      {"label": "B", "text": "Primary spontaneous bleb rupture"},
+      {"label": "C", "text": "Secondary spontaneous pneumothorax"},
+      {"label": "D", "text": "Simple pneumothorax from bleb rupture"},
+      {"label": "E", "text": "Iatrogenic procedure-related pneumothorax"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A penetrating wound creates an open pneumothorax. Tissue flaps or dressings can create a one-way valve, converting it to tension pneumothorax with cardiovascular collapse.",
+      "whyCorrect": "The sucking wound allows air to move freely. Tissue flaps, blood clots, or dressings can create a one-way valve, allowing air entry but preventing exit, converting to tension pneumothorax with progressive air accumulation and hemodynamic collapse.",
+      "whyWrongByChoice": {
+        "B": "Primary spontaneous pneumothorax occurs without trauma from bleb rupture.",
+        "C": "Secondary spontaneous pneumothorax occurs in patients with underlying lung disease, not trauma.",
+        "D": "This pneumothorax is from an external wound, not from ruptured blebs.",
+        "E": "Iatrogenic pneumothorax results from medical procedures, not assault."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "traumatic", "open", "tension-risk"]
+  },
+  {
+    "id": "r20-039",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 40-year-old man with a known right-sided pneumothorax has a chest X-ray showing the trachea and mediastinum shifted toward the right (toward the affected side). Breath sounds are present bilaterally but diminished on the right. Blood pressure is 118/72 mmHg and heart rate is 85/min. Which of the following best explains this mediastinal shift pattern?",
+    "choices": [
+      {"label": "A", "text": "Tension pneumothorax pushing structures away"},
+      {"label": "B", "text": "Contralateral large pleural effusion"},
+      {"label": "C", "text": "Contralateral diaphragmatic hernia"},
+      {"label": "D", "text": "Right main bronchus obstruction"},
+      {"label": "E", "text": "Lung collapse reducing ipsilateral volume"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In a simple (nontension) pneumothorax, collapsed lung on the affected side reduces thoracic volume, pulling mediastinal structures toward the affected side. This contrasts with tension pneumothorax, which pushes structures away.",
+      "whyCorrect": "When the lung collapses without significant positive pressure buildup, the loss of volume on the affected side pulls the mediastinum toward the collapse. This finding distinguishes simple from tension pneumothorax.",
+      "whyWrongByChoice": {
+        "A": "Tension pneumothorax pushes structures away from the affected side. The shift toward the affected side excludes tension physiology.",
+        "B": "A left-sided effusion could push structures rightward, but the known right pneumothorax explains the finding.",
+        "C": "A diaphragmatic hernia is unrelated to the known pneumothorax.",
+        "D": "Bronchus obstruction could cause atelectasis and shift, but the known pneumothorax is the more likely explanation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumothorax", "mediastinal-shift", "simple", "chest-X-ray"]
+  },
+  {
+    "id": "r20-040",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 40-year-old man presents to the emergency department after a fall resulting in right-sided rib fractures. He has subcutaneous crepitus palpable over the right chest wall, diminished breath sounds on the right, and hyperresonance to percussion. Oxygen saturation is 92% on room air. He denies hemoptysis. Which of the following does the subcutaneous crepitus most likely indicate?",
+    "choices": [
+      {"label": "A", "text": "Large right pleural effusion"},
+      {"label": "B", "text": "Acute pericardial tamponade"},
+      {"label": "C", "text": "Pneumothorax with subcutaneous air"},
+      {"label": "D", "text": "Isolated pulmonary parenchymal contusion"},
+      {"label": "E", "text": "Tension hemothorax"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Subcutaneous crepitus (crackling on palpation) indicates subcutaneous emphysema — air escaping from the pleural space into chest wall soft tissues. Combined with diminished breath sounds and hyperresonance after rib fractures, this confirms pneumothorax.",
+      "whyCorrect": "Rib fractures can lacerate visceral pleura and lung parenchyma, allowing air into the pleural space. Air can escape into soft tissues, producing palpable crepitus. This finding with diminished breath sounds and hyperresonance confirms pneumothorax.",
+      "whyWrongByChoice": {
+        "A": "Pleural effusion causes dullness to percussion, not hyperresonance and subcutaneous crepitus.",
+        "B": "Tamponade presents with muffled heart sounds and distended neck veins, not chest wall crepitus.",
+        "D": "Pulmonary contusion causes parenchymal hemorrhage visible on X-ray but not subcutaneous emphysema.",
+        "E": "Hemothorax causes dullness to percussion from blood, not crepitus from air."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "subcutaneous-emphysema", "trauma", "rib-fracture"]
+  },
+  {
+    "id": "r20-041",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 32-year-old man is brought to the emergency department after a motor vehicle accident. He has a right-sided tension pneumothorax treated with needle decompression at the second intercostal space. A rush of air is heard during the procedure, and his blood pressure improves from 65/40 to 95/60 mmHg. Heart rate decreases from 140 to 110/min. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Discharge home with follow-up X-ray"},
+      {"label": "B", "text": "Six-hour observation period then discharge home"},
+      {"label": "C", "text": "Needle decompression of left side"},
+      {"label": "D", "text": "Immediate chemical pleurodesis"},
+      {"label": "E", "text": "Tube thoracostomy placement"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Needle decompression is a temporizing measure. It must be followed by definitive chest tube placement for ongoing drainage.",
+      "whyCorrect": "Needle thoracostomy provides immediate relief but is not definitive. A chest tube must be placed for continuous drainage to prevent air reaccumulation. The needle catheter alone is insufficient.",
+      "whyWrongByChoice": {
+        "A": "Discharging after needle decompression alone is inappropriate. Air will reaccumulate.",
+        "B": "Simple observation is inadequate. A chest tube is required.",
+        "C": "Left-sided decompression is only indicated if bilateral tension pneumothorax is present.",
+        "D": "Pleurodesis is for recurrent pneumothoraces, not acute post-decompression management."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pneumothorax", "tension", "chest-tube", "needle-decompression"]
+  },
+  {
+    "id": "r20-042",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 50-year-old man with a right-sided pneumothorax has a chest tube placed and connected to a water seal drainage system. Post-procedure chest X-ray shows the tube directed apically with the sentinel hole confirmed within the ribcage. However, the lung remains partially collapsed and continuous air bubbles are visible in the water seal chamber during expiration. Which of the following does the continued bubbling indicate?",
+    "choices": [
+      {"label": "A", "text": "Chest tube mechanical malfunction"},
+      {"label": "B", "text": "Water seal bacterial contamination"},
+      {"label": "C", "text": "Sentinel hole positioned outside the ribcage extrathoracically"},
+      {"label": "D", "text": "Persistent parenchymal air leak"},
+      {"label": "E", "text": "Chest tube kinking or obstruction"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Air bubbling in the water seal chamber indicates an ongoing air leak from the lung. The tube is functioning correctly by evacuating air, but the leak has not yet sealed.",
+      "whyCorrect": "The properly positioned chest tube is evacuating air that continues to leak from the lung parenchyma or visceral pleura. The bubbling demonstrates the tube is functioning. The lung remains partially collapsed because air enters the pleural space as fast as it drains.",
+      "whyWrongByChoice": {
+        "A": "Air bubbling actually indicates the tube is functioning correctly by evacuating air.",
+        "B": "Water seal contamination does not cause air bubbling. The bubbles represent drained air.",
+        "C": "The X-ray confirmed the sentinel hole is within the ribcage.",
+        "E": "A kinked tube would prevent air passage, so no bubbling would occur."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumothorax", "chest-tube", "air-leak", "water-seal"]
+  },
+  {
+    "id": "r20-043",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 58-year-old man with tension pneumothorax presents with tachycardia at 135/min and a systolic blood pressure that drops by 15 mmHg during inspiration, measured by arterial line waveform. He has distended neck veins and absent breath sounds on the right. Which of the following best describes this inspiratory blood pressure finding?",
+    "choices": [
+      {"label": "A", "text": "Orthostatic hypotension"},
+      {"label": "B", "text": "Pulsus paradoxus"},
+      {"label": "C", "text": "Widened pulse pressure"},
+      {"label": "D", "text": "Pulsus alternans"},
+      {"label": "E", "text": "Pulsus bisferiens"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "A systolic blood pressure drop >10 mmHg during inspiration is pulsus paradoxus. In tension pneumothorax, elevated intrathoracic pressure exaggerates the normal inspiratory decrease in venous return.",
+      "whyCorrect": "Pulsus paradoxus is defined as SBP drop >10 mmHg during inspiration. In tension pneumothorax, positive intrathoracic pressure impedes venous return. Inspiration further increases intrathoracic pressure, exaggerating the drop in left ventricular output.",
+      "whyWrongByChoice": {
+        "A": "Orthostatic hypotension is a positional blood pressure drop, not respiratory variation.",
+        "C": "Wide pulse pressure is the systolic-diastolic difference, not respiratory variation.",
+        "D": "Pulsus alternans is alternating strong and weak beats from severe LV dysfunction.",
+        "E": "Pulsus bisferiens is a double-peaked pulse waveform in aortic valve disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pneumothorax", "tension", "pulsus-paradoxus", "hemodynamics"]
+  },
+  {
+    "id": "r20-044",
+    "topicId": "pneumothorax",
+    "topicName": "Pneumothorax",
+    "stem": "A 21-year-old man who plays trumpet in a college marching band presents with sudden right-sided chest pain and dyspnea that began during an intense rehearsal involving sustained high notes. He has no history of lung disease, trauma, or smoking. He is tall and thin. Chest X-ray shows a small right apical pneumothorax. Which of the following is the most likely mechanism?",
+    "choices": [
+      {"label": "A", "text": "Blunt chest trauma from instrument"},
+      {"label": "B", "text": "Aspiration of small foreign body"},
+      {"label": "C", "text": "Environmental allergen-induced bronchospasm reaction"},
+      {"label": "D", "text": "Valsalva-induced pressure rise"},
+      {"label": "E", "text": "Spontaneous pulmonary artery rupture"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Playing wind instruments involves the Valsalva maneuver, generating high intrapulmonary pressures that can rupture subclinical subpleural blebs, especially in tall, thin young males.",
+      "whyCorrect": "The Valsalva maneuver during trumpet playing generates high intrapulmonary pressures. In a patient with subclinical blebs (common in tall, thin males), this can cause bleb rupture and pneumothorax.",
+      "whyWrongByChoice": {
+        "A": "Trumpet playing does not involve blunt chest contact. The mechanism is pressure-related.",
+        "B": "Foreign body aspiration would cause airway obstruction symptoms, not pneumothorax.",
+        "C": "Bronchospasm causes wheezing and air trapping but does not typically cause pneumothorax.",
+        "E": "Pulmonary artery rupture would cause hemoptysis or hemothorax, not a simple pneumothorax."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["pneumothorax", "Valsalva", "wind-instrument", "primary-spontaneous"]
+  }
+]

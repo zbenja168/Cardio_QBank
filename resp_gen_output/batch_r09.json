@@ -1,0 +1,2077 @@
+[
+  {
+    "id": "r09-001",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 68-year-old man with a 45-pack-year smoking history presents with progressive dyspnea over 3 years. Physical examination reveals a barrel-shaped chest with diminished breath sounds bilaterally. Chest X-ray shows hyperinflated lungs with flattened diaphragms. Spirometry shows FEV₁ 45% predicted, FVC 78% predicted, and FEV₁/FVC of 0.55. Which of the following best describes this pattern?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Obstructive lung disease"
+      },
+      {
+        "label": "B",
+        "text": "Normal pulmonary function"
+      },
+      {
+        "label": "C",
+        "text": "Restrictive lung disease"
+      },
+      {
+        "label": "D",
+        "text": "Mixed obstructive-restrictive pattern"
+      },
+      {
+        "label": "E",
+        "text": "Isolated upper airway obstruction"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "FEV₁/FVC ratio <0.7 (here 0.55) with disproportionately reduced FEV₁ (45%) compared to FVC (78%) defines an obstructive pattern. The smoking history, barrel chest, and hyperinflation are consistent with COPD.",
+      "whyCorrect": "Obstructive lung disease is defined by FEV₁/FVC <0.7, reflecting difficulty expelling air. FEV₁ is reduced more than FVC because airway obstruction limits expiratory flow rate while lung volume may be preserved or even increased from air trapping.",
+      "whyWrongByChoice": {
+        "C": "Restrictive disease shows FEV₁/FVC ≥0.7 with both FEV₁ and FVC reduced proportionally, plus TLC <80% predicted. This patient's ratio is 0.55, indicating obstruction.",
+        "B": "FEV₁ at 45% predicted and FEV₁/FVC of 0.55 are significantly abnormal values inconsistent with normal function.",
+        "D": "Mixed disease requires evidence of both obstruction (low FEV₁/FVC) and restriction (low TLC). This patient shows isolated obstruction with hyperinflation.",
+        "E": "Upper airway obstruction produces characteristic flattened flow-volume loops, not the scooped-out expiratory pattern of intrathoracic obstruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "obstructive",
+      "FEV1/FVC",
+      "COPD"
+    ]
+  },
+  {
+    "id": "r09-002",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 55-year-old woman undergoes spirometry as part of a preoperative evaluation. The technician explains that certain lung volumes cannot be measured by spirometry alone and require additional testing. The patient asks why residual volume cannot be determined from spirometry. Which of the following best explains this limitation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Volume is too small to detect"
+      },
+      {
+        "label": "B",
+        "text": "Blood gas analysis is required"
+      },
+      {
+        "label": "C",
+        "text": "Spirometry measures only inspiratory flow"
+      },
+      {
+        "label": "D",
+        "text": "Residual volume equals FRC exactly"
+      },
+      {
+        "label": "E",
+        "text": "Air cannot be exhaled from lungs"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Spirometry measures the volume of air that can be exhaled. Since RV is the air that remains in the lungs after maximal expiration (it cannot be breathed out), it is not captured by spirometry. Measuring RV requires gas dilution or body plethysmography.",
+      "whyCorrect": "By definition, RV is the air that cannot be expelled regardless of expiratory effort. Since spirometry only records exhaled air, it cannot measure a volume that never leaves the lungs. Full PFTs using helium dilution or body plethysmography are needed.",
+      "whyWrongByChoice": {
+        "A": "RV is approximately 1-1.2 L in adults, which is not too small to detect. It simply cannot be exhaled during spirometry.",
+        "B": "Blood gas analysis measures dissolved gas partial pressures in blood, not lung volumes.",
+        "C": "Spirometry measures both inspiratory and expiratory volumes and flows. The specific limitation is that RV cannot be exhaled.",
+        "D": "FRC = ERV + RV. They are related but not identical; FRC is larger than RV alone."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "residual-volume",
+      "spirometry"
+    ]
+  },
+  {
+    "id": "r09-003",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 62-year-old woman with progressive exertional dyspnea and a dry cough for 18 months undergoes pulmonary function testing. High-resolution CT shows bilateral basilar honeycombing consistent with idiopathic pulmonary fibrosis. Spirometry and full PFTs are performed. Which of the following patterns is most consistent with her underlying diagnosis?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "FEV₁/FVC ≥0.7, decreased FVC and TLC"
+      },
+      {
+        "label": "B",
+        "text": "FEV₁/FVC <0.7, increased TLC"
+      },
+      {
+        "label": "C",
+        "text": "Normal FEV₁/FVC, increased RV"
+      },
+      {
+        "label": "D",
+        "text": "Decreased FEV₁, normal FVC"
+      },
+      {
+        "label": "E",
+        "text": "Increased FVC, normal FEV₁"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Pulmonary fibrosis is a restrictive lung disease. Both FEV₁ and FVC are reduced proportionally, so FEV₁/FVC remains ≥0.7 (normal or increased). TLC is decreased (<80% predicted) because the stiff, fibrotic lungs cannot fully expand.",
+      "whyCorrect": "In restrictive disease, the lungs cannot fully expand due to fibrosis and stiffness. Both FEV₁ and FVC decrease proportionally, maintaining a normal or elevated FEV₁/FVC ratio. TLC <80% confirms the restriction.",
+      "whyWrongByChoice": {
+        "B": "FEV₁/FVC <0.7 with increased TLC describes obstructive lung disease such as emphysema, not restrictive disease.",
+        "C": "Increased RV with a normal ratio suggests air trapping, an obstructive feature, not restrictive disease.",
+        "D": "Decreased FEV₁ with normal FVC would lower the FEV₁/FVC ratio, suggesting obstruction. In restriction, both decrease proportionally.",
+        "E": "Increased FVC is not seen in restrictive disease. FVC is reduced because fibrotic lungs limit full expansion."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "restrictive",
+      "pulmonary-fibrosis"
+    ]
+  },
+  {
+    "id": "r09-004",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 24-year-old medical student is reviewing a spirometry tracing from a standardized patient encounter. She is asked to identify which lung volumes compose the vital capacity. The instructor asks her to calculate VC from the four primary lung volumes. Which of the following correctly represents the vital capacity?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "TV + RV combined"
+      },
+      {
+        "label": "B",
+        "text": "ERV + RV combined"
+      },
+      {
+        "label": "C",
+        "text": "TV + IRV + ERV combined"
+      },
+      {
+        "label": "D",
+        "text": "TV + IRV + ERV + RV"
+      },
+      {
+        "label": "E",
+        "text": "IRV + RV combined"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Vital capacity is all the air that can be exhaled after maximal inspiration. It equals tidal volume + inspiratory reserve volume + expiratory reserve volume (TV + IRV + ERV). It does not include residual volume.",
+      "whyCorrect": "VC represents the maximum volume of air that can be moved in a single breath: the normal tidal breath (TV), plus the extra air that can be inhaled (IRV), plus the extra air that can be exhaled (ERV).",
+      "whyWrongByChoice": {
+        "A": "TV + RV is not a standard lung capacity. RV is the air that remains after maximal expiration and is not part of vital capacity.",
+        "B": "ERV + RV equals functional residual capacity (FRC), not vital capacity.",
+        "D": "TV + IRV + ERV + RV equals total lung capacity (TLC), not vital capacity. TLC = VC + RV.",
+        "E": "IRV + RV is not a recognized lung capacity measurement."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "vital-capacity",
+      "lung-volumes"
+    ]
+  },
+  {
+    "id": "r09-005",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 58-year-old man with a 30-pack-year smoking history undergoes spirometry that reveals a concave (scooped-out) expiratory curve on the flow-volume loop. His FEV₁/FVC ratio is 0.52. The physician explains that the scooped-out pattern reflects progressive loss of airflow during expiration. Which of the following mechanisms best explains this finding?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased lung elastic recoil"
+      },
+      {
+        "label": "B",
+        "text": "Decreased airway resistance overall"
+      },
+      {
+        "label": "C",
+        "text": "Increased inspiratory muscle strength"
+      },
+      {
+        "label": "D",
+        "text": "Reduced residual volume from hyperventilation"
+      },
+      {
+        "label": "E",
+        "text": "Dynamic airway collapse during expiration"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In obstructive disease, loss of elastic recoil and airway inflammation causes small airways to collapse during expiration. As lung volume decreases, flow drops sharply, creating the concave scooped-out appearance on the flow-volume loop.",
+      "whyCorrect": "The scooped-out expiratory curve reflects progressive airway narrowing and collapse during forced expiration. At higher volumes some flow is maintained, but as volume decreases and radial traction diminishes, airways collapse and flow falls rapidly.",
+      "whyWrongByChoice": {
+        "A": "Increased elastic recoil would improve expiratory flow, not reduce it. Obstructive disease typically has decreased elastic recoil.",
+        "B": "Decreased airway resistance would improve expiratory flow. Obstructive disease has increased resistance causing the scooped pattern.",
+        "C": "Inspiratory muscle strength does not affect the expiratory limb of the flow-volume loop.",
+        "D": "RV is increased in obstructive disease due to air trapping, not reduced. Hyperventilation does not eliminate air trapping."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "flow-volume-loop",
+      "obstructive"
+    ]
+  },
+  {
+    "id": "r09-006",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 19-year-old woman with a history of episodic wheezing and nocturnal cough presents for evaluation. She reports symptoms worsening with exercise and exposure to cold air. Baseline spirometry today shows FEV₁ 92% predicted and FEV₁/FVC of 0.83. The physician suspects asthma despite these normal results. Which test should be ordered next to unmask intermittent obstruction?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Methacholine bronchoprovocation test"
+      },
+      {
+        "label": "B",
+        "text": "CT pulmonary angiography"
+      },
+      {
+        "label": "C",
+        "text": "Posteroanterior chest radiograph"
+      },
+      {
+        "label": "D",
+        "text": "Complete blood count with differential"
+      },
+      {
+        "label": "E",
+        "text": "Resting arterial blood gas analysis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "When baseline spirometry is normal but asthma is suspected, bronchoprovocation testing with methacholine is used. A positive test shows a ≥20% drop in FEV₁ after inhaling the provoking agent, indicating airway hyperreactivity supportive of asthma.",
+      "whyCorrect": "Methacholine binds M3 muscarinic receptors on bronchial smooth muscle, causing bronchoconstriction. In asthma, the airways are hyperreactive and constrict at lower doses. A ≥20% FEV₁ drop confirms hyperreactivity. Albuterol is then given to reverse the effects.",
+      "whyWrongByChoice": {
+        "C": "Chest X-ray is typically normal in asthma. It cannot assess airway hyperreactivity or intermittent obstruction.",
+        "B": "CT angiography diagnoses pulmonary embolism, not asthma or airway hyperreactivity.",
+        "D": "CBC may show eosinophilia in allergic asthma but cannot diagnose or unmask intermittent airway obstruction.",
+        "E": "Arterial blood gas assesses gas exchange status but does not test for airway hyperreactivity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "methacholine-challenge",
+      "asthma",
+      "bronchoprovocation"
+    ]
+  },
+  {
+    "id": "r09-007",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 32-year-old man with known asthma undergoes spirometry that reveals FEV₁/FVC of 0.62 and FEV₁ of 68% predicted. After administration of inhaled albuterol, repeat spirometry shows FEV₁ improved by 15% and 280 mL from baseline. Which of the following best describes the significance of this response?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Demonstrates bronchodilator reversibility"
+      },
+      {
+        "label": "B",
+        "text": "Indicates fixed upper airway obstruction"
+      },
+      {
+        "label": "C",
+        "text": "Confirms restrictive lung physiology"
+      },
+      {
+        "label": "D",
+        "text": "Indicates normal baseline lung function"
+      },
+      {
+        "label": "E",
+        "text": "Suggests progressive pulmonary fibrosis"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Bronchodilator reversibility (FEV₁ improvement ≥12% AND ≥200 mL) after albuterol supports the diagnosis of asthma. It indicates the airway obstruction has a reversible component responsive to beta-2 agonist smooth muscle relaxation.",
+      "whyCorrect": "Reversibility testing differentiates potentially reversible obstruction (asthma) from fixed obstruction (severe COPD). A positive response (≥12% and ≥200 mL FEV₁ improvement) supports asthma, though some COPD patients also show partial reversibility.",
+      "whyWrongByChoice": {
+        "C": "Reversibility testing is performed in the context of obstructive disease, not restrictive. The baseline FEV₁/FVC of 0.62 confirms obstruction.",
+        "B": "Fixed upper airway obstruction would not respond to bronchodilators, producing no improvement post-albuterol.",
+        "D": "The baseline showed obstruction with FEV₁/FVC 0.62. Reversibility confirms a reversible obstructive component, not normality.",
+        "E": "Pulmonary fibrosis is a restrictive disease and does not respond to bronchodilators."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "reversibility",
+      "asthma",
+      "bronchodilator"
+    ]
+  },
+  {
+    "id": "r09-008",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 40-year-old woman is referred for full pulmonary function testing. The pulmonologist explains that total lung capacity represents the maximum volume of air the lungs can contain. He asks the patient's medical student to identify which standard lung measurements sum to equal TLC. Which of the following is correct?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Tidal volume plus IRV"
+      },
+      {
+        "label": "B",
+        "text": "ERV plus residual volume"
+      },
+      {
+        "label": "C",
+        "text": "Tidal volume plus ERV"
+      },
+      {
+        "label": "D",
+        "text": "Vital capacity plus residual volume"
+      },
+      {
+        "label": "E",
+        "text": "IRV plus ERV only"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "TLC is the maximum amount of air the lungs can hold. It equals vital capacity (the maximum air that can be exhaled) plus residual volume (the air remaining after maximal exhalation): TLC = VC + RV.",
+      "whyCorrect": "TLC = all four lung volumes (TV + IRV + ERV + RV), which simplifies to VC + RV since VC = TV + IRV + ERV. Normal TLC is approximately 6 liters in adults.",
+      "whyWrongByChoice": {
+        "A": "TV + IRV equals inspiratory capacity (IC), not TLC. IC does not include ERV or RV.",
+        "B": "ERV + RV equals functional residual capacity (FRC), not TLC. FRC is the air remaining after normal expiration.",
+        "C": "TV + ERV is not a standard capacity measurement and excludes both IRV and RV.",
+        "E": "IRV + ERV does not include TV or RV and is not a recognized lung capacity."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "TLC",
+      "lung-capacities"
+    ]
+  },
+  {
+    "id": "r09-009",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 72-year-old man with severe COPD undergoes full pulmonary function testing. His spirometry shows FEV₁/FVC of 0.48 and FEV₁ of 35% predicted. Chest X-ray demonstrates flattened diaphragms and increased anteroposterior diameter. The pulmonologist reviews the full PFT results. Which pattern of residual volume and total lung capacity is most expected?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Both RV and TLC decreased"
+      },
+      {
+        "label": "B",
+        "text": "RV increased, TLC decreased"
+      },
+      {
+        "label": "C",
+        "text": "RV decreased, TLC increased"
+      },
+      {
+        "label": "D",
+        "text": "Both RV and TLC normal"
+      },
+      {
+        "label": "E",
+        "text": "Both RV and TLC increased"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In obstructive disease, air trapping prevents complete exhalation, increasing residual volume. The trapped air also increases total lung capacity, leading to hyperinflated lungs visible on chest X-ray as flattened diaphragms.",
+      "whyCorrect": "Air cannot easily leave the lungs in obstruction. RV rises because more air is trapped after each breath. TLC increases because the lungs become chronically hyperinflated. This is the opposite of restrictive disease where both decrease.",
+      "whyWrongByChoice": {
+        "A": "Both decreased is the pattern in restrictive lung disease, not obstructive. Obstruction causes hyperinflation.",
+        "B": "RV and TLC both increase together in obstruction from air trapping. TLC does not decrease.",
+        "C": "RV increases from air trapping, not decreases. This combination is not consistent with obstruction.",
+        "D": "Both volumes are significantly abnormal in severe obstructive disease with this degree of airflow limitation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "obstructive",
+      "RV",
+      "TLC",
+      "air-trapping"
+    ]
+  },
+  {
+    "id": "r09-010",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 38-year-old man undergoes pulmonary function testing after a workplace chemical exposure. The technician explains that functional residual capacity represents the air remaining in the lungs at the end of a normal, relaxed exhalation. A medical student rotating through the clinic is asked to identify which two lung volumes combine to form FRC. Which is correct?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "TV plus IRV"
+      },
+      {
+        "label": "B",
+        "text": "ERV plus RV"
+      },
+      {
+        "label": "C",
+        "text": "IRV plus ERV"
+      },
+      {
+        "label": "D",
+        "text": "TV plus RV"
+      },
+      {
+        "label": "E",
+        "text": "TV plus ERV"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "FRC is the air remaining in the lungs at the end of a normal expiration. It equals the expiratory reserve volume (additional air that could still be exhaled) plus the residual volume (air that can never be exhaled): FRC = ERV + RV.",
+      "whyCorrect": "At the end of a normal tidal expiration, the lungs contain ERV (air that could be forcefully exhaled further) and RV (air that cannot be exhaled at all). Their sum is the functional residual capacity.",
+      "whyWrongByChoice": {
+        "A": "TV + IRV equals inspiratory capacity (IC), not FRC.",
+        "C": "IRV + ERV is not a standard lung capacity measurement.",
+        "D": "TV + RV is not a recognized capacity measurement.",
+        "E": "TV + ERV is not a standard lung capacity."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "FRC",
+      "lung-volumes"
+    ]
+  },
+  {
+    "id": "r09-011",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 30-year-old nonsmoking man undergoes spirometry as part of a routine health screening. His results show FEV₁ 85% predicted, FVC 90% predicted, and FEV₁/FVC ratio of 0.75. He has no respiratory symptoms, and his physical examination is unremarkable. Which of the following best describes this spirometry result?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Obstructive lung disease pattern"
+      },
+      {
+        "label": "B",
+        "text": "Restrictive lung disease pattern"
+      },
+      {
+        "label": "C",
+        "text": "Mixed obstructive-restrictive disease"
+      },
+      {
+        "label": "D",
+        "text": "Normal pulmonary function values"
+      },
+      {
+        "label": "E",
+        "text": "Severe chronic obstructive disease"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "FEV₁ >80% predicted, FVC >80% predicted, and FEV₁/FVC ≥0.7 all fall within normal limits. This healthy individual has normal pulmonary function.",
+      "whyCorrect": "Normal spirometry requires FEV₁ and FVC both >80% of predicted values and an FEV₁/FVC ratio ≥0.7. All three criteria are met here (85%, 90%, and 0.75 respectively), indicating normal lung function.",
+      "whyWrongByChoice": {
+        "A": "Obstructive disease requires FEV₁/FVC <0.7. This patient's ratio is 0.75, which is normal.",
+        "B": "Restrictive disease would show FVC <80% predicted and TLC <80%. This patient's FVC is 90%.",
+        "C": "Mixed disease requires both obstructive and restrictive features, neither of which is present here.",
+        "E": "Severe COPD would show markedly reduced FEV₁ (<50% predicted) with FEV₁/FVC <0.7."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "normal-spirometry"
+    ]
+  },
+  {
+    "id": "r09-012",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 60-year-old man with suspected restrictive lung disease has spirometry showing reduced FVC. His pulmonologist explains that confirming restriction requires measuring total lung capacity, which in turn requires knowing the residual volume. However, spirometry alone cannot determine RV. Which of the following techniques can measure residual volume?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Handheld peak flow meter"
+      },
+      {
+        "label": "B",
+        "text": "Standard fingertip pulse oximetry"
+      },
+      {
+        "label": "C",
+        "text": "Posteroanterior chest radiograph"
+      },
+      {
+        "label": "D",
+        "text": "Plethysmography or gas dilution"
+      },
+      {
+        "label": "E",
+        "text": "Radial arterial blood gas sampling"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Since RV cannot be exhaled, spirometry cannot measure it. Body plethysmography (measuring pressure changes in a sealed box) or gas dilution techniques (helium dilution or nitrogen washout) are used to measure RV, and thereby TLC and FRC.",
+      "whyCorrect": "Body plethysmography uses Boyle's law to calculate lung volumes from pressure-volume changes in a sealed chamber. Gas dilution uses an inert gas to calculate the volume of gas that mixes with the known concentration, revealing the trapped volume.",
+      "whyWrongByChoice": {
+        "A": "Peak flow meters measure peak expiratory flow rate only. They cannot measure residual volume.",
+        "B": "Pulse oximetry measures oxygen saturation of hemoglobin. It does not measure lung volumes.",
+        "C": "Chest X-ray can show hyperinflation qualitatively but cannot precisely quantify residual volume.",
+        "E": "Arterial blood gas measures blood gas partial pressures and pH. It does not measure lung volumes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "residual-volume",
+      "plethysmography",
+      "gas-dilution"
+    ]
+  },
+  {
+    "id": "r09-013",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 45-year-old woman presents for a routine physical examination. During the pulmonary portion, the physician explains the basic lung volumes to the patient. She describes tidal volume as a fundamental measurement used in spirometry. Which of the following best defines tidal volume?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Air remaining after maximal expiration"
+      },
+      {
+        "label": "B",
+        "text": "Maximum air lungs can contain"
+      },
+      {
+        "label": "C",
+        "text": "Air moved during quiet breathing"
+      },
+      {
+        "label": "D",
+        "text": "Extra air inhaled beyond normal"
+      },
+      {
+        "label": "E",
+        "text": "Extra air exhaled beyond normal"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Tidal volume is approximately 500 mL and represents the normal volume of air moved in and out of the lungs during quiet, resting breathing — the ordinary breathing of daily life.",
+      "whyCorrect": "TV is the volume of a single normal breath at rest, approximately 500 mL. It represents the air moved during the routine breathing cycle without any extra effort.",
+      "whyWrongByChoice": {
+        "A": "The air remaining after maximal expiration is the residual volume (RV), approximately 1-1.2 liters.",
+        "B": "The maximum air the lungs can hold is total lung capacity (TLC), approximately 6 liters in adults.",
+        "D": "The additional air that can be inhaled beyond a normal inspiration is the inspiratory reserve volume (IRV).",
+        "E": "The additional air that can be exhaled beyond a normal expiration is the expiratory reserve volume (ERV)."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "tidal-volume"
+    ]
+  },
+  {
+    "id": "r09-014",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 48-year-old African American woman with known sarcoidosis presents with worsening dyspnea on exertion. Chest CT reveals bilateral hilar lymphadenopathy and diffuse interstitial infiltrates. PFTs show FEV₁ 65% predicted, FVC 62% predicted, FEV₁/FVC 0.82, and TLC 68% predicted. Which of the following best characterizes this PFT pattern?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Obstructive lung disease pattern"
+      },
+      {
+        "label": "B",
+        "text": "Normal spirometric findings overall"
+      },
+      {
+        "label": "C",
+        "text": "Isolated upper airway obstruction"
+      },
+      {
+        "label": "D",
+        "text": "Asthma with airway hyperreactivity"
+      },
+      {
+        "label": "E",
+        "text": "Restrictive lung disease pattern"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "FEV₁/FVC ≥0.7 (0.82) with both FEV₁ and FVC reduced (<80%), and TLC <80% (68%) confirms restrictive lung disease. Sarcoidosis causes pulmonary fibrosis and granulomatous inflammation that restricts lung expansion.",
+      "whyCorrect": "The hallmarks of restriction are: FEV₁/FVC normal or increased (0.82), reduced FVC (<80%), and critically, TLC <80% predicted. Both volumes decrease proportionally while the ratio is preserved, and the reduced TLC confirms limited lung expansion.",
+      "whyWrongByChoice": {
+        "A": "Obstructive disease requires FEV₁/FVC <0.7 with disproportionately reduced FEV₁. This patient's ratio is 0.82.",
+        "B": "FEV₁ 65%, FVC 62%, and TLC 68% are all abnormally low, clearly not normal findings.",
+        "C": "Upper airway obstruction produces characteristic flattened flow-volume loops, not the proportional volume reduction seen here.",
+        "D": "Asthma is an obstructive disease with reduced FEV₁/FVC. This patient has a restrictive pattern with preserved ratio."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "restrictive",
+      "sarcoidosis"
+    ]
+  },
+  {
+    "id": "r09-015",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 52-year-old woman with moderate persistent asthma undergoes spirometry during a routine follow-up visit. The flow-volume loop shows a reduced peak on the expiratory limb compared to predicted values. The physician notes that the peak expiratory flow rate is decreased. In obstructive lung disease, PEFR is typically altered in which direction?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Significantly increased above predicted"
+      },
+      {
+        "label": "B",
+        "text": "Decreased below predicted values"
+      },
+      {
+        "label": "C",
+        "text": "Remains within normal predicted range"
+      },
+      {
+        "label": "D",
+        "text": "Cannot be measured by spirometry"
+      },
+      {
+        "label": "E",
+        "text": "Reduced only during the inspiratory phase"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "PEFR is the maximum flow rate achieved during forced expiration. In obstructive disease, airway narrowing limits the maximum achievable expiratory flow, reducing PEFR. This is visible as a lower peak on the expiratory limb of the flow-volume loop.",
+      "whyCorrect": "Airway obstruction directly limits how fast air can be expelled. The narrowed airways create higher resistance, reducing the peak flow rate during forced expiration. PEFR monitoring is commonly used in asthma management.",
+      "whyWrongByChoice": {
+        "A": "PEFR is decreased in obstruction because narrowed airways limit maximum expiratory flow, not increased.",
+        "C": "PEFR is abnormally reduced in obstructive disease, falling below predicted normal values.",
+        "D": "PEFR is readily measured from the flow-volume loop; it is simply reduced compared to predicted values.",
+        "E": "PEFR is an expiratory measurement. It is reduced during expiration, not selectively during inspiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "PEFR",
+      "obstructive"
+    ]
+  },
+  {
+    "id": "r09-016",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 65-year-old man with COPD undergoes diffusing capacity testing. His DLCO is 40% of predicted, confirming the emphysema subtype. His pulmonologist explains that emphysema specifically reduces DLCO through a distinct pathologic mechanism. Which of the following best explains why DLCO is decreased in emphysema?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased total airway resistance"
+      },
+      {
+        "label": "B",
+        "text": "Excessive surfactant overproduction"
+      },
+      {
+        "label": "C",
+        "text": "Elevated carbon dioxide production"
+      },
+      {
+        "label": "D",
+        "text": "Bronchial smooth muscle hypertrophy"
+      },
+      {
+        "label": "E",
+        "text": "Destroyed alveolar-capillary surface area"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "DLCO measures gas transfer across the alveolar-capillary membrane. In emphysema, destruction of alveolar walls and their capillaries reduces the surface area and capillary blood volume available for gas exchange, significantly decreasing DLCO.",
+      "whyCorrect": "Emphysema destroys alveolar septa and their associated capillary networks, reducing both the membrane surface area and the total volume of RBCs in pulmonary capillaries. Since DLCO depends on both membrane diffusion and capillary blood volume, this destruction significantly lowers the measurement.",
+      "whyWrongByChoice": {
+        "A": "Airway resistance affects airflow mechanics but is not what DLCO measures. DLCO assesses gas transfer efficiency across the alveolar membrane.",
+        "B": "Surfactant overproduction does not occur in emphysema and would not directly reduce diffusing capacity.",
+        "C": "CO₂ production is a metabolic parameter unrelated to the DLCO measurement technique using carbon monoxide.",
+        "D": "Smooth muscle hypertrophy is more characteristic of asthma and chronic bronchitis, not the alveolar wall destruction of emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "DLCO",
+      "emphysema"
+    ]
+  },
+  {
+    "id": "r09-017",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 50-year-old woman with progressive dyspnea undergoes spirometry. The FEV₁/FVC ratio is the key value used to differentiate obstructive from restrictive lung disease. Her results show reduced FVC with a proportional reduction in FEV₁. The physician considers a restrictive process. In restrictive lung disease, the FEV₁/FVC ratio is typically which of the following?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Normal or increased (≥0.7)"
+      },
+      {
+        "label": "B",
+        "text": "Not measurable by spirometry"
+      },
+      {
+        "label": "C",
+        "text": "Less than 0.7 consistently"
+      },
+      {
+        "label": "D",
+        "text": "Fixed at exactly 0.5"
+      },
+      {
+        "label": "E",
+        "text": "Consistently greater than 1.0"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In restrictive disease, both FEV₁ and FVC decrease proportionally because the lungs are small but airways are normal. Since both numerator and denominator decrease equally, FEV₁/FVC remains ≥0.7 and may even be increased.",
+      "whyCorrect": "Restrictive diseases reduce lung volumes without obstructing airways. FEV₁ and FVC decrease together, maintaining or even increasing their ratio. This distinguishes restriction (ratio ≥0.7) from obstruction (ratio <0.7).",
+      "whyWrongByChoice": {
+        "C": "FEV₁/FVC <0.7 defines obstructive disease, not restrictive. This is the fundamental distinguishing criterion.",
+        "B": "The ratio is easily calculated from spirometry data. Both FEV₁ and FVC are measured during the maneuver.",
+        "D": "The ratio varies between patients but remains ≥0.7 in restriction. It is not fixed at 0.5.",
+        "E": "While the ratio can be elevated, it does not consistently exceed 1.0 under standard measurement conditions."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "FEV1/FVC",
+      "restrictive"
+    ]
+  },
+  {
+    "id": "r09-018",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A physiology professor explains to her class that after the most forceful possible expiration, a healthy adult still retains approximately 1.2 liters of air in the lungs. This residual volume serves an important physiologic function by preventing alveolar collapse. Which of the following best explains why residual volume exists?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Diaphragm cannot fully relax"
+      },
+      {
+        "label": "B",
+        "text": "Surfactant prevents complete emptying"
+      },
+      {
+        "label": "C",
+        "text": "Trachea closes during maximal expiration"
+      },
+      {
+        "label": "D",
+        "text": "Chest wall cannot collapse further"
+      },
+      {
+        "label": "E",
+        "text": "Bronchial cartilage blocks compression"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Even during maximal forced expiration, the chest wall reaches a point where it cannot collapse further. This physical limitation leaves approximately 1-1.2 L of air in the lungs that can never be exhaled. This residual volume prevents atelectasis.",
+      "whyCorrect": "The chest wall has an inherent structural limit to how far it can collapse. At residual volume, the outward elastic recoil of the chest wall equals or exceeds the forces driving expiration, preventing further air from being expelled.",
+      "whyWrongByChoice": {
+        "A": "The diaphragm does relax during expiration. RV exists because of chest wall structural limitations, not diaphragm function.",
+        "B": "Surfactant prevents alveolar collapse from surface tension but is not the reason residual volume exists.",
+        "C": "The trachea does not close during expiration. It is maintained open by C-shaped cartilage rings.",
+        "E": "While cartilage supports larger airways, RV is determined by the structural limits of chest wall mechanics."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "residual-volume",
+      "chest-wall"
+    ]
+  },
+  {
+    "id": "r09-019",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 22-year-old college student with episodic wheezing presents for evaluation. Her baseline spirometry is entirely normal. A methacholine challenge test is performed, and FEV₁ drops by 25% after low-dose methacholine administration. She is then given albuterol with symptom resolution. Which of the following best describes this methacholine challenge result?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Positive, supporting asthma diagnosis"
+      },
+      {
+        "label": "B",
+        "text": "Inconclusive and needs repetition"
+      },
+      {
+        "label": "C",
+        "text": "Negative for airway hyperreactivity"
+      },
+      {
+        "label": "D",
+        "text": "Diagnostic for restrictive lung disease"
+      },
+      {
+        "label": "E",
+        "text": "Normal expected response to methacholine"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A ≥20% drop in FEV₁ after methacholine inhalation is a positive bronchoprovocation test, indicating airway hyperreactivity. This finding supports (but does not definitively confirm) a diagnosis of asthma.",
+      "whyCorrect": "A 25% FEV₁ drop exceeds the 20% threshold for a positive test, confirming airway hyperreactivity. This is supportive of asthma, though not diagnostic alone because some COPD patients also show hyperreactivity.",
+      "whyWrongByChoice": {
+        "C": "A ≥20% FEV₁ drop is a positive result. A negative result would be <20% drop in FEV₁.",
+        "B": "The result clearly exceeds the 20% threshold and is definitively positive. Repetition is unnecessary.",
+        "D": "Bronchoprovocation testing evaluates obstructive airway hyperreactivity, not restrictive physiology.",
+        "E": "Healthy individuals without airway hyperreactivity do not demonstrate a ≥20% FEV₁ drop with methacholine."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "methacholine",
+      "positive-result",
+      "asthma"
+    ]
+  },
+  {
+    "id": "r09-020",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A first-year medical student is studying lung volumes and capacities. She reads that total lung capacity varies by age, sex, and height, but the average normal value for a healthy adult is a standard reference point. The student is asked on an examination to identify the approximate normal TLC. Which of the following values is correct?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Approximately 1 liter total"
+      },
+      {
+        "label": "B",
+        "text": "Approximately 3 liters total"
+      },
+      {
+        "label": "C",
+        "text": "Approximately 10 liters total"
+      },
+      {
+        "label": "D",
+        "text": "Approximately 6 liters total"
+      },
+      {
+        "label": "E",
+        "text": "Approximately 15 liters total"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Normal TLC in a healthy adult is approximately 6 liters. It varies with age, sex, and height. TLC is the maximum volume of air the lungs can hold after maximal inspiration.",
+      "whyCorrect": "TLC ≈ 6 liters in adults (2-4 liters in children). It is the sum of all four lung volumes: TV (~500 mL) + IRV (~3000 mL) + ERV (~1200 mL) + RV (~1200 mL).",
+      "whyWrongByChoice": {
+        "A": "1 liter is approximately the residual volume alone, far less than total lung capacity.",
+        "B": "3 liters would be roughly the vital capacity in a smaller individual, not TLC.",
+        "C": "10 liters significantly exceeds normal TLC and is not physiologically typical.",
+        "E": "15 liters is far beyond normal lung capacity and is not achievable."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "TLC",
+      "normal-values"
+    ]
+  },
+  {
+    "id": "r09-021",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 56-year-old man presents with a 6-month history of persistent productive cough and worsening dyspnea on exertion. He has a 25-pack-year smoking history and works in a dusty environment. His physician considers ordering spirometry to evaluate his respiratory complaints. For which of the following clinical scenarios is spirometry most appropriately indicated?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Acute ST-elevation myocardial infarction"
+      },
+      {
+        "label": "B",
+        "text": "Persistent cough and dyspnea evaluation"
+      },
+      {
+        "label": "C",
+        "text": "Right lower quadrant abdominal pain"
+      },
+      {
+        "label": "D",
+        "text": "Uncomplicated urinary tract infection"
+      },
+      {
+        "label": "E",
+        "text": "Acute migraine headache presentation"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Spirometry is indicated for evaluating patients with persistent respiratory symptoms such as cough, dyspnea, and wheezing. It helps diagnose obstructive vs restrictive disease, assess severity, and monitor treatment response.",
+      "whyCorrect": "Spirometry provides objective measurement of lung function in patients with respiratory symptoms. It helps diagnose obstructive vs restrictive disease, assess severity, monitor treatment response, and track disease progression.",
+      "whyWrongByChoice": {
+        "A": "Acute MI requires emergent cardiac evaluation and intervention. Spirometry is not indicated for cardiac emergencies.",
+        "C": "Right lower quadrant pain suggests appendicitis or other abdominal pathology. Spirometry has no diagnostic role.",
+        "D": "UTI is diagnosed with urinalysis and treated with antibiotics. Pulmonary function assessment is not relevant.",
+        "E": "Migraine is a neurological condition. Spirometry is unrelated to its diagnosis or management."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "indications",
+      "spirometry"
+    ]
+  },
+  {
+    "id": "r09-022",
+    "topicId": "pulmonary-function-tests",
+    "topicName": "Pulmonary Function Tests",
+    "stem": "A 70-year-old man with a 50-pack-year smoking history presents with worsening dyspnea. Chest X-ray reveals hyperinflated lung fields, flattened diaphragms, and increased retrosternal airspace. The physician orders full pulmonary function testing to quantify the degree of air trapping. Which PFT abnormality best correlates with these radiographic findings?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased RV and TLC from trapping"
+      },
+      {
+        "label": "B",
+        "text": "Isolated increase in FEV₁ value"
+      },
+      {
+        "label": "C",
+        "text": "Decreased RV and TLC values"
+      },
+      {
+        "label": "D",
+        "text": "Normal lung volumes throughout"
+      },
+      {
+        "label": "E",
+        "text": "Decreased FRC with increased ERV"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Hyperinflated lungs and flattened diaphragms on CXR reflect chronically elevated lung volumes from air trapping. PFTs confirm increased RV (trapped air) and TLC (total hyperinflation), which are hallmarks of obstructive disease.",
+      "whyCorrect": "Air trapping in COPD prevents complete exhalation, increasing RV. The chronically increased RV raises TLC and FRC, causing the hyperinflation visible on imaging as flattened diaphragms, increased AP diameter, and widened intercostal spaces.",
+      "whyWrongByChoice": {
+        "C": "Decreased RV and TLC are seen in restrictive disease, not obstructive. Hyperinflation on imaging indicates increased volumes.",
+        "B": "FEV₁ is decreased in COPD, not increased. The obstruction reduces expiratory flow rates.",
+        "D": "The imaging findings clearly indicate abnormally elevated lung volumes inconsistent with normal values.",
+        "E": "FRC is increased in COPD due to air trapping and loss of elastic recoil, not decreased."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "PFT",
+      "COPD",
+      "hyperinflation",
+      "chest-X-ray"
+    ]
+  },
+  {
+    "id": "r09-023",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 28-year-old man is studying respiratory physiology. He learns that normal alveolar ventilation at rest is approximately 4 L/min and cardiac output is approximately 5 L/min. The professor asks him to identify the normal whole-lung V̇/Q̇ ratio. Which of the following values is correct?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Approximately 0.2"
+      },
+      {
+        "label": "B",
+        "text": "Approximately 0.5"
+      },
+      {
+        "label": "C",
+        "text": "Approximately 1.5"
+      },
+      {
+        "label": "D",
+        "text": "Approximately 0.8"
+      },
+      {
+        "label": "E",
+        "text": "Approximately 3.0"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The normal V̇/Q̇ ratio is approximately 0.8, reflecting alveolar ventilation of ~4 L/min and cardiac output of ~5 L/min. This indicates well-matched ventilation and perfusion for efficient gas exchange.",
+      "whyCorrect": "V̇/Q̇ = alveolar ventilation / pulmonary perfusion = 4 L/min / 5 L/min = 0.8. This near-unity ratio indicates good matching between air delivery and blood flow, optimizing oxygen uptake and CO₂ removal.",
+      "whyWrongByChoice": {
+        "A": "0.2 would indicate severe V/Q mismatch with perfusion greatly exceeding ventilation, resembling a shunt-like state.",
+        "B": "0.5 would indicate suboptimal ventilation relative to perfusion. The normal ratio is 0.8.",
+        "C": "1.5 would indicate ventilation exceeding perfusion, a dead space-like pattern. Normal is 0.8.",
+        "E": "3.0 is the approximate V/Q ratio at the lung apex only, not the whole-lung average."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "normal-value"
+    ]
+  },
+  {
+    "id": "r09-024",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 35-year-old woman is being evaluated in the pulmonary physiology laboratory. She stands upright while regional ventilation and perfusion are measured using radiolabeled tracers. The data confirm that perfusion increases more steeply than ventilation from apex to base. Based on these findings, which of the following best describes the V̇/Q̇ ratio at the lung apex?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Low ratio, less than 1.0"
+      },
+      {
+        "label": "B",
+        "text": "Equal to the lung base"
+      },
+      {
+        "label": "C",
+        "text": "Exactly 0.8 throughout the lung"
+      },
+      {
+        "label": "D",
+        "text": "Zero, representing no ventilation"
+      },
+      {
+        "label": "E",
+        "text": "High ratio, greater than 3.0"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "At the apex, perfusion is minimal (gravity reduces blood flow) while ventilation is relatively preserved. This creates a high V̇/Q̇ ratio (>3.0). The base has abundant perfusion relative to ventilation, producing a low V̇/Q̇ ratio (<1.0).",
+      "whyCorrect": "The apex receives little blood flow because the low-pressure pulmonary circulation struggles to push blood against gravity. Ventilation, though also reduced, is less affected. The result is a high V̇/Q̇ ratio (well-ventilated, poorly perfused).",
+      "whyWrongByChoice": {
+        "A": "Low V̇/Q̇ (<1.0) characterizes the base, not the apex. The base has high perfusion relative to ventilation.",
+        "B": "The V̇/Q̇ ratio varies significantly from apex to base. It is not uniform throughout the lung.",
+        "C": "V̇/Q̇ = 0.8 is the whole-lung average. Regional ratios vary from >3.0 at the apex to <1.0 at the base.",
+        "D": "Zero V̇/Q̇ describes a pure shunt. The apex does receive ventilation; it has high V̇/Q̇, not zero."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "apex",
+      "gravity"
+    ]
+  },
+  {
+    "id": "r09-025",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 60-year-old woman with sudden-onset dyspnea is found to have a large saddle pulmonary embolism on CT angiography. The affected lung regions continue to receive ventilation but have no blood flow. The V̇/Q̇ ratio in these regions approaches infinity. Which of the following best describes this physiologic state?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Dead space ventilation"
+      },
+      {
+        "label": "B",
+        "text": "Normal ventilation-perfusion matching"
+      },
+      {
+        "label": "C",
+        "text": "Intrapulmonary shunt physiology"
+      },
+      {
+        "label": "D",
+        "text": "Mixed obstructive-restrictive pattern"
+      },
+      {
+        "label": "E",
+        "text": "Alveolar diffusion limitation"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "V̇/Q̇ approaching infinity means ventilation is present but perfusion approaches zero. This is dead space — alveoli receive air but no blood flows past them, so no gas exchange occurs. Pulmonary embolism is a classic cause.",
+      "whyCorrect": "When perfusion (the denominator) approaches zero while ventilation continues, V̇/Q̇ approaches infinity. The ventilated but unperfused alveoli function as dead space, wasting ventilation without contributing to gas exchange.",
+      "whyWrongByChoice": {
+        "C": "Shunt is the opposite: V̇/Q̇ = 0 (perfusion without ventilation). Blood passes through without being oxygenated.",
+        "B": "Normal gas exchange requires V̇/Q̇ near 0.8, not infinity. These regions cannot exchange any gas.",
+        "D": "Mixed disease refers to PFT patterns with both obstruction and restriction, not V̇/Q̇ extremes.",
+        "E": "Diffusion limitation describes impaired gas transfer across the alveolar membrane, not absence of blood flow."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "dead-space",
+      "infinity"
+    ]
+  },
+  {
+    "id": "r09-026",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 42-year-old man with lobar pneumonia has consolidation of his right lower lobe. The consolidated alveoli are filled with purulent exudate and cannot be ventilated, but blood continues to flow through their capillary beds. The V̇/Q̇ ratio in these consolidated regions is zero. Which physiologic abnormality does this represent?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Alveolar dead space ventilation"
+      },
+      {
+        "label": "B",
+        "text": "Normal V/Q matching overall"
+      },
+      {
+        "label": "C",
+        "text": "Compensatory hyperventilation response"
+      },
+      {
+        "label": "D",
+        "text": "Intrapulmonary shunt physiology"
+      },
+      {
+        "label": "E",
+        "text": "Emphysematous alveolar destruction"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "V̇/Q̇ = 0 means perfusion is present but ventilation is zero. This is a shunt: blood flows through unventilated alveoli without being oxygenated, returning to the systemic circulation deoxygenated.",
+      "whyCorrect": "When ventilation is zero but perfusion continues, V̇/Q̇ = 0. This is a true intrapulmonary shunt. Blood bypasses gas exchange and returns to the left heart deoxygenated. This cannot be corrected by supplemental oxygen because the blood never contacts alveolar gas.",
+      "whyWrongByChoice": {
+        "A": "Dead space is V̇/Q̇ approaching infinity (ventilation without perfusion), the opposite of this scenario.",
+        "B": "Normal V/Q is approximately 0.8. A ratio of zero is severely abnormal.",
+        "C": "Hyperventilation is a compensatory response that may occur elsewhere in the lung but does not describe the V̇/Q̇ = 0 region itself.",
+        "E": "Emphysema causes alveolar wall destruction and V/Q mismatch but not the complete absence of ventilation with preserved perfusion seen here."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "shunt",
+      "zero"
+    ]
+  },
+  {
+    "id": "r09-027",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 58-year-old man presents to the emergency department with acute dyspnea and right-sided pleuritic chest pain. CT pulmonary angiography reveals a large embolus occluding the right pulmonary artery. The affected lung parenchyma receives ventilation but no perfusion. Which type of V̇/Q̇ abnormality does this best represent?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Intrapulmonary shunt (V̇/Q̇ = 0)"
+      },
+      {
+        "label": "B",
+        "text": "Normal V/Q matching preserved"
+      },
+      {
+        "label": "C",
+        "text": "Dead space (V̇/Q̇ approaches infinity)"
+      },
+      {
+        "label": "D",
+        "text": "Alveolar diffusion limitation only"
+      },
+      {
+        "label": "E",
+        "text": "Low V/Q mismatch physiology"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Pulmonary embolism blocks blood flow to ventilated alveoli, creating dead space (V̇/Q̇ approaching infinity). These alveoli receive air but no blood, so gas exchange cannot occur. This represents wasted ventilation.",
+      "whyCorrect": "The clot prevents perfusion downstream while ventilation continues. The affected alveoli function as alveolar dead space: air enters and exits but no CO₂ is removed or O₂ is added to the blood because no blood flows past.",
+      "whyWrongByChoice": {
+        "A": "Shunt is blood passing through without being ventilated (V̇/Q̇ = 0), the opposite of PE where perfusion is blocked.",
+        "B": "PE causes significant V/Q mismatch. The affected regions have V̇/Q̇ approaching infinity, far from normal.",
+        "D": "Diffusion limitation involves impaired gas transfer across an intact alveolar membrane, not absence of blood flow.",
+        "E": "Low V/Q characterizes regions where perfusion exceeds ventilation, such as in mucus plugging, not PE."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "pulmonary-embolism",
+      "dead-space"
+    ]
+  },
+  {
+    "id": "r09-028",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 55-year-old man with community-acquired pneumonia has consolidated alveoli in his left lower lobe. Despite receiving supplemental oxygen via non-rebreather mask at 15 L/min, his SpO₂ remains at 82%. The attending physician explains that the hypoxemia is refractory to supplemental oxygen. Which of the following best explains this finding?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Shunted blood bypasses ventilated alveoli"
+      },
+      {
+        "label": "B",
+        "text": "Hemoglobin is already fully saturated"
+      },
+      {
+        "label": "C",
+        "text": "Alveolar membrane is completely destroyed"
+      },
+      {
+        "label": "D",
+        "text": "Dead space prevents oxygen delivery"
+      },
+      {
+        "label": "E",
+        "text": "Patient is hyperventilating excessively"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Consolidated alveoli cannot be ventilated, but blood continues to flow past them (intrapulmonary shunt). Since the shunted blood never contacts alveolar oxygen, increasing FiO₂ cannot oxygenate it. This is why shunt produces refractory hypoxemia.",
+      "whyCorrect": "In a true shunt, blood passes through unventilated alveoli. No matter how much oxygen is delivered to other alveoli, the shunted blood returns deoxygenated. This hallmark of shunt — refractory hypoxemia — distinguishes it from V/Q mismatch.",
+      "whyWrongByChoice": {
+        "C": "The alveolar membrane is not destroyed; it is covered by inflammatory exudate preventing ventilation. The membrane itself may be intact.",
+        "B": "In the setting of shunt, the mixed arterial blood has lower saturation because deoxygenated shunted blood dilutes oxygenated blood from healthy alveoli.",
+        "D": "Dead space (ventilated but unperfused) is the opposite problem. The issue here is shunt (perfused but not ventilated).",
+        "E": "Hyperventilation may occur as compensation but does not explain why supplemental O₂ fails to correct the shunted fraction."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "shunt",
+      "refractory-hypoxemia",
+      "pneumonia"
+    ]
+  },
+  {
+    "id": "r09-029",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 45-year-old woman with right lower lobe pneumonia undergoes a ventilation-perfusion scan. The scan shows that blood flow has been redistributed away from the poorly ventilated right lower lobe toward the well-ventilated left lung. This protective mechanism that optimizes V̇/Q̇ matching is known as hypoxic pulmonary vasoconstriction. Which of the following best describes how HPV works?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Dilates vessels in hypoxic lung regions"
+      },
+      {
+        "label": "B",
+        "text": "Increases surfactant in hypoxic alveoli"
+      },
+      {
+        "label": "C",
+        "text": "Stimulates central hyperventilation drive"
+      },
+      {
+        "label": "D",
+        "text": "Constricts vessels in hypoxic regions"
+      },
+      {
+        "label": "E",
+        "text": "Suppresses the cough reflex centrally"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "HPV constricts pulmonary arterioles in poorly ventilated (hypoxic) lung regions. This redirects blood flow to well-ventilated areas where gas exchange is effective, minimizing the impact of V/Q mismatch.",
+      "whyCorrect": "When alveolar PO₂ is low in a region, the surrounding arterioles constrict. This reduces blood flow to that poorly ventilated area and redirects it to better-ventilated regions, improving overall V/Q matching and systemic oxygenation.",
+      "whyWrongByChoice": {
+        "A": "Pulmonary vessels constrict, not dilate, in response to hypoxia. This is opposite to the systemic circulation, which dilates in hypoxia.",
+        "B": "HPV is a vascular smooth muscle response, not a surfactant response. It does not affect surfactant production.",
+        "C": "HPV is a local vascular response within the pulmonary circulation, not a centrally mediated ventilatory response.",
+        "E": "HPV has no connection to the cough reflex. It is a local vascular mechanism only."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "HPV",
+      "V/Q-matching"
+    ]
+  },
+  {
+    "id": "r09-030",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 38-year-old man from Southeast Asia is evaluated for a positive tuberculin skin test. Chest CT reveals a cavitary lesion in the right upper lobe, and sputum cultures grow Mycobacterium tuberculosis. The infectious disease specialist explains that TB characteristically reactivates in the upper lobes because of the unique V̇/Q̇ conditions there. Which pathogen property explains this apical predilection?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Anaerobic metabolism preference"
+      },
+      {
+        "label": "B",
+        "text": "Obligate aerobe favoring high oxygen"
+      },
+      {
+        "label": "C",
+        "text": "Predilection for high blood flow"
+      },
+      {
+        "label": "D",
+        "text": "Preference for acidic pH environment"
+      },
+      {
+        "label": "E",
+        "text": "Tropism for surfactant-rich tissue"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "M. tuberculosis is an obligate aerobe that thrives in oxygen-rich environments. The lung apex has the highest V̇/Q̇ ratio (>3.0) with high alveolar PO₂ due to relatively preserved ventilation but minimal perfusion, creating ideal conditions for TB reactivation.",
+      "whyCorrect": "The high V̇/Q̇ ratio at the apex means more oxygen is delivered relative to blood flow, creating high alveolar PO₂. As an obligate aerobe, M. tuberculosis exploits this oxygen-rich environment, which is why TB characteristically reactivates in the upper lobes.",
+      "whyWrongByChoice": {
+        "A": "M. tuberculosis is an obligate aerobe, not an anaerobe. It requires oxygen for growth, which is abundant at the apex.",
+        "C": "The apex actually has the lowest blood flow in the upright lung. TB localizes there for the high oxygen, not high blood flow.",
+        "D": "The apical predilection is driven by oxygen tension, not pH. The oxygen-rich environment is the critical factor.",
+        "E": "TB reactivation in upper lobes is related to oxygen tension from V/Q ratios, not surfactant distribution."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "tuberculosis",
+      "apex"
+    ]
+  },
+  {
+    "id": "r09-031",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 62-year-old woman with COPD presents with moderate hypoxemia (PaO₂ 58 mmHg on room air). She is placed on 2 L/min supplemental oxygen via nasal cannula, and her PaO₂ improves to 72 mmHg. Her physician explains that the improvement indicates the hypoxemia is from V̇/Q̇ mismatch rather than true shunt. Which of the following best describes why V̇/Q̇ mismatch responds to supplemental oxygen?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Shunted blood contacts supplemental oxygen"
+      },
+      {
+        "label": "B",
+        "text": "Low V/Q regions retain partial ventilation"
+      },
+      {
+        "label": "C",
+        "text": "Dead space regions gain new perfusion"
+      },
+      {
+        "label": "D",
+        "text": "Normal V/Q matching is already optimal"
+      },
+      {
+        "label": "E",
+        "text": "Fixed cardiac shunt corrects with oxygen"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Low V̇/Q̇ regions (poorly ventilated but perfused) respond to supplemental oxygen because increasing FiO₂ raises the PAO₂ in these partially ventilated alveoli, improving oxygenation. True shunt does not respond because alveoli receive no ventilation at all.",
+      "whyCorrect": "In low V̇/Q̇ regions, ventilation is reduced but not absent. Supplemental O₂ increases alveolar PO₂ in these regions enough to improve blood oxygenation. This distinguishes V/Q mismatch from true shunt, which is refractory to supplemental O₂.",
+      "whyWrongByChoice": {
+        "A": "In true shunt, blood never contacts ventilated alveoli, so supplemental O₂ cannot reach it. V/Q mismatch responds because some ventilation persists.",
+        "C": "Dead space regions have no blood flow. Supplemental O₂ cannot help because there is no blood to oxygenate in those areas.",
+        "D": "Normal V/Q matching does not cause hypoxemia. The patient's hypoxemia indicates abnormal V/Q matching that is correctable with O₂.",
+        "E": "Fixed cardiac shunts are refractory to supplemental O₂ because blood bypasses the lungs entirely."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-mismatch",
+      "supplemental-oxygen",
+      "response"
+    ]
+  },
+  {
+    "id": "r09-032",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 30-year-old healthy volunteer participates in a pulmonary physiology study. While standing upright, regional ventilation and perfusion are measured using radioactive xenon and technetium-labeled albumin. The investigators find that both ventilation and perfusion are greatest at one particular lung region. Which of the following regions receives the most of both?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Lung apex bilaterally"
+      },
+      {
+        "label": "B",
+        "text": "Middle lung zone bilaterally"
+      },
+      {
+        "label": "C",
+        "text": "Lung base bilaterally"
+      },
+      {
+        "label": "D",
+        "text": "All regions receive equally"
+      },
+      {
+        "label": "E",
+        "text": "Hilar region centrally"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Gravity causes both ventilation and perfusion to increase from apex to base in the upright lung. The base receives the most blood flow and the most ventilation, though perfusion increases more steeply than ventilation.",
+      "whyCorrect": "At the base, hydrostatic pressure increases pulmonary blood flow, and the compressed basal alveoli have higher compliance allowing greater expansion during inspiration. Both ventilation and perfusion are highest at the base.",
+      "whyWrongByChoice": {
+        "A": "The apex has the least ventilation and perfusion in the upright position due to reduced gravitational effects.",
+        "B": "The middle zone has intermediate values of both. The highest values are at the base.",
+        "D": "Gravity creates a non-uniform distribution. The base receives significantly more of both ventilation and perfusion.",
+        "E": "The hilum is the anatomic entry point for structures. It is not a physiologic zone for V/Q distribution."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-distribution",
+      "base",
+      "gravity"
+    ]
+  },
+  {
+    "id": "r09-033",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 48-year-old woman undergoes a thoracic surgical procedure complicated by right lower lobe atelectasis on postoperative day 1. Chest X-ray confirms collapse of the right lower lobe. Blood continues to flow through the collapsed lung region. Her SpO₂ drops to 89% on room air. Which of the following V̇/Q̇ abnormalities does atelectasis create?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Increased alveolar dead space"
+      },
+      {
+        "label": "B",
+        "text": "Normal V/Q matching preserved"
+      },
+      {
+        "label": "C",
+        "text": "High V/Q from hyperventilation"
+      },
+      {
+        "label": "D",
+        "text": "Increased DLCO measurement"
+      },
+      {
+        "label": "E",
+        "text": "Intrapulmonary shunt physiology"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Atelectasis collapses alveoli, preventing ventilation while blood continues to flow past them. This creates an intrapulmonary shunt (V̇/Q̇ = 0): blood passes through without being oxygenated, mixing deoxygenated blood into the arterial supply.",
+      "whyCorrect": "Collapsed alveoli cannot be ventilated, so V̇ = 0. Blood flowing past these collapsed units returns deoxygenated, creating a right-to-left intrapulmonary shunt that contributes to hypoxemia.",
+      "whyWrongByChoice": {
+        "A": "Dead space is ventilated but not perfused, the opposite of atelectasis where perfusion continues without ventilation.",
+        "B": "V/Q matching is severely disrupted because ventilation is zero in collapsed regions while perfusion continues.",
+        "C": "High V/Q means good ventilation relative to perfusion. Atelectasis eliminates ventilation, producing V̇/Q̇ = 0.",
+        "D": "DLCO would not increase with atelectasis. Loss of functional alveolar surface area would tend to decrease it."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "atelectasis",
+      "shunt"
+    ]
+  },
+  {
+    "id": "r09-034",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 50-year-old man with moderate COPD has an arterial blood gas showing PaO₂ of 62 mmHg on room air. The calculated PAO₂ from the alveolar gas equation is 100 mmHg, yielding an A-a gradient of 38 mmHg (normal <15 mmHg). The elevated A-a gradient in this patient with V̇/Q̇ mismatch is primarily caused by which of the following mechanisms?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Elevated alveolar oxygen tension (PAO₂)"
+      },
+      {
+        "label": "B",
+        "text": "Reduced PaO₂ from mixed blood sources"
+      },
+      {
+        "label": "C",
+        "text": "Increased serum bicarbonate levels"
+      },
+      {
+        "label": "D",
+        "text": "Normal PaCO₂ in all lung regions"
+      },
+      {
+        "label": "E",
+        "text": "Surfactant deficiency impairing diffusion"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In V/Q mismatch, blood from low V/Q regions (poorly oxygenated) mixes with blood from normal/high V/Q regions. Due to the sigmoid oxyhemoglobin dissociation curve, the poorly oxygenated blood disproportionately lowers the mixed PaO₂, widening the A-a gradient.",
+      "whyCorrect": "Blood from low V/Q regions has low PO₂ and mixes with blood from normal/high V/Q regions. The sigmoid shape of the oxyhemoglobin curve means the poorly oxygenated blood cannot be fully compensated by hyperventilated regions, creating a wider A-a gradient.",
+      "whyWrongByChoice": {
+        "A": "PAO₂ is calculated and may be normal. The A-a gradient widens because PaO₂ falls from blood mixing, not because PAO₂ rises.",
+        "C": "Bicarbonate changes relate to metabolic acid-base processes, not directly to A-a gradient widening from V/Q mismatch.",
+        "D": "PaCO₂ may be normal or abnormal depending on compensatory hyperventilation. This does not explain the A-a gradient widening.",
+        "E": "Surfactant deficiency causes atelectasis. The A-a gradient elevation in V/Q mismatch is from mixing of blood with different oxygenation levels."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-mismatch",
+      "A-a-gradient",
+      "blood-mixing"
+    ]
+  },
+  {
+    "id": "r09-035",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A physiology professor is teaching medical students about West lung zones. She explains that in Zone 3 (the lung base), the V̇/Q̇ ratio is low (<1.0) because perfusion greatly exceeds ventilation. She asks the class what blood gas values characterize the blood leaving Zone 3 compared to other lung regions. Which of the following is correct?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Highest PaO₂ and lowest PaCO₂"
+      },
+      {
+        "label": "B",
+        "text": "Normal PaO₂ and normal PaCO₂"
+      },
+      {
+        "label": "C",
+        "text": "Lowest PaO₂ and highest PaCO₂"
+      },
+      {
+        "label": "D",
+        "text": "Same blood gases as the apex"
+      },
+      {
+        "label": "E",
+        "text": "Complete absence of oxygen content"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The base has a low V̇/Q̇ ratio because perfusion greatly exceeds ventilation. Relative under-ventilation means less O₂ is delivered and less CO₂ is removed per unit of blood, resulting in the lowest PaO₂ and highest PaCO₂ of any lung region.",
+      "whyCorrect": "With abundant blood flow but relatively less ventilation, the base does not fully oxygenate all blood passing through. O₂ is relatively depleted and CO₂ accumulates, giving the lowest PaO₂ and highest PaCO₂.",
+      "whyWrongByChoice": {
+        "A": "Highest PaO₂ and lowest PaCO₂ characterize the apex (Zone 1), which has a high V̇/Q̇ ratio with excess ventilation relative to perfusion.",
+        "B": "Blood gases at the base deviate from normal because V̇/Q̇ <1.0, meaning perfusion exceeds ventilation.",
+        "D": "The apex and base have very different V̇/Q̇ ratios and therefore different blood gas values.",
+        "E": "The base still receives ventilation and oxygenates blood, just less efficiently than regions with higher V̇/Q̇ ratios."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "base",
+      "zone-3",
+      "blood-gases"
+    ]
+  },
+  {
+    "id": "r09-036",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 40-year-old woman with a congenital ventricular septal defect and Eisenmenger syndrome has developed a fixed right-to-left intracardiac shunt. Her resting SpO₂ is 84% on room air. She is placed on high-flow supplemental oxygen at 100% FiO₂, but her SpO₂ only improves to 86%. Which of the following causes of hypoxemia is characteristically refractory to supplemental oxygen?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "V̇/Q̇ mismatch from COPD"
+      },
+      {
+        "label": "B",
+        "text": "Hypoventilation from drug overdose"
+      },
+      {
+        "label": "C",
+        "text": "True right-to-left shunt physiology"
+      },
+      {
+        "label": "D",
+        "text": "High altitude low inspired oxygen"
+      },
+      {
+        "label": "E",
+        "text": "Diffusion impairment from fibrosis"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "True shunt is the only common cause of hypoxemia that is refractory to supplemental oxygen. Shunted blood bypasses ventilated alveoli entirely, so no amount of supplemental O₂ can reach it. All other listed causes respond at least partially to increased FiO₂.",
+      "whyCorrect": "In a right-to-left shunt, blood passes from the right heart to the left without contacting alveolar gas. Since the blood never reaches ventilated alveoli, supplemental O₂ cannot oxygenate the shunted fraction.",
+      "whyWrongByChoice": {
+        "A": "V/Q mismatch responds to supplemental O₂ because low V/Q regions still have some ventilation that can be augmented by higher FiO₂.",
+        "B": "Hypoventilation responds to supplemental O₂ because it directly increases PAO₂ per the alveolar gas equation.",
+        "D": "High altitude hypoxemia responds dramatically to supplemental O₂, which directly increases inspired PO₂.",
+        "E": "Diffusion impairment responds to supplemental O₂ because increased PAO₂ steepens the diffusion gradient across the thickened membrane."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "shunt",
+      "refractory-hypoxemia",
+      "supplemental-oxygen"
+    ]
+  },
+  {
+    "id": "r09-037",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 68-year-old man with severe COPD presents with progressive dyspnea and somnolence. Arterial blood gas shows PaO₂ 55 mmHg and PaCO₂ 58 mmHg (elevated). His pulmonologist explains that the elevated PaCO₂ is partly due to increased dead space from emphysematous destruction of pulmonary capillaries. The dead space component primarily contributes to which abnormality?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Isolated hypoxemia without hypercapnia"
+      },
+      {
+        "label": "B",
+        "text": "Increased DLCO measurement values"
+      },
+      {
+        "label": "C",
+        "text": "Hypercapnia from wasted ventilation"
+      },
+      {
+        "label": "D",
+        "text": "Primary metabolic acidosis only"
+      },
+      {
+        "label": "E",
+        "text": "Left-to-right cardiac shunt effect"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Increased dead space means a larger fraction of each breath is wasted ventilating regions without blood flow. This reduces effective alveolar ventilation for CO₂ removal, leading to CO₂ retention (hypercapnia).",
+      "whyCorrect": "Dead space ventilation is wasted — it does not contribute to gas exchange. When dead space increases, less of each breath effectively removes CO₂. If the patient cannot increase minute ventilation sufficiently, PaCO₂ rises.",
+      "whyWrongByChoice": {
+        "A": "While hypoxemia can result from V/Q mismatch, dead space specifically contributes to inefficient CO₂ removal and hypercapnia.",
+        "B": "Increased dead space does not increase DLCO. The underlying emphysema destroying capillaries actually reduces DLCO.",
+        "D": "Metabolic acidosis arises from non-volatile acid accumulation. Dead space causes respiratory acidosis from CO₂ retention.",
+        "E": "Dead space is a pulmonary V/Q abnormality involving ventilated but unperfused regions, not a cardiac shunt."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "dead-space",
+      "hypercapnia",
+      "COPD"
+    ]
+  },
+  {
+    "id": "r09-038",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 52-year-old obese man (BMI 42) undergoes general anesthesia for elective cholecystectomy in the supine position. Intraoperatively, the anesthesiologist notes progressive desaturation to SpO₂ 90% despite adequate ventilator settings. Chest imaging shows bilateral dependent atelectasis in the posterior lung regions. Which V̇/Q̇ abnormality best explains this desaturation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Alveolar dead space physiology"
+      },
+      {
+        "label": "B",
+        "text": "High V/Q from hyperventilation"
+      },
+      {
+        "label": "C",
+        "text": "Normal V/Q matching maintained"
+      },
+      {
+        "label": "D",
+        "text": "Intrapulmonary shunt from atelectasis"
+      },
+      {
+        "label": "E",
+        "text": "Diffusion limitation from edema"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Atelectasis in dependent lung regions eliminates ventilation while perfusion continues (gravity directs blood to dependent regions). This creates intrapulmonary shunt (V̇/Q̇ = 0) and contributes to intraoperative hypoxemia.",
+      "whyCorrect": "In the supine anesthetized patient, abdominal weight and reduced FRC promote atelectasis in posterior dependent regions. These regions receive the most blood flow but no ventilation, creating shunt and hypoxemia.",
+      "whyWrongByChoice": {
+        "A": "Dead space is ventilated without perfusion. Atelectasis creates the opposite — perfused without ventilation.",
+        "B": "General anesthesia reduces ventilation and functional residual capacity. It does not cause hyperventilation.",
+        "C": "V/Q matching is disrupted by atelectasis creating shunt in dependent regions with significant desaturation.",
+        "E": "Diffusion limitation describes impaired gas transfer across the alveolar membrane, not the mechanical collapse of atelectasis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "atelectasis",
+      "shunt",
+      "anesthesia",
+      "supine"
+    ]
+  },
+  {
+    "id": "r09-039",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A pulmonary physiology lecturer explains that gravity affects perfusion more dramatically than ventilation in the upright lung. She notes that the pulmonary circulation's unique hemodynamic properties make it especially susceptible to gravitational effects. Which of the following best explains why perfusion is more gravity-dependent than ventilation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Blood is denser than inspired air"
+      },
+      {
+        "label": "B",
+        "text": "Surfactant concentrates at lung base"
+      },
+      {
+        "label": "C",
+        "text": "Base contains more alveoli overall"
+      },
+      {
+        "label": "D",
+        "text": "Ventilation is actively muscle-regulated"
+      },
+      {
+        "label": "E",
+        "text": "Low-pressure system amplifies gravity effects"
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The pulmonary circulation operates at low pressures (~15 mmHg mean). The hydrostatic pressure gradient from gravity (~10 cm H₂O apex to base) represents a proportionally larger effect on this low-pressure system, dramatically affecting perfusion distribution.",
+      "whyCorrect": "With mean PA pressure of only ~15 mmHg, the ~10 cmH₂O hydrostatic gradient has a dramatic effect on blood flow distribution. For ventilation, driving pressures from respiratory muscles are larger, making gravity's relative effect smaller.",
+      "whyWrongByChoice": {
+        "A": "While blood is denser, the key factor is the low operating pressure making the pulmonary circulation more susceptible to hydrostatic effects.",
+        "B": "Surfactant is distributed relatively uniformly across alveoli. It does not explain the perfusion gradient.",
+        "C": "The base does not have significantly more alveoli. The distribution difference comes from pressure effects, not anatomy.",
+        "D": "Both ventilation and perfusion are regulated. Perfusion's greater gravity sensitivity is due to the low-pressure system, not regulation differences."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-distribution",
+      "gravity",
+      "low-pressure"
+    ]
+  },
+  {
+    "id": "r09-040",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 65-year-old woman is hospitalized with right lower lobe pneumonia. Her arterial blood gas shows PaO₂ 52 mmHg on room air, and the calculated A-a gradient is 45 mmHg (markedly elevated; normal <15 mmHg). The resident asks the attending why intrapulmonary shunting from pneumonia elevates the A-a gradient. Which of the following is the correct explanation?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "A-a gradient is normal in shunt"
+      },
+      {
+        "label": "B",
+        "text": "A-a gradient becomes negative"
+      },
+      {
+        "label": "C",
+        "text": "A-a gradient is elevated from shunt"
+      },
+      {
+        "label": "D",
+        "text": "A-a gradient drops to zero"
+      },
+      {
+        "label": "E",
+        "text": "A-a gradient is decreased by shunt"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Intrapulmonary shunting from pneumonia is an intrapulmonary cause of hypoxemia. Deoxygenated blood from the shunt mixes with oxygenated blood from healthy regions, lowering PaO₂ below PAO₂ and elevating the A-a gradient.",
+      "whyCorrect": "Shunted blood is not oxygenated, so when it mixes with oxygenated blood from healthy alveoli, the resulting PaO₂ is lower than the calculated PAO₂. The A-a gradient (PAO₂ - PaO₂) widens, indicating intrapulmonary gas exchange impairment.",
+      "whyWrongByChoice": {
+        "A": "A normal A-a gradient indicates extrapulmonary causes of hypoxemia. Shunt is intrapulmonary and elevates the gradient.",
+        "B": "A negative A-a gradient is physiologically impossible. PaO₂ cannot exceed PAO₂ in pathologic states.",
+        "D": "An A-a gradient of zero would mean perfect gas exchange with no physiologic shunt, which does not occur even normally.",
+        "E": "The A-a gradient increases, not decreases, with intrapulmonary shunting because PaO₂ falls from blood mixing."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "shunt",
+      "A-a-gradient",
+      "pneumonia"
+    ]
+  },
+  {
+    "id": "r09-041",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 50-year-old man presents to the emergency department with sudden dyspnea and left-sided pleuritic chest pain. His SpO₂ is 87% on room air, lung examination is clear, and chest X-ray is normal. CT pulmonary angiography confirms a pulmonary embolism. Supplemental oxygen via nasal cannula improves his SpO₂ to 95%. The improvement with supplemental oxygen indicates that PE primarily causes which type of gas exchange abnormality?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "True right-to-left cardiac shunt"
+      },
+      {
+        "label": "B",
+        "text": "V̇/Q̇ mismatch and dead space"
+      },
+      {
+        "label": "C",
+        "text": "Diffusion limitation from membrane thickening"
+      },
+      {
+        "label": "D",
+        "text": "Central hypoventilation syndrome"
+      },
+      {
+        "label": "E",
+        "text": "Decreased hemoglobin oxygen capacity"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "PE creates dead space and redirects blood flow, creating V̇/Q̇ mismatch. Since some ventilation persists in redistributed areas, supplemental O₂ improves oxygenation. PE does not typically create a true shunt.",
+      "whyCorrect": "PE blocks perfusion to certain regions (dead space) and redistributes blood, creating V/Q mismatch. The hypoxemia responds to supplemental O₂ because mismatch regions still have some ventilation that benefits from higher FiO₂.",
+      "whyWrongByChoice": {
+        "A": "True shunt would not respond to supplemental O₂. The improvement with O₂ indicates V/Q mismatch, not shunt.",
+        "C": "PE does not cause alveolar membrane thickening. The hypoxemia is from V/Q mismatch and dead space.",
+        "D": "PE typically causes tachypnea and hyperventilation, not hypoventilation. PaCO₂ is often low or normal.",
+        "E": "PE does not affect hemoglobin concentration or oxygen-carrying capacity. The issue is V/Q mismatch."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "pulmonary-embolism",
+      "V/Q-mismatch",
+      "oxygen-responsive"
+    ]
+  },
+  {
+    "id": "r09-042",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A medical student is studying West lung zones and their relationship to V̇/Q̇ ratios. The professor explains that one particular zone achieves the most efficient gas exchange because its V̇/Q̇ ratio most closely approaches the ideal value of 0.8. Which West zone has the most optimal V̇/Q̇ ratio?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Zone 1 at the lung apex"
+      },
+      {
+        "label": "B",
+        "text": "Zone 2 in the middle lung"
+      },
+      {
+        "label": "C",
+        "text": "Zone 3 at the lung base"
+      },
+      {
+        "label": "D",
+        "text": "All zones have equal ratios"
+      },
+      {
+        "label": "E",
+        "text": "No zone approaches the ideal"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Zone 2 (middle lung) has a V̇/Q̇ ratio closest to the ideal 0.8. The apex (Zone 1) has a high ratio (>3.0) and the base (Zone 3) has a low ratio (<1.0). The middle zone achieves the best balance.",
+      "whyCorrect": "In the middle lung, gravitational effects on both ventilation and perfusion are moderate, producing the best V/Q matching at approximately 0.8. This transition zone provides the most efficient gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Zone 1 (apex) has a high V̇/Q̇ ratio (>3.0) due to minimal perfusion with relatively preserved ventilation.",
+        "C": "Zone 3 (base) has a low V̇/Q̇ ratio (<1.0) due to perfusion greatly exceeding ventilation.",
+        "D": "V̇/Q̇ varies significantly across zones due to gravitational effects. It is not equal throughout.",
+        "E": "Zone 2 does approach the ideal V̇/Q̇ of approximately 0.8."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "zone-2",
+      "ideal-ratio"
+    ]
+  },
+  {
+    "id": "r09-043",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A physiology examination asks students to calculate the whole-lung V̇/Q̇ ratio given that resting alveolar ventilation is 4 L/min and cardiac output is 5 L/min. The student divides ventilation by perfusion to arrive at the answer. Which of the following values is the correct whole-lung V̇/Q̇ ratio?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Ratio of 0.4"
+      },
+      {
+        "label": "B",
+        "text": "Ratio of 1.0"
+      },
+      {
+        "label": "C",
+        "text": "Ratio of 0.8"
+      },
+      {
+        "label": "D",
+        "text": "Ratio of 1.25"
+      },
+      {
+        "label": "E",
+        "text": "Ratio of 5.0"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "V̇/Q̇ = V̇A / Q̇ = 4 L/min / 5 L/min = 0.8. This simple calculation gives the whole-lung average V/Q ratio under resting conditions.",
+      "whyCorrect": "The V̇/Q̇ ratio is the quotient of alveolar ventilation and cardiac output: 4/5 = 0.8. This represents well-matched ventilation and perfusion at the whole-lung level.",
+      "whyWrongByChoice": {
+        "A": "0.4 would require 2 L/min ventilation divided by 5 L/min perfusion, representing halved alveolar ventilation.",
+        "B": "1.0 would require equal ventilation and perfusion. Normal alveolar ventilation is ~4 L/min, not 5.",
+        "D": "1.25 = 5/4, which is the inverted ratio (perfusion divided by ventilation).",
+        "E": "5.0 is just the cardiac output value itself, not the ratio."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "V/Q-ratio",
+      "calculation"
+    ]
+  },
+  {
+    "id": "r09-044",
+    "topicId": "ventilation-perfusion",
+    "topicName": "Pulmonary Ventilation and Perfusion (V/Q)",
+    "stem": "A 58-year-old man with severe bilateral pneumonia develops refractory hypoxemia. His PaO₂ remains 55 mmHg despite receiving 100% FiO₂ via non-rebreather mask. The ICU team determines that a significant intrapulmonary shunt is present. The intensivist recommends escalation of respiratory support. Which of the following interventions is most appropriate for reducing the shunt fraction?",
+    "choices": [
+      {
+        "label": "A",
+        "text": "Further increase the FiO₂ delivered"
+      },
+      {
+        "label": "B",
+        "text": "Administer inhaled bronchodilators only"
+      },
+      {
+        "label": "C",
+        "text": "PEEP to recruit collapsed alveoli"
+      },
+      {
+        "label": "D",
+        "text": "Intravenous loop diuretic bolus only"
+      },
+      {
+        "label": "E",
+        "text": "Inhaled nitric oxide monotherapy only"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Refractory hypoxemia despite 100% FiO₂ indicates significant shunt. PEEP recruits collapsed or consolidated alveoli, converting shunt units to participating gas exchange units and reducing the shunt fraction.",
+      "whyCorrect": "When hypoxemia does not respond to supplemental O₂, the problem is shunt. PEEP keeps alveoli open at end-expiration, recruiting previously atelectatic regions and reducing intrapulmonary shunt. This is the appropriate escalation.",
+      "whyWrongByChoice": {
+        "A": "FiO₂ is already at 100%. Further increase is impossible, and shunt is refractory to supplemental O₂ by definition.",
+        "B": "Bronchodilators treat airway obstruction from bronchospasm. The problem here is alveolar consolidation creating shunt, not bronchospasm.",
+        "D": "Diuretics treat fluid overload and pulmonary edema. While they may help if edema coexists, they do not directly address pneumonia consolidation or recruit atelectatic alveoli.",
+        "E": "Inhaled nitric oxide vasodilates ventilated regions but does not recruit collapsed alveoli. PEEP is the primary intervention for shunt reduction."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": [
+      "physiology",
+      "shunt",
+      "PEEP",
+      "refractory-hypoxemia",
+      "mechanical-ventilation"
+    ]
+  }
+]

@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r14-001",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 42-year-old woman with cystic fibrosis diagnosed in childhood presents with a 3-year history of daily productive cough with copious foul-smelling sputum. She has been hospitalized twice for pneumonia in the past year. Examination reveals bilateral crackles and wheezes. High-resolution CT of the chest shows dilated bronchi with thickened walls where the bronchial diameter exceeds the adjacent pulmonary artery diameter. Which term best describes this CT finding?",
+    "choices": [
+      {"label": "A", "text": "Crazy-paving pattern"},
+      {"label": "B", "text": "Ground-glass opacification"},
+      {"label": "C", "text": "Subpleural honeycombing"},
+      {"label": "D", "text": "Signet ring sign"},
+      {"label": "E", "text": "Tree-in-bud nodularity"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The signet ring sign on CT describes a dilated bronchus (the ring) adjacent to its companion pulmonary artery (the stone), with the bronchial diameter exceeding the arterial diameter. This is a hallmark radiologic finding of bronchiectasis.",
+      "whyCorrect": "In bronchiectasis, chronic inflammation destroys the bronchial wall cartilage, leading to irreversible dilation. On cross-section CT, the dilated bronchus paired with its smaller companion artery creates the classic signet ring sign, which is highly suggestive of bronchiectasis.",
+      "whyWrongByChoice": {
+        "A": "Crazy-paving pattern describes thickened interlobular septa superimposed on ground-glass opacities and is associated with pulmonary alveolar proteinosis or other diffuse lung diseases, not bronchiectasis.",
+        "B": "Ground-glass opacities represent a hazy increase in lung density that does not obscure the underlying bronchovascular structures. They are seen in many conditions such as interstitial lung disease and infection but do not describe the bronchial dilation seen here.",
+        "C": "Honeycombing refers to clustered cystic airspaces with thick walls in a subpleural distribution, indicating end-stage fibrotic lung disease such as idiopathic pulmonary fibrosis.",
+        "E": "Tree-in-bud pattern describes centrilobular branching nodular opacities resembling a budding tree, typically seen in infectious bronchiolitis or endobronchial spread of tuberculosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "CT-findings", "signet-ring-sign", "radiology"]
+  },
+  {
+    "id": "r14-002",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 38-year-old man with recurrent sinusitis and chronic productive cough since childhood is evaluated for infertility. Physical examination reveals dextrocardia with the point of maximal impulse in the right fifth intercostal space. Chest CT shows bilateral lower lobe bronchiectasis. Nasal mucosal biopsy reveals immotile cilia with absent dynein arms on electron microscopy. Which underlying diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Allergic bronchopulmonary aspergillosis"},
+      {"label": "B", "text": "Common variable immunodeficiency"},
+      {"label": "C", "text": "Cystic fibrosis transmembrane defect"},
+      {"label": "D", "text": "Kartagener syndrome"},
+      {"label": "E", "text": "Young syndrome"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Kartagener syndrome is a subtype of primary ciliary dyskinesia characterized by the triad of situs inversus (including dextrocardia), bronchiectasis, and chronic sinusitis. It is caused by mutations affecting dynein, rendering cilia immotile.",
+      "whyCorrect": "The combination of dextrocardia (situs inversus), bronchiectasis, chronic sinusitis, infertility, and absent dynein arms on electron microscopy is pathognomonic for Kartagener syndrome. Dynein is essential for ciliary motility; its absence impairs mucociliary clearance and also disrupts normal organ laterality during embryonic development.",
+      "whyWrongByChoice": {
+        "A": "Allergic bronchopulmonary aspergillosis causes bronchiectasis with elevated IgE and eosinophilia in patients with asthma or CF. It does not cause situs inversus or ciliary dynein defects.",
+        "B": "Common variable immunodeficiency can cause bronchiectasis from recurrent infections due to hypogammaglobulinemia, but it does not cause situs inversus or ciliary ultrastructural defects.",
+        "C": "Cystic fibrosis causes bronchiectasis through defective chloride transport and thickened mucus. It does not cause situs inversus or abnormal dynein arms.",
+        "E": "Young syndrome features bronchiectasis, sinusitis, and azoospermia but does not involve situs inversus or structural ciliary defects on electron microscopy."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "Kartagener-syndrome", "primary-ciliary-dyskinesia", "dynein"]
+  },
+  {
+    "id": "r14-003",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 55-year-old woman with a long history of bronchiectasis develops progressive exertional dyspnea, bilateral lower-extremity pitting edema, and hepatomegaly over the past 6 months. Jugular venous pressure is elevated to 12 cmH2O. Echocardiography shows right ventricular dilation with estimated pulmonary artery systolic pressure of 55 mmHg. Which pathophysiology best explains her cardiac findings?",
+    "choices": [
+      {"label": "A", "text": "Aortic stenosis with left ventricular overload"},
+      {"label": "B", "text": "Left atrial myxoma obstructing mitral inflow"},
+      {"label": "C", "text": "Pulmonary capillary compression raising right ventricular afterload"},
+      {"label": "D", "text": "Systemic hypertension causing biventricular failure"},
+      {"label": "E", "text": "Tricuspid endocarditis with valvular destruction"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Chronic bronchiectasis can lead to pulmonary hypertension through pulmonary capillary compression and hypoxic vasoconstriction, increasing right ventricular afterload and eventually causing cor pulmonale.",
+      "whyCorrect": "In bronchiectasis, chronic inflammation and destruction of the lung parenchyma compress pulmonary capillaries and cause hypoxic pulmonary vasoconstriction. This raises pulmonary artery pressures, increasing right ventricular afterload and leading to right ventricular dilation and failure (cor pulmonale), which explains her edema and hepatomegaly.",
+      "whyWrongByChoice": {
+        "A": "Aortic valve stenosis causes left ventricular pressure overload and would present with left-sided heart failure symptoms such as pulmonary edema, not isolated right-sided findings.",
+        "B": "Left atrial myxoma would cause symptoms mimicking mitral stenosis with pulmonary congestion and would be visible as an intracardiac mass on echocardiography.",
+        "D": "Systemic hypertension affects the left ventricle. This patient's findings are isolated to the right heart with elevated pulmonary artery pressures, indicating a pulmonary rather than systemic cause.",
+        "E": "Tricuspid valve endocarditis would show valvular vegetations on echocardiography and typically presents with septic pulmonary emboli, not with pulmonary hypertension from chronic lung disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "cor-pulmonale", "pulmonary-hypertension", "complications"]
+  },
+  {
+    "id": "r14-004",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 48-year-old man with bronchiectasis presents with 3 days of increased purulent sputum production, fever to 38.8C, and worsening dyspnea. His most recent sputum culture from 2 months ago grew Pseudomonas aeruginosa. Chest X-ray shows increased bilateral lower lobe markings without consolidation. Which empiric antibiotic is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Oral amoxicillin"},
+      {"label": "B", "text": "Oral azithromycin"},
+      {"label": "C", "text": "Oral doxycycline"},
+      {"label": "D", "text": "Oral metronidazole"},
+      {"label": "E", "text": "Intravenous piperacillin-tazobactam"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In bronchiectasis patients with a history of Pseudomonas on prior sputum culture, empiric therapy for acute exacerbations should cover Pseudomonas. Piperacillin-tazobactam is an appropriate antipseudomonal agent.",
+      "whyCorrect": "When a patient with bronchiectasis has a prior sputum culture growing Pseudomonas, the exacerbation treatment should be tailored to cover this organism. Piperacillin-tazobactam has excellent antipseudomonal activity and is an appropriate choice, along with other options such as carbapenems or aminoglycosides.",
+      "whyWrongByChoice": {
+        "A": "Amoxicillin is appropriate for bronchiectasis exacerbations caused by sensitive organisms such as non-beta-lactamase-producing H. influenzae but has no clinically meaningful activity against Pseudomonas aeruginosa.",
+        "B": "Azithromycin is used as prophylactic therapy to reduce exacerbation frequency in bronchiectasis but has limited activity against Pseudomonas and is not appropriate as primary treatment for an acute Pseudomonas exacerbation.",
+        "C": "Doxycycline covers many respiratory pathogens but does not have reliable antipseudomonal activity and would be inadequate given the prior Pseudomonas culture.",
+        "D": "Metronidazole covers anaerobic organisms and is used for intra-abdominal and certain CNS infections. It has no activity against Pseudomonas aeruginosa."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "Pseudomonas", "antibiotics", "exacerbation"]
+  },
+  {
+    "id": "r14-005",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 60-year-old woman with a 10-year history of bronchiectasis from recurrent childhood pneumonias undergoes pulmonary function testing as part of her annual evaluation. She reports chronic dyspnea with daily productive cough. Which spirometry pattern is most consistent with her diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Decreased FEV1 with reduced FEV1/FVC"},
+      {"label": "B", "text": "Decreased FEV1 with increased FEV1/FVC"},
+      {"label": "C", "text": "Decreased TLC with normal FEV1/FVC"},
+      {"label": "D", "text": "Increased FEV1 with normal FVC"},
+      {"label": "E", "text": "Normal FEV1 with decreased FVC"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Bronchiectasis causes obstructive lung disease. Spirometry characteristically shows a decreased FEV1 and a reduced FEV1/FVC ratio, with a normal or increased TLC.",
+      "whyCorrect": "Bronchiectasis is classified as an obstructive lung disease because the dilated, mucus-filled airways impair expiratory airflow. Spirometry demonstrates a reduced FEV1 and a decreased FEV1/FVC ratio, which is the hallmark pattern of obstructive pulmonary disease.",
+      "whyWrongByChoice": {
+        "B": "A decreased FEV1 with an increased FEV1/FVC ratio would suggest a restrictive pattern where FVC is disproportionately reduced. Bronchiectasis is obstructive, not restrictive.",
+        "C": "A decreased TLC with a normal FEV1/FVC ratio describes a restrictive lung disease pattern. In bronchiectasis, TLC is typically normal or increased due to air trapping.",
+        "D": "An increased FEV1 is not consistent with any form of obstructive or restrictive lung disease. Bronchiectasis causes airflow limitation with decreased FEV1.",
+        "E": "A normal FEV1 with decreased FVC could suggest restriction. In bronchiectasis, the FEV1 is decreased and the FEV1/FVC ratio is reduced."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "pulmonary-function-tests", "obstructive-pattern", "spirometry"]
+  },
+  {
+    "id": "r14-006",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 35-year-old woman with cystic fibrosis and bronchiectasis is prescribed a nebulized medication that works by cleaving extracellular DNA released from degenerating neutrophils in airway secretions. Her pulmonologist explains this will reduce mucus viscosity and improve airflow. Which medication was most likely prescribed?",
+    "choices": [
+      {"label": "A", "text": "Acetylcysteine"},
+      {"label": "B", "text": "Albuterol"},
+      {"label": "C", "text": "Dornase alfa"},
+      {"label": "D", "text": "Ipratropium"},
+      {"label": "E", "text": "Tobramycin"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Dornase alfa is a recombinant human DNase that cleaves extracellular DNA released from degenerating neutrophils in the airways, thereby reducing mucus viscosity and improving airflow in patients with cystic fibrosis.",
+      "whyCorrect": "In cystic fibrosis, thick airway mucus contains large amounts of DNA from degenerating neutrophils. Dornase alfa is a recombinant DNase enzyme that cleaves this extracellular DNA, reducing mucus viscosity and improving mucociliary clearance and pulmonary function.",
+      "whyWrongByChoice": {
+        "A": "Acetylcysteine is also a mucolytic agent, but it works by breaking disulfide bonds in mucoproteins through its free sulfhydryl group, not by cleaving DNA.",
+        "B": "Albuterol is a short-acting beta-2 agonist bronchodilator that relaxes airway smooth muscle. It does not have mucolytic properties.",
+        "D": "Ipratropium is an anticholinergic bronchodilator that reduces bronchospasm by blocking muscarinic receptors. It does not cleave DNA or reduce mucus viscosity.",
+        "E": "Tobramycin is an aminoglycoside antibiotic used in inhaled form for chronic Pseudomonas suppression in CF patients. It has antibacterial, not mucolytic, properties."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "dornase-alfa", "mucolytic", "cystic-fibrosis"]
+  },
+  {
+    "id": "r14-007",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 50-year-old man with non-cystic-fibrosis bronchiectasis presents with an acute exacerbation characterized by increased purulent sputum, low-grade fever, and worsening dyspnea for 4 days. He has not had a sputum culture in over a year. Chest X-ray shows chronic bilateral lower lobe changes without new consolidation. Which empiric antibiotic is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Amoxicillin-clavulanate"},
+      {"label": "B", "text": "Clindamycin"},
+      {"label": "C", "text": "Levofloxacin"},
+      {"label": "D", "text": "Meropenem"},
+      {"label": "E", "text": "Vancomycin"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "When a patient with bronchiectasis has no recent sputum culture data to guide therapy, a fluoroquinolone such as levofloxacin is recommended as empiric treatment for acute exacerbations due to its broad-spectrum coverage including common respiratory pathogens.",
+      "whyCorrect": "In bronchiectasis patients without recent sputum culture data, guidelines recommend a respiratory fluoroquinolone such as levofloxacin as empiric therapy. It provides broad coverage against H. influenzae, S. pneumoniae, and Pseudomonas, covering the most common organisms encountered in bronchiectasis exacerbations.",
+      "whyWrongByChoice": {
+        "A": "Amoxicillin-clavulanate is appropriate when sputum cultures show non-pseudomonal beta-lactamase-positive organisms such as M. catarrhalis, but it is not the first-line choice when no culture data is available.",
+        "B": "Clindamycin primarily covers gram-positive organisms and anaerobes and has limited activity against the gram-negative organisms that commonly cause bronchiectasis exacerbations.",
+        "D": "Meropenem is a carbapenem reserved for patients with known Pseudomonas or multi-drug resistant infections. It is overly broad for empiric use without culture data suggesting resistant organisms.",
+        "E": "Vancomycin covers gram-positive organisms including MRSA but has no activity against gram-negative pathogens like H. influenzae and Pseudomonas, which are the predominant organisms in bronchiectasis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "antibiotics", "fluoroquinolone", "empiric-therapy"]
+  },
+  {
+    "id": "r14-008",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 28-year-old woman with a history of recurrent pneumonias since childhood presents with chronic productive cough producing large volumes of purulent sputum daily. Chest X-ray reveals parallel linear opacities in the lower lobes representing thickened, dilated bronchial walls seen in longitudinal section. Which radiographic term best describes this finding?",
+    "choices": [
+      {"label": "A", "text": "Air bronchogram sign"},
+      {"label": "B", "text": "Kerley B lines"},
+      {"label": "C", "text": "Plate-like atelectasis"},
+      {"label": "D", "text": "Reticulonodular infiltrates"},
+      {"label": "E", "text": "Tram-track lines"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Tram-track lines on chest X-ray represent dilated, thickened parallel bronchial walls seen in longitudinal section and are a classic radiographic finding of bronchiectasis.",
+      "whyCorrect": "Tram-tracking (tram-track lines) refers to the appearance of dilated bronchi with thickened walls seen in longitudinal section on chest X-ray. The parallel linear opacities resemble railroad tracks and are characteristic of bronchiectasis. When air-filled, the space between the lines appears translucent; when mucus-filled, it appears opaque.",
+      "whyWrongByChoice": {
+        "A": "Air bronchograms are air-filled bronchi visible within opacified (consolidated) lung parenchyma, typically seen in pneumonia or atelectasis, not in bronchiectasis specifically.",
+        "B": "Kerley B lines are thin horizontal lines at the lung periphery caused by thickened interlobular septa, seen in conditions such as pulmonary edema and lymphangitic carcinomatosis.",
+        "C": "Plate-like atelectasis appears as linear densities usually at the lung bases due to subsegmental collapse, not the parallel linear opacities of thickened bronchial walls.",
+        "D": "A reticulonodular pattern consists of overlapping reticular and nodular opacities and is associated with interstitial lung disease, not the dilated airways of bronchiectasis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "tram-track-lines", "chest-x-ray", "radiology"]
+  },
+  {
+    "id": "r14-009",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 45-year-old man with bronchiectasis secondary to childhood pertussis infection presents with sudden-onset massive hemoptysis of approximately 500 mL bright red blood over 2 hours. Bronchoscopic laser photocoagulation fails to control the bleeding, and his hemoglobin has dropped from 13 to 9 g/dL. Which management step is most appropriate next?",
+    "choices": [
+      {"label": "A", "text": "Chest physiotherapy with percussion"},
+      {"label": "B", "text": "High-dose intravenous corticosteroids"},
+      {"label": "C", "text": "Surgical resection of affected segment"},
+      {"label": "D", "text": "Nebulized hypertonic saline therapy"},
+      {"label": "E", "text": "Prophylactic oral azithromycin"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Massive hemoptysis refractory to bronchoscopic intervention in bronchiectasis may require surgical lung resection to control life-threatening bleeding.",
+      "whyCorrect": "Massive hemoptysis is a serious complication of bronchiectasis resulting from erosion of bronchial arteries. When bronchoscopic interventions (such as laser photocoagulation or cryotherapy) fail, surgical resection of the affected lung segment is indicated to control the hemorrhage and prevent death.",
+      "whyWrongByChoice": {
+        "A": "Chest physiotherapy helps with chronic mucus clearance but is contraindicated during active massive hemoptysis because percussion could worsen the bleeding.",
+        "B": "Systemic corticosteroids treat inflammatory conditions but do not address the vascular source of massive hemoptysis and would not control acute life-threatening bleeding.",
+        "D": "Nebulized hypertonic saline is used to improve mucus clearance in chronic management. It has no role in the acute management of massive hemoptysis.",
+        "E": "Prophylactic azithromycin is used for long-term suppression of recurrent exacerbations but does not address acute hemorrhage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "hemoptysis", "surgery", "complications"]
+  },
+  {
+    "id": "r14-010",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 52-year-old woman with rheumatoid arthritis treated with methotrexate presents with chronic cough productive of thick sputum and recurrent lower respiratory tract infections over the past 2 years. She has had three courses of antibiotics for pneumonia. High-resolution CT of the chest shows bronchial dilation in the lower lobes bilaterally. Which mechanism best explains her bronchiectasis?",
+    "choices": [
+      {"label": "A", "text": "Gastric aspiration from GERD"},
+      {"label": "B", "text": "Defective chloride channel transport"},
+      {"label": "C", "text": "Immotile cilia from dynein mutation"},
+      {"label": "D", "text": "DNA accumulation thickening mucus"},
+      {"label": "E", "text": "Systemic inflammation with immune suppression"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Rheumatoid arthritis is a systemic inflammatory disorder that can cause bronchiectasis both through the inflammatory disease process itself and through the immunosuppressive effects of its treatment, which increase susceptibility to recurrent pulmonary infections.",
+      "whyCorrect": "Systemic inflammatory diseases such as rheumatoid arthritis are recognized causes of bronchiectasis. The autoimmune inflammation directly damages airways, and immunosuppressive therapies like methotrexate further increase vulnerability to recurrent respiratory infections, which perpetuate the cycle of airway damage and dilation.",
+      "whyWrongByChoice": {
+        "A": "While aspiration from GERD can cause airway inflammation and bronchiectasis, there is no indication of GERD symptoms in this patient. Her rheumatoid arthritis and immunosuppression are the most likely contributors.",
+        "B": "Defective chloride channel transport is the mechanism of cystic fibrosis, which presents in childhood and is a genetic disorder, not an acquired inflammatory condition.",
+        "C": "Immotile cilia from dynein arm mutations cause primary ciliary dyskinesia and Kartagener syndrome, presenting with situs inversus and symptoms from birth, not in a 52-year-old with RA.",
+        "D": "DNA accumulation in mucus is primarily a feature of cystic fibrosis, where neutrophil-derived DNA thickens airway secretions. This mechanism is not the primary driver of bronchiectasis in inflammatory arthritis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "rheumatoid-arthritis", "autoimmune", "pathophysiology"]
+  },
+  {
+    "id": "r14-011",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 30-year-old man with asthma presents with worsening cough, brown mucus plugs, and low-grade fever. Laboratory studies show serum IgE of 2500 IU/mL (normal less than 100) and peripheral eosinophilia of 12%. Chest CT reveals central bronchiectasis predominantly affecting the proximal airways. Skin prick testing is positive for Aspergillus fumigatus. Which diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Allergic bronchopulmonary aspergillosis"},
+      {"label": "B", "text": "Pulmonary aspergilloma"},
+      {"label": "C", "text": "Eosinophilic granulomatosis with polyangiitis"},
+      {"label": "D", "text": "Invasive pulmonary aspergillosis"},
+      {"label": "E", "text": "Loeffler syndrome"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Allergic bronchopulmonary aspergillosis (ABPA) is a hypersensitivity response to Aspergillus fumigatus that occurs in patients with asthma or CF. It is characterized by markedly elevated IgE, eosinophilia, central bronchiectasis, and mucus plugging.",
+      "whyCorrect": "ABPA is diagnosed by the combination of asthma, markedly elevated serum IgE (greater than 1000 IU/mL), peripheral eosinophilia, positive Aspergillus skin testing, and central bronchiectasis on CT. The hyperimmune response activates Th2 cells, recruits eosinophils, and causes intense airway inflammation leading to mucus plug formation and bronchiectasis.",
+      "whyWrongByChoice": {
+        "B": "An aspergilloma is a fungus ball that colonizes a pre-existing lung cavity, typically in patients with prior TB or sarcoidosis. It does not cause elevated IgE, eosinophilia, or central bronchiectasis.",
+        "C": "Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) causes asthma and eosinophilia but is a systemic vasculitis with extrapulmonary manifestations including neuropathy and skin lesions, not central bronchiectasis with Aspergillus sensitization.",
+        "D": "Invasive pulmonary aspergillosis occurs in severely immunocompromised patients and presents with tissue invasion, necrosis, and nodular infiltrates, not central bronchiectasis with eosinophilia.",
+        "E": "Loeffler syndrome is a transient pulmonary eosinophilia typically caused by parasitic infections, presenting with migratory pulmonary infiltrates, not central bronchiectasis with Aspergillus sensitization."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "ABPA", "Aspergillus", "IgE", "eosinophilia"]
+  },
+  {
+    "id": "r14-012",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 65-year-old man with a 15-year history of bronchiectasis requires chronic suppressive antibiotic therapy due to frequent Pseudomonas aeruginosa exacerbations occurring every 6-8 weeks despite standard treatment. His pulmonologist recommends an inhaled antimicrobial agent. Which prophylactic regimen is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Inhaled tobramycin"},
+      {"label": "B", "text": "Oral amoxicillin daily"},
+      {"label": "C", "text": "Oral cephalexin daily"},
+      {"label": "D", "text": "Oral metronidazole daily"},
+      {"label": "E", "text": "Oral trimethoprim-sulfamethoxazole daily"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "For patients with bronchiectasis who have frequent Pseudomonas exacerbations, prophylactic inhaled tobramycin is commonly used for chronic suppressive therapy, often alternating with oral macrolides such as azithromycin.",
+      "whyCorrect": "Inhaled tobramycin provides local antipseudomonal activity directly to the airways while minimizing systemic side effects. It is a well-established option for chronic suppressive therapy in bronchiectasis patients with recurrent Pseudomonas infections, reducing bacterial burden and exacerbation frequency.",
+      "whyWrongByChoice": {
+        "B": "Oral amoxicillin has no clinically meaningful activity against Pseudomonas aeruginosa and would be ineffective for suppression of Pseudomonas-driven exacerbations.",
+        "C": "Oral cephalexin is a first-generation cephalosporin that covers gram-positive cocci and some community gram-negatives but has no antipseudomonal activity.",
+        "D": "Oral metronidazole covers anaerobic bacteria and certain parasites but has no activity against Pseudomonas aeruginosa.",
+        "E": "Trimethoprim-sulfamethoxazole has variable activity against some gram-negative organisms but is not a reliable antipseudomonal agent and is not used for Pseudomonas prophylaxis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "Pseudomonas", "tobramycin", "prophylaxis"]
+  },
+  {
+    "id": "r14-013",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 40-year-old woman is diagnosed with bronchiectasis after years of chronic productive cough and recurrent respiratory infections. Her physician explains that bronchiectasis involves a self-perpetuating vicious cycle that maintains the disease. Which pathophysiologic mechanism best describes this cycle?",
+    "choices": [
+      {"label": "A", "text": "Airway dilation improves mucus clearance"},
+      {"label": "B", "text": "Bronchial cartilage hypertrophy increases rigidity"},
+      {"label": "C", "text": "Impaired clearance promotes recurrent infection"},
+      {"label": "D", "text": "Increased surfactant causes alveolar instability"},
+      {"label": "E", "text": "Alveolar fibrosis restricts chest wall expansion"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Bronchiectasis is maintained by a vicious cycle: chronic inflammation and infection destroy bronchial wall cartilage, causing permanent dilation that impairs mucus clearance, which in turn promotes further infection and inflammation.",
+      "whyCorrect": "The pathophysiology of bronchiectasis involves a self-perpetuating cycle. Infection or inflammation damages the bronchial walls, causing irreversible dilation. The dilated, damaged airways cannot effectively clear mucus, creating a favorable environment for bacterial colonization and recurrent infections, which cause further structural damage.",
+      "whyWrongByChoice": {
+        "A": "Airway dilation in bronchiectasis paradoxically worsens mucus clearance rather than improving it, because the structural damage to the bronchial walls impairs the normal mucociliary clearance mechanism.",
+        "B": "Bronchiectasis involves destruction, not hypertrophy, of bronchial cartilage. The weakened cartilage leads to airway wall collapse and dilation.",
+        "D": "Surfactant is produced by type II pneumocytes in the alveoli and maintains alveolar stability. Bronchiectasis affects the bronchi, not the alveoli or surfactant production.",
+        "E": "Fibrosis of alveolar septa describes restrictive interstitial lung disease. Bronchiectasis is an obstructive disease affecting the airways, not the alveolar septa."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "pathophysiology", "vicious-cycle", "mucus-clearance"]
+  },
+  {
+    "id": "r14-014",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 58-year-old man with chronic bronchiectasis is admitted for an acute exacerbation with increased sputum, fever, and dyspnea. A sputum culture from 6 weeks ago grew Haemophilus influenzae that was fully sensitive to amoxicillin. No resistance to beta-lactams was detected. Which antibiotic is most appropriate for this exacerbation?",
+    "choices": [
+      {"label": "A", "text": "Oral amoxicillin"},
+      {"label": "B", "text": "Intravenous aztreonam"},
+      {"label": "C", "text": "Oral levofloxacin"},
+      {"label": "D", "text": "Intravenous meropenem"},
+      {"label": "E", "text": "Intravenous piperacillin-tazobactam"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "When a recent sputum culture identifies a sensitive organism such as non-beta-lactamase-producing H. influenzae, targeted therapy with amoxicillin is appropriate for the acute exacerbation of bronchiectasis.",
+      "whyCorrect": "Guidelines recommend tailoring antibiotic choice to recent sputum culture results. Since the recent culture grew H. influenzae sensitive to amoxicillin, this narrow-spectrum agent is the most appropriate choice, providing effective coverage while minimizing unnecessary broad-spectrum antibiotic exposure.",
+      "whyWrongByChoice": {
+        "B": "Aztreonam is a monobactam used for Pseudomonas and other gram-negative infections. It is overly broad for a sensitive H. influenzae infection and is reserved for patients with prior Pseudomonas cultures.",
+        "C": "Levofloxacin is recommended when no recent sputum culture data is available. With known sensitivity to amoxicillin, a narrower-spectrum agent is preferred to reduce resistance development.",
+        "D": "Meropenem is a broad-spectrum carbapenem reserved for multi-drug resistant organisms. Using it for amoxicillin-sensitive H. influenzae promotes unnecessary resistance.",
+        "E": "Piperacillin-tazobactam is an antipseudomonal agent reserved for patients with prior Pseudomonas cultures. It is unnecessarily broad for a sensitive H. influenzae infection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "antibiotics", "H-influenzae", "exacerbation"]
+  },
+  {
+    "id": "r14-015",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 33-year-old woman with primary ciliary dyskinesia has chronic productive cough and recurrent sinusitis. She asks about non-pharmacologic strategies to improve her respiratory symptoms and reduce exacerbation frequency. Which recommendation is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Avoidance of all physical activity"},
+      {"label": "B", "text": "Chest physiotherapy with airway clearance devices"},
+      {"label": "C", "text": "Daily high-dose inhaled corticosteroids"},
+      {"label": "D", "text": "Continuous supplemental oxygen therapy"},
+      {"label": "E", "text": "Strict bed rest to reduce secretions"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Chest physiotherapy using mechanical devices is a cornerstone of nonpharmacologic management for bronchiectasis, helping to mobilize and clear thickened airway secretions that patients cannot adequately clear due to impaired mucociliary function.",
+      "whyCorrect": "Chest physiotherapy, including postural drainage, percussion, and use of oscillatory positive expiratory pressure devices, is a key nonpharmacologic intervention in bronchiectasis. These techniques help loosen and expel thick mucus, reducing the risk of infections and improving respiratory function in patients with impaired clearance.",
+      "whyWrongByChoice": {
+        "A": "Physical activity is encouraged in bronchiectasis patients as exercise helps mobilize secretions and improves overall cardiopulmonary fitness. Avoidance of activity would be detrimental.",
+        "C": "Inhaled corticosteroids are pharmacologic, not nonpharmacologic, therapy. They may be used in some bronchiectasis patients with concurrent asthma but are not the primary management strategy.",
+        "D": "Continuous oxygen therapy is not indicated unless there is documented resting hypoxemia. It is a pharmacologic intervention and not a routine recommendation for all bronchiectasis patients.",
+        "E": "Strict bed rest would worsen secretion retention and deconditioning. Mobilization and airway clearance techniques are recommended to improve mucus clearance."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "chest-physiotherapy", "management", "nonpharmacologic"]
+  },
+  {
+    "id": "r14-016",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 47-year-old man with bronchiectasis develops worsening dyspnea and decreased breath sounds over the left base. Chest X-ray shows left lower lobe opacification with ipsilateral volume loss, elevation of the left hemidiaphragm, and mediastinal shift toward the left. Which complication of bronchiectasis best explains these findings?",
+    "choices": [
+      {"label": "A", "text": "Atelectasis from mucus plugging"},
+      {"label": "B", "text": "Cor pulmonale with right heart failure"},
+      {"label": "C", "text": "Parapneumonic pleural effusion"},
+      {"label": "D", "text": "Spontaneous pneumothorax"},
+      {"label": "E", "text": "Acute pulmonary thromboembolism"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Atelectasis (partial or complete lung collapse) is a recognized complication of bronchiectasis caused by thick mucus plugs obstructing the airway and preventing ventilation of the distal lung parenchyma.",
+      "whyCorrect": "In bronchiectasis, excessive thick mucus can form plugs that completely obstruct a bronchus. The air distal to the obstruction is absorbed, causing collapse (atelectasis) of the affected lobe or segment. The chest X-ray shows opacification with volume loss, which is characteristic of obstructive atelectasis.",
+      "whyWrongByChoice": {
+        "B": "Cor pulmonale from right heart failure presents with peripheral edema, hepatomegaly, and elevated jugular venous pressure, not focal lobar collapse with volume loss.",
+        "C": "Pleural effusion would appear as fluid layering in the costophrenic angle with a meniscus sign, not as lobar opacification with volume loss.",
+        "D": "Pneumothorax would show hyperlucency and absent lung markings, the opposite of the opacification with volume loss described here.",
+        "E": "Pulmonary embolism typically presents with acute dyspnea, pleuritic chest pain, and hypoxemia but does not cause lobar opacification with volume loss on chest X-ray."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "atelectasis", "complications", "mucus-plugging"]
+  },
+  {
+    "id": "r14-017",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 62-year-old man who immigrated from Southeast Asia 20 years ago presents with a 2-year history of chronic cough with blood-streaked sputum and 5 kg unintentional weight loss. He recalls being treated for a pulmonary infection in his youth. Chest CT shows upper lobe bronchiectasis with cavitary lesions and calcified hilar lymph nodes. Which underlying cause is most likely?",
+    "choices": [
+      {"label": "A", "text": "Alpha-1 antitrypsin deficiency"},
+      {"label": "B", "text": "Chronic aspiration pneumonia"},
+      {"label": "C", "text": "Endobronchial foreign body"},
+      {"label": "D", "text": "Previous tuberculosis infection"},
+      {"label": "E", "text": "Primary Sjogren syndrome"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The combination of upper lobe bronchiectasis, cavitary lesions, and calcified hilar lymph nodes in a patient from a TB-endemic region with a history of a prior pulmonary infection strongly suggests post-tuberculous bronchiectasis.",
+      "whyCorrect": "Tuberculosis is a major infectious cause of bronchiectasis worldwide. Severe TB infection causes tissue destruction, cavitation, and scarring predominantly in the upper lobes. This ongoing structural damage impairs mucociliary clearance and leads to bronchiectasis. Calcified hilar lymph nodes indicate prior granulomatous infection consistent with TB.",
+      "whyWrongByChoice": {
+        "A": "Alpha-1 antitrypsin deficiency causes panacinar emphysema predominantly in the lower lobes, not upper lobe bronchiectasis with cavitary lesions and calcified lymph nodes.",
+        "B": "Aspiration pneumonia typically affects the dependent portions of the lungs and does not cause calcified hilar lymph nodes.",
+        "C": "Foreign body aspiration causes localized bronchiectasis distal to the obstruction but would not produce bilateral upper lobe disease with calcified hilar lymph nodes.",
+        "E": "Sjogren syndrome can cause bronchiectasis through increased mucus viscosity and immune-mediated airway damage, but it does not cause cavitary lesions or calcified hilar lymph nodes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "tuberculosis", "infection", "upper-lobe"]
+  },
+  {
+    "id": "r14-018",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 44-year-old woman with bronchiectasis has been using nebulized hypertonic saline as part of her chronic management regimen. She notes that the treatment makes her sputum thinner and easier to cough up. Which mechanism best explains how hypertonic saline improves mucus clearance?",
+    "choices": [
+      {"label": "A", "text": "Breaks disulfide bonds in mucoproteins"},
+      {"label": "B", "text": "Cleaves extracellular DNA in secretions"},
+      {"label": "C", "text": "Creates osmotic gradient hydrating airways"},
+      {"label": "D", "text": "Directly kills airway luminal bacteria"},
+      {"label": "E", "text": "Stimulates type II pneumocyte surfactant"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nebulized hypertonic saline creates an osmotic gradient that draws water from the airway epithelial cells into the airway lumen, diluting and thinning the mucus to facilitate its clearance.",
+      "whyCorrect": "Hypertonic saline increases the osmolality of the airway surface liquid relative to the epithelial cell interior. This osmotic gradient causes water to flow into the airway lumen, hydrating the mucus and making it less viscous and easier to expectorate, thereby improving mucociliary clearance.",
+      "whyWrongByChoice": {
+        "A": "Breaking disulfide bonds in mucoproteins is the mechanism of action of acetylcysteine, which exerts its mucolytic effect through its free sulfhydryl group, not through osmotic effects.",
+        "B": "Cleaving extracellular DNA is the mechanism of dornase alfa (recombinant DNase). Hypertonic saline does not have enzymatic activity against DNA.",
+        "D": "While high concentrations of salt can be bacteriostatic, the primary therapeutic mechanism of nebulized hypertonic saline in bronchiectasis is airway hydration and mucus thinning, not direct antibacterial action.",
+        "E": "Surfactant is produced by type II alveolar cells and reduces alveolar surface tension. Hypertonic saline acts on the airway mucus layer, not on surfactant production."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "hypertonic-saline", "mucolytic", "mechanism"]
+  },
+  {
+    "id": "r14-019",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 56-year-old woman with a history of Sjogren syndrome presents with recurrent lower respiratory tract infections and daily productive cough for the past 3 years. She also has dry eyes and dry mouth requiring artificial tears and saliva substitutes. CT of the chest confirms bilateral lower lobe bronchiectasis. Which mechanism best explains how Sjogren syndrome predisposes to bronchiectasis?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune alveolar type I cell destruction"},
+      {"label": "B", "text": "Defective neutrophil chemotaxis to airways"},
+      {"label": "C", "text": "Granulomatous bronchial scarring"},
+      {"label": "D", "text": "Increased mucus viscosity from gland dysfunction"},
+      {"label": "E", "text": "Protease-antiprotease imbalance from alpha-1 deficiency"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Sjogren syndrome is an autoimmune disorder that targets exocrine glands, causing decreased and thickened secretions. In the airways, this increases mucus viscosity, impairing mucociliary clearance and predisposing to recurrent infections and bronchiectasis.",
+      "whyCorrect": "Sjogren syndrome involves autoimmune destruction and dysfunction of exocrine glands, including the submucosal glands of the bronchi. This results in decreased fluid secretion and increased mucus viscosity in the airways, impairing normal mucociliary clearance and creating conditions favorable for recurrent infections that lead to bronchiectasis.",
+      "whyWrongByChoice": {
+        "A": "Sjogren syndrome targets exocrine glands, not alveolar type I cells. Alveolar cell destruction is seen in conditions such as ARDS or certain pneumonias.",
+        "B": "Sjogren syndrome does not primarily affect neutrophil chemotaxis. Defective neutrophil function is seen in conditions such as chronic granulomatous disease or Chediak-Higashi syndrome.",
+        "C": "Granulomatous inflammation with bronchial scarring is characteristic of sarcoidosis. Sjogren syndrome causes lymphocytic infiltration of exocrine glands, not granulomatous airway inflammation.",
+        "E": "Reduced alpha-1 antitrypsin is a genetic deficiency causing emphysema and liver disease, unrelated to Sjogren syndrome."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "Sjogren-syndrome", "autoimmune", "mucus-viscosity"]
+  },
+  {
+    "id": "r14-020",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A pulmonologist explains to a medical student that in non-CF bronchiectasis, the most commonly cultured organism during acute exacerbations differs from that in CF-related bronchiectasis. A 48-year-old man with non-CF bronchiectasis presents with an acute exacerbation. Which organism is most commonly isolated in this setting?",
+    "choices": [
+      {"label": "A", "text": "Aspergillus fumigatus"},
+      {"label": "B", "text": "Haemophilus influenzae"},
+      {"label": "C", "text": "Mycobacterium tuberculosis"},
+      {"label": "D", "text": "Pseudomonas aeruginosa"},
+      {"label": "E", "text": "Staphylococcus aureus"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In non-CF bronchiectasis, Haemophilus influenzae is the most prevalent organism found during acute exacerbations, whereas Pseudomonas aeruginosa is more common in CF-related bronchiectasis.",
+      "whyCorrect": "H. influenzae is the most commonly isolated pathogen in acute exacerbations of non-CF bronchiectasis. This gram-negative coccobacillus colonizes damaged airways and contributes to the cycle of infection and inflammation. In contrast, Pseudomonas predominates in CF-related bronchiectasis.",
+      "whyWrongByChoice": {
+        "A": "Aspergillus fumigatus is associated with allergic bronchopulmonary aspergillosis in patients with asthma or CF, but it is not the most common cause of acute bacterial exacerbations in non-CF bronchiectasis.",
+        "C": "Mycobacterium tuberculosis can cause bronchiectasis as a sequela of prior infection but is not the most common pathogen isolated during acute exacerbations of non-CF bronchiectasis.",
+        "D": "Pseudomonas aeruginosa is the most common organism in CF-related bronchiectasis exacerbations but is less prevalent than H. influenzae in non-CF bronchiectasis.",
+        "E": "Staphylococcus aureus is commonly associated with early childhood respiratory infections in CF and can cause bronchiectasis exacerbations but is less common than H. influenzae in non-CF patients."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "H-influenzae", "microbiology", "non-CF"]
+  },
+  {
+    "id": "r14-021",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 70-year-old man with COPD and idiopathic pulmonary fibrosis has a CT scan showing bronchial dilation in the right lower lobe surrounded by fibrotic changes and architectural distortion. His physician notes this is traction bronchiectasis, not true bronchiectasis. Which feature best distinguishes traction bronchiectasis from true bronchiectasis?",
+    "choices": [
+      {"label": "A", "text": "Fibrosis pulls airways open without mucopurulent sputum"},
+      {"label": "B", "text": "Pseudomonas infection drives the airway dilation"},
+      {"label": "C", "text": "Upper lobe predominance is characteristic"},
+      {"label": "D", "text": "Greater sputum production than true bronchiectasis"},
+      {"label": "E", "text": "Ciliary dyskinesia is the underlying cause"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Traction bronchiectasis is a radiologic finding where lung parenchymal fibrosis and scarring mechanically pull on and dilate the airways, mimicking the appearance of true bronchiectasis on imaging but without the characteristic mucopurulent sputum or chronic infection cycle.",
+      "whyCorrect": "Traction bronchiectasis occurs when fibrotic lung tissue retracts and pulls on the adjacent airways, causing them to appear dilated on imaging. Unlike true bronchiectasis, it is not accompanied by the typical clinical features of chronic productive cough with mucopurulent sputum, because the airway dilation is a mechanical consequence of fibrosis rather than primary airway disease.",
+      "whyWrongByChoice": {
+        "B": "Traction bronchiectasis is caused by parenchymal fibrosis, not by Pseudomonas infection. Pseudomonas is associated with true bronchiectasis exacerbations, particularly in CF.",
+        "C": "Traction bronchiectasis can occur in any lobe where fibrotic changes are present and does not have a predilection for the upper lobes.",
+        "D": "Traction bronchiectasis produces less sputum than true bronchiectasis because the characteristic mucopurulent sputum production is absent.",
+        "E": "Ciliary dyskinesia causes primary ciliary dyskinesia and Kartagener syndrome, which lead to true bronchiectasis, not traction bronchiectasis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "traction-bronchiectasis", "fibrosis", "radiology"]
+  },
+  {
+    "id": "r14-022",
+    "topicId": "bronchiectasis",
+    "topicName": "Bronchiectasis",
+    "stem": "A 39-year-old woman presents with chronic sinusitis, recurrent lower respiratory infections requiring antibiotics 5 times in the past year, and bilateral lower lobe bronchiectasis on CT. Laboratory evaluation reveals IgG 180 mg/dL (normal 700-1600), IgA less than 5 mg/dL (normal 70-400), and IgM 25 mg/dL (normal 40-230). Which underlying diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Allergic bronchopulmonary aspergillosis"},
+      {"label": "B", "text": "Common variable immunodeficiency"},
+      {"label": "C", "text": "Cystic fibrosis"},
+      {"label": "D", "text": "HIV infection"},
+      {"label": "E", "text": "Selective IgA deficiency"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Common variable immunodeficiency (CVID) is characterized by panhypogammaglobulinemia and presents with recurrent sinopulmonary infections that can lead to bronchiectasis due to inadequate humoral immune defense.",
+      "whyCorrect": "CVID is the most common clinically significant primary immunodeficiency in adults. It presents with markedly reduced immunoglobulin levels across multiple classes (IgG, IgA, and often IgM), leading to recurrent sinopulmonary infections. Without adequate humoral immunity, repeated infections damage the airways and cause bronchiectasis.",
+      "whyWrongByChoice": {
+        "A": "ABPA causes bronchiectasis through a hypersensitivity reaction to Aspergillus and is associated with elevated IgE levels, not panhypogammaglobulinemia.",
+        "C": "Cystic fibrosis causes bronchiectasis through defective chloride transport and thickened mucus, not through reduced immunoglobulin levels.",
+        "D": "HIV infection reduces CD4 T cells and can increase susceptibility to infections, but it does not primarily cause panhypogammaglobulinemia. HIV-related immunodeficiency is cellular, not humoral.",
+        "E": "Selective IgA deficiency involves low IgA only, with normal IgG and IgM levels. This patient has markedly low levels across all immunoglobulin classes, consistent with CVID rather than selective IgA deficiency."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "CVID", "immunodeficiency", "hypogammaglobulinemia"]
+  },
+  {
+    "id": "r14-023",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 2-day-old neonate born at home without prenatal care has not passed meconium and has bilious vomiting. The abdomen is distended and tender. Abdominal X-ray shows dilated loops of bowel with a ground-glass appearance in the right lower quadrant. The mother is of Northern European descent. Which diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Duodenal atresia"},
+      {"label": "B", "text": "Hirschsprung disease"},
+      {"label": "C", "text": "Ileocolic intussusception"},
+      {"label": "D", "text": "Meconium ileus from cystic fibrosis"},
+      {"label": "E", "text": "Hypertrophic pyloric stenosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Meconium ileus, a bowel obstruction caused by thick, sticky meconium, is the presenting manifestation of cystic fibrosis in approximately 15-20% of affected neonates. The ground-glass appearance on X-ray is characteristic of inspissated meconium.",
+      "whyCorrect": "In cystic fibrosis, defective CFTR chloride channels produce thick, dehydrated intestinal secretions. This causes the meconium to become abnormally thick and sticky, obstructing the terminal ileum. The ground-glass appearance on X-ray represents the inspissated meconium mixed with air, and the Northern European descent increases the pretest probability of CF.",
+      "whyWrongByChoice": {
+        "A": "Duodenal atresia presents with a classic double-bubble sign on X-ray due to a dilated proximal duodenum and stomach, and is associated with Down syndrome, not the ground-glass pattern seen here.",
+        "B": "Hirschsprung disease causes functional bowel obstruction from absent ganglion cells and typically shows a transition zone on contrast enema. It does not produce a ground-glass appearance on X-ray.",
+        "C": "Intussusception typically presents in infants aged 6-36 months with intermittent colicky abdominal pain, currant jelly stools, and a target sign on ultrasound, not in a 2-day-old neonate.",
+        "E": "Pyloric stenosis presents at 2-8 weeks of age with nonbilious projectile vomiting, not in the first days of life with bilious vomiting and failure to pass meconium."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "meconium-ileus", "neonate", "bowel-obstruction"]
+  },
+  {
+    "id": "r14-024",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A couple who are both confirmed carriers of a CFTR gene mutation seek genetic counseling before planning a pregnancy. The genetic counselor draws a Punnett square to explain the risk to their future children. What is the probability that any given child will have cystic fibrosis?",
+    "choices": [
+      {"label": "A", "text": "Zero percent"},
+      {"label": "B", "text": "Twenty-five percent"},
+      {"label": "C", "text": "Fifty percent"},
+      {"label": "D", "text": "Seventy-five percent"},
+      {"label": "E", "text": "One hundred percent"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Cystic fibrosis is an autosomal recessive disorder. When both parents are carriers (heterozygous), there is a 25% chance with each pregnancy that the child will inherit two mutant alleles and have CF.",
+      "whyCorrect": "Since CF follows autosomal recessive inheritance, both parents must contribute a mutant CFTR allele for the child to be affected. Using a Punnett square for two heterozygous carriers (Cc x Cc), the possible offspring genotypes are CC (25%), Cc (50%), and cc (25%). Only the homozygous mutant (cc) genotype expresses the disease, giving a 25% probability.",
+      "whyWrongByChoice": {
+        "A": "A 0% probability would only occur if at least one parent had two normal CFTR alleles (homozygous normal), which is not the case when both parents are carriers.",
+        "C": "50% represents the probability that the child will be a carrier (heterozygous), not that the child will have the disease.",
+        "D": "75% represents the combined probability of being either a carrier or affected (Cc + cc), not the probability of having CF specifically.",
+        "E": "100% would require both parents to be homozygous for the CFTR mutation (both having CF), which is not the case with carrier parents."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "genetics", "autosomal-recessive", "inheritance"]
+  },
+  {
+    "id": "r14-025",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 6-month-old infant is evaluated for failure to thrive and recurrent respiratory infections. Newborn screening was positive for cystic fibrosis via DNA mutation panel. A confirmatory sweat chloride test reveals a chloride concentration of 72 mEq/L (diagnostic threshold greater than 60 mEq/L). Which mechanism best explains the elevated sweat chloride in CF?",
+    "choices": [
+      {"label": "A", "text": "Defective CFTR fails to reabsorb sweat duct chloride"},
+      {"label": "B", "text": "Excess aldosterone stimulates chloride secretion"},
+      {"label": "C", "text": "Increased Na/K-ATPase activity in sweat glands"},
+      {"label": "D", "text": "Overactive chloride secretion into sweat lumen"},
+      {"label": "E", "text": "Reduced aquaporin channels prevent water reabsorption"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In the sweat ducts, CFTR normally reabsorbs chloride (and indirectly sodium) from primary sweat. When CFTR is defective, chloride cannot be reabsorbed, resulting in salty sweat with chloride concentrations exceeding 60 mEq/L.",
+      "whyCorrect": "Unlike most epithelial surfaces where CFTR secretes chloride out of the cell, in sweat ducts CFTR absorbs chloride from the sweat back into the epithelial cells. When CFTR is dysfunctional, chloride remains in the sweat duct lumen, and sodium follows (since its reabsorption is coupled to chloride). This produces the characteristically salty sweat with elevated chloride levels used diagnostically in CF.",
+      "whyWrongByChoice": {
+        "B": "Aldosterone regulates sodium and potassium balance primarily in the kidney. The elevated sweat chloride in CF is due to defective CFTR chloride reabsorption, not aldosterone-mediated secretion.",
+        "C": "Sodium-potassium ATPase is a basolateral pump that maintains the cellular ion gradient. The elevated sweat chloride in CF is specifically due to failure of CFTR-mediated chloride reabsorption from the ductal lumen.",
+        "D": "The primary sweat produced by the sweat gland coil has normal chloride content. The problem in CF is failure to reabsorb chloride in the sweat duct, not overproduction of chloride in the primary sweat.",
+        "E": "Aquaporin dysfunction is not the mechanism of elevated sweat chloride in CF. The primary defect is in the CFTR chloride channel, and water follows the ion concentration gradient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "sweat-chloride-test", "CFTR", "sweat-duct"]
+  },
+  {
+    "id": "r14-026",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 19-year-old man with cystic fibrosis is evaluated for infertility after 18 months of unprotected intercourse. Semen analysis reveals azoospermia. Physical examination shows normal-sized testes bilaterally and normal secondary sexual characteristics. Serum testosterone and FSH are within normal limits. Which cause of infertility is most likely?",
+    "choices": [
+      {"label": "A", "text": "Bilateral undescended testes"},
+      {"label": "B", "text": "Congenital absence of vas deferens"},
+      {"label": "C", "text": "Hypogonadotropic hypogonadism"},
+      {"label": "D", "text": "Klinefelter syndrome karyotype"},
+      {"label": "E", "text": "Bilateral varicocele compression"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Up to 98% of males with cystic fibrosis are infertile due to congenital bilateral absence of the vas deferens (CBAVD). CFTR plays a critical role in the development of the vas deferens, and its dysfunction leads to its aplasia.",
+      "whyCorrect": "Male infertility in CF is primarily caused by congenital bilateral absence of the vas deferens. The CFTR protein is essential for normal development of the Wolffian duct derivatives, including the vas deferens. Without functioning CFTR, the vas deferens fails to develop, preventing sperm transport despite normal spermatogenesis in the testes.",
+      "whyWrongByChoice": {
+        "A": "Bilateral cryptorchidism would present with nonpalpable or inguinal testes on examination. This patient has normal-sized testes in the scrotum.",
+        "C": "Hypogonadotropic hypogonadism would present with low testosterone, small testes, and absent secondary sexual characteristics, which are not described in this patient.",
+        "D": "Klinefelter syndrome (47,XXY) presents with tall stature, gynecomastia, small firm testes, and elevated gonadotropins, not with normal-sized testes in a patient with known CF.",
+        "E": "Varicocele would present with a palpable scrotal mass described as a bag of worms and would cause oligospermia rather than complete azoospermia in most cases."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "infertility", "vas-deferens", "CBAVD"]
+  },
+  {
+    "id": "r14-027",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 12-year-old boy with cystic fibrosis presents with greasy, foul-smelling stools and poor weight gain despite a good appetite. He has clubbing of his fingers. Laboratory studies show low serum levels of vitamins A, D, E, and K and elevated fecal fat on 72-hour collection. Which mechanism best explains his malabsorption?",
+    "choices": [
+      {"label": "A", "text": "Bile salt deficiency from cholestasis"},
+      {"label": "B", "text": "Gluten-triggered villous atrophy"},
+      {"label": "C", "text": "Lactase enzyme deficiency"},
+      {"label": "D", "text": "Pancreatic duct obstruction with exocrine failure"},
+      {"label": "E", "text": "Small intestinal bacterial overgrowth"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In CF, thick mucus obstructs the pancreatic ducts, preventing release of pancreatic lipase and other digestive enzymes into the duodenum. This causes maldigestion and malabsorption of fats and fat-soluble vitamins (A, D, E, K), resulting in steatorrhea and failure to thrive.",
+      "whyCorrect": "The thick, viscous secretions in CF obstruct the pancreatic ducts, leading to pancreatic exocrine insufficiency. Without adequate pancreatic lipase, fats cannot be digested and absorbed, resulting in steatorrhea (greasy stools). Fat-soluble vitamins (A, D, E, K) require fat absorption for their own uptake, so their levels become deficient as well.",
+      "whyWrongByChoice": {
+        "A": "While CF can cause cholestatic liver disease, the primary mechanism of fat malabsorption in CF is pancreatic duct obstruction with exocrine insufficiency, not bile salt deficiency.",
+        "B": "Celiac disease causes villous atrophy in the small intestine from gluten sensitivity. It is a separate condition from CF and is diagnosed by anti-tissue transglutaminase antibodies and duodenal biopsy.",
+        "C": "Lactase deficiency causes osmotic diarrhea with watery stools after dairy consumption, not the greasy stools and fat-soluble vitamin deficiency seen here.",
+        "E": "Small intestinal bacterial overgrowth can cause malabsorption but typically presents with bloating and watery diarrhea. It is not the primary cause of malabsorption in a patient with known CF."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "pancreatic-insufficiency", "steatorrhea", "fat-soluble-vitamins"]
+  },
+  {
+    "id": "r14-028",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A researcher is studying the molecular biology of the most common CFTR mutation (deltaF508), found in approximately 90% of CF patients. This mutation causes deletion of phenylalanine at position 508, producing a protein that is synthesized but never reaches the cell surface. Which cellular fate best describes this mutant protein?",
+    "choices": [
+      {"label": "A", "text": "Degraded in lysosomes after endocytosis"},
+      {"label": "B", "text": "Inserted into membrane with nonfunctional channel"},
+      {"label": "C", "text": "Retained in rough endoplasmic reticulum"},
+      {"label": "D", "text": "Secreted extracellularly as inactive protein"},
+      {"label": "E", "text": "Transported to Golgi but improperly glycosylated"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The most common CFTR mutation (deltaF508) causes deletion of phenylalanine at position 508, resulting in protein misfolding. The misfolded protein is recognized by quality control mechanisms and retained in the rough endoplasmic reticulum rather than being trafficked to the cell membrane.",
+      "whyCorrect": "The deltaF508 mutation, present in approximately 90% of CF patients, produces a CFTR protein that misfolds after translation. The endoplasmic reticulum has quality control systems that detect misfolded proteins and prevent their export. The misfolded CFTR is retained in the rough ER and eventually targeted for proteasomal degradation, never reaching the apical cell membrane.",
+      "whyWrongByChoice": {
+        "A": "Lysosomal degradation after endocytosis would require the protein to first reach the cell surface, which does not occur with the deltaF508 mutation because the protein is retained in the ER.",
+        "B": "This describes a different class of CFTR mutations (functional mutations) where the protein reaches the membrane but the ion channel does not function properly. The deltaF508 protein never reaches the membrane.",
+        "D": "CFTR is a transmembrane protein, not a secreted protein. Even with the mutation, it is not secreted extracellularly but rather retained intracellularly.",
+        "E": "The misfolded deltaF508 CFTR is retained in the ER and does not advance to the Golgi apparatus for glycosylation processing."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "deltaF508", "protein-misfolding", "endoplasmic-reticulum"]
+  },
+  {
+    "id": "r14-029",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 25-year-old woman with cystic fibrosis develops polyuria, polydipsia, and unintentional weight loss over the past 3 months. Her fasting glucose is 210 mg/dL and hemoglobin A1c is 8.2%. She has been hospitalized 4 times for pneumonia in the past year. Which pathophysiology best explains her diabetes?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune pancreatic beta cell destruction"},
+      {"label": "B", "text": "Chronic corticosteroid-induced insulin resistance"},
+      {"label": "C", "text": "Mucus obstruction causing pancreatic fibrosis"},
+      {"label": "D", "text": "Peripheral insulin resistance from obesity"},
+      {"label": "E", "text": "Viral-induced acute necrotizing pancreatitis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cystic fibrosis-related diabetes (CFRD) results from progressive destruction of pancreatic tissue due to mucus obstruction of pancreatic ducts, leading to fibrosis and loss of both exocrine and endocrine (islet cell) function with impaired insulin secretion.",
+      "whyCorrect": "In CF, thick mucus obstructs the pancreatic ducts, causing chronic inflammation, autodigestion, and progressive replacement of pancreatic tissue with fibrosis and adipose tissue. This destroys both exocrine acinar cells and endocrine islet cells, reducing insulin production. CFRD shares features of both type 1 (reduced insulin secretion) and type 2 (some insulin resistance) diabetes.",
+      "whyWrongByChoice": {
+        "A": "Autoimmune beta cell destruction is the mechanism of type 1 diabetes mellitus, mediated by autoantibodies. CFRD is caused by structural pancreatic damage from mucus obstruction and fibrosis, not autoimmune destruction.",
+        "B": "While some CF patients receive corticosteroids, this patient's diabetes is most likely CFRD from chronic pancreatic damage rather than steroid-induced hyperglycemia, given her known CF and the progressive nature of her symptoms.",
+        "D": "CF patients are typically underweight due to malabsorption, not obese. Peripheral insulin resistance from obesity is the hallmark of type 2 diabetes, not CFRD.",
+        "E": "Acute viral pancreatitis is a rare cause of transient hyperglycemia. This patient's diabetes is a chronic complication of CF-related pancreatic fibrosis, not an acute infectious process."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFRD", "diabetes", "pancreatic-fibrosis"]
+  },
+  {
+    "id": "r14-030",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 3-day-old infant born to parents of Irish descent has a positive newborn screening blood test for cystic fibrosis via DNA mutation panel. The pediatrician explains that a confirmatory functional test is needed. Which test is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Posteroanterior chest X-ray"},
+      {"label": "B", "text": "Fecal elastase level measurement"},
+      {"label": "C", "text": "Nasal potential difference testing"},
+      {"label": "D", "text": "Serum immunoglobulin panel"},
+      {"label": "E", "text": "Quantitative pilocarpine sweat chloride test"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "After a positive newborn screening test for CF, the sweat chloride test (quantitative pilocarpine iontophoresis sweat test) is the gold standard confirmatory test. A sweat chloride concentration greater than 60 mEq/L confirms the diagnosis.",
+      "whyCorrect": "The sweat chloride test is the diagnostic standard for confirming cystic fibrosis. Pilocarpine stimulates local sweat production, and the collected sweat is analyzed for chloride content. In CF, defective CFTR fails to reabsorb chloride from sweat, resulting in elevated sweat chloride (greater than 60 mEq/L). This test directly assesses CFTR function.",
+      "whyWrongByChoice": {
+        "A": "Chest X-ray may show findings of bronchiectasis or recurrent infections in established CF but is not used for confirmatory diagnosis, especially in a neonate who may have a normal chest X-ray.",
+        "B": "Fecal elastase assesses pancreatic exocrine function and is low in pancreatic insufficiency. While helpful in managing CF, it is not the confirmatory diagnostic test.",
+        "C": "Nasal potential difference measurement is a research tool used to assess CFTR function in the nasal epithelium. It is not the standard confirmatory test in clinical practice.",
+        "D": "Serum immunoglobulin levels assess humoral immune function and would be relevant for diagnosing immunodeficiency, not cystic fibrosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "sweat-chloride-test", "newborn-screening", "diagnosis"]
+  },
+  {
+    "id": "r14-031",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 16-year-old girl with cystic fibrosis has sputum cultures chronically positive for Pseudomonas aeruginosa despite multiple courses of antipseudomonal antibiotics. Her pulmonologist explains that this organism is particularly difficult to eradicate from CF airways. Which bacterial property best explains its persistent colonization?",
+    "choices": [
+      {"label": "A", "text": "Mucoid biofilm formation with polysaccharide capsule"},
+      {"label": "B", "text": "Intracellular survival within alveolar macrophages"},
+      {"label": "C", "text": "IgA protease production evading mucosal immunity"},
+      {"label": "D", "text": "Rapid mutation rate conferring antibiotic resistance"},
+      {"label": "E", "text": "Endospore formation in dry environments"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Pseudomonas aeruginosa establishes chronic colonization in CF airways by producing a mucoid polysaccharide capsule (alginate) that forms biofilms. These biofilms protect the bacteria from host immune responses and antibiotics, making eradication extremely difficult.",
+      "whyCorrect": "P. aeruginosa undergoes a phenotypic switch to a mucoid form in CF airways, producing an alginate polysaccharide capsule that enables biofilm formation. These biofilms are structured bacterial communities embedded in an extracellular matrix that shields the bacteria from phagocytosis, antibodies, complement, and antibiotic penetration, contributing to chronic pneumonia in CF.",
+      "whyWrongByChoice": {
+        "B": "Pseudomonas is primarily an extracellular pathogen. Intracellular survival within macrophages is characteristic of organisms like Mycobacterium tuberculosis and Legionella.",
+        "C": "While IgA protease production is a virulence factor of some respiratory pathogens like H. influenzae and S. pneumoniae, the primary mechanism of persistent Pseudomonas colonization in CF is biofilm formation.",
+        "D": "While Pseudomonas does develop antibiotic resistance, this alone does not explain persistent colonization. The biofilm provides the critical structural protection that allows the organism to evade host defenses.",
+        "E": "Pseudomonas aeruginosa does not form spores. Spore formation is a characteristic of Bacillus and Clostridium species."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "Pseudomonas", "biofilm", "chronic-infection"]
+  },
+  {
+    "id": "r14-032",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 10-year-old boy with cystic fibrosis undergoes spirometry as part of his annual pulmonary function assessment. He reports chronic cough with thick sputum and occasional wheezing. Which spirometry pattern is most consistent with his underlying pulmonary disease?",
+    "choices": [
+      {"label": "A", "text": "Decreased FEV1 with decreased FEV1/FVC"},
+      {"label": "B", "text": "Decreased FVC with normal FEV1/FVC"},
+      {"label": "C", "text": "Increased FEV1 with increased FVC"},
+      {"label": "D", "text": "Increased TLC with increased FEV1/FVC"},
+      {"label": "E", "text": "Normal FEV1 with decreased TLC"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Cystic fibrosis causes obstructive pulmonary disease due to thick mucus plugging and airway inflammation. Spirometry shows a decreased FEV1 and a reduced FEV1/FVC ratio, which is the hallmark of obstructive lung disease.",
+      "whyCorrect": "CF is classified as an obstructive pulmonary disease because the thick mucus and chronic airway inflammation obstruct airflow, particularly during expiration. Spirometry characteristically demonstrates a reduced FEV1 (reflecting impaired expiratory airflow) and a decreased FEV1/FVC ratio (below 0.70), the defining feature of an obstructive pattern.",
+      "whyWrongByChoice": {
+        "B": "A decreased FVC with a normal FEV1/FVC ratio describes a restrictive pattern seen in interstitial lung disease or chest wall disorders, not the obstructive pattern of CF.",
+        "C": "Increased FEV1 and FVC would indicate normal or supranormal lung function. CF causes decreased, not increased, expiratory flow rates.",
+        "D": "While TLC may be increased in obstructive disease due to air trapping, the FEV1/FVC ratio would be decreased, not increased.",
+        "E": "A decreased TLC with normal FEV1 suggests a restrictive process. In CF, TLC is normal or elevated due to air trapping, and FEV1 is reduced."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "spirometry", "obstructive-pattern", "pulmonary-function"]
+  },
+  {
+    "id": "r14-033",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 22-year-old man with cystic fibrosis develops progressive jaundice, hepatomegaly, and ascites over the past year. Physical examination shows spider angiomata and splenomegaly. Liver biopsy shows portal fibrosis with bile duct proliferation and periportal inflammation. Which pathogenesis best explains his liver disease?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune hepatocyte destruction"},
+      {"label": "B", "text": "Hemochromatosis from iron overload"},
+      {"label": "C", "text": "Hepatic steatosis from malnutrition"},
+      {"label": "D", "text": "Thickened bile causing cholestatic obstruction"},
+      {"label": "E", "text": "Viral hepatitis from blood products"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "CF-related liver disease (focal biliary cirrhosis) results from defective CFTR in biliary epithelial cells, causing thickened, dehydrated bile that obstructs intrahepatic bile ducts (cholestasis), leading to periportal inflammation, fibrosis, and eventually biliary cirrhosis.",
+      "whyCorrect": "In CF, the defective CFTR protein in biliary epithelial cells (cholangiocytes) reduces chloride and bicarbonate secretion into bile. This produces thick, inspissated bile that obstructs the intrahepatic bile ducts. The resulting cholestasis triggers periportal inflammation and progressive fibrosis, eventually leading to focal biliary cirrhosis with portal hypertension.",
+      "whyWrongByChoice": {
+        "A": "Autoimmune hepatitis involves immune-mediated hepatocellular destruction with elevated autoantibodies (ANA, anti-smooth muscle). CF liver disease is caused by mechanical bile duct obstruction, not autoimmune destruction.",
+        "B": "Hemochromatosis results from excess iron absorption and deposition. CF does not cause increased iron absorption, and the biopsy findings of bile duct proliferation with portal fibrosis are consistent with cholestatic, not iron-overload, liver disease.",
+        "C": "While CF patients may have malnutrition, the biopsy shows portal fibrosis with bile duct proliferation, which is characteristic of biliary obstruction, not hepatic steatosis from malnutrition.",
+        "E": "Viral hepatitis would show hepatocellular inflammation with or without necrosis on biopsy, not the portal fibrosis with bile duct proliferation characteristic of CF-related biliary cirrhosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "liver-disease", "biliary-cirrhosis", "cholestasis"]
+  },
+  {
+    "id": "r14-034",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 7-year-old girl with cystic fibrosis presents with chronic nasal congestion, facial pain, and hyponasal speech. Nasal endoscopy reveals bilateral grayish, translucent, pedunculated masses arising from the middle meatus. The masses are insensate to palpation. Which finding is most likely?",
+    "choices": [
+      {"label": "A", "text": "Juvenile nasopharyngeal angiofibroma"},
+      {"label": "B", "text": "Sinonasal inverted papilloma"},
+      {"label": "C", "text": "Inflammatory nasal polyps"},
+      {"label": "D", "text": "Nasal septal perforation"},
+      {"label": "E", "text": "Inferior turbinate hypertrophy"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nasal polyps are a common complication of chronic rhinosinusitis in cystic fibrosis. They appear as bilateral, grayish, translucent masses arising from the middle meatus and can cause nasal obstruction, facial pain, and hyponasal speech.",
+      "whyCorrect": "Chronic rhinosinusitis in CF leads to persistent inflammation of the sinonasal mucosa, which can produce nasal polyps. These appear as bilateral, grayish, pedunculated, translucent masses in the middle meatus. Nasal polyps occur in approximately 10-30% of CF patients, and in a young child presenting with bilateral polyps, CF should always be considered.",
+      "whyWrongByChoice": {
+        "A": "Angiofibromas are vascular tumors that occur almost exclusively in adolescent males and present as a unilateral, vascular nasal mass with epistaxis, not bilateral translucent masses in a 7-year-old girl.",
+        "B": "Inverted papillomas are unilateral benign neoplasms of the lateral nasal wall that occur in older adults, not bilateral translucent masses in a child with CF.",
+        "D": "Septal perforation presents as a hole in the nasal septum, often causing epistaxis and a whistling sound during breathing, not bilateral masses from the middle meatus.",
+        "E": "Turbinate hypertrophy involves enlargement of the inferior or middle turbinates and appears as swollen, pink-red mucosal tissue, not discrete grayish translucent masses."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "nasal-polyps", "rhinosinusitis", "upper-airway"]
+  },
+  {
+    "id": "r14-035",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A molecular biology student is reviewing CFTR mutation classes. She learns that one class produces a protein that is properly synthesized, folded, and trafficked to the cell membrane but fails to conduct chloride ions normally because the channel does not open properly. Which mutation type best categorizes this defect?",
+    "choices": [
+      {"label": "A", "text": "Defective protein processing mutation"},
+      {"label": "B", "text": "Functional channel gating mutation"},
+      {"label": "C", "text": "Nonsense premature stop codon mutation"},
+      {"label": "D", "text": "Promoter region transcription mutation"},
+      {"label": "E", "text": "Splice site mRNA processing mutation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Functional (gating) mutations in CFTR produce a protein that is properly synthesized, folded, and trafficked to the cell membrane, but the ion channel does not open properly or does not conduct chloride ions normally, resulting in reduced chloride transport.",
+      "whyCorrect": "Gating mutations represent a class of CFTR mutations where the protein reaches the apical cell membrane but has a defective chloride channel that fails to open or conduct ions properly. Examples include the G551D mutation, which impairs ATP-dependent channel gating, reducing chloride transport despite normal protein localization.",
+      "whyWrongByChoice": {
+        "A": "Defective protein processing mutations (such as deltaF508) cause misfolding and retention in the endoplasmic reticulum. The protein never reaches the cell membrane, which differs from the scenario described.",
+        "C": "A nonsense mutation causes a premature stop codon, resulting in a truncated nonfunctional protein that is rapidly degraded. This would produce absent CFTR, not a membrane-localized but nonfunctional protein.",
+        "D": "A promoter mutation would reduce transcription of the CFTR gene, decreasing the total amount of mRNA and ultimately the amount of protein synthesized, but any protein made would be structurally normal.",
+        "E": "A splicing mutation prevents proper mRNA processing, leading to abnormal transcripts and absent or severely reduced functional protein production, not a protein that reaches the membrane."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR-mutations", "gating-mutation", "molecular-biology"]
+  },
+  {
+    "id": "r14-036",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 5-year-old boy with cystic fibrosis has recurrent respiratory infections requiring frequent antibiotic courses. His mother asks which organisms are most likely causing his pneumonias at his current age, and what to expect as he grows older. Which pair of organisms best represents the typical age-related respiratory pathogen progression in CF?",
+    "choices": [
+      {"label": "A", "text": "Childhood: E. coli; adulthood: Klebsiella"},
+      {"label": "B", "text": "Childhood: Mycoplasma; adulthood: Legionella"},
+      {"label": "C", "text": "Childhood: S. aureus/H. influenzae; adulthood: Pseudomonas"},
+      {"label": "D", "text": "Childhood: Group B Streptococcus; adulthood: S. aureus"},
+      {"label": "E", "text": "Childhood: Pseudomonas; adulthood: Aspergillus"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In CF, childhood respiratory infections are predominantly caused by Staphylococcus aureus and Haemophilus influenzae. As patients age into adolescence and adulthood, Pseudomonas aeruginosa becomes the dominant colonizer and cause of respiratory infections.",
+      "whyCorrect": "The microbiology of CF lung infections follows a predictable age-related pattern. In early childhood, S. aureus and H. influenzae are the primary pathogens. With increasing age, the mucoid form of P. aeruginosa colonizes the airways and becomes the predominant pathogen in adolescents and adults, contributing to progressive lung disease.",
+      "whyWrongByChoice": {
+        "A": "E. coli is primarily associated with urinary tract and intra-abdominal infections, and Klebsiella is associated with hospital-acquired pneumonia in debilitated patients, not the typical CF respiratory pathogen profile.",
+        "B": "Mycoplasma causes atypical community-acquired pneumonia, and Legionella causes pneumonia from contaminated water sources. Neither is a characteristic CF respiratory pathogen.",
+        "D": "S. agalactiae (Group B Streptococcus) is associated with neonatal sepsis and meningitis, not childhood CF infections.",
+        "E": "Pseudomonas colonization predominates in adolescents and adults, not in childhood. While Aspergillus can cause ABPA in CF, it is not the primary pathogen in adult CF lung disease."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "respiratory-infections", "S-aureus", "Pseudomonas", "microbiology"]
+  },
+  {
+    "id": "r14-037",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 14-year-old girl with cystic fibrosis develops easy bruising and prolonged bleeding after a dental extraction. Laboratory studies show PT 22 seconds (normal 11-15), PTT 30 seconds (normal 25-35), and platelet count 240,000/mm3 (normal). Which cause of her coagulopathy is most likely?",
+    "choices": [
+      {"label": "A", "text": "Disseminated intravascular coagulation"},
+      {"label": "B", "text": "Factor VIII deficiency (hemophilia A)"},
+      {"label": "C", "text": "Advanced hepatic synthetic failure"},
+      {"label": "D", "text": "Hypersplenism-induced thrombocytopenia"},
+      {"label": "E", "text": "Vitamin K malabsorption deficiency"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Pancreatic insufficiency in CF causes fat malabsorption, including malabsorption of fat-soluble vitamin K. Vitamin K is essential for the synthesis of coagulation factors II, VII, IX, and X. Deficiency causes prolonged PT because factor VII (extrinsic pathway) has the shortest half-life and is affected first.",
+      "whyCorrect": "In CF, pancreatic duct obstruction leads to exocrine insufficiency and fat malabsorption, including impaired absorption of fat-soluble vitamins (A, D, E, K). Vitamin K is required for gamma-carboxylation of clotting factors II, VII, IX, and X. Because factor VII has the shortest half-life, the PT (which measures the extrinsic pathway) is prolonged first, while the PTT may initially remain normal.",
+      "whyWrongByChoice": {
+        "A": "DIC would cause prolongation of both PT and PTT, along with thrombocytopenia, elevated D-dimer, and decreased fibrinogen. This patient has an isolated prolonged PT.",
+        "B": "Hemophilia A is an X-linked disorder causing factor VIII deficiency, which prolongs the PTT (intrinsic pathway), not the PT. Additionally, it occurs predominantly in males.",
+        "C": "While CF can cause biliary cirrhosis and liver failure could prolong PT, the most common cause in a CF patient with isolated PT prolongation is vitamin K deficiency from malabsorption rather than advanced liver disease.",
+        "D": "Thrombocytopenia from hypersplenism would cause a low platelet count and prolonged bleeding time but would not cause an isolated prolonged PT with a normal PTT."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "vitamin-K", "coagulopathy", "fat-malabsorption"]
+  },
+  {
+    "id": "r14-038",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A geneticist is teaching medical students about the chromosomal location of important disease genes. She asks on which chromosome the CFTR gene responsible for cystic fibrosis is located. Which chromosome is correct?",
+    "choices": [
+      {"label": "A", "text": "Chromosome 4"},
+      {"label": "B", "text": "Chromosome 7"},
+      {"label": "C", "text": "Chromosome 11"},
+      {"label": "D", "text": "Chromosome 15"},
+      {"label": "E", "text": "Chromosome 22"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The CFTR gene is located on the long arm (q) of chromosome 7. Mutations in this gene cause defective chloride transport in epithelial cells, leading to cystic fibrosis.",
+      "whyCorrect": "The cystic fibrosis transmembrane conductance regulator (CFTR) gene is located at 7q31.2 on the long arm of chromosome 7. More than 2000 variants have been identified in this gene, with approximately 300 considered pathogenic.",
+      "whyWrongByChoice": {
+        "A": "Chromosome 4 harbors the gene for Huntington disease (HTT gene) but not the CFTR gene.",
+        "C": "Chromosome 11 contains the beta-globin gene cluster associated with sickle cell disease and beta-thalassemia, not the CFTR gene.",
+        "D": "Chromosome 15 is associated with Prader-Willi syndrome and Angelman syndrome through imprinting defects, not with cystic fibrosis.",
+        "E": "Chromosome 22 is associated with DiGeorge syndrome (22q11.2 deletion) and the Philadelphia chromosome in CML, not with the CFTR gene."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR-gene", "chromosome-7", "genetics"]
+  },
+  {
+    "id": "r14-039",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 3-year-old boy with cystic fibrosis is brought to the emergency department with fever of 39.2C, productive cough, and tachypnea. His mother reports recurrent pneumonias over the past year. Chest X-ray shows a new right lower lobe infiltrate. CT scan also reveals areas of permanent bronchial dilation with wall thickening. Which mechanism best explains why CF patients develop bronchiectasis?",
+    "choices": [
+      {"label": "A", "text": "Chronic inflammation destroying bronchial cartilage"},
+      {"label": "B", "text": "Congenital absence of bronchial cartilage"},
+      {"label": "C", "text": "Excessive surfactant causing alveolar distension"},
+      {"label": "D", "text": "Pulmonary hypertension dilating bronchial arteries"},
+      {"label": "E", "text": "Recurrent pneumothoraces causing airway traction"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In CF, the thick mucus promotes chronic bacterial infection and intense neutrophilic inflammation. Neutrophil-derived proteases (such as elastase) destroy the cartilage and structural proteins of the bronchial walls, causing irreversible dilation and bronchiectasis.",
+      "whyCorrect": "CF is the leading cause of bronchiectasis. The thick, viscous mucus impairs mucociliary clearance, creating a favorable environment for chronic bacterial colonization. This triggers intense neutrophilic inflammation, and neutrophil-derived proteinases (elastase, matrix metalloproteinases) digest the structural proteins of the bronchial walls, destroying the cartilage and causing permanent, irreversible dilation.",
+      "whyWrongByChoice": {
+        "B": "Congenital absence of bronchial cartilage (Williams-Campbell syndrome) is a rare developmental disorder. In CF, the cartilage is present at birth but is progressively destroyed by chronic inflammation.",
+        "C": "Surfactant is produced by type II alveolar cells and maintains alveolar stability. CF does not cause excessive surfactant production, and alveolar distension is not the mechanism of bronchiectasis.",
+        "D": "Pulmonary hypertension may develop as a complication of advanced CF lung disease, but it does not cause bronchial dilation. The bronchial and pulmonary arterial systems are distinct.",
+        "E": "While pneumothorax can occur in CF, recurrent pneumothoraces do not cause traction bronchiectasis. Traction bronchiectasis results from parenchymal fibrosis pulling on airways."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "bronchiectasis", "pathophysiology", "neutrophil-protease"]
+  },
+  {
+    "id": "r14-040",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A physician explains to a patient's family how defective CFTR leads to thick mucus in the lungs. She describes that in normal lung epithelium, CFTR-mediated chloride secretion into the airway lumen draws sodium and water to maintain fluid mucus. In CF, reduced chloride secretion has an immediate ionic consequence. Which consequence occurs first?",
+    "choices": [
+      {"label": "A", "text": "Decreased luminal osmolality pulling water intracellularly"},
+      {"label": "B", "text": "Increased bicarbonate alkalinizing airway surface"},
+      {"label": "C", "text": "Increased sodium secretion into airway lumen"},
+      {"label": "D", "text": "Reduced mucin expression in goblet cells"},
+      {"label": "E", "text": "Aquaporin activation increasing luminal water"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "When CFTR is defective, reduced chloride secretion into the airway lumen decreases extracellular ion concentration and osmolality. The lower extracellular osmolality draws water from the airway lumen into the epithelial cells, dehydrating the mucus and making it thick and viscous.",
+      "whyCorrect": "Normally, CFTR secretes chloride into the airway lumen, and sodium follows down the electrochemical gradient, increasing extracellular osmolality and retaining water in the mucus layer. When CFTR is defective, less chloride enters the lumen, lowering its osmolality. Water then moves osmotically from the lumen into the cells, dehydrating the airway surface liquid and producing the characteristic thick, viscous mucus of CF.",
+      "whyWrongByChoice": {
+        "B": "CFTR also transports bicarbonate, but in CF, bicarbonate secretion is decreased, not increased. Reduced bicarbonate contributes to acidification and further mucus abnormalities.",
+        "C": "Sodium secretion does not increase. In fact, reduced chloride in the lumen decreases the electrical gradient for sodium movement into the lumen, contributing to decreased extracellular osmolality.",
+        "D": "Mucin gene expression in goblet cells is not directly regulated by CFTR chloride secretion. The problem in CF is the dehydration of existing mucus, not reduced mucin production.",
+        "E": "Aquaporin channels facilitate water movement along osmotic gradients. In CF, the reduced extracellular osmolality drives water into cells, away from the lumen, not toward it."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR", "chloride-transport", "pathophysiology"]
+  },
+  {
+    "id": "r14-041",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 28-year-old woman with cystic fibrosis and her partner are planning a family. She has been told she may have difficulty conceiving naturally but is likely still fertile. Her partner does not carry CFTR mutations. Which mechanism primarily reduces natural fertility in women with CF?",
+    "choices": [
+      {"label": "A", "text": "Absence of fallopian tubes"},
+      {"label": "B", "text": "Autoimmune ovarian follicle destruction"},
+      {"label": "C", "text": "Chemotherapy-induced ovarian failure"},
+      {"label": "D", "text": "Thickened cervical mucus blocking sperm"},
+      {"label": "E", "text": "Uterine fibroids obstructing implantation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Women with CF are usually fertile but may have difficulty conceiving because defective CFTR produces thickened cervical mucus that impedes sperm transport through the cervix. Additionally, malnutrition can cause irregular ovulation.",
+      "whyCorrect": "In women with CF, the same defective chloride transport that thickens airway and pancreatic secretions also affects the cervical glands. The resulting thick cervical mucus creates a physical barrier that impedes sperm penetration and transport, reducing the chances of natural conception. Most women with CF are still fertile and can conceive with assisted reproductive techniques.",
+      "whyWrongByChoice": {
+        "A": "Absence of the fallopian tubes is not associated with CF. Congenital bilateral absence of the vas deferens is the male-specific reproductive defect in CF.",
+        "B": "Autoimmune destruction of ovarian follicles causes premature ovarian failure and is not related to CF. CF affects epithelial chloride transport, not ovarian autoimmunity.",
+        "C": "Premature ovarian failure from chemotherapy is iatrogenic and unrelated to CF. While CF patients may receive multiple medications, chemotherapy-induced ovarian failure is not a typical CF complication.",
+        "E": "Uterine fibroids are common benign tumors unrelated to CFTR dysfunction. They are not a recognized complication of cystic fibrosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "female-fertility", "cervical-mucus", "reproductive"]
+  },
+  {
+    "id": "r14-042",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A pediatrician is counseling new parents about newborn screening. They ask how cystic fibrosis was traditionally screened for before DNA mutation panels became widely available. The older screening test measured a pancreatic enzyme precursor that is elevated in the blood of CF neonates. Which serum marker was historically used?",
+    "choices": [
+      {"label": "A", "text": "Alpha-fetoprotein"},
+      {"label": "B", "text": "C-reactive protein"},
+      {"label": "C", "text": "Fecal calprotectin"},
+      {"label": "D", "text": "Immunoreactive trypsinogen"},
+      {"label": "E", "text": "Serum amylase"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Immunoreactive trypsinogen (IRT) is a pancreatic enzyme precursor that was historically used for newborn CF screening. In neonates with CF, pancreatic duct obstruction causes elevated serum IRT levels. This test has largely been replaced by CFTR DNA mutation panels due to the high false-positive rate of IRT.",
+      "whyCorrect": "IRT is released from the pancreas and is elevated in the blood of neonates with CF because thick mucus obstructs pancreatic ducts, causing backflow of pancreatic enzymes into the blood. While IRT was the initial screening test for CF in newborns, its high false-positive rate led to its replacement by more specific CFTR gene mutation panels in most screening programs.",
+      "whyWrongByChoice": {
+        "A": "Alpha-fetoprotein is used in prenatal screening for neural tube defects and Down syndrome and in monitoring hepatocellular carcinoma, not for CF screening.",
+        "B": "C-reactive protein is a nonspecific marker of systemic inflammation used to monitor infections and inflammatory diseases. It is not used for CF screening.",
+        "C": "Fecal calprotectin is a marker of intestinal inflammation used to screen for inflammatory bowel disease. It is not used for cystic fibrosis screening.",
+        "E": "Serum amylase may be elevated in acute pancreatitis but is not used as a newborn screening test for cystic fibrosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "IRT", "newborn-screening", "diagnosis"]
+  },
+  {
+    "id": "r14-043",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A 9-year-old girl with cystic fibrosis develops worsening bone pain, difficulty walking, and bowed legs. Laboratory studies reveal serum calcium 7.2 mg/dL (normal 8.5-10.5), phosphorus 2.1 mg/dL (normal 3.0-4.5), and alkaline phosphatase 680 U/L (normal 100-320). X-rays show widened growth plates with cupping and fraying. Which underlying cause is most likely?",
+    "choices": [
+      {"label": "A", "text": "Copper deficiency from malabsorption"},
+      {"label": "B", "text": "Growth hormone pituitary deficiency"},
+      {"label": "C", "text": "Osteogenesis imperfecta collagen defect"},
+      {"label": "D", "text": "Vitamin C deficiency causing scurvy"},
+      {"label": "E", "text": "Vitamin D deficiency from fat malabsorption"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In CF, pancreatic insufficiency causes fat malabsorption, including malabsorption of fat-soluble vitamin D. Vitamin D deficiency impairs calcium absorption and bone mineralization, leading to rickets in children (bone pain, bowed legs, low calcium and phosphorus, elevated alkaline phosphatase).",
+      "whyCorrect": "Vitamin D is a fat-soluble vitamin that requires pancreatic lipase-mediated fat digestion for absorption. In CF, pancreatic insufficiency causes fat malabsorption and vitamin D deficiency. Without adequate vitamin D, intestinal calcium absorption is impaired, leading to hypocalcemia and rickets in children, characterized by defective bone mineralization, bone pain, and skeletal deformities.",
+      "whyWrongByChoice": {
+        "A": "Copper deficiency can cause osteoporosis and bone abnormalities but typically presents with neutropenia and anemia. It is not a characteristic complication of CF-related malabsorption.",
+        "B": "Growth hormone deficiency causes short stature and delayed bone age but does not cause the laboratory pattern of low calcium, low phosphorus, and elevated alkaline phosphatase seen in rickets.",
+        "C": "Osteogenesis imperfecta is a genetic collagen disorder causing brittle bones and blue sclerae. It is unrelated to CF and does not cause the metabolic bone disease laboratory pattern described.",
+        "D": "Vitamin C deficiency (scurvy) causes impaired collagen synthesis leading to bleeding gums, petechiae, and poor wound healing, not rickets with abnormal calcium and phosphorus metabolism."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "vitamin-D", "rickets", "fat-malabsorption", "bone-disease"]
+  },
+  {
+    "id": "r14-044",
+    "topicId": "cystic-fibrosis-1",
+    "topicName": "Cystic Fibrosis (Part 1)",
+    "stem": "A medical student is reviewing the epidemiology of cystic fibrosis. She learns that the disease has a significantly higher incidence in one population group, with a carrier frequency of approximately 1 in 25 individuals. Which population has the highest prevalence of cystic fibrosis?",
+    "choices": [
+      {"label": "A", "text": "East Asian populations"},
+      {"label": "B", "text": "Central American Hispanic populations"},
+      {"label": "C", "text": "Native American populations"},
+      {"label": "D", "text": "Sub-Saharan African populations"},
+      {"label": "E", "text": "White European-ancestry populations"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Cystic fibrosis is most prevalent in white populations of European ancestry, with a 3- to 10-fold increase in incidence compared to other population groups. The estimated incidence in this group is approximately 1 in 2,000 to 4,000 live births.",
+      "whyCorrect": "CF is most common in individuals of European descent, with the highest carrier frequency (approximately 1 in 25) in Northern European populations. The high prevalence may be related to a heterozygote advantage against certain infections, similar to the relationship between sickle cell trait and malaria resistance.",
+      "whyWrongByChoice": {
+        "A": "CF is rare in East Asian populations, with an estimated incidence of approximately 1 in 30,000 to 1 in 100,000 live births, far lower than in European-descent populations.",
+        "B": "While CF does occur in Hispanic populations, the incidence is lower than in white populations of European ancestry.",
+        "C": "CF is uncommon in Native American populations. The high-prevalence CFTR mutations found in European populations are much less frequent in this group.",
+        "D": "CF is relatively rare in sub-Saharan African populations, with a significantly lower incidence compared to European-descent populations."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "epidemiology", "European-ancestry", "prevalence"]
+  }
+]

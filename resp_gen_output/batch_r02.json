@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r02-001",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 19-year-old college student presents with a 5-day history of nasal congestion, purulent nasal discharge, and facial pressure over the forehead and cheeks. Her temperature is 37.6°C (99.7°F), and she has tenderness to percussion over the left maxillary region. Anterior rhinoscopy reveals mucosal edema with purulent drainage in the area beneath the middle nasal concha. Most paranasal sinuses that are likely involved in this patient's condition drain into which of the following structures?",
+    "choices": [
+      {"label": "A", "text": "Sphenoethmoidal recess"},
+      {"label": "B", "text": "Middle meatus"},
+      {"label": "C", "text": "Superior meatus"},
+      {"label": "D", "text": "Inferior meatus"},
+      {"label": "E", "text": "Nasopharynx directly"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Most paranasal sinuses (maxillary, frontal, and anterior/middle ethmoid) drain into the middle meatus. Obstruction of this area during upper respiratory infections commonly leads to impaired drainage and sinusitis.",
+      "whyCorrect": "The middle meatus receives drainage from the maxillary, frontal, and anterior and middle ethmoid sinuses via the semilunar hiatus and ethmoidal bulla. Since most sinus ostia open here, mucosal swelling in this region during an upper respiratory infection is the primary cause of impaired drainage and sinusitis.",
+      "whyWrongByChoice": {
+        "A": "The sphenoethmoidal recess drains only the sphenoid and posterior ethmoid sinuses, which represent a minority of the paranasal sinuses and are less commonly the primary site of acute sinusitis.",
+        "C": "The superior meatus drains only the posterior ethmoid sinuses, which is a small fraction of the total paranasal sinuses.",
+        "D": "The inferior meatus receives drainage from the nasolacrimal duct, not from any of the paranasal sinuses.",
+        "E": "The paranasal sinuses do not drain directly into the nasopharynx; they drain into the nasal cavity via the meatuses and the sphenoethmoidal recess."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "paranasal-sinuses", "middle-meatus", "sinusitis"]
+  },
+  {
+    "id": "r02-002",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 45-year-old man presents to the emergency department with profuse anterior nasal bleeding that began after forceful nose-blowing. His blood pressure is 148/92 mmHg, and pulse is 88/min. Direct pressure and anterior nasal packing successfully control the hemorrhage. The attending physician explains that this type of epistaxis most commonly originates from a vascular anastomosis on the anterior nasal septum. Which of the following structures is the most likely source?",
+    "choices": [
+      {"label": "A", "text": "Woodruff's plexus"},
+      {"label": "B", "text": "Pharyngeal venous plexus"},
+      {"label": "C", "text": "Pterygoid venous plexus"},
+      {"label": "D", "text": "Kiesselbach plexus"},
+      {"label": "E", "text": "Cavernous sinus tributaries"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The Kiesselbach plexus (Little's area) is an anastomosis of arteries on the anterior nasal septum and is the most common source of anterior epistaxis.",
+      "whyCorrect": "The Kiesselbach plexus is located on the anterior nasal septum and is formed by anastomoses of branches from both the internal and external carotid arteries. Its superficial location and rich vascularity make it the most common site of anterior nosebleeds, which are readily controlled with anterior packing.",
+      "whyWrongByChoice": {
+        "A": "Woodruff's plexus is located in the posterior nasal cavity and is the source of posterior epistaxis, which tends to be more severe but less common than anterior bleeding.",
+        "B": "The pharyngeal venous plexus drains the pharynx into the internal jugular vein. It is not located in the nasal septum and does not cause epistaxis.",
+        "C": "The pterygoid venous plexus is a venous network in the infratemporal fossa that drains the deep face, not the nasal septum.",
+        "E": "The cavernous sinus is an intracranial venous structure lateral to the sella turcica and does not directly contribute to nasal bleeding."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "epistaxis", "kiesselbach-plexus"]
+  },
+  {
+    "id": "r02-003",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 7-year-old boy is brought to his pediatrician for evaluation of recurrent middle ear infections over the past 8 months. Physical examination reveals mouth breathing, hyponasal speech, and bilateral middle ear effusions on pneumatic otoscopy. Lateral neck radiograph demonstrates soft tissue fullness in the nasopharynx consistent with adenoid hypertrophy. The enlarged pharyngeal tonsils are most likely obstructing which of the following tubes?",
+    "choices": [
+      {"label": "A", "text": "Pharyngotympanic tube"},
+      {"label": "B", "text": "Cochlear aqueduct"},
+      {"label": "C", "text": "Nasolacrimal duct"},
+      {"label": "D", "text": "Thoracic duct"},
+      {"label": "E", "text": "Parotid (Stensen's) duct"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The pharyngotympanic (eustachian) tube connects the nasopharynx to the middle ear and allows pressure equalization. Enlarged adenoids can obstruct its nasopharyngeal opening, leading to impaired drainage and recurrent otitis media.",
+      "whyCorrect": "The pharyngotympanic tube opens into the posterior nasopharynx and communicates with the middle ear. Enlarged pharyngeal tonsils (adenoids) can obstruct this opening, preventing pressure equalization and mucociliary drainage, which predisposes to middle ear fluid accumulation and recurrent infections.",
+      "whyWrongByChoice": {
+        "C": "The nasolacrimal duct drains tears from the eye into the inferior meatus of the nasal cavity and has no connection to the middle ear.",
+        "B": "The cochlear aqueduct connects the perilymphatic space of the inner ear to the subarachnoid space and is not the conduit between the nasopharynx and middle ear.",
+        "D": "The thoracic duct is part of the lymphatic system, draining lymph into the left subclavian vein, and has no connection to the nasopharynx or middle ear.",
+        "E": "The parotid duct drains saliva from the parotid gland into the oral cavity opposite the second upper molar and is unrelated to the nasopharynx."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "nasopharynx", "eustachian-tube", "otitis-media", "adenoids"]
+  },
+  {
+    "id": "r02-004",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 60-year-old woman undergoes a total thyroidectomy for papillary thyroid carcinoma. On postoperative day one, she develops persistent hoarseness and a breathy voice quality. Laryngoscopy reveals the left vocal cord fixed in the paramedian position with absent abduction. Which of the following nerves was most likely injured during the procedure?",
+    "choices": [
+      {"label": "A", "text": "Recurrent laryngeal nerve"},
+      {"label": "B", "text": "External superior laryngeal nerve"},
+      {"label": "C", "text": "Internal superior laryngeal nerve"},
+      {"label": "D", "text": "Glossopharyngeal nerve"},
+      {"label": "E", "text": "Hypoglossal nerve"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The recurrent laryngeal nerve innervates all intrinsic laryngeal muscles except the cricothyroid, including the posterior cricoarytenoid, the only muscle that abducts the vocal folds. Damage causes vocal cord paralysis and hoarseness.",
+      "whyCorrect": "The recurrent laryngeal nerve supplies motor innervation to all intrinsic laryngeal muscles except the cricothyroid. It runs in the tracheoesophageal groove close to the thyroid gland, making it vulnerable during thyroidectomy. Injury causes paralysis of the vocal cord, including loss of abduction, resulting in hoarseness.",
+      "whyWrongByChoice": {
+        "B": "The external branch of the superior laryngeal nerve innervates only the cricothyroid muscle for pitch control. Its injury causes subtle voice changes but not vocal cord paralysis or inability to abduct.",
+        "C": "The internal branch of the superior laryngeal nerve is purely sensory, providing sensation to the laryngeal mucosa above the vocal folds. Its injury would impair the cough reflex but not cause vocal cord paralysis.",
+        "D": "The glossopharyngeal nerve (CN IX) provides sensory and motor innervation to the pharynx and does not innervate the intrinsic muscles of the larynx.",
+        "E": "The hypoglossal nerve (CN XII) innervates the tongue muscles and has no role in vocal cord movement."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "recurrent-laryngeal-nerve", "vocal-cord-paralysis"]
+  },
+  {
+    "id": "r02-005",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 72-year-old man presents with progressive dysphagia to solids over the past year, regurgitation of undigested food several hours after meals, and persistent halitosis. A barium swallow study reveals a posterior midline outpouching at the junction of the inferior pharyngeal constrictor and cricopharyngeus muscle. The swallowed barium pools within this pouch. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Tracheoesophageal fistula"},
+      {"label": "B", "text": "Thyroglossal duct cyst"},
+      {"label": "C", "text": "Branchial cleft cyst"},
+      {"label": "D", "text": "Laryngocele"},
+      {"label": "E", "text": "Zenker diverticulum"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "A Zenker diverticulum is a pharyngeal pouch that forms when the pharyngeal mucosa herniates through Killian's triangle at the junction of the inferior pharyngeal constrictor and cricopharyngeus muscle. It causes dysphagia, food trapping, and halitosis.",
+      "whyCorrect": "Zenker diverticulum forms at Killian's triangle, a weak point between the inferior pharyngeal constrictor and the cricopharyngeus muscle. Increased pharyngeal pressure from muscle spasm or incomplete relaxation causes mucosal herniation. The outpouching traps food, causing dysphagia, regurgitation, and foul breath.",
+      "whyWrongByChoice": {
+        "A": "A tracheoesophageal fistula is an abnormal connection between the trachea and esophagus, typically congenital, and does not present as a pharyngeal outpouching.",
+        "B": "A thyroglossal duct cyst is a midline neck mass from a persistent thyroglossal duct and is not a posterior pharyngeal pouch.",
+        "C": "Branchial cleft cysts are congenital remnants of the branchial apparatus presenting as lateral neck masses, not posterior pharyngeal pouches.",
+        "D": "A laryngocele is an abnormal dilation of the laryngeal ventricle presenting as a neck mass, not a posterior pharyngeal outpouching with food trapping."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "laryngopharynx", "zenker-diverticulum", "pharyngeal-constrictors"]
+  },
+  {
+    "id": "r02-006",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 32-year-old woman presents with excessive tearing and nasal congestion during an emotional counseling session. She notes that her nose runs whenever she cries. The physician explains that tears produced in the lacrimal gland drain through the nasolacrimal duct, which opens into the nasal cavity at a specific location. Which of the following is the drainage site of this duct?",
+    "choices": [
+      {"label": "A", "text": "Middle meatus"},
+      {"label": "B", "text": "Inferior meatus"},
+      {"label": "C", "text": "Sphenoethmoidal recess"},
+      {"label": "D", "text": "Superior meatus"},
+      {"label": "E", "text": "Posterior nasopharynx"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The nasolacrimal duct drains tears from the medial aspect of the eye into the inferior meatus of the nasal cavity. This is why crying produces a runny nose.",
+      "whyCorrect": "The nasolacrimal duct opens into the inferior meatus beneath the inferior nasal concha. When tear production exceeds the duct's capacity during crying, excess fluid drains into the nasal cavity, producing rhinorrhea.",
+      "whyWrongByChoice": {
+        "A": "The middle meatus receives drainage from the maxillary, frontal, and anterior/middle ethmoid sinuses, not from the nasolacrimal duct.",
+        "C": "The sphenoethmoidal recess drains the sphenoid and posterior ethmoid sinuses and has no connection to the lacrimal apparatus.",
+        "D": "The superior meatus drains the posterior ethmoid sinuses. The nasolacrimal duct does not open at this level.",
+        "E": "The nasopharynx lies posterior to the nasal cavity and does not receive direct drainage from the nasolacrimal duct."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "nasolacrimal-duct", "inferior-meatus"]
+  },
+  {
+    "id": "r02-007",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 35-year-old woman presents to the neurology clinic with anosmia following a motor vehicle accident 2 weeks ago in which she sustained frontal head trauma. CT of the head reveals a fracture through the cribriform plate with disruption of the fine nerve filaments passing through it. This plate belongs to which of the following bones?",
+    "choices": [
+      {"label": "A", "text": "Frontal bone"},
+      {"label": "B", "text": "Sphenoid bone"},
+      {"label": "C", "text": "Ethmoid bone"},
+      {"label": "D", "text": "Maxilla"},
+      {"label": "E", "text": "Vomer"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The olfactory nerve (CN I) fibers pass through the cribriform plate of the ethmoid bone to reach the olfactory epithelium at the roof of the nasal cavity. Trauma can shear these fibers, causing anosmia.",
+      "whyCorrect": "The ethmoid bone forms portions of the roof, medial, and lateral walls of the nasal cavity. Its cribriform plate contains small perforations through which olfactory nerve (CN I) fibers pass from the nasal mucosa to the olfactory bulb. Head trauma can fracture this plate and damage the delicate nerve filaments.",
+      "whyWrongByChoice": {
+        "A": "The frontal bone forms the anterior portion of the roof of the nasal cavity and contains the frontal sinuses, but the olfactory nerve does not pass through it.",
+        "B": "The sphenoid bone forms the posterior roof of the nasal cavity and contains the sphenoid sinuses. The cribriform plate belongs to the ethmoid, not the sphenoid.",
+        "D": "The maxilla forms the floor and part of the lateral wall of the nasal cavity. It does not contain openings for the olfactory nerve.",
+        "E": "The vomer is part of the nasal septum and does not contain perforations for olfactory nerve fibers."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "olfactory-nerve", "ethmoid-bone"]
+  },
+  {
+    "id": "r02-008",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 16-year-old girl presents with a 3-day history of sore throat, fever of 38.5°C (101.3°F), and painful swallowing. On physical examination using a tongue depressor, the physician observes two enlarged, erythematous masses of lymphatic tissue flanking the posterior oropharynx bilaterally with exudates on their surfaces. Rapid streptococcal antigen test is positive. Which of the following structures are most likely inflamed?",
+    "choices": [
+      {"label": "A", "text": "Pharyngeal tonsils"},
+      {"label": "B", "text": "Lingual tonsils"},
+      {"label": "C", "text": "Tubal tonsils"},
+      {"label": "D", "text": "Palatine tonsils"},
+      {"label": "E", "text": "Peyer patches"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The palatine tonsils are lymphatic tissue collections located bilaterally in the posterior oropharynx. They are the most commonly infected tonsils in clinical practice, visible on routine throat examination, and the site of typical tonsillitis.",
+      "whyCorrect": "The palatine tonsils sit in the tonsillar fossae on each side of the oropharynx and are readily visible on oral examination. They are the most commonly referenced tonsils and frequently become inflamed (tonsillitis), especially in the setting of group A streptococcal infection.",
+      "whyWrongByChoice": {
+        "A": "Pharyngeal tonsils (adenoids) are located on the posterior wall of the nasopharynx, above the soft palate, and are not visible on routine oral examination.",
+        "B": "Lingual tonsils are located on the posterior surface of the tongue base and are not the paired lateral masses seen flanking the oropharynx.",
+        "C": "Tubal tonsils are small collections of lymphoid tissue near the opening of the pharyngotympanic tube in the nasopharynx and are not visible on routine throat exam.",
+        "E": "Peyer patches are lymphoid aggregates in the ileum of the small intestine and are not found in the pharynx."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "oropharynx", "palatine-tonsils"]
+  },
+  {
+    "id": "r02-009",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 50-year-old man is brought to the emergency department after a piece of steak lodged in his throat while eating dinner, causing acute airway obstruction that was relieved by the Heimlich maneuver. The physician explains that during normal swallowing, a cartilaginous flap covers the laryngeal inlet to prevent aspiration. This structure is attached superiorly to which of the following?",
+    "choices": [
+      {"label": "A", "text": "Thyroid cartilage"},
+      {"label": "B", "text": "Cricoid cartilage"},
+      {"label": "C", "text": "Arytenoid cartilage"},
+      {"label": "D", "text": "Hyoid bone"},
+      {"label": "E", "text": "First tracheal ring"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The epiglottis is a cartilaginous flap at the top of the larynx that folds backward during swallowing to prevent aspiration. It is attached to the hyoid bone superiorly and to the thyroid cartilage inferiorly via the thyroepiglottic ligament.",
+      "whyCorrect": "The epiglottis is connected to the hyoid bone superiorly and to the thyroid cartilage inferiorly by the thyroepiglottic ligament. During swallowing, surrounding muscles elevate the larynx and the epiglottis folds back over the laryngeal inlet to prevent food from entering the airway.",
+      "whyWrongByChoice": {
+        "A": "The thyroid cartilage is connected to the epiglottis inferiorly via the thyroepiglottic ligament, but the superior attachment is to the hyoid bone.",
+        "B": "The cricoid cartilage is a complete ring at the inferior border of the larynx and is not directly attached to the epiglottis.",
+        "C": "The arytenoid cartilages are paired cartilages to which the vocal cords attach and are not directly connected to the epiglottis.",
+        "E": "The first tracheal ring is below the larynx and has no direct connection to the epiglottis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "epiglottis", "hyoid-bone"]
+  },
+  {
+    "id": "r02-010",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 28-year-old professional soprano notices that she can no longer reach her highest notes 3 weeks after undergoing a parathyroidectomy. Her speaking voice sounds normal, and laryngoscopy shows bilateral vocal cord mobility. The surgeon suspects injury to the external branch of the superior laryngeal nerve. Which of the following muscles is innervated exclusively by this nerve?",
+    "choices": [
+      {"label": "A", "text": "Posterior cricoarytenoid"},
+      {"label": "B", "text": "Cricothyroid muscle"},
+      {"label": "C", "text": "Lateral cricoarytenoid"},
+      {"label": "D", "text": "Thyroarytenoid muscle"},
+      {"label": "E", "text": "Transverse arytenoid"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The cricothyroid muscle is innervated by the external branch of the superior laryngeal nerve and is responsible for tensing the vocal cords to produce high-pitched sounds. Injury to this nerve impairs the ability to hit high notes.",
+      "whyCorrect": "The external branch of the superior laryngeal nerve is the sole motor supply to the cricothyroid muscle, which tenses and elongates the vocal cords for pitch control. Damage to this nerve causes an inability to produce high-pitched sounds, particularly noticeable in singers.",
+      "whyWrongByChoice": {
+        "A": "The posterior cricoarytenoid is the only vocal fold abductor, innervated by the recurrent laryngeal nerve. Its injury causes vocal cord paralysis, not isolated pitch changes.",
+        "C": "The lateral cricoarytenoid adducts the vocal folds and is innervated by the recurrent laryngeal nerve, not the external superior laryngeal nerve.",
+        "D": "The thyroarytenoid relaxes the vocal cords and is innervated by the recurrent laryngeal nerve. Its injury would not specifically impair high-pitched voice production.",
+        "E": "The transverse arytenoid adducts the vocal folds and is innervated by the recurrent laryngeal nerve. Its damage would affect cord closure, not pitch."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "superior-laryngeal-nerve", "cricothyroid", "pitch"]
+  },
+  {
+    "id": "r02-011",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 42-year-old man with complete upper airway obstruction from laryngeal edema requires an emergency cricothyrotomy. The surgeon makes an incision through the cricothyroid membrane between the thyroid and cricoid cartilages. A medical student asks about the laryngeal cartilage framework. Which of the following correctly lists the three unpaired laryngeal cartilages?",
+    "choices": [
+      {"label": "A", "text": "Epiglottis, thyroid, cricoid"},
+      {"label": "B", "text": "Epiglottis, arytenoid, corniculate"},
+      {"label": "C", "text": "Thyroid, cricoid, arytenoid"},
+      {"label": "D", "text": "Thyroid, arytenoid, cuneiform"},
+      {"label": "E", "text": "Cricoid, corniculate, cuneiform"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The three unpaired laryngeal cartilages are the epiglottis, thyroid cartilage, and cricoid cartilage. The paired cartilages are the arytenoid, corniculate, and cuneiform.",
+      "whyCorrect": "The larynx has three midline unpaired cartilages: the epiglottis (superior flap that protects the airway), the thyroid cartilage (forming the anterior wall with the laryngeal prominence), and the cricoid cartilage (a complete ring at the inferior border). The arytenoid, corniculate, and cuneiform cartilages are all paired.",
+      "whyWrongByChoice": {
+        "C": "The arytenoid cartilages are paired structures providing attachment for the vocal cords. This choice incorrectly includes a paired cartilage while omitting the epiglottis.",
+        "B": "Both the arytenoid and corniculate cartilages are paired structures. Only the epiglottis in this list is unpaired.",
+        "D": "The arytenoid and cuneiform cartilages are both paired. Only the thyroid cartilage in this list is unpaired.",
+        "E": "The corniculate and cuneiform cartilages are both paired. Only the cricoid cartilage in this list is unpaired."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "cartilages", "cricothyrotomy"]
+  },
+  {
+    "id": "r02-012",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 38-year-old woman presents with 5 days of facial pain and purulent nasal discharge. CT of the sinuses shows opacification of the left maxillary sinus with an air-fluid level. The radiologist notes that this sinus is particularly susceptible to impaired drainage because of a specific anatomic feature of its connection to the nasal cavity. Which of the following best explains the poor drainage of this sinus?",
+    "choices": [
+      {"label": "A", "text": "Ostium opens into inferior meatus"},
+      {"label": "B", "text": "No direct nasal cavity connection"},
+      {"label": "C", "text": "Ostium located high on medial wall"},
+      {"label": "D", "text": "Smallest ostium of all sinuses"},
+      {"label": "E", "text": "Most posterior sinus location"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The maxillary sinus is the largest paranasal sinus, but its drainage ostium is located high on the medial wall, making gravity-dependent drainage inefficient and more easily impaired by mucosal swelling.",
+      "whyCorrect": "The maxillary sinus ostium is positioned high on the medial wall of the sinus cavity. This means the sinus must fill significantly before fluid reaches the ostium level for drainage, making it susceptible to impaired drainage and recurrent infection, especially when mucosal edema narrows the opening.",
+      "whyWrongByChoice": {
+        "A": "The maxillary sinus drains into the middle meatus via the semilunar hiatus, not the inferior meatus. The inferior meatus receives the nasolacrimal duct.",
+        "B": "The maxillary sinus has a direct connection to the nasal cavity via its ostium opening into the middle meatus.",
+        "D": "The size of the ostium is not the primary reason for poor drainage. The high position of the ostium relative to the sinus floor is the key anatomic issue.",
+        "E": "The maxillary sinus is located in the cheek. The sphenoid sinus is the most posterior paranasal sinus."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "paranasal-sinuses", "maxillary-sinus", "sinusitis"]
+  },
+  {
+    "id": "r02-013",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 58-year-old man presents with a 3-week history of progressive facial numbness. Neurologic examination reveals absent sensation to light touch and pinprick over the nasal septum, lateral nasal walls, and bilateral cheeks. Corneal reflex is absent bilaterally. MRI of the brain reveals a mass in Meckel's cave. Which cranial nerve is most likely affected by this lesion?",
+    "choices": [
+      {"label": "A", "text": "Olfactory nerve (CN I)"},
+      {"label": "B", "text": "Facial nerve (CN VII)"},
+      {"label": "C", "text": "Glossopharyngeal nerve (CN IX)"},
+      {"label": "D", "text": "Vagus nerve (CN X)"},
+      {"label": "E", "text": "Trigeminal nerve (CN V)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Sensory innervation of the nasal cavity comes from branches of the trigeminal nerve (CN V). The ophthalmic division (V1) innervates the superior nasal septum and lateral walls, while the maxillary division (V2) innervates the posteroinferior nasal mucosa and cheeks.",
+      "whyCorrect": "The trigeminal nerve (CN V) provides general sensory innervation to the nasal cavity via its ophthalmic (V1) and maxillary (V2) divisions. It also mediates the afferent limb of the corneal reflex. A mass in Meckel's cave (trigeminal ganglion location) explains all findings: facial numbness and absent corneal reflexes.",
+      "whyWrongByChoice": {
+        "A": "CN I provides special sensory innervation for olfaction (smell) only, not general sensation such as touch, pain, or temperature.",
+        "B": "The facial nerve (CN VII) provides motor innervation to facial expression muscles and taste to the anterior tongue. It does not provide sensory innervation to the nasal cavity.",
+        "C": "The glossopharyngeal nerve (CN IX) innervates the pharynx and posterior tongue, not the nasal cavity or face.",
+        "D": "The vagus nerve (CN X) provides innervation to the larynx and pharynx, not general sensation to the nasal cavity or face."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "trigeminal-nerve", "innervation"]
+  },
+  {
+    "id": "r02-014",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 22-year-old man presents to the emergency department after being struck in the nose during a basketball game. CT scan reveals a fracture of the anterior nasal septum. During the anatomy review, the resident explains that the nasal septum is formed by three structural components: two bony and one cartilaginous. Which of the following correctly lists all three components?",
+    "choices": [
+      {"label": "A", "text": "Vomer, ethmoid plate, septal cartilage"},
+      {"label": "B", "text": "Maxilla, inferior concha, septal cartilage"},
+      {"label": "C", "text": "Frontal bone, sphenoid, vomer"},
+      {"label": "D", "text": "Palatine, vomer, nasal bone"},
+      {"label": "E", "text": "Ethmoid plate, nasal bone, frontal bone"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The nasal septum divides the nasal cavity into right and left halves. It has two bony components (vomer and perpendicular plate of the ethmoid) and one cartilaginous component (septal/quadrangular cartilage) that forms most of the anterior portion.",
+      "whyCorrect": "The nasal septum is composed of the vomer inferoposteriorly, the perpendicular plate of the ethmoid superiorly, and septal cartilage anteriorly. The cartilaginous component occupies most of the anterior nasal septum and is the part most vulnerable to traumatic fracture.",
+      "whyWrongByChoice": {
+        "B": "The maxilla forms the floor of the nasal cavity, and the inferior nasal concha is a turbinate on the lateral wall. Neither is a component of the nasal septum.",
+        "C": "The frontal bone forms the anterior roof, and the sphenoid bone forms the posterior roof of the nasal cavity. Neither is a primary septal component.",
+        "D": "The palatine bone contributes to the nasal floor, and the nasal bones form the external bridge of the nose. Neither is a primary component of the septum.",
+        "E": "The nasal bones form the external bridge of the nose, and the frontal bone forms the skull. Neither contributes to the nasal septum."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "nasal-septum"]
+  },
+  {
+    "id": "r02-015",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 68-year-old man is undergoing endotracheal intubation for elective surgery. The anesthesiologist notes that the vocal cords are not abducting properly, making visualization of the glottic opening difficult. Nerve conduction studies later confirm bilateral weakness of the sole intrinsic laryngeal muscle responsible for vocal fold abduction. Which of the following muscles is affected?",
+    "choices": [
+      {"label": "A", "text": "Cricothyroid muscle"},
+      {"label": "B", "text": "Lateral cricoarytenoid"},
+      {"label": "C", "text": "Posterior cricoarytenoid"},
+      {"label": "D", "text": "Transverse arytenoid"},
+      {"label": "E", "text": "Thyroarytenoid muscle"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The posterior cricoarytenoid is the only intrinsic laryngeal muscle that abducts the vocal folds, making it essential for opening the airway during respiration and intubation.",
+      "whyCorrect": "The posterior cricoarytenoid muscles are the sole abductors of the vocal folds. They rotate the arytenoid cartilages laterally to separate the vocal cords, widening the rima glottidis for airflow. Bilateral paralysis of these muscles can cause life-threatening airway obstruction.",
+      "whyWrongByChoice": {
+        "A": "The cricothyroid muscle tenses the vocal cords by tilting the thyroid cartilage forward, increasing pitch. It does not abduct the vocal folds.",
+        "B": "The lateral cricoarytenoid adducts (closes) the vocal folds, which is the opposite of abduction.",
+        "D": "The transverse arytenoid adducts the vocal folds by bringing the arytenoid cartilages together. It does not abduct.",
+        "E": "The thyroarytenoid relaxes and shortens the vocal cords. It does not abduct the vocal folds."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "posterior-cricoarytenoid", "vocal-fold-abduction"]
+  },
+  {
+    "id": "r02-016",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 22-year-old woman presents with a 4-day history of severe sore throat, odynophagia, and fever of 39.0°C (102.2°F). On examination, her palatine tonsils are enlarged, erythematous, and covered with purulent exudate. She is scheduled for tonsillectomy after recurrent infections. The surgeon warns about potential significant hemorrhage because the primary blood supply to these tonsils comes from a branch of which artery?",
+    "choices": [
+      {"label": "A", "text": "Ascending pharyngeal artery"},
+      {"label": "B", "text": "Internal carotid artery"},
+      {"label": "C", "text": "Facial artery branches"},
+      {"label": "D", "text": "Lingual artery"},
+      {"label": "E", "text": "Superior thyroid artery"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The oropharynx and its palatine tonsils are primarily supplied by branches of the facial artery, including the tonsillar artery and ascending palatine artery. This is clinically important during tonsillectomy.",
+      "whyCorrect": "The main arterial supply to the palatine tonsils is from the tonsillar branch and ascending palatine branch of the facial artery (a branch of the external carotid artery). Knowledge of this blood supply is critical during tonsillectomy, as these vessels can cause significant bleeding if not properly controlled.",
+      "whyWrongByChoice": {
+        "A": "The ascending pharyngeal artery primarily supplies the nasopharynx and is not the primary supply to the palatine tonsils.",
+        "B": "The internal carotid artery does not give off branches in the neck. It ascends directly to supply the brain and orbit.",
+        "D": "The lingual artery supplies the tongue. While anatomically nearby, it is not the primary supply to the palatine tonsils.",
+        "E": "The superior thyroid artery supplies the thyroid gland and parts of the larynx, not the palatine tonsils."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "oropharynx", "palatine-tonsils", "facial-artery"]
+  },
+  {
+    "id": "r02-017",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 4-year-old girl is seen by her pediatrician for nasal regurgitation of liquids during swallowing. The physician explains that during normal swallowing, the soft palate and uvula elevate to seal off the space above from the space below. These structures form the anatomic boundary between which two pharyngeal regions?",
+    "choices": [
+      {"label": "A", "text": "Nasopharynx and oropharynx"},
+      {"label": "B", "text": "Oropharynx and laryngopharynx"},
+      {"label": "C", "text": "Nasopharynx and laryngopharynx"},
+      {"label": "D", "text": "Oral cavity and nasopharynx"},
+      {"label": "E", "text": "Laryngopharynx and esophagus"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The soft palate (with the uvula at its posterior tip) forms the boundary between the nasopharynx superiorly and the oropharynx inferiorly. During swallowing, the soft palate elevates to close off the nasopharynx and prevent nasal regurgitation.",
+      "whyCorrect": "The nasopharynx is separated from the oropharynx at the level of the soft palate and uvula. The nasopharynx lies above the soft palate, and the oropharynx lies below it. During swallowing, elevation of the soft palate prevents food from entering the nasopharynx and nasal cavity.",
+      "whyWrongByChoice": {
+        "B": "The boundary between the oropharynx and laryngopharynx is at the level of the epiglottis and hyoid bone, not the soft palate.",
+        "C": "The nasopharynx and laryngopharynx are not directly adjacent; the oropharynx lies between them.",
+        "D": "The oral cavity is anterior to the oropharynx. The soft palate separates the nasopharynx from the oropharynx, not from the oral cavity.",
+        "E": "The boundary between the laryngopharynx and esophagus is at the level of the cricoid cartilage (C6), not the soft palate."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "pharynx", "soft-palate", "nasopharynx", "oropharynx"]
+  },
+  {
+    "id": "r02-018",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 55-year-old man undergoes laryngoscopy for evaluation of chronic cough. The otolaryngologist touches the mucosa above the vocal folds, which triggers an immediate cough reflex. The sensory limb of this reflex is mediated by the internal branch of the superior laryngeal nerve. This nerve is a branch of which cranial nerve?",
+    "choices": [
+      {"label": "A", "text": "Trigeminal (CN V)"},
+      {"label": "B", "text": "Glossopharyngeal (CN IX)"},
+      {"label": "C", "text": "Hypoglossal (CN XII)"},
+      {"label": "D", "text": "Accessory (CN XI)"},
+      {"label": "E", "text": "Vagus (CN X)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The superior laryngeal nerve is a branch of the vagus nerve (CN X). Its internal branch provides sensory innervation to the laryngeal mucosa above the vocal folds, enabling protective reflexes like coughing.",
+      "whyCorrect": "The vagus nerve (CN X) gives off the superior laryngeal nerve, which divides into internal and external branches. The internal branch is sensory to the supraglottic mucosa and mediates the afferent limb of the cough reflex when this area is stimulated. The external branch is motor to the cricothyroid.",
+      "whyWrongByChoice": {
+        "A": "The trigeminal nerve (CN V) provides sensory innervation to the face and nasal cavity, not the larynx.",
+        "B": "The glossopharyngeal nerve (CN IX) innervates the pharynx and posterior tongue but does not supply the laryngeal mucosa.",
+        "D": "The accessory nerve (CN XI) provides motor innervation to the sternocleidomastoid and trapezius muscles and has no sensory laryngeal function.",
+        "C": "The hypoglossal nerve (CN XII) provides motor innervation to the tongue and has no role in laryngeal sensation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "vagus-nerve", "superior-laryngeal-nerve"]
+  },
+  {
+    "id": "r02-019",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 40-year-old man on anticoagulation therapy presents with severe posterior epistaxis that is not controlled by anterior nasal packing. An ENT specialist performs posterior packing and explains that the bleeding most likely originates from a vascular plexus in the posterior nasal cavity supplied primarily by the sphenopalatine artery. Which of the following is this vascular structure?",
+    "choices": [
+      {"label": "A", "text": "Woodruff's plexus"},
+      {"label": "B", "text": "Anterior ethmoidal artery"},
+      {"label": "C", "text": "Kiesselbach plexus"},
+      {"label": "D", "text": "Ophthalmic artery branches"},
+      {"label": "E", "text": "Facial artery branches"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Woodruff's plexus is a vascular network in the posterior nasal cavity, primarily supplied by the sphenopalatine and ascending pharyngeal arteries. It is the most common source of posterior epistaxis.",
+      "whyCorrect": "Posterior nosebleeds typically originate from Woodruff's plexus in the posterior nasal cavity, primarily fed by the sphenopalatine artery. These bleeds tend to be more severe than anterior epistaxis and are not controlled by anterior packing alone, often requiring posterior packing or arterial embolization.",
+      "whyWrongByChoice": {
+        "C": "The Kiesselbach plexus is located on the anterior nasal septum and is the source of the more common anterior epistaxis, not posterior bleeding.",
+        "B": "The anterior ethmoidal artery supplies the anterior-superior nasal cavity and is not the primary source of typical posterior epistaxis.",
+        "D": "The ophthalmic artery supplies the orbit and provides branches to the ethmoid sinuses. It is not the primary source of posterior nasal bleeding.",
+        "E": "The facial artery supplies the face and oropharynx. It is not a direct source of posterior nasal bleeding."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "nasal-cavity", "epistaxis", "woodruff-plexus"]
+  },
+  {
+    "id": "r02-020",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 62-year-old man with a 40-pack-year smoking history presents with progressive hoarseness over 3 months. The otolaryngologist performs direct laryngoscopy and identifies a mass on the left vocal cord. She explains the three anatomic regions of the larynx to the patient while discussing staging. From superior to inferior, these regions are the:",
+    "choices": [
+      {"label": "A", "text": "Glottis, supraglottis, subglottis"},
+      {"label": "B", "text": "Subglottis, glottis, supraglottis"},
+      {"label": "C", "text": "Supraglottis, subglottis, glottis"},
+      {"label": "D", "text": "Supraglottis, glottis, subglottis"},
+      {"label": "E", "text": "Glottis, subglottis, supraglottis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The larynx is divided into three regions from superior to inferior: the supraglottis (from the epiglottis to above the vocal cords), the glottis (containing the vocal cords), and the subglottis (from below the vocal cords to the inferior border of the cricoid cartilage).",
+      "whyCorrect": "The supraglottis extends from the epiglottis to just above the vocal cords, the glottis contains the vocal cords and rima glottidis, and the subglottis extends from below the vocal cords to the inferior border of the cricoid cartilage where the trachea begins. This ordering is important for staging laryngeal cancer.",
+      "whyWrongByChoice": {
+        "A": "This places the glottis first, but the supraglottis ('supra' meaning above) is the most superior region.",
+        "B": "This lists the regions in reverse order (inferior to superior), not the correct superior to inferior sequence.",
+        "C": "This incorrectly places the subglottis between the supraglottis and glottis. The glottis lies between the other two regions.",
+        "E": "This places the glottis first. The supraglottis is superior to the glottis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "larynx", "supraglottis", "glottis", "subglottis"]
+  },
+  {
+    "id": "r02-021",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 55-year-old man with a history of head and neck radiation for squamous cell carcinoma presents with progressive difficulty swallowing and a sensation of food sticking in his throat. Neurologic examination reveals absent gag reflex and diminished sensation in the oropharynx and laryngopharynx bilaterally. The sensory innervation to these two pharyngeal regions is primarily from which pair of cranial nerves?",
+    "choices": [
+      {"label": "A", "text": "CN V and CN VII"},
+      {"label": "B", "text": "CN IX and CN X"},
+      {"label": "C", "text": "CN VII and CN XII"},
+      {"label": "D", "text": "CN V and CN XII"},
+      {"label": "E", "text": "CN X and CN XII"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The oropharynx receives sensory innervation from the glossopharyngeal nerve (CN IX), while the laryngopharynx receives sensory innervation from both CN IX and the vagus nerve (CN X) via the pharyngeal plexus.",
+      "whyCorrect": "CN IX (glossopharyngeal) provides sensory innervation to the oropharynx and mediates the afferent limb of the gag reflex. Both CN IX and CN X (vagus) contribute sensory fibers to the laryngopharynx via the pharyngeal plexus. Together, they supply sensory innervation to both regions.",
+      "whyWrongByChoice": {
+        "A": "CN V (trigeminal) provides sensory innervation to the nasal cavity and part of the nasopharynx. CN VII (facial) does not innervate the oropharynx or laryngopharynx.",
+        "C": "CN VII (facial) does not innervate the pharynx, and CN XII (hypoglossal) is a motor nerve to the tongue with no sensory pharyngeal function.",
+        "D": "CN V innervates the nasal cavity and face, and CN XII is a pure motor nerve. Neither provides sensation to the oropharynx or laryngopharynx.",
+        "E": "CN XII (hypoglossal) is a motor nerve to the tongue. While CN X contributes to laryngopharyngeal sensation, CN XII does not provide any sensory innervation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "pharynx", "innervation", "glossopharyngeal", "vagus"]
+  },
+  {
+    "id": "r02-022",
+    "topicId": "anatomy-upper-respiratory-tract",
+    "topicName": "Anatomy of the Upper Respiratory Tract",
+    "stem": "A 44-year-old woman with chronic sinusitis undergoes CT imaging that reveals opacification of her bilateral maxillary sinuses, which the radiologist describes as the largest of the paranasal sinuses. She also has mucosal thickening in the frontal and ethmoid sinuses. Which of the following is the largest paranasal sinus?",
+    "choices": [
+      {"label": "A", "text": "Frontal sinus"},
+      {"label": "B", "text": "Ethmoid sinus"},
+      {"label": "C", "text": "Maxillary sinus"},
+      {"label": "D", "text": "Sphenoid sinus"},
+      {"label": "E", "text": "Mastoid air cells"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The maxillary sinus, located within the maxilla beneath the orbit, is the largest of the four paired paranasal sinuses.",
+      "whyCorrect": "The maxillary sinus is the largest paranasal sinus, located in the body of the maxilla beneath the orbital floor and lateral to the nasal cavity. Despite being the largest, it drains poorly due to the high position of its ostium on the medial wall, predisposing it to infection.",
+      "whyWrongByChoice": {
+        "A": "The frontal sinuses are located in the frontal bone above the orbits and are smaller than the maxillary sinuses.",
+        "B": "The ethmoid sinuses are a collection of small air cells within the ethmoid bone, individually and collectively smaller than the maxillary sinuses.",
+        "D": "The sphenoid sinuses are located within the sphenoid bone and are smaller than the maxillary sinuses.",
+        "E": "The mastoid air cells are located in the temporal bone and are not classified as paranasal sinuses."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "paranasal-sinuses", "maxillary-sinus"]
+  },
+  {
+    "id": "r02-023",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 3-year-old child is brought to the emergency department after aspirating a small plastic bead while playing. Chest radiograph reveals a radiopaque object in the right lung field. The pediatrician explains to the parents that aspirated foreign bodies preferentially lodge on the right side due to a specific anatomic feature of the right main bronchus. Which of the following best describes this feature?",
+    "choices": [
+      {"label": "A", "text": "Longer than the left bronchus"},
+      {"label": "B", "text": "More cartilage support present"},
+      {"label": "C", "text": "Wider with narrower branch angle"},
+      {"label": "D", "text": "Connects directly to middle lobe"},
+      {"label": "E", "text": "Lacks posterior trachealis muscle"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The right main bronchus is wider in diameter and branches from the trachea at a narrower (more vertical) angle than the left, creating a more direct pathway for aspirated objects.",
+      "whyCorrect": "The right main bronchus has a larger diameter and a more vertical course (narrower angle of departure from the trachea) than the left, primarily because the heart displaces the left bronchus laterally. This makes the right bronchus a more direct continuation of the trachea for inhaled foreign bodies.",
+      "whyWrongByChoice": {
+        "A": "The right main bronchus is actually shorter than the left because it branches earlier. Length does not explain preferential aspiration into the right side.",
+        "B": "Both main bronchi have similar U-shaped cartilage for support. The amount of cartilage does not determine the direction of foreign body aspiration.",
+        "D": "While the right bronchus does supply the middle lobe, this connection does not explain why foreign bodies preferentially enter the right side.",
+        "E": "Both main bronchi have a posterior membranous wall with the trachealis muscle. This feature is shared and does not explain right-sided preference."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "right-main-bronchus", "foreign-body-aspiration"]
+  },
+  {
+    "id": "r02-024",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 58-year-old man with a peripheral lung nodule undergoes preoperative planning for resection. The thoracic surgeon explains that the tumor can be removed by excising only the affected anatomic unit, which is supplied by its own segmental bronchus and pulmonary artery branch and is separated from adjacent units by connective tissue. Which of the following is this unit?",
+    "choices": [
+      {"label": "A", "text": "Bronchopulmonary segment"},
+      {"label": "B", "text": "Pulmonary acinus"},
+      {"label": "C", "text": "Pulmonary lobule"},
+      {"label": "D", "text": "Lung lobe"},
+      {"label": "E", "text": "Terminal bronchiole unit"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A bronchopulmonary segment is a discrete anatomical and functional unit supplied by its own segmental bronchus and pulmonary artery branch, separated from adjacent segments by connective tissue. It is the smallest functionally independent region that can be surgically resected.",
+      "whyCorrect": "Each bronchopulmonary segment has its own segmental bronchus and pulmonary artery branch and is separated from neighboring segments by connective tissue layers. This anatomic independence allows surgical removal of a single segment (segmentectomy) without compromising adjacent lung tissue.",
+      "whyWrongByChoice": {
+        "B": "The pulmonary acinus is the gas exchange unit extending from a respiratory bronchiole to alveoli. It is far too small to be an independently resectable surgical unit.",
+        "C": "The pulmonary lobule is a structural subdivision within a segment and is not the standard unit for surgical resection.",
+        "D": "A lung lobe is a much larger unit separated by fissures. While lobectomy is common, lobes are not the smallest independent unit that can be removed.",
+        "E": "Terminal bronchiole unit is not a recognized surgical or anatomical unit for resection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "bronchopulmonary-segment", "lung-surgery"]
+  },
+  {
+    "id": "r02-025",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 50-year-old man presents with sharp left-sided chest pain that worsens with deep inspiration. He also reports pain radiating to his left shoulder. Chest radiograph reveals a small left-sided pleural effusion. The physician explains that the shoulder pain is referred from irritation of the diaphragmatic parietal pleura via shared spinal cord levels. Which spinal levels are responsible for this referred pain?",
+    "choices": [
+      {"label": "A", "text": "T1 and T2"},
+      {"label": "B", "text": "C6 and C7"},
+      {"label": "C", "text": "C3 and C4"},
+      {"label": "D", "text": "T4 and T5"},
+      {"label": "E", "text": "L1 and L2"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The parietal pleura is innervated by somatic afferent fibers in the phrenic nerve that synapse at spinal levels C3-C4. These same levels innervate the shoulder via the supraclavicular nerves, explaining referred shoulder pain from pleural irritation.",
+      "whyCorrect": "Sensory fibers from the diaphragmatic parietal pleura travel via the phrenic nerve to spinal levels C3-C4. The supraclavicular nerves from C3-C4 also provide sensation to the shoulder. When the diaphragmatic parietal pleura is irritated, pain is referred to the ipsilateral shoulder through this shared segmental innervation.",
+      "whyWrongByChoice": {
+        "A": "T1-T2 provides innervation to the upper medial arm and chest wall. These levels do not explain referred shoulder pain from pleural irritation.",
+        "B": "C6-C7 innervates the lateral arm and forearm. Pleural referred pain goes to the shoulder (C3-C4 dermatome), not the forearm.",
+        "D": "T4-T5 provides innervation to the nipple-level chest wall. These levels do not explain shoulder pain referral from pleural irritation.",
+        "E": "L1-L2 innervates the groin and upper thigh. These lumbar levels have no connection to pleural or shoulder innervation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "pleura", "referred-pain", "phrenic-nerve", "C3-C4"]
+  },
+  {
+    "id": "r02-026",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 25-year-old medical student is reviewing a chest radiograph of a healthy patient and identifies the fissures of the right lung. She notes that the right lung has three lobes separated by two fissures. The fissure that runs horizontally and separates the superior lobe from the middle lobe is the:",
+    "choices": [
+      {"label": "A", "text": "Oblique fissure"},
+      {"label": "B", "text": "Horizontal fissure"},
+      {"label": "C", "text": "Cardiac notch"},
+      {"label": "D", "text": "Costodiaphragmatic recess"},
+      {"label": "E", "text": "Pulmonary ligament"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In the right lung, the horizontal fissure separates the superior lobe from the middle lobe. The oblique fissure separates the middle from the inferior lobe. The left lung has only an oblique fissure separating its two lobes.",
+      "whyCorrect": "The horizontal fissure is unique to the right lung and divides the superior lobe from the middle lobe. It runs roughly along the level of the 4th rib anteriorly. The oblique fissure in the right lung separates the middle and inferior lobes.",
+      "whyWrongByChoice": {
+        "A": "The oblique fissure in the right lung separates the middle from the inferior lobe, not the superior from the middle lobe.",
+        "C": "The cardiac notch is a concavity on the anterior surface of the left lung that accommodates the heart. It is not a fissure.",
+        "D": "The costodiaphragmatic recess is a pleural space where the costal and diaphragmatic parietal pleurae meet, not a lung fissure.",
+        "E": "The pulmonary ligament is a fold of pleura extending below the hilum and is not a fissure dividing lung lobes."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "lung-lobes", "horizontal-fissure", "right-lung"]
+  },
+  {
+    "id": "r02-027",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A pulmonology fellow is teaching medical students about the dual blood supply of the lungs. She explains that the bronchial circulation supplies oxygenated blood to the lung parenchyma for its metabolic needs, separate from the pulmonary circulation's gas exchange role. The bronchial arteries arise from which of the following vessels?",
+    "choices": [
+      {"label": "A", "text": "Pulmonary trunk"},
+      {"label": "B", "text": "Ascending aorta"},
+      {"label": "C", "text": "Internal thoracic artery"},
+      {"label": "D", "text": "Thoracic (descending) aorta"},
+      {"label": "E", "text": "Subclavian artery"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The bronchial arteries arise from the thoracic (descending) aorta and supply oxygenated blood to the lung parenchyma, bronchial walls, and supporting structures for their metabolic needs.",
+      "whyCorrect": "The bronchial arteries branch from the thoracic aorta and deliver oxygenated blood to the lung tissue for its metabolic requirements. This is distinct from the pulmonary circulation, which carries deoxygenated blood from the right heart to the alveoli for gas exchange.",
+      "whyWrongByChoice": {
+        "A": "The pulmonary trunk carries deoxygenated blood from the right ventricle to the lungs for gas exchange and is part of the pulmonary circulation, not the bronchial circulation.",
+        "B": "The ascending aorta gives off the coronary arteries. The bronchial arteries arise from the thoracic (descending) aorta, not the ascending portion.",
+        "C": "The internal thoracic artery supplies the anterior chest wall and does not give rise to the bronchial arteries.",
+        "E": "The subclavian artery supplies the upper extremity and gives off branches to the neck but does not give rise to the bronchial arteries."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "bronchial-circulation", "thoracic-aorta", "dual-blood-supply"]
+  },
+  {
+    "id": "r02-028",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 65-year-old man with newly diagnosed lung cancer undergoes staging CT that reveals a 4-cm mass at the left lung hilum encasing structures within the root of the lung. The oncologist explains that the root of the lung contains several vital structures passing through the hilum. Which of the following groups of structures passes through the lung hilum?",
+    "choices": [
+      {"label": "A", "text": "Bronchus, pulmonary artery, pulmonary vein"},
+      {"label": "B", "text": "Thoracic duct and azygos vein"},
+      {"label": "C", "text": "Phrenic nerve and pericardium"},
+      {"label": "D", "text": "Intercostal arteries and veins"},
+      {"label": "E", "text": "Esophagus and vagus nerve trunk"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The lung hilum is a depression on the medial surface of each lung through which the root of the lung passes, containing the primary bronchus, pulmonary artery, pulmonary veins, bronchial vessels, pulmonary nerve plexus, hilar lymph nodes, and connective tissue.",
+      "whyCorrect": "The root of the lung traverses the hilum and contains the primary bronchus, pulmonary artery, pulmonary veins, bronchial vessels, the pulmonary nerve plexus, and hilar lymph nodes. A hilar tumor can compress or invade any of these vital structures, causing symptoms such as airway obstruction, hemoptysis, or superior vena cava syndrome.",
+      "whyWrongByChoice": {
+        "C": "The phrenic nerve runs along the pericardium in the mediastinum and does not pass through the lung hilum.",
+        "B": "The thoracic duct ascends through the posterior mediastinum, and the azygos vein drains the posterior thoracic wall. Neither traverses the lung hilum.",
+        "D": "Intercostal arteries and veins run along the intercostal spaces of the chest wall and do not pass through the lung hilum.",
+        "E": "The esophagus and vagus nerve trunk lie in the posterior mediastinum and do not traverse the lung hilum."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "lung-hilum", "root-of-lung"]
+  },
+  {
+    "id": "r02-029",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 30-year-old woman with moderate persistent asthma presents with acute bronchospasm and wheezing after exposure to cold air. Her physician explains that parasympathetic nerve fibers stimulate bronchiolar smooth muscle contraction and glandular secretion in the airways. These parasympathetic efferent fibers reach the pulmonary plexus via which nerve?",
+    "choices": [
+      {"label": "A", "text": "Phrenic nerve"},
+      {"label": "B", "text": "Intercostal nerves"},
+      {"label": "C", "text": "Greater splanchnic nerve"},
+      {"label": "D", "text": "Long thoracic nerve"},
+      {"label": "E", "text": "Vagus nerve"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Parasympathetic efferent fibers to the lungs travel via the vagus nerve (CN X) to the pulmonary plexus, where they cause bronchiolar smooth muscle contraction, glandular secretion, and vasodilation.",
+      "whyCorrect": "The vagus nerve carries parasympathetic efferent fibers to the pulmonary plexus. These fibers cause bronchoconstriction, increased glandular secretion, and vasodilation. In asthma, parasympathetic overactivity contributes to bronchospasm, which is why anticholinergic bronchodilators like ipratropium are therapeutic.",
+      "whyWrongByChoice": {
+        "A": "The phrenic nerve (C3-C5) provides motor innervation to the diaphragm and sensory innervation to the parietal pleura but does not carry parasympathetic fibers to the lungs.",
+        "B": "Intercostal nerves provide motor and sensory innervation to the chest wall and intercostal muscles. They do not carry parasympathetic fibers to the lungs.",
+        "C": "The greater splanchnic nerve carries sympathetic preganglionic fibers to the abdominal viscera via the celiac ganglion, not parasympathetic fibers to the lungs.",
+        "D": "The long thoracic nerve innervates the serratus anterior muscle and has no connection to pulmonary innervation."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "pulmonary-plexus", "vagus-nerve", "parasympathetic", "bronchoconstriction"]
+  },
+  {
+    "id": "r02-030",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 70-year-old woman with congestive heart failure presents with progressive dyspnea. Chest radiograph performed in the upright position reveals blunting of the right costophrenic angle, consistent with a pleural effusion. The radiologist explains that in an upright patient, pleural fluid characteristically accumulates first in which of the following pleural recesses?",
+    "choices": [
+      {"label": "A", "text": "Costomediastinal recess"},
+      {"label": "B", "text": "Costodiaphragmatic recess"},
+      {"label": "C", "text": "Pulmonary ligament recess"},
+      {"label": "D", "text": "Vertebromediastinal recess"},
+      {"label": "E", "text": "Cupola (lung apex)"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The costodiaphragmatic recess is the most dependent (lowest) part of the pleural space where the costal parietal pleura meets the diaphragmatic parietal pleura. Pleural fluid accumulates here first due to gravity, causing blunting of the costophrenic angle on radiograph.",
+      "whyCorrect": "The costodiaphragmatic recess is the lowest point of the pleural cavity when a patient is upright. Pleural fluid collects here first under the influence of gravity. On chest radiograph, this appears as blunting of the normally sharp costophrenic angle, which is one of the earliest radiographic signs of pleural effusion.",
+      "whyWrongByChoice": {
+        "A": "The costomediastinal recess is located anteriorly where the costal and mediastinal pleurae meet. It is not the most dependent area and is not where fluid preferentially accumulates.",
+        "C": "The pulmonary ligament is a fold of pleura at the hilum. It is not a significant site of early fluid accumulation.",
+        "D": "The vertebromediastinal recess is not a standard anatomical term for a primary site of pleural fluid accumulation.",
+        "E": "The cupola is the most superior portion of the pleural cavity. Fluid does not accumulate at the apex in an upright patient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "pleural-effusion", "costodiaphragmatic-recess", "chest-radiograph"]
+  },
+  {
+    "id": "r02-031",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 62-year-old man undergoes bronchoscopy for evaluation of hemoptysis. The pulmonologist advances the bronchoscope through the trachea and identifies the carina, the sharp cartilaginous ridge where the trachea bifurcates into the two primary bronchi. The trachea extends from the cricoid cartilage to the carina, which is located at the level of which thoracic vertebra?",
+    "choices": [
+      {"label": "A", "text": "Second thoracic (T2)"},
+      {"label": "B", "text": "Third thoracic (T3)"},
+      {"label": "C", "text": "Seventh thoracic (T7)"},
+      {"label": "D", "text": "Tenth thoracic (T10)"},
+      {"label": "E", "text": "Fifth thoracic (T5)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The carina is located at the level of the fifth thoracic vertebra (T5), which corresponds approximately to the level of the sternal angle (angle of Louis). This is where the trachea bifurcates into the right and left primary bronchi.",
+      "whyCorrect": "The trachea extends from the cricoid cartilage (C6) inferiorly to the carina at T5, where it divides into the right and left main bronchi. This level corresponds to the sternal angle anteriorly and is an important landmark during bronchoscopy and imaging interpretation.",
+      "whyWrongByChoice": {
+        "A": "T2 is too superior. The trachea is still well above the carina at this level.",
+        "B": "T3 is above the level of the carina. The trachea is still a single tube at this vertebral level.",
+        "C": "T7 is well below the carina. The primary bronchi have already branched and entered the lungs by this level.",
+        "D": "T10 is at approximately the level of the diaphragm, far below the carina and the branching of the main bronchi."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "trachea", "carina", "T5"]
+  },
+  {
+    "id": "r02-032",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A radiologist reviewing a chest CT scan of a 48-year-old woman notes a concavity on the anterior border of the left lung where the heart is nestled. The patient's right lung does not have a similar indentation. This left lung feature, which creates a horizontal deflection accommodating the heart, is called the:",
+    "choices": [
+      {"label": "A", "text": "Lingula"},
+      {"label": "B", "text": "Hilum"},
+      {"label": "C", "text": "Cardiac notch"},
+      {"label": "D", "text": "Oblique fissure"},
+      {"label": "E", "text": "Costodiaphragmatic recess"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The cardiac notch is a concavity on the anterior surface of the left lung that accommodates the heart. It is present only on the left side because the heart is positioned slightly to the left of midline.",
+      "whyCorrect": "The cardiac notch is the horizontal deflection of the anterior border of the left lung that creates space for the heart. It is a distinctive feature of the left lung and is not present on the right side, reflecting the leftward position of the heart in the thorax.",
+      "whyWrongByChoice": {
+        "A": "The lingula is the tongue-like extension of the left superior lobe, analogous to the right middle lobe. While it borders the cardiac notch inferiorly, it is a lobe projection, not the concavity itself.",
+        "B": "The hilum is the depression on the medial surface of each lung where the root structures enter and exit. It is not the anterior cardiac indentation.",
+        "D": "The oblique fissure separates the lobes of the lung and does not describe the cardiac indentation.",
+        "E": "The costodiaphragmatic recess is a pleural space between the costal and diaphragmatic pleurae, not a feature on the lung surface."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "left-lung", "cardiac-notch"]
+  },
+  {
+    "id": "r02-033",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A physiology professor is teaching first-year medical students about the functional zones of the tracheobronchial tree. She explains that the conducting zone humidifies and transports air but does not participate in gas exchange. Gas exchange begins at the transition to the respiratory zone. The most proximal airway structure where gas exchange first occurs is the:",
+    "choices": [
+      {"label": "A", "text": "Terminal bronchiole"},
+      {"label": "B", "text": "Respiratory bronchiole"},
+      {"label": "C", "text": "Alveolar duct"},
+      {"label": "D", "text": "Segmental bronchus"},
+      {"label": "E", "text": "Lobar bronchus"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The respiratory bronchioles are the most proximal airways where gas exchange with the blood occurs. They mark the beginning of the respiratory zone, distal to the terminal bronchioles (the last conducting airways).",
+      "whyCorrect": "Respiratory bronchioles have thin walls that contain scattered alveoli, allowing gas exchange to begin. They represent the transition from the conducting zone (which ends at the terminal bronchioles) to the respiratory zone, and are the defining structure of the pulmonary acinus.",
+      "whyWrongByChoice": {
+        "A": "Terminal bronchioles are the most distal conducting airways. They do not participate in gas exchange and mark the end of the conducting zone, not the beginning of the respiratory zone.",
+        "C": "Alveolar ducts participate in gas exchange but are more distal than the respiratory bronchioles. The question asks for the most proximal gas-exchanging structure.",
+        "D": "Segmental bronchi are conducting airways that supply bronchopulmonary segments. No gas exchange occurs at this level.",
+        "E": "Lobar bronchi are large conducting airways supplying each lung lobe and are far proximal to any gas exchange structures."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "respiratory-bronchiole", "conducting-zone", "respiratory-zone"]
+  },
+  {
+    "id": "r02-034",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 52-year-old man with a large pleural effusion undergoes thoracentesis. During the procedure, he reports sharp pain as the needle penetrates the parietal pleura, but when the physician explains that puncturing the visceral pleura would not cause pain, the patient asks why. Which of the following best explains the difference in pain sensation between the two pleural layers?",
+    "choices": [
+      {"label": "A", "text": "Visceral pleura has thicker mesothelium"},
+      {"label": "B", "text": "Visceral pleura completely lacks nerve supply"},
+      {"label": "C", "text": "Pain fibers are inhibited by surfactant"},
+      {"label": "D", "text": "Parietal pleura has somatic sensory innervation"},
+      {"label": "E", "text": "Parietal pleura innervated by CN X only"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The parietal pleura has somatic sensory innervation via the phrenic and intercostal nerves, allowing it to perceive pain. The visceral pleura has only visceral afferent fibers that sense stretch but cannot perceive pain, temperature, or touch.",
+      "whyCorrect": "The parietal pleura receives somatic afferent fibers from the phrenic and intercostal nerves, which transmit pain, temperature, and touch signals. The visceral pleura has only visceral afferent nerve fibers that relay stretch information but cannot sense pain, explaining why only parietal puncture hurts.",
+      "whyWrongByChoice": {
+        "A": "Mesothelial cell thickness does not determine pain perception. Pain sensation depends on the type of nerve fibers (somatic vs. visceral), not the lining thickness.",
+        "B": "The visceral pleura does have nerve supply through visceral afferent fibers that sense stretch. It simply lacks somatic sensory fibers for pain perception.",
+        "C": "Surfactant is found in the alveoli and reduces surface tension. It has no role in modulating pain fiber transmission in the pleura.",
+        "E": "The parietal pleura is innervated by the phrenic and intercostal nerves (somatic), not by CN X. The visceral pleura has visceral afferents that travel with vagal fibers."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "pleura", "somatic-innervation", "visceral-afferents", "pain"]
+  },
+  {
+    "id": "r02-035",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 40-year-old woman undergoes a chest CT for evaluation of chronic cough. The radiologist notes that her left lung has only two lobes, unlike the right lung's three, because the heart occupies the space where a middle lobe would be. The tongue-shaped projection of the left superior lobe that serves as the anatomic analogue of the right middle lobe is called the:",
+    "choices": [
+      {"label": "A", "text": "Cardiac notch"},
+      {"label": "B", "text": "Pulmonary ligament"},
+      {"label": "C", "text": "Carina"},
+      {"label": "D", "text": "Hilum"},
+      {"label": "E", "text": "Lingula"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The lingula ('little tongue') is an extension of the left superior lobe that corresponds anatomically to the right middle lobe. The left lung lacks a separate middle lobe because the heart occupies more space on the left side.",
+      "whyCorrect": "The lingula is a tongue-shaped projection of the left superior lobe that serves as the functional and anatomic analogue of the right middle lobe. The left lung has only two lobes (superior and inferior) because the heart's leftward position prevents formation of a discrete middle lobe.",
+      "whyWrongByChoice": {
+        "A": "The cardiac notch is the concavity on the anterior border of the left lung that accommodates the heart. It is an indentation, not the lobe analogue.",
+        "B": "The pulmonary ligament is a fold of pleura extending below the hilum. It is not a lung lobe or analogue of the middle lobe.",
+        "D": "The hilum is the area on the medial surface where the root of the lung enters. It is present in both lungs and is not a lobe analogue.",
+        "C": "The carina is the tracheal bifurcation point at T5 and is not a structure within the left lung."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "left-lung", "lingula", "right-middle-lobe"]
+  },
+  {
+    "id": "r02-036",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A pharmacology professor is teaching about the autonomic innervation of the airways. She explains that beta-2 agonist bronchodilators mimic the sympathetic nervous system to relieve bronchospasm in asthma. The sympathetic efferent fibers that innervate the bronchial smooth muscle and cause relaxation originate from which of the following?",
+    "choices": [
+      {"label": "A", "text": "Thoracic sympathetic trunk"},
+      {"label": "B", "text": "Phrenic nerve"},
+      {"label": "C", "text": "Vagus nerve (CN X)"},
+      {"label": "D", "text": "Greater splanchnic nerve"},
+      {"label": "E", "text": "Cervical sympathetic ganglia"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Sympathetic efferent fibers to the lungs arise from the thoracic sympathetic trunk (chain) and join the pulmonary plexus. These fibers cause bronchial smooth muscle relaxation, inhibit glandular secretion, and cause vasoconstriction.",
+      "whyCorrect": "Sympathetic efferent fibers that innervate bronchial smooth muscle originate from the thoracic sympathetic trunk and join the pulmonary plexus. Their activation causes bronchodilation, which is the basis for sympathomimetic (beta-2 agonist) drug therapy in asthma.",
+      "whyWrongByChoice": {
+        "C": "The vagus nerve carries parasympathetic fibers that cause bronchoconstriction, the opposite of bronchodilation. It is the opposing system.",
+        "B": "The phrenic nerve (C3-C5) innervates the diaphragm for respiration and does not carry sympathetic fibers to bronchial smooth muscle.",
+        "D": "The greater splanchnic nerve carries sympathetic preganglionic fibers to the abdominal viscera (celiac ganglion) and does not directly innervate the bronchial smooth muscle.",
+        "E": "The cervical sympathetic ganglia contribute to innervation of the head and neck structures. The bronchial sympathetic supply arises from the thoracic sympathetic trunk."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "sympathetic-innervation", "bronchodilation", "thoracic-sympathetic-trunk"]
+  },
+  {
+    "id": "r02-037",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A pulmonary physiologist asks a medical student to identify where the conducting zone of the tracheobronchial tree ends. The student recalls that this zone includes airways from the trachea down to the smallest branches that do not participate in gas exchange. The conducting zone ends at which of the following structures?",
+    "choices": [
+      {"label": "A", "text": "Segmental bronchi"},
+      {"label": "B", "text": "Respiratory bronchioles"},
+      {"label": "C", "text": "Alveolar ducts"},
+      {"label": "D", "text": "Lobar bronchi"},
+      {"label": "E", "text": "Terminal bronchioles"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The conducting zone extends from the trachea to the terminal bronchioles. Beyond the terminal bronchioles, the respiratory zone begins with the respiratory bronchioles, where gas exchange can occur.",
+      "whyCorrect": "Terminal bronchioles are the smallest and most distal airways of the conducting zone. They are called 'terminal' because the conducting zone ends here. Distal to them, the respiratory zone begins with respiratory bronchioles that have thin walls with scattered alveoli allowing gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Segmental bronchi are conducting airways located well proximal to the end of the conducting zone. Extensive further branching occurs before reaching the terminal bronchioles.",
+        "B": "Respiratory bronchioles are the first airways of the respiratory zone, not the last of the conducting zone. Gas exchange begins at this level.",
+        "C": "Alveolar ducts are part of the respiratory zone, distal to both terminal and respiratory bronchioles.",
+        "D": "Lobar bronchi are large conducting airways supplying each lung lobe and are far proximal to the end of the conducting zone."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "conducting-zone", "terminal-bronchiole"]
+  },
+  {
+    "id": "r02-038",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 24-year-old man presents to the emergency department with sudden-onset right-sided chest pain and dyspnea after a spontaneous pneumothorax. Chest radiograph confirms right lung collapse with air visible in the pleural space. The physician explains that the lungs normally remain inflated because the pleural space maintains a specific pressure relative to atmospheric pressure. Under normal conditions, intrapleural pressure is which of the following?",
+    "choices": [
+      {"label": "A", "text": "Positive relative to atmosphere"},
+      {"label": "B", "text": "Equal to atmospheric pressure"},
+      {"label": "C", "text": "Alternating positive and negative"},
+      {"label": "D", "text": "Absolute zero (true vacuum)"},
+      {"label": "E", "text": "Negative relative to atmosphere"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The pleural space normally maintains a negative (subatmospheric) pressure, which is critical for keeping the lungs expanded against the chest wall. Loss of this negative pressure in pneumothorax allows the lung to collapse.",
+      "whyCorrect": "Intrapleural pressure is normally negative (about -5 cm H2O at rest) relative to atmospheric pressure. This negative pressure counteracts the elastic recoil of the lung tissue and keeps the lungs expanded. In pneumothorax, air enters the pleural space and equalizes the pressure, allowing the lung to collapse.",
+      "whyWrongByChoice": {
+        "A": "Positive intrapleural pressure would cause lung collapse, which is the pathologic state seen in tension pneumothorax, not the normal physiologic condition.",
+        "B": "If intrapleural pressure equaled atmospheric pressure, the lungs would collapse due to their inherent elastic recoil. This is exactly what happens in pneumothorax.",
+        "D": "The pleural space is not a true vacuum. It contains a small amount of pleural fluid and maintains only a slightly negative pressure relative to atmosphere.",
+        "C": "While intrapleural pressure fluctuates during breathing (becoming more negative during inspiration), it remains negative throughout the entire respiratory cycle under normal conditions."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "pleural-space", "intrapleural-pressure", "pneumothorax"]
+  },
+  {
+    "id": "r02-039",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A surgeon performing a neck dissection identifies the trachea as a hollow air-conducting tube with C-shaped cartilaginous rings measuring approximately 11 cm in length. The trachea begins at the inferior border of the most inferior laryngeal cartilage and extends to the carina at T5. The trachea begins at the inferior border of which cartilage?",
+    "choices": [
+      {"label": "A", "text": "Thyroid cartilage"},
+      {"label": "B", "text": "Epiglottic cartilage"},
+      {"label": "C", "text": "Cricoid cartilage"},
+      {"label": "D", "text": "Arytenoid cartilage"},
+      {"label": "E", "text": "Hyoid bone"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The trachea begins at the inferior border of the cricoid cartilage, which is the most inferior cartilage of the larynx. It extends approximately 11 cm inferiorly to the carina at T5.",
+      "whyCorrect": "The cricoid cartilage is the complete ring-shaped cartilage at the base of the larynx, marking the transition from the larynx to the trachea. The trachea begins immediately below it and extends to the carina at T5, where it bifurcates into the two main bronchi.",
+      "whyWrongByChoice": {
+        "A": "The thyroid cartilage forms the anterior wall of the larynx (Adam's apple). The subglottic larynx and cricoid cartilage lie between the thyroid cartilage and the start of the trachea.",
+        "B": "The epiglottis is at the superior aspect of the larynx. The trachea begins well below the epiglottis, at the inferior border of the cricoid cartilage.",
+        "D": "The arytenoid cartilages are paired structures at the level of the vocal cords, above the cricoid cartilage and the beginning of the trachea.",
+        "E": "The hyoid bone is above the larynx in the neck. The trachea begins well below the hyoid, at the inferior border of the cricoid cartilage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "trachea", "cricoid-cartilage"]
+  },
+  {
+    "id": "r02-040",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A medical student is studying the branching pattern of the tracheobronchial tree and notes that the tree branches approximately 23 times from the trachea to the alveoli. The primary bronchi branch into lobar (secondary) bronchi, one for each lung lobe. The right lung has three lobar bronchi. How many lobar bronchi does the left lung have?",
+    "choices": [
+      {"label": "A", "text": "One"},
+      {"label": "B", "text": "Two"},
+      {"label": "C", "text": "Three"},
+      {"label": "D", "text": "Four"},
+      {"label": "E", "text": "Five"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The left lung has two lobes (superior and inferior), and therefore has two lobar (secondary) bronchi, one for each lobe. The right lung has three lobes and three lobar bronchi.",
+      "whyCorrect": "Each lung lobe is supplied by one lobar bronchus. Since the left lung has two lobes (superior and inferior, separated by the oblique fissure), it has exactly two lobar bronchi, compared to three on the right side.",
+      "whyWrongByChoice": {
+        "A": "One lobar bronchus would only supply one lobe. The left lung has two lobes, each requiring its own lobar bronchus.",
+        "C": "Three lobar bronchi correspond to the three lobes of the right lung. The left lung has only two lobes.",
+        "D": "Four lobar bronchi would imply four lung lobes, which does not correspond to either the right or left lung.",
+        "E": "Five is the total number of lobar bronchi in both lungs combined (three right plus two left), not the number in the left lung alone."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["anatomy", "lobar-bronchi", "left-lung", "lung-lobes"]
+  },
+  {
+    "id": "r02-041",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 55-year-old man undergoes staging CT for lung cancer that reveals a mass at the left lung hilum. The thoracic surgeon explains that the visceral pleura, which directly covers the lung surface, reflects and becomes the parietal pleura at a specific anatomic landmark. At which location does this visceral-to-parietal pleural transition occur?",
+    "choices": [
+      {"label": "A", "text": "Apex of the lung"},
+      {"label": "B", "text": "Costodiaphragmatic recess"},
+      {"label": "C", "text": "Oblique fissure"},
+      {"label": "D", "text": "Base of the lung"},
+      {"label": "E", "text": "Hilum of the lung"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "At the lung hilum, the visceral pleura reflects off the lung surface and becomes continuous with the parietal pleura. This is where the root of the lung passes through, connecting the lung to the mediastinum.",
+      "whyCorrect": "The visceral pleura covers the entire lung surface including the fissures, and at the hilum it folds back on itself to become the parietal pleura, which then lines the thoracic cavity. This transition creates a continuous double-layered pleural membrane with the pleural space between.",
+      "whyWrongByChoice": {
+        "A": "The apex of the lung is covered by visceral pleura, but the visceral-to-parietal transition does not occur at the apex. It occurs at the hilum.",
+        "B": "The costodiaphragmatic recess is where two portions of parietal pleura (costal and diaphragmatic) meet each other, not where visceral transitions to parietal.",
+        "C": "The oblique fissure separates lung lobes. The visceral pleura lines the fissures but does not transition to parietal pleura there.",
+        "D": "The base of the lung rests on the diaphragm and is covered by visceral pleura. The transition to parietal pleura occurs at the hilum, not the base."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "pleura", "hilum", "visceral-parietal-transition"]
+  },
+  {
+    "id": "r02-042",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A 48-year-old woman undergoes a CT scan of the neck and chest for dysphagia evaluation. The radiologist notes the normal anatomic relationship of the trachea, with its U-shaped cartilaginous rings open posteriorly. The posterior tracheal wall consists of a fibrous membrane and the trachealis muscle, which sits directly against an adjacent structure. Which structure lies immediately posterior to the trachea?",
+    "choices": [
+      {"label": "A", "text": "Thoracic aorta"},
+      {"label": "B", "text": "Esophagus"},
+      {"label": "C", "text": "Thyroid gland"},
+      {"label": "D", "text": "Internal jugular vein"},
+      {"label": "E", "text": "Vertebral body"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The esophagus lies immediately posterior to the trachea. The posterior wall of the trachea consists of the trachealis muscle and fibrous membrane that sits directly against the anterior esophagus.",
+      "whyCorrect": "The open posterior aspect of the C-shaped tracheal rings is bridged by the trachealis muscle and fibrous membrane, which abuts the anterior wall of the esophagus. This close relationship is clinically important in the context of tracheoesophageal fistulas and during surgical procedures.",
+      "whyWrongByChoice": {
+        "A": "The thoracic aorta lies to the left and posterior in the thorax but is not the structure immediately posterior to the trachea. The esophagus is directly posterior.",
+        "C": "The thyroid gland lies anterior and lateral to the trachea, not posterior to it.",
+        "D": "The internal jugular veins run laterally in the neck within the carotid sheath and are not directly posterior to the trachea.",
+        "E": "The vertebral bodies lie posterior to the esophagus. The esophagus is interposed between the trachea and the vertebral column."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "trachea", "esophagus", "anatomic-relationships"]
+  },
+  {
+    "id": "r02-043",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A pulmonary fellow is teaching about the bronchial circulation. She explains that after bronchial artery blood perfuses the lung stroma for metabolic needs, it returns to the heart via two distinct venous pathways. One pathway drains through the azygos system. Which of the following correctly describes the other return pathway for bronchial venous blood?",
+    "choices": [
+      {"label": "A", "text": "Directly to right atrium via SVC"},
+      {"label": "B", "text": "Through thoracic duct to subclavian"},
+      {"label": "C", "text": "Through portal vein to liver"},
+      {"label": "D", "text": "Directly into the pulmonary veins"},
+      {"label": "E", "text": "Via inferior vena cava"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "After perfusing the lung stroma, bronchial venous blood returns to the heart by either the azygos system (to the right heart) or by draining directly into the pulmonary veins (to the left atrium), creating a small physiologic right-to-left shunt.",
+      "whyCorrect": "The bronchial circulation has two venous return pathways: (1) via the azygos system and intercostal veins, draining into the SVC and right heart, and (2) by draining directly into the pulmonary veins, returning blood to the left atrium. The latter pathway creates a small physiologic shunt.",
+      "whyWrongByChoice": {
+        "A": "Bronchial blood can reach the right heart via the azygos system and then the SVC, but it does not drain directly into the SVC. The question asks about the pathway other than the azygos system.",
+        "B": "The thoracic duct is part of the lymphatic system and drains lymph, not venous blood from the bronchial circulation.",
+        "C": "The portal vein drains the gastrointestinal tract to the liver. Bronchial venous blood does not enter the portal system.",
+        "E": "The inferior vena cava drains the lower body. Bronchial venous blood from the thorax returns via the azygos system or pulmonary veins, not the IVC."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["anatomy", "bronchial-circulation", "venous-return", "azygos-system"]
+  },
+  {
+    "id": "r02-044",
+    "topicId": "anatomy-lower-respiratory-tract",
+    "topicName": "Anatomy of the Lower Respiratory Tract",
+    "stem": "A pulmonologist explains to a medical student that bronchi and bronchioles differ in their structural support. Bronchi have cartilage within their walls, but bronchioles lack any cartilaginous support. In patients with emphysema, destruction of the lung parenchyma leads to bronchiolar collapse during expiration because the primary mechanism that maintains bronchiolar patency is lost. What normally holds bronchioles open?",
+    "choices": [
+      {"label": "A", "text": "C-shaped cartilage rings"},
+      {"label": "B", "text": "Irregular cartilage plates"},
+      {"label": "C", "text": "Smooth muscle tone alone"},
+      {"label": "D", "text": "Negative intrapleural pressure directly"},
+      {"label": "E", "text": "Elastic recoil of lung tissue"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Unlike bronchi, bronchioles lack cartilage support. They are held open by the radial traction from the elastic recoil of the surrounding lung parenchyma, which is why diseases that destroy lung elasticity (like emphysema) lead to bronchiolar collapse.",
+      "whyCorrect": "Bronchioles do not have cartilage. Their patency is maintained by the elasticity of the surrounding lung tissue, which exerts outward radial traction on the bronchiolar walls. In emphysema, destruction of alveolar walls and elastic tissue removes this traction, causing bronchioles to collapse during expiration.",
+      "whyWrongByChoice": {
+        "A": "C-shaped cartilage rings are found in the trachea and main bronchi, not in bronchioles, which are defined by the absence of cartilage.",
+        "B": "Irregular cartilage plates are found in the lobar and segmental bronchi. Bronchioles completely lack cartilaginous support.",
+        "C": "Smooth muscle is present in bronchiolar walls and can modulate airway diameter, but smooth muscle tone alone does not maintain bronchiolar patency. Elastic recoil of surrounding tissue is the primary mechanism.",
+        "D": "Negative intrapleural pressure helps keep the lungs expanded overall, but it is the elastic recoil of the lung parenchyma that directly maintains bronchiolar patency through radial traction on the airway walls."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anatomy", "bronchioles", "elastic-recoil", "lung-patency"]
+  }
+]

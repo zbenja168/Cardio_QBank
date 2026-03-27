@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "r13-001",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 10-year-old boy is brought to the emergency department with acute wheezing and dyspnea that began 30 minutes after running to catch the school bus on a cold winter morning. His mother reports milder episodes after soccer practice. Examination reveals bilateral expiratory wheezes, respiratory rate of 28 breaths/min, and oxygen saturation of 97%. After nebulized albuterol, his symptoms resolve within 15 minutes. Which of the following best describes the underlying pathophysiology?",
+    "choices": [
+      {"label": "A", "text": "Irreversible alveolar wall destruction"},
+      {"label": "B", "text": "Permanent bronchial submucosal fibrosis"},
+      {"label": "C", "text": "Chronic neutrophilic alveolar infiltration"},
+      {"label": "D", "text": "Reversible bronchoconstriction with inflammation"},
+      {"label": "E", "text": "Terminal bronchiolar surfactant loss"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This child presents with exercise-induced bronchoconstriction triggered by cold air, a classic asthma presentation. Asthma is defined as a chronic reversible obstructive disease characterized by bronchoconstriction, mucosal inflammation, and increased mucus production that responds to bronchodilators.",
+      "whyCorrect": "Asthma is a reversible obstructive airway disease. The bronchoconstriction is caused by smooth muscle contraction, mucosal edema, and mucus hypersecretion. The rapid response to inhaled bronchodilators confirms reversibility, the hallmark that distinguishes asthma from irreversible obstructive diseases like emphysema.",
+      "whyWrongByChoice": {
+        "A": "Irreversible destruction of alveolar walls describes emphysema, not asthma. Asthma affects the bronchi and bronchioles, sparing the alveoli.",
+        "B": "Subepithelial fibrosis can occur in chronic asthma (airway remodeling), but it is not permanent or irreversible, and the defining feature of asthma is reversibility.",
+        "C": "While neutrophils can be involved in nonatopic asthma, the inflammation primarily involves the bronchi and bronchioles, not the alveoli. Eosinophils are the more characteristic inflammatory cell.",
+        "E": "Loss of surfactant is characteristic of neonatal respiratory distress syndrome, not asthma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "pathophysiology", "exercise-induced", "reversible obstruction"]
+  },
+  {
+    "id": "r13-002",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 25-year-old woman with seasonal allergies and eczema presents with 6 months of recurrent wheezing, chest tightness, and cough that worsen in spring and around her roommate's cat. Physical examination reveals scattered expiratory wheezes bilaterally. Skin prick testing shows positive wheal-and-flare reactions to tree pollen and cat dander. Which immune mechanism is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "B", "text": "Antibody-mediated cellular cytotoxicity"},
+      {"label": "C", "text": "Immune complex tissue deposition"},
+      {"label": "D", "text": "T-cell delayed hypersensitivity reaction"},
+      {"label": "E", "text": "Complement-mediated membrane lysis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient has the classic atopic triad (allergies, eczema, asthma) with allergen-specific triggers and positive skin prick tests. Atopic asthma is mediated by type I (IgE-mediated) hypersensitivity, in which allergens crosslink IgE on mast cells, causing degranulation and release of histamine, leukotrienes, and prostaglandins.",
+      "whyCorrect": "Type I hypersensitivity involves allergen crosslinking of IgE bound to mast cells, triggering degranulation and release of histamine, leukotrienes, and prostaglandins. These mediators cause bronchoconstriction, mucus production, and airway edema. The positive skin prick test (wheal-and-flare) confirms IgE-mediated reactivity.",
+      "whyWrongByChoice": {
+        "B": "Type II hypersensitivity involves IgG or IgM antibodies directed against cell surface antigens, causing cytotoxicity. This is seen in autoimmune hemolytic anemia, not asthma.",
+        "C": "Type III hypersensitivity involves immune complex deposition in tissues. This mechanism is responsible for hypersensitivity pneumonitis, not typical atopic asthma.",
+        "D": "Type IV hypersensitivity is T-cell mediated and occurs over 48-72 hours. It is responsible for contact dermatitis and tuberculin skin reactions, not the immediate airway response.",
+        "E": "Complement-mediated cell lysis is part of innate immunity and type II/III reactions, not the primary mechanism of atopic asthma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "atopic", "type I hypersensitivity", "IgE", "immunology"]
+  },
+  {
+    "id": "r13-003",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 32-year-old man with known atopic asthma inhales cat dander while visiting a friend. Within minutes he develops wheezing, cough, and chest tightness. His oxygen saturation is 94% on room air. A bronchial biopsy obtained during this acute episode would most likely show increased numbers of which cells?",
+    "choices": [
+      {"label": "A", "text": "Giant cells with caseous necrosis"},
+      {"label": "B", "text": "Plasma cells with Russell bodies"},
+      {"label": "C", "text": "Degranulated mast cells in mucosa"},
+      {"label": "D", "text": "Fibroblasts with collagen deposition"},
+      {"label": "E", "text": "Neutrophils with inflammatory exudate"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The early phase of atopic asthma occurs within minutes of allergen exposure and is driven by mast cell degranulation. Allergens crosslink IgE on mast cell surfaces, triggering release of histamine, leukotrienes, and prostaglandins that cause acute bronchoconstriction.",
+      "whyCorrect": "In the early (immediate) phase of atopic asthma, allergen crosslinks IgE bound to mast cells in the bronchial mucosa. This triggers mast cell degranulation with release of preformed mediators (histamine) and newly synthesized mediators (leukotrienes, prostaglandins). Biopsy would show increased mast cells with evidence of degranulation.",
+      "whyWrongByChoice": {
+        "A": "Giant cells with caseous necrosis characterize granulomatous inflammation seen in tuberculosis, not asthma.",
+        "B": "Plasma cells with Russell bodies indicate chronic antibody-producing inflammation, seen in conditions like chronic gastritis, not acute asthma.",
+        "D": "Fibroblasts with collagen deposition represent airway remodeling that occurs in chronic asthma over time, not during an acute early-phase response.",
+        "E": "Neutrophils are more characteristic of nonatopic asthma and the late-phase response. The immediate early-phase response is mast cell driven."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "early phase", "mast cells", "degranulation", "histology"]
+  },
+  {
+    "id": "r13-004",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A researcher studies the late-phase response in atopic asthma. Bronchial biopsies taken 6-8 hours after allergen challenge in sensitized subjects show prominent eosinophilic infiltration of the bronchial wall. She hypothesizes that a specific Th2 cytokine recruits these cells. Which cytokine is most directly responsible for eosinophil recruitment?",
+    "choices": [
+      {"label": "A", "text": "Interleukin-4"},
+      {"label": "B", "text": "Interleukin-5"},
+      {"label": "C", "text": "Interleukin-13"},
+      {"label": "D", "text": "Interleukin-9"},
+      {"label": "E", "text": "Tumor necrosis factor-alpha"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "IL-5 is the key cytokine responsible for attracting and activating eosinophils in the bronchial wall during the late-phase asthma response. It is secreted by Th2 cells and is a major therapeutic target (mepolizumab targets IL-5).",
+      "whyCorrect": "IL-5 is secreted by Th2 lymphocytes and is the primary cytokine that recruits, activates, and prolongs the survival of eosinophils in the bronchial wall. This is why anti-IL-5 biologics (mepolizumab, benralizumab) are effective in eosinophilic asthma.",
+      "whyWrongByChoice": {
+        "A": "IL-4 promotes IgE class switching in B cells and Th2 differentiation but does not directly recruit eosinophils to the airway.",
+        "C": "IL-13 promotes mucus production by goblet cells and contributes to airway hyperreactivity but does not directly recruit eosinophils.",
+        "D": "IL-9 heightens the overall Th2 response and promotes mast cell growth but does not directly recruit eosinophils.",
+        "E": "TNF-α is a pro-inflammatory cytokine involved in systemic inflammation but is not the primary recruiter of eosinophils."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "IL-5", "eosinophils", "Th2", "late phase"]
+  },
+  {
+    "id": "r13-005",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 45-year-old woman with a 20-year history of poorly controlled asthma undergoes bronchial biopsy for evaluation of persistent symptoms despite maximal therapy. The pathologist reports thickening of the basement membrane, smooth muscle hypertrophy, goblet cell hyperplasia, and subepithelial fibrosis. Which of the following best explains these findings?",
+    "choices": [
+      {"label": "A", "text": "Acute mast cell degranulation"},
+      {"label": "B", "text": "Chronic airway structural remodeling"},
+      {"label": "C", "text": "Bacterial neutrophilic bronchitis"},
+      {"label": "D", "text": "Alveolar septal wall destruction"},
+      {"label": "E", "text": "Noncaseating granulomatous inflammation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet cell hyperplasia, and subepithelial fibrosis are hallmarks of airway remodeling in chronic asthma. These structural changes result from persistent inflammation and worsen airway hyperreactivity over time.",
+      "whyCorrect": "Chronic inflammation in poorly controlled asthma leads to structural changes termed airway remodeling. This includes basement membrane thickening, smooth muscle hypertrophy, goblet cell hyperplasia, and subepithelial fibrosis. These changes progressively narrow the airway lumen.",
+      "whyWrongByChoice": {
+        "A": "Acute mast cell degranulation causes immediate bronchoconstriction and mucus release but does not produce the structural changes described, which develop over months to years.",
+        "C": "Acute neutrophilic bronchitis would show neutrophil predominance, not the chronic structural remodeling described here.",
+        "D": "Alveolar septal destruction is characteristic of emphysema. Asthma affects bronchi and bronchioles, sparing the alveoli.",
+        "E": "Noncaseating granulomatous inflammation is characteristic of sarcoidosis, not asthma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "airway remodeling", "histology", "chronic inflammation"]
+  },
+  {
+    "id": "r13-006",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 28-year-old woman with asthma is hospitalized for a severe exacerbation. During her stay, a sputum sample is collected. Microscopic examination reveals spiral-shaped mucous plugs that formed from mucus extruded from small airways. Which of the following structures are these?",
+    "choices": [
+      {"label": "A", "text": "Charcot-Leyden crystals"},
+      {"label": "B", "text": "Ferruginous bodies"},
+      {"label": "C", "text": "Creola bodies"},
+      {"label": "D", "text": "Curschmann spirals"},
+      {"label": "E", "text": "Reid index thickening"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Curschmann spirals are spiral-shaped mucous plugs found in the sputum of patients with any form of asthma. They form from mucus that has been extruded from small airways during bronchospasm.",
+      "whyCorrect": "Curschmann spirals are twisted, spiral-shaped mucous plugs that form in the small airways during asthma exacerbations. They are shed into the sputum and can be seen on microscopic examination. They are found in all types of asthma.",
+      "whyWrongByChoice": {
+        "A": "Charcot-Leyden crystals are needle-shaped crystals composed of precipitated galectin-10 from eosinophils and mast cells, not spiral mucous plugs.",
+        "B": "Ferruginous bodies are iron-coated asbestos fibers seen in asbestosis, not asthma.",
+        "C": "Creola bodies are clusters of shed bronchial epithelial cells sometimes seen in asthma sputum, but they are not described as spiral-shaped mucous plugs.",
+        "E": "Reid index refers to the ratio of mucous gland thickness to bronchial wall thickness, increased in chronic bronchitis, not a sputum finding."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "Curschmann spirals", "sputum", "histology"]
+  },
+  {
+    "id": "r13-007",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 35-year-old man with severe atopic asthma undergoes bronchial biopsy. The pathologist identifies needle-shaped, bipyramidal crystals in the inflammatory exudate within the bronchial lumen, surrounded by abundant eosinophils. These crystals are composed of which substance?",
+    "choices": [
+      {"label": "A", "text": "Calcium oxalate"},
+      {"label": "B", "text": "Galectin-10 protein"},
+      {"label": "C", "text": "Cholesterol esters"},
+      {"label": "D", "text": "Immunoglobulin light chains"},
+      {"label": "E", "text": "Monosodium urate"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Charcot-Leyden crystals are bipyramidal (needle-shaped) crystals found in the sputum and tissues of patients with type 1 hypersensitivity asthma. They are composed of precipitated galectin-10, a hydrolase enzyme released from eosinophils and mast cells.",
+      "whyCorrect": "Charcot-Leyden crystals are formed from precipitated galectin-10, an enzyme found abundantly in eosinophils and basophils/mast cells. In atopic asthma with eosinophilic inflammation, these crystals form in the bronchial exudate and contribute to tissue and airway damage.",
+      "whyWrongByChoice": {
+        "A": "Calcium oxalate crystals are associated with kidney stones and ethylene glycol poisoning, not bronchial inflammation.",
+        "C": "Cholesterol crystals (cholesterol clefts) are seen in atherosclerotic plaques, not bronchial inflammatory exudates.",
+        "D": "Immunoglobulin light chains form amyloid fibrils in AL amyloidosis, not the crystals seen in asthma.",
+        "E": "Monosodium urate crystals are found in gout and are needle-shaped but birefringent under polarized light, not found in bronchial exudate."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "Charcot-Leyden crystals", "galectin-10", "eosinophils", "histology"]
+  },
+  {
+    "id": "r13-008",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 14-year-old girl with known asthma presents for routine follow-up. She is asymptomatic and has had no exacerbations in 6 weeks. Physical examination is unremarkable. Spirometry shows FEV1/FVC of 0.82 and FEV1 at 95% of predicted. Which of the following best explains these normal findings?",
+    "choices": [
+      {"label": "A", "text": "She does not have asthma"},
+      {"label": "B", "text": "Her spirometry technique was poor"},
+      {"label": "C", "text": "Spirometry cannot detect obstruction"},
+      {"label": "D", "text": "She developed restrictive physiology"},
+      {"label": "E", "text": "Obstruction reverses between attacks"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "A hallmark of asthma is reversible airway obstruction. Between attacks, many asthma patients have normal spirometry findings because the bronchoconstriction, mucosal edema, and mucus plugging resolve.",
+      "whyCorrect": "Asthma is characterized by episodic, reversible airway obstruction. Between exacerbations, the airway smooth muscle relaxes, edema subsides, and spirometry returns to normal in many patients. This distinguishes asthma from COPD, where obstruction is persistent.",
+      "whyWrongByChoice": {
+        "A": "Normal spirometry between attacks does not rule out asthma. A methacholine challenge test could reveal airway hyperreactivity even when baseline spirometry is normal.",
+        "B": "While poor technique can affect results, normal spirometry in an asymptomatic asthma patient is the expected finding, not a technical error.",
+        "C": "Spirometry is the standard tool for detecting obstructive disease. During an attack, asthma patients show reduced FEV1/FVC ratio.",
+        "D": "A restrictive pattern would show reduced FVC with preserved or elevated FEV1/FVC ratio. Her normal values indicate neither obstruction nor restriction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "spirometry", "PFT", "reversible obstruction"]
+  },
+  {
+    "id": "r13-009",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 40-year-old man with suspected asthma undergoes spirometry showing FEV1 at 68% of predicted and FEV1/FVC of 0.65. After inhaled albuterol, repeat testing shows FEV1 at 82% of predicted, an improvement of 14% from baseline and 280 mL in absolute volume. Which finding best supports a diagnosis of asthma?",
+    "choices": [
+      {"label": "A", "text": "Persistent FEV1/FVC below 0.7"},
+      {"label": "B", "text": "Post-bronchodilator FVC decrease"},
+      {"label": "C", "text": "Unchanged peak expiratory flow"},
+      {"label": "D", "text": "Elevated total lung capacity"},
+      {"label": "E", "text": "FEV1 improvement of 12% or more"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Reversible airway obstruction confirmed by bronchodilator response is the spirometric hallmark of asthma. A 12% or greater improvement from baseline AND 200 mL or greater increase in FEV1 after bronchodilator administration indicates reversibility.",
+      "whyCorrect": "The American Thoracic Society defines significant bronchodilator reversibility as 12% or greater improvement from baseline or a 200 mL or greater increase in FEV1. This patient's FEV1 improved from 68% to 82% predicted, consistent with reversible obstruction supporting asthma over fixed obstruction like COPD.",
+      "whyWrongByChoice": {
+        "A": "A persistently low FEV1/FVC after bronchodilator suggests fixed obstruction (as in COPD), not asthma.",
+        "B": "FVC does not decrease after bronchodilator in asthma. If anything, FVC may improve as trapped air is released.",
+        "C": "No change in peak flow after bronchodilator would argue against reversible obstruction.",
+        "D": "Elevated TLC suggests hyperinflation but is not the criterion used to confirm reversibility."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "spirometry", "bronchodilator response", "FEV1", "diagnosis"]
+  },
+  {
+    "id": "r13-010",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 22-year-old woman is evaluated for episodic cough and chest tightness over the past 3 months. She has no wheezing on examination, and baseline spirometry is normal. A methacholine challenge test is performed and shows a 25% decrease in FEV1 at a methacholine concentration of 4 mg/mL. Which interpretation is most accurate?",
+    "choices": [
+      {"label": "A", "text": "Normal responsiveness excluding asthma"},
+      {"label": "B", "text": "Fixed obstruction suggesting COPD"},
+      {"label": "C", "text": "Airway hyperreactivity confirming asthma"},
+      {"label": "D", "text": "Restrictive physiology from fibrosis"},
+      {"label": "E", "text": "Vocal cord dysfunction pattern"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "A methacholine challenge is positive when FEV1 drops 20% or more from baseline. A PC20 of 8 mg/mL or less is consistent with asthma. This patient's PC20 is 4 mg/mL with a 25% drop, indicating significant airway hyperreactivity.",
+      "whyCorrect": "The methacholine challenge test measures airway hyperreactivity. A PC20 of 8 mg/mL or less is consistent with asthma, while greater than 16 mg/mL is negative. This patient's airways responded to a low concentration (4 mg/mL) with a greater-than-20% FEV1 decrease, confirming hyperreactivity.",
+      "whyWrongByChoice": {
+        "A": "A PC20 greater than 16 mg/mL would be considered negative. At 4 mg/mL, this result is strongly positive and does not exclude asthma.",
+        "B": "COPD causes fixed obstruction seen on baseline spirometry. This patient has normal baseline spirometry with hyperreactivity, consistent with asthma.",
+        "D": "Restrictive lung disease would show reduced FVC and TLC. The methacholine test evaluates airway reactivity, not restriction.",
+        "E": "Vocal cord dysfunction causes upper airway obstruction and would not produce a positive methacholine challenge with this pattern."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "methacholine challenge", "bronchoprovocation", "airway hyperreactivity", "diagnosis"]
+  },
+  {
+    "id": "r13-011",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 50-year-old woman with severe asthma presents to the emergency department with extreme dyspnea, tachycardia at 130 bpm, and oxygen saturation of 85% on room air. Despite appearing in significant respiratory distress with accessory muscle use, auscultation reveals absent breath sounds bilaterally. Which of the following best explains these findings?",
+    "choices": [
+      {"label": "A", "text": "Bilateral tension pneumothorax"},
+      {"label": "B", "text": "Large bilateral pleural effusions"},
+      {"label": "C", "text": "Tracheal obstruction by mucus plug"},
+      {"label": "D", "text": "Severe bronchospasm without airflow"},
+      {"label": "E", "text": "Bilateral diaphragmatic paralysis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A 'silent chest' in the setting of a severe asthma exacerbation indicates status asthmaticus with critical airway obstruction. The bronchospasm is so severe that there is virtually no air movement, resulting in absent breath sounds despite respiratory effort.",
+      "whyCorrect": "In status asthmaticus, bronchoconstriction, mucosal edema, and mucus plugging are so extensive that air cannot move through the airways. The 'silent chest' paradoxically indicates worsening, as there is insufficient airflow to generate wheezes. This is a life-threatening emergency.",
+      "whyWrongByChoice": {
+        "A": "Bilateral pneumothorax would be extremely rare and typically occurs from trauma or mechanical ventilation, not spontaneously during an asthma attack.",
+        "B": "Large pleural effusions would cause dullness to percussion and decreased fremitus, not this acute presentation.",
+        "C": "A tracheal mucus plug would cause stridor and inspiratory difficulty, not the pattern of absent breath sounds with severe asthma.",
+        "E": "Diaphragmatic paralysis would cause reduced chest expansion but not the absent breath sounds pattern seen in status asthmaticus."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "status asthmaticus", "silent chest", "emergency"]
+  },
+  {
+    "id": "r13-012",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 30-year-old painter develops recurrent wheezing and cough that occur at work but resolve completely on weekends and during vacations. He has no personal or family history of atopy. Skin prick testing to common aeroallergens is negative. Pulmonary function tests at work show reversible airflow obstruction. Which diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Atopic allergic asthma"},
+      {"label": "B", "text": "Occupational chemical-induced asthma"},
+      {"label": "C", "text": "Chronic obstructive bronchitis"},
+      {"label": "D", "text": "Extrinsic allergic alveolitis"},
+      {"label": "E", "text": "Pulmonary sarcoidosis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient's symptoms correlate with workplace exposure (painting), improve away from work, and show reversible obstruction on PFTs. This pattern is characteristic of occupational asthma. Painters are exposed to isocyanates in spray paints, which can cause airway trauma.",
+      "whyCorrect": "Occupational asthma presents with work-related symptoms that improve away from the exposure. Painters may develop asthma from isocyanate exposure, which causes airway trauma and release of bronchoconstricting substances. The lack of atopic history and work-related pattern distinguish this from atopic asthma.",
+      "whyWrongByChoice": {
+        "A": "Atopic asthma is associated with a personal or family history of atopy and positive skin tests to allergens. This patient lacks atopic features and symptoms are work-related.",
+        "C": "Chronic bronchitis causes productive cough for 3 months or more in 2 consecutive years, typically in smokers. It does not show the work-related pattern.",
+        "D": "Hypersensitivity pneumonitis is a type III hypersensitivity causing restrictive lung disease, not reversible obstruction. It is triggered by organic dusts.",
+        "E": "Sarcoidosis causes noncaseating granulomas with bilateral hilar lymphadenopathy and restrictive disease, not reversible obstruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "occupational", "isocyanates", "nonatopic"]
+  },
+  {
+    "id": "r13-013",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 38-year-old woman with asthma and nasal polyps develops severe bronchospasm, rhinorrhea, and periorbital swelling 30 minutes after taking ibuprofen for a headache. Her oxygen saturation drops to 90% on room air. Which mechanism best explains her drug-induced bronchospasm?",
+    "choices": [
+      {"label": "A", "text": "Direct mast cell membrane disruption"},
+      {"label": "B", "text": "IgE-mediated drug hypersensitivity"},
+      {"label": "C", "text": "Beta-2 adrenergic receptor antagonism"},
+      {"label": "D", "text": "COX inhibition shunting to LOX pathway"},
+      {"label": "E", "text": "Phosphodiesterase enzyme inhibition"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "NSAID-induced asthma occurs because COX inhibition by ibuprofen shunts arachidonic acid metabolism toward the lipoxygenase (LOX) pathway, increasing production of leukotrienes, which are potent bronchoconstrictors.",
+      "whyCorrect": "NSAIDs like ibuprofen inhibit cyclooxygenase (COX), blocking prostaglandin synthesis. This diverts arachidonic acid to the lipoxygenase (LOX) pathway, increasing leukotriene production (LTC4, LTD4, LTE4). Leukotrienes are potent bronchoconstrictors. The triad of asthma, nasal polyps, and NSAID sensitivity is classic.",
+      "whyWrongByChoice": {
+        "A": "Ibuprofen does not directly cause mast cell degranulation. The mechanism is indirect, through increased leukotriene production via LOX pathway shunting.",
+        "B": "NSAID-induced asthma is not an IgE-mediated allergic reaction. It is a pharmacologic effect affecting all COX inhibitors.",
+        "C": "Beta-2 adrenergic receptor antagonism (as with non-selective beta-blockers) can trigger bronchospasm, but this is not the mechanism of NSAIDs.",
+        "E": "Phosphodiesterase inhibition causes bronchodilation, not bronchoconstriction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "NSAID-induced", "aspirin triad", "leukotrienes", "COX inhibition"]
+  },
+  {
+    "id": "r13-014",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "An 8-year-old boy with a history of asthma develops wheezing, cough, and chest tightness within the first 10 minutes of running the 400-meter dash at a track meet on a cold autumn day. His symptoms gradually resolve after 45 minutes of rest. Which underlying mechanism is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Rapid cool dry air inspiration"},
+      {"label": "B", "text": "Ventilation-perfusion mismatch shunting"},
+      {"label": "C", "text": "Systemic exercise-related anaphylaxis"},
+      {"label": "D", "text": "Hyperinflation compressing small airways"},
+      {"label": "E", "text": "Systemic dehydration causing mucosal ischemia"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Exercise-induced bronchoconstriction (EIB) typically develops during the first 10 minutes of exercise and resolves within about 1 hour. The likely cause is rapid inspiration of cool, dry air that irritates and dehydrates the airway mucosa.",
+      "whyCorrect": "In EIB, vigorous exercise causes rapid breathing of cool, dry air, which leads to drying and cooling of the airway mucosa. This triggers release of inflammatory mediators including leukotrienes, IL-8, and eosinophil activation, resulting in bronchoconstriction.",
+      "whyWrongByChoice": {
+        "B": "V/Q mismatch causes hypoxemia but does not explain the characteristic bronchoconstriction pattern of EIB that occurs early in exercise and resolves spontaneously.",
+        "C": "Exercise-induced anaphylaxis is a distinct and rare condition. This patient's presentation with brief symptoms resolving in under 1 hour is classic for EIB.",
+        "D": "Airway compression from hyperinflation occurs in severe emphysema, not exercise-induced bronchoconstriction in a child.",
+        "E": "Dehydration of the airway mucosa is part of the mechanism, but it is caused by rapid inspiration of dry air, not systemic dehydration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "exercise-induced bronchoconstriction", "EIB", "pathophysiology"]
+  },
+  {
+    "id": "r13-015",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 6-year-old boy is brought in for evaluation of a chronic cough that worsens at night and with physical activity. He has no wheezing, and lung auscultation is clear. His father has allergic rhinitis. Spirometry shows mild airflow obstruction that reverses with albuterol. Which diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Gastroesophageal reflux disease"},
+      {"label": "B", "text": "Bordetella pertussis infection"},
+      {"label": "C", "text": "Endobronchial foreign body"},
+      {"label": "D", "text": "Cough-variant asthma"},
+      {"label": "E", "text": "Cystic fibrosis exacerbation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cough-variant asthma presents with chronic cough as the predominant or sole symptom, without classic wheezing. It is more common in children and responds to standard asthma therapies. This child has family history of atopy, nocturnal and exercise-triggered cough, and reversible obstruction.",
+      "whyCorrect": "Cough-variant asthma is a form of asthma where chronic cough is the primary symptom without wheezing. It responds to bronchodilators and asthma medications. The family history of allergic rhinitis, nocturnal worsening, exercise trigger, and reversible obstruction all support this diagnosis.",
+      "whyWrongByChoice": {
+        "A": "GERD can cause chronic cough but would not show reversible airway obstruction on spirometry or respond to albuterol.",
+        "B": "Pertussis causes paroxysmal cough with inspiratory whoop, but it is an acute infection, not chronic with reversible obstruction.",
+        "C": "Foreign body aspiration typically causes acute-onset symptoms, often with unilateral findings, not this chronic bilateral pattern.",
+        "E": "Cystic fibrosis causes chronic cough with thick secretions and recurrent infections, but spirometry would show progressive obstruction that does not reverse."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "cough-variant", "pediatric", "diagnosis"]
+  },
+  {
+    "id": "r13-016",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 17-year-old girl with persistent asthma presents for follow-up. Her complete blood count shows a white blood cell count of 8,200/mm3 with 8% eosinophils (absolute count 656/mm3). She has no parasitic infection or drug allergies. Which cytokine is most likely driving the elevated eosinophil count?",
+    "choices": [
+      {"label": "A", "text": "Interleukin-2"},
+      {"label": "B", "text": "Interleukin-10"},
+      {"label": "C", "text": "Interleukin-5"},
+      {"label": "D", "text": "Interleukin-4"},
+      {"label": "E", "text": "Interferon-gamma"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "IL-5, secreted by Th2 cells, is the key cytokine that promotes eosinophil production in bone marrow, recruitment to tissues, and survival. Peripheral eosinophilia is a common finding in asthma.",
+      "whyCorrect": "IL-5 is the principal cytokine responsible for eosinophil differentiation in bone marrow, recruitment to the bronchial wall and peripheral blood, and prolonged survival. Anti-IL-5 therapies (mepolizumab) dramatically reduce eosinophil counts.",
+      "whyWrongByChoice": {
+        "A": "IL-2 promotes T-cell proliferation and activation but does not specifically drive eosinophil production.",
+        "B": "IL-10 is an anti-inflammatory cytokine that suppresses immune responses and would not promote eosinophilia.",
+        "D": "IL-4 promotes IgE class switching and Th2 differentiation. While it contributes to the allergic response, it does not directly drive eosinophil production.",
+        "E": "IFN-gamma is a Th1 cytokine that activates macrophages. It actually suppresses Th2 responses and eosinophil recruitment."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "eosinophilia", "IL-5", "Th2", "immunology"]
+  },
+  {
+    "id": "r13-017",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 12-year-old boy with well-controlled asthma visits his pediatrician. His mother asks why atopic asthma is more prevalent in affluent nations than in developing countries. She notes that her family moved from a rural village abroad where asthma was rare. Which hypothesis best explains this epidemiologic observation?",
+    "choices": [
+      {"label": "A", "text": "Higher urban pollution directly causes asthma"},
+      {"label": "B", "text": "Genetic differences between population groups"},
+      {"label": "C", "text": "Fewer childhood infections cause immune dysregulation"},
+      {"label": "D", "text": "More effective traditional herbal treatments abroad"},
+      {"label": "E", "text": "Higher dietary vitamin D in tropical climates"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The hygiene hypothesis proposes that reduced childhood exposure to infections in affluent countries leads to an understimulated immune system that targets harmless environmental antigens, causing allergic diseases including asthma.",
+      "whyCorrect": "The hygiene hypothesis states that hygienic practices in developed countries result in fewer childhood infections. With fewer pathogens to stimulate an appropriate immune response, the immune system redirects toward innocuous antigens such as pollens and dander, causing IgE-mediated inflammation and asthma.",
+      "whyWrongByChoice": {
+        "A": "While air pollution can trigger asthma attacks, the higher prevalence of atopic asthma in affluent countries is better explained by the hygiene hypothesis. Many developing countries also have significant pollution.",
+        "B": "The disparity is seen across genetically similar populations in different environments, suggesting environmental rather than purely genetic factors.",
+        "D": "There is no evidence that traditional treatments in developing countries are more effective at preventing asthma.",
+        "E": "While vitamin D has been studied in relation to asthma, it does not explain the epidemiologic pattern described by the hygiene hypothesis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "hygiene hypothesis", "epidemiology", "atopy"]
+  },
+  {
+    "id": "r13-018",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 42-year-old man with moderate persistent asthma takes fluticasone daily and uses his albuterol rescue inhaler 4-5 times per week over the past month. He reports two nighttime awakenings per week due to cough. According to GINA guidelines, which conclusion about his current management is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "His asthma is well controlled"},
+      {"label": "B", "text": "Rescue inhaler use warrants step-up"},
+      {"label": "C", "text": "He should switch to LABA alone"},
+      {"label": "D", "text": "Daily SABA use is expected here"},
+      {"label": "E", "text": "Albuterol should be replaced by ipratropium"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "According to GINA guidelines, SABA use more than 2 times per week indicates inadequate asthma control and warrants a step-up in therapy, typically adding or increasing inhaled corticosteroids.",
+      "whyCorrect": "The GINA guidelines state that SABA use more than 2 times per week signals that asthma is not well controlled. This patient's 4-5 times/week use exceeds this threshold, indicating the need to step up controller therapy such as starting or increasing ICS dose.",
+      "whyWrongByChoice": {
+        "A": "Frequent rescue inhaler use (more than 2 times per week) specifically indicates poor control, not well-controlled asthma.",
+        "C": "LABAs should never be used as monotherapy in asthma, as they do not address the underlying inflammation.",
+        "D": "While moderate persistent asthma involves more frequent symptoms, the goal is to minimize rescue inhaler use. Daily SABA use indicates undertreated disease.",
+        "E": "Ipratropium is not a substitute for albuterol in chronic asthma. It is primarily used as adjunct therapy in acute exacerbations."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "GINA guidelines", "SABA use", "stepwise therapy"]
+  },
+  {
+    "id": "r13-019",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 55-year-old woman with no prior history of atopy develops new-onset wheezing and dyspnea. She has never had eczema, hay fever, or positive skin prick tests. Her asthma symptoms began after a severe upper respiratory tract infection 6 months ago. Compared to childhood-onset atopic asthma, her condition is most likely associated with which feature?",
+    "choices": [
+      {"label": "A", "text": "Positive allergen skin prick testing"},
+      {"label": "B", "text": "Strong family history of eczema"},
+      {"label": "C", "text": "Markedly elevated serum IgE levels"},
+      {"label": "D", "text": "Predominant mast cell pathology"},
+      {"label": "E", "text": "Triggers like infections or pollutants"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Adult-onset asthma is more likely to be nonatopic and triggered by non-allergenic factors such as upper respiratory infections, GERD, pollutants, exercise, medications, or cold air, rather than classic IgE-mediated allergen exposure.",
+      "whyCorrect": "Patients with adult-onset asthma are less likely to have allergy-related triggers. Their asthma is often driven by non-IgE mechanisms including infections, GERD, occupational exposures, and pollutants. These triggers cause neutrophil-driven airway inflammation mediated by Th17 cells.",
+      "whyWrongByChoice": {
+        "A": "Positive skin prick tests reflect IgE-mediated sensitization, characteristic of childhood-onset atopic asthma.",
+        "B": "A strong family history of atopic diseases is more associated with childhood-onset atopic asthma.",
+        "C": "Elevated serum IgE is a marker of atopic disease, more characteristic of childhood-onset allergic asthma.",
+        "D": "Mast cell-driven pathology is the hallmark of type 1 hypersensitivity in atopic asthma. Adult-onset nonatopic asthma is more often neutrophil-driven."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "adult-onset", "nonatopic", "clinical presentation"]
+  },
+  {
+    "id": "r13-020",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 20-year-old college student with asthma undergoes a fractional exhaled nitric oxide (FeNO) test as part of her disease monitoring. The result is 55 ppb (normal less than 25 ppb). She is currently asymptomatic with normal spirometry. Which of the following does the elevated FeNO most directly indicate?",
+    "choices": [
+      {"label": "A", "text": "Active bronchial mucosal inflammation"},
+      {"label": "B", "text": "Irreversible fixed airway obstruction"},
+      {"label": "C", "text": "Impaired alveolar gas diffusion"},
+      {"label": "D", "text": "Decreased surfactant production"},
+      {"label": "E", "text": "Bronchial smooth muscle atrophy"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "FeNO testing measures the fraction of nitric oxide in exhaled air. Elevated FeNO indicates active eosinophilic airway inflammation because the inflamed bronchial mucosa in asthma produces higher-than-normal quantities of NO.",
+      "whyCorrect": "Nitric oxide is a normal byproduct of cellular metabolism, but the inflamed mucosa in asthma produces excess NO. Elevated FeNO reflects active eosinophilic bronchial inflammation and can help diagnose asthma and monitor disease activity.",
+      "whyWrongByChoice": {
+        "B": "FeNO measures inflammation, not the degree of airway obstruction. Spirometry with bronchodilator testing assesses reversibility.",
+        "C": "Impaired gas diffusion is measured by DLCO testing, not FeNO.",
+        "D": "Surfactant deficiency is seen in neonatal respiratory distress syndrome. FeNO does not measure surfactant production.",
+        "E": "Smooth muscle atrophy is not a feature of asthma. Asthma causes smooth muscle hypertrophy."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "FeNO", "diagnosis", "airway inflammation"]
+  },
+  {
+    "id": "r13-021",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 9-year-old girl with asthma also has eczema and seasonal rhinitis. Her mother has allergic rhinitis and her father has asthma. Her younger brother has atopic dermatitis. A serum IgE level is markedly elevated. The clustering of these allergic conditions in this family is best explained by which concept?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune genetic predisposition"},
+      {"label": "B", "text": "Primary immunodeficiency syndrome"},
+      {"label": "C", "text": "Atopy with hereditary allergy tendency"},
+      {"label": "D", "text": "Shared household pathogen exposure"},
+      {"label": "E", "text": "Type III hypersensitivity inheritance"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Atopy is a genetic predisposition to develop allergic diseases such as asthma, eczema (atopic dermatitis), and allergic rhinosinusitis. Patients with asthma frequently have a family history of atopy.",
+      "whyCorrect": "Atopy is a hereditary tendency to develop IgE-mediated hypersensitivity reactions to common environmental allergens. The coexistence of asthma, eczema, and allergic rhinitis in this child and her family represents the classic atopic triad.",
+      "whyWrongByChoice": {
+        "A": "Autoimmune diseases involve immune responses against self-antigens, not environmental allergens. The atopic diseases described are allergic, not autoimmune.",
+        "B": "Immunodeficiency syndromes present with recurrent infections, not allergic conditions. Atopy represents an overactive immune response.",
+        "D": "While environmental exposures trigger symptoms, the familial clustering of multiple allergic diseases reflects genetic atopy, not shared pathogen exposure.",
+        "E": "Type III hypersensitivity involves immune complex deposition and is not inherited in the pattern described. Atopic diseases are type I (IgE) mediated."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "atopy", "atopic triad", "genetics", "eczema"]
+  },
+  {
+    "id": "r13-022",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 33-year-old man with atopic asthma undergoes allergen challenge testing in a research study. Within minutes of exposure, he develops bronchoconstriction. During this early phase response (0-30 minutes), which preformed mediator released by mast cells is most responsible for the initial bronchoconstriction?",
+    "choices": [
+      {"label": "A", "text": "Interleukin-13"},
+      {"label": "B", "text": "Bradykinin"},
+      {"label": "C", "text": "Platelet-activating factor"},
+      {"label": "D", "text": "Histamine"},
+      {"label": "E", "text": "Transforming growth factor-beta"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "During the early phase of the asthma response, allergens crosslink IgE on mast cells, triggering degranulation and immediate release of preformed mediators, primarily histamine. Histamine causes rapid bronchial smooth muscle constriction.",
+      "whyCorrect": "Histamine is the principal preformed mediator released during mast cell degranulation in the early phase. It acts within minutes to cause bronchoconstriction, increased vascular permeability, and mucus secretion.",
+      "whyWrongByChoice": {
+        "A": "IL-13 is a Th2 cytokine that promotes mucus production and is more important in the late-phase response, not the immediate bronchoconstriction.",
+        "B": "Bradykinin is a vasoactive peptide involved in inflammation but is not the primary mediator of mast cell-driven early-phase bronchoconstriction.",
+        "C": "Platelet-activating factor can contribute to airway inflammation but is not the principal mediator of the immediate early-phase response.",
+        "E": "TGF-beta is involved in tissue remodeling and fibrosis in chronic asthma but does not cause acute bronchoconstriction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "early phase", "histamine", "mast cells", "mediators"]
+  },
+  {
+    "id": "r13-023",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 16-year-old girl with known asthma presents for a routine physical examination between exacerbations. She reports feeling well with no recent symptoms. Her respiratory rate is 16 breaths/min and oxygen saturation is 99%. Which physical examination finding would be most expected?",
+    "choices": [
+      {"label": "A", "text": "Bilateral expiratory wheezes"},
+      {"label": "B", "text": "Fine inspiratory bibasilar crackles"},
+      {"label": "C", "text": "Dullness to percussion bilaterally"},
+      {"label": "D", "text": "Rightward tracheal deviation"},
+      {"label": "E", "text": "Normal respiratory examination"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Between asthma attacks, many patients have completely normal respiratory exam findings. The wheezing, prolonged expiration, and other signs of obstruction resolve when bronchoconstriction resolves.",
+      "whyCorrect": "Asthma is an episodic disease. Between exacerbations, the airways return to their baseline state, and physical examination findings are typically normal. Wheezing and prolonged expiration are only heard during or shortly after attacks.",
+      "whyWrongByChoice": {
+        "A": "Expiratory wheezes are characteristic of asthma during an attack but would not be expected between exacerbations.",
+        "B": "Fine inspiratory crackles suggest interstitial lung disease or pulmonary edema, not asthma.",
+        "C": "Dullness to percussion suggests pleural effusion or consolidation, not asthma.",
+        "D": "Tracheal deviation suggests pneumothorax or atelectasis, not asthma."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "physical exam", "between attacks", "clinical presentation"]
+  },
+  {
+    "id": "r13-024",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 27-year-old woman with severe persistent asthma has been hospitalized twice in the past year despite maximum inhaled therapy. Laboratory evaluation shows a serum IgE level of 1200 IU/mL (normal less than 100 IU/mL). Skin prick testing confirms multiple aeroallergen sensitivities. Which Th2 cytokine most directly drives IgE class switching in B cells?",
+    "choices": [
+      {"label": "A", "text": "Interleukin-4"},
+      {"label": "B", "text": "Interleukin-5"},
+      {"label": "C", "text": "Interleukin-9"},
+      {"label": "D", "text": "Interleukin-13"},
+      {"label": "E", "text": "Interleukin-17"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "IL-4 is the Th2 cytokine that drives B-cell class switching to IgE production. Elevated IgE is a hallmark of atopic asthma and is the target of omalizumab therapy.",
+      "whyCorrect": "IL-4, secreted by Th2 cells, is the primary cytokine responsible for inducing B-cell isotype switching to produce IgE. This IgE then binds to mast cells and basophils, sensitizing them for subsequent allergen-triggered degranulation.",
+      "whyWrongByChoice": {
+        "B": "IL-5 recruits and activates eosinophils but does not drive IgE production.",
+        "C": "IL-9 heightens the overall Th2 response and promotes mast cell growth but is not the direct driver of IgE class switching.",
+        "D": "IL-13 promotes mucus production and shares some overlap with IL-4 but is primarily responsible for mucus hypersecretion.",
+        "E": "IL-17 is a Th17 cytokine involved in neutrophilic inflammation in nonatopic asthma, not IgE production."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "IL-4", "IgE", "Th2 cytokines", "immunology"]
+  },
+  {
+    "id": "r13-025",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 35-year-old man with nonatopic asthma undergoes bronchial biopsy showing predominantly neutrophilic inflammation. Flow cytometry of bronchoalveolar lavage fluid reveals elevated IL-17 levels and increased CD4+ T cells. Which T helper cell phenotype is most likely driving this inflammatory pattern?",
+    "choices": [
+      {"label": "A", "text": "Th1 cells"},
+      {"label": "B", "text": "Th2 cells"},
+      {"label": "C", "text": "Th17 cells"},
+      {"label": "D", "text": "Regulatory T cells"},
+      {"label": "E", "text": "Follicular helper T cells"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nonatopic asthma is frequently associated with neutrophil-driven inflammation mediated by CD4+ T cells with a Th17 phenotype. Th17 cells secrete IL-17, which drives neutrophilic airway inflammation.",
+      "whyCorrect": "In nonatopic asthma, CD4+ T cells differentiate into the Th17 phenotype rather than Th2. Th17 cells secrete IL-17, which drives neutrophilic airway inflammation, distinct from the eosinophilic, IgE-mediated pattern of atopic asthma.",
+      "whyWrongByChoice": {
+        "A": "Th1 cells produce IFN-gamma and are involved in cell-mediated immunity against intracellular pathogens, not neutrophilic asthma.",
+        "B": "Th2 cells produce IL-4, IL-5, and IL-13, driving eosinophilic inflammation in atopic asthma, not the neutrophilic pattern described.",
+        "D": "Regulatory T cells produce anti-inflammatory cytokines and suppress immune responses. They would not drive this inflammation.",
+        "E": "Follicular helper T cells assist B cells in germinal centers and are not primarily responsible for airway neutrophilic inflammation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["asthma", "nonatopic", "Th17", "IL-17", "neutrophilic", "immunology"]
+  },
+  {
+    "id": "r13-026",
+    "topicId": "asthma",
+    "topicName": "Asthma",
+    "stem": "A 7-year-old boy with poorly controlled asthma is brought to the emergency department with severe dyspnea, accessory muscle use, respiratory rate of 40 breaths/min, and oxygen saturation of 88%. Initial nebulized albuterol and ipratropium provide minimal improvement. Auscultation now reveals a silent chest. Which of the following is the most appropriate next step in management?",
+    "choices": [
+      {"label": "A", "text": "Discharge with oral antibiotics"},
+      {"label": "B", "text": "Perform methacholine challenge testing"},
+      {"label": "C", "text": "Obtain chest CT before treatment"},
+      {"label": "D", "text": "Give systemic corticosteroids and prepare intubation"},
+      {"label": "E", "text": "Switch to inhaled corticosteroid alone"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This patient is in status asthmaticus with a silent chest despite aggressive bronchodilator therapy. Systemic corticosteroids (IV methylprednisolone or oral prednisone) are essential, and preparations for intubation should be made as this is a life-threatening emergency.",
+      "whyCorrect": "Status asthmaticus with a silent chest is life-threatening. When bronchodilators fail, systemic corticosteroids are needed to address the underlying inflammation. The silent chest, hypoxemia, and tachypnea indicate impending respiratory failure requiring preparation for intubation.",
+      "whyWrongByChoice": {
+        "A": "Discharging a patient with status asthmaticus and a silent chest would be dangerous. This patient needs emergent treatment.",
+        "B": "Methacholine challenge is contraindicated during acute asthma symptoms as it could worsen bronchoconstriction.",
+        "C": "Delaying treatment for a CT scan in a patient with impending respiratory failure is inappropriate.",
+        "E": "Inhaled corticosteroids alone are insufficient for status asthmaticus. Systemic corticosteroids are needed for rapid effect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["asthma", "status asthmaticus", "emergency management", "silent chest", "systemic corticosteroids"]
+  },
+  {
+    "id": "r13-027",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 24-year-old man with mild persistent asthma asks why his physician prescribed an inhaled corticosteroid rather than just relying on his albuterol rescue inhaler alone. He notes the rescue inhaler works faster. Which of the following best explains why ICS are the cornerstone of long-term therapy?",
+    "choices": [
+      {"label": "A", "text": "ICS provide immediate bronchodilation"},
+      {"label": "B", "text": "ICS directly relax bronchial smooth muscle"},
+      {"label": "C", "text": "ICS suppress underlying airway inflammation"},
+      {"label": "D", "text": "ICS block muscarinic receptor signaling"},
+      {"label": "E", "text": "ICS inhibit lipoxygenase enzyme activity"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "ICS are the most effective first-line treatment for long-term asthma control because they suppress the chronic airway inflammation underlying asthma. They inhibit cytokine synthesis and inactivate NF-kB.",
+      "whyCorrect": "ICS suppress the inflammatory process by inhibiting the synthesis of almost all types of cytokines and inactivating NF-kB. While they do not directly cause bronchodilation, they upregulate beta-2 receptors and enhance the effectiveness of beta-2 agonists.",
+      "whyWrongByChoice": {
+        "A": "ICS do not provide immediate bronchodilation. SABAs like albuterol are used for acute relief. ICS work over days to weeks.",
+        "B": "ICS do not directly relax bronchial smooth muscle. They work indirectly by reducing inflammation and upregulating beta-2 receptors.",
+        "D": "Muscarinic receptor blockade is the mechanism of anticholinergics (ipratropium, tiotropium), not ICS.",
+        "E": "Lipoxygenase inhibition is the mechanism of zileuton, not ICS."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ICS", "asthma treatment", "anti-inflammatory", "mechanism of action"]
+  },
+  {
+    "id": "r13-028",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 13-year-old girl has been using her fluticasone inhaler twice daily for 3 months. She presents with a sore throat and white plaques on her tongue and buccal mucosa that scrape off easily, revealing an erythematous base. Which preventive measure would have most likely avoided this complication?",
+    "choices": [
+      {"label": "A", "text": "Taking the ICS with meals"},
+      {"label": "B", "text": "Rinsing mouth after each use"},
+      {"label": "C", "text": "Adding a spacer device routinely"},
+      {"label": "D", "text": "Switching to dry powder formulation"},
+      {"label": "E", "text": "Decreasing the ICS dose by half"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This patient has oral candidiasis (thrush) caused by Candida albicans, a well-known adverse effect of ICS use. The most effective preventive measure is rinsing the mouth after each inhaler use.",
+      "whyCorrect": "Oral candidiasis and hoarseness are the most significant local adverse effects of ICS. The corticosteroid deposits in the oropharynx suppress local immune defenses, allowing Candida overgrowth. Rinsing the mouth removes residual corticosteroid.",
+      "whyWrongByChoice": {
+        "A": "ICS are inhaled, not ingested. Taking them with food has no effect on oropharyngeal deposition.",
+        "C": "While a spacer can help reduce oropharyngeal deposition, mouth rinsing is the most recommended preventive measure.",
+        "D": "Dry powder inhalers can also cause oropharyngeal thrush. Switching the device alone does not eliminate the risk.",
+        "E": "Decreasing the dose may reduce risk but would also decrease therapeutic benefit. Mouth rinsing is standard without compromising treatment."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ICS", "adverse effects", "oral candidiasis", "thrush", "prevention"]
+  },
+  {
+    "id": "r13-029",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 19-year-old college student with asthma develops acute wheezing during a soccer game. He uses two puffs of his albuterol inhaler and his symptoms resolve within 5 minutes. He asks why albuterol works so much faster than his roommate's salmeterol inhaler. Which pharmacologic property best explains albuterol's rapid onset?",
+    "choices": [
+      {"label": "A", "text": "High lipophilicity with membrane partitioning"},
+      {"label": "B", "text": "Direct phosphodiesterase enzyme inhibition"},
+      {"label": "C", "text": "Competitive muscarinic M3 receptor blockade"},
+      {"label": "D", "text": "Hydrophilic structure with rapid receptor access"},
+      {"label": "E", "text": "Mast cell membrane stabilization properties"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Albuterol (a SABA) is relatively hydrophilic, which means it does not remain associated with the cell membrane for long. This allows it to reach the beta-2 receptor quickly, producing rapid bronchodilation within minutes.",
+      "whyCorrect": "SABAs like albuterol are hydrophilic molecules that rapidly access beta-2 receptors on bronchial smooth muscle. Upon binding, they activate adenylyl cyclase, increasing cAMP and causing smooth muscle relaxation. The hydrophilic nature explains rapid onset (minutes) but brief duration.",
+      "whyWrongByChoice": {
+        "A": "High lipophilicity with prolonged membrane association describes LABAs (salmeterol, formoterol), which have lipophilic side chains for sustained receptor interaction.",
+        "B": "Phosphodiesterase inhibition is the mechanism of theophylline and roflumilast, not albuterol.",
+        "C": "Muscarinic M3 receptor blockade is the mechanism of anticholinergics like ipratropium and tiotropium.",
+        "E": "Mast cell stabilization is the mechanism of cromolyn sodium, not albuterol."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["SABA", "albuterol", "pharmacology", "beta-2 agonist", "mechanism"]
+  },
+  {
+    "id": "r13-030",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 30-year-old woman with moderate persistent asthma continues to have frequent exacerbations despite high-dose ICS. Her physician adds salmeterol to her regimen as a maintenance controller. Salmeterol provides bronchodilation lasting 12 hours or more. Which property best explains its prolonged duration of action?",
+    "choices": [
+      {"label": "A", "text": "Irreversible covalent receptor binding"},
+      {"label": "B", "text": "Rapid hepatic metabolism prevents tolerance"},
+      {"label": "C", "text": "Lipophilic side chains anchor in membrane"},
+      {"label": "D", "text": "Selective PDE4 enzyme inhibition"},
+      {"label": "E", "text": "Competitive leukotriene receptor blockade"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Salmeterol and other LABAs have lipophilic side chains that partition into the plasma membrane and remain near the beta-2 receptor, prolonging receptor interaction to 12 hours or more.",
+      "whyCorrect": "LABAs like salmeterol have lipophilic side chains that anchor in the plasma membrane, creating a sustained reservoir near the beta-2 receptor. This prolongs receptor interaction, extending bronchodilation to 12+ hours, making them suitable for maintenance therapy.",
+      "whyWrongByChoice": {
+        "A": "Salmeterol binding is reversible. The prolonged effect is due to membrane partitioning, not permanent receptor occupancy.",
+        "B": "LABAs have a long duration precisely because they are slowly released from the membrane. Rapid metabolism would shorten their effect.",
+        "D": "PDE4 inhibition is the mechanism of roflumilast. Salmeterol stimulates beta-2 receptors to increase cAMP.",
+        "E": "Leukotriene receptor blockade is the mechanism of montelukast and zafirlukast, not salmeterol."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["LABA", "salmeterol", "pharmacology", "mechanism", "lipophilic"]
+  },
+  {
+    "id": "r13-031",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A physician is explaining to a medical student why LABAs carry an FDA warning against monotherapy in asthma and must always be combined with an inhaled corticosteroid. Which of the following is the most important reason for this restriction?",
+    "choices": [
+      {"label": "A", "text": "LABAs cause severe tachycardia alone"},
+      {"label": "B", "text": "LABAs have no bronchodilatory effect alone"},
+      {"label": "C", "text": "LABAs cause rapid receptor tolerance"},
+      {"label": "D", "text": "LABAs increase bronchial mucus production"},
+      {"label": "E", "text": "LABAs mask worsening airway inflammation"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "LABAs provide bronchodilation but do not treat the underlying airway inflammation. Using LABAs alone may mask worsening inflammation while symptoms appear controlled, increasing the risk of severe exacerbations.",
+      "whyCorrect": "LABAs are bronchodilators that relax airway smooth muscle but do not suppress chronic inflammation. LABA monotherapy can mask progressive inflammation, leading to increased risk of severe or fatal attacks. They must always be combined with ICS.",
+      "whyWrongByChoice": {
+        "A": "While tachycardia is a possible adverse effect, it is not the primary reason LABAs should not be used as monotherapy.",
+        "B": "LABAs do cause bronchodilation independently. The symptomatic relief without anti-inflammatory treatment is precisely the danger.",
+        "C": "While some tolerance can develop, this is not the primary safety concern prohibiting monotherapy.",
+        "D": "LABAs do not increase mucus production. The concern is inadequate control of the inflammatory component."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["LABA", "monotherapy", "asthma safety", "ICS combination"]
+  },
+  {
+    "id": "r13-032",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 15-year-old boy with exercise-induced asthma and concurrent allergic rhinitis is prescribed montelukast as add-on therapy. He asks how this medication works differently from his albuterol inhaler. Which mechanism of action best describes montelukast?",
+    "choices": [
+      {"label": "A", "text": "Inhibition of 5-lipoxygenase enzyme"},
+      {"label": "B", "text": "Stabilization of mast cell membranes"},
+      {"label": "C", "text": "Beta-2 adrenergic receptor stimulation"},
+      {"label": "D", "text": "Selective phosphodiesterase-4 inhibition"},
+      {"label": "E", "text": "Cysteinyl leukotriene receptor blockade"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Montelukast is a leukotriene receptor antagonist (LTRA) that works by blocking the cysteinyl leukotriene receptor on target cell surfaces, preventing leukotrienes from causing bronchoconstriction and inflammation.",
+      "whyCorrect": "Montelukast blocks the cysteinyl leukotriene receptor (CysLT1), preventing LTC4, LTD4, and LTE4 from binding and exerting their bronchoconstrictive effects. It is particularly useful for exercise-induced or allergen-induced asthma.",
+      "whyWrongByChoice": {
+        "A": "Inhibition of 5-lipoxygenase is the mechanism of zileuton, which blocks leukotriene production at the enzymatic level. Montelukast blocks the receptor.",
+        "B": "Mast cell membrane stabilization is the mechanism of cromolyn sodium, not montelukast.",
+        "C": "Beta-2 adrenergic receptor stimulation is the mechanism of SABAs and LABAs, not montelukast.",
+        "D": "PDE4 inhibition is the mechanism of roflumilast, not montelukast."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["montelukast", "LTRA", "leukotriene", "mechanism of action"]
+  },
+  {
+    "id": "r13-033",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A mother brings her 8-year-old son for follow-up 2 months after starting montelukast for asthma. She reports he has become irritable, has frequent mood swings, difficulty sleeping, and recently told his teacher he 'doesn't want to be here anymore.' His asthma is well controlled. Which adverse effect is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Montelukast neuropsychiatric effects"},
+      {"label": "B", "text": "Theophylline central nervous toxicity"},
+      {"label": "C", "text": "Inhaled corticosteroid oral candidiasis"},
+      {"label": "D", "text": "Albuterol-induced hypokalemia"},
+      {"label": "E", "text": "Systemic corticosteroid Cushing syndrome"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Montelukast carries an FDA black box warning for neuropsychiatric effects, primarily mood changes and behavioral disturbances. These effects were primarily observed in pediatric patients.",
+      "whyCorrect": "Montelukast has an FDA black box warning for neuropsychiatric effects including mood changes, agitation, depression, and suicidal ideation. These are more commonly reported in pediatric patients. The temporal association with starting montelukast makes this the most likely cause.",
+      "whyWrongByChoice": {
+        "B": "Theophylline toxicity causes nervousness, tremor, tachycardia, and seizures, not the mood changes described. The patient is on montelukast.",
+        "C": "Oral candidiasis causes white plaques in the mouth, not neuropsychiatric symptoms.",
+        "D": "Hypokalemia from albuterol would cause muscle weakness and cardiac effects, not mood disturbances.",
+        "E": "Cushing syndrome causes weight gain, moon face, and metabolic effects, not primarily these behavioral changes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["montelukast", "neuropsychiatric effects", "FDA black box", "adverse effects", "pediatric"]
+  },
+  {
+    "id": "r13-034",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 60-year-old man with moderate COPD (GOLD Group B) who is a former 40-pack-year smoker is started on tiotropium as maintenance therapy. He asks how this medication prevents his bronchoconstriction. Which mechanism of action best describes tiotropium?",
+    "choices": [
+      {"label": "A", "text": "Beta-2 adrenergic receptor stimulation"},
+      {"label": "B", "text": "Leukotriene synthesis inhibition"},
+      {"label": "C", "text": "Mast cell membrane stabilization"},
+      {"label": "D", "text": "Muscarinic M3 receptor competitive blockade"},
+      {"label": "E", "text": "NF-kB transcription factor inhibition"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Tiotropium is a long-acting muscarinic antagonist (LAMA) that competitively blocks M3 muscarinic receptors on airway smooth muscle, preventing acetylcholine-mediated bronchoconstriction.",
+      "whyCorrect": "Tiotropium blocks M3 muscarinic receptors on airway smooth muscle, preventing acetylcholine from stimulating bronchoconstriction. As a LAMA, it provides sustained 24-hour bronchodilation. In COPD, LAMAs are prioritized as first-line therapy.",
+      "whyWrongByChoice": {
+        "A": "Beta-2 adrenergic receptor stimulation is the mechanism of SABAs and LABAs, not tiotropium.",
+        "B": "Leukotriene synthesis inhibition is the mechanism of zileuton, not tiotropium.",
+        "C": "Mast cell stabilization is the mechanism of cromolyn sodium, not tiotropium.",
+        "E": "NF-kB inhibition is part of the mechanism of corticosteroids, not muscarinic antagonists."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["LAMA", "tiotropium", "muscarinic antagonist", "COPD", "mechanism"]
+  },
+  {
+    "id": "r13-035",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 70-year-old woman with COPD is started on ipratropium. After several weeks, she reports dry mouth, blurry vision, difficulty urinating, and constipation. Her vital signs show heart rate 96 bpm. Which pharmacologic action best explains these symptoms?",
+    "choices": [
+      {"label": "A", "text": "Beta-2 adrenergic agonism"},
+      {"label": "B", "text": "Anticholinergic muscarinic blockade"},
+      {"label": "C", "text": "Leukotriene receptor antagonism"},
+      {"label": "D", "text": "Corticosteroid immunosuppression"},
+      {"label": "E", "text": "Phosphodiesterase enzyme inhibition"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Ipratropium is a short-acting muscarinic antagonist (SAMA). Its adverse effects are classic anticholinergic: dry mouth, blurry vision, urinary retention. The mnemonic is 'Blind as a Bat, Dry as a Bone, Full as a Flask.'",
+      "whyCorrect": "Ipratropium blocks muscarinic receptors beyond the airways. Classic anticholinergic side effects include dry mouth, blurry vision, urinary retention, tachycardia, constipation, and confusion in the elderly.",
+      "whyWrongByChoice": {
+        "A": "Beta-2 agonist side effects include tachycardia, tremor, and hypokalemia, not dry mouth, blurry vision, or urinary retention.",
+        "C": "Leukotriene receptor antagonists are associated with neuropsychiatric effects, not the anticholinergic symptoms described.",
+        "D": "Corticosteroid side effects include immunosuppression, hyperglycemia, and adrenal suppression, not the triad described.",
+        "E": "Phosphodiesterase inhibitor side effects include nervousness, tremor, tachycardia, and GI upset, not these anticholinergic symptoms."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ipratropium", "SAMA", "anticholinergic", "adverse effects", "COPD"]
+  },
+  {
+    "id": "r13-036",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 22-year-old man presents with an acute asthma exacerbation. He receives multiple nebulized albuterol treatments and his wheezing improves. However, laboratory studies reveal serum potassium of 3.1 mEq/L (normal 3.5-5.0 mEq/L). An ECG shows flattened T waves. Which mechanism best explains the hypokalemia?",
+    "choices": [
+      {"label": "A", "text": "Corticosteroid-induced renal potassium wasting"},
+      {"label": "B", "text": "Anticholinergic gastrointestinal potassium loss"},
+      {"label": "C", "text": "Beta-2 agonist Na/K-ATPase activation"},
+      {"label": "D", "text": "Hyperventilation-induced respiratory alkalosis"},
+      {"label": "E", "text": "Poor dietary potassium intake"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Albuterol activates the Na+/K+-ATPase pump on cell membranes, driving potassium intracellularly. This same mechanism is therapeutically exploited to treat hyperkalemia.",
+      "whyCorrect": "Beta-2 agonists like albuterol stimulate the Na+/K+-ATPase pump, which drives Na+ out of cells and K+ into cells. This intracellular shift decreases serum potassium. This is also the basis for using albuterol to treat hyperkalemia.",
+      "whyWrongByChoice": {
+        "A": "While corticosteroids can cause renal potassium wasting, this patient's hypokalemia is temporally related to albuterol administration.",
+        "B": "Anticholinergic medications cause constipation, not diarrhea. Ipratropium is not mentioned in the treatment.",
+        "D": "Respiratory alkalosis from hyperventilation can cause mild hypokalemia, but the primary mechanism here is the direct effect of albuterol.",
+        "E": "Decreased dietary intake would cause chronic, gradual depletion, not acute hypokalemia following bronchodilator treatment."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["albuterol", "hypokalemia", "Na/K-ATPase", "adverse effects", "SABA"]
+  },
+  {
+    "id": "r13-037",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 55-year-old man with severe COPD and frequent exacerbations despite ICS/LABA/LAMA triple inhaled therapy is being considered for add-on roflumilast. He has a phenotype consistent with chronic bronchitis. Which mechanism of action best describes roflumilast?",
+    "choices": [
+      {"label": "A", "text": "Selective PDE4 inhibition raising cAMP"},
+      {"label": "B", "text": "Nonselective PDE3/PDE4 with adenosine antagonism"},
+      {"label": "C", "text": "IL-5 receptor blockade on eosinophils"},
+      {"label": "D", "text": "Cysteinyl leukotriene receptor antagonism"},
+      {"label": "E", "text": "Circulating IgE binding and neutralization"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Roflumilast is a selective PDE4 inhibitor. By preventing the breakdown of cAMP, it increases intracellular cAMP levels, resulting in bronchodilation and anti-inflammatory effects.",
+      "whyCorrect": "Roflumilast selectively inhibits PDE4, preventing cAMP degradation. Elevated cAMP in inflammatory cells reduces pro-inflammatory mediator release and in smooth muscle cells promotes relaxation. It is reserved for severe COPD with chronic bronchitis.",
+      "whyWrongByChoice": {
+        "B": "Nonselective PDE3/PDE4 inhibition with adenosine receptor antagonism describes theophylline, not roflumilast.",
+        "C": "IL-5 receptor blockade is the mechanism of benralizumab, a biologic for eosinophilic asthma.",
+        "D": "Cysteinyl leukotriene receptor antagonism is the mechanism of montelukast and zafirlukast.",
+        "E": "IgE binding is the mechanism of omalizumab, used for severe allergic asthma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["roflumilast", "PDE4 inhibitor", "COPD", "mechanism of action"]
+  },
+  {
+    "id": "r13-038",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A physician is considering theophylline for a 62-year-old patient with severe asthma refractory to maximal inhaled therapy. She reviews the drug's profile and notes multiple concerns. Which of the following is the most important reason theophylline has fallen out of favor as a first-line agent?",
+    "choices": [
+      {"label": "A", "text": "It has no bronchodilatory effect"},
+      {"label": "B", "text": "It requires intravenous administration only"},
+      {"label": "C", "text": "It is contraindicated with beta-agonists"},
+      {"label": "D", "text": "It causes irreversible hepatotoxicity"},
+      {"label": "E", "text": "Narrow therapeutic index needs monitoring"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Theophylline has fallen out of favor because it has a narrow therapeutic index requiring serum monitoring, a concerning side effect profile, significant CYP1A2/CYP3A4 drug interactions, and is less effective than newer medications.",
+      "whyCorrect": "Theophylline's narrow therapeutic index means the difference between therapeutic and toxic blood levels is small. Serum monitoring is required to prevent toxicity. Combined with drug interactions and inferior efficacy compared to modern therapies, it is reserved for refractory cases.",
+      "whyWrongByChoice": {
+        "A": "Theophylline does have bronchodilatory effects through PDE3/PDE4 inhibition. It is simply less effective and less safe than alternatives.",
+        "B": "Theophylline can be administered orally. Aminophylline (IV form) is used for acute exacerbations.",
+        "C": "Theophylline is not contraindicated with beta-2 agonists. They can be used together.",
+        "D": "Hepatotoxicity is associated with zileuton, not theophylline. Theophylline toxicity primarily affects the cardiovascular and nervous systems."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["theophylline", "narrow therapeutic index", "PDE inhibitor", "adverse effects"]
+  },
+  {
+    "id": "r13-039",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 45-year-old woman with severe eosinophilic asthma (blood eosinophils 600 cells/mcL) remains uncontrolled despite high-dose ICS/LABA therapy. She has required three courses of oral prednisone in the past year. Her allergist recommends mepolizumab. Which molecular target does this biologic agent block?",
+    "choices": [
+      {"label": "A", "text": "Circulating immunoglobulin E"},
+      {"label": "B", "text": "IL-4 receptor alpha subunit"},
+      {"label": "C", "text": "Tumor necrosis factor-alpha"},
+      {"label": "D", "text": "Interleukin-13 cytokine"},
+      {"label": "E", "text": "Interleukin-5 cytokine"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Mepolizumab is a monoclonal antibody that targets IL-5, the key cytokine responsible for eosinophil production, recruitment, and survival.",
+      "whyCorrect": "Mepolizumab binds and neutralizes IL-5, blocking its ability to stimulate eosinophil production, recruitment, and survival. By targeting this pathway, it reduces eosinophil counts and decreases exacerbations in severe eosinophilic asthma.",
+      "whyWrongByChoice": {
+        "A": "IgE is the target of omalizumab, used for severe allergic asthma, not specifically eosinophilic asthma.",
+        "B": "IL-4 receptor alpha is the target of dupilumab, which blocks both IL-4 and IL-13 signaling.",
+        "C": "TNF-alpha is targeted by agents like infliximab for autoimmune diseases but is not a standard target in asthma.",
+        "D": "IL-13 is targeted indirectly by dupilumab. There is no standalone anti-IL-13 biologic among commonly used asthma therapies."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mepolizumab", "IL-5", "biologic", "eosinophilic asthma"]
+  },
+  {
+    "id": "r13-040",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 35-year-old man with severe allergic asthma, elevated serum IgE of 800 IU/mL, and documented dust mite sensitivity is started on omalizumab. Three months later, during his routine infusion, he develops sudden throat tightness, diffuse urticaria, and blood pressure drops to 80/50 mmHg. Which diagnosis is most likely?",
+    "choices": [
+      {"label": "A", "text": "Serum sickness reaction"},
+      {"label": "B", "text": "Vasovagal syncopal episode"},
+      {"label": "C", "text": "Anaphylaxis from omalizumab"},
+      {"label": "D", "text": "Acute asthma exacerbation"},
+      {"label": "E", "text": "Cytokine release syndrome"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Omalizumab carries an FDA boxed warning for anaphylaxis, which can occur even after long-term use. The triad of throat tightness, urticaria, and hypotension is classic for anaphylaxis.",
+      "whyCorrect": "Omalizumab carries a boxed warning for anaphylaxis, which can occur at any time during treatment, even after months of uneventful infusions. The presentation of throat tightness, urticaria, and hypotension is the classic anaphylaxis triad.",
+      "whyWrongByChoice": {
+        "A": "Serum sickness is a type III reaction that presents with fever, arthralgia, and rash days after exposure, not these acute symptoms.",
+        "B": "Vasovagal syncope causes bradycardia and hypotension but not urticaria or throat tightness.",
+        "D": "An acute asthma exacerbation presents with wheezing and dyspnea, not urticaria and throat tightness.",
+        "E": "Cytokine release syndrome presents with fever and tachycardia but not the classic allergic features described."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["omalizumab", "anaphylaxis", "biologic", "adverse effects", "boxed warning"]
+  },
+  {
+    "id": "r13-041",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 28-year-old woman with severe asthma, atopic dermatitis, and chronic rhinosinusitis with nasal polyps has elevated blood eosinophils and high FeNO. She remains symptomatic despite high-dose ICS/LABA. Her allergist wants a single biologic agent that addresses all three conditions. Which therapy is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Omalizumab"},
+      {"label": "B", "text": "Dupilumab"},
+      {"label": "C", "text": "Mepolizumab"},
+      {"label": "D", "text": "Benralizumab"},
+      {"label": "E", "text": "Roflumilast"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Dupilumab targets the IL-4 receptor alpha, blocking both IL-4 and IL-13 signaling. It is uniquely indicated for eosinophilic asthma AND atopic dermatitis and chronic rhinosinusitis with nasal polyps.",
+      "whyCorrect": "Dupilumab blocks IL-4 receptor alpha, inhibiting both IL-4 and IL-13 signaling. It is approved for severe eosinophilic asthma, atopic dermatitis, and chronic rhinosinusitis with nasal polyps, addressing all three of this patient's conditions.",
+      "whyWrongByChoice": {
+        "A": "Omalizumab targets IgE and is effective for allergic asthma and nasal polyps but is not specifically indicated for atopic dermatitis.",
+        "C": "Mepolizumab targets IL-5 and is effective for eosinophilic asthma but is not approved for atopic dermatitis or nasal polyps.",
+        "D": "Benralizumab targets the IL-5 receptor for eosinophilic asthma but is not approved for atopic dermatitis or nasal polyps.",
+        "E": "Roflumilast is a PDE4 inhibitor for severe COPD, not indicated for any of this patient's conditions."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["dupilumab", "IL-4R-alpha", "biologic", "atopic dermatitis", "nasal polyps"]
+  },
+  {
+    "id": "r13-042",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 65-year-old man with COPD has a blood eosinophil count of 350 cells/mcL and has had 3 exacerbations in the past year despite LABA/LAMA combination therapy. His FEV1 is 45% predicted. According to current guidelines, which of the following should be added to his regimen?",
+    "choices": [
+      {"label": "A", "text": "Inhaled corticosteroid"},
+      {"label": "B", "text": "Oral montelukast daily"},
+      {"label": "C", "text": "Subcutaneous omalizumab"},
+      {"label": "D", "text": "Inhaled cromolyn sodium"},
+      {"label": "E", "text": "Oral theophylline daily"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In COPD patients with frequent exacerbations and blood eosinophils 300 or more, adding an ICS to LABA/LAMA therapy is particularly beneficial.",
+      "whyCorrect": "For COPD, ICS are added later in therapy. When a COPD patient has blood eosinophils 300 or more and frequent exacerbations despite dual bronchodilator therapy, adding ICS to form triple therapy is specifically recommended, as eosinophilic inflammation responds well to corticosteroids.",
+      "whyWrongByChoice": {
+        "B": "Montelukast is primarily for asthma and has limited evidence for benefit in COPD.",
+        "C": "Omalizumab targets IgE in severe allergic asthma and is not indicated for COPD.",
+        "D": "Cromolyn sodium is not recommended for COPD because it targets inflammatory pathways rather than the obstruction dominating in COPD.",
+        "E": "Theophylline is reserved for the most severe COPD patients who have failed other therapies. Adding ICS is the appropriate next step given eosinophilia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "ICS", "eosinophils", "triple therapy", "exacerbation"]
+  },
+  {
+    "id": "r13-043",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A pharmacology student is studying the signaling cascade of beta-2 adrenergic agonists. She learns that when albuterol binds the beta-2 receptor on bronchial smooth muscle, a G-protein-coupled signaling cascade is initiated. Which intracellular event occurs first after receptor binding?",
+    "choices": [
+      {"label": "A", "text": "Phosphodiesterase degrades cAMP"},
+      {"label": "B", "text": "Protein kinase C becomes activated"},
+      {"label": "C", "text": "Adenylyl cyclase becomes activated"},
+      {"label": "D", "text": "Sarcoplasmic calcium is released"},
+      {"label": "E", "text": "Na/K-ATPase pump is inhibited"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "When albuterol binds the beta-2 receptor (a Gs protein-coupled receptor), it activates adenylyl cyclase, which converts ATP to cAMP. Increased cAMP activates protein kinase A, causing smooth muscle relaxation.",
+      "whyCorrect": "The beta-2 receptor is coupled to a stimulatory G protein (Gs). When albuterol binds, the Gs alpha-subunit activates adenylyl cyclase, producing cAMP from ATP. Elevated cAMP then activates protein kinase A, leading to smooth muscle relaxation.",
+      "whyWrongByChoice": {
+        "A": "cAMP breakdown by phosphodiesterase is the termination step, not the initial event. PDE inhibitors (theophylline) prevent this breakdown.",
+        "B": "Protein kinase C is activated via the phospholipase C pathway (Gq-coupled receptors), not the Gs-cAMP pathway.",
+        "D": "Calcium release from the SR causes muscle contraction, the opposite of what beta-2 agonists do.",
+        "E": "Beta-2 agonists actually activate (not inhibit) the Na+/K+-ATPase pump, which is a downstream effect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["beta-2 agonist", "signaling", "adenylyl cyclase", "cAMP", "mechanism"]
+  },
+  {
+    "id": "r13-044",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 50-year-old woman with asthma, nasal polyps, and a history of severe bronchospasm after taking aspirin asks about an asthma medication that specifically targets the overproduced inflammatory mediators responsible for her aspirin sensitivity. Which medication is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Fluticasone inhaler"},
+      {"label": "B", "text": "Zileuton tablets"},
+      {"label": "C", "text": "Ipratropium inhaler"},
+      {"label": "D", "text": "Omalizumab injection"},
+      {"label": "E", "text": "Cromolyn sodium inhaler"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Aspirin-exacerbated respiratory disease results from COX inhibition shunting arachidonic acid to the lipoxygenase pathway, increasing leukotriene production. Zileuton inhibits 5-lipoxygenase, directly blocking leukotriene synthesis.",
+      "whyCorrect": "Zileuton inhibits 5-lipoxygenase, the enzyme that converts arachidonic acid to leukotrienes. Since aspirin-exacerbated respiratory disease is caused by excess leukotriene production from LOX pathway shunting, zileuton directly blocks the overproduced mediators.",
+      "whyWrongByChoice": {
+        "A": "Fluticasone (ICS) is a broad anti-inflammatory but does not specifically target the leukotriene pathway responsible for aspirin sensitivity.",
+        "C": "Ipratropium is an anticholinergic that blocks parasympathetic bronchoconstriction, not leukotriene-mediated bronchoconstriction.",
+        "D": "Omalizumab targets IgE in allergic asthma, not the leukotriene pathway.",
+        "E": "Cromolyn stabilizes mast cells but does not specifically block the lipoxygenase pathway."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["zileuton", "lipoxygenase", "aspirin-exacerbated", "leukotrienes"]
+  },
+  {
+    "id": "r13-045",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 26-year-old woman with mild intermittent asthma (GINA Steps 1-2) asks her physician about the best approach to managing her symptoms. She currently uses albuterol as needed 3 times per month. According to current GINA guidelines, which preferred treatment strategy should she follow?",
+    "choices": [
+      {"label": "A", "text": "As-needed SABA alone"},
+      {"label": "B", "text": "Daily LABA monotherapy"},
+      {"label": "C", "text": "High-dose ICS with LAMA"},
+      {"label": "D", "text": "Daily oral systemic corticosteroids"},
+      {"label": "E", "text": "Low-dose ICS-formoterol as needed"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "GINA guidelines recommend low-dose ICS combined with formoterol as both controller and reliever (MART) for Steps 1-2. This reduces exacerbations compared to SABA alone.",
+      "whyCorrect": "Current GINA guidelines prefer low-dose ICS-formoterol as both maintenance controller and as-needed reliever for mild asthma. Every use delivers anti-inflammatory medication alongside bronchodilation, reducing exacerbation risk.",
+      "whyWrongByChoice": {
+        "A": "SABA alone is an alternative, not the preferred strategy. GINA recommends against relying solely on SABA without anti-inflammatory coverage.",
+        "B": "LABA monotherapy is never recommended in asthma due to the risk of masking worsening inflammation.",
+        "C": "High-dose ICS with LAMA is reserved for severe asthma (Step 4-5), not mild disease.",
+        "D": "Daily systemic corticosteroids carry significant adverse effects and are only for severe refractory asthma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["GINA guidelines", "stepwise therapy", "ICS-formoterol", "MART"]
+  },
+  {
+    "id": "r13-046",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 58-year-old man with COPD (GOLD Group A) presents with occasional dyspnea on exertion while gardening. He has had no exacerbations in the past year. His FEV1 is 72% predicted. He takes no respiratory medications. According to COPD management guidelines, which initial pharmacotherapy is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "High-dose inhaled corticosteroid"},
+      {"label": "B", "text": "ICS/LABA/LAMA triple inhaler"},
+      {"label": "C", "text": "Daily oral prednisone maintenance"},
+      {"label": "D", "text": "As-needed short-acting bronchodilator"},
+      {"label": "E", "text": "Subcutaneous mepolizumab biologic"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "For COPD Group A patients (few symptoms, low exacerbation risk), initial therapy is a bronchodilator as needed. For COPD, bronchodilators are prioritized first-line because the primary pathology is fixed airway obstruction.",
+      "whyCorrect": "COPD Group A patients have mild symptoms and infrequent exacerbations. Initial treatment is an as-needed bronchodilator. Unlike asthma, ICS are not first-line in COPD because the pathology is primarily structural obstruction.",
+      "whyWrongByChoice": {
+        "A": "High-dose ICS is not appropriate for Group A COPD. ICS are added only in more severe COPD with frequent exacerbations and elevated eosinophils.",
+        "B": "Triple therapy is reserved for severe COPD patients with frequent exacerbations, not Group A.",
+        "C": "Systemic corticosteroids are only used for acute exacerbations, not daily maintenance.",
+        "E": "Biologic therapies are for severe eosinophilic asthma, not standard COPD management."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "Group A", "initial therapy", "bronchodilator", "guidelines"]
+  },
+  {
+    "id": "r13-047",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A medical student asks her attending why cromolyn sodium, once a commonly used asthma medication, is rarely prescribed today. The attending explains it has been largely replaced. Which of the following is the primary reason cromolyn fell out of favor?",
+    "choices": [
+      {"label": "A", "text": "It causes severe hepatotoxicity"},
+      {"label": "B", "text": "It causes significant immunosuppression"},
+      {"label": "C", "text": "It requires intravenous administration"},
+      {"label": "D", "text": "It was outperformed by ICS therapy"},
+      {"label": "E", "text": "It worsens airway hyperreactivity"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cromolyn sodium is a mast cell stabilizer that prevents degranulation. While well-tolerated, it has been replaced because ICS provide greater improvements in lung function and better overall asthma control.",
+      "whyCorrect": "Cromolyn has been outperformed by ICS, which provide superior lung function improvement, more potent anti-inflammatory effects, and better disease control. Cromolyn also requires 2-4 weeks for full benefits and its effects are less predictable.",
+      "whyWrongByChoice": {
+        "A": "Cromolyn is well tolerated with minimal side effects. Hepatotoxicity is associated with zileuton.",
+        "B": "Cromolyn does not cause significant immunosuppression. Its safety profile is very favorable.",
+        "C": "Cromolyn is given by inhalation, not intravenously. The route is not the reason for its decline.",
+        "E": "Cromolyn does not worsen airway hyperreactivity. It helps prevent it by stabilizing mast cells, though less effectively than ICS."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cromolyn sodium", "mast cell stabilizer", "ICS comparison"]
+  },
+  {
+    "id": "r13-048",
+    "topicId": "treatment-asthma-copd",
+    "topicName": "Treatment of Asthma and COPD",
+    "stem": "A 40-year-old woman with severe persistent asthma (GINA Step 5) remains symptomatic despite optimized high-dose ICS/LABA therapy. Her physician considers adding tiotropium, a long-acting muscarinic antagonist. In which clinical scenario are LAMAs primarily used in asthma?",
+    "choices": [
+      {"label": "A", "text": "First-line for mild intermittent asthma"},
+      {"label": "B", "text": "Monotherapy for moderate persistent asthma"},
+      {"label": "C", "text": "Add-on therapy for severe refractory asthma"},
+      {"label": "D", "text": "ICS replacement when thrush develops"},
+      {"label": "E", "text": "Exercise-induced bronchoconstriction only"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In asthma, LAMAs are not first-line agents. They have a role as add-on therapy at Step 5 for patients with severe asthma who remain uncontrolled despite high-dose ICS/LABA.",
+      "whyCorrect": "LAMA medications like tiotropium have a larger role in COPD than asthma. For severe asthma at Step 5, adding a LAMA to ICS/LABA provides additional bronchodilation through M3 receptor blockade. This is reserved for patients uncontrolled on optimized ICS/LABA.",
+      "whyWrongByChoice": {
+        "A": "LAMAs are not used in mild asthma. Steps 1-2 use ICS with formoterol as the preferred approach.",
+        "B": "LAMAs are not used as monotherapy in asthma at any severity level, unlike COPD where LAMA monotherapy is appropriate.",
+        "D": "LAMAs are not a replacement for ICS. If thrush is a concern, mouth rinsing or spacer use should be tried.",
+        "E": "Exercise-induced bronchoconstriction is typically managed with pre-exercise SABA or daily ICS-based therapy, not LAMAs."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["LAMA", "severe asthma", "Step 5", "add-on therapy", "tiotropium"]
+  }
+]

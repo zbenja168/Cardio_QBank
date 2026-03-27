@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r05-001",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 55-year-old man with a 40-pack-year smoking history presents to the emergency department with worsening dyspnea and cyanosis. He has a history of COPD and uses home oxygen intermittently. Arterial blood gas on room air reveals PaO₂ 60 mmHg, PaCO₂ 50 mmHg, pH 7.30, and HCO₃⁻ 29 mEq/L. His calculated A-a gradient is 27.5 mmHg, with an expected normal of approximately 18 mmHg for his age. What does the elevated A-a gradient most likely indicate?",
+    "choices": [
+      {"label": "A", "text": "Impaired alveolar-capillary gas transfer"},
+      {"label": "B", "text": "Low inspired oxygen fraction"},
+      {"label": "C", "text": "Hypoventilation as sole cause"},
+      {"label": "D", "text": "Uncompensated respiratory alkalosis"},
+      {"label": "E", "text": "Increased anatomic dead space"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "An elevated A-a gradient (above age-adjusted normal) indicates impaired oxygen transfer from alveoli into blood. This points to an intrapulmonary cause such as V/Q mismatch, diffusion impairment, or shunting rather than extrapulmonary causes like hypoventilation or low inspired O₂.",
+      "whyCorrect": "The A-a gradient measures efficiency of oxygen transfer across the alveolar-capillary membrane. An elevated gradient pinpoints the problem to the lung itself, indicating impaired diffusion, V/Q mismatch, or shunting at the alveolar-capillary level.",
+      "whyWrongByChoice": {
+        "C": "Pure hypoventilation causes PAO₂ and PaO₂ to decrease proportionally, maintaining a normal A-a gradient. This patient's elevated gradient indicates an additional intrapulmonary defect.",
+        "B": "Low inspired oxygen reduces PAO₂ and PaO₂ equally, keeping the A-a gradient normal. An elevated gradient rules this out as the sole cause.",
+        "D": "The ABG shows respiratory acidosis (pH 7.30, elevated PaCO₂) with metabolic compensation (elevated HCO₃⁻), not respiratory alkalosis.",
+        "E": "Increased dead space without impaired gas exchange would show a normal A-a gradient. The elevated gradient indicates a problem with oxygen transfer at the alveolar-capillary level."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "A-a-gradient", "hypoxemia", "COPD", "gas-exchange"]
+  },
+  {
+    "id": "r05-002",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 62-year-old woman with progressive dyspnea on exertion is referred for pulmonary function testing. Her spirometry is within normal limits, but her physician orders a DLCO test to further evaluate gas exchange. During the test, the patient inhales a small amount of carbon monoxide and the absorbed amount is calculated from expired air. Why is carbon monoxide used for this test?",
+    "choices": [
+      {"label": "A", "text": "It is perfusion-limited like oxygen"},
+      {"label": "B", "text": "It is diffusion-limited by hemoglobin affinity"},
+      {"label": "C", "text": "It is concentration-limited like nitrogen"},
+      {"label": "D", "text": "It is independent of membrane factors"},
+      {"label": "E", "text": "It diffuses at equal rate to oxygen"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "CO binds hemoglobin with over 200 times the affinity of O₂, preventing buildup of dissolved CO partial pressure in plasma. This maintains a sustained pressure gradient, making CO exchange diffusion-limited and entirely dependent on membrane properties, ideal for measuring diffusion capacity.",
+      "whyCorrect": "Because CO binds avidly to hemoglobin, its partial pressure in capillary blood remains near zero throughout transit. The persistent alveolar-to-blood gradient means CO uptake is limited only by diffusion properties of the membrane, making it ideal for DLCO measurement.",
+      "whyWrongByChoice": {
+        "A": "Oxygen at rest is perfusion-limited and equilibrates within 0.25 seconds. CO never equilibrates due to its high hemoglobin affinity, making it diffusion-limited instead.",
+        "C": "Nitrogen is an inert gas that does not participate significantly in alveolar membrane diffusion under normal conditions. Concentration-limited exchange is not a standard classification.",
+        "D": "CO transfer is entirely dependent on membrane properties including thickness and surface area. That is precisely why it is used to assess diffusion capacity.",
+        "E": "CO and O₂ have different diffusion characteristics. CO's uniquely high hemoglobin affinity makes it diffusion-limited, whereas O₂ is typically perfusion-limited."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "DLCO", "diffusion-limited", "carbon-monoxide"]
+  },
+  {
+    "id": "r05-003",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 28-year-old healthy woman undergoes physiological testing during a research study at rest. Measurements show that mixed venous blood enters the pulmonary capillary with PO₂ of 40 mmHg and equilibrates with alveolar PO₂ of 100 mmHg within 0.25 seconds. The total capillary transit time is 0.75 seconds. After equilibration, no further net diffusion of oxygen occurs. What best describes the limiting factor of oxygen exchange under these conditions?",
+    "choices": [
+      {"label": "A", "text": "Rate of membrane diffusion"},
+      {"label": "B", "text": "Rate of hemoglobin binding"},
+      {"label": "C", "text": "Rate of alveolar ventilation"},
+      {"label": "D", "text": "Rate of pulmonary blood flow"},
+      {"label": "E", "text": "Rate of airway resistance change"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "At rest, oxygen equilibrates rapidly within the first third of capillary transit. After equilibration, the pressure gradient disappears and diffusion stops. Additional oxygen uptake can only increase with more blood flow, making O₂ exchange perfusion-limited.",
+      "whyCorrect": "Once capillary PO₂ equilibrates with alveolar PO₂ at about 0.25 seconds, diffusion stops. The remaining 0.50 seconds provides a safety margin. To increase total O₂ uptake, more blood must flow through the capillaries, hence the exchange is perfusion-limited.",
+      "whyWrongByChoice": {
+        "A": "Oxygen is diffusion-limited only in disease states with thickened membranes or reduced surface area. Under normal resting conditions, equilibration is achieved quickly and the exchange is perfusion-limited.",
+        "B": "While hemoglobin is essential for O₂ transport, the rate of equilibration across the membrane determines whether exchange is perfusion- or diffusion-limited, not hemoglobin binding kinetics.",
+        "C": "Ventilation-limited is not a standard classification of gas exchange. Gas exchange at the membrane level is classified as either diffusion- or perfusion-limited.",
+        "E": "Airway resistance affects ventilation but does not determine the classification of gas exchange kinetics across the alveolar membrane."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "perfusion-limited", "oxygen", "capillary-transit-time"]
+  },
+  {
+    "id": "r05-004",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 48-year-old woman with biopsy-confirmed idiopathic pulmonary fibrosis has normal resting oxygen saturation of 96%. During a 6-minute walk test, her oxygen saturation drops to 84%, and she becomes severely dyspneic. Resting pulmonary function tests show reduced DLCO but near-normal spirometry. Which mechanism best explains her exercise-induced desaturation?",
+    "choices": [
+      {"label": "A", "text": "Increased anatomic dead space ventilation"},
+      {"label": "B", "text": "Decreased hemoglobin during exertion"},
+      {"label": "C", "text": "Surfactant breakdown from physical effort"},
+      {"label": "D", "text": "Exercise-induced bronchospasm"},
+      {"label": "E", "text": "Shortened transit time across thickened membrane"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In interstitial lung disease, the alveolar membrane is thickened, slowing O₂ diffusion. At rest, transit time is sufficient for equilibration. During exercise, increased cardiac output shortens transit time, and the thickened membrane cannot achieve equilibration, causing diffusion-limited hypoxemia.",
+      "whyCorrect": "The thickened membrane delays O₂ equilibration. At rest, there is still enough transit time. During exercise, increased blood flow shortens capillary transit time, and the combination of thickened membrane and shorter transit unmasks the diffusion limitation, causing desaturation.",
+      "whyWrongByChoice": {
+        "A": "Dead space ventilation does not typically increase with exercise and does not explain the classic exercise-induced desaturation pattern seen in interstitial lung disease.",
+        "B": "Hemoglobin concentration does not decrease during exercise. The mechanism here is impaired diffusion across the thickened membrane with shortened transit time.",
+        "C": "Surfactant is not broken down by physical exertion. Surfactant deficiency is not a feature of exercise-induced hypoxemia in interstitial lung disease.",
+        "D": "Exercise-induced bronchospasm causes obstructive symptoms in asthma. The desaturation in pulmonary fibrosis results from diffusion limitation, not airway obstruction."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "diffusion-limitation", "exercise-hypoxemia", "interstitial-lung-disease"]
+  },
+  {
+    "id": "r05-005",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 35-year-old man with chronic kidney disease presents with fatigue, pallor, and dyspnea on exertion. Laboratory studies reveal hemoglobin of 7 g/dL and hematocrit of 21%. His physician orders pulmonary function testing, including DLCO, to evaluate his dyspnea. Spirometry is within normal limits. Which DLCO result is most expected?",
+    "choices": [
+      {"label": "A", "text": "Decreased diffusion capacity"},
+      {"label": "B", "text": "Increased diffusion capacity"},
+      {"label": "C", "text": "Normal diffusion capacity"},
+      {"label": "D", "text": "Unmeasurable diffusion capacity"},
+      {"label": "E", "text": "Unpredictably variable diffusion capacity"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "DLCO measures gas transfer from alveoli into capillary blood, including uptake by hemoglobin. In severe anemia, reduced hemoglobin and RBC concentration decreases the blood's capacity to bind CO, resulting in a decreased DLCO even with a normal alveolar membrane.",
+      "whyCorrect": "DLCO depends on both membrane diffusion and the volume of hemoglobin available to bind CO. In severe anemia, reduced hemoglobin means less CO is bound per unit time, lowering the measured DLCO despite normal lung parenchyma.",
+      "whyWrongByChoice": {
+        "B": "Increased DLCO occurs in conditions with increased pulmonary capillary blood volume or polycythemia. Anemia reduces hemoglobin and has the opposite effect.",
+        "C": "DLCO is significantly affected by hemoglobin concentration. Severe anemia is a well-established cause of reduced DLCO.",
+        "D": "DLCO can still be measured in anemia. It will be reduced, but the test remains valid and clinically interpretable.",
+        "E": "DLCO changes predictably with hemoglobin levels. It decreases proportionally with anemia and does not fluctuate unpredictably."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "DLCO", "anemia", "hemoglobin"]
+  },
+  {
+    "id": "r05-006",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 25-year-old healthy medical student has an arterial blood gas drawn during a physiology laboratory exercise. Results show PaO₂ of 95 mmHg and PaCO₂ of 40 mmHg. The calculated A-a gradient is 8 mmHg. The student asks her professor why the A-a gradient is not zero in a healthy person. Which physiologic mechanism explains this normal gradient?",
+    "choices": [
+      {"label": "A", "text": "Incomplete alveolar-capillary diffusion equilibration"},
+      {"label": "B", "text": "Surfactant absorption of alveolar oxygen"},
+      {"label": "C", "text": "Dead space ventilation diluting arterial blood"},
+      {"label": "D", "text": "Bronchial and thebesian venous admixture"},
+      {"label": "E", "text": "Hemoglobin saturation ceiling at normal PaO₂"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In healthy lungs, oxygen diffusion equilibrates completely. The normal A-a gradient exists because deoxygenated blood from bronchial veins and thebesian veins drains into the oxygenated arterial supply, slightly reducing PaO₂ below PAO₂.",
+      "whyCorrect": "The physiologic shunt from bronchial and thebesian veins adds a small amount of deoxygenated blood to oxygenated pulmonary venous return. This venous admixture lowers PaO₂ by approximately 5-10 mmHg below PAO₂, creating the normal A-a gradient.",
+      "whyWrongByChoice": {
+        "A": "In healthy lungs, O₂ equilibrates completely within the first third of the 0.75-second capillary transit time. Incomplete equilibration occurs only in disease states.",
+        "B": "Surfactant reduces surface tension in alveoli and does not absorb oxygen or contribute to the A-a gradient.",
+        "C": "Dead space ventilation affects CO₂ removal efficiency and alveolar ventilation but does not directly cause the A-a gradient.",
+        "E": "At a normal PaO₂ of ~95 mmHg, hemoglobin is approximately 97% saturated, but this is not the cause of the A-a gradient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "A-a-gradient", "physiologic-shunt", "venous-admixture"]
+  },
+  {
+    "id": "r05-007",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 70-year-old man with a history of morbid obesity and obstructive sleep apnea is brought to the emergency department with somnolence. Arterial blood gas on room air shows PaO₂ of 55 mmHg, PaCO₂ of 55 mmHg, pH 7.32, and HCO₃⁻ of 28 mEq/L. The calculated A-a gradient is 9 mmHg, which is within normal limits for his age. Which cause of hypoxemia is most consistent with these findings?",
+    "choices": [
+      {"label": "A", "text": "Alveolar hypoventilation"},
+      {"label": "B", "text": "Pulmonary thromboembolism"},
+      {"label": "C", "text": "Community-acquired pneumonia"},
+      {"label": "D", "text": "Intracardiac right-to-left shunting"},
+      {"label": "E", "text": "Diffuse pulmonary fibrosis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A normal A-a gradient with hypoxemia indicates an extrapulmonary cause. The elevated PaCO₂ confirms hypoventilation, where inadequate alveolar ventilation reduces both PAO₂ and PaO₂ proportionally, maintaining a normal A-a gradient.",
+      "whyCorrect": "In hypoventilation, CO₂ accumulates and O₂ decreases in the alveoli per the alveolar gas equation. Both PAO₂ and PaO₂ fall together because the lung's gas exchange capacity is intact, hence a normal A-a gradient. The high PaCO₂ confirms ventilatory failure.",
+      "whyWrongByChoice": {
+        "B": "Pulmonary embolism creates alveolar dead space and V/Q mismatch, which would elevate the A-a gradient above normal.",
+        "C": "Pneumonia with V/Q mismatch impairs gas exchange at the alveolar level, elevating the A-a gradient.",
+        "D": "An intracardiac shunt bypasses the lungs, mixing deoxygenated blood into the arterial supply and elevating the A-a gradient.",
+        "E": "Pulmonary fibrosis thickens the alveolar membrane, impairing diffusion and elevating the A-a gradient."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "A-a-gradient", "hypoventilation", "hypoxemia"]
+  },
+  {
+    "id": "r05-008",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A pulmonary pathologist is presenting electron micrographs of normal lung tissue to medical students. The images show the alveolar-capillary barrier measuring approximately 0.5 micrometers in thickness, consisting of type I pneumocyte cytoplasm, fused basement membranes, and capillary endothelial cytoplasm. The pathologist asks why this barrier evolved to be so remarkably thin. What is the primary physiologic advantage?",
+    "choices": [
+      {"label": "A", "text": "Increased airway resistance control"},
+      {"label": "B", "text": "Maximized rate of gas diffusion"},
+      {"label": "C", "text": "Prevention of surfactant entry into blood"},
+      {"label": "D", "text": "Maintenance of colloid osmotic pressure"},
+      {"label": "E", "text": "Reduction of hemoglobin requirements"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Per Fick's law, diffusion rate is inversely proportional to membrane thickness. The extremely thin alveolar-capillary barrier minimizes diffusion distance for O₂ and CO₂, maximizing the rate of gas exchange between alveolar air and capillary blood.",
+      "whyCorrect": "A thinner membrane allows faster diffusion because gas molecules traverse a shorter distance. The 0.5 micrometer barrier represents evolutionary optimization for rapid gas exchange while maintaining structural integrity.",
+      "whyWrongByChoice": {
+        "A": "Alveolar membrane thinness has no relationship to airway resistance, which is determined by airway diameter in the conducting zone.",
+        "C": "The barrier prevents fluid and large molecules from crossing, but its extreme thinness is an adaptation for gas exchange efficiency, not surfactant containment.",
+        "D": "Colloid osmotic pressure is determined by plasma protein concentration, not by membrane thickness.",
+        "E": "The thin membrane does not reduce hemoglobin requirements. Hemoglobin is essential for oxygen transport regardless of membrane thickness."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "respiratory-membrane", "diffusion", "membrane-thickness"]
+  },
+  {
+    "id": "r05-009",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 67-year-old man with a 50-pack-year smoking history and CT-confirmed centrilobular emphysema undergoes pulmonary function testing. His DLCO is 45% of predicted. While older textbooks attributed the reduced DLCO primarily to loss of alveolar surface area, recent evidence suggests the most important mechanism is related to which of the following changes?",
+    "choices": [
+      {"label": "A", "text": "Reduced capillary red blood cell volume"},
+      {"label": "B", "text": "Elevated airway resistance from obstruction"},
+      {"label": "C", "text": "Increased membrane fibrotic thickening"},
+      {"label": "D", "text": "Surfactant deficiency from alveolar damage"},
+      {"label": "E", "text": "Bronchial smooth muscle hypertrophy"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "More recent evidence suggests that most conditions reducing DLCO do so primarily by decreasing the volume of red blood cells in pulmonary capillaries. In emphysema, destruction of alveolar walls and their associated capillary networks reduces total capillary blood volume.",
+      "whyCorrect": "Emphysema destroys alveolar walls and their associated capillary networks. This reduces the total volume of RBCs available to bind CO during the DLCO test. The reduced capillary blood volume is now considered the primary mechanism of decreased DLCO in emphysema.",
+      "whyWrongByChoice": {
+        "C": "Increased membrane thickness characterizes fibrosis, not emphysema. In emphysema, alveolar walls are destroyed rather than thickened.",
+        "B": "Airway resistance is increased in emphysema from loss of elastic recoil, but this does not directly affect DLCO measurement.",
+        "D": "Surfactant deficiency is not a feature of emphysema. The DLCO reduction is due to loss of alveolar capillary beds.",
+        "E": "Bronchial smooth muscle hypertrophy is more characteristic of chronic bronchitis and asthma and does not explain decreased DLCO in emphysema."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "DLCO", "emphysema", "capillary-blood-volume"]
+  },
+  {
+    "id": "r05-010",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 30-year-old woman is evaluated in the emergency department for acute dyspnea. Her physician orders an arterial blood gas to assess oxygenation and ventilation. The results show PaO₂ 98 mmHg, PaCO₂ 38 mmHg, pH 7.40, and HCO₃⁻ 24 mEq/L. Based on standard NBME reference ranges, the normal values for PaO₂ and PaCO₂ are, respectively, which of the following?",
+    "choices": [
+      {"label": "A", "text": "40-60 and 55-65 mmHg"},
+      {"label": "B", "text": "100-120 and 20-30 mmHg"},
+      {"label": "C", "text": "60-80 and 45-55 mmHg"},
+      {"label": "D", "text": "50-70 and 35-45 mmHg"},
+      {"label": "E", "text": "75-105 and 33-45 mmHg"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Normal ABG reference values are PaO₂: 75-105 mmHg indicating adequate oxygen diffusion and PaCO₂: 33-45 mmHg reflecting efficient ventilation and CO₂ removal.",
+      "whyCorrect": "Per NBME reference values, normal PaO₂ is 75-105 mmHg and PaCO₂ is 33-45 mmHg. Values outside these ranges indicate impaired oxygenation or ventilation abnormalities.",
+      "whyWrongByChoice": {
+        "A": "A PaO₂ of 40-60 mmHg indicates significant hypoxemia, and a PaCO₂ of 55-65 mmHg indicates hypercapnia. These are abnormal values.",
+        "B": "A PaO₂ of 100-120 mmHg might be seen with supplemental oxygen, and a PaCO₂ of 20-30 mmHg would indicate severe hyperventilation.",
+        "C": "A PaO₂ of 60-80 mmHg is borderline hypoxemic, and a PaCO₂ of 45-55 mmHg indicates mild hypercapnia.",
+        "D": "A PaO₂ of 50-70 mmHg indicates hypoxemia. While the PaCO₂ range partially overlaps normal, the PaO₂ range is abnormally low."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ABG", "normal-values", "PaO2", "PaCO2"]
+  },
+  {
+    "id": "r05-011",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 28-year-old woman at 32 weeks' gestation presents with preterm labor. Her obstetrician orders amniocentesis to assess fetal lung maturity via the lecithin-to-sphingomyelin ratio. The L/S ratio returns at 1.5, indicating immature surfactant levels. The obstetrician explains that adequate surfactant production, indicated by an L/S ratio of 2.0 or greater, is typically achieved at which gestational age?",
+    "choices": [
+      {"label": "A", "text": "20-22 weeks' gestation"},
+      {"label": "B", "text": "26-28 weeks' gestation"},
+      {"label": "C", "text": "30-32 weeks' gestation"},
+      {"label": "D", "text": "34-36 weeks' gestation"},
+      {"label": "E", "text": "38-40 weeks' gestation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The L/S ratio reaches 2.0 or greater at approximately 34-36 weeks' gestation, indicating adequate surfactant production for independent breathing. Infants born before this point are at risk for neonatal respiratory distress syndrome.",
+      "whyCorrect": "Surfactant production increases progressively, and the L/S ratio reaches the threshold of 2.0 at approximately 34-36 weeks. This benchmark guides clinical decisions about antenatal corticosteroid administration for lung maturation.",
+      "whyWrongByChoice": {
+        "A": "At 20-22 weeks, surfactant production has barely begun and the L/S ratio is well below 2.0.",
+        "B": "At 26-28 weeks, surfactant production is increasing but still insufficient for an L/S ratio of 2.0.",
+        "C": "At 30-32 weeks, surfactant levels are rising but typically have not reached the 2.0 threshold.",
+        "E": "38-40 weeks is full term with L/S well above 2.0, but adequate levels are typically reached earlier at 34-36 weeks."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "L/S-ratio", "fetal-lung-maturity", "surfactant"]
+  },
+  {
+    "id": "r05-012",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 30-year-old woman with polycythemia vera has a hemoglobin of 19 g/dL and a hematocrit of 58%. She is referred for pulmonary function testing to evaluate mild dyspnea. Spirometry and lung volumes are within normal limits. Which DLCO result would be most expected given her elevated red blood cell mass?",
+    "choices": [
+      {"label": "A", "text": "Markedly decreased diffusion capacity"},
+      {"label": "B", "text": "Elevated diffusion capacity"},
+      {"label": "C", "text": "Normal diffusion capacity unchanged"},
+      {"label": "D", "text": "Unmeasurable diffusion capacity result"},
+      {"label": "E", "text": "Decreased then normalized diffusion capacity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In polycythemia, increased RBC concentration and hemoglobin in pulmonary capillaries enhances the blood's capacity to bind CO, resulting in an increased DLCO on pulmonary function testing.",
+      "whyCorrect": "DLCO depends on both membrane diffusion and hemoglobin available to bind CO. Polycythemia increases RBC mass and hemoglobin concentration, providing more binding sites for CO and increasing the measured DLCO.",
+      "whyWrongByChoice": {
+        "A": "Decreased DLCO occurs in conditions that reduce hemoglobin or capillary blood volume. Polycythemia increases hemoglobin, raising DLCO.",
+        "C": "DLCO is not normal in polycythemia because the increased hemoglobin concentration significantly enhances CO uptake.",
+        "D": "DLCO can be measured in polycythemia. The elevated hemoglobin actually makes the test straightforward.",
+        "E": "DLCO remains elevated as long as polycythemia persists and does not normalize without treatment of the underlying condition."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "DLCO", "polycythemia", "hemoglobin"]
+  },
+  {
+    "id": "r05-013",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 60-year-old man with hypoxemia is being evaluated in the pulmonary clinic. His physician calculates the A-a gradient and wants to compare it to the age-adjusted expected normal. The resident asks which formula provides a quick estimate of the upper limit of normal for the A-a gradient. Which of the following is the correct formula?",
+    "choices": [
+      {"label": "A", "text": "(Age multiplied by 4) plus 4"},
+      {"label": "B", "text": "(Age divided by 4) plus 4"},
+      {"label": "C", "text": "Age minus 10"},
+      {"label": "D", "text": "150 minus (Age divided by 2)"},
+      {"label": "E", "text": "Age plus 10"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The age-adjusted normal A-a gradient is estimated using (Age/4) + 4. For a 20-year-old, this gives approximately 9 mmHg; for a 60-year-old, approximately 19 mmHg. Values above this suggest impaired gas exchange.",
+      "whyCorrect": "The formula (Age/4) + 4 provides a quick estimate of the upper limit of normal for the A-a gradient. The gradient increases with age due to progressive loss of alveolar surface area and ventilation-perfusion mismatch.",
+      "whyWrongByChoice": {
+        "A": "(Age multiplied by 4) plus 4 would give unrealistically large values such as 164 for a 40-year-old. The correct formula divides age by 4.",
+        "C": "Age minus 10 would give negative values for patients under 10 and does not reflect the actual age-related change in A-a gradient.",
+        "D": "150 minus (Age/2) is not a formula for the A-a gradient and does not correspond to any standard clinical calculation.",
+        "E": "Age plus 10 would overestimate the normal A-a gradient across all age groups."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "A-a-gradient", "age-adjustment", "formula"]
+  },
+  {
+    "id": "r05-014",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A physiology professor is explaining gas exchange to first-year medical students. She draws the alveolar-capillary unit on the board and explains that two continuous processes maintain the partial pressure gradients that drive O₂ and CO₂ diffusion. Without these processes, the alveolar and capillary pressures would equilibrate, and diffusion would cease. Which two processes maintain these gradients?",
+    "choices": [
+      {"label": "A", "text": "Surfactant production and mucociliary clearance"},
+      {"label": "B", "text": "Hemoglobin binding and carbonic anhydrase"},
+      {"label": "C", "text": "Continuous ventilation and continuous perfusion"},
+      {"label": "D", "text": "Lymphatic drainage and bronchial circulation"},
+      {"label": "E", "text": "Active transport and facilitated diffusion"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Partial pressure gradients at the alveolar-capillary interface are maintained by continuous ventilation, which refreshes alveolar air, and continuous perfusion, which brings deoxygenated blood and removes oxygenated blood.",
+      "whyCorrect": "Without continuous ventilation, alveolar O₂ would be depleted and CO₂ would accumulate. Without continuous perfusion, capillary blood would equilibrate with alveolar gas. Both processes are needed to sustain the driving force for diffusion.",
+      "whyWrongByChoice": {
+        "A": "Surfactant prevents alveolar collapse and mucociliary clearance removes particles. Neither directly maintains partial pressure gradients for gas exchange.",
+        "B": "Hemoglobin binding and carbonic anhydrase facilitate O₂ and CO₂ transport within blood but do not maintain the alveolar-to-blood pressure gradients themselves.",
+        "D": "Lymphatic drainage removes excess fluid and bronchial circulation supplies airway tissue. Neither maintains gas exchange gradients at the alveolar-capillary interface.",
+        "E": "Gas exchange across the alveolar membrane occurs by simple passive diffusion, not active transport or facilitated diffusion."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "ventilation", "perfusion", "pressure-gradients"]
+  },
+  {
+    "id": "r05-015",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 60-year-old man with progressive pulmonary fibrosis presents with worsening exertional dyspnea. High-resolution CT shows extensive bilateral honeycombing. Arterial blood gas on room air reveals PaO₂ of 62 mmHg and PaCO₂ of 32 mmHg. Which mechanism best explains the low PaCO₂ in the setting of hypoxemia?",
+    "choices": [
+      {"label": "A", "text": "Diffusion impairment affecting CO₂ preferentially"},
+      {"label": "B", "text": "Metabolic alkalosis with renal compensation"},
+      {"label": "C", "text": "Decreased CO₂ production from tissue hypoxia"},
+      {"label": "D", "text": "Dead space selectively trapping carbon dioxide"},
+      {"label": "E", "text": "Compensatory hyperventilation from hypoxemia"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In pulmonary fibrosis, the thickened membrane impairs O₂ diffusion more than CO₂ diffusion because CO₂ is 20 times more soluble. The resulting hypoxemia stimulates peripheral chemoreceptors, triggering compensatory hyperventilation that lowers PaCO₂.",
+      "whyCorrect": "Hypoxemia stimulates carotid body chemoreceptors, increasing ventilatory drive. The compensatory hyperventilation effectively blows off CO₂ since CO₂ diffusion is 20 times more efficient than O₂, lowering PaCO₂ despite impaired O₂ transfer.",
+      "whyWrongByChoice": {
+        "A": "CO₂ is 20 times more soluble than O₂ and diffuses much more readily. Diffusion impairment affects O₂ transfer more than CO₂ transfer.",
+        "B": "The low PaCO₂ with hypoxemia in this context is respiratory compensation through hyperventilation, not a metabolic process.",
+        "C": "Tissue hypoxia does not significantly decrease CO₂ production. Cellular metabolism continues and CO₂ production remains relatively constant.",
+        "D": "Dead space does not selectively trap CO₂. Increased dead space would lead to increased PaCO₂, not decreased."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-fibrosis", "compensatory-hyperventilation", "ABG"]
+  },
+  {
+    "id": "r05-016",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A pharmacology professor explains that nitrous oxide (N₂O) is the classic example of perfusion-limited gas exchange and is contrasted with carbon monoxide during lectures on pulmonary physiology. N₂O is an anesthetic gas that diffuses rapidly across the alveolar membrane. After entering the blood, its partial pressure in plasma equilibrates almost instantly. Which property of N₂O makes its exchange perfusion-limited?",
+    "choices": [
+      {"label": "A", "text": "Very low blood solubility"},
+      {"label": "B", "text": "Rapid diffusion without hemoglobin binding"},
+      {"label": "C", "text": "High-affinity hemoglobin binding"},
+      {"label": "D", "text": "Large molecular weight slowing diffusion"},
+      {"label": "E", "text": "Active transport across the membrane"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "N₂O diffuses rapidly and does not bind hemoglobin, so its partial pressure in blood equilibrates with alveolar N₂O almost instantly. Once equilibrated, further uptake depends solely on blood flow, making it perfusion-limited.",
+      "whyCorrect": "Because N₂O does not bind hemoglobin, its dissolved partial pressure rises quickly to match alveolar partial pressure. The gradient disappears rapidly, and no more N₂O can diffuse unless fresh blood arrives, hence perfusion-limited.",
+      "whyWrongByChoice": {
+        "A": "N₂O actually has moderate solubility in blood and tissues as it is an anesthetic. Its perfusion limitation is because it does not bind hemoglobin, not because of low solubility.",
+        "C": "N₂O does not bind hemoglobin. High hemoglobin affinity characterizes CO, which is diffusion-limited.",
+        "D": "N₂O has a relatively small molecular weight of 44 g/mol and diffuses rapidly across the alveolar membrane.",
+        "E": "Gas exchange across the alveolar membrane occurs by passive diffusion. No respiratory gases are actively transported."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "perfusion-limited", "nitrous-oxide", "gas-exchange"]
+  },
+  {
+    "id": "r05-017",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 58-year-old man with fever, productive cough, and right lower lobe consolidation on chest X-ray is admitted for community-acquired pneumonia. Arterial blood gas on room air shows PaO₂ of 58 mmHg, PaCO₂ of 34 mmHg, and pH 7.46. The calculated A-a gradient is 35 mmHg, which exceeds the age-adjusted expected normal. How should this A-a gradient be categorized?",
+    "choices": [
+      {"label": "A", "text": "Normal, consistent with hypoventilation"},
+      {"label": "B", "text": "Normal, consistent with altitude exposure"},
+      {"label": "C", "text": "Decreased, indicating improved gas exchange"},
+      {"label": "D", "text": "Elevated, consistent with metabolic alkalosis"},
+      {"label": "E", "text": "Elevated, consistent with intrapulmonary pathology"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "An A-a gradient of 35 mmHg is significantly elevated. In pneumonia, alveolar consolidation causes V/Q mismatch and intrapulmonary shunting, impairing oxygen transfer from alveoli to blood and elevating the A-a gradient.",
+      "whyCorrect": "Pneumonia causes alveolar filling with inflammatory exudate, creating V/Q mismatch and shunt. This intrapulmonary pathology impairs oxygen transfer, evidenced by the markedly elevated A-a gradient.",
+      "whyWrongByChoice": {
+        "A": "Hypoventilation alone produces a normal A-a gradient because PAO₂ and PaO₂ decrease proportionally. A gradient of 35 mmHg is clearly abnormal.",
+        "B": "High-altitude exposure decreases PAO₂ and PaO₂ equally, maintaining a normal A-a gradient.",
+        "C": "A decreased A-a gradient would suggest improved gas exchange. A gradient of 35 mmHg indicates significant impairment.",
+        "D": "Metabolic alkalosis does not directly cause an elevated A-a gradient. The elevated gradient here reflects intrapulmonary pathology from pneumonia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "A-a-gradient", "pneumonia", "V/Q-mismatch"]
+  },
+  {
+    "id": "r05-018",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A physiology student is reviewing gas exchange and notes that alveolar PO₂ is approximately 100 mmHg while the mixed venous blood entering the pulmonary capillary has a PO₂ of approximately 40 mmHg. In contrast, the CO₂ gradient is much smaller, with venous PCO₂ of 46 mmHg and alveolar PCO₂ of 40 mmHg. What is the approximate oxygen partial pressure gradient driving diffusion across the alveolar membrane?",
+    "choices": [
+      {"label": "A", "text": "6 mmHg"},
+      {"label": "B", "text": "20 mmHg"},
+      {"label": "C", "text": "40 mmHg"},
+      {"label": "D", "text": "60 mmHg"},
+      {"label": "E", "text": "100 mmHg"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "PAO₂ is approximately 100 mmHg and mixed venous PO₂ entering the pulmonary capillary is approximately 40 mmHg. The difference of 60 mmHg is the gradient driving O₂ diffusion into the blood.",
+      "whyCorrect": "The pressure gradient for oxygen diffusion is PAO₂ minus PvO₂ equals 100 minus 40 equals 60 mmHg. This substantial gradient allows rapid O₂ equilibration within the first third of capillary transit time.",
+      "whyWrongByChoice": {
+        "A": "6 mmHg is the CO₂ gradient (PvCO₂ 46 minus PACO₂ 40), not the O₂ gradient.",
+        "B": "20 mmHg is not the correct O₂ gradient. The difference between alveolar and mixed venous PO₂ is 60 mmHg.",
+        "C": "40 mmHg is the mixed venous PO₂ itself, not the gradient between alveolar and venous compartments.",
+        "E": "100 mmHg is the PAO₂ value itself. The gradient is the difference between the two sides, not the absolute alveolar value."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "oxygen-gradient", "partial-pressure", "gas-exchange"]
+  },
+  {
+    "id": "r05-019",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 45-year-old woman with systemic sclerosis and known pulmonary fibrosis runs on a treadmill during a cardiopulmonary exercise test. At peak exercise, her SpO₂ drops from 97% to 82%. Resting DLCO is reduced at 55% of predicted. Her physician explains that oxygen exchange, which is normally perfusion-limited at rest, has become diffusion-limited during exercise. Under which combination of conditions does this transition occur?",
+    "choices": [
+      {"label": "A", "text": "Resting in a well-ventilated room"},
+      {"label": "B", "text": "Supplemental oxygen administration at rest"},
+      {"label": "C", "text": "Increased hemoglobin from polycythemia"},
+      {"label": "D", "text": "Thickened membrane with increased blood flow"},
+      {"label": "E", "text": "Decreased metabolic rate during sleep"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "When the alveolar membrane is thickened and blood flow increases during exercise, capillary transit time shortens and there may not be enough time for O₂ to equilibrate across the abnormal membrane. This shifts O₂ from perfusion-limited to diffusion-limited exchange.",
+      "whyCorrect": "A thickened membrane slows O₂ diffusion. During exercise, increased cardiac output shortens capillary transit time. The combination means O₂ cannot equilibrate during the shortened transit, and uptake is limited by the rate of diffusion rather than blood flow.",
+      "whyWrongByChoice": {
+        "A": "At rest with normal lungs, O₂ equilibrates easily within transit time. There is no diffusion limitation in this scenario.",
+        "B": "Supplemental O₂ increases the alveolar-to-blood pressure gradient, enhancing diffusion rather than limiting it.",
+        "C": "Increased hemoglobin provides more O₂ binding capacity and would enhance O₂ uptake, not create a diffusion limitation.",
+        "E": "Decreased metabolic rate reduces O₂ demand. There is no stimulus to make O₂ exchange diffusion-limited during sleep."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "diffusion-limitation", "exercise", "membrane-thickening"]
+  },
+  {
+    "id": "r05-020",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 52-year-old man with advanced COPD presents with cyanosis, labored breathing, and confusion. An arterial blood gas on room air shows pH 7.30, PaO₂ 60 mmHg, PaCO₂ 50 mmHg, and HCO₃⁻ 24 mEq/L. The pH is below normal, PaCO₂ is elevated above the normal range, and HCO₃⁻ is within normal limits. Which acid-base disturbance is present?",
+    "choices": [
+      {"label": "A", "text": "Acute respiratory acidosis"},
+      {"label": "B", "text": "Primary metabolic alkalosis"},
+      {"label": "C", "text": "Uncompensated metabolic acidosis"},
+      {"label": "D", "text": "Primary respiratory alkalosis"},
+      {"label": "E", "text": "Mixed metabolic and respiratory alkalosis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "pH 7.30 indicates acidemia. PaCO₂ is elevated at 50 mmHg, indicating CO₂ retention from hypoventilation. HCO₃⁻ is normal at 24 mEq/L, meaning there is no metabolic compensation yet. This is an acute respiratory acidosis.",
+      "whyCorrect": "The low pH with elevated PaCO₂ and normal HCO₃⁻ indicates uncompensated respiratory acidosis. The high PaCO₂ reflects inadequate alveolar ventilation, consistent with the hypoxemia.",
+      "whyWrongByChoice": {
+        "C": "Metabolic acidosis would show low HCO₃⁻ with normal or low PaCO₂ from respiratory compensation. This patient has normal HCO₃⁻ and elevated PaCO₂.",
+        "B": "Metabolic alkalosis would show elevated pH and elevated HCO₃⁻. This patient has acidemia with normal HCO₃⁻.",
+        "D": "Respiratory alkalosis would show elevated pH with low PaCO₂. This patient has the opposite pattern.",
+        "E": "Mixed alkalosis would produce elevated pH. This patient has acidemia at pH 7.30."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "ABG-interpretation", "respiratory-acidosis", "acid-base"]
+  },
+  {
+    "id": "r05-021",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 42-year-old firefighter is brought to the emergency department after a structural fire with smoke exposure. His carboxyhemoglobin level is 35%. The emergency physician explains that carbon monoxide binds to hemoglobin with much greater affinity than oxygen, which is why CO poisoning is so dangerous. Approximately how many times greater is CO's affinity for hemoglobin compared to oxygen?",
+    "choices": [
+      {"label": "A", "text": "Approximately 2 times greater"},
+      {"label": "B", "text": "Approximately 20 times greater"},
+      {"label": "C", "text": "Approximately 50 times greater"},
+      {"label": "D", "text": "Approximately 200 times greater"},
+      {"label": "E", "text": "Approximately 2000 times greater"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Carbon monoxide binds hemoglobin with over 200 times the affinity of oxygen. This high affinity prevents CO partial pressure from rising in plasma, maintaining a sustained diffusion gradient and making CO exchange diffusion-limited.",
+      "whyCorrect": "CO's approximately 200 times greater affinity for hemoglobin compared to O₂ makes it dangerous in poisoning and useful in the DLCO test. The avid binding keeps dissolved CO levels near zero, sustaining the alveolar-to-blood gradient.",
+      "whyWrongByChoice": {
+        "A": "2 times would not produce the dramatic diffusion-limited behavior observed with CO. The affinity is orders of magnitude higher.",
+        "B": "20 times is the relative solubility advantage of CO₂ over O₂, not the hemoglobin affinity of CO.",
+        "C": "50 times underestimates CO's hemoglobin affinity. The accepted value is approximately 200-250 times.",
+        "E": "2000 times overestimates the affinity. The widely cited value is approximately 200 times greater than oxygen."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "carbon-monoxide", "hemoglobin-affinity"]
+  },
+  {
+    "id": "r05-022",
+    "topicId": "alveolar-gas-exchange-diffusion",
+    "topicName": "Alveolar Gas Exchange and Diffusion",
+    "stem": "A 55-year-old woman with septic shock from a urinary source is intubated and mechanically ventilated with FiO₂ of 100%. Despite receiving the maximum inspired oxygen concentration, her PaO₂ remains at 55 mmHg on repeat arterial blood gas. The ICU attending explains that the persistently low PaO₂ despite high FiO₂ is characteristic of which specific cause of hypoxemia?",
+    "choices": [
+      {"label": "A", "text": "Pure alveolar hypoventilation"},
+      {"label": "B", "text": "High-altitude oxygen reduction"},
+      {"label": "C", "text": "Alveolar-capillary diffusion impairment"},
+      {"label": "D", "text": "V/Q mismatch correctable with oxygen"},
+      {"label": "E", "text": "True right-to-left shunt physiology"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Right-to-left shunt causes blood to bypass alveoli entirely. No amount of supplemental oxygen can oxygenate blood that never contacts ventilated alveoli. Persistent hypoxemia despite 100% FiO₂ is the hallmark of a true shunt.",
+      "whyCorrect": "In a right-to-left shunt, deoxygenated blood passes directly from right to left circulation without encountering alveolar gas. Since this shunted blood cannot be oxygenated regardless of FiO₂, PaO₂ remains low even with 100% oxygen.",
+      "whyWrongByChoice": {
+        "A": "Hypoventilation-induced hypoxemia readily corrects with supplemental oxygen, which increases PAO₂ and overcomes the reduced ventilation.",
+        "B": "High-altitude hypoxemia is due to reduced PiO₂ and would be completely corrected by administering 100% oxygen.",
+        "C": "Diffusion impairment responds to supplemental oxygen because increasing PAO₂ steepens the pressure gradient across the thickened membrane.",
+        "D": "V/Q mismatch typically responds to supplemental oxygen because increasing alveolar O₂ in poorly ventilated regions improves oxygenation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "shunt", "refractory-hypoxemia", "supplemental-oxygen"]
+  },
+  {
+    "id": "r05-023",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 45-year-old man undergoes right heart catheterization for evaluation of dyspnea. His hemodynamic measurements show a mean pulmonary arterial pressure of 14 mmHg and cardiac output of 5 L/min. For comparison, his systemic mean arterial pressure is 92 mmHg. The cardiologist explains that both circulations carry the same cardiac output but operate at very different pressures. Which statement best describes the pulmonary circulation compared to systemic?",
+    "choices": [
+      {"label": "A", "text": "Lower pressure and lower resistance"},
+      {"label": "B", "text": "Higher pressure and higher resistance"},
+      {"label": "C", "text": "Equal pressure but lower cardiac output"},
+      {"label": "D", "text": "Higher resistance with thicker vessel walls"},
+      {"label": "E", "text": "Lower cardiac output with higher blood volume"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The pulmonary circulation operates as a low-pressure, low-resistance system. Mean pulmonary arterial pressure is approximately 15 mmHg versus approximately 95 mmHg systemic, and pulmonary vascular resistance is approximately one-tenth of systemic vascular resistance.",
+      "whyCorrect": "The pulmonary circulation only needs to pump blood a short distance to the lungs. The thin-walled, compliant vessels result in low pressure and resistance, protecting delicate alveolar capillaries while handling the same cardiac output as the systemic circulation.",
+      "whyWrongByChoice": {
+        "B": "The systemic circulation has higher pressures and resistance. Pulmonary MAP is approximately 15 mmHg versus systemic approximately 95 mmHg.",
+        "C": "Cardiac output is equal in both circulations. The same volume of blood passes through the pulmonary and systemic circuits.",
+        "D": "Pulmonary vessels have thinner walls with less smooth muscle, corresponding to their lower resistance. Systemic arteries have thicker walls.",
+        "E": "Cardiac output is the same in both circulations. The pulmonary circulation has lower pressure but the same cardiac output."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-circulation", "hemodynamics", "low-pressure"]
+  },
+  {
+    "id": "r05-024",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 32-year-old woman undergoes a nuclear medicine ventilation-perfusion scan while upright. The scan demonstrates significantly greater perfusion at the lung bases compared to the apices. Her physician explains that this distribution pattern is a normal physiologic finding in the upright position. Which factor primarily determines this distribution?",
+    "choices": [
+      {"label": "A", "text": "Higher surfactant concentration at base"},
+      {"label": "B", "text": "Sympathetic vasoconstriction at apex"},
+      {"label": "C", "text": "Gravity-dependent hydrostatic pressure gradients"},
+      {"label": "D", "text": "Greater alveolar density at base"},
+      {"label": "E", "text": "Higher oxygen consumption at base"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In the upright position, gravity creates a hydrostatic pressure gradient within the pulmonary vasculature. Blood flow is highest at the base where gravity increases hydrostatic pressure and lowest at the apex where reduced hydrostatic pressure makes perfusion more difficult.",
+      "whyCorrect": "The right ventricle generates low pressures of approximately 15 mmHg mean PA pressure. Gravity adds hydrostatic pressure at the base increasing perfusion and subtracts it at the apex decreasing perfusion, creating the characteristic gradient.",
+      "whyWrongByChoice": {
+        "A": "Surfactant distribution is relatively uniform and does not determine regional blood flow distribution.",
+        "B": "Sympathetic vasoconstriction is not the mechanism for apex-base flow differences. The gradient is due to passive gravitational effects on hydrostatic pressure.",
+        "D": "The number of alveoli is relatively similar throughout the lung. Blood flow distribution is determined by pressure gradients, not alveolar density.",
+        "E": "Regional oxygen consumption does not drive the apex-to-base perfusion gradient. The distribution is gravity-dependent."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-blood-flow", "gravity", "hydrostatic-pressure"]
+  },
+  {
+    "id": "r05-025",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 72-year-old man with severe hemorrhagic shock from a gastrointestinal bleed has systolic blood pressure of 70 mmHg. He is intubated and placed on positive pressure mechanical ventilation. A pulmonary artery catheter shows mean pulmonary arterial pressure of 8 mmHg. The ICU physician is concerned that alveolar pressure may now exceed pulmonary arterial pressure at the lung apices, creating dead space. Which West zone describes this condition?",
+    "choices": [
+      {"label": "A", "text": "Zone 1 with absent blood flow"},
+      {"label": "B", "text": "Zone 2 with partial capillary compression"},
+      {"label": "C", "text": "Zone 3 with full capillary perfusion"},
+      {"label": "D", "text": "Zone 2 with arterial-alveolar gradient flow"},
+      {"label": "E", "text": "Zone 3 with arterial-venous gradient flow"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Zone 1 occurs when alveolar pressure exceeds arterial pressure, collapsing capillaries and eliminating flow. This develops during positive pressure ventilation combined with hypovolemic shock when pulmonary arterial pressure is very low.",
+      "whyCorrect": "Positive pressure ventilation raises alveolar pressure while hypovolemic shock reduces cardiac output and arterial pressure. This allows alveolar pressure to exceed arterial pressure, especially at the apex, creating Zone 1 dead space.",
+      "whyWrongByChoice": {
+        "B": "Zone 2 occurs when arterial pressure exceeds alveolar pressure but alveolar pressure exceeds venous pressure. The question describes complete absence of flow from PA exceeding Pa.",
+        "C": "Zone 3 occurs at the base where both arterial and venous pressures exceed alveolar pressure. This does not describe the apex condition described.",
+        "D": "Zone 2 is relevant in the middle lung but does not describe the condition where alveolar pressure exceeds arterial pressure causing absent flow.",
+        "E": "Zone 3 conditions exist at the base but do not describe the pathologic condition at the apex where alveolar pressure exceeds arterial pressure."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "west-zones", "zone-1", "positive-pressure-ventilation"]
+  },
+  {
+    "id": "r05-026",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 65-year-old man with severe COPD and an FEV1 of 30% predicted has chronic hypoxemia with a resting PaO₂ of 55 mmHg on room air. His physician explains that the pulmonary vasculature responds to chronic alveolar hypoxia differently from how systemic vessels respond. What is the pulmonary vascular response to alveolar hypoxia?",
+    "choices": [
+      {"label": "A", "text": "Vasoconstriction diverting blood from hypoxic areas"},
+      {"label": "B", "text": "No change in regional vascular tone"},
+      {"label": "C", "text": "Increased lymphatic drainage only"},
+      {"label": "D", "text": "Vasodilation increasing regional blood flow"},
+      {"label": "E", "text": "Decreased surfactant production only"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Hypoxic pulmonary vasoconstriction is a unique response where pulmonary arterioles constrict in response to low alveolar PO₂. This diverts blood from poorly ventilated regions toward better-oxygenated areas, optimizing V/Q matching.",
+      "whyCorrect": "Unlike systemic vessels that dilate in hypoxia, pulmonary vessels constrict. HPV begins within seconds of hypoxia exposure and redirects blood flow from poorly ventilated regions to better-ventilated areas, maximizing blood oxygenation.",
+      "whyWrongByChoice": {
+        "D": "Vasodilation in response to hypoxia is the systemic vascular response. Pulmonary vessels do the opposite and constrict to redirect flow from hypoxic areas.",
+        "B": "Pulmonary vessels actively respond to alveolar hypoxia. HPV is a well-established rapid response that significantly alters regional blood flow.",
+        "C": "Lymphatic drainage is important for fluid balance but is not the primary vascular response to hypoxia.",
+        "E": "Surfactant production is not directly affected by acute hypoxia in this context. The primary response is vascular constriction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "HPV", "hypoxic-vasoconstriction", "COPD"]
+  },
+  {
+    "id": "r05-027",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 68-year-old woman with end-stage COPD on home oxygen presents with lower extremity edema, jugular venous distension, and hepatomegaly. Echocardiography shows right ventricular hypertrophy with a dilated right ventricle and elevated estimated pulmonary artery systolic pressure of 55 mmHg. Her physician explains that chronic global hypoxic pulmonary vasoconstriction led to this cardiac complication. Which diagnosis best describes her condition?",
+    "choices": [
+      {"label": "A", "text": "Left ventricular hypertrophy"},
+      {"label": "B", "text": "Mitral valve stenosis"},
+      {"label": "C", "text": "Cor pulmonale from pulmonary hypertension"},
+      {"label": "D", "text": "Aortic root dissection"},
+      {"label": "E", "text": "Left atrial dilation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Global HPV in severe COPD elevates pulmonary vascular resistance throughout the lungs, causing pulmonary hypertension. The right ventricle hypertrophies to compensate for increased afterload, a condition called cor pulmonale.",
+      "whyCorrect": "Chronic widespread HPV elevates pulmonary arterial pressure. The right ventricle hypertrophies to pump against this elevated resistance. If the right ventricle eventually fails, right-sided heart failure ensues with peripheral edema and hepatic congestion.",
+      "whyWrongByChoice": {
+        "A": "Left ventricular hypertrophy results from systemic hypertension or aortic stenosis. Pulmonary hypertension affects the right ventricle.",
+        "B": "Mitral valve stenosis is typically caused by rheumatic heart disease and is not caused by HPV or pulmonary hypertension.",
+        "D": "Aortic dissection is caused by systemic hypertension and connective tissue disorders, not by pulmonary vascular changes.",
+        "E": "Left atrial dilation is seen in left heart disease. Pulmonary hypertension from HPV primarily affects the right heart."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "cor-pulmonale", "pulmonary-hypertension", "HPV"]
+  },
+  {
+    "id": "r05-028",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 22-year-old male athlete undergoes exercise testing in a sports medicine laboratory. At maximal exertion, his cardiac output increases from 5 L/min to 25 L/min. Despite this fivefold increase in blood flow through the lungs, his pulmonary arterial pressure rises only slightly. Pulmonary vascular resistance actually decreases during exercise. Which mechanism allows the pulmonary vasculature to accommodate this increased output?",
+    "choices": [
+      {"label": "A", "text": "Sympathetic-driven arterial vasoconstriction"},
+      {"label": "B", "text": "Decreased surfactant production during exercise"},
+      {"label": "C", "text": "Capillary recruitment and vessel distension"},
+      {"label": "D", "text": "Closure of pulmonary venous valve leaflets"},
+      {"label": "E", "text": "Frank-Starling mechanism in lung vasculature"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The pulmonary circulation accommodates increased cardiac output through recruitment of previously unperfused capillaries and distension of already-perfused vessels. Per Poiseuille's law, even small increases in vessel diameter significantly reduce resistance.",
+      "whyCorrect": "Higher pulmonary arterial pressure opens previously collapsed capillaries (recruitment) and widens already-open vessels (distension). These mechanisms increase total cross-sectional area of the vascular bed, reducing PVR and allowing a 5-fold increase in flow.",
+      "whyWrongByChoice": {
+        "A": "Sympathetic vasoconstriction would increase resistance, not decrease it. The pulmonary response is passive vessel opening, not active constriction.",
+        "B": "Surfactant production is unrelated to pulmonary vascular resistance changes during exercise.",
+        "D": "Pulmonary veins do not have valves. This is not a mechanism for accommodating increased flow.",
+        "E": "The Frank-Starling mechanism applies to cardiac muscle and increased preload, not to the pulmonary vascular bed directly."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "recruitment", "distension", "exercise", "PVR"]
+  },
+  {
+    "id": "r05-029",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A pulmonary physiology textbook shows a U-shaped curve depicting the relationship between lung volume and pulmonary vascular resistance. The curve demonstrates that PVR is elevated at both very low lung volumes (residual volume) and very high lung volumes (total lung capacity). At which lung volume does PVR reach its minimum?",
+    "choices": [
+      {"label": "A", "text": "Residual volume"},
+      {"label": "B", "text": "Functional residual capacity"},
+      {"label": "C", "text": "Total lung capacity"},
+      {"label": "D", "text": "Inspiratory capacity"},
+      {"label": "E", "text": "Expiratory reserve volume"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "PVR follows a U-shaped curve with lung volume, reaching its minimum at functional residual capacity. At residual volume, increased pleural pressures compress vessels. At total lung capacity, overdistended alveoli compress capillaries. FRC represents the optimal balance.",
+      "whyCorrect": "At FRC, the opposing effects on alveolar and extra-alveolar vessels are balanced, minimizing total PVR. Below FRC, compressed extra-alveolar vessels increase resistance. Above FRC, expanded alveoli compress adjacent capillaries, also increasing resistance.",
+      "whyWrongByChoice": {
+        "A": "At residual volume, the lungs are maximally deflated and increased pleural pressures compress extra-alveolar vessels, raising PVR.",
+        "C": "At total lung capacity, maximally inflated alveoli compress surrounding capillaries, increasing PVR.",
+        "D": "Inspiratory capacity represents the maximum inhalation from FRC. PVR at this volume would be increasing as alveoli expand and compress capillaries.",
+        "E": "Expiratory reserve volume is below FRC. At this lung volume, extra-alveolar vessel compression begins to increase PVR above its minimum."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "PVR", "lung-volume", "FRC", "U-shaped-curve"]
+  },
+  {
+    "id": "r05-030",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 34-year-old man from Southeast Asia presents with night sweats, weight loss, and hemoptysis. Chest X-ray reveals a cavitary lesion in the right upper lobe. Sputum cultures grow Mycobacterium tuberculosis. His infectious disease physician explains that TB preferentially reactivates in the lung apices. Which physiologic feature of the apex creates a favorable environment for this organism?",
+    "choices": [
+      {"label": "A", "text": "Low oxygen from poor apical ventilation"},
+      {"label": "B", "text": "Thick membranes protecting bacteria from immunity"},
+      {"label": "C", "text": "High blood flow providing bacterial nutrients"},
+      {"label": "D", "text": "Absence of alveolar macrophages at apex"},
+      {"label": "E", "text": "High V/Q ratio creating oxygen-rich environment"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "At the lung apex, blood flow is minimal due to gravity while ventilation is relatively maintained, creating a high V/Q ratio. This results in high alveolar PO₂, providing an oxygen-rich environment that favors Mycobacterium tuberculosis, an obligate aerobe.",
+      "whyCorrect": "M. tuberculosis thrives in high-oxygen environments. The apex has the highest V/Q ratio in the upright lung, well-ventilated but poorly perfused. The resulting high alveolar PO₂ provides ideal conditions for this aerobic organism.",
+      "whyWrongByChoice": {
+        "A": "The apex has relatively good ventilation but poor perfusion. The high V/Q ratio means the apex has high, not low, oxygen tension.",
+        "B": "Alveolar membrane thickness does not vary significantly between apex and base and does not provide bacterial protection.",
+        "C": "Blood flow is lowest at the apex, not highest. The apex receives less perfusion due to gravity.",
+        "D": "Alveolar macrophages are present throughout the lung including the apex. Their presence does not prevent TB reactivation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "tuberculosis", "lung-apex", "V/Q-ratio"]
+  },
+  {
+    "id": "r05-031",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 72-year-old woman with a history of systolic heart failure and ejection fraction of 25% presents with acute dyspnea and bilateral crackles on auscultation. Chest X-ray shows bilateral pulmonary vascular congestion with Kerley B lines and small pleural effusions. BNP is markedly elevated at 1800 pg/mL. Which mechanism is the primary cause of her pulmonary edema?",
+    "choices": [
+      {"label": "A", "text": "Increased capillary wall permeability"},
+      {"label": "B", "text": "Decreased surfactant production"},
+      {"label": "C", "text": "Lymphatic obstruction from mediastinal mass"},
+      {"label": "D", "text": "Elevated capillary hydrostatic pressure"},
+      {"label": "E", "text": "Decreased plasma oncotic pressure"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In left heart failure, blood backs up into pulmonary veins and capillaries, raising capillary hydrostatic pressure above 25 mmHg. When hydrostatic pressure exceeds opposing oncotic pressure, net fluid movement occurs into lung tissue, causing cardiogenic pulmonary edema.",
+      "whyCorrect": "Left heart failure impairs ventricular emptying, causing blood to pool in the pulmonary venous system. This elevates capillary hydrostatic pressure beyond the threshold that oncotic pressure can oppose, driving fluid into the lung tissue.",
+      "whyWrongByChoice": {
+        "A": "Increased capillary permeability causes non-cardiogenic edema as seen in ARDS or sepsis. Left heart failure causes hydrostatic edema from elevated pressures.",
+        "B": "Surfactant deficiency causes atelectasis and increased surface tension but is not the primary mechanism of pulmonary edema in heart failure.",
+        "C": "Impaired lymphatic drainage from tumors or lymphangitis can contribute to edema but is a separate mechanism from cardiogenic edema.",
+        "E": "Decreased oncotic pressure from hypoalbuminemia can cause edema but is a separate mechanism from the hydrostatic edema of left heart failure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-edema", "cardiogenic", "hydrostatic-pressure"]
+  },
+  {
+    "id": "r05-032",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A medical student is studying West's lung zones and notes that Zone 3 exists at the base of the upright lung where both arterial and venous pressures exceed alveolar pressure. The capillaries are fully open and blood flow follows standard hemodynamic principles. Which pressure gradient determines blood flow in Zone 3?",
+    "choices": [
+      {"label": "A", "text": "Alveolar minus venous pressure"},
+      {"label": "B", "text": "Arterial minus alveolar pressure"},
+      {"label": "C", "text": "Intrapleural minus atmospheric pressure"},
+      {"label": "D", "text": "Transpulmonary minus alveolar pressure"},
+      {"label": "E", "text": "Arterial minus venous pressure"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In Zone 3, both arterial and venous pressures exceed alveolar pressure so capillaries are fully open. Blood flow follows standard hemodynamic principles, determined by the arterial-venous pressure gradient.",
+      "whyCorrect": "Since alveolar pressure does not compress capillaries in Zone 3, flow is governed by the classic driving pressure of arterial minus venous pressure. This is the normal hemodynamic principle when vessels are fully open.",
+      "whyWrongByChoice": {
+        "A": "Alveolar minus venous pressure is not the driving gradient in Zone 3 where alveolar pressure is the lowest of all three pressures and does not affect flow.",
+        "B": "Arterial minus alveolar pressure determines flow in Zone 2, where alveolar pressure partially compresses the downstream capillary.",
+        "C": "Intrapleural and atmospheric pressures determine lung inflation but not blood flow distribution within West's zones.",
+        "D": "Transpulmonary pressure keeps alveoli inflated but does not directly determine blood flow in Zone 3."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "west-zones", "zone-3", "blood-flow"]
+  },
+  {
+    "id": "r05-033",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 50-year-old woman who recently had a hip replacement develops sudden onset of dyspnea and pleuritic chest pain on postoperative day 3. CT angiography reveals a pulmonary embolism in the right lower lobe pulmonary artery. Her physician explains that under normal circumstances, the pulmonary capillary bed serves as a filter for the systemic circulation. What does it primarily filter?",
+    "choices": [
+      {"label": "A", "text": "Circulating red blood cells"},
+      {"label": "B", "text": "Dissolved carbon dioxide molecules"},
+      {"label": "C", "text": "Small venous blood clots"},
+      {"label": "D", "text": "Circulating plasma proteins"},
+      {"label": "E", "text": "Circulating white blood cells"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The lungs receive 100% of cardiac output, and the pulmonary capillary bed functions as a filter trapping small venous thrombi before they reach the systemic arterial circulation. Local thrombolytic processes then dissolve these clots.",
+      "whyCorrect": "The extensive pulmonary capillary network captures small venous thrombi, preventing embolization to the brain, heart, or other organs. The pulmonary endothelium also has thrombolytic activity to dissolve trapped clots.",
+      "whyWrongByChoice": {
+        "A": "Red blood cells pass freely through pulmonary capillaries and are needed for gas exchange, not filtered out.",
+        "B": "Carbon dioxide is removed by gas exchange through diffusion into alveoli, not by filtration through the capillary bed.",
+        "D": "Plasma proteins are not filtered by pulmonary capillaries. They remain in blood and contribute to oncotic pressure.",
+        "E": "White blood cells pass through pulmonary capillaries and are not filtered out."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-filtration", "blood-clots", "thromboembolism"]
+  },
+  {
+    "id": "r05-034",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 58-year-old man with a right middle lobe pneumonia has hypoxemia with PaO₂ of 62 mmHg. His pulmonologist explains that the pulmonary vasculature responds to the local alveolar hypoxia in the consolidated lobe by constricting arterioles and redirecting blood to better-ventilated areas. This hypoxic pulmonary vasoconstriction is primarily triggered by which stimulus?",
+    "choices": [
+      {"label": "A", "text": "Low arterial PaO₂ in systemic blood"},
+      {"label": "B", "text": "High arterial PaCO₂ in systemic blood"},
+      {"label": "C", "text": "Low alveolar PAO₂ in affected region"},
+      {"label": "D", "text": "Low blood pH from lactic acidosis"},
+      {"label": "E", "text": "High alveolar PACO₂ in affected region"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "HPV is primarily triggered by low alveolar PO₂, not arterial hypoxemia. The local alveolar oxygen tension is sensed by smooth muscle cells of pulmonary arterioles surrounding those alveoli, triggering vasoconstriction to divert blood to better-ventilated regions.",
+      "whyCorrect": "The primary stimulus for HPV is alveolar hypoxia. The pulmonary arteriolar smooth muscle cells respond to local oxygen environment in adjacent alveoli rather than to oxygen content of blood flowing through them.",
+      "whyWrongByChoice": {
+        "A": "While arterial hypoxemia can contribute to HPV, the primary trigger is alveolar hypoxia. HPV is a local response to regional alveolar conditions.",
+        "B": "Elevated PaCO₂ can augment HPV but is not the primary trigger. The primary stimulus is low PAO₂.",
+        "D": "Low pH from acidosis can potentiate HPV but is not the primary trigger. HPV is fundamentally an oxygen-sensing response.",
+        "E": "High PACO₂ may contribute to local hypoxia via the alveolar gas equation, but the direct trigger for HPV is low PAO₂, not elevated CO₂."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "HPV", "alveolar-hypoxia", "PAO2"]
+  },
+  {
+    "id": "r05-035",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 40-year-old woman with septic shock from a perforated appendix develops acute respiratory distress syndrome. Chest X-ray shows diffuse bilateral opacities. A pulmonary artery catheter shows a normal wedge pressure of 10 mmHg, ruling out cardiogenic edema. Analysis of the edema fluid obtained by bronchoalveolar lavage reveals a high protein content. What characterizes the edema fluid in non-cardiogenic permeability edema?",
+    "choices": [
+      {"label": "A", "text": "Low-protein transudative fluid"},
+      {"label": "B", "text": "Identical composition to cardiogenic edema"},
+      {"label": "C", "text": "Primarily composed of red blood cells"},
+      {"label": "D", "text": "High-protein exudative fluid"},
+      {"label": "E", "text": "Free of inflammatory cell content"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In non-cardiogenic edema, damaged capillary walls allow protein-rich fluid to leak into the interstitium and alveoli. This protein-rich exudate distinguishes it from cardiogenic edema, which produces a protein-poor transudate from elevated hydrostatic pressure alone.",
+      "whyCorrect": "Permeability edema occurs when capillary endothelium is damaged, allowing proteins and fluid to escape. The leaked proteins worsen edema by increasing interstitial oncotic pressure and disrupting surfactant function.",
+      "whyWrongByChoice": {
+        "A": "Low-protein transudate is characteristic of cardiogenic edema, where capillary walls are intact and only fluid is pushed out by high pressure.",
+        "B": "The two types of edema differ in protein content. Cardiogenic edema produces transudate while permeability edema produces protein-rich exudate.",
+        "C": "Pulmonary edema fluid is not primarily red blood cells. While alveolar hemorrhage can occur in severe cases, the edema is primarily fluid and protein.",
+        "E": "Non-cardiogenic edema in ARDS typically contains inflammatory cells as part of the inflammatory response that caused capillary damage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-edema", "non-cardiogenic", "ARDS", "exudate"]
+  },
+  {
+    "id": "r05-036",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A physiology professor explains Poiseuille's law to students, emphasizing that resistance is inversely proportional to the fourth power of the vessel radius. She asks students to calculate the effect on resistance if pulmonary vessel radius doubles through recruitment and distension during exercise. By what factor would resistance decrease?",
+    "choices": [
+      {"label": "A", "text": "Factor of 2"},
+      {"label": "B", "text": "Factor of 4"},
+      {"label": "C", "text": "Factor of 8"},
+      {"label": "D", "text": "Factor of 16"},
+      {"label": "E", "text": "Factor of 32"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Per Poiseuille's law, resistance is proportional to 1/r⁴. If radius doubles, resistance decreases by 2⁴ equals 16-fold. This explains why even small increases in vessel diameter dramatically reduce pulmonary vascular resistance.",
+      "whyCorrect": "Poiseuille's law shows resistance is inversely proportional to the fourth power of radius. Doubling the radius gives 1/(2⁴) equals 1/16, meaning resistance decreases by a factor of 16.",
+      "whyWrongByChoice": {
+        "A": "A factor of 2 would apply if resistance were inversely proportional to the first power of the radius.",
+        "B": "A factor of 4 would apply if resistance were inversely proportional to the second power of the radius.",
+        "C": "A factor of 8 would apply if resistance were inversely proportional to the third power of the radius.",
+        "E": "A factor of 32 would apply if resistance were inversely proportional to the fifth power. Poiseuille's law specifies the fourth power."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "poiseuilles-law", "vascular-resistance", "radius"]
+  },
+  {
+    "id": "r05-037",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 26-year-old mountaineer rapidly ascends to 5,000 meters and develops worsening dyspnea, cough with pink frothy sputum, and crackles on auscultation. Chest X-ray shows bilateral patchy infiltrates. His peripheral oxygen saturation is 72%. He is diagnosed with high-altitude pulmonary edema. Which mechanism is the primary cause of HAPE?",
+    "choices": [
+      {"label": "A", "text": "Left ventricular failure from exertion"},
+      {"label": "B", "text": "Uneven HPV causing focal capillary overperfusion"},
+      {"label": "C", "text": "Reduced atmospheric oncotic pressure"},
+      {"label": "D", "text": "Cold air surfactant washout"},
+      {"label": "E", "text": "Lymphatic overload from excessive drainage"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "At high altitude, global hypoxia triggers HPV. The vasoconstriction is often uneven, causing excessive blood flow through less-constricted areas. This focal overperfusion at elevated pressures damages capillaries and causes protein-rich fluid leakage.",
+      "whyCorrect": "HAPE results from uneven HPV across the lungs. Areas with less vasoconstriction receive disproportionately high blood flow at elevated pressures, damaging fragile pulmonary capillaries and causing fluid and protein leakage into alveoli.",
+      "whyWrongByChoice": {
+        "A": "HAPE is not caused by left ventricular failure. It is non-cardiogenic edema from pulmonary vascular changes driven by hypoxic vasoconstriction.",
+        "C": "Atmospheric pressure changes do not affect plasma oncotic pressure, which is determined by plasma protein concentration.",
+        "D": "Surfactant is not washed out by cold air. While surfactant dysfunction can worsen HAPE, the primary mechanism is uneven HPV with capillary damage.",
+        "E": "Lymphatic drainage does not overwhelm venous return at altitude. HAPE is due to increased capillary pressure and permeability from uneven HPV."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "HAPE", "high-altitude", "HPV", "pulmonary-edema"]
+  },
+  {
+    "id": "r05-038",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 60-year-old man with decompensated heart failure has bilateral lower extremity edema and pulmonary congestion. His physician explains Starling's forces governing fluid movement across pulmonary capillary walls. One force opposes the outward filtration of fluid from capillaries and pulls fluid back into the vascular space. Which force serves this role?",
+    "choices": [
+      {"label": "A", "text": "Capillary hydrostatic pressure"},
+      {"label": "B", "text": "Alveolar surface tension force"},
+      {"label": "C", "text": "Interstitial hydrostatic pressure"},
+      {"label": "D", "text": "Alveolar air pressure"},
+      {"label": "E", "text": "Plasma colloid osmotic pressure"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Plasma colloid osmotic (oncotic) pressure, generated primarily by albumin, pulls fluid back into capillaries, opposing the outward push of hydrostatic pressure. Under normal conditions, these forces are balanced, preventing edema.",
+      "whyCorrect": "Oncotic pressure from plasma proteins creates an osmotic gradient drawing fluid from interstitium back into capillaries. This force opposes hydrostatic pressure that pushes fluid out, maintaining fluid balance across the capillary wall.",
+      "whyWrongByChoice": {
+        "A": "Capillary hydrostatic pressure pushes fluid out of capillaries, not back in. It promotes filtration, not reabsorption.",
+        "B": "Alveolar surface tension pulls the alveolar wall inward and can affect fluid dynamics, but it is not the primary force opposing fluid movement out of capillaries in Starling's equation.",
+        "C": "Interstitial hydrostatic pressure is generally near zero or slightly negative in the lungs and does not provide a major opposing force to capillary filtration.",
+        "D": "Alveolar air pressure affects alveolar dynamics but is not the force that pulls fluid back into capillaries."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "starling-forces", "oncotic-pressure", "fluid-balance"]
+  },
+  {
+    "id": "r05-039",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 30-year-old marathon runner undergoes right heart catheterization during a research study measuring hemodynamics at peak exercise. Her cardiac output increases from 5 L/min at rest to 25 L/min at maximal exertion, yet her mean pulmonary arterial pressure rises only from 14 to 22 mmHg, staying below the 25 mmHg threshold for pulmonary hypertension. Which property of the pulmonary vasculature primarily explains this?",
+    "choices": [
+      {"label": "A", "text": "High resting vascular resistance"},
+      {"label": "B", "text": "Thick muscular arterial walls"},
+      {"label": "C", "text": "High compliance allowing recruitment and distension"},
+      {"label": "D", "text": "Extensive autonomic vasoregulation"},
+      {"label": "E", "text": "Low total pulmonary blood volume"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Thin-walled, highly compliant pulmonary vessels accommodate large increases in blood flow through recruitment and distension. This keeps pressures below 25 mmHg even during intense exercise, protecting the delicate alveolar capillaries.",
+      "whyCorrect": "High compliance allows pulmonary vessels to expand with minimal pressure increase. Recruitment and distension increase total cross-sectional area of the vascular bed, dramatically reducing resistance and preventing right ventricular pressure overload.",
+      "whyWrongByChoice": {
+        "A": "High vascular resistance would impede flow accommodation. The pulmonary circulation has low resistance that is further reduced during exercise.",
+        "B": "Thick muscular walls characterize systemic arteries. Pulmonary arteries have thin walls contributing to their high compliance.",
+        "D": "The pulmonary circulation is less dependent on autonomic regulation compared to systemic. Accommodation of increased flow is primarily a passive mechanical response.",
+        "E": "The ability to accommodate increased flow is due to compliance and vascular reserve, not low blood volume."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-compliance", "exercise", "recruitment-distension"]
+  },
+  {
+    "id": "r05-040",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 55-year-old woman undergoes a ventilation-perfusion scan in both upright and supine positions as part of a research protocol. The upright scan shows the typical apex-to-base perfusion gradient. The supine scan shows a markedly different distribution. How does supine positioning change pulmonary blood flow distribution compared to upright?",
+    "choices": [
+      {"label": "A", "text": "Flow becomes perfectly uniform throughout"},
+      {"label": "B", "text": "Flow is unchanged from upright position"},
+      {"label": "C", "text": "Apex-base gradient eliminated; posterior regions favored"},
+      {"label": "D", "text": "Flow shifts entirely to anterior regions"},
+      {"label": "E", "text": "Apex flow increases dramatically; base decreases"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In the supine position, the vertical height of the lungs is reduced, diminishing gravitational effects on the apex-to-base gradient. Blood flow becomes more uniform, with slightly greater perfusion to posterior dependent regions.",
+      "whyCorrect": "Lying supine reduces the vertical distance over which gravity acts. The traditional apex-to-base gradient largely disappears, and the new dependent regions (posterior) receive slightly more blood flow due to residual gravitational effects.",
+      "whyWrongByChoice": {
+        "A": "While flow becomes more uniform, it is not perfectly uniform. Posterior dependent regions still receive slightly more blood flow due to residual gravitational effects.",
+        "B": "Blood flow distribution changes significantly with body position. The upright gradient shifts to a posterior-to-anterior gradient in the supine position.",
+        "D": "Blood flow shifts to dependent posterior regions in the supine position, not to anterior regions.",
+        "E": "Apex flow does increase relative to upright, but not dramatically. The primary change is overall reduction in the apex-to-base gradient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "blood-flow-distribution", "body-position", "supine"]
+  },
+  {
+    "id": "r05-041",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 48-year-old man undergoes right heart catheterization for evaluation of exertional dyspnea. His cardiologist reviews the hemodynamic tracings and measures the mean pulmonary arterial pressure. The resident asks what the normal value is. Pulmonary hypertension is defined as a mean pulmonary arterial pressure at or above 25 mmHg at rest. What is the normal mean pulmonary arterial pressure?",
+    "choices": [
+      {"label": "A", "text": "Approximately 5 mmHg"},
+      {"label": "B", "text": "Approximately 15 mmHg"},
+      {"label": "C", "text": "Approximately 50 mmHg"},
+      {"label": "D", "text": "Approximately 95 mmHg"},
+      {"label": "E", "text": "Approximately 120 mmHg"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Normal mean pulmonary arterial pressure is approximately 15 mmHg, reflecting the low-pressure nature of the pulmonary circulation. This is approximately one-sixth of the systemic mean arterial pressure.",
+      "whyCorrect": "The mean pulmonary arterial pressure of approximately 15 mmHg is sufficient to perfuse the lungs while protecting thin-walled alveolar capillaries from damage. Pulmonary hypertension is defined as pressure at or above 25 mmHg at rest.",
+      "whyWrongByChoice": {
+        "A": "5 mmHg is approximately the normal right atrial pressure, not the mean pulmonary arterial pressure.",
+        "C": "50 mmHg would indicate severe pulmonary hypertension, well above normal.",
+        "D": "95 mmHg is the normal systemic mean arterial pressure. The pulmonary circuit operates at much lower pressures.",
+        "E": "120 mmHg is a systemic systolic pressure. Pulmonary pressures are far lower."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-arterial-pressure", "hemodynamics"]
+  },
+  {
+    "id": "r05-042",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 70-year-old man with congestive heart failure develops progressive dyspnea. His initial chest X-ray shows perivascular cuffing and septal thickening but clear alveolar spaces. Two days later, repeat imaging shows bilateral alveolar opacities and air bronchograms. His physician explains that pulmonary edema progresses through stages as protective mechanisms are overwhelmed. What characterizes the first stage before alveolar flooding?",
+    "choices": [
+      {"label": "A", "text": "Interstitial edema with increased lymphatic clearance"},
+      {"label": "B", "text": "Complete bilateral alveolar consolidation"},
+      {"label": "C", "text": "Alveolar edema with impaired gas exchange"},
+      {"label": "D", "text": "Pleural effusion formation bilaterally"},
+      {"label": "E", "text": "Diffuse bronchial wall thickening"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Pulmonary edema initially presents as interstitial edema with fluid around blood vessels and airway spaces. Lymphatic flow increases to clear excess fluid. Only when lymphatic capacity is overwhelmed does alveolar edema develop.",
+      "whyCorrect": "The first stage involves fluid accumulation in the interstitium with compensatory increased lymphatic drainage. If this capacity is exceeded, fluid enters alveolar spaces, the later and more severe stage.",
+      "whyWrongByChoice": {
+        "C": "Alveolar edema with impaired gas exchange is a later stage that occurs after interstitial edema overwhelms lymphatic clearance.",
+        "B": "Complete alveolar consolidation is a late-stage finding in severe edema, not the first stage.",
+        "D": "Pleural effusion can accompany pulmonary edema but is not the initial stage of fluid accumulation in the lung parenchyma.",
+        "E": "Bronchial wall thickening is not the initial stage of pulmonary edema. Perivascular interstitial edema is the first manifestation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "pulmonary-edema", "interstitial-edema", "lymphatic-drainage"]
+  },
+  {
+    "id": "r05-043",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A medical student is studying for her physiology exam and reviewing West's lung zones. She reads that in Zone 2, located in the middle of the upright lung, arterial pressure exceeds alveolar pressure, but alveolar pressure exceeds venous pressure. This means the downstream end of the capillary is partially compressed by alveolar pressure. Which pressure gradient determines blood flow in Zone 2?",
+    "choices": [
+      {"label": "A", "text": "Arterial minus venous pressure"},
+      {"label": "B", "text": "Alveolar minus venous pressure"},
+      {"label": "C", "text": "Intrapleural minus atmospheric pressure"},
+      {"label": "D", "text": "Arterial minus alveolar pressure"},
+      {"label": "E", "text": "Venous minus atmospheric pressure"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In Zone 2, arterial pressure exceeds alveolar pressure, which exceeds venous pressure. Alveolar pressure partially compresses the downstream capillary, so flow is determined by the arterial-to-alveolar gradient, not the arterial-venous difference.",
+      "whyCorrect": "In Zone 2, the downstream end of the capillary is compressed by alveolar pressure, creating a waterfall effect. Flow depends on the pressure drop from arterial side to the point of alveolar compression, which is arterial minus alveolar pressure.",
+      "whyWrongByChoice": {
+        "A": "Arterial minus venous pressure determines flow in Zone 3, where both arterial and venous pressures exceed alveolar pressure and capillaries are fully open.",
+        "B": "Alveolar minus venous pressure is not the driving gradient. The upstream driving pressure is arterial, not alveolar.",
+        "C": "Intrapleural and atmospheric pressures determine lung inflation but do not directly govern blood flow in Zone 2.",
+        "E": "Venous minus atmospheric pressure is not a relevant gradient for pulmonary blood flow in any West zone."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["physiology", "west-zones", "zone-2", "blood-flow"]
+  },
+  {
+    "id": "r05-044",
+    "topicId": "pulmonary-circulation",
+    "topicName": "Pulmonary Circulation",
+    "stem": "A 45-year-old man with decompensated alcoholic cirrhosis has severe hypoalbuminemia with a serum albumin of 1.8 g/dL. He develops bilateral lower extremity edema and bilateral pulmonary crackles. Chest X-ray shows bilateral interstitial opacities consistent with pulmonary edema. Echocardiography shows normal cardiac function. Which mechanism explains his pulmonary edema?",
+    "choices": [
+      {"label": "A", "text": "Elevated capillary hydrostatic pressure"},
+      {"label": "B", "text": "Reduced oncotic force opposing filtration"},
+      {"label": "C", "text": "Increased capillary wall permeability"},
+      {"label": "D", "text": "Lymphatic obstruction from hepatic mass"},
+      {"label": "E", "text": "Surfactant destruction from alcohol toxicity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Plasma oncotic pressure from albumin opposes hydrostatic filtration. In hypoalbuminemia, reduced oncotic pressure means less force to counterbalance hydrostatic pressure, leading to net fluid movement into the interstitium and pulmonary edema.",
+      "whyCorrect": "Albumin is the main determinant of plasma oncotic pressure. When albumin levels drop, the oncotic force opposing hydrostatic filtration is diminished, tipping the Starling balance toward fluid leaving capillaries and promoting edema.",
+      "whyWrongByChoice": {
+        "A": "Hypoalbuminemia does not directly increase capillary hydrostatic pressure. The mechanism is reduced oncotic pressure, and the echocardiogram shows normal cardiac function.",
+        "C": "Capillary wall permeability is increased by inflammation or toxic injury as in ARDS, not by hypoalbuminemia.",
+        "D": "Lymphatic obstruction from tumors or lymphangitis can cause edema but this patient's edema is from hypoalbuminemia, not lymphatic blockage.",
+        "E": "Alcohol does not directly destroy surfactant. The mechanism here is reduced oncotic pressure from inadequate hepatic albumin production."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["physiology", "oncotic-pressure", "hypoalbuminemia", "pulmonary-edema"]
+  }
+]

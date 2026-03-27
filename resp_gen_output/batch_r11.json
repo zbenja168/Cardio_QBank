@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r11-001",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 58-year-old man with a 35-pack-year smoking history presents to his primary care physician with progressive dyspnea over the past 2 years and a chronic productive cough each morning. Physical examination reveals a barrel-shaped chest, scattered bilateral wheezes, and a prolonged expiratory phase. Spirometry shows an FEV₁/FVC ratio of 0.62 with a normal FVC. Which of the following best characterizes his pulmonary disease?",
+    "choices": [
+      {"label": "A", "text": "Upper airway obstruction"},
+      {"label": "B", "text": "Obstructive lung disease"},
+      {"label": "C", "text": "Restrictive lung disease"},
+      {"label": "D", "text": "Mixed obstructive-restrictive pattern"},
+      {"label": "E", "text": "Normal spirometry with artifact"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "An FEV₁/FVC ratio below 0.7 with a normal FVC is the hallmark of obstructive lung disease, consistent with this patient's smoking history and clinical presentation of COPD.",
+      "whyCorrect": "Obstructive lung disease is defined by a reduced FEV₁/FVC ratio (<0.7), reflecting impaired expiratory airflow. The normal FVC indicates that lung volumes are preserved, ruling out a restrictive component. This patient's barrel chest, wheezing, and smoking history are classic for COPD.",
+      "whyWrongByChoice": {
+        "A": "Upper airway obstruction produces flattening of the flow-volume loop (inspiratory, expiratory, or both), not the reduced FEV₁/FVC ratio pattern seen in intrathoracic obstructive disease.",
+        "C": "Restrictive lung disease is characterized by reduced lung volumes (decreased FVC and TLC) with a normal or increased FEV₁/FVC ratio. This patient's normal FVC and reduced ratio are inconsistent with restriction.",
+        "D": "Mixed obstructive-restrictive disease would show both a reduced FEV₁/FVC ratio and a reduced FVC/TLC. This patient's normal FVC argues against a restrictive component.",
+        "E": "Poor effort typically produces low and variable FVC values. The consistently reduced FEV₁/FVC ratio with normal FVC indicates true obstruction, not suboptimal effort."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["obstructive", "spirometry", "FEV1/FVC", "COPD"]
+  },
+  {
+    "id": "r11-002",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 45-year-old woman with no smoking history presents with progressive dyspnea on exertion and a persistent dry cough for the past 8 months. Physical examination reveals bibasilar fine end-inspiratory crackles. Pulmonary function testing shows FEV₁ 1.6 L (60% predicted), FVC 2.0 L (58% predicted), FEV₁/FVC ratio 0.80, and TLC 3.2 L (55% predicted). Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Chronic bronchitis"},
+      {"label": "B", "text": "Bronchial asthma"},
+      {"label": "C", "text": "Centrilobular emphysema"},
+      {"label": "D", "text": "Idiopathic pulmonary fibrosis"},
+      {"label": "E", "text": "Cystic fibrosis bronchiectasis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Reduced FEV₁, FVC, and TLC with a preserved FEV₁/FVC ratio indicates restrictive lung disease. In a middle-aged patient with progressive dyspnea and dry cough, idiopathic pulmonary fibrosis is the most likely cause.",
+      "whyCorrect": "The PFT pattern shows proportional reductions in FEV₁ and FVC with a normal FEV₁/FVC ratio (≥0.7) and reduced TLC, which is the classic restrictive pattern. IPF is an intrinsic restrictive disease that typically presents with progressive dyspnea and dry cough in middle-aged adults.",
+      "whyWrongByChoice": {
+        "A": "Chronic bronchitis is an obstructive disease characterized by a reduced FEV₁/FVC ratio and productive cough. This patient has a dry cough and a restrictive PFT pattern.",
+        "B": "Asthma is an obstructive disease that would show a reduced FEV₁/FVC ratio (<0.7) with normal or increased FVC and episodic wheezing rather than restriction.",
+        "C": "Emphysema is an obstructive disease with a reduced FEV₁/FVC ratio and increased RV/TLC due to air trapping. The reduced TLC and normal ratio here are inconsistent.",
+        "E": "Bronchiectasis from cystic fibrosis is an obstructive disease with a reduced FEV₁/FVC ratio, presenting with purulent sputum and recurrent infections."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["restrictive", "spirometry", "pulmonary-fibrosis", "PFT"]
+  },
+  {
+    "id": "r11-003",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 6-year-old boy with a history of eczema and allergic rhinitis is brought to the emergency department with acute-onset wheezing, dyspnea, and chest tightness after playing outside during spring. On examination, he is tachypneic with diffuse bilateral expiratory wheezes. His symptoms resolve after administration of an inhaled beta-agonist. Which of the following best describes the underlying pathophysiology?",
+    "choices": [
+      {"label": "A", "text": "Alveolar wall destruction"},
+      {"label": "B", "text": "Submucosal gland hypertrophy"},
+      {"label": "C", "text": "IgE-mediated bronchoconstriction"},
+      {"label": "D", "text": "Lung parenchymal fibrosis"},
+      {"label": "E", "text": "Irreversible bronchial dilation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This child with atopy (eczema, allergic rhinitis) presenting with acute reversible bronchoconstriction has asthma, which is caused by type I hypersensitivity reactions involving IgE-mediated bronchial smooth muscle constriction.",
+      "whyCorrect": "Asthma is a reversible obstructive airway disease driven by type I hypersensitivity. Allergens cross-link IgE on mast cells, triggering release of histamine and leukotrienes that cause bronchoconstriction. The atopic triad (asthma, eczema, allergic rhinitis) and response to beta-agonists confirm this mechanism.",
+      "whyWrongByChoice": {
+        "A": "Destruction of alveolar walls is the hallmark of emphysema, a chronic irreversible condition seen in adults with prolonged smoking exposure, not acute episodic wheezing in a child.",
+        "B": "Submucosal gland hypertrophy is characteristic of chronic bronchitis in COPD, which presents with chronic productive cough in adult smokers, not acute reversible wheezing.",
+        "D": "Lung parenchymal fibrosis causes restrictive lung disease with reduced lung volumes, not the obstructive pattern with acute reversible airflow limitation seen here.",
+        "E": "Irreversible bronchial dilation describes bronchiectasis, which presents with chronic purulent sputum and recurrent infections, not episodic wheezing responsive to bronchodilators."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["asthma", "atopy", "bronchoconstriction", "type-I-hypersensitivity"]
+  },
+  {
+    "id": "r11-004",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 30-year-old man with no smoking history presents with progressive dyspnea and a family history of early-onset emphysema. His father died of respiratory failure at age 52. CT of the chest shows panacinar emphysema predominantly in the lower lobes. Serum testing reveals markedly reduced levels of a serine protease inhibitor. Which of the following is the most likely underlying cause?",
+    "choices": [
+      {"label": "A", "text": "α1-antitrypsin deficiency"},
+      {"label": "B", "text": "Kartagener syndrome"},
+      {"label": "C", "text": "Aspirin-exacerbated asthma"},
+      {"label": "D", "text": "Cystic fibrosis mutation"},
+      {"label": "E", "text": "Hypersensitivity pneumonitis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "A young nonsmoker with panacinar lower-lobe emphysema and low serine protease inhibitor levels has α1-antitrypsin (A1AT) deficiency, a genetic cause of early-onset COPD due to unopposed neutrophil elastase activity.",
+      "whyCorrect": "A1AT is a serine protease inhibitor that protects alveoli from destruction by neutrophil elastase. Deficiency leads to unopposed elastase activity, causing panacinar emphysema that characteristically affects the lower lobes. It presents in young adults, often without a smoking history.",
+      "whyWrongByChoice": {
+        "B": "Kartagener syndrome involves immotile cilia leading to bronchiectasis, sinusitis, and situs inversus. It does not cause emphysema or reduced protease inhibitor levels.",
+        "C": "Aspirin-exacerbated asthma causes reversible bronchoconstriction through leukotriene overproduction, not irreversible emphysematous destruction of alveoli.",
+        "D": "Cystic fibrosis causes obstructive lung disease through thick mucus and bronchiectasis, not through panacinar emphysema from protease inhibitor deficiency.",
+        "E": "Hypersensitivity pneumonitis is an immune-mediated restrictive lung disease caused by inhaled organic antigens, not a genetic deficiency causing emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["A1AT-deficiency", "emphysema", "obstructive", "genetics"]
+  },
+  {
+    "id": "r11-005",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 70-year-old man with severe kyphoscoliosis diagnosed 20 years ago presents with worsening dyspnea on exertion and occasional headaches. Physical examination reveals marked thoracic spinal curvature with limited chest wall expansion. Pulmonary function tests show FEV₁ 1.5 L (65% predicted), FVC 1.8 L (60% predicted), FEV₁/FVC ratio 0.83, and TLC 3.5 L (60% predicted). Which of the following best explains his pulmonary dysfunction?",
+    "choices": [
+      {"label": "A", "text": "Increased bronchial smooth muscle tone"},
+      {"label": "B", "text": "Mucus plugging of airways"},
+      {"label": "C", "text": "Destruction of alveolar septa"},
+      {"label": "D", "text": "Increased lung compliance"},
+      {"label": "E", "text": "Impaired chest wall expansion"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Kyphoscoliosis is an extrinsic cause of restrictive lung disease. The deformed thoracic cage limits chest wall expansion during inspiration, reducing all lung volumes while preserving the FEV₁/FVC ratio.",
+      "whyCorrect": "In kyphoscoliosis, severe spinal curvature restricts thoracic cage expansion, preventing full lung inflation. The lungs themselves are normal, but extrinsic compression reduces TLC and FVC. The preserved FEV₁/FVC ratio confirms this is restrictive, not obstructive, disease.",
+      "whyWrongByChoice": {
+        "A": "Increased bronchial smooth muscle tone is the mechanism in asthma, producing an obstructive pattern with a reduced FEV₁/FVC ratio, not the restrictive pattern seen here.",
+        "B": "Mucus plugging of airways is seen in chronic bronchitis and cystic fibrosis, causing obstructive lung disease with a reduced FEV₁/FVC ratio.",
+        "C": "Destruction of alveolar septa occurs in emphysema, an obstructive disease with increased lung volumes and air trapping, the opposite of this presentation.",
+        "D": "Increased lung compliance occurs in emphysema. In kyphoscoliosis, the lung compliance is normal but chest wall compliance is decreased."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["restrictive", "extrinsic", "kyphoscoliosis", "chest-wall"]
+  },
+  {
+    "id": "r11-006",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A pulmonologist reviews flow-volume loops from three patients with different pulmonary diseases. One loop shows a markedly reduced peak expiratory flow rate with a scooped-out concave expiratory curve and a leftward shift of the total loop, indicating increased residual volume. The patient is a 64-year-old man with a 40-pack-year smoking history. Which of the following is most consistent with this pattern?",
+    "choices": [
+      {"label": "A", "text": "Idiopathic pulmonary fibrosis"},
+      {"label": "B", "text": "Obesity hypoventilation syndrome"},
+      {"label": "C", "text": "Thoracic kyphoscoliosis"},
+      {"label": "D", "text": "Emphysema"},
+      {"label": "E", "text": "Pulmonary sarcoidosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A scooped-out expiratory limb with reduced peak expiratory flow and a leftward shift (indicating increased residual volume) is the classic flow-volume loop appearance of obstructive lung disease, particularly emphysema.",
+      "whyCorrect": "In emphysema, loss of elastic recoil and airway tethering causes dynamic airway collapse during expiration. This produces the characteristic concave (scooped-out) expiratory curve with reduced peak flow. The leftward shift reflects air trapping and increased residual volume.",
+      "whyWrongByChoice": {
+        "A": "IPF is a restrictive disease whose flow-volume loop shows a rightward shift with reduced total volume but a preserved or tall, narrow loop shape, not a scooped-out expiratory curve.",
+        "B": "Obesity hypoventilation produces a narrow, rightward-shifted flow-volume loop due to reduced lung volumes, without the concave expiratory limb of obstruction.",
+        "C": "Kyphoscoliosis is an extrinsic restrictive disease producing a narrow, rightward-shifted loop due to reduced volumes, not the scooped-out pattern seen here.",
+        "E": "Sarcoidosis typically causes restrictive lung disease with a rightward-shifted, narrow flow-volume loop, not the scooped-out pattern of obstruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["flow-volume-loop", "obstructive", "emphysema", "air-trapping"]
+  },
+  {
+    "id": "r11-007",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 55-year-old woman with a history of recurrent pneumonias presents with a chronic productive cough yielding copious purulent sputum, progressive dyspnea, and occasional hemoptysis. She has no smoking history but had childhood whooping cough. High-resolution CT of the chest shows dilated, thick-walled airways with a signet ring sign. Which of the following best describes the underlying pathology?",
+    "choices": [
+      {"label": "A", "text": "Reversible bronchial smooth muscle spasm"},
+      {"label": "B", "text": "Interstitial fibrosis with honeycombing"},
+      {"label": "C", "text": "Submucosal gland hypertrophy only"},
+      {"label": "D", "text": "Loss of alveolar elastic recoil"},
+      {"label": "E", "text": "Irreversible airway dilation and necrosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The signet ring sign on CT, chronic purulent sputum, recurrent infections, and hemoptysis are classic for bronchiectasis, defined as irreversible dilation and destruction of bronchial walls.",
+      "whyCorrect": "Bronchiectasis is characterized by irreversible dilation and necrosis of bronchial walls due to chronic infection and inflammation. The signet ring sign (dilated bronchus larger than its accompanying pulmonary artery) is pathognomonic on CT. Impaired mucus clearance leads to recurrent infections and hemoptysis.",
+      "whyWrongByChoice": {
+        "A": "Reversible bronchospasm is the hallmark of asthma, which presents with episodic wheezing and responds to bronchodilators, not permanent structural airway damage.",
+        "B": "Interstitial fibrosis with honeycombing is seen in end-stage restrictive diseases like IPF. This patient has dilated airways, not the reticular pattern of fibrosis.",
+        "C": "Submucosal gland hypertrophy (increased Reid index) is characteristic of chronic bronchitis, not the irreversible bronchial dilation and signet ring sign seen here.",
+        "D": "Loss of alveolar elastic recoil is the mechanism in emphysema, which involves alveolar destruction rather than bronchial dilation and necrosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "obstructive", "signet-ring-sign", "CT"]
+  },
+  {
+    "id": "r11-008",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 62-year-old man with a 30-pack-year smoking history and known COPD is evaluated in the pulmonary clinic for worsening dyspnea. Body plethysmography shows a total lung capacity of 8.5 L (135% predicted) and a residual volume of 4.2 L (175% predicted). Spirometry confirms an FEV₁/FVC ratio of 0.55. Which of the following best explains the increase in his lung volumes?",
+    "choices": [
+      {"label": "A", "text": "Decreased lung compliance"},
+      {"label": "B", "text": "Increased elastic recoil pressure"},
+      {"label": "C", "text": "Air trapping from expiratory limitation"},
+      {"label": "D", "text": "Respiratory muscle weakness"},
+      {"label": "E", "text": "Increased chest wall stiffness"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In COPD, loss of elastic recoil and dynamic airway collapse during expiration cause air trapping, leading to increased residual volume and total lung capacity (hyperinflation).",
+      "whyCorrect": "COPD impairs expiratory airflow through loss of alveolar elastic recoil (emphysema) and airway inflammation (bronchitis). Air that cannot be fully exhaled becomes trapped, increasing the RV. This hyperinflation also increases TLC. The disproportionately elevated RV (175% predicted) compared to TLC (135% predicted) confirms air trapping.",
+      "whyWrongByChoice": {
+        "A": "Decreased lung compliance (stiffer lungs) occurs in restrictive diseases like pulmonary fibrosis and would reduce, not increase, lung volumes.",
+        "B": "Increased elastic recoil would improve expiratory flow and decrease lung volumes. In COPD, elastic recoil is actually decreased, which contributes to air trapping.",
+        "D": "Respiratory muscle weakness causes extrinsic restrictive disease with reduced lung volumes, not the hyperinflation pattern seen here.",
+        "E": "Increased chest wall stiffness restricts lung expansion and decreases lung volumes, as seen in kyphoscoliosis, the opposite of this presentation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "air-trapping", "hyperinflation", "lung-volumes"]
+  },
+  {
+    "id": "r11-009",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 40-year-old construction worker with a 15-year history of sandblasting presents with progressive dyspnea and a dry nonproductive cough. He has never smoked. Chest X-ray reveals diffuse nodular opacities in the upper lung zones. Pulmonary function tests show a restrictive pattern with reduced DLCO. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Bronchial asthma"},
+      {"label": "B", "text": "Chronic bronchitis"},
+      {"label": "C", "text": "Cystic fibrosis"},
+      {"label": "D", "text": "Silicosis"},
+      {"label": "E", "text": "α1-antitrypsin deficiency"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "A sandblaster with progressive dyspnea, dry cough, upper-lobe nodular opacities, and restrictive PFTs has silicosis, a pneumoconiosis caused by inhalation of silica dust that triggers fibrotic scarring in the lung parenchyma.",
+      "whyCorrect": "Silicosis is an intrinsic restrictive lung disease caused by chronic inhalation of silica particles (common in sandblasting). Silica triggers macrophage-mediated fibrosis, producing characteristic upper-lobe nodular opacities on imaging and a restrictive PFT pattern with reduced lung volumes.",
+      "whyWrongByChoice": {
+        "A": "Asthma is an obstructive disease with episodic wheezing and a reduced FEV₁/FVC ratio. It does not cause nodular opacities or a restrictive PFT pattern.",
+        "B": "Chronic bronchitis is an obstructive disease with a productive cough and reduced FEV₁/FVC ratio, not a dry cough with restrictive physiology.",
+        "C": "Cystic fibrosis causes obstructive lung disease through thick mucus secretions and bronchiectasis, not the restrictive pattern seen here.",
+        "E": "A1AT deficiency causes emphysema (obstructive disease) with panacinar lower-lobe destruction, not upper-lobe nodular opacities with restriction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["restrictive", "pneumoconiosis", "silicosis", "occupational"]
+  },
+  {
+    "id": "r11-010",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 28-year-old woman with amyotrophic lateral sclerosis (ALS) diagnosed 2 years ago presents with increasing dyspnea, especially when lying flat. She reports progressive difficulty taking deep breaths. Pulmonary function tests show FVC 1.8 L (50% predicted), FEV₁/FVC ratio 0.85, TLC 3.0 L (52% predicted), and DLCO corrected for alveolar volume is normal. Which of the following best explains her findings?",
+    "choices": [
+      {"label": "A", "text": "Neuromuscular respiratory muscle weakness"},
+      {"label": "B", "text": "Intrinsic lung parenchymal fibrosis"},
+      {"label": "C", "text": "Small airway obstruction"},
+      {"label": "D", "text": "Loss of alveolar surface area"},
+      {"label": "E", "text": "Pleural thickening from exposure"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "ALS is a neuromuscular disease that causes respiratory muscle weakness, leading to extrinsic restrictive lung disease with reduced lung volumes but normal DLCO per unit alveolar volume, since the lung parenchyma itself is intact.",
+      "whyCorrect": "In ALS, progressive motor neuron degeneration weakens the diaphragm and intercostal muscles, impairing chest wall expansion during inspiration. This produces a restrictive PFT pattern (low FVC, low TLC, normal FEV₁/FVC). The normal DLCO/VA indicates that the alveolar-capillary membrane is intact.",
+      "whyWrongByChoice": {
+        "B": "Intrinsic lung fibrosis (e.g., IPF) would reduce DLCO because fibrosis thickens the alveolar-capillary membrane. This patient's normal DLCO/VA argues against parenchymal disease.",
+        "C": "Small airway obstruction would produce a reduced FEV₁/FVC ratio, not the preserved ratio and restrictive pattern seen here.",
+        "D": "Loss of alveolar surface area (as in emphysema) would decrease DLCO and produce an obstructive pattern, not a restrictive one.",
+        "E": "While pleural thickening can cause extrinsic restriction, the clinical context of ALS with progressive weakness and orthopnea points to neuromuscular disease."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["restrictive", "extrinsic", "neuromuscular", "ALS", "DLCO"]
+  },
+  {
+    "id": "r11-011",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 50-year-old man with COPD and a 25-year-old woman with asthma both undergo spirometry before and after inhaled albuterol. The man's FEV₁ improves by only 3%, while the woman's FEV₁ improves by 30%. Both patients were symptomatic at baseline with similar degrees of airflow limitation. Which of the following best explains the difference in bronchodilator responsiveness?",
+    "choices": [
+      {"label": "A", "text": "COPD has irreversible structural changes"},
+      {"label": "B", "text": "Albuterol is ineffective in older adults"},
+      {"label": "C", "text": "Asthma affects only larger airways"},
+      {"label": "D", "text": "COPD has stronger inflammatory response"},
+      {"label": "E", "text": "Asthma involves primarily alveolar destruction"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "COPD involves irreversible structural damage (alveolar destruction in emphysema, submucosal fibrosis in chronic bronchitis) that does not respond to bronchodilators, whereas asthma involves reversible bronchospasm that responds significantly to beta-agonists.",
+      "whyCorrect": "In COPD, the airflow limitation is largely due to irreversible structural changes: alveolar wall destruction (emphysema) and airway remodeling (chronic bronchitis). These cannot be reversed by bronchodilators. In asthma, airflow limitation is primarily from reversible bronchial smooth muscle constriction.",
+      "whyWrongByChoice": {
+        "B": "Albuterol works effectively regardless of age. The poor response in COPD is due to the irreversible nature of the disease, not age-related pharmacokinetics.",
+        "C": "Both asthma and COPD can affect airways of varying sizes. The difference is due to reversibility of the underlying pathology, not airway size.",
+        "D": "Both diseases have significant inflammatory components. The key difference is that COPD causes irreversible structural damage while asthma's bronchoconstriction is reversible.",
+        "E": "Asthma involves bronchial smooth muscle constriction and airway inflammation, not alveolar destruction. Alveolar destruction is characteristic of emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "asthma", "bronchodilator", "reversibility"]
+  },
+  {
+    "id": "r11-012",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 65-year-old woman with long-standing rheumatoid arthritis treated with methotrexate for 8 years presents with a 6-month history of progressive dyspnea and bibasilar dry crackles on examination. She has never smoked. Spirometry shows a restrictive pattern with reduced DLCO. Which of the following is the most likely mechanism of her pulmonary disease?",
+    "choices": [
+      {"label": "A", "text": "Drug-induced interstitial lung disease"},
+      {"label": "B", "text": "Bronchial smooth muscle hypertrophy"},
+      {"label": "C", "text": "Alveolar septal destruction"},
+      {"label": "D", "text": "Bronchial wall necrosis and dilation"},
+      {"label": "E", "text": "External compression from pleural plaques"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Methotrexate is a well-known cause of drug-induced interstitial lung disease, which produces intrinsic restrictive physiology with reduced DLCO due to thickening of the alveolar-capillary membrane from inflammation and fibrosis.",
+      "whyCorrect": "Several medications, including methotrexate, amiodarone, bleomycin, and busulfan, can cause drug-induced interstitial lung disease. The resulting pulmonary inflammation and fibrosis thicken the alveolar-capillary membrane, reducing lung compliance (restrictive pattern) and impairing gas diffusion (reduced DLCO).",
+      "whyWrongByChoice": {
+        "B": "Bronchial smooth muscle hypertrophy is seen in asthma, an obstructive disease. This patient has a restrictive pattern with reduced DLCO, pointing to parenchymal disease.",
+        "C": "Alveolar septal destruction occurs in emphysema, which produces an obstructive pattern with increased lung volumes, not restriction.",
+        "D": "Bronchial wall necrosis and dilation characterize bronchiectasis, an obstructive disease with purulent sputum and recurrent infections.",
+        "E": "While pleural disease can cause extrinsic restriction, methotrexate characteristically causes interstitial pneumonitis (intrinsic restriction) with reduced DLCO."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["restrictive", "drug-induced", "interstitial-lung-disease", "methotrexate"]
+  },
+  {
+    "id": "r11-013",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 72-year-old man with a 40-pack-year smoking history presents with chronic dyspnea and a productive cough for the past 4 years. Physical examination reveals cyanotic lips and fingernails, bilateral lower extremity pitting edema, distended jugular veins, and coarse crackles bilaterally. He is overweight with a BMI of 32. Which of the following COPD phenotypes is most consistent with this presentation?",
+    "choices": [
+      {"label": "A", "text": "Emphysema-predominant pink puffer"},
+      {"label": "B", "text": "Bronchitis-predominant blue bloater"},
+      {"label": "C", "text": "Asthma-COPD overlap syndrome"},
+      {"label": "D", "text": "α1-antitrypsin deficiency phenotype"},
+      {"label": "E", "text": "Bronchiectasis-predominant COPD"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Cyanosis (blue), peripheral edema from cor pulmonale (bloater), productive cough, and chronic hypoxemia characterize the chronic bronchitis-predominant COPD phenotype, classically called the blue bloater.",
+      "whyCorrect": "In chronic bronchitis-predominant COPD, airway inflammation and mucus hypersecretion lead to chronic productive cough and V/Q mismatch with significant hypoxemia (causing cyanosis). Chronic hypoxemia leads to pulmonary hypertension and right heart failure (cor pulmonale), manifesting as peripheral edema.",
+      "whyWrongByChoice": {
+        "A": "The pink puffer typically presents with dyspnea, pursed-lip breathing, and a thin body habitus but maintains relatively preserved oxygenation without significant cyanosis or edema.",
+        "C": "Asthma-COPD overlap presents with features of both reversible and irreversible obstruction, with variable symptoms and partial bronchodilator reversibility, not fixed cyanosis and edema.",
+        "D": "A1AT deficiency causes emphysema, typically in younger nonsmokers with lower-lobe predominant disease, not an older heavy smoker with bronchitis features.",
+        "E": "Bronchiectasis-predominant COPD features copious purulent sputum, recurrent infections, and possibly hemoptysis, not the cor pulmonale pattern described."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "chronic-bronchitis", "blue-bloater", "cor-pulmonale"]
+  },
+  {
+    "id": "r11-014",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 48-year-old woman with morbid obesity (BMI 52 kg/m²) presents with daytime somnolence, morning headaches, and exertional dyspnea. She is noted to have difficulty breathing when lying flat. Arterial blood gas shows pH 7.34, PaCO₂ 52 mmHg, and PaO₂ 62 mmHg. Pulmonary function tests show reduced FVC and TLC with a normal FEV₁/FVC ratio. Which of the following best explains her pulmonary dysfunction?",
+    "choices": [
+      {"label": "A", "text": "Airway inflammation and mucus plugging"},
+      {"label": "B", "text": "Loss of alveolar elastic recoil"},
+      {"label": "C", "text": "Fibrosis of the lung interstitium"},
+      {"label": "D", "text": "External compression of thoracic cavity"},
+      {"label": "E", "text": "Bronchial smooth muscle constriction"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Severe obesity causes extrinsic restrictive lung disease through external compression of the thoracic cavity by excess adipose tissue, reducing diaphragmatic excursion and chest wall compliance, leading to hypoventilation with hypercapnia.",
+      "whyCorrect": "In morbid obesity, excess abdominal and thoracic adipose tissue compresses the diaphragm and chest wall, reducing lung expansion. This is an extrinsic cause of restrictive disease. The resulting hypoventilation causes hypercapnia (elevated PaCO₂) and hypoxemia.",
+      "whyWrongByChoice": {
+        "A": "Airway inflammation and mucus plugging characterize chronic bronchitis, producing an obstructive pattern (reduced FEV₁/FVC) rather than restriction.",
+        "B": "Loss of elastic recoil occurs in emphysema, causing obstructive disease with increased lung volumes, the opposite of this presentation.",
+        "C": "Interstitial fibrosis is an intrinsic cause of restrictive disease that would reduce DLCO. In obesity, the lung parenchyma is normal with restriction from external compression.",
+        "E": "Bronchial smooth muscle constriction causes asthma, an obstructive disease. The normal FEV₁/FVC ratio and clinical context point to extrinsic restriction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["restrictive", "extrinsic", "obesity", "hypoventilation"]
+  },
+  {
+    "id": "r11-015",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 35-year-old man presents with chronic sinusitis, recurrent lower respiratory infections with thick green sputum, and dextrocardia noted on physical examination. Sputum cultures repeatedly grow Pseudomonas aeruginosa. CT of the chest shows bilateral lower-lobe bronchiectasis. Spirometry demonstrates an obstructive pattern. Which of the following is the most likely underlying diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Cystic fibrosis"},
+      {"label": "B", "text": "Primary ciliary dyskinesia"},
+      {"label": "C", "text": "Common variable immunodeficiency"},
+      {"label": "D", "text": "Allergic bronchopulmonary aspergillosis"},
+      {"label": "E", "text": "α1-antitrypsin deficiency"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The triad of chronic sinusitis, bronchiectasis, and situs inversus (Kartagener syndrome) with recurrent respiratory infections is diagnostic of primary ciliary dyskinesia, an inherited disorder of ciliary motility.",
+      "whyCorrect": "Primary ciliary dyskinesia causes dysmotile cilia throughout the body. In the respiratory tract, this impairs mucociliary clearance, leading to chronic sinusitis and bronchiectasis. Situs inversus occurs in approximately 50% of PCD patients (Kartagener syndrome) due to defective embryonic nodal cilia.",
+      "whyWrongByChoice": {
+        "A": "Cystic fibrosis causes bronchiectasis and recurrent Pseudomonas infections but is not associated with situs inversus. CF involves defective chloride channels, not ciliary motility.",
+        "C": "Common variable immunodeficiency can cause recurrent infections and bronchiectasis but does not cause situs inversus or primary ciliary dysfunction.",
+        "D": "Allergic bronchopulmonary aspergillosis causes central bronchiectasis with eosinophilia, typically in asthmatic patients, not situs inversus.",
+        "E": "A1AT deficiency causes panacinar emphysema with lower-lobe destruction, not bronchiectasis with situs inversus and sinusitis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["bronchiectasis", "primary-ciliary-dyskinesia", "Kartagener", "situs-inversus"]
+  },
+  {
+    "id": "r11-016",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A medical student reviews pulmonary function test results for two patients. Patient A has FEV₁ 2.0 L, FVC 4.5 L, FEV₁/FVC 0.44, and TLC 8.0 L. Patient B has FEV₁ 1.5 L, FVC 2.0 L, FEV₁/FVC 0.75, and TLC 3.5 L. Both patients are symptomatic with dyspnea on exertion. Which of the following correctly categorizes these patients?",
+    "choices": [
+      {"label": "A", "text": "Both patients have obstructive disease"},
+      {"label": "B", "text": "Both patients have restrictive disease"},
+      {"label": "C", "text": "Patient A: obstructive; Patient B: restrictive"},
+      {"label": "D", "text": "Patient A: restrictive; Patient B: obstructive"},
+      {"label": "E", "text": "Both have mixed obstructive-restrictive disease"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Patient A has a markedly reduced FEV₁/FVC (0.44) with increased TLC, indicating obstructive disease with air trapping. Patient B has a normal FEV₁/FVC (0.75) with reduced FVC and TLC, indicating restrictive disease.",
+      "whyCorrect": "The FEV₁/FVC ratio is the key discriminator. Patient A's ratio of 0.44 (<0.7) with elevated TLC (8.0 L) indicates obstruction with hyperinflation. Patient B's ratio of 0.75 (≥0.7) with proportionally reduced FEV₁, FVC, and TLC indicates restriction.",
+      "whyWrongByChoice": {
+        "A": "Patient B has a normal FEV₁/FVC ratio of 0.75 with reduced TLC, indicating restrictive, not obstructive, disease.",
+        "B": "Patient A has a severely reduced FEV₁/FVC ratio (0.44) and an increased TLC (8.0 L), hallmarks of obstructive, not restrictive, disease.",
+        "D": "This reverses the patterns. Patient A has a low ratio with high TLC (obstructive), and Patient B has a normal ratio with low volumes (restrictive).",
+        "E": "The patterns are distinct: Patient A is clearly obstructive and Patient B clearly restrictive. A mixed pattern would show both reduced ratio and reduced TLC together."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["spirometry", "PFT-interpretation", "obstructive", "restrictive"]
+  },
+  {
+    "id": "r11-017",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 60-year-old man with COPD is admitted for an acute exacerbation with severe dyspnea. On examination, he is sitting upright in a tripod position, leaning forward with his hands on his knees. He is using his sternocleidomastoid and scalene muscles with each breath. Chest X-ray shows hyperinflated lungs with flattened diaphragms. Which of the following best explains his accessory muscle use?",
+    "choices": [
+      {"label": "A", "text": "Increased lung compliance reducing effort"},
+      {"label": "B", "text": "Diaphragmatic flattening reducing mechanical advantage"},
+      {"label": "C", "text": "Phrenic nerve paralysis from compression"},
+      {"label": "D", "text": "Fibrotic lung stiffening requiring force"},
+      {"label": "E", "text": "Pleural effusion compressing the diaphragm"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In severe COPD with hyperinflation, the diaphragm is pushed down and flattened, reducing its dome shape and mechanical advantage for generating inspiratory pressure. The patient must recruit accessory muscles to maintain ventilation.",
+      "whyCorrect": "Air trapping in COPD increases functional residual capacity, pushing the diaphragm into a flattened position. A flat diaphragm has a shortened resting length and reduced ability to generate negative intrathoracic pressure during contraction. Accessory muscles are recruited to assist.",
+      "whyWrongByChoice": {
+        "A": "Increased lung compliance means the lung inflates easily, but the need for accessory muscles is due to diaphragmatic mechanical disadvantage from hyperinflation, not compliance per se.",
+        "C": "Phrenic nerve paralysis is not a feature of COPD. It occurs from surgical injury or tumor compression. The diaphragm in COPD is innervated but mechanically compromised.",
+        "D": "Fibrotic lung stiffening is a feature of restrictive lung disease, not COPD. The problem here is hyperinflation compromising diaphragm function.",
+        "E": "There is no indication of pleural effusion. The mechanical problem is hyperinflation causing diaphragmatic flattening, a hallmark of obstructive disease."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "hyperinflation", "accessory-muscles", "diaphragm"]
+  },
+  {
+    "id": "r11-018",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 52-year-old shipyard worker with a 25-year history of asbestos exposure presents with progressive dyspnea and bibasilar end-inspiratory crackles. He has never smoked tobacco. Chest imaging shows bilateral calcified pleural plaques and lower-lobe interstitial fibrosis. His DLCO is markedly reduced. Which of the following best characterizes his lung disease?",
+    "choices": [
+      {"label": "A", "text": "Obstructive lung disease"},
+      {"label": "B", "text": "Extrinsic restrictive lung disease"},
+      {"label": "C", "text": "Upper airway obstruction"},
+      {"label": "D", "text": "Intrinsic restrictive lung disease"},
+      {"label": "E", "text": "Mixed obstructive-restrictive disease"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Asbestosis is a pneumoconiosis that causes interstitial fibrosis within the lung parenchyma, making it an intrinsic restrictive lung disease. The fibrosis decreases lung compliance and reduces lung volumes.",
+      "whyCorrect": "Asbestosis causes scar tissue formation in response to inhaled asbestos fibers, leading to progressive interstitial fibrosis within the lung itself. This is an intrinsic cause of restrictive disease because the pathology is within the lung parenchyma, reducing compliance and impairing gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Obstructive disease involves impaired expiratory airflow. Asbestosis causes fibrosis that restricts lung expansion, not airflow obstruction.",
+        "B": "Extrinsic restrictive disease involves restriction from outside the lungs (chest wall, neuromuscular, or pleural). While pleural plaques are extrinsic, the primary pathology is interstitial fibrosis within the lung (intrinsic).",
+        "C": "Upper airway obstruction presents with stridor and characteristic flattening of the flow-volume loop, not bibasilar crackles with interstitial fibrosis.",
+        "E": "The clinical presentation is consistent with pure restrictive physiology from interstitial fibrosis without evidence of an obstructive component."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["restrictive", "intrinsic", "asbestosis", "pneumoconiosis"]
+  },
+  {
+    "id": "r11-019",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 22-year-old man with cystic fibrosis presents with worsening dyspnea, increased thick green sputum production, and intermittent fevers over the past week. He has been hospitalized twice in the past year for respiratory infections. Spirometry shows FEV₁/FVC of 0.55 with markedly reduced FEV₁. Which of the following pathologic mechanisms most directly causes his airflow obstruction?",
+    "choices": [
+      {"label": "A", "text": "Defective chloride transport causing thick mucus"},
+      {"label": "B", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "C", "text": "Unopposed neutrophil elastase activity"},
+      {"label": "D", "text": "Granulomatous interstitial inflammation"},
+      {"label": "E", "text": "Decreased alveolar surfactant production"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Cystic fibrosis results from defective CFTR chloride channels, causing abnormally thick and viscous airway secretions that obstruct bronchi, impair mucociliary clearance, and promote chronic infections leading to bronchiectasis.",
+      "whyCorrect": "In CF, mutations in the CFTR gene produce defective chloride channels, resulting in decreased chloride and water secretion into the airway lumen. The resulting thick, dehydrated mucus plugs airways, causes obstruction, and promotes bacterial colonization.",
+      "whyWrongByChoice": {
+        "B": "IgE-mediated mast cell degranulation causes bronchoconstriction in asthma. While CF patients can develop ABPA, the primary mechanism of obstruction is thick mucus from defective chloride transport.",
+        "C": "Unopposed neutrophil elastase activity is the mechanism of emphysema in α1-antitrypsin deficiency, not the primary mechanism in cystic fibrosis.",
+        "D": "Granulomatous inflammation is characteristic of sarcoidosis, a restrictive lung disease. CF causes obstructive disease through mucus plugging.",
+        "E": "Decreased surfactant production causes neonatal respiratory distress syndrome, not the airflow obstruction mechanism in cystic fibrosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "obstructive", "CFTR", "mucus"]
+  },
+  {
+    "id": "r11-020",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 68-year-old woman with a 35-pack-year smoking history undergoes pulmonary function testing for chronic dyspnea. Results show DLCO markedly reduced at 40% predicted, FEV₁/FVC ratio of 0.58, and TLC of 120% predicted. She has no history of occupational exposures or connective tissue disease. Which of the following is most consistent with these findings?",
+    "choices": [
+      {"label": "A", "text": "Bronchial asthma"},
+      {"label": "B", "text": "Emphysema"},
+      {"label": "C", "text": "Pure chronic bronchitis"},
+      {"label": "D", "text": "Obesity hypoventilation syndrome"},
+      {"label": "E", "text": "Neuromuscular weakness"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Obstructive physiology (low FEV₁/FVC), increased TLC (hyperinflation), and markedly reduced DLCO are characteristic of emphysema, where alveolar wall destruction reduces the surface area for gas exchange.",
+      "whyCorrect": "Emphysema destroys alveolar septa, reducing the surface area for gas diffusion (markedly decreased DLCO) while also causing loss of elastic recoil and air trapping (increased TLC). The reduced FEV₁/FVC confirms obstruction. This triad is the PFT signature of emphysema.",
+      "whyWrongByChoice": {
+        "A": "In asthma, DLCO is typically normal or even increased because the alveolar-capillary membrane is intact. The markedly reduced DLCO points to emphysema.",
+        "C": "In chronic bronchitis alone, DLCO is usually normal or only mildly reduced because the alveolar architecture is preserved. Severe DLCO reduction indicates emphysema.",
+        "D": "Obesity hypoventilation causes extrinsic restrictive disease with reduced TLC and typically normal DLCO, not the obstructive pattern with hyperinflation seen here.",
+        "E": "Neuromuscular weakness causes extrinsic restrictive disease with reduced lung volumes and normal DLCO, not the obstructive pattern seen here."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["emphysema", "DLCO", "obstructive", "PFT"]
+  },
+  {
+    "id": "r11-021",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A 38-year-old woman presents to the emergency department with acute-onset wheezing, dyspnea, and nasal congestion after taking aspirin for a headache. She has a history of nasal polyps and recurrent sinusitis. Physical examination reveals diffuse bilateral expiratory wheezes that improve with nebulized bronchodilator. Which of the following is the most likely mechanism?",
+    "choices": [
+      {"label": "A", "text": "COX inhibition causing leukotriene overproduction"},
+      {"label": "B", "text": "Type III immune complex deposition"},
+      {"label": "C", "text": "Direct toxic alveolar epithelial damage"},
+      {"label": "D", "text": "Aspirin-induced interstitial fibrosis"},
+      {"label": "E", "text": "Cholinergic bronchial smooth muscle spasm"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The triad of asthma, nasal polyps, and aspirin sensitivity (Samter triad) results from aspirin-induced cyclooxygenase inhibition that shunts arachidonic acid metabolism toward the lipoxygenase pathway, causing leukotriene overproduction and bronchoconstriction.",
+      "whyCorrect": "In aspirin-exacerbated respiratory disease, aspirin blocks COX-1, reducing prostaglandin E2 and shunting arachidonic acid toward the 5-lipoxygenase pathway. The resulting overproduction of leukotrienes C4, D4, and E4 causes intense bronchoconstriction, mucus secretion, and nasal polyp formation.",
+      "whyWrongByChoice": {
+        "B": "Type III hypersensitivity involves immune complex deposition (e.g., serum sickness). Aspirin-exacerbated disease is a pharmacologic reaction involving leukotriene overproduction.",
+        "C": "Direct toxic damage to alveolar epithelium is not the mechanism. The reaction involves altered arachidonic acid metabolism, not direct cellular toxicity.",
+        "D": "Aspirin does not cause interstitial fibrosis. The acute reversible bronchoconstriction is due to leukotriene overproduction, not fibrotic disease.",
+        "E": "Cholinergic overstimulation is not the primary mechanism. The key pathology is the shift in arachidonic acid metabolism toward leukotriene production."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["asthma", "aspirin-sensitivity", "Samter-triad", "leukotrienes"]
+  },
+  {
+    "id": "r11-022",
+    "topicId": "obstructive-restrictive-foundations",
+    "topicName": "Obstructive and Restrictive Lung Diseases: Foundations",
+    "stem": "A physician is teaching medical students about distinguishing obstructive from restrictive lung diseases on physical examination. She presents a patient with progressive dyspnea and tachypnea who takes short, shallow breaths with an elevated respiratory rate. The patient does not have wheezing or a prolonged expiratory phase. Which of the following findings is most characteristic of this breathing pattern?",
+    "choices": [
+      {"label": "A", "text": "Barrel-shaped chest"},
+      {"label": "B", "text": "Diffuse expiratory wheezing"},
+      {"label": "C", "text": "Prolonged expiratory phase"},
+      {"label": "D", "text": "Pursed-lip breathing on exhalation"},
+      {"label": "E", "text": "Rapid shallow breathing pattern"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Patients with restrictive lung disease compensate for reduced lung volumes by taking rapid, shallow breaths to maintain adequate minute ventilation. This breathing pattern is characteristic of restriction, not obstruction.",
+      "whyCorrect": "In restrictive disease, decreased lung compliance or impaired chest wall expansion limits tidal volume. To compensate and maintain minute ventilation, patients increase their respiratory rate, producing the characteristic rapid shallow breathing pattern.",
+      "whyWrongByChoice": {
+        "A": "A barrel-shaped chest results from chronic hyperinflation and air trapping in obstructive diseases like COPD, not the reduced volumes of restriction.",
+        "B": "Expiratory wheezing results from turbulent airflow through narrowed airways during expiration, characteristic of obstructive diseases like asthma and COPD.",
+        "C": "A prolonged expiratory phase indicates difficulty exhaling air, the hallmark of obstructive lung disease. Expiration is relatively preserved in restrictive disease.",
+        "D": "Pursed-lip breathing is used by patients with obstructive disease (especially emphysema) to create back-pressure preventing airway collapse during expiration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["restrictive", "obstructive", "physical-exam", "breathing-pattern"]
+  },
+  {
+    "id": "r11-023",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 45-year-old man with a 25-pack-year smoking history presents for a routine wellness visit. He reports no current symptoms but is curious about the health effects of his habit. His physician explains that smoking is the leading cause of preventable death in the United States. The patient asks what specific component makes him keep smoking. Which of the following is primarily responsible for tobacco addiction?",
+    "choices": [
+      {"label": "A", "text": "Carbon monoxide"},
+      {"label": "B", "text": "Benzopyrene"},
+      {"label": "C", "text": "Nicotine"},
+      {"label": "D", "text": "Cigarette tar"},
+      {"label": "E", "text": "Formaldehyde"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Nicotine is the primary addictive component of cigarette smoke. It binds to nicotinic acetylcholine receptors and stimulates dopamine release in the brain's reward center, producing pleasurable effects that drive continued use.",
+      "whyCorrect": "Nicotine is a highly addictive alkaloid that binds nicotinic acetylcholine receptors in the brain. It stimulates the mesolimbic dopamine pathway (ventral tegmental area to nucleus accumbens), causing dopamine release that activates the reward and pleasure centers.",
+      "whyWrongByChoice": {
+        "A": "Carbon monoxide binds hemoglobin with high affinity, impairing oxygen delivery to tissues. While harmful, it is not responsible for addiction.",
+        "B": "Benzopyrene is a polycyclic aromatic hydrocarbon that is a potent carcinogen. It causes DNA mutations but does not produce addictive effects.",
+        "D": "Tar is a collective term for particulate matter in cigarette smoke containing carcinogens. It causes cancer and lung damage but is not addictive.",
+        "E": "Formaldehyde is a toxic chemical in cigarette smoke acting as an irritant and carcinogen, but it does not drive addiction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["nicotine", "addiction", "cigarette-components"]
+  },
+  {
+    "id": "r11-024",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 32-year-old woman who has smoked one pack of cigarettes daily for 12 years undergoes bronchoscopic biopsy for evaluation of a chronic cough. Histology of her mainstem bronchus shows replacement of the normal pseudostratified ciliated columnar epithelium with stratified squamous epithelium. The cells appear orderly without atypia. Which of the following best describes this tissue change?",
+    "choices": [
+      {"label": "A", "text": "Cellular hyperplasia"},
+      {"label": "B", "text": "Cellular dysplasia"},
+      {"label": "C", "text": "Squamous metaplasia"},
+      {"label": "D", "text": "Malignant neoplasia"},
+      {"label": "E", "text": "Tissue atrophy"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Chronic cigarette smoke exposure causes the normal respiratory epithelium to undergo metaplasia, a reversible change from one differentiated cell type (ciliated columnar) to another (squamous) that is more resistant to the irritant.",
+      "whyCorrect": "Metaplasia is the reversible replacement of one mature cell type with another mature cell type. In response to chronic irritation from cigarette smoke, the pseudostratified ciliated columnar epithelium transforms into stratified squamous epithelium, which is more resistant to chemical injury but loses mucociliary function.",
+      "whyWrongByChoice": {
+        "A": "Hyperplasia is an increase in cell number of the same type. The biopsy shows a change in cell type (columnar to squamous), not simply more of the original cells.",
+        "B": "Dysplasia refers to disordered growth with abnormal cell morphology. The biopsy shows orderly squamous epithelium without atypia, not disordered cellular changes.",
+        "D": "Neoplasia refers to uncontrolled cell proliferation. While metaplasia can progress to dysplasia and neoplasia, the current finding shows an orderly cell type change.",
+        "E": "Atrophy is a decrease in cell size or number. The epithelium here has changed type, not shrunk or diminished in size."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["metaplasia", "smoking", "respiratory-epithelium", "pathology"]
+  },
+  {
+    "id": "r11-025",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 55-year-old man who smokes two packs of cigarettes per day presents with increasing exertional dyspnea. He works as a delivery driver and reports difficulty climbing stairs. Arterial blood gas on room air shows PaO₂ 70 mmHg and carboxyhemoglobin level of 8% (normal <3%). Which of the following best explains how carbon monoxide contributes to his tissue hypoxia?",
+    "choices": [
+      {"label": "A", "text": "CO destroys alveolar surfactant"},
+      {"label": "B", "text": "CO directly paralyzes the diaphragm"},
+      {"label": "C", "text": "CO causes pulmonary vasoconstriction"},
+      {"label": "D", "text": "CO binds hemoglobin and shifts dissociation curve left"},
+      {"label": "E", "text": "CO inhibits red cell carbonic anhydrase"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Carbon monoxide binds hemoglobin with approximately 200-250 times the affinity of oxygen, forming carboxyhemoglobin that cannot carry oxygen. It also shifts the oxygen-hemoglobin dissociation curve leftward, impairing oxygen release to tissues.",
+      "whyCorrect": "CO competitively binds the same hemoglobin sites as oxygen but with much greater affinity. This reduces the oxygen-carrying capacity of blood. Additionally, CO binding shifts the dissociation curve leftward, meaning the remaining oxyhemoglobin holds onto oxygen more tightly, worsening tissue hypoxia.",
+      "whyWrongByChoice": {
+        "A": "CO does not destroy surfactant. Surfactant dysfunction is seen in neonatal respiratory distress syndrome and ARDS, not carbon monoxide exposure.",
+        "B": "CO does not paralyze the diaphragm. Diaphragmatic paralysis is caused by phrenic nerve injury or neuromuscular disease.",
+        "C": "CO does not cause pulmonary vasoconstriction. Hypoxic pulmonary vasoconstriction is mediated by low alveolar PO₂, not CO directly.",
+        "E": "CO does not inhibit carbonic anhydrase. This enzyme catalyzes CO₂-water reactions and is not a target of carbon monoxide."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["carbon-monoxide", "carboxyhemoglobin", "oxygen-dissociation", "smoking"]
+  },
+  {
+    "id": "r11-026",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 60-year-old man with a 40-pack-year smoking history is diagnosed with squamous cell carcinoma of the lung after presenting with hemoptysis and a hilar mass on imaging. Molecular analysis of the tumor reveals a G-to-T transversion mutation in the p53 tumor suppressor gene. Which of the following cigarette smoke components most likely caused this specific mutation?",
+    "choices": [
+      {"label": "A", "text": "Nicotine"},
+      {"label": "B", "text": "Carbon monoxide"},
+      {"label": "C", "text": "Benzopyrene"},
+      {"label": "D", "text": "Propylene glycol"},
+      {"label": "E", "text": "Nitric oxide"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Benzopyrene, a polycyclic aromatic hydrocarbon in cigarette tar, is metabolized to reactive diol-epoxide intermediates that intercalate into DNA and cause G-to-T transversion mutations, commonly in the p53 tumor suppressor gene.",
+      "whyCorrect": "Benzopyrene is metabolized by cytochrome P450 to benzo[a]pyrene diol-epoxide (BPDE), which forms covalent adducts with guanine residues in DNA. This causes characteristic G-to-T transversion mutations, particularly in the p53 gene, disrupting tumor suppression and promoting neoplasia.",
+      "whyWrongByChoice": {
+        "A": "Nicotine is primarily responsible for addiction, not direct DNA mutagenesis. It promotes dependence and sympathomimetic effects but is not a major carcinogen.",
+        "B": "Carbon monoxide impairs oxygen transport by binding hemoglobin but does not intercalate into DNA or cause mutations in tumor suppressor genes.",
+        "D": "Propylene glycol is a component of vaping liquids, not traditional cigarette smoke. It is not classified as a carcinogen causing DNA transversion mutations.",
+        "E": "While nitrogen oxides in cigarette smoke can cause oxidative damage, benzopyrene is the major recognized cause of p53 mutations in smoking-related cancers."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["benzopyrene", "p53", "carcinogen", "lung-cancer", "smoking"]
+  },
+  {
+    "id": "r11-027",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 50-year-old woman who smokes one pack of cigarettes daily presents with a chronic productive cough and recurrent respiratory infections. Bronchial biopsy shows goblet cell hyperplasia and loss of ciliated epithelial cells with replacement by squamous epithelium. The pathologist notes absent cilia in the affected segments. Which of the following defense mechanisms is most directly impaired?",
+    "choices": [
+      {"label": "A", "text": "Alveolar macrophage phagocytosis"},
+      {"label": "B", "text": "Mucociliary escalator clearance"},
+      {"label": "C", "text": "Type II pneumocyte surfactant production"},
+      {"label": "D", "text": "Mucosal IgA antibody secretion"},
+      {"label": "E", "text": "Airway cough reflex sensitivity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Smoking damages ciliated epithelial cells and causes goblet cell hyperplasia. The loss of functional cilia impairs the mucociliary escalator, which normally transports mucus and trapped particles from the lower airways toward the pharynx for removal.",
+      "whyCorrect": "The mucociliary escalator is the primary innate defense mechanism of the conducting airways. Cilia beat in a coordinated fashion to propel mucus containing trapped pathogens toward the pharynx. Smoking damages and paralyzes cilia while increasing mucus production, overwhelming the clearance system.",
+      "whyWrongByChoice": {
+        "A": "Alveolar macrophage function is also impaired by smoking, but the biopsy specifically shows ciliary loss in the bronchi, pointing to mucociliary clearance as most directly affected.",
+        "C": "Surfactant is produced by type II pneumocytes in the alveoli, not by the ciliated epithelium of the bronchi. The biopsy findings are in the airways.",
+        "D": "While smoking can impair mucosal immunity, the specific findings of ciliary loss and goblet cell hyperplasia most directly point to impaired mucociliary clearance.",
+        "E": "The cough reflex may actually be stimulated by increased mucus. The biopsy indicates failure of the passive mucociliary transport mechanism."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["mucociliary-clearance", "cilia", "goblet-cells", "smoking"]
+  },
+  {
+    "id": "r11-028",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 28-year-old man who has smoked heavily since age 16 presents with severe pain and cyanosis of his right great toe. He has no history of hyperlipidemia or diabetes. Angiography reveals segmental thrombotic occlusion of small and medium-sized arteries in his lower extremity without significant atherosclerotic plaque. Which of the following conditions is most likely?",
+    "choices": [
+      {"label": "A", "text": "Atherosclerotic peripheral artery disease"},
+      {"label": "B", "text": "Raynaud phenomenon"},
+      {"label": "C", "text": "Deep venous thrombosis"},
+      {"label": "D", "text": "Thromboangitis obliterans (Buerger disease)"},
+      {"label": "E", "text": "Polyarteritis nodosa"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Thromboangitis obliterans (Buerger disease) is a small- and medium-vessel vasculitis strongly associated with tobacco smoking in young men, causing segmental thrombotic occlusion with pain and ischemia of the extremities.",
+      "whyCorrect": "Buerger disease primarily affects young male smokers under age 40. It causes segmental inflammation and thrombosis of small and medium arteries in the extremities, leading to ischemic pain, cyanosis, and potential gangrene. Smoking cessation is essential.",
+      "whyWrongByChoice": {
+        "A": "Atherosclerotic PAD typically presents in older patients with traditional cardiovascular risk factors and involves larger vessels with plaque formation, not segmental small-vessel disease in a young man.",
+        "B": "Raynaud phenomenon causes episodic vasospasm with triphasic color changes triggered by cold, not fixed segmental thrombotic occlusion on angiography.",
+        "C": "DVT affects veins, not arteries, and presents with leg swelling and warmth rather than arterial ischemia with digital cyanosis.",
+        "E": "Polyarteritis nodosa is a medium-vessel vasculitis associated with hepatitis B, not specifically with smoking in young men. It involves renal and gastrointestinal vessels."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["Buerger-disease", "thromboangitis-obliterans", "smoking", "vasculitis"]
+  },
+  {
+    "id": "r11-029",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 42-year-old woman wants to quit smoking after 20 years. She has tried nicotine patches unsuccessfully. Her physician prescribes varenicline and sets a quit date. She asks how this medication will help her stop. Which of the following best describes the mechanism of varenicline?",
+    "choices": [
+      {"label": "A", "text": "Norepinephrine-dopamine reuptake inhibitor"},
+      {"label": "B", "text": "Selective serotonin reuptake inhibitor"},
+      {"label": "C", "text": "Full nicotinic receptor agonist"},
+      {"label": "D", "text": "Monoamine oxidase inhibitor"},
+      {"label": "E", "text": "Partial nicotinic receptor agonist"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Varenicline is a partial agonist at nicotinic acetylcholine receptors. It partially stimulates the receptor to reduce withdrawal symptoms while blocking nicotine from binding, reducing the rewarding effects of smoking.",
+      "whyCorrect": "As a partial agonist at α4β2 nAChRs, varenicline produces submaximal receptor stimulation, generating enough dopamine release to reduce cravings and withdrawal symptoms. Simultaneously, it competitively blocks nicotine, so the pleasurable effects of smoking are diminished.",
+      "whyWrongByChoice": {
+        "A": "Norepinephrine-dopamine reuptake inhibition is the mechanism of bupropion, another smoking cessation medication that is distinct from varenicline.",
+        "B": "SSRIs are used for depression and anxiety but are not first-line smoking cessation agents. Varenicline acts on nicotinic receptors, not serotonin transporters.",
+        "C": "A full agonist would maximally stimulate receptors, essentially replacing nicotine and maintaining dependence. Partial agonism provides only submaximal stimulation.",
+        "D": "MAO inhibitors are used for depression. While nicotine itself inhibits MAO, varenicline does not work through this mechanism."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["varenicline", "smoking-cessation", "pharmacology", "partial-agonist"]
+  },
+  {
+    "id": "r11-030",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 19-year-old college student who has been vaping tobacco and THC products for 2 years presents with acute-onset dyspnea, nonproductive cough, and fever of 38.9°C for the past 3 days. Chest CT shows bilateral ground-glass opacities. Bronchoalveolar lavage reveals lipid-laden macrophages. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Community-acquired bacterial pneumonia"},
+      {"label": "B", "text": "Vaping-associated pulmonary injury"},
+      {"label": "C", "text": "Acute pulmonary embolism"},
+      {"label": "D", "text": "Eosinophilic granulomatosis with polyangiitis"},
+      {"label": "E", "text": "Spontaneous pneumothorax"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "A young vaper presenting with acute respiratory distress, bilateral ground-glass opacities, and lipid-laden macrophages on BAL has vaping-associated pulmonary injury (VAPI), a recognized complication of e-cigarette use.",
+      "whyCorrect": "VAPI (also called EVALI) presents with acute respiratory symptoms in e-cigarette users. Lipid-laden macrophages on BAL are characteristic and result from inhalation of lipid-containing substances in vaping fluids (particularly vitamin E acetate). It can progress to ARDS.",
+      "whyWrongByChoice": {
+        "A": "Bacterial pneumonia typically shows focal consolidation and BAL with neutrophils and bacteria, not diffuse bilateral ground-glass opacities with lipid-laden macrophages.",
+        "C": "Pulmonary embolism presents with acute dyspnea and pleuritic chest pain, not bilateral ground-glass opacities with lipid-laden macrophages on BAL.",
+        "D": "Eosinophilic granulomatosis shows tissue eosinophilia, granulomas, and vasculitis. The lipid-laden macrophages are most specific for VAPI.",
+        "E": "Pneumothorax presents with sudden unilateral chest pain and absent breath sounds, not bilateral ground-glass opacities on CT."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["vaping", "VAPI", "EVALI", "lipid-pneumonia"]
+  },
+  {
+    "id": "r11-031",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 52-year-old man with a 30-pack-year smoking history suffers an ST-elevation myocardial infarction and undergoes emergent percutaneous coronary intervention. After recovery, his cardiologist emphasizes smoking cessation. The patient asks how smoking caused his heart attack. Which of the following mechanisms best explains smoking-related atherosclerosis?",
+    "choices": [
+      {"label": "A", "text": "Direct toxic damage to cardiac myocytes"},
+      {"label": "B", "text": "Endothelial injury with oxidative stress"},
+      {"label": "C", "text": "Inhibition of hepatic cholesterol synthesis"},
+      {"label": "D", "text": "Stimulation of endothelial nitric oxide release"},
+      {"label": "E", "text": "Decreased platelet aggregation tendency"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Tobacco smoke causes direct endothelial cell injury through generation of reactive oxygen species, leading to endothelial dysfunction, inflammation, and accelerated atherosclerotic plaque formation.",
+      "whyCorrect": "Cigarette smoke contains oxidizing chemicals that generate reactive oxygen species, causing endothelial cell damage, necrosis, and apoptosis. This endothelial dysfunction promotes lipid deposition, inflammatory cell recruitment, and plaque formation, accelerating atherosclerosis.",
+      "whyWrongByChoice": {
+        "A": "Smoking primarily damages vascular endothelium, not cardiac myocytes directly. Myocardial damage results from reduced coronary blood flow due to atherosclerosis.",
+        "C": "Smoking does not inhibit cholesterol synthesis. Smoking worsens lipid profiles by lowering HDL cholesterol, promoting atherogenesis.",
+        "D": "Smoking decreases nitric oxide bioavailability by damaging endothelial cells. Reduced NO contributes to vasoconstriction and dysfunction.",
+        "E": "Smoking increases platelet aggregation and hypercoagulability, the opposite of this answer, compounding atherosclerotic damage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["atherosclerosis", "endothelial-injury", "cardiovascular", "smoking"]
+  },
+  {
+    "id": "r11-032",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 35-year-old woman who has been trying to quit smoking for the past week presents to her primary care physician with irritability, difficulty concentrating, increased appetite, and insomnia. She reports intense cravings and has gained 3 pounds since stopping. Which of the following neurotransmitter changes most directly underlies her withdrawal cravings?",
+    "choices": [
+      {"label": "A", "text": "Decreased dopamine in nucleus accumbens"},
+      {"label": "B", "text": "Increased serotonin in raphe nuclei"},
+      {"label": "C", "text": "Increased acetylcholine at neuromuscular junction"},
+      {"label": "D", "text": "Decreased GABA in cerebral cortex"},
+      {"label": "E", "text": "Increased norepinephrine from locus coeruleus"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Nicotine withdrawal causes a sharp decline in dopamine release in the nucleus accumbens (the brain's reward center), producing cravings, irritability, difficulty concentrating, and other withdrawal symptoms.",
+      "whyCorrect": "Chronic nicotine use upregulates nicotinic receptors and the brain adapts to sustained dopamine stimulation of the reward pathway. When nicotine is withdrawn, dopamine release in the nucleus accumbens drops significantly, causing anhedonia, cravings, and irritability.",
+      "whyWrongByChoice": {
+        "B": "Serotonin levels decrease, not increase, during nicotine withdrawal. Cessation reduces serotonergic activity, contributing to mood disturbances.",
+        "C": "Nicotine acts on neuronal nicotinic receptors in the CNS, not at the neuromuscular junction. Withdrawal symptoms are central phenomena.",
+        "D": "While GABA changes may contribute, decreased dopaminergic activity in the reward pathway is the primary driver of cravings and psychological withdrawal.",
+        "E": "Norepinephrine release is generally decreased during withdrawal as sympathetic stimulation wanes. Decreased dopamine is the primary mechanism."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["nicotine-withdrawal", "dopamine", "nucleus-accumbens", "addiction"]
+  },
+  {
+    "id": "r11-033",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 62-year-old man with a 45-pack-year smoking history has no respiratory symptoms. He quit smoking 2 years ago. His physician recommends annual lung cancer screening based on current guidelines. The patient asks which imaging test is recommended. Which of the following is the most appropriate screening modality?",
+    "choices": [
+      {"label": "A", "text": "Posteroanterior chest X-ray"},
+      {"label": "B", "text": "Sputum cytology analysis"},
+      {"label": "C", "text": "Low-dose helical CT scan"},
+      {"label": "D", "text": "Bronchoscopy with bronchoalveolar lavage"},
+      {"label": "E", "text": "Serum tumor marker panel"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Annual low-dose helical CT is the recommended screening test for lung cancer in high-risk individuals aged 50-80 with at least a 20-pack-year smoking history who currently smoke or quit within the past 15 years.",
+      "whyCorrect": "Low-dose helical CT detects early-stage lung cancers and reduces mortality in high-risk smokers. This patient meets all criteria: age 50-80, at least 20 pack-years, and quit within the past 15 years.",
+      "whyWrongByChoice": {
+        "A": "Chest X-ray is not sensitive or specific enough for routine lung cancer screening. Studies show it does not significantly reduce lung cancer mortality.",
+        "B": "Sputum cytology has not been shown to reduce lung cancer mortality when used as a screening tool and is not recommended.",
+        "D": "Bronchoscopy is an invasive procedure for diagnostic evaluation of suspicious lesions, not for routine screening of asymptomatic patients.",
+        "E": "Serum tumor markers are not validated for lung cancer screening and lack the sensitivity and specificity needed for population screening."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["lung-cancer-screening", "CT-scan", "smoking", "prevention"]
+  },
+  {
+    "id": "r11-034",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 48-year-old woman who smokes one pack daily wants to quit smoking. She has a history of seizure disorder well-controlled on levetiracetam. Her physician decides against prescribing bupropion for smoking cessation and recommends an alternative. Which of the following is the most important reason bupropion is avoided?",
+    "choices": [
+      {"label": "A", "text": "Bupropion causes severe nausea"},
+      {"label": "B", "text": "Bupropion lowers seizure threshold"},
+      {"label": "C", "text": "Bupropion is a full nicotinic agonist"},
+      {"label": "D", "text": "Bupropion causes significant weight gain"},
+      {"label": "E", "text": "Bupropion is only available intravenously"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Bupropion is contraindicated in patients with seizure disorders because it lowers the seizure threshold and increases seizure risk, particularly in predisposed individuals.",
+      "whyCorrect": "Bupropion is a norepinephrine-dopamine reuptake inhibitor used for smoking cessation. Its most serious adverse effect is lowering the seizure threshold, making it contraindicated in patients with seizure disorders, eating disorders, or those in alcohol withdrawal.",
+      "whyWrongByChoice": {
+        "A": "Severe nausea is more commonly associated with varenicline, not bupropion. Bupropion's common side effects include insomnia, dry mouth, and headache.",
+        "C": "Bupropion is not a nicotinic agonist. It is an NDRI that also antagonizes nicotinic receptors. Varenicline is the partial nicotinic agonist.",
+        "D": "Bupropion tends to be weight-neutral or may reduce post-cessation weight gain. Weight gain is not a reason to avoid it.",
+        "E": "Bupropion is available as oral sustained-release tablets, not intravenously. This is factually incorrect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bupropion", "seizure", "smoking-cessation", "contraindication"]
+  },
+  {
+    "id": "r11-035",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A pregnant 26-year-old woman continues to smoke during her third trimester despite counseling. She smokes approximately half a pack per day. Her obstetrician is concerned about fetal complications and orders additional monitoring. Which of the following fetal complications is most strongly associated with maternal smoking?",
+    "choices": [
+      {"label": "A", "text": "Fetal macrosomia"},
+      {"label": "B", "text": "Neural tube defects"},
+      {"label": "C", "text": "Low birth weight"},
+      {"label": "D", "text": "Neonatal polycythemia"},
+      {"label": "E", "text": "Congenital heart block"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Maternal smoking during pregnancy is strongly associated with low birth weight due to the combined effects of carbon monoxide-induced fetal hypoxemia, nicotine-mediated placental vasoconstriction, and reduced nutrient delivery.",
+      "whyCorrect": "Smoking during pregnancy causes fetal growth restriction through multiple mechanisms: CO crosses the placenta and binds fetal hemoglobin, reducing oxygen delivery; nicotine causes placental vasoconstriction; and smoking increases the risk of placental abruption and preterm delivery.",
+      "whyWrongByChoice": {
+        "A": "Macrosomia is associated with gestational diabetes, not smoking. Smoking causes growth restriction, the opposite of macrosomia.",
+        "B": "Neural tube defects are primarily associated with folate deficiency. Low birth weight is the most strongly established smoking association.",
+        "D": "Neonatal polycythemia is not a recognized major complication of maternal smoking. Low birth weight and growth restriction are far more prominent.",
+        "E": "Congenital heart block is associated with maternal autoimmune conditions (anti-Ro/SSA antibodies), not tobacco smoking."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pregnancy", "fetal-effects", "low-birth-weight", "smoking"]
+  },
+  {
+    "id": "r11-036",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 65-year-old man with a 50-pack-year smoking history is diagnosed with transitional cell carcinoma of the bladder after presenting with painless hematuria. Cystoscopy reveals a papillary mass on the bladder wall. His urologist explains that smoking significantly increased his cancer risk. Which of the following best describes the carcinogenic mechanism?",
+    "choices": [
+      {"label": "A", "text": "Nicotine directly activating urothelial oncogenes"},
+      {"label": "B", "text": "Carbon monoxide inducing chromosomal breaks"},
+      {"label": "C", "text": "Tar particles physically obstructing urinary tract"},
+      {"label": "D", "text": "Smoke carcinogens mutating tumor suppressor genes"},
+      {"label": "E", "text": "Immunosuppression enabling viral oncogenesis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cigarette smoke contains over 60 known carcinogens that are absorbed systemically and excreted through the urinary tract. These chemicals cause mutations in tumor suppressor genes (p53) and oncogenes (RAS), leading to neoplastic transformation.",
+      "whyCorrect": "Tobacco smoke carcinogens such as aromatic amines and polycyclic aromatic hydrocarbons are metabolized and excreted by the kidneys, concentrating in urine and contacting the urothelium. They cause DNA mutations in p53 and RAS, leading to unregulated growth.",
+      "whyWrongByChoice": {
+        "A": "Nicotine is primarily responsible for addiction, not direct oncogene activation. Carcinogenic effects are from other chemicals like benzopyrene and aromatic amines.",
+        "B": "Carbon monoxide impairs oxygen transport but is not a recognized mutagen causing chromosomal breaks. Tar carcinogens cause DNA damage.",
+        "C": "Tar particles deposit in lungs, not the urinary tract. Bladder carcinogenesis results from absorbed chemicals excreted in urine, not physical obstruction.",
+        "E": "While smoking impairs immunity, bladder cancer results from direct chemical carcinogenesis by tobacco metabolites, not viral oncogenesis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["bladder-cancer", "carcinogenesis", "p53", "smoking"]
+  },
+  {
+    "id": "r11-037",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A physician is counseling a 40-year-old patient who smokes on quitting using the 5 A's approach. She has asked about tobacco use, advised quitting, and assessed willingness. The patient expresses genuine interest in stopping. He asks what happens next. Which of the following is the most appropriate next step in this framework?",
+    "choices": [
+      {"label": "A", "text": "Arrange a follow-up appointment"},
+      {"label": "B", "text": "Assist with quit plan and pharmacotherapy"},
+      {"label": "C", "text": "Advise the patient again more firmly"},
+      {"label": "D", "text": "Ask about previous quit attempts"},
+      {"label": "E", "text": "Assess for comorbid psychiatric conditions"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The 5 A's framework is Ask, Advise, Assess, Assist, and Arrange. After completing Ask, Advise, and Assess, the next step for a willing patient is Assist with a quit plan including counseling and pharmacotherapy.",
+      "whyCorrect": "The 5 A's proceed in order. Since this patient is willing to quit (Assess is complete), the next step is Assist, helping develop a quit plan with counseling and pharmacotherapy options including NRT, varenicline, or bupropion.",
+      "whyWrongByChoice": {
+        "A": "Arranging follow-up is the fifth and final step, coming after Assist, not before. The patient first needs help developing a quit plan.",
+        "C": "Advising has already been completed. Repeating it is not part of the structured approach and may be counterproductive.",
+        "D": "Asking about previous quit attempts may be part of the Assist step, but the defined next step after a willing patient is Assist with a quit plan.",
+        "E": "Assessing for psychiatric comorbidities is clinically important but is not a defined step in the 5 A's framework after Assess."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["5-As", "counseling", "smoking-cessation", "prevention"]
+  },
+  {
+    "id": "r11-038",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 55-year-old man who smokes 2 packs per day has his C-reactive protein measured during a routine physical as part of cardiovascular risk assessment. His CRP is significantly elevated at 8.2 mg/L (normal <3 mg/L). He has no fever, joint pain, or signs of acute illness. Which of the following best explains his elevated CRP?",
+    "choices": [
+      {"label": "A", "text": "Occult bacterial infection from immunosuppression"},
+      {"label": "B", "text": "Chronic systemic inflammation from smoke toxins"},
+      {"label": "C", "text": "Hepatic damage from nicotine metabolism"},
+      {"label": "D", "text": "Autoimmune response to tobacco antigens"},
+      {"label": "E", "text": "Stress response from nicotine withdrawal cycles"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Chronic tobacco smoking causes systemic inflammation, reflected by elevated CRP. Smoke toxins activate oxidation-sensitive signaling pathways, increase cytokine release (IL-8, TNF-alpha), and recruit inflammatory cells.",
+      "whyCorrect": "Cigarette smoke activates multiple inflammatory pathways including oxidation-sensitive signaling, cytokine release, inflammatory gene activation, lipid peroxidation, and inflammatory cell recruitment. This chronic systemic inflammation is reflected by persistently elevated CRP.",
+      "whyWrongByChoice": {
+        "A": "While smoking impairs immunity, an isolated elevated CRP without signs of acute illness in a chronic smoker is most likely from smoking-related chronic inflammation, not occult infection.",
+        "C": "Nicotine metabolism in the liver does not cause significant hepatic damage explaining chronically elevated CRP. The elevation is from systemic inflammatory effects.",
+        "D": "Tobacco does not typically cause a classic autoimmune response. The inflammation is driven by direct chemical toxicity and oxidative stress.",
+        "E": "Brief nicotine withdrawal between cigarettes would not produce persistently elevated CRP. The chronic inflammation results from cumulative tissue damage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["inflammation", "CRP", "systemic-effects", "smoking"]
+  },
+  {
+    "id": "r11-039",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 58-year-old woman who smoked for 30 years quit smoking 5 years ago after a health scare. She asks her physician whether quitting has provided any measurable health benefits so far. She is particularly concerned about heart disease risk since her mother died of a heart attack. Which of the following statements is most accurate?",
+    "choices": [
+      {"label": "A", "text": "Cardiovascular risk returns to baseline within 6 months"},
+      {"label": "B", "text": "Lung cancer risk is unaffected by cessation"},
+      {"label": "C", "text": "COPD damage is fully reversible after quitting"},
+      {"label": "D", "text": "Cancer survival rates are unchanged after cessation"},
+      {"label": "E", "text": "Coronary atherosclerosis risk is significantly reduced"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Smoking cessation significantly reduces the risk of coronary atherosclerosis and myocardial infarction. The cardiovascular benefits are progressive over time.",
+      "whyCorrect": "Cessation leads to measurable reductions in cardiovascular risk: endothelial function improves, inflammatory markers decrease, and platelet aggregation normalizes. Over years, the excess cardiovascular risk diminishes substantially.",
+      "whyWrongByChoice": {
+        "A": "While cardiovascular risk begins declining soon after cessation, it does not return to never-smoker baseline within 6 months. The decline is progressive over years.",
+        "B": "Lung cancer risk is significantly reduced by cessation. Smoking cessation has reduced lung cancer mortality substantially, though risk remains elevated compared to never-smokers.",
+        "C": "COPD involves irreversible structural damage. Cessation slows progression and improves symptoms, but existing damage cannot be fully reversed.",
+        "D": "Stopping smoking after cancer diagnosis increases survival rates in many cancer types. Continued smoking impairs treatment response."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["smoking-cessation", "cardiovascular-benefit", "prevention"]
+  },
+  {
+    "id": "r11-040",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 3-year-old child is brought to the emergency department after ingesting several nicotine-containing vaping pods found on the kitchen table at home. On examination, the child is vomiting, tachycardic at 150 bpm, diaphoretic, and tremulous. Blood pressure is 110/70 mmHg. Which of the following best explains the child's tachycardia?",
+    "choices": [
+      {"label": "A", "text": "Parasympathetic ganglia stimulation"},
+      {"label": "B", "text": "Sympathomimetic nicotinic receptor activation"},
+      {"label": "C", "text": "Direct sinoatrial node toxicity"},
+      {"label": "D", "text": "Reflex tachycardia from hypotension"},
+      {"label": "E", "text": "Acetylcholinesterase enzyme inhibition"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Nicotine is a sympathomimetic substance that stimulates nicotinic acetylcholine receptors in sympathetic ganglia and the adrenal medulla, causing tachycardia, hypertension, and vasoconstriction through catecholamine release.",
+      "whyCorrect": "Nicotine binds nAChRs in the sympathetic nervous system, stimulating catecholamine release from the adrenal medulla and sympathetic nerve endings. This produces tachycardia, increased blood pressure, and vasoconstriction, amplified in poisoning.",
+      "whyWrongByChoice": {
+        "A": "While nicotine stimulates parasympathetic ganglia, the net cardiovascular effect at toxic doses is sympathetic predominance with tachycardia, not bradycardia.",
+        "C": "Nicotine does not directly damage the sinoatrial node. The tachycardia results from systemic sympathetic stimulation and catecholamine release.",
+        "D": "Nicotine typically causes hypertension through sympathomimetic effects. This child's blood pressure is normal-elevated, not hypotensive.",
+        "E": "Nicotine does not inhibit acetylcholinesterase. Organophosphates and carbamates inhibit AChE. Nicotine directly stimulates nicotinic receptors."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["nicotine-poisoning", "sympathomimetic", "pediatric", "vaping"]
+  },
+  {
+    "id": "r11-041",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 47-year-old man who has smoked for 25 years presents for a wellness visit. His physician discusses smoking-related cancers and the importance of cessation. The patient asks whether all cancers are linked to smoking. Which of the following cancers is NOT strongly associated with tobacco use?",
+    "choices": [
+      {"label": "A", "text": "Renal cell carcinoma"},
+      {"label": "B", "text": "Pancreatic adenocarcinoma"},
+      {"label": "C", "text": "Brain glioblastoma"},
+      {"label": "D", "text": "Bladder urothelial carcinoma"},
+      {"label": "E", "text": "Laryngeal squamous cell carcinoma"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Brain cancers and reproductive tract cancers are notable exceptions not strongly associated with tobacco smoking. Lung, bladder, renal, pancreatic, and laryngeal cancers are well-established smoking-related malignancies.",
+      "whyCorrect": "Brain cancers including glioblastoma are not among smoking-associated malignancies. Glioblastoma arises from glial cells and its risk factors include age and genetic conditions, not tobacco use.",
+      "whyWrongByChoice": {
+        "A": "Renal cell carcinoma is a well-established smoking-related cancer. Tobacco carcinogens filtered by the kidneys increase renal cell exposure to mutagens.",
+        "B": "Pancreatic cancer is strongly associated with tobacco smoking. Carcinogens enter the bloodstream and reach the pancreas.",
+        "D": "Bladder urothelial carcinoma is strongly linked to smoking. Carcinogens excreted in urine have prolonged urothelial contact.",
+        "E": "Laryngeal squamous cell carcinoma is one of the cancers most strongly associated with smoking due to direct mucosal contact."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cancer", "smoking-association", "glioblastoma", "exceptions"]
+  },
+  {
+    "id": "r11-042",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 50-year-old man who smokes and has poorly controlled type 2 diabetes with an HbA1c of 9.2% asks his endocrinologist whether smoking affects his diabetes. He is currently on metformin and a sulfonylurea. His BMI is 29. Which of the following best describes the relationship between smoking and type 2 diabetes?",
+    "choices": [
+      {"label": "A", "text": "Smoking increases insulin secretion capacity"},
+      {"label": "B", "text": "Smoking decreases insulin sensitivity"},
+      {"label": "C", "text": "Smoking has no effect on glucose levels"},
+      {"label": "D", "text": "Smoking improves glycemic control overall"},
+      {"label": "E", "text": "Smoking causes autoimmune islet cell destruction"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Smoking increases the risk of developing type 2 diabetes by decreasing insulin sensitivity, contributing to insulin resistance and worsening glycemic control.",
+      "whyCorrect": "Tobacco smoking decreases insulin sensitivity through systemic inflammation, oxidative stress, and direct effects of nicotine on insulin signaling pathways. This increases the risk of type 2 diabetes and worsens glucose control in existing disease.",
+      "whyWrongByChoice": {
+        "A": "Smoking does not increase insulin secretion. The primary metabolic effect is decreased insulin sensitivity, not enhanced beta cell secretion.",
+        "C": "Smoking significantly affects glucose metabolism by decreasing insulin sensitivity. Smokers have increased risk of type 2 diabetes.",
+        "D": "Smoking worsens glycemic control through insulin resistance. While nicotine suppresses appetite, this does not improve glucose regulation.",
+        "E": "Autoimmune islet destruction is the mechanism of type 1 diabetes, not an effect of smoking. Smoking affects type 2 diabetes through insulin resistance."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["diabetes", "insulin-resistance", "smoking", "endocrine"]
+  },
+  {
+    "id": "r11-043",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A family physician sees a 38-year-old nonsmoking woman who reports that her husband smokes inside the home daily. She has two young children ages 4 and 6. She is worried about health effects on herself and the children from second-hand smoke. Which of the following health risks is most strongly associated with passive smoke exposure?",
+    "choices": [
+      {"label": "A", "text": "Nicotine addiction development"},
+      {"label": "B", "text": "Type 2 diabetes mellitus"},
+      {"label": "C", "text": "Lung cancer and coronary heart disease"},
+      {"label": "D", "text": "Chronic kidney disease"},
+      {"label": "E", "text": "Osteoporosis and hip fractures"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Second-hand smoke exposure is most strongly associated with increased risk of lung cancer and ischemic heart disease in nonsmokers, driving legislation prohibiting indoor smoking.",
+      "whyCorrect": "Second-hand smoke significantly increases nonsmokers' risk of lung cancer and coronary artery disease. The inhaled toxins cause similar pathologic effects as direct smoking, including DNA mutations and endothelial damage.",
+      "whyWrongByChoice": {
+        "A": "While second-hand smoke exposes nonsmokers to nicotine, concentrations are generally insufficient to cause addiction. Primary risks are from carcinogens and cardiovascular toxins.",
+        "B": "Type 2 diabetes is a recognized complication of direct smoking but not among the most strongly established second-hand smoke associations.",
+        "D": "Chronic kidney disease is associated with direct smoking but not a primary second-hand smoke concern.",
+        "E": "Osteoporosis is associated with direct smoking effects. It is not a primary concern from second-hand smoke."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["second-hand-smoke", "lung-cancer", "heart-disease", "public-health"]
+  },
+  {
+    "id": "r11-044",
+    "topicId": "tobacco-smoking",
+    "topicName": "Tobacco Smoking",
+    "stem": "A 60-year-old man who has smoked for 40 years presents with progressive dyspnea and a chronic productive cough. His physician explains that smoking has caused COPD through both emphysema and chronic bronchitis. The patient asks what specifically destroys the air sacs in emphysema. Which of the following best describes the destructive mechanism?",
+    "choices": [
+      {"label": "A", "text": "Nicotine-mediated pulmonary vasoconstriction"},
+      {"label": "B", "text": "Carbon monoxide-induced alveolar necrosis"},
+      {"label": "C", "text": "Tar deposition compressing alveolar walls"},
+      {"label": "D", "text": "Oxidants and proteases from inflammatory cells"},
+      {"label": "E", "text": "Formaldehyde causing surfactant denaturation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Cigarette smoke recruits inflammatory cells (neutrophils, macrophages) to the lung. These cells release oxidants and proteases (particularly neutrophil elastase) that destroy alveolar walls, causing emphysema.",
+      "whyCorrect": "Tobacco smoke triggers inflammation, recruiting neutrophils and macrophages that release reactive oxygen species and proteolytic enzymes (especially elastase). These degrade elastin and collagen in alveolar walls. Smoke also inactivates α1-antitrypsin, reducing antiprotease defense.",
+      "whyWrongByChoice": {
+        "A": "While nicotine causes vasoconstriction, this is not the primary mechanism of alveolar wall destruction. Emphysema results from protease-antiprotease imbalance.",
+        "B": "Carbon monoxide primarily affects oxygen transport by binding hemoglobin. It does not directly cause the structural alveolar destruction seen in emphysema.",
+        "C": "Tar particles deposit in airways but do not physically compress alveolar walls. The destruction is biochemical, mediated by inflammatory proteases and oxidants.",
+        "E": "Formaldehyde is an irritant but does not denature surfactant as the primary emphysema mechanism. Alveolar destruction is mediated by the protease-antiprotease imbalance."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["emphysema", "protease-antiprotease", "inflammation", "smoking", "COPD"]
+  }
+]

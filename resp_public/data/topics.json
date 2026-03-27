@@ -1,0 +1,284 @@
+{
+  "categories": [
+    {
+      "id": "resp-anatomy",
+      "name": "Anatomy",
+      "topics": [
+        {
+          "id": "histology-respiratory-tract",
+          "name": "Histology of the Respiratory Tract",
+          "questionCount": 22
+        },
+        {
+          "id": "development-respiratory-tract",
+          "name": "Development of the Respiratory Tract",
+          "questionCount": 22
+        },
+        {
+          "id": "anatomy-upper-respiratory-tract",
+          "name": "Anatomy of the Upper Respiratory Tract",
+          "questionCount": 22
+        },
+        {
+          "id": "anatomy-lower-respiratory-tract",
+          "name": "Anatomy of the Lower Respiratory Tract",
+          "questionCount": 22
+        },
+        {
+          "id": "anatomy-diaphragm-ribs-intercostals",
+          "name": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-physiology",
+      "name": "Respiratory Physiology",
+      "topics": [
+        {
+          "id": "overview-respiratory-physiology",
+          "name": "Overview of Respiratory Physiology",
+          "questionCount": 22
+        },
+        {
+          "id": "mechanics-pressures-breathing",
+          "name": "Mechanics and Pressures of Breathing",
+          "questionCount": 22
+        },
+        {
+          "id": "alveolar-ventilation-dead-space",
+          "name": "Alveolar Ventilation and Dead Space",
+          "questionCount": 22
+        },
+        {
+          "id": "alveolar-gas-exchange-diffusion",
+          "name": "Alveolar Gas Exchange and Diffusion",
+          "questionCount": 22
+        },
+        {
+          "id": "pulmonary-circulation",
+          "name": "Pulmonary Circulation",
+          "questionCount": 22
+        },
+        {
+          "id": "oxygen-co2-transport",
+          "name": "Oxygen and Carbon Dioxide Transport",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-acid-base-gas",
+      "name": "Acid-Base & Gas Disorders",
+      "topics": [
+        {
+          "id": "respiratory-acidosis",
+          "name": "Respiratory Acidosis",
+          "questionCount": 22
+        },
+        {
+          "id": "respiratory-alkalosis",
+          "name": "Respiratory Alkalosis",
+          "questionCount": 21
+        },
+        {
+          "id": "co-cn-poisoning",
+          "name": "Carbon Monoxide and Cyanide Poisoning",
+          "questionCount": 23
+        },
+        {
+          "id": "hypoxemia",
+          "name": "Hypoxemia",
+          "questionCount": 23
+        },
+        {
+          "id": "hypercapnia",
+          "name": "Hypercapnia",
+          "questionCount": 23
+        }
+      ]
+    },
+    {
+      "id": "resp-ventilation-mechanics",
+      "name": "Ventilation & Lung Mechanics",
+      "topics": [
+        {
+          "id": "control-ventilation-altitude-exercise",
+          "name": "Control of Ventilation and Effects of Altitude and Exercise",
+          "questionCount": 22
+        },
+        {
+          "id": "airway-resistance",
+          "name": "Airway Resistance",
+          "questionCount": 22
+        },
+        {
+          "id": "pulmonary-function-tests",
+          "name": "Pulmonary Function Tests",
+          "questionCount": 22
+        },
+        {
+          "id": "ventilation-perfusion",
+          "name": "Pulmonary Ventilation and Perfusion (V/Q)",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-obstructive",
+      "name": "Obstructive Lung Diseases",
+      "topics": [
+        {
+          "id": "obstructive-restrictive-foundations",
+          "name": "Obstructive and Restrictive Lung Diseases: Foundations",
+          "questionCount": 22
+        },
+        {
+          "id": "tobacco-smoking",
+          "name": "Tobacco Smoking",
+          "questionCount": 22
+        },
+        {
+          "id": "copd-pathophysiology",
+          "name": "COPD: Pathophysiology",
+          "questionCount": 24
+        },
+        {
+          "id": "copd-clinical",
+          "name": "COPD: Clinical Presentation, Diagnosis, and Management",
+          "questionCount": 22
+        },
+        {
+          "id": "asthma",
+          "name": "Asthma",
+          "questionCount": 26
+        },
+        {
+          "id": "treatment-asthma-copd",
+          "name": "Treatment of Asthma and COPD",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-airway",
+      "name": "Airway Diseases",
+      "topics": [
+        {
+          "id": "bronchiectasis",
+          "name": "Bronchiectasis",
+          "questionCount": 22
+        },
+        {
+          "id": "cystic-fibrosis-1",
+          "name": "Cystic Fibrosis (Part 1)",
+          "questionCount": 22
+        },
+        {
+          "id": "cystic-fibrosis-2",
+          "name": "Cystic Fibrosis (Part 2)",
+          "questionCount": 22
+        },
+        {
+          "id": "inflammatory-pharynx-larynx-trachea",
+          "name": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+          "questionCount": 22
+        },
+        {
+          "id": "pertussis-diphtheria",
+          "name": "B. pertussis and C. diphtheriae",
+          "questionCount": 22
+        },
+        {
+          "id": "inflammatory-nasal-sinuses",
+          "name": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-interstitial-restrictive",
+      "name": "Interstitial & Restrictive Diseases",
+      "topics": [
+        {
+          "id": "ild-foundations",
+          "name": "Interstitial Lung Disease: Foundations",
+          "questionCount": 22
+        },
+        {
+          "id": "hypersensitivity-pneumonitis",
+          "name": "Hypersensitivity Pneumonitis",
+          "questionCount": 22
+        },
+        {
+          "id": "idiopathic-pulmonary-fibrosis",
+          "name": "Idiopathic Pulmonary Fibrosis",
+          "questionCount": 22
+        },
+        {
+          "id": "pneumoconioses",
+          "name": "Pneumoconioses",
+          "questionCount": 24
+        },
+        {
+          "id": "sarcoidosis",
+          "name": "Sarcoidosis",
+          "questionCount": 22
+        },
+        {
+          "id": "autoimmune-respiratory",
+          "name": "Autoimmune Diseases with Respiratory Manifestations",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-pleural-chest",
+      "name": "Pleural & Chest Diseases",
+      "topics": [
+        {
+          "id": "pleural-effusion",
+          "name": "Pleural Effusion",
+          "questionCount": 22
+        },
+        {
+          "id": "pneumothorax",
+          "name": "Pneumothorax",
+          "questionCount": 22
+        },
+        {
+          "id": "mesothelioma",
+          "name": "Mesothelioma",
+          "questionCount": 22
+        },
+        {
+          "id": "traumatic-chest-disorders",
+          "name": "Traumatic Injuries and Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "resp-acute-failure",
+      "name": "Acute Respiratory Failure",
+      "topics": [
+        {
+          "id": "ards",
+          "name": "Acute Respiratory Distress Syndrome (ARDS)",
+          "questionCount": 22
+        },
+        {
+          "id": "neonatal-rds",
+          "name": "Neonatal Respiratory Distress Syndrome",
+          "questionCount": 22
+        },
+        {
+          "id": "sleep-apnea",
+          "name": "Sleep Apnea",
+          "questionCount": 22
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 1000
+}

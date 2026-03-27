@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "r12-001",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 58-year-old man with a 40-pack-year smoking history presents with progressive dyspnea and productive cough for 3 years. He works as a truck driver and reports difficulty with prolonged exertion. Spirometry shows an FEV1/FVC ratio of 0.62. A lung biopsy reveals destruction of alveolar walls with enlarged airspaces concentrated around the respiratory bronchioles, primarily in the upper lobes. Which type of emphysema is present?",
+    "choices": [
+      {"label": "A", "text": "Panacinar emphysema"},
+      {"label": "B", "text": "Centriacinar emphysema"},
+      {"label": "C", "text": "Paraseptal emphysema"},
+      {"label": "D", "text": "Irregular emphysema"},
+      {"label": "E", "text": "Compensatory emphysema"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Centriacinar (centrilobular) emphysema affects the center of the acinus near the respiratory bronchioles, predominantly involves the upper lobes, and is the most common type associated with cigarette smoking.",
+      "whyCorrect": "Centriacinar emphysema is caused by localized high levels of proteases released by neutrophils recruited during chronic tobacco smoke-induced inflammation. Because inhaled smoke contacts the center of the acinus first, destruction begins at the respiratory bronchioles and characteristically affects the upper lobes.",
+      "whyWrongByChoice": {
+        "A": "Panacinar emphysema affects the entire acinus uniformly and predominantly involves the lower lobes. It is classically associated with alpha-1 antitrypsin deficiency, not smoking alone.",
+        "C": "Paraseptal emphysema affects the distal alveoli adjacent to the pleural septa and is associated with subpleural bulla formation and spontaneous pneumothorax.",
+        "D": "Irregular emphysema has a random distribution within the acinus, usually associated with pulmonary scarring, and rarely causes significant clinical disease.",
+        "E": "Compensatory emphysema refers to dilation of remaining alveoli after surgical resection or lobar collapse. It is not a true destructive emphysema."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "centriacinar", "smoking", "pathology"]
+  },
+  {
+    "id": "r12-002",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 45-year-old nonsmoking woman presents with progressive exertional dyspnea over the past 2 years. Her father died of emphysema at age 50. Pulmonary function tests reveal an obstructive pattern. CT scan shows diffuse lower-lobe emphysematous changes. Liver biopsy shows PAS-positive, diastase-resistant globules within hepatocytes. Which of the following is the underlying mechanism?",
+    "choices": [
+      {"label": "A", "text": "Oxidant-mediated alveolar wall damage"},
+      {"label": "B", "text": "Mucus hypersecretion from goblet cells"},
+      {"label": "C", "text": "Mast cell degranulation with remodeling"},
+      {"label": "D", "text": "Unopposed neutrophil elastase activity"},
+      {"label": "E", "text": "Autoimmune alveolar basement membrane destruction"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This patient has alpha-1 antitrypsin (A1AT) deficiency causing panacinar emphysema. The mutated A1AT protein cannot leave the hepatocyte endoplasmic reticulum, leading to unopposed neutrophil elastase activity in the lungs and concurrent liver disease.",
+      "whyCorrect": "In A1AT deficiency, the misfolded protein accumulates in hepatocytes (PAS-positive globules on liver biopsy) and cannot reach the lungs. Without A1AT as an antiprotease, neutrophil elastase destroys alveolar septa diffusely, producing panacinar emphysema predominantly in the lower lobes.",
+      "whyWrongByChoice": {
+        "A": "Oxidant-mediated damage contributes to smoking-related COPD but is not the primary mechanism in A1AT deficiency, which centers on protease-antiprotease imbalance.",
+        "B": "Mucus hypersecretion and goblet cell hyperplasia are features of chronic bronchitis, not emphysema with alveolar destruction from protease imbalance.",
+        "C": "Mast cell degranulation and remodeling are hallmarks of asthma, not emphysema from A1AT deficiency with hepatic globules.",
+        "E": "Autoimmune alveolar basement membrane destruction is associated with Goodpasture syndrome (pulmonary hemorrhage and glomerulonephritis), not emphysema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "alpha-1-antitrypsin", "panacinar", "protease-antiprotease", "emphysema"]
+  },
+  {
+    "id": "r12-003",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 60-year-old man has had a daily productive cough with mucopurulent sputum for the past 4 years. He has smoked one pack of cigarettes daily for 35 years. Physical examination reveals scattered rhonchi bilaterally. Bronchial biopsy shows increased numbers of mucus-secreting cells and replacement of ciliated columnar epithelium with squamous epithelium. Which pair of histologic changes best characterizes his condition?",
+    "choices": [
+      {"label": "A", "text": "Granuloma formation and caseous necrosis"},
+      {"label": "B", "text": "Goblet cell hyperplasia and squamous metaplasia"},
+      {"label": "C", "text": "Alveolar septal destruction and bullae formation"},
+      {"label": "D", "text": "Smooth muscle hypertrophy and subepithelial fibrosis"},
+      {"label": "E", "text": "Noncaseating granulomas and interstitial fibrosis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Chronic bronchitis is characterized by goblet cell hyperplasia (increased mucus-secreting cells) and squamous metaplasia (replacement of ciliated epithelium with squamous epithelium) in the bronchial airways.",
+      "whyCorrect": "In chronic bronchitis, persistent tobacco smoke irritation stimulates goblet cell proliferation leading to mucus hypersecretion. Simultaneously, the ciliated respiratory epithelium undergoes squamous metaplasia. Loss of cilia impairs mucociliary clearance and predisposes to infections.",
+      "whyWrongByChoice": {
+        "A": "Granuloma formation and caseous necrosis are hallmarks of tuberculosis, not chronic bronchitis.",
+        "C": "Alveolar septal destruction and bullae formation characterize emphysema, not the bronchial epithelial changes of chronic bronchitis.",
+        "D": "Smooth muscle hypertrophy and subepithelial fibrosis are hallmarks of chronic asthma airway remodeling, not chronic bronchitis.",
+        "E": "Noncaseating granulomas and interstitial fibrosis are seen in sarcoidosis, not chronic bronchitis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "chronic-bronchitis", "histology", "goblet-cell", "squamous-metaplasia"]
+  },
+  {
+    "id": "r12-004",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A researcher studying emphysema pathogenesis exposes mice to chronic cigarette smoke and observes recruitment of inflammatory cells to the lungs. Bronchoalveolar lavage reveals a predominance of cells that release enzymes capable of degrading alveolar wall extracellular matrix. The researcher hypothesizes that a specific enzyme class drives alveolar destruction. Which of the following is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Collagenases from fibroblasts"},
+      {"label": "B", "text": "Elastases from neutrophils"},
+      {"label": "C", "text": "Lipases from macrophages"},
+      {"label": "D", "text": "Hyaluronidases from mast cells"},
+      {"label": "E", "text": "Gelatinases from eosinophils"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Neutrophil elastase is the primary protease responsible for alveolar wall destruction in smoking-related emphysema. Cigarette smoke recruits neutrophils, and their released elastases degrade elastic fibers in alveolar septa.",
+      "whyCorrect": "Cigarette smoke causes chronic inflammation that recruits neutrophils to the lung parenchyma. These neutrophils release elastase, a serine protease that degrades elastin. When elastase activity exceeds antiprotease defenses (primarily alpha-1 antitrypsin), alveolar septal destruction results.",
+      "whyWrongByChoice": {
+        "A": "Collagenases from fibroblasts play a role in tissue remodeling but are not the primary enzymes in emphysematous destruction. The key imbalance involves neutrophil elastase.",
+        "C": "Lipases from macrophages are not the primary enzymes implicated in alveolar wall destruction. Neutrophil elastase is the classically cited enzyme.",
+        "D": "Hyaluronidases from mast cells degrade hyaluronic acid and play roles in allergic conditions, not alveolar septal destruction in emphysema.",
+        "E": "Gelatinases from eosinophils are involved in parasitic infections and allergic inflammation. Eosinophils are not the primary cells in smoking-related emphysema."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "neutrophil-elastase", "protease-antiprotease", "pathogenesis"]
+  },
+  {
+    "id": "r12-005",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 62-year-old woman with long-standing COPD and a 35-pack-year smoking history undergoes body plethysmography. Her total lung capacity and residual volume are both significantly elevated. She has a barrel-shaped chest and uses pursed-lip breathing. Which of the following best explains the increase in her lung volumes?",
+    "choices": [
+      {"label": "A", "text": "Loss of elastic recoil causing air trapping"},
+      {"label": "B", "text": "Strengthening of the respiratory diaphragm"},
+      {"label": "C", "text": "Increased chest wall compliance"},
+      {"label": "D", "text": "Pulmonary vascular congestion"},
+      {"label": "E", "text": "Pleural effusion compressing the lung"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In COPD, destruction of alveolar walls and loss of elastic recoil reduce the lung's ability to expel air during expiration. This leads to air trapping, increasing residual volume and total lung capacity.",
+      "whyCorrect": "Emphysematous destruction decreases elastic recoil and increases compliance. During expiration, airways collapse prematurely because they lack radial traction from intact alveolar walls. Air becomes trapped, increasing RV and TLC, producing the barrel chest.",
+      "whyWrongByChoice": {
+        "B": "In long-standing COPD, the diaphragm is flattened by hyperinflation and operates at a mechanical disadvantage. Diaphragm strengthening would improve expiration, not increase trapped volumes.",
+        "C": "Increased chest wall compliance would make the chest easier to compress. In COPD, the chest wall becomes more rigid in the expanded state. The primary driver is lung elastic recoil loss.",
+        "D": "Pulmonary vascular congestion is seen in left heart failure and causes edema. It would reduce lung volumes, not increase them.",
+        "E": "Pleural effusion compresses lung tissue and reduces volumes, causing a restrictive pattern, the opposite of hyperinflation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "air-trapping", "elastic-recoil", "lung-volumes", "hyperinflation"]
+  },
+  {
+    "id": "r12-006",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 55-year-old man with a 35-pack-year smoking history undergoes CT imaging for chronic dyspnea. The radiologist reports centriacinar emphysema. The patient asks his pulmonologist which part of his lungs is most affected. Which of the following lung regions shows the greatest emphysematous changes?",
+    "choices": [
+      {"label": "A", "text": "Right middle lobe"},
+      {"label": "B", "text": "Left lingula"},
+      {"label": "C", "text": "Bilateral lower lobes"},
+      {"label": "D", "text": "Bilateral upper lobes"},
+      {"label": "E", "text": "Subpleural regions bilaterally"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Centriacinar emphysema from smoking characteristically affects the upper lobes because inhaled smoke deposits preferentially in upper lung zones, where inflammation and protease-mediated destruction concentrate.",
+      "whyCorrect": "In centriacinar emphysema, damage centers on respiratory bronchioles at the acinus core. Cigarette smoke preferentially deposits in upper lung fields, and the resulting inflammatory and protease-mediated destruction is most pronounced in the upper lobes bilaterally.",
+      "whyWrongByChoice": {
+        "A": "The right middle lobe is not the characteristic location. While any lobe can be affected, upper lobes show the most severe involvement in smoking-related disease.",
+        "B": "The left lingula is not a predominant site for centriacinar emphysema. Upper lobe predominance is the hallmark of this subtype.",
+        "C": "Bilateral lower lobe involvement is characteristic of panacinar emphysema from alpha-1 antitrypsin deficiency, not centriacinar emphysema from smoking.",
+        "E": "Subpleural involvement is characteristic of paraseptal emphysema, which affects distal alveoli near the pleural surface and is associated with pneumothorax."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "centriacinar", "emphysema", "upper-lobes", "smoking"]
+  },
+  {
+    "id": "r12-007",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 22-year-old tall, thin man presents to the emergency department with sudden-onset right-sided pleuritic chest pain and dyspnea that began while lifting weights. He has no history of trauma, smoking, or lung disease. A chest X-ray reveals a right-sided pneumothorax with a visible pleural line. Which type of emphysema is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Centriacinar emphysema"},
+      {"label": "B", "text": "Panacinar emphysema"},
+      {"label": "C", "text": "Paraseptal emphysema"},
+      {"label": "D", "text": "Irregular emphysema"},
+      {"label": "E", "text": "Compensatory emphysema"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Paraseptal emphysema involves destruction of distal alveoli adjacent to the pleural septa, forming subpleural bullae. Rupture of apical bullae into the pleural space causes spontaneous pneumothorax, classically in young, tall, thin males.",
+      "whyCorrect": "Paraseptal emphysema destroys the distal acinus adjacent to interlobular septa and pleura, leading to subpleural blebs and bullae, particularly at lung apices. Rupture causes spontaneous pneumothorax, classically in young, tall, thin males.",
+      "whyWrongByChoice": {
+        "A": "Centriacinar emphysema is associated with smoking and typically presents in older adults with progressive dyspnea, not spontaneous pneumothorax in a young nonsmoker.",
+        "B": "Panacinar emphysema from A1AT deficiency presents with progressive dyspnea and lower-lobe disease, not acute pneumothorax in a young person.",
+        "D": "Irregular emphysema has a random pattern associated with scarring, usually found incidentally at autopsy, and rarely causes pneumothorax.",
+        "E": "Compensatory emphysema is overdistension after resection or collapse, without alveolar wall destruction, and would not cause spontaneous pneumothorax."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "paraseptal", "emphysema", "pneumothorax", "spontaneous"]
+  },
+  {
+    "id": "r12-008",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 50-year-old man with alpha-1 antitrypsin deficiency develops progressive dyspnea over several years. He also has hepatomegaly and mildly elevated liver enzymes. His serum A1AT level is markedly low. Liver biopsy shows PAS-positive globules within hepatocytes. Which of the following best explains his concurrent liver disease?",
+    "choices": [
+      {"label": "A", "text": "Chronic right heart failure from cor pulmonale"},
+      {"label": "B", "text": "Secondary hemochromatosis from chronic hypoxia"},
+      {"label": "C", "text": "Neutrophil elastase-mediated hepatic necrosis"},
+      {"label": "D", "text": "Autoimmune hepatitis triggered by inflammation"},
+      {"label": "E", "text": "Accumulation of misfolded protein in hepatocytes"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In alpha-1 antitrypsin deficiency, a gene mutation causes the A1AT protein to misfold. The misfolded protein cannot be secreted from hepatocytes and accumulates within the endoplasmic reticulum, forming PAS-positive globules that cause hepatocellular injury.",
+      "whyCorrect": "The mutated A1AT protein misfolds and becomes trapped in the hepatocyte endoplasmic reticulum, unable to be exported. This intracellular accumulation causes hepatocyte injury, manifesting as hepatomegaly and elevated liver enzymes, and can progress to cirrhosis.",
+      "whyWrongByChoice": {
+        "A": "Cor pulmonale can cause hepatic congestion, but the PAS-positive globules on biopsy indicate direct A1AT protein accumulation in hepatocytes as the mechanism.",
+        "B": "Secondary hemochromatosis involves excess iron deposition from repeated transfusions. Chronic hypoxia does not cause hemochromatosis.",
+        "C": "Neutrophil elastase causes destruction in the lungs, not the liver. The liver pathology results from misfolded antiprotease accumulation within hepatocytes.",
+        "D": "There is no autoimmune hepatitis associated with A1AT deficiency. The liver disease results from a cell-autonomous protein accumulation defect."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "alpha-1-antitrypsin", "liver-disease", "protein-misfolding", "hepatocyte"]
+  },
+  {
+    "id": "r12-009",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A pathologist examining a lung specimen from a long-term smoker with chronic bronchitis measures the thickness of the mucous gland layer relative to the total bronchial wall thickness from epithelium to cartilage. The ratio is 0.65 (normal <0.4). Which of the following best describes this finding?",
+    "choices": [
+      {"label": "A", "text": "Normal Reid index value"},
+      {"label": "B", "text": "Elevated Reid index confirming chronic bronchitis"},
+      {"label": "C", "text": "Decreased Reid index suggesting emphysema"},
+      {"label": "D", "text": "Elevated Tiffeneau-Pinelli spirometric index"},
+      {"label": "E", "text": "Normal mucosal-to-wall thickness ratio"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The Reid index is the ratio of mucous gland layer thickness to total bronchial wall thickness. A value greater than 0.5 is consistent with chronic bronchitis, indicating mucous gland hypertrophy.",
+      "whyCorrect": "The Reid index measures submucosal mucous gland thickness relative to total bronchial wall. Normal values are below 0.4. A value of 0.65 far exceeds normal and confirms significant mucous gland hypertrophy, a hallmark of chronic bronchitis.",
+      "whyWrongByChoice": {
+        "A": "A normal Reid index is typically less than 0.4. A value of 0.65 indicates significant mucous gland hypertrophy.",
+        "C": "The Reid index measures mucous gland thickness relevant to chronic bronchitis, not emphysema. Emphysema involves alveolar destruction, not bronchial gland changes.",
+        "D": "The Tiffeneau index refers to the FEV1/FVC ratio in spirometry, a pulmonary function measurement, not a histologic measurement of bronchial wall thickness.",
+        "E": "A ratio of 0.65 is clearly abnormal. Normal values are below 0.4-0.5, and this elevation reflects mucous gland hyperplasia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "chronic-bronchitis", "Reid-index", "histology", "mucous-glands"]
+  },
+  {
+    "id": "r12-010",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 64-year-old woman with severe COPD and chronic hypoxemia (SpO2 82% on room air) develops progressive bilateral lower extremity edema, jugular venous distension, and hepatomegaly over several months. Echocardiography shows right ventricular dilation with estimated pulmonary artery systolic pressure of 55 mmHg. Which of the following is the primary mechanism of her cardiac findings?",
+    "choices": [
+      {"label": "A", "text": "Left ventricular systolic dysfunction"},
+      {"label": "B", "text": "Aortic valve stenosis"},
+      {"label": "C", "text": "Hypoxic pulmonary vasoconstriction"},
+      {"label": "D", "text": "Pulmonary venous thromboembolism"},
+      {"label": "E", "text": "Systemic arterial hypertension"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Chronic hypoxemia in COPD triggers diffuse hypoxic vasoconstriction of the pulmonary vasculature, leading to pulmonary hypertension, increased right ventricular afterload, and eventually right-sided heart failure (cor pulmonale).",
+      "whyCorrect": "In COPD, widespread airway obstruction and alveolar destruction cause chronic hypoxemia. Hypoxic pulmonary capillaries constrict diffusely, raising pulmonary artery pressures and ultimately causing right ventricular failure (cor pulmonale).",
+      "whyWrongByChoice": {
+        "A": "Left ventricular dysfunction causes pulmonary congestion and left-sided failure symptoms. This patient's right ventricular dilation and peripheral edema point to right-sided failure from pulmonary hypertension.",
+        "B": "Aortic stenosis causes left ventricular outflow obstruction and left ventricular hypertrophy, not right ventricular dilation with elevated pulmonary pressures.",
+        "D": "While PE can cause acute right heart strain, this chronic progressive course with long-standing hypoxemia is better explained by hypoxic vasoconstriction.",
+        "E": "Systemic hypertension affects the left ventricle. This patient's right-sided failure is from elevated pulmonary pressures, not systemic circulation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "cor-pulmonale", "pulmonary-hypertension", "hypoxic-vasoconstriction"]
+  },
+  {
+    "id": "r12-011",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 70-year-old man with COPD and chronic hypoxemia (SpO2 84% on room air) is found to have a hemoglobin of 19.2 g/dL and hematocrit of 58% on routine blood work. His white blood cell count and platelets are normal. He has no history of dehydration or myeloproliferative disease. Which of the following best explains his elevated red blood cell count?",
+    "choices": [
+      {"label": "A", "text": "Decreased erythropoietin hepatic clearance"},
+      {"label": "B", "text": "Chronic hypoxia stimulating renal erythropoietin"},
+      {"label": "C", "text": "Bone marrow infiltration by malignancy"},
+      {"label": "D", "text": "Dehydration causing hemoconcentration"},
+      {"label": "E", "text": "JAK2 mutation causing myeloproliferative disease"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Chronic hypoxemia in COPD stimulates the kidneys to produce increased erythropoietin, which drives bone marrow to increase red blood cell production (secondary polycythemia) as a compensatory response.",
+      "whyCorrect": "The kidneys sense chronic hypoxia via HIF pathways and increase erythropoietin secretion, stimulating the bone marrow to produce more red blood cells. This compensatory mechanism attempts to increase oxygen-carrying capacity.",
+      "whyWrongByChoice": {
+        "A": "Erythropoietin clearance is not the primary mechanism. The elevated RBC count is caused by increased renal erythropoietin production in response to chronic hypoxia.",
+        "C": "Bone marrow infiltration would suppress hematopoiesis, causing cytopenias. This patient has isolated polycythemia from chronic hypoxia, not a primary marrow process.",
+        "D": "Dehydration can cause hemoconcentration, but the history states no dehydration. The polycythemia represents true secondary erythrocytosis from chronic hypoxemia.",
+        "E": "JAK2 mutations cause polycythemia vera, a primary myeloproliferative disorder. This patient's polycythemia is secondary to chronic hypoxemia from COPD."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "polycythemia", "erythropoietin", "hypoxemia", "secondary-polycythemia"]
+  },
+  {
+    "id": "r12-012",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 57-year-old man with COPD is evaluated for worsening dyspnea over the past 3 months. He has a 30-pack-year smoking history and uses a LAMA inhaler daily. Arterial blood gas reveals PaO2 of 55 mmHg and PaCO2 of 52 mmHg with a pH of 7.35 and bicarbonate of 28 mEq/L. Which of the following best explains his hypercapnia?",
+    "choices": [
+      {"label": "A", "text": "Increased metabolic CO2 production"},
+      {"label": "B", "text": "Excessive bicarbonate reabsorption by kidneys"},
+      {"label": "C", "text": "Right-to-left intracardiac shunting"},
+      {"label": "D", "text": "Impaired hemoglobin affinity for CO2"},
+      {"label": "E", "text": "V/Q mismatch and reduced alveolar ventilation"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Hypercapnia in COPD results from V/Q mismatch and reduced alveolar ventilation. Airway obstruction and alveolar destruction decrease ventilation to perfused lung segments, impairing CO2 elimination.",
+      "whyCorrect": "In COPD, airway obstruction (chronic bronchitis) and alveolar destruction (emphysema) reduce ventilation, causing V/Q mismatch where some areas are perfused but poorly ventilated. This leads to inadequate CO2 elimination and elevated PaCO2.",
+      "whyWrongByChoice": {
+        "A": "Increased metabolic CO2 production occurs in fever, sepsis, or thyrotoxicosis. The hypercapnia here is from impaired CO2 elimination, not increased production.",
+        "B": "Renal bicarbonate reabsorption (reflected in the elevated HCO3) is a compensatory response to chronic respiratory acidosis, not the cause of hypercapnia.",
+        "C": "Right-to-left shunting causes refractory hypoxemia. While COPD can involve intrapulmonary shunting, the primary mechanism of hypercapnia is V/Q mismatch.",
+        "D": "Hemoglobin CO2 affinity is not impaired in COPD. CO2 transport remains functional. The problem is reduced ventilatory elimination."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "hypercapnia", "V/Q-mismatch", "alveolar-ventilation", "pathophysiology"]
+  },
+  {
+    "id": "r12-013",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 48-year-old man with alpha-1 antitrypsin deficiency who also smokes one pack of cigarettes daily is found to have severe emphysema on CT with extensive upper and lower lobe involvement. His disease is more advanced than expected for his A1AT genotype alone. Which of the following best explains why smoking worsens his lung disease?",
+    "choices": [
+      {"label": "A", "text": "Smoking reduces hepatic A1AT synthesis"},
+      {"label": "B", "text": "Smoking increases neutrophil recruitment and protease load"},
+      {"label": "C", "text": "Smoking converts panacinar to centriacinar pattern"},
+      {"label": "D", "text": "Smoking causes A1AT gene mutations to worsen"},
+      {"label": "E", "text": "Smoking directly inhibits surfactant production"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Smoking amplifies the protease-antiprotease imbalance in A1AT deficiency by recruiting additional neutrophils and generating reactive oxygen species, increasing the protease burden that is already unopposed.",
+      "whyCorrect": "In A1AT deficiency, baseline antiprotease defense is inadequate. Smoking compounds this by recruiting more neutrophils and macrophages, releasing additional proteases. Smoking also generates ROS that inactivate residual antiproteases, dramatically accelerating alveolar destruction.",
+      "whyWrongByChoice": {
+        "A": "In A1AT deficiency, the problem is protein misfolding, not reduced synthesis. Smoking does not change the genetic defect in A1AT production.",
+        "C": "Smoking does not convert the emphysema pattern. The panacinar pattern persists because the deficiency is global. Smoking accelerates destruction but does not change anatomy.",
+        "D": "Gene mutations are fixed from birth. Smoking exacerbates the consequences by increasing protease activity, not by altering the DNA mutation.",
+        "E": "While smoking affects surfactant, this is not the primary mechanism worsening A1AT deficiency. The key is amplified protease-antiprotease imbalance."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "alpha-1-antitrypsin", "smoking", "protease-antiprotease", "pathogenesis"]
+  },
+  {
+    "id": "r12-014",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 66-year-old woman with severe emphysema has significantly increased lung compliance on pulmonary function testing. Her FEV1 is 0.8 L (30% predicted) and she reports constant dyspnea at rest. She is underweight with a BMI of 18. Which of the following is the most likely consequence of her increased compliance during expiration?",
+    "choices": [
+      {"label": "A", "text": "Increased expiratory flow rate"},
+      {"label": "B", "text": "Decreased residual volume"},
+      {"label": "C", "text": "Reduced elastic recoil and air trapping"},
+      {"label": "D", "text": "Enhanced gas exchange efficiency"},
+      {"label": "E", "text": "Decreased functional residual capacity"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Increased lung compliance in emphysema means reduced elastic recoil. During expiration, the reduced recoil force is insufficient to fully expel air, leading to air trapping and increased residual volume.",
+      "whyCorrect": "Destruction of alveolar septa eliminates elastic fibers that normally drive passive expiration. The resulting reduced recoil leads to premature small airway collapse and air trapping during expiration.",
+      "whyWrongByChoice": {
+        "A": "Increased compliance reduces elastic recoil, the driving force for expiration. This leads to decreased, not increased, expiratory flow rates.",
+        "B": "Residual volume increases because air is trapped due to reduced recoil and premature airway closure, not decreased.",
+        "D": "Increased compliance from alveolar destruction reduces total surface area for gas exchange, making it less efficient.",
+        "E": "FRC increases in emphysema because the equilibrium between lung recoil and chest wall recoil shifts to a larger volume. Decreased FRC is seen in restrictive diseases."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "compliance", "elastic-recoil", "air-trapping"]
+  },
+  {
+    "id": "r12-015",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 63-year-old man with chronic bronchitis and a 40-pack-year smoking history presents with recurrent lower respiratory infections and new-onset hemoptysis over the past 2 months. CT scan shows dilated, thick-walled bronchi with a signet-ring sign in the right lower lobe. Sputum cultures grow Pseudomonas aeruginosa. Which complication of COPD is most consistent with these imaging findings?",
+    "choices": [
+      {"label": "A", "text": "Lung abscess formation"},
+      {"label": "B", "text": "Bronchiectasis"},
+      {"label": "C", "text": "Pulmonary embolism"},
+      {"label": "D", "text": "Spontaneous pneumothorax"},
+      {"label": "E", "text": "Bronchopleural fistula"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Bronchiectasis is a complication of chronic bronchitis in which permanent, irreversible dilation of bronchi occurs. The signet-ring sign (dilated bronchus larger than adjacent pulmonary artery) on CT is pathognomonic.",
+      "whyCorrect": "Chronic bronchitis can lead to bronchiectasis through repeated infection, inflammation, and airway wall destruction. The signet-ring sign is pathognomonic. Symptoms include chronic cough, recurrent pneumonias, and hemoptysis.",
+      "whyWrongByChoice": {
+        "A": "A lung abscess appears as a cavitary lesion with an air-fluid level, not dilated thick-walled bronchi with a signet-ring sign.",
+        "C": "Pulmonary embolism presents acutely with dyspnea and pleuritic chest pain. CT angiography shows intraluminal filling defects, not dilated bronchi.",
+        "D": "Pneumothorax shows air in the pleural space on imaging. It does not cause dilated thick-walled bronchi.",
+        "E": "A bronchopleural fistula is an abnormal connection between bronchus and pleural space, presenting with air leak, not the signet-ring sign."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "bronchiectasis", "complication", "CT-imaging", "signet-ring"]
+  },
+  {
+    "id": "r12-016",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A researcher studying how cigarette smoke induces chronic bronchitis observes that tobacco smoke causes an imbalance between reactive oxygen species and protective mechanisms in the airway epithelium. She measures increased levels of superoxide radicals and decreased glutathione in bronchial tissue samples. Which of the following best describes this pathogenic mechanism?",
+    "choices": [
+      {"label": "A", "text": "Protease-antiprotease imbalance"},
+      {"label": "B", "text": "Oncogene-mediated proliferation"},
+      {"label": "C", "text": "Complement activation cascade"},
+      {"label": "D", "text": "Type IV hypersensitivity reaction"},
+      {"label": "E", "text": "Oxidant-antioxidant imbalance"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Cigarette smoke generates reactive oxygen species that overwhelm antioxidant defenses, creating an oxidant-antioxidant imbalance. This oxidative stress damages airway epithelium and amplifies inflammation.",
+      "whyCorrect": "Tobacco smoke generates high levels of ROS. When these exceed local antioxidant defenses (glutathione, superoxide dismutase), oxidative stress damages airway epithelium and recruits inflammatory cells. This is a key mechanism in COPD pathogenesis.",
+      "whyWrongByChoice": {
+        "A": "The protease-antiprotease imbalance is a key mechanism in emphysema involving excess elastase relative to A1AT. The question describes ROS and antioxidant mechanisms specifically.",
+        "B": "Oncogene-mediated proliferation drives cancer. The question describes oxidative stress in COPD pathogenesis, not carcinogenesis.",
+        "C": "Complement activation is part of innate immunity against pathogens, not the primary mechanism of ROS-mediated airway damage in COPD.",
+        "D": "Type IV hypersensitivity involves T cell-mediated delayed reactions. The described ROS-antioxidant imbalance is not a hypersensitivity reaction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "oxidant-antioxidant", "ROS", "cigarette-smoke", "pathogenesis"]
+  },
+  {
+    "id": "r12-017",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 56-year-old man with chronic bronchitis undergoes bronchial biopsy for evaluation of worsening symptoms. Microscopy reveals that the normal ciliated pseudostratified columnar epithelium has been replaced by stratified squamous epithelium in several bronchial segments. The pathologist notes absent cilia in these regions. Which of the following is the most significant clinical consequence?",
+    "choices": [
+      {"label": "A", "text": "Increased mucus production"},
+      {"label": "B", "text": "Improved resistance to irritants"},
+      {"label": "C", "text": "Enhanced alveolar gas exchange"},
+      {"label": "D", "text": "Impaired mucociliary clearance predisposing to infection"},
+      {"label": "E", "text": "Decreased airway resistance"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Squamous metaplasia replaces ciliated epithelium with nonciliated squamous cells. The loss of cilia abolishes mucociliary clearance, leaving airways unable to remove pathogens, predisposing to recurrent infections.",
+      "whyCorrect": "The mucociliary escalator requires cilia to move trapped particles upward. Squamous metaplasia eliminates cilia and abolishes this clearance, making patients highly susceptible to pneumonia and bronchitis.",
+      "whyWrongByChoice": {
+        "A": "Mucus production is increased by goblet cell hyperplasia, a separate change. Squamous metaplasia actually reduces mucus in affected areas since squamous cells lack goblet cells.",
+        "B": "While squamous epithelium is more abrasion-resistant, the most significant consequence is loss of mucociliary clearance predisposing to infection.",
+        "C": "Gas exchange occurs in alveoli, not bronchial airways. Bronchial squamous metaplasia does not enhance gas exchange.",
+        "E": "Squamous metaplasia does not decrease resistance. Chronic bronchitis increases airway resistance due to mucus plugging and inflammation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "chronic-bronchitis", "squamous-metaplasia", "mucociliary-clearance", "infection"]
+  },
+  {
+    "id": "r12-018",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A pulmonology lecturer explains that chronic bronchitis, unlike emphysema, is defined by clinical criteria rather than pathologic findings. A medical student asks what symptoms must be present and for how long to make the diagnosis. Which of the following diagnostic criteria best defines chronic bronchitis?",
+    "choices": [
+      {"label": "A", "text": "Productive cough for 3 months in 2 consecutive years"},
+      {"label": "B", "text": "Post-bronchodilator FEV1/FVC ratio below 0.7"},
+      {"label": "C", "text": "Bilateral lower-lobe infiltrates on chest X-ray"},
+      {"label": "D", "text": "Sputum culture positive for bacterial pathogens"},
+      {"label": "E", "text": "Persistent wheezing for at least 6 months"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Chronic bronchitis is clinically defined as a productive cough lasting at least 3 months per year for 2 or more consecutive years, after other causes of chronic cough have been excluded.",
+      "whyCorrect": "Chronic bronchitis is diagnosed clinically by symptom duration: a productive cough for at least 3 months in each of 2 consecutive years. This reflects chronic airway inflammation and mucus hypersecretion. Other causes must be excluded.",
+      "whyWrongByChoice": {
+        "B": "FEV1/FVC below 0.7 is the spirometric criterion for obstructive lung disease, not the specific definition of chronic bronchitis.",
+        "C": "Bilateral infiltrates suggest pneumonia or parenchymal disease. Chronic bronchitis is a clinical diagnosis; chest X-ray may be normal.",
+        "D": "Sputum cultures may show bacteria during exacerbations but are not part of the diagnostic definition.",
+        "E": "Persistent wheezing for 6 months is not the definition. The hallmark is productive cough for 3 months in 2 consecutive years."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "chronic-bronchitis", "definition", "clinical-diagnosis"]
+  },
+  {
+    "id": "r12-019",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 52-year-old man with a 30-pack-year history presents with progressive dyspnea. Pulmonary function testing shows an FEV1/FVC ratio of 0.58 that does not significantly improve after bronchodilator administration. Lung biopsy reveals permanent enlargement of airspaces distal to terminal bronchioles with destruction of their walls. Which anatomic structure is the primary site of pathology?",
+    "choices": [
+      {"label": "A", "text": "Terminal bronchioles"},
+      {"label": "B", "text": "Respiratory bronchioles and alveoli"},
+      {"label": "C", "text": "Lobar bronchi"},
+      {"label": "D", "text": "Tracheal cartilage rings"},
+      {"label": "E", "text": "Visceral pleural surface"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Emphysema is defined as permanent enlargement of airspaces distal to terminal bronchioles with wall destruction. The respiratory zone (respiratory bronchioles and alveoli) is the primary site of pathology.",
+      "whyCorrect": "Emphysema involves destruction of alveolar walls distal to terminal bronchioles, encompassing the respiratory zone where gas exchange occurs. This reduces diffusion capacity and elastic recoil.",
+      "whyWrongByChoice": {
+        "A": "Terminal bronchioles mark the boundary of the respiratory zone. Emphysematous destruction occurs distal to them, in the respiratory zone.",
+        "C": "Lobar bronchi are large conducting airways. Chronic bronchitis affects the conducting zone, but emphysema targets the respiratory zone.",
+        "D": "The trachea is the largest conducting airway and is not the site of emphysematous pathology.",
+        "E": "The visceral pleura covers the lung surface. While paraseptal emphysema affects subpleural areas, the primary pathology is alveolar wall destruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "respiratory-zone", "alveolar-destruction", "anatomy"]
+  },
+  {
+    "id": "r12-020",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 59-year-old man with severe emphysema undergoes CT of the chest for worsening dyspnea. The radiologist reports multiple large air-filled cavities greater than 1 cm in diameter within the lung parenchyma, predominantly in the upper lobes. There are no air-fluid levels or surrounding consolidation. Which of the following terms best describes these lesions?",
+    "choices": [
+      {"label": "A", "text": "Subpleural blebs"},
+      {"label": "B", "text": "Cavitary nodules"},
+      {"label": "C", "text": "Pulmonary abscesses"},
+      {"label": "D", "text": "Emphysematous bullae"},
+      {"label": "E", "text": "Lymphangioleiomyomatosis cysts"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In emphysema, destruction of alveolar septa leads to coalescence of enlarged airspaces into large air-filled cavities. Bullae are defined as air-filled cavities greater than 1 cm, while blebs are smaller than 1 cm.",
+      "whyCorrect": "Emphysematous destruction causes enlarged airspaces that coalesce into cavities greater than 1 cm, termed bullae. They reduce functional parenchyma and can rupture to cause pneumothorax.",
+      "whyWrongByChoice": {
+        "A": "Blebs are small subpleural cavities less than 1 cm. These lesions exceed 1 cm and are therefore bullae.",
+        "B": "Cavitary nodules are solid nodules with central necrosis, seen in infections or malignancy. Emphysematous bullae are purely air-filled without nodular components.",
+        "C": "Abscesses are walled-off pus collections with air-fluid levels. These air-filled cavities lack air-fluid levels and represent destroyed parenchyma.",
+        "E": "LAM cysts are thin-walled and diffuse throughout the lungs, seen primarily in young women. Emphysematous bullae result from alveolar wall destruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "bullae", "CT-imaging", "pathology"]
+  },
+  {
+    "id": "r12-021",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 47-year-old man with alpha-1 antitrypsin deficiency (PiZZ genotype) is being evaluated for both emphysema and liver dysfunction. His physician explains that the mutant protein is trapped within liver cells and cannot reach the lungs. The patient asks which part of the liver cell retains the abnormal protein. Which cellular organelle is the primary site of accumulation?",
+    "choices": [
+      {"label": "A", "text": "Mitochondria"},
+      {"label": "B", "text": "Golgi apparatus"},
+      {"label": "C", "text": "Endoplasmic reticulum"},
+      {"label": "D", "text": "Lysosomes"},
+      {"label": "E", "text": "Peroxisomes"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In A1AT deficiency (PiZZ genotype), the misfolded protein is unable to pass quality control in the hepatocyte endoplasmic reticulum. The abnormal protein accumulates within the ER as PAS-positive globules.",
+      "whyCorrect": "A1AT is synthesized and folded in the ER before secretion. The Z mutation causes misfolding, and ER quality control retains the abnormal protein. This prevents A1AT from reaching the lungs and causes intracellular accumulation damaging hepatocytes.",
+      "whyWrongByChoice": {
+        "A": "Mitochondria are the site of oxidative phosphorylation and are not involved in processing secretory proteins like A1AT.",
+        "B": "The Golgi apparatus further modifies proteins after ER exit. Misfolded A1AT is retained in the ER and never reaches the Golgi.",
+        "D": "Lysosomes may receive some misfolded proteins for degradation via autophagy, but the primary accumulation site is the ER.",
+        "E": "Peroxisomes handle fatty acid oxidation and detoxification, not synthesis or processing of secretory proteins."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "alpha-1-antitrypsin", "endoplasmic-reticulum", "PiZZ", "cell-biology"]
+  },
+  {
+    "id": "r12-022",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 68-year-old man with a 45-pack-year smoking history has severe COPD with an FEV1 of 28% predicted. His chest CT reveals hyperinflation and extensive parenchymal destruction. Arterial blood gas shows PaO2 of 52 mmHg. His physician explains that ventilation and perfusion are mismatched throughout his lungs. Which of the following best explains why V/Q mismatch develops?",
+    "choices": [
+      {"label": "A", "text": "Increased blood flow to well-ventilated areas"},
+      {"label": "B", "text": "Excess ventilation to non-perfused lung regions"},
+      {"label": "C", "text": "Decreased total pulmonary blood flow"},
+      {"label": "D", "text": "Increased alveolar surface area for exchange"},
+      {"label": "E", "text": "Perfusion of poorly ventilated lung segments"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "In COPD, airway obstruction and alveolar destruction reduce ventilation while perfusion continues. Blood flows past poorly ventilated alveoli, resulting in V/Q mismatch and hypoxemia.",
+      "whyCorrect": "COPD causes V/Q mismatch primarily through low V/Q units where lung segments receive blood flow but have reduced ventilation due to obstruction and alveolar destruction. Blood perfusing these regions does not undergo adequate gas exchange.",
+      "whyWrongByChoice": {
+        "A": "Increased blood flow to well-ventilated areas would improve gas exchange, not cause mismatch. Hypoxic vasoconstriction attempts this compensation but is overwhelmed.",
+        "B": "Dead space ventilation (non-perfused areas) can occur but is not the predominant mechanism of hypoxemia. Low V/Q units with excess perfusion are the primary cause.",
+        "C": "Total pulmonary blood flow may be maintained. The problem is distribution relative to ventilation, not total flow reduction.",
+        "D": "Alveolar surface area is decreased, not increased, from emphysematous destruction, impairing gas diffusion."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "V/Q-mismatch", "hypoxemia", "pathophysiology", "ventilation-perfusion"]
+  },
+  {
+    "id": "r12-023",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A medical student is studying emphysema pathogenesis and learns that neutrophils recruited to the lungs during chronic inflammation release an enzyme that is normally kept in check by a circulating inhibitor. She asks her professor to identify this enzyme-inhibitor pair. Which of the following correctly identifies the key pair in emphysema?",
+    "choices": [
+      {"label": "A", "text": "Collagenase and TIMP"},
+      {"label": "B", "text": "Tryptase and alpha-2 macroglobulin"},
+      {"label": "C", "text": "Elastase and alpha-1 antitrypsin"},
+      {"label": "D", "text": "Myeloperoxidase and catalase"},
+      {"label": "E", "text": "Phospholipase A2 and lipocortin"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The protease-antiprotease balance central to emphysema involves neutrophil elastase and alpha-1 antitrypsin. When elastase exceeds A1AT's inhibitory capacity, alveolar wall destruction occurs.",
+      "whyCorrect": "Neutrophil elastase degrades elastin and structural proteins in alveolar walls. Alpha-1 antitrypsin is the primary circulating inhibitor. Disruption of this balance leads to emphysema.",
+      "whyWrongByChoice": {
+        "A": "Collagenase and TIMP are a metalloproteinase-inhibitor pair involved in ECM turnover but are not the classic pair in emphysema pathogenesis.",
+        "B": "Tryptase is a mast cell protease, and alpha-2 macroglobulin is a broad-spectrum inhibitor. These are not the specific pair most relevant to emphysema.",
+        "D": "Myeloperoxidase and catalase are involved in oxidant-antioxidant balance, not the protease-antiprotease mechanism of emphysema.",
+        "E": "Phospholipase A2 and lipocortin relate to arachidonic acid release and corticosteroid action, not alveolar wall destruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "elastase", "alpha-1-antitrypsin", "protease-antiprotease"]
+  },
+  {
+    "id": "r12-024",
+    "topicId": "copd-pathophysiology",
+    "topicName": "COPD: Pathophysiology",
+    "stem": "A 71-year-old man with severe COPD and chronic hypoxemia presents with worsening lower extremity edema over 3 months. Right heart catheterization reveals a mean pulmonary artery pressure of 38 mmHg (normal <20). His left ventricular function is normal. His SpO2 is 83% on room air. Which pathophysiologic sequence best explains his elevated pulmonary pressures?",
+    "choices": [
+      {"label": "A", "text": "Alveolar destruction causing systemic hypotension and reflex vasoconstriction"},
+      {"label": "B", "text": "Mucus plugging causing mechanical pulmonary artery compression"},
+      {"label": "C", "text": "Right ventricular failure causing pulmonary venous congestion"},
+      {"label": "D", "text": "Chronic hypoxia causing diffuse pulmonary arteriolar vasoconstriction"},
+      {"label": "E", "text": "Chronic inflammation causing pulmonary vein fibrosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Chronic alveolar hypoxia triggers diffuse hypoxic pulmonary vasoconstriction. When most of the vasculature is constricted, pulmonary vascular resistance rises, causing pulmonary hypertension and eventually cor pulmonale.",
+      "whyCorrect": "Normally, hypoxic vasoconstriction redirects blood from poorly ventilated areas. In severe COPD with widespread alveolar hypoxia, diffuse arteriolar vasoconstriction raises pulmonary vascular resistance and mean pulmonary artery pressure. Vascular remodeling makes changes permanent.",
+      "whyWrongByChoice": {
+        "A": "COPD does not cause systemic hypotension as the primary driver. Pulmonary vasoconstriction is driven by local alveolar hypoxia.",
+        "B": "Mucus plugging and bronchospasm contribute to airflow obstruction but do not mechanically compress pulmonary arteries.",
+        "C": "Right ventricular failure is the consequence of pulmonary hypertension, not its cause. The sequence is reversed.",
+        "E": "Pulmonary vein fibrosis causing post-capillary hypertension is not a feature of COPD. The hypertension is pre-capillary from arteriolar vasoconstriction."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "pulmonary-hypertension", "hypoxic-vasoconstriction", "cor-pulmonale", "pathophysiology"]
+  },
+  {
+    "id": "r12-025",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 72-year-old man with a 50-pack-year smoking history presents with progressive dyspnea, chronic productive cough, and recurrent respiratory infections over the past 3 years. On examination, he is overweight (BMI 31) with cyanotic lips, bilateral lower extremity edema, and expiratory wheezes throughout both lung fields. His SpO2 is 84% on room air. Which clinical phenotype best describes this patient?",
+    "choices": [
+      {"label": "A", "text": "Pink puffer phenotype"},
+      {"label": "B", "text": "Restrictive lung disease"},
+      {"label": "C", "text": "Acute asthma exacerbation"},
+      {"label": "D", "text": "Pulmonary fibrosis pattern"},
+      {"label": "E", "text": "Blue bloater phenotype"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The blue bloater phenotype describes predominant chronic bronchitis: overweight, cyanotic (blue) from chronic hypoxemia, edematous (bloated) from cor pulmonale, with chronic productive cough and recurrent infections.",
+      "whyCorrect": "This patient has cardinal blue bloater features: overweight habitus, cyanosis from hypoxemia, peripheral edema from right heart failure, chronic productive cough, and recurrent infections, all characteristic of predominant chronic bronchitis.",
+      "whyWrongByChoice": {
+        "A": "Pink puffers are thin, barrel-chested, dyspneic but maintain oxygenation (hence pink), with pursed-lip breathing. This patient's cyanosis, obesity, and edema are inconsistent.",
+        "B": "Restrictive lung disease presents with reduced TLC and dry cough. This patient has obstructive features with productive cough and wheezing.",
+        "C": "Acute asthma is episodic with triggers. This patient has a chronic progressive course with cor pulmonale.",
+        "D": "Pulmonary fibrosis causes restrictive physiology with dry cough and bibasilar crackles, not productive cough with wheezing and edema."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "blue-bloater", "chronic-bronchitis", "clinical-phenotype", "cor-pulmonale"]
+  },
+  {
+    "id": "r12-026",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 67-year-old thin woman with a long smoking history presents with progressive exertional dyspnea over 2 years. On examination, she is breathing through pursed lips, has a barrel-shaped chest with increased AP diameter, and uses accessory muscles. Breath sounds are diffusely diminished bilaterally. Her SpO2 is 93% on room air. Which clinical phenotype best matches her presentation?",
+    "choices": [
+      {"label": "A", "text": "Blue bloater phenotype"},
+      {"label": "B", "text": "Pink puffer phenotype"},
+      {"label": "C", "text": "Asthma-COPD overlap phenotype"},
+      {"label": "D", "text": "Bronchiectasis-predominant pattern"},
+      {"label": "E", "text": "Interstitial lung disease pattern"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The pink puffer phenotype describes predominant emphysema: thin, barrel-chested, pursed-lip breathing, accessory muscle use, diminished breath sounds, but relatively preserved oxygenation (pink and puffing).",
+      "whyCorrect": "This patient demonstrates classic pink puffer features: thin habitus, barrel chest from hyperinflation, pursed-lip breathing, accessory muscle use, diminished breath sounds, and preserved SpO2 of 93%, reflecting predominant emphysema.",
+      "whyWrongByChoice": {
+        "A": "Blue bloaters are overweight, cyanotic, and edematous with productive cough. This thin, non-cyanotic patient fits the pink puffer profile.",
+        "C": "Asthma-COPD overlap shows significant bronchodilator reversibility and variable symptoms. This presentation is more consistent with pure emphysema.",
+        "D": "Bronchiectasis presents with chronic productive cough, recurrent infections, and hemoptysis, not diminished breath sounds and barrel chest.",
+        "E": "Interstitial lung disease presents with bibasilar crackles, restrictive physiology, and often clubbing, not hyperinflation with diminished sounds."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "pink-puffer", "emphysema", "clinical-phenotype", "pursed-lip-breathing"]
+  },
+  {
+    "id": "r12-027",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 60-year-old man with suspected COPD undergoes spirometry. Pre-bronchodilator testing shows FEV1 of 1.8 L and FVC of 3.2 L. After inhaled albuterol, his FEV1 increases to 1.9 L and FVC remains at 3.2 L. He has a 30-pack-year smoking history and chronic productive cough. Which of the following is the most accurate interpretation?",
+    "choices": [
+      {"label": "A", "text": "Normal spirometry without obstruction"},
+      {"label": "B", "text": "Obstructive pattern consistent with COPD"},
+      {"label": "C", "text": "Fully reversible obstruction suggesting asthma"},
+      {"label": "D", "text": "Restrictive pattern suggesting interstitial disease"},
+      {"label": "E", "text": "Mixed obstructive and restrictive pattern"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The pre-bronchodilator FEV1/FVC ratio is 0.56 (well below 0.7), confirming obstruction. After bronchodilator, the ratio only improves to 0.59, indicating irreversible obstruction consistent with COPD.",
+      "whyCorrect": "FEV1/FVC below 0.7 confirms obstructive disease. The minimal improvement after albuterol (ratio remains below 0.7) indicates irreversible obstruction, the hallmark of COPD rather than asthma.",
+      "whyWrongByChoice": {
+        "A": "Normal spirometry requires FEV1/FVC at or above 0.7. This patient's ratio of 0.56 indicates significant obstruction.",
+        "C": "Fully reversible obstruction (normalization of ratio after bronchodilator) suggests asthma. This patient's ratio remains well below 0.7, indicating COPD.",
+        "D": "Restrictive disease shows reduced FVC with normal or elevated ratio. This patient has a normal FVC with reduced ratio, indicating obstruction.",
+        "E": "A mixed pattern shows both reduced FVC and reduced ratio. The primary finding here is isolated reduction in the ratio with preserved FVC."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "spirometry", "FEV1/FVC", "bronchodilator", "diagnosis"]
+  },
+  {
+    "id": "r12-028",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 65-year-old man with COPD undergoes post-bronchodilator spirometry showing FEV1/FVC of 0.62 and FEV1 of 42% predicted. His physician explains that his COPD falls into a specific severity stage based on international guidelines. According to the GOLD classification, which stage describes this patient?",
+    "choices": [
+      {"label": "A", "text": "GOLD 3 (Severe)"},
+      {"label": "B", "text": "GOLD 2 (Moderate)"},
+      {"label": "C", "text": "GOLD 1 (Mild)"},
+      {"label": "D", "text": "GOLD 4 (Very Severe)"},
+      {"label": "E", "text": "Normal spirometry findings"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "GOLD stages use post-bronchodilator FEV1: GOLD 1 (Mild) ≥80%, GOLD 2 (Moderate) 50-79%, GOLD 3 (Severe) 30-49%, GOLD 4 (Very Severe) <30%. FEV1 of 42% places this patient in GOLD 3.",
+      "whyCorrect": "With FEV1/FVC of 0.62 confirming obstruction and FEV1 of 42% predicted, this patient falls into GOLD 3 (Severe), defined as FEV1 between 30-49% predicted.",
+      "whyWrongByChoice": {
+        "B": "GOLD 2 (Moderate) requires FEV1 between 50-79% predicted. This patient's 42% falls below the 50% cutoff.",
+        "C": "GOLD 1 (Mild) requires FEV1 ≥80% predicted. This patient's 42% is far below.",
+        "D": "GOLD 4 (Very Severe) requires FEV1 <30% predicted. This patient's 42% is above 30%.",
+        "E": "Normal spirometry requires FEV1/FVC ≥0.7. This patient's ratio of 0.62 confirms obstruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "GOLD-classification", "spirometry", "FEV1", "staging"]
+  },
+  {
+    "id": "r12-029",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 70-year-old man with COPD and chronic hypoxemia presents for a routine visit. His SpO2 on room air is consistently 86% on three separate measurements. He is already on maximum inhaled LABA + LAMA therapy and has quit smoking. He denies acute worsening of symptoms. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Initiate continuous home oxygen therapy"},
+      {"label": "B", "text": "Prescribe a systemic corticosteroid burst"},
+      {"label": "C", "text": "Add a leukotriene receptor antagonist"},
+      {"label": "D", "text": "Recommend pulmonary rehabilitation only"},
+      {"label": "E", "text": "Observe and repeat spirometry in 6 months"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Continuous oxygen therapy is indicated for COPD patients with persistent resting hypoxemia (SpO2 ≤88%). This patient's consistent SpO2 of 86% meets criteria for home oxygen, which improves survival and quality of life.",
+      "whyCorrect": "Home oxygen therapy is recommended when SpO2 ≤88% at rest. This patient's 86% on maximal bronchodilator therapy meets this criterion. Continuous oxygen (≥15 hours/day) improves survival, quality of life, and exercise tolerance.",
+      "whyWrongByChoice": {
+        "B": "Systemic corticosteroid bursts are for acute exacerbations, not chronic stable hypoxemia without signs of exacerbation.",
+        "C": "Leukotriene receptor antagonists are for asthma. They have no established role in COPD or chronic hypoxemia management.",
+        "D": "Pulmonary rehabilitation improves exercise capacity but does not address persistent resting hypoxemia requiring supplemental oxygen.",
+        "E": "Observation is inappropriate with SpO2 of 86%. Persistent hypoxemia increases risk of pulmonary hypertension and cor pulmonale."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "oxygen-therapy", "hypoxemia", "management", "home-oxygen"]
+  },
+  {
+    "id": "r12-030",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 58-year-old woman with newly diagnosed COPD asks her physician what single intervention would be most effective to slow disease progression and reduce mortality. She currently smokes one pack daily and has an FEV1 of 65% predicted. She is otherwise healthy. Which of the following should be the highest priority recommendation?",
+    "choices": [
+      {"label": "A", "text": "Initiate inhaled corticosteroids"},
+      {"label": "B", "text": "Start a long-acting beta agonist"},
+      {"label": "C", "text": "Begin annual influenza vaccination"},
+      {"label": "D", "text": "Smoking cessation"},
+      {"label": "E", "text": "Enroll in pulmonary rehabilitation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Smoking cessation is the single most important and most effective intervention in COPD. It is the only strategy proven to reduce mortality (by 18%) and slow lung function decline.",
+      "whyCorrect": "Smoking cessation slows disease progression (tertiary prevention) and is the only intervention proven to reduce COPD mortality. No pharmacologic therapy has been shown to reduce overall mortality.",
+      "whyWrongByChoice": {
+        "A": "Inhaled corticosteroids reduce exacerbation frequency but do not reduce overall mortality. They are added for frequent exacerbations.",
+        "B": "LABAs improve symptoms and lung function but have not been shown to reduce mortality.",
+        "C": "Influenza vaccination prevents exacerbations but does not slow disease progression or reduce mortality as effectively as cessation.",
+        "E": "Pulmonary rehabilitation improves exercise tolerance and quality of life but has not been shown to reduce mortality."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "smoking-cessation", "mortality", "management", "prevention"]
+  },
+  {
+    "id": "r12-031",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 63-year-old man with moderate COPD (GOLD 2) has mild daily dyspnea and occasional exacerbations. He is currently not on any maintenance therapy and uses only a rescue SABA inhaler. His physician decides to initiate maintenance pharmacotherapy. According to GOLD guidelines, which of the following is the most appropriate initial therapy?",
+    "choices": [
+      {"label": "A", "text": "Inhaled corticosteroid monotherapy"},
+      {"label": "B", "text": "Oral theophylline daily"},
+      {"label": "C", "text": "Long-acting bronchodilator (LABA or LAMA)"},
+      {"label": "D", "text": "Scheduled SABA four times daily"},
+      {"label": "E", "text": "Chronic oral azithromycin"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "For stable COPD, initial pharmacotherapy is a long-acting bronchodilator (LABA like salmeterol or LAMA like tiotropium). Unlike asthma, ICS are not first-line in COPD.",
+      "whyCorrect": "GOLD guidelines recommend initiating symptomatic COPD therapy with a long-acting bronchodilator. These agents improve symptoms, lung function, and quality of life. ICS are added later for frequent exacerbations.",
+      "whyWrongByChoice": {
+        "A": "ICS monotherapy is not recommended for COPD. COPD management prioritizes bronchodilators first, with ICS added later in combination.",
+        "B": "Theophylline is last-resort due to narrow therapeutic index and inferior efficacy. It is only considered after maximal inhaled therapy.",
+        "D": "Scheduled SABA is not recommended as maintenance therapy. Long-acting bronchodilators provide more consistent control.",
+        "E": "Chronic azithromycin is reserved for severe COPD with frequent exacerbations despite optimal inhaled therapy, not initial treatment."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "LABA", "LAMA", "pharmacotherapy", "GOLD-guidelines"]
+  },
+  {
+    "id": "r12-032",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 69-year-old woman with severe COPD presents to the emergency department with a 2-day history of worsening dyspnea, increased purulent sputum, and fever of 38.3°C. She is tachypneic at 28 breaths/min with SpO2 of 84% on room air. PaCO2 is 58 mmHg. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "High-flow oxygen targeting SpO2 of 100%"},
+      {"label": "B", "text": "Oral theophylline and chest physiotherapy"},
+      {"label": "C", "text": "Inhaled corticosteroids alone"},
+      {"label": "D", "text": "SABA, systemic steroids, antibiotics, and O2 targeting 88-92%"},
+      {"label": "E", "text": "Immediate intubation and mechanical ventilation"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Acute COPD exacerbation treatment includes short-acting bronchodilators, systemic corticosteroids, antibiotics (for purulent sputum), and judicious oxygen targeting SpO2 88-92% to avoid worsening hypercapnia.",
+      "whyCorrect": "This patient has an acute exacerbation with purulent sputum and hypercapnia. Treatment follows the Send An SOS mnemonic: Steroids, Antibiotics, Short-acting bronchodilator, Oxygen (88-92%), and Short-acting muscarinic antagonist.",
+      "whyWrongByChoice": {
+        "A": "Targeting SpO2 100% is dangerous in hypercapnic COPD. Excessive oxygen can suppress respiratory drive and worsen V/Q mismatch. Target is 88-92%.",
+        "B": "Oral theophylline is not first-line for acute exacerbations due to narrow therapeutic index and toxicity risk.",
+        "C": "Inhaled corticosteroids alone are inadequate. Systemic steroids are needed for the acute response, along with bronchodilators and antibiotics.",
+        "E": "Immediate intubation is premature. Medical management and noninvasive ventilation should be tried first unless the patient is in imminent arrest."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "exacerbation", "acute-management", "oxygen-therapy", "antibiotics"]
+  },
+  {
+    "id": "r12-033",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 66-year-old man with COPD undergoes a chest X-ray as part of his evaluation. The posteroanterior film shows flattened hemidiaphragms, increased anteroposterior chest diameter on the lateral view, and hyperlucent lung fields with decreased vascular markings bilaterally. There are no focal consolidations or effusions. Which of the following best explains these radiographic findings?",
+    "choices": [
+      {"label": "A", "text": "Bilateral pleural effusion"},
+      {"label": "B", "text": "Lobar pneumonia consolidation"},
+      {"label": "C", "text": "Pulmonary edema from heart failure"},
+      {"label": "D", "text": "Lung hyperinflation from air trapping"},
+      {"label": "E", "text": "Bilateral lobar atelectasis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Classic CXR findings in COPD reflect hyperinflation: flattened diaphragms, increased AP diameter (barrel chest), and hyperlucent lungs with decreased vascular markings from overdistended alveoli.",
+      "whyCorrect": "Air trapping from loss of elastic recoil causes chronic hyperinflation, pushing diaphragms down (flattening), expanding the chest, and overdistending alveoli to create hyperlucent fields with reduced vascular markings.",
+      "whyWrongByChoice": {
+        "A": "Pleural effusion appears as blunting of costophrenic angles with meniscus sign and increased density, not hyperlucent fields.",
+        "B": "Lobar pneumonia shows dense consolidation confined to a lobe with air bronchograms, not bilateral hyperinflation.",
+        "C": "Pulmonary edema shows bilateral opacities, Kerley B lines, and peribronchial cuffing, the opposite of hyperlucent fields.",
+        "E": "Atelectasis causes volume loss with mediastinal shift and increased density, not hyperinflation with hyperlucency."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "chest-X-ray", "hyperinflation", "radiology", "diagnosis"]
+  },
+  {
+    "id": "r12-034",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 62-year-old man with COPD presents with acute worsening dyspnea, increased sputum production, and fever of 38.5°C for 2 days. Sputum Gram stain reveals small gram-negative coccobacilli. He has had two prior exacerbations this year, both treated with amoxicillin. Which organism is the most likely pathogen?",
+    "choices": [
+      {"label": "A", "text": "Staphylococcus aureus"},
+      {"label": "B", "text": "Klebsiella pneumoniae"},
+      {"label": "C", "text": "Pseudomonas aeruginosa"},
+      {"label": "D", "text": "Mycobacterium tuberculosis"},
+      {"label": "E", "text": "Haemophilus influenzae"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Haemophilus influenzae is a gram-negative coccobacillus and one of the most common bacterial pathogens causing acute COPD exacerbations, along with S. pneumoniae and M. catarrhalis.",
+      "whyCorrect": "H. influenzae is a small, pleomorphic gram-negative coccobacillus and a leading bacterial cause of COPD exacerbations. The Gram stain description matches its morphology.",
+      "whyWrongByChoice": {
+        "A": "S. aureus appears as gram-positive cocci in clusters and would not match gram-negative coccobacilli morphology.",
+        "B": "Klebsiella pneumoniae is a gram-negative rod (bacillus), not a coccobacillus. The morphology does not match.",
+        "C": "Pseudomonas aeruginosa is a gram-negative rod, not coccobacillus. It is more common in severe COPD with frequent antibiotic exposure.",
+        "D": "M. tuberculosis is acid-fast and does not stain well with Gram stain. TB presents with chronic symptoms, not acute exacerbation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "exacerbation", "Haemophilus-influenzae", "infectious-disease", "microbiology"]
+  },
+  {
+    "id": "r12-035",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 55-year-old nonsmoking man is diagnosed with emphysema at an unusually young age. He has no occupational toxic exposures but reports that his brother was also diagnosed with emphysema at age 48. CT scan shows bilateral lower-lobe predominant emphysematous changes. Which laboratory test should be performed next?",
+    "choices": [
+      {"label": "A", "text": "Alpha-1 antitrypsin level and genotyping"},
+      {"label": "B", "text": "Serum angiotensin-converting enzyme level"},
+      {"label": "C", "text": "Serum IgE level"},
+      {"label": "D", "text": "D-dimer assay"},
+      {"label": "E", "text": "Sputum cytology analysis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Young patients with emphysema who are nonsmokers or have family history of early emphysema should be tested for alpha-1 antitrypsin deficiency with serum levels and genotyping.",
+      "whyCorrect": "Red flags for A1AT deficiency include young onset, no smoking history, family history of early emphysema, and lower-lobe predominance. Guidelines recommend testing for all newly diagnosed COPD patients meeting these criteria.",
+      "whyWrongByChoice": {
+        "B": "Serum ACE levels are used for sarcoidosis workup, not emphysema in a young nonsmoker.",
+        "C": "Serum IgE is useful for allergic conditions and asthma, not early-onset emphysema with family history.",
+        "D": "D-dimer evaluates venous thromboembolism, not chronic emphysema.",
+        "E": "Sputum cytology evaluates for malignant cells, not early-onset emphysema etiology."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "alpha-1-antitrypsin", "genetic-testing", "diagnosis", "young-onset"]
+  },
+  {
+    "id": "r12-036",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 68-year-old man with severe COPD on LABA/LAMA combination therapy continues to have frequent exacerbations (3 in the past year) despite good inhaler technique and adherence. His blood eosinophil count is 350 cells/μL. His FEV1 is 38% predicted. Which of the following is the most appropriate addition to his current regimen?",
+    "choices": [
+      {"label": "A", "text": "Inhaled corticosteroid"},
+      {"label": "B", "text": "Daily oral prednisone"},
+      {"label": "C", "text": "Omalizumab (anti-IgE antibody)"},
+      {"label": "D", "text": "Cromolyn sodium inhalation"},
+      {"label": "E", "text": "Montelukast (leukotriene antagonist)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "For COPD patients with frequent exacerbations despite LABA/LAMA, adding an inhaled corticosteroid is recommended, especially with blood eosinophils ≥300 cells/μL, which predicts favorable ICS response.",
+      "whyCorrect": "Per GOLD guidelines, ICS should be added to LABA/LAMA in patients with frequent exacerbations when blood eosinophils are elevated (≥300 cells/μL). This steps up to triple therapy (LABA + LAMA + ICS).",
+      "whyWrongByChoice": {
+        "B": "Daily oral prednisone carries significant systemic side effects and is reserved for acute exacerbations, not long-term maintenance.",
+        "C": "Omalizumab is an anti-IgE biologic for allergic asthma with no established role in COPD management.",
+        "D": "Cromolyn sodium is a mast cell stabilizer with minimal efficacy even in asthma and no role in COPD.",
+        "E": "Montelukast is for asthma and has no proven benefit in COPD or in GOLD guideline recommendations."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "ICS", "eosinophils", "exacerbation", "triple-therapy"]
+  },
+  {
+    "id": "r12-037",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 74-year-old man with COPD and baseline PaCO2 of 55 mmHg presents with increased dyspnea and SpO2 of 82%. He is placed on supplemental oxygen and his SpO2 improves to 96%. Thirty minutes later, he becomes increasingly somnolent. Repeat blood gas shows PaCO2 of 72 mmHg. Which of the following best explains the worsening hypercapnia?",
+    "choices": [
+      {"label": "A", "text": "Oxygen-induced respiratory drive suppression and V/Q worsening"},
+      {"label": "B", "text": "Development of acute pulmonary embolism"},
+      {"label": "C", "text": "Progression of underlying pneumonia"},
+      {"label": "D", "text": "New-onset metabolic acidosis"},
+      {"label": "E", "text": "Acute bronchospasm from supplemental oxygen"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In COPD patients with chronic hypercapnia, excessive supplemental oxygen can worsen CO2 retention by suppressing hypoxic respiratory drive and reversing hypoxic vasoconstriction (increasing V/Q mismatch). Target SpO2 should be 88-92%.",
+      "whyCorrect": "Excessive oxygen reverses hypoxic pulmonary vasoconstriction, redirecting blood to poorly ventilated areas and worsening V/Q mismatch. It may also suppress hypoxic respiratory drive and cause Haldane effect (oxygenated Hb releases CO2). Target SpO2 is 88-92%.",
+      "whyWrongByChoice": {
+        "B": "Acute PE would cause worsening hypoxemia, not improvement to SpO2 96%. The temporal relationship to oxygen administration suggests oxygen-induced CO2 retention.",
+        "C": "Pneumonia progression could worsen gas exchange, but the timeline correlating with oxygen administration strongly suggests oxygen-induced retention.",
+        "D": "Metabolic acidosis would cause compensatory hyperventilation to lower CO2, not CO2 retention. The rising PaCO2 indicates a respiratory problem.",
+        "E": "Supplemental oxygen does not cause bronchospasm. Bronchospasm is triggered by allergens, irritants, or cold air."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "hypercapnia", "oxygen-therapy", "respiratory-drive", "V/Q-mismatch"]
+  },
+  {
+    "id": "r12-038",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 60-year-old woman with moderate COPD presents for a routine visit. Her physician reviews her immunization status and recommends she receive all appropriate vaccinations to prevent infectious exacerbation triggers. She has not received any vaccinations in several years. Which vaccination set is most appropriate for this patient?",
+    "choices": [
+      {"label": "A", "text": "Influenza vaccine only"},
+      {"label": "B", "text": "Pneumococcal vaccine only"},
+      {"label": "C", "text": "MMR and varicella vaccines"},
+      {"label": "D", "text": "Hepatitis B and HPV vaccines"},
+      {"label": "E", "text": "Influenza, pneumococcal, and COVID-19 vaccines"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "All COPD patients should be vaccinated against influenza, pneumococcus, and SARS-CoV-2 to prevent respiratory infections that trigger severe exacerbations.",
+      "whyCorrect": "COPD patients are at high risk for respiratory infections causing life-threatening exacerbations. Guidelines recommend annual influenza, pneumococcal, and COVID-19 vaccination for all COPD patients.",
+      "whyWrongByChoice": {
+        "A": "Influenza alone is insufficient. COPD patients also need pneumococcal and COVID-19 protection.",
+        "B": "Pneumococcal alone is inadequate. Influenza is a major exacerbation trigger and all three vaccines are recommended.",
+        "C": "MMR and varicella are childhood vaccines, not the priority for COPD-related respiratory infection prevention.",
+        "D": "Hepatitis B and HPV are based on individual risk, not specifically recommended for COPD respiratory exacerbation prevention."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "vaccination", "prevention", "influenza", "pneumococcal"]
+  },
+  {
+    "id": "r12-039",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 64-year-old man with advanced COPD is observed sitting in a tripod position, leaning forward with his hands on his knees. He is breathing through pursed lips during exhalation. His respiratory therapist explains that this breathing technique has a specific physiologic benefit. Which of the following best describes it?",
+    "choices": [
+      {"label": "A", "text": "Increases inspiratory muscle strength"},
+      {"label": "B", "text": "Reduces anatomic dead space volume"},
+      {"label": "C", "text": "Creates back-pressure preventing airway collapse"},
+      {"label": "D", "text": "Increases tidal volume by recruiting alveoli"},
+      {"label": "E", "text": "Stimulates type II pneumocyte surfactant release"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Pursed-lip breathing creates positive back-pressure in the airways during expiration, helping keep small airways from collapsing. This allows more complete air expulsion and reduces air trapping.",
+      "whyCorrect": "In COPD, loss of elastic recoil causes premature airway collapse during expiration. Pursed-lip breathing creates downstream positive pressure that splints airways open, minimizing collapse and reducing air trapping.",
+      "whyWrongByChoice": {
+        "A": "Pursed-lip breathing does not increase inspiratory muscle strength. The tripod position optimizes accessory muscles, but pursed lips benefit expiration.",
+        "B": "Dead space is determined by airway anatomy and is not altered by pursed-lip breathing.",
+        "D": "Pursed-lip breathing does not recruit alveoli or increase tidal volume. It assists expiration by preventing airway collapse.",
+        "E": "Surfactant production is regulated by type II pneumocytes and is not influenced by breathing technique."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "pursed-lip-breathing", "airway-collapse", "respiratory-mechanics", "clinical"]
+  },
+  {
+    "id": "r12-040",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 71-year-old woman with severe emphysema undergoes comprehensive pulmonary function testing. She has a 45-pack-year smoking history and requires supplemental oxygen at rest. Which of the following PFT result patterns is most consistent with emphysema?",
+    "choices": [
+      {"label": "A", "text": "Decreased FEV1/FVC, increased TLC, decreased DLCO"},
+      {"label": "B", "text": "Decreased FEV1/FVC, decreased TLC, normal DLCO"},
+      {"label": "C", "text": "Normal FEV1/FVC, decreased TLC, decreased DLCO"},
+      {"label": "D", "text": "Increased FEV1/FVC, normal TLC, increased DLCO"},
+      {"label": "E", "text": "Normal FEV1/FVC, increased TLC, normal DLCO"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Emphysema shows decreased FEV1/FVC (<0.7, obstruction), increased TLC (hyperinflation from air trapping), and decreased DLCO (alveolar wall destruction reducing gas exchange surface area).",
+      "whyCorrect": "Emphysema is obstructive: FEV1/FVC <0.7. TLC increases from air trapping. DLCO decreases because alveolar septal destruction reduces gas diffusion surface area, distinguishing emphysema from bronchitis and asthma.",
+      "whyWrongByChoice": {
+        "B": "Decreased TLC indicates restrictive disease, not emphysema. Emphysema causes increased TLC from air trapping.",
+        "C": "Normal FEV1/FVC excludes significant obstruction. Decreased TLC with decreased DLCO is more suggestive of interstitial lung disease.",
+        "D": "Increased FEV1/FVC and DLCO are not seen in emphysema, which decreases both the ratio and diffusing capacity.",
+        "E": "Normal FEV1/FVC excludes obstruction, and normal DLCO argues against alveolar destruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "PFTs", "DLCO", "spirometry"]
+  },
+  {
+    "id": "r12-041",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 67-year-old man with severe COPD and frequent exacerbations is already on LABA + LAMA + ICS triple therapy with good adherence and technique. He has had 3 exacerbations in the past year despite this regimen. His blood eosinophils are low at 80 cells/μL. Which of the following additional therapies should be considered?",
+    "choices": [
+      {"label": "A", "text": "Roflumilast (PDE4 inhibitor)"},
+      {"label": "B", "text": "Omalizumab (anti-IgE biologic)"},
+      {"label": "C", "text": "Cromolyn sodium (mast cell stabilizer)"},
+      {"label": "D", "text": "Increased ICS dose"},
+      {"label": "E", "text": "Montelukast (leukotriene antagonist)"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Roflumilast is a selective PDE4 inhibitor that reduces neutrophil-mediated inflammation. It is considered for severe COPD with frequent exacerbations despite maximal inhaled therapy, particularly with a chronic bronchitis phenotype.",
+      "whyCorrect": "For patients on triple therapy with ongoing exacerbations, GOLD guidelines recommend add-on roflumilast, chronic azithromycin, or theophylline. Roflumilast limits neutrophil-mediated inflammation and reduces exacerbation frequency.",
+      "whyWrongByChoice": {
+        "B": "Omalizumab is for allergic asthma and has no role in COPD management.",
+        "C": "Cromolyn sodium has minimal efficacy even in asthma and no established role in COPD.",
+        "D": "Increasing ICS dose with low eosinophils is not recommended and increases pneumonia risk without clear exacerbation benefit.",
+        "E": "Montelukast is for asthma and has no proven benefit in COPD treatment."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "roflumilast", "PDE4-inhibitor", "exacerbation", "advanced-therapy"]
+  },
+  {
+    "id": "r12-042",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 59-year-old woman presents with dyspnea and chronic cough. She has a 25-pack-year smoking history and quit 3 years ago. Physical examination reveals hyperresonance to percussion bilaterally, distant heart sounds, and decreased breath sounds throughout both lung fields. She has no peripheral edema. Which of the following is most consistent with these findings?",
+    "choices": [
+      {"label": "A", "text": "Congestive heart failure"},
+      {"label": "B", "text": "Bilateral pleural effusions"},
+      {"label": "C", "text": "Pulmonary hyperinflation from COPD"},
+      {"label": "D", "text": "Lobar consolidation from pneumonia"},
+      {"label": "E", "text": "Pericardial tamponade"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Hyperresonance to percussion, distant heart sounds, and decreased breath sounds bilaterally are classic physical examination findings of pulmonary hyperinflation in COPD.",
+      "whyCorrect": "Overexpanded air-filled lungs produce hyperresonance on percussion, muffle cardiac sounds by acting as insulation, and reduce breath sound transmission due to decreased airflow and poor sound conduction.",
+      "whyWrongByChoice": {
+        "A": "CHF presents with bibasilar crackles, S3 gallop, and dullness from effusions, not hyperresonance and decreased sounds throughout.",
+        "B": "Pleural effusions cause dullness to percussion at the bases, not hyperresonance bilaterally.",
+        "D": "Lobar consolidation produces dullness, increased fremitus, and bronchial breath sounds, not bilateral hyperresonance.",
+        "E": "Pericardial tamponade causes distant heart sounds but does not cause bilateral hyperresonance or decreased breath sounds."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "physical-exam", "hyperresonance", "hyperinflation", "distant-heart-sounds"]
+  },
+  {
+    "id": "r12-043",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 65-year-old man with COPD presents to the emergency department with a severe exacerbation. He is started on inhaled albuterol and ipratropium bromide, IV methylprednisolone, and amoxicillin-clavulanate. He asks his nurse how ipratropium works differently from albuterol. Which of the following best describes the mechanism of ipratropium?",
+    "choices": [
+      {"label": "A", "text": "Inhibits phosphodiesterase enzyme"},
+      {"label": "B", "text": "Inhibits leukotriene synthesis"},
+      {"label": "C", "text": "Stimulates beta-2 adrenergic receptors"},
+      {"label": "D", "text": "Blocks muscarinic receptors on airway smooth muscle"},
+      {"label": "E", "text": "Stabilizes mast cell membranes"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Ipratropium is a short-acting muscarinic antagonist (SAMA) that blocks M3 muscarinic receptors on airway smooth muscle, preventing acetylcholine-mediated bronchoconstriction and reducing mucus secretion.",
+      "whyCorrect": "Ipratropium competitively blocks M3 muscarinic receptors on bronchial smooth muscle normally activated by parasympathetic acetylcholine. This causes bronchodilation and reduces mucus secretion.",
+      "whyWrongByChoice": {
+        "A": "Phosphodiesterase inhibition is the mechanism of theophylline and roflumilast, not ipratropium.",
+        "B": "Leukotriene synthesis inhibition is the mechanism of zileuton. Leukotriene receptor antagonism is montelukast. Neither applies to ipratropium.",
+        "C": "Beta-2 receptor stimulation is the mechanism of albuterol (SABA) and salmeterol (LABA), not ipratropium.",
+        "E": "Mast cell membrane stabilization is the mechanism of cromolyn sodium. Ipratropium is an anticholinergic agent."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["COPD", "ipratropium", "muscarinic-antagonist", "SAMA", "mechanism-of-action"]
+  },
+  {
+    "id": "r12-044",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 61-year-old man with COPD currently on LAMA monotherapy reports increasing exertional dyspnea despite good inhaler adherence and technique. He has had two exacerbations in the past year. His FEV1 is 55% predicted. His physician decides to intensify his therapy. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Switch to ICS monotherapy"},
+      {"label": "B", "text": "Add a LABA to create dual therapy"},
+      {"label": "C", "text": "Add oral theophylline"},
+      {"label": "D", "text": "Start chronic azithromycin"},
+      {"label": "E", "text": "Begin biologic therapy with mepolizumab"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "When a single long-acting bronchodilator is insufficient, GOLD guidelines recommend combining LABA + LAMA. Dual bronchodilation through complementary mechanisms provides additive benefit.",
+      "whyCorrect": "Per GOLD guidelines, the next step after LAMA monotherapy is LABA + LAMA combination. Beta-2 stimulation and muscarinic blockade provide synergistic bronchodilation and improved symptom control.",
+      "whyWrongByChoice": {
+        "A": "ICS monotherapy is not recommended for COPD. ICS should only be added to bronchodilators, not replace them.",
+        "C": "Theophylline is last-line with a narrow therapeutic index, inappropriate before optimizing inhaled bronchodilator therapy.",
+        "D": "Chronic azithromycin is for patients with frequent exacerbations despite triple therapy, not after LAMA monotherapy failure.",
+        "E": "Mepolizumab (anti-IL-5) is for severe eosinophilic asthma and is not currently approved for COPD."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "LABA", "LAMA", "step-up-therapy", "GOLD-guidelines"]
+  },
+  {
+    "id": "r12-045",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 73-year-old man with end-stage COPD is admitted for a severe exacerbation. Despite inhaled bronchodilators, systemic steroids, and antibiotics, he remains hypercapnic with PaCO2 of 68 mmHg and is becoming increasingly drowsy. He is still maintaining some respiratory effort. His SpO2 is 89% on 2L nasal cannula. Which of the following is the most appropriate next intervention?",
+    "choices": [
+      {"label": "A", "text": "Increase supplemental oxygen to 100% FiO2"},
+      {"label": "B", "text": "Chest physiotherapy with postural drainage"},
+      {"label": "C", "text": "Inhaled racemic epinephrine"},
+      {"label": "D", "text": "Intravenous aminophylline bolus"},
+      {"label": "E", "text": "Noninvasive positive pressure ventilation (BiPAP)"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "BiPAP is indicated for COPD exacerbations with persistent hypercapnic respiratory failure despite medical therapy. It reduces work of breathing, improves ventilation, and can prevent intubation.",
+      "whyCorrect": "BiPAP provides inspiratory pressure to augment ventilation and expiratory PEEP to prevent airway collapse. In acute hypercapnic exacerbations, BiPAP reduces intubation rates, ICU stays, and mortality when the patient maintains some respiratory effort.",
+      "whyWrongByChoice": {
+        "A": "High FiO2 would worsen hypercapnia by suppressing respiratory drive and worsening V/Q mismatch. His SpO2 of 89% is already in target range.",
+        "B": "Chest physiotherapy helps with mucus clearance but cannot address the acute hypercapnic respiratory failure requiring ventilatory support.",
+        "C": "Inhaled epinephrine is for upper airway emergencies like croup or anaphylaxis, not COPD exacerbations.",
+        "D": "IV aminophylline carries high toxicity risk (arrhythmias, seizures) with minimal additional benefit in acute exacerbations."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["COPD", "BiPAP", "NIPPV", "hypercapnia", "exacerbation-management"]
+  },
+  {
+    "id": "r12-046",
+    "topicId": "copd-clinical",
+    "topicName": "COPD: Clinical Presentation, Diagnosis, and Management",
+    "stem": "A 70-year-old man with COPD presents with worsening dyspnea. CT shows severe emphysema with extensive alveolar destruction. His DLCO is markedly reduced at 35% predicted, while his FEV1/FVC is 0.52. His TLC is 125% predicted. His physician explains that one specific test result reveals the extent of alveolar damage. Which of the following best explains his reduced DLCO?",
+    "choices": [
+      {"label": "A", "text": "Increased alveolar-capillary membrane thickness"},
+      {"label": "B", "text": "Decreased pulmonary blood flow from heart failure"},
+      {"label": "C", "text": "Destruction of alveolar walls reducing gas exchange area"},
+      {"label": "D", "text": "Bronchospasm reducing airflow to alveoli"},
+      {"label": "E", "text": "Mucus plugging of terminal bronchioles"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "In emphysema, destruction of alveolar septa reduces the total surface area for gas diffusion, directly decreasing DLCO. This distinguishes emphysema from chronic bronchitis and asthma where DLCO is often preserved.",
+      "whyCorrect": "DLCO measures gas diffusion efficiency from alveoli into pulmonary capillary blood. Emphysematous alveolar wall destruction reduces both surface area and associated capillary bed, causing markedly decreased DLCO.",
+      "whyWrongByChoice": {
+        "A": "Increased membrane thickness (as in pulmonary fibrosis or edema) can reduce DLCO, but in emphysema the membranes are destroyed, not thickened.",
+        "B": "While decreased pulmonary blood flow can reduce DLCO, the primary cause in emphysema is alveolar surface area loss from septal destruction.",
+        "D": "Bronchospasm reduces airflow but does not destroy alveolar walls. In asthma, DLCO is typically preserved because alveolar surface area is intact.",
+        "E": "Mucus plugging is a feature of chronic bronchitis affecting ventilation but not destroying alveolar walls. DLCO reduction is specifically from emphysematous destruction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["COPD", "emphysema", "DLCO", "alveolar-destruction", "pathophysiology"]
+  }
+]

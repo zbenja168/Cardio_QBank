@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r19-001",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 28-year-old African American woman presents with a 3-month history of dry cough and progressive exertional dyspnea. She reports painful red bumps on her shins and bilateral ankle swelling for 2 weeks. Physical examination reveals tender, raised erythematous nodules on both shins and bilateral ankle effusions. Chest radiograph shows bilateral hilar lymphadenopathy with clear lung fields. Serum angiotensin-converting enzyme level is elevated at 88 U/L (normal 8–53). Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Hodgkin lymphoma"},
+      {"label": "B", "text": "Pulmonary sarcoidosis"},
+      {"label": "C", "text": "Miliary tuberculosis"},
+      {"label": "D", "text": "Hypersensitivity pneumonitis"},
+      {"label": "E", "text": "Systemic lupus erythematosus"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This young African American woman presents with Löfgren syndrome — bilateral hilar lymphadenopathy, erythema nodosum, and polyarthralgia — which is a classic acute presentation of sarcoidosis. Elevated ACE further supports the diagnosis.",
+      "whyCorrect": "Sarcoidosis is a systemic granulomatous disease most commonly diagnosed in young adults, with a threefold higher risk in Black Americans. Löfgren syndrome (bilateral hilar LAD, erythema nodosum, polyarthralgia, and fever) is a classic acute presentation. Elevated serum ACE is found in approximately 75% of untreated patients.",
+      "whyWrongByChoice": {
+        "A": "Hodgkin lymphoma can cause hilar lymphadenopathy but does not typically present with erythema nodosum, polyarthralgia, and elevated ACE levels as a constellation.",
+        "C": "Tuberculosis can cause hilar lymphadenopathy and granulomas, but the granulomas are caseating. TB does not typically present with erythema nodosum and bilateral symmetric hilar LAD.",
+        "D": "Hypersensitivity pneumonitis presents with dyspnea and cough but is associated with antigen exposure and does not cause bilateral hilar lymphadenopathy or erythema nodosum.",
+        "E": "SLE can cause pulmonary disease but typically presents with pleuritis, malar rash, and joint symptoms, not bilateral hilar lymphadenopathy with erythema nodosum."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "lofgren-syndrome", "erythema-nodosum", "hilar-lymphadenopathy"]
+  },
+  {
+    "id": "r19-002",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 35-year-old woman undergoes bronchoscopy with transbronchial biopsy for evaluation of bilateral hilar lymphadenopathy discovered on routine chest radiograph. She has mild dry cough but is otherwise asymptomatic. The biopsy reveals well-formed granulomas composed of epithelioid macrophages and multinucleated giant cells without central necrosis. Acid-fast bacilli and fungal stains are negative. Which of the following best describes this histologic pattern?",
+    "choices": [
+      {"label": "A", "text": "Caseating granulomatous inflammation"},
+      {"label": "B", "text": "Fibrinoid vascular necrosis"},
+      {"label": "C", "text": "Necrotizing small-vessel vasculitis"},
+      {"label": "D", "text": "Noncaseating granulomatous inflammation"},
+      {"label": "E", "text": "Diffuse eosinophilic tissue infiltration"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The hallmark histologic finding of sarcoidosis is noncaseating granulomas — organized collections of epithelioid macrophages and giant cells without central necrosis. Negative acid-fast and fungal stains help exclude infectious causes.",
+      "whyCorrect": "Noncaseating granulomas are the defining histopathologic feature of sarcoidosis. They consist of tightly clustered epithelioid macrophages and multinucleated giant cells surrounded by lymphocytes, without the central caseous necrosis seen in tuberculosis.",
+      "whyWrongByChoice": {
+        "A": "Caseating granulomas have a central area of amorphous necrosis and are characteristic of tuberculosis and certain fungal infections, not sarcoidosis.",
+        "B": "Fibrinoid necrosis is a pattern of vascular wall damage seen in vasculitis and malignant hypertension, not in granulomatous inflammation of sarcoidosis.",
+        "C": "Necrotizing vasculitis is characteristic of diseases like granulomatosis with polyangiitis (GPA), not sarcoidosis.",
+        "E": "Eosinophilic infiltrates are characteristic of eosinophilic granulomatosis with polyangiitis or allergic diseases, not sarcoidosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "noncaseating-granuloma", "histology", "biopsy"]
+  },
+  {
+    "id": "r19-003",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 42-year-old man with biopsy-confirmed pulmonary sarcoidosis presents with fatigue, increased thirst, and frequent urination for 3 weeks. Physical examination is unremarkable. Laboratory studies show serum calcium of 12.8 mg/dL (normal 8.5–10.5), phosphorus of 2.1 mg/dL, and PTH of 8 pg/mL (normal 15–65). Serum 1,25-dihydroxyvitamin D is elevated. Which of the following best explains the hypercalcemia mechanism?",
+    "choices": [
+      {"label": "A", "text": "Parathyroid adenoma PTH hypersecretion"},
+      {"label": "B", "text": "Granulomatous calcitriol production"},
+      {"label": "C", "text": "PTHrP from granuloma secretion"},
+      {"label": "D", "text": "Osteolytic skeletal metastases"},
+      {"label": "E", "text": "Impaired renal calcium excretion"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In sarcoidosis, activated macrophages within granulomas express 1-alpha-hydroxylase, which converts 25-hydroxyvitamin D to active 1,25-dihydroxyvitamin D (calcitriol). This increases intestinal calcium absorption, bone resorption, and renal calcium reabsorption, leading to hypercalcemia.",
+      "whyCorrect": "Granulomas in sarcoidosis produce calcitriol (1,25-dihydroxyvitamin D) via macrophage-derived 1-alpha-hydroxylase. This ectopic vitamin D production increases gut calcium absorption and bone calcium release, causing hypercalcemia in 10–20% of sarcoidosis patients. The suppressed PTH confirms a non-PTH-mediated mechanism.",
+      "whyWrongByChoice": {
+        "A": "Primary hyperparathyroidism from a parathyroid adenoma would show elevated PTH, not the suppressed PTH seen here. The low PTH excludes this diagnosis.",
+        "C": "PTHrP secretion is a mechanism of humoral hypercalcemia of malignancy, not sarcoidosis. Granulomas do not produce PTHrP.",
+        "D": "Osteolytic metastases cause hypercalcemia via local bone destruction in malignancy, which is not the mechanism in sarcoidosis.",
+        "E": "Decreased renal calcium excretion can contribute, but in sarcoidosis the primary mechanism is excess calcitriol production. Renal calcium excretion is actually increased."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "hypercalcemia", "calcitriol", "vitamin-D"]
+  },
+  {
+    "id": "r19-004",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 30-year-old woman with biopsy-confirmed pulmonary sarcoidosis and progressive dyspnea undergoes pulmonary function testing. Spirometry shows FVC of 62% predicted, FEV1 of 60% predicted, and FEV1/FVC ratio of 84%. Total lung capacity is 65% predicted. DLCO is reduced at 55% predicted. Which of the following best describes this pulmonary function pattern?",
+    "choices": [
+      {"label": "A", "text": "Restrictive ventilatory defect"},
+      {"label": "B", "text": "Obstructive ventilatory defect"},
+      {"label": "C", "text": "Isolated diffusion impairment"},
+      {"label": "D", "text": "Hyperinflation with air trapping"},
+      {"label": "E", "text": "Normal spirometry findings"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Pulmonary sarcoidosis causes a restrictive pattern on PFTs, characterized by decreased lung volumes (FVC, TLC) with a normal or increased FEV1/FVC ratio. The diffusing capacity (DLCO) is also typically decreased.",
+      "whyCorrect": "Sarcoidosis causes diffuse interstitial inflammation and granuloma formation that restricts lung expansion. This results in decreased FVC and TLC, with a proportional decrease in FEV1 so that the FEV1/FVC ratio is preserved or increased — the hallmark of a restrictive pattern.",
+      "whyWrongByChoice": {
+        "B": "An obstructive pattern shows decreased FEV1/FVC ratio (typically <70%). This patient has a preserved ratio of 84%, consistent with restriction.",
+        "C": "While DLCO is decreased, FVC and TLC are also reduced. Isolated diffusion impairment would show normal volumes with only DLCO decreased.",
+        "D": "Hyperinflation with air trapping shows increased TLC and RV, seen in obstructive diseases. This patient has decreased TLC.",
+        "E": "The FVC and TLC are both significantly below predicted, indicating abnormal restrictive physiology."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "pulmonary-function-tests", "restrictive-pattern"]
+  },
+  {
+    "id": "r19-005",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 50-year-old woman with biopsy-confirmed sarcoidosis undergoes follow-up chest radiograph. The film shows bilateral hilar lymphadenopathy along with diffuse reticulonodular infiltrates throughout both lung fields. There is no evidence of parenchymal fibrosis or volume loss. High-resolution CT confirms the findings without honeycombing. Which radiographic stage best describes her disease?",
+    "choices": [
+      {"label": "A", "text": "Stage 0 sarcoidosis"},
+      {"label": "B", "text": "Stage I sarcoidosis"},
+      {"label": "C", "text": "Stage II sarcoidosis"},
+      {"label": "D", "text": "Stage III sarcoidosis"},
+      {"label": "E", "text": "Stage IV sarcoidosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Sarcoidosis staging is based on chest radiograph findings. Stage II is defined by bilateral hilar lymphadenopathy with pulmonary infiltrates but without fibrosis.",
+      "whyCorrect": "Stage II sarcoidosis is characterized by both bilateral hilar lymphadenopathy and parenchymal infiltrates on chest radiograph. This distinguishes it from Stage I (hilar LAD alone), Stage III (infiltrates without LAD), and Stage IV (fibrosis).",
+      "whyWrongByChoice": {
+        "A": "Stage 0 refers to a normal chest radiograph in a patient with extrapulmonary sarcoidosis only.",
+        "B": "Stage I shows bilateral hilar lymphadenopathy alone, without pulmonary parenchymal infiltrates.",
+        "D": "Stage III shows pulmonary infiltrates without hilar lymphadenopathy. This patient still has hilar LAD.",
+        "E": "Stage IV is characterized by pulmonary fibrosis with volume loss and irreversible changes. This patient has no fibrosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "chest-radiograph", "staging"]
+  },
+  {
+    "id": "r19-006",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 45-year-old woman with known pulmonary sarcoidosis presents with acute-onset left eye pain, redness, and photophobia for 2 days. Visual acuity is 20/40 in the left eye. Slit-lamp examination reveals keratic precipitates and inflammatory cells in the anterior chamber. Intraocular pressure is 14 mmHg. Which of the following is the most likely ocular diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Acute angle-closure glaucoma"},
+      {"label": "B", "text": "Central retinal vein occlusion"},
+      {"label": "C", "text": "Granulomatous anterior uveitis"},
+      {"label": "D", "text": "Bacterial conjunctivitis"},
+      {"label": "E", "text": "Retrobulbar optic neuritis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Anterior uveitis is the most common ocular manifestation of sarcoidosis, occurring in approximately 25% of patients. It presents with eye pain, redness, and photophobia, with inflammatory cells visible in the anterior chamber on slit-lamp examination.",
+      "whyCorrect": "Sarcoidosis commonly involves the eyes, with granulomatous anterior uveitis being the most frequent manifestation. The granulomatous inflammation affects the iris and ciliary body, producing pain at the limbus, redness, photophobia, and keratic precipitates with anterior chamber cells on slit-lamp exam.",
+      "whyWrongByChoice": {
+        "A": "Acute angle-closure glaucoma presents with severe eye pain, halos, a mid-dilated pupil, and elevated intraocular pressure. This patient has normal IOP.",
+        "B": "Central retinal vein occlusion causes painless vision loss with retinal hemorrhages, not anterior chamber inflammation.",
+        "D": "Bacterial conjunctivitis causes eye redness and purulent discharge but does not produce anterior chamber inflammation on slit-lamp examination.",
+        "E": "Retrobulbar optic neuritis presents with vision loss and pain on eye movement, not anterior chamber cells and keratic precipitates."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "uveitis", "ocular-involvement"]
+  },
+  {
+    "id": "r19-007",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 38-year-old man presents with inability to fully close both eyes and difficulty drinking from a cup for 1 week. He also reports dry cough for 3 months. Physical examination reveals bilateral lower motor neuron facial weakness sparing the forehead. Chest radiograph shows bilateral hilar lymphadenopathy. Transbronchial biopsy reveals noncaseating granulomas. Which of the following best explains his facial weakness?",
+    "choices": [
+      {"label": "A", "text": "Idiopathic viral Bell palsy"},
+      {"label": "B", "text": "Cerebrovascular ischemic event"},
+      {"label": "C", "text": "Autoimmune myasthenia gravis"},
+      {"label": "D", "text": "Granulomatous nerve infiltration"},
+      {"label": "E", "text": "Ascending Guillain-Barré paralysis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Neurosarcoidosis can cause cranial neuropathies, with facial nerve (CN VII) palsy being the most common neurologic manifestation. Bilateral facial palsy in a patient with confirmed sarcoidosis strongly suggests granulomatous infiltration of the facial nerves.",
+      "whyCorrect": "Sarcoidosis can affect the nervous system (neurosarcoidosis), with facial nerve palsy being the most common cranial neuropathy. Bilateral involvement is characteristic and should raise suspicion for sarcoidosis rather than idiopathic Bell palsy, which is typically unilateral.",
+      "whyWrongByChoice": {
+        "A": "Bell palsy is typically unilateral. Bilateral facial palsy in the setting of systemic granulomatous disease points to neurosarcoidosis.",
+        "B": "A cerebrovascular event causing bilateral facial weakness would be rare and would involve upper motor neuron signs.",
+        "C": "Myasthenia gravis causes fluctuating weakness of ocular and bulbar muscles, not bilateral facial weakness with hilar LAD.",
+        "E": "Guillain-Barré can cause bilateral facial weakness but also features ascending limb weakness and areflexia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "neurosarcoidosis", "facial-nerve-palsy", "cranial-neuropathy"]
+  },
+  {
+    "id": "r19-008",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 55-year-old woman diagnosed with sarcoidosis 2 years ago presents with worsening dyspnea and bilateral lower extremity edema. Physical examination reveals a holosystolic murmur at the apex radiating to the axilla and bibasilar crackles. Echocardiography shows left ventricular ejection fraction of 30%, moderate mitral regurgitation, and no coronary artery disease on catheterization. Which of the following best explains her cardiac findings?",
+    "choices": [
+      {"label": "A", "text": "Atherosclerotic coronary artery disease"},
+      {"label": "B", "text": "Myocardial granulomatous infiltration"},
+      {"label": "C", "text": "Systemic amyloid cardiomyopathy"},
+      {"label": "D", "text": "Acute infective endocarditis"},
+      {"label": "E", "text": "Genetic hypertrophic cardiomyopathy"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Cardiac sarcoidosis involves granulomatous infiltration of the myocardium, which can cause arrhythmias, conduction abnormalities, heart failure, and valvular dysfunction. Myocardial involvement is a serious complication and one of the leading causes of death in sarcoidosis.",
+      "whyCorrect": "Cardiac sarcoidosis results from noncaseating granuloma formation within the myocardium. This infiltration can damage the conduction system, cause cardiomyopathy with reduced ejection fraction, and lead to mitral regurgitation from papillary muscle involvement. Clean coronary arteries on catheterization support a non-ischemic etiology.",
+      "whyWrongByChoice": {
+        "A": "Coronary artery disease was excluded by cardiac catheterization showing no coronary disease.",
+        "C": "Cardiac amyloidosis causes restrictive cardiomyopathy with diastolic dysfunction and thickened ventricular walls, not dilated cardiomyopathy.",
+        "D": "Infective endocarditis presents with fever, new murmur, and vegetations, not a gradually worsening cardiomyopathy.",
+        "E": "Hypertrophic cardiomyopathy is a genetic condition causing asymmetric septal hypertrophy, not a complication of sarcoidosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "cardiac-sarcoidosis", "heart-failure", "granuloma"]
+  },
+  {
+    "id": "r19-009",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 32-year-old woman with biopsy-confirmed pulmonary sarcoidosis has worsening dyspnea, bilateral pulmonary infiltrates on chest radiograph, and FVC of 55% predicted. She is started on a medication and returns 6 weeks later reporting significantly improved breathing. Repeat PFTs show FVC of 72% predicted. Chest radiograph shows clearing of infiltrates. Which medication was most likely started?",
+    "choices": [
+      {"label": "A", "text": "Oral azithromycin"},
+      {"label": "B", "text": "Oral prednisone"},
+      {"label": "C", "text": "Weekly methotrexate"},
+      {"label": "D", "text": "Intravenous infliximab"},
+      {"label": "E", "text": "Oral ibuprofen"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Oral corticosteroids (e.g., prednisone) are the first-line treatment for symptomatic pulmonary sarcoidosis. An initial 4–6 week course is used to assess response, which includes improvement in symptoms, PFTs, and chest radiograph findings.",
+      "whyCorrect": "Prednisone is the first-line drug for symptomatic sarcoidosis with significant pulmonary involvement. It is typically given for 4–6 weeks initially, with response assessed by symptom improvement, rising FVC, and clearing of radiographic infiltrates.",
+      "whyWrongByChoice": {
+        "A": "Azithromycin is an antibiotic with no role in treating sarcoidosis, which is not infectious.",
+        "C": "Methotrexate is a second-line immunosuppressant used when corticosteroids fail or as a steroid-sparing agent.",
+        "D": "Infliximab is reserved for refractory sarcoidosis that does not respond to corticosteroids and conventional immunosuppressants.",
+        "E": "Ibuprofen does not have sufficient immunosuppressive activity to treat significant pulmonary sarcoidosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "treatment", "corticosteroids", "prednisone"]
+  },
+  {
+    "id": "r19-010",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 40-year-old woman presents with violaceous, indurated plaques on her nose, cheeks, and ears that have been slowly enlarging for 6 months. She also has bilateral hilar lymphadenopathy on chest radiograph and mild restrictive changes on PFTs. Biopsy of a facial lesion reveals noncaseating granulomas without organisms on special stains. Which of the following cutaneous findings is described?",
+    "choices": [
+      {"label": "A", "text": "Lupus pernio"},
+      {"label": "B", "text": "Erythema nodosum"},
+      {"label": "C", "text": "Malar butterfly rash"},
+      {"label": "D", "text": "Discoid lupus lesions"},
+      {"label": "E", "text": "Pyoderma gangrenosum"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Lupus pernio is a chronic, disfiguring skin manifestation of sarcoidosis characterized by violaceous, indurated plaques on the nose, cheeks, ears, and lips. It indicates chronic, severe sarcoidosis and is distinct from erythema nodosum.",
+      "whyCorrect": "Lupus pernio consists of violaceous, indurated plaques and nodules on the nose, cheeks, ears, and lips. It is a specific cutaneous manifestation of sarcoidosis that contains noncaseating granulomas on biopsy and is associated with chronic, more severe systemic disease.",
+      "whyWrongByChoice": {
+        "B": "Erythema nodosum presents as tender, red nodules on the shins. It does not contain granulomas on biopsy.",
+        "C": "A malar rash is a flat, erythematous rash over the cheeks and nose bridge seen in SLE. It is not indurated or violaceous.",
+        "D": "Discoid lupus causes scaly, erythematous plaques with follicular plugging. Biopsy shows interface dermatitis, not granulomas.",
+        "E": "Pyoderma gangrenosum is an ulcerative skin condition associated with inflammatory bowel disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "lupus-pernio", "skin-manifestations"]
+  },
+  {
+    "id": "r19-011",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 26-year-old African American woman undergoes a pre-employment chest radiograph that reveals bilateral hilar lymphadenopathy. She denies cough, dyspnea, or any other symptoms. Physical examination is normal, including clear lungs and no skin lesions. Bronchoscopy with transbronchial biopsy confirms noncaseating granulomas with negative acid-fast and fungal stains. PFTs are within normal limits. Which of the following is the most appropriate management?",
+    "choices": [
+      {"label": "A", "text": "Initiate oral prednisone"},
+      {"label": "B", "text": "Start weekly methotrexate"},
+      {"label": "C", "text": "Begin cyclophosphamide therapy"},
+      {"label": "D", "text": "Refer for lung transplant evaluation"},
+      {"label": "E", "text": "Observation with periodic follow-up"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Asymptomatic sarcoidosis with bilateral hilar LAD only has a high rate of spontaneous remission and does not require drug therapy. Observation with periodic monitoring is appropriate.",
+      "whyCorrect": "Patients with minimal or no symptoms from sarcoidosis can be observed without drug therapy, as many experience spontaneous remission. Corticosteroids are reserved for patients with significant symptoms, progressive disease, or organ-threatening involvement.",
+      "whyWrongByChoice": {
+        "A": "Prednisone is indicated for symptomatic or progressive sarcoidosis, not for asymptomatic patients.",
+        "B": "Methotrexate is a second-line agent used when corticosteroids fail, not for asymptomatic disease.",
+        "C": "Cyclophosphamide has significant toxicity and is not indicated for asymptomatic sarcoidosis.",
+        "D": "Lung transplant is reserved for end-stage pulmonary sarcoidosis with respiratory failure."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "management", "observation", "asymptomatic"]
+  },
+  {
+    "id": "r19-012",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 48-year-old man with long-standing sarcoidosis presents with progressive dyspnea on exertion and bilateral lower extremity edema over 6 months. Chest radiograph shows upper lobe fibrosis with volume loss and honeycombing. Echocardiography reveals right ventricular systolic pressure of 60 mmHg and right ventricular dilation. Oxygen saturation is 88% on room air. Which of the following best explains his right heart dysfunction?",
+    "choices": [
+      {"label": "A", "text": "Left ventricular systolic failure"},
+      {"label": "B", "text": "Acute massive bilateral pulmonary thromboembolism"},
+      {"label": "C", "text": "Tricuspid valve endocarditis"},
+      {"label": "D", "text": "Constrictive pericardial inflammation"},
+      {"label": "E", "text": "Pulmonary fibrosis-related hypertension"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Advanced sarcoidosis with pulmonary fibrosis leads to destruction of the pulmonary vascular bed, increasing pulmonary vascular resistance. This causes pulmonary hypertension and right heart failure (cor pulmonale).",
+      "whyCorrect": "Advanced pulmonary sarcoidosis with fibrosis destroys alveolar-capillary units and distorts pulmonary vasculature, increasing pulmonary vascular resistance. The resulting pulmonary hypertension causes right ventricular strain, elevated RVSP, and cor pulmonale with peripheral edema.",
+      "whyWrongByChoice": {
+        "A": "Left ventricular failure can cause secondary pulmonary hypertension, but the primary pathology is pulmonary fibrosis causing right heart strain.",
+        "B": "Pulmonary embolism causes acute right heart strain but does not explain the chronic progressive dyspnea and fibrotic changes.",
+        "C": "Tricuspid endocarditis presents with fever and septic emboli, and is associated with IV drug use.",
+        "D": "Constrictive pericarditis causes equal diastolic pressure elevation in all chambers, not isolated elevated RVSP."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "pulmonary-fibrosis", "cor-pulmonale", "pulmonary-hypertension"]
+  },
+  {
+    "id": "r19-013",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 34-year-old woman with recently diagnosed pulmonary sarcoidosis undergoes bronchoscopy with bronchoalveolar lavage for further disease characterization. Cell differential analysis of the BAL fluid shows a markedly elevated lymphocyte count with a CD4:CD8 T-cell ratio of 6:1. Total cell count is increased. Which of the following BAL findings is most characteristic of this disease?",
+    "choices": [
+      {"label": "A", "text": "Elevated CD4:CD8 T-cell ratio"},
+      {"label": "B", "text": "Predominant neutrophilic infiltrate"},
+      {"label": "C", "text": "Marked eosinophil predominance"},
+      {"label": "D", "text": "Presence of malignant cells"},
+      {"label": "E", "text": "Decreased CD4:CD8 T-cell ratio"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Bronchoalveolar lavage in sarcoidosis characteristically shows lymphocytic alveolitis with an elevated CD4:CD8 T-cell ratio, reflecting the T-helper cell–mediated granulomatous immune response.",
+      "whyCorrect": "Sarcoidosis is driven by CD4+ T-helper cell activation and granuloma formation. BAL typically shows lymphocytosis with an elevated CD4:CD8 ratio, often greater than 3.5:1, reflecting the predominance of activated CD4+ T cells.",
+      "whyWrongByChoice": {
+        "B": "Neutrophilia on BAL is more characteristic of bacterial infections, ARDS, or idiopathic pulmonary fibrosis.",
+        "C": "Elevated eosinophils suggest eosinophilic pneumonia or EGPA, not sarcoidosis.",
+        "D": "Malignant cells on BAL indicate pulmonary malignancy, not sarcoidosis.",
+        "E": "A decreased CD4:CD8 ratio is seen in hypersensitivity pneumonitis, not sarcoidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "bronchoalveolar-lavage", "CD4-CD8-ratio"]
+  },
+  {
+    "id": "r19-014",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 37-year-old man with known pulmonary sarcoidosis presents with recurrent episodes of severe left flank pain radiating to the groin. He reports nausea and gross hematuria during episodes. Serum calcium is 11.4 mg/dL. Urinalysis shows microscopic hematuria with calcium oxalate crystals. CT abdomen reveals a 6-mm stone in the left ureteropelvic junction. Which of the following is the most likely stone composition?",
+    "choices": [
+      {"label": "A", "text": "Uric acid stones"},
+      {"label": "B", "text": "Cystine stones"},
+      {"label": "C", "text": "Struvite stones"},
+      {"label": "D", "text": "Calcium oxalate stones"},
+      {"label": "E", "text": "Calcium phosphate stones"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Sarcoidosis causes hypercalcemia through granuloma production of calcitriol, leading to increased renal calcium excretion. This excess calcium precipitates as calcium oxalate stones.",
+      "whyCorrect": "Granulomas in sarcoidosis produce 1,25-dihydroxyvitamin D, causing hypercalcemia and hypercalciuria. The excess urinary calcium forms calcium oxalate stones, confirmed by the calcium oxalate crystals on urinalysis.",
+      "whyWrongByChoice": {
+        "A": "Uric acid stones are associated with gout and myeloproliferative disorders, not sarcoidosis-related hypercalcemia.",
+        "B": "Cystine stones result from cystinuria, a genetic amino acid transport disorder unrelated to sarcoidosis.",
+        "C": "Struvite stones form in the setting of urease-producing bacterial infections, not hypercalcemia.",
+        "E": "While calcium phosphate stones can occur with hypercalcemia, calcium oxalate stones are more common in sarcoidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "nephrolithiasis", "calcium-oxalate", "hypercalcemia"]
+  },
+  {
+    "id": "r19-015",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A pathologist examines a lung biopsy from a 46-year-old woman with suspected sarcoidosis. Within a noncaseating granuloma, multinucleated giant cells contain stellate, eosinophilic inclusions with filamentous radiating arms extending outward in a star-shaped pattern. No organisms are identified on special stains. Which of the following histologic structures is being described?",
+    "choices": [
+      {"label": "A", "text": "Schaumann bodies"},
+      {"label": "B", "text": "Asteroid bodies"},
+      {"label": "C", "text": "Ferruginous bodies"},
+      {"label": "D", "text": "Langhans giant cells"},
+      {"label": "E", "text": "Councilman bodies"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Asteroid bodies are stellate (star-shaped) eosinophilic inclusions with filamentous radiating arms found within multinucleated giant cells in sarcoidosis. Though not pathognomonic, they are characteristic.",
+      "whyCorrect": "Asteroid bodies are star-shaped inclusions found within multinucleated giant cells in granulomas. They consist of a stellate arrangement of filamentous arms and are commonly seen in sarcoidosis, although they can also occur in other granulomatous diseases.",
+      "whyWrongByChoice": {
+        "A": "Schaumann bodies are laminated calcium and protein concretions within giant cells. They lack the stellate filamentous appearance described.",
+        "C": "Ferruginous bodies are iron-coated asbestos fibers found in lungs with asbestos exposure, not sarcoidosis granulomas.",
+        "D": "Langhans giant cells are multinucleated cells with horseshoe-arranged nuclei. They are cells, not intracellular inclusions.",
+        "E": "Councilman bodies are eosinophilic apoptotic hepatocytes in viral hepatitis, unrelated to sarcoidosis."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "asteroid-bodies", "histology", "giant-cells"]
+  },
+  {
+    "id": "r19-016",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 29-year-old woman presents with fever, bilateral ankle swelling, and tender erythematous nodules on both shins. Chest radiograph shows bilateral hilar lymphadenopathy. Transbronchial biopsy confirms noncaseating granulomas. Her physician explains that a specific cytokine recruits macrophages and promotes their fusion into multinucleated giant cells during granuloma formation. Which of the following cytokines plays this key role?",
+    "choices": [
+      {"label": "A", "text": "Interleukin-4"},
+      {"label": "B", "text": "Interleukin-5"},
+      {"label": "C", "text": "Interleukin-10"},
+      {"label": "D", "text": "Tumor necrosis factor-alpha"},
+      {"label": "E", "text": "Interleukin-13"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "TNF-alpha is a key pro-inflammatory cytokine in sarcoidosis pathogenesis. It recruits and activates macrophages that form the noncaseating granulomas.",
+      "whyCorrect": "In sarcoidosis, T-helper cells release cytokines including TNF-alpha, which recruits and activates macrophages. These macrophages evolve into epithelioid cells and fuse into multinucleated giant cells, forming the characteristic noncaseating granulomas.",
+      "whyWrongByChoice": {
+        "A": "Interleukin-4 promotes B-cell class switching to IgE and Th2 differentiation in allergic responses, not granuloma formation.",
+        "B": "Interleukin-5 promotes eosinophil activation in eosinophilic diseases like EGPA, not granulomatous inflammation.",
+        "C": "Interleukin-10 is an anti-inflammatory cytokine that suppresses immune responses rather than driving granuloma formation.",
+        "E": "Interleukin-13 promotes fibrosis and mucus production in asthma, not granulomatous inflammation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "TNF-alpha", "pathophysiology", "granuloma-formation"]
+  },
+  {
+    "id": "r19-017",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 33-year-old woman with pulmonary sarcoidosis has been on prednisone 40 mg daily for 6 months with good disease control. She now presents with moon facies, central obesity, dorsal fat pad, and fasting glucose of 210 mg/dL. Her physician wishes to reduce the corticosteroid dose by adding a steroid-sparing immunosuppressant. Which of the following is the most appropriate second-line medication?",
+    "choices": [
+      {"label": "A", "text": "Methotrexate"},
+      {"label": "B", "text": "Azathioprine"},
+      {"label": "C", "text": "Etanercept"},
+      {"label": "D", "text": "Cyclophosphamide"},
+      {"label": "E", "text": "Hydroxychloroquine"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Methotrexate is the most commonly used second-line immunosuppressant for sarcoidosis when corticosteroids cause intolerable side effects. It allows dose reduction while maintaining disease control.",
+      "whyCorrect": "Methotrexate is the preferred steroid-sparing agent for pulmonary sarcoidosis when corticosteroids cause significant adverse effects. It helps control granulomatous inflammation while allowing corticosteroid dose reduction.",
+      "whyWrongByChoice": {
+        "B": "Azathioprine can serve as a steroid-sparing agent but is generally less well-established than methotrexate for sarcoidosis.",
+        "C": "Etanercept has shown limited efficacy in sarcoidosis. Infliximab is the preferred anti-TNF agent for refractory cases.",
+        "D": "Cyclophosphamide has significant toxicity and is reserved for severe, life-threatening autoimmune diseases.",
+        "E": "Hydroxychloroquine is sometimes used for cutaneous or joint sarcoidosis but not as the standard agent for progressive pulmonary disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "methotrexate", "steroid-sparing", "treatment"]
+  },
+  {
+    "id": "r19-018",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 44-year-old man is found to have hepatomegaly during evaluation for bilateral hilar lymphadenopathy. Liver biopsy reveals noncaseating granulomas. Serum ACE is elevated at 95 U/L, and serum calcium is 9.8 mg/dL (normal). He asks which organs are most commonly involved in sarcoidosis besides the lungs. Which of the following sites represents the most common extrapulmonary involvement?",
+    "choices": [
+      {"label": "A", "text": "Kidneys and urinary tract"},
+      {"label": "B", "text": "Bone marrow and spleen"},
+      {"label": "C", "text": "Skin and eyes"},
+      {"label": "D", "text": "Pancreas and adrenal glands"},
+      {"label": "E", "text": "Liver and gastrointestinal tract"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "After the lungs, the skin and eyes are the most common extrapulmonary sites of involvement, each affected in approximately 25% of patients.",
+      "whyCorrect": "Skin involvement (erythema nodosum, lupus pernio, subcutaneous nodules) and ocular involvement (anterior uveitis, lacrimal gland inflammation) each occur in about 25% of sarcoidosis patients, making them the most common extrapulmonary sites.",
+      "whyWrongByChoice": {
+        "A": "Renal involvement is uncommon and usually manifests as nephrolithiasis from hypercalciuria.",
+        "B": "Bone marrow involvement is uncommon and not among the most frequently affected extrapulmonary sites.",
+        "D": "Pancreatic involvement in sarcoidosis is rare.",
+        "E": "Liver involvement can occur but is less common than skin and eye involvement."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "extrapulmonary", "skin", "eyes", "organ-involvement"]
+  },
+  {
+    "id": "r19-019",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 31-year-old woman diagnosed with pulmonary sarcoidosis 1 year ago presents with excessive thirst, polyuria, and 4-kg weight loss over 2 months. Serum calcium is normal. Serum sodium is 148 mEq/L. Urine osmolality remains dilute at 120 mOsm/kg despite overnight fluid restriction. MRI of the brain shows enhancement and thickening of the hypothalamic-pituitary stalk. Which of the following best explains her symptoms?",
+    "choices": [
+      {"label": "A", "text": "Hypothalamic granuloma infiltration"},
+      {"label": "B", "text": "Corticosteroid-induced hyperglycemia"},
+      {"label": "C", "text": "Hypercalcemia-induced nephrogenic diabetes insipidus"},
+      {"label": "D", "text": "Psychogenic primary polydipsia"},
+      {"label": "E", "text": "SIADH from pulmonary disease"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Neurosarcoidosis can involve the hypothalamus and pituitary gland, causing central diabetes insipidus. The MRI enhancement of the hypothalamic-pituitary stalk with polyuria and dilute urine confirms granulomatous infiltration.",
+      "whyCorrect": "Neurosarcoidosis can affect the hypothalamus and pituitary, disrupting ADH production and causing central diabetes insipidus with polyuria, polydipsia, dilute urine, and hypernatremia. The MRI findings confirm the diagnosis.",
+      "whyWrongByChoice": {
+        "B": "Corticosteroid-induced diabetes mellitus would cause hyperglycemia and osmotic diuresis, not dilute urine with MRI enhancement.",
+        "C": "Hypercalcemia can cause nephrogenic DI, but this patient's calcium is normal. MRI findings point to central, not nephrogenic, disease.",
+        "D": "Primary polydipsia would cause dilutional hyponatremia, not hypernatremia, and would not explain MRI findings.",
+        "E": "SIADH causes water retention, hyponatremia, and concentrated urine — the opposite of this presentation."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "neurosarcoidosis", "diabetes-insipidus", "hypothalamus"]
+  },
+  {
+    "id": "r19-020",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 36-year-old woman is evaluated for persistent dry cough. Chest radiograph reveals bilateral hilar lymphadenopathy without parenchymal infiltrates. She has mild cough but no dyspnea. PFTs are within normal limits. Serum ACE is elevated at 78 U/L. Her physician suspects sarcoidosis and orders further workup. Which of the following is the best confirmatory diagnostic test?",
+    "choices": [
+      {"label": "A", "text": "Serum ACE level trending"},
+      {"label": "B", "text": "High-resolution chest CT scan"},
+      {"label": "C", "text": "Transbronchial lung biopsy"},
+      {"label": "D", "text": "Serial serum calcium levels"},
+      {"label": "E", "text": "Tuberculin skin testing"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Tissue biopsy demonstrating noncaseating granulomas is required for definitive diagnosis of sarcoidosis. Bronchoscopy with transbronchial biopsy is the preferred method for obtaining lung tissue.",
+      "whyCorrect": "Sarcoidosis diagnosis requires demonstration of noncaseating granulomas on tissue biopsy, along with compatible clinical and radiographic features and exclusion of other causes. Transbronchial biopsy is the most commonly performed procedure.",
+      "whyWrongByChoice": {
+        "A": "Serum ACE is elevated in about 75% of untreated patients but has poor sensitivity and specificity and cannot confirm the diagnosis.",
+        "B": "HRCT can detail radiographic findings but cannot provide a tissue diagnosis or replace biopsy.",
+        "D": "Serum calcium may be elevated in only 10–20% of patients and is neither sensitive nor specific.",
+        "E": "Tuberculin testing helps exclude TB but cannot confirm sarcoidosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "diagnosis", "transbronchial-biopsy", "bronchoscopy"]
+  },
+  {
+    "id": "r19-021",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 39-year-old man presents with progressive cough and dyspnea. Chest radiograph shows pulmonary infiltrates bilaterally but no hilar lymphadenopathy. Transbronchial biopsy reveals noncaseating granulomas with minimal surrounding inflammation. Acid-fast, fungal, and modified acid-fast stains are negative. He denies occupational exposures or recent medications. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Hypersensitivity pneumonitis"},
+      {"label": "B", "text": "Occupational berylliosis"},
+      {"label": "C", "text": "Cavitary pulmonary tuberculosis"},
+      {"label": "D", "text": "Stage III sarcoidosis"},
+      {"label": "E", "text": "Drug-induced pneumonitis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Stage III sarcoidosis shows pulmonary infiltrates without hilar lymphadenopathy. The key feature is noncaseating granulomas with minimal surrounding inflammation and negative organism stains.",
+      "whyCorrect": "Noncaseating granulomas with minimal surrounding inflammation, negative organism stains, and pulmonary infiltrates without hilar LAD characterize Stage III sarcoidosis. In hypersensitivity pneumonitis and drug reactions, granulomas have intense surrounding inflammation.",
+      "whyWrongByChoice": {
+        "A": "Hypersensitivity pneumonitis produces noncaseating granulomas accompanied by intense lymphocytic inflammation and requires antigen exposure history.",
+        "B": "Berylliosis mimics sarcoidosis but requires beryllium exposure history, which is denied here.",
+        "C": "Tuberculosis produces caseating granulomas with central necrosis, not noncaseating granulomas.",
+        "E": "Drug-induced hypersensitivity produces granulomas with intense surrounding inflammation and requires medication exposure."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "stage-III", "differential-diagnosis", "noncaseating-granuloma"]
+  },
+  {
+    "id": "r19-022",
+    "topicId": "sarcoidosis",
+    "topicName": "Sarcoidosis",
+    "stem": "A 27-year-old woman with recently diagnosed pulmonary sarcoidosis and bilateral hilar lymphadenopathy undergoes arterial blood gas analysis. Results show pH 7.48, PaO2 88 mmHg, PaCO2 32 mmHg, and HCO3 22 mEq/L on room air. She reports mild dyspnea with exertion but is comfortable at rest. Which of the following best explains these blood gas findings?",
+    "choices": [
+      {"label": "A", "text": "Normal gas exchange pattern"},
+      {"label": "B", "text": "J-receptor-driven hyperventilation"},
+      {"label": "C", "text": "Metabolic hypercalcemia compensation"},
+      {"label": "D", "text": "Respiratory muscle weakness"},
+      {"label": "E", "text": "Chronic respiratory acidosis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In sarcoidosis, interstitial inflammation stimulates juxtacapillary (J) receptors in the lung, triggering hyperventilation. This results in mild hypocapnia (low PaCO2) with relatively preserved oxygenation.",
+      "whyCorrect": "Sarcoidosis involves diffuse interstitial inflammation that stimulates pulmonary J-receptors, causing compensatory hyperventilation. This lowers PaCO2 below normal, producing respiratory alkalosis. PaO2 may be near-normal due to increased ventilation.",
+      "whyWrongByChoice": {
+        "A": "PaCO2 of 32 mmHg is below normal (35–45 mmHg), indicating hyperventilation rather than normal gas exchange.",
+        "C": "Hypercalcemia does not directly stimulate hyperventilation or cause respiratory alkalosis.",
+        "D": "Respiratory muscle weakness would cause hypoventilation with elevated PaCO2, the opposite of this finding.",
+        "E": "Chronic respiratory acidosis would show elevated PaCO2, not the low PaCO2 seen here."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sarcoidosis", "blood-gas-analysis", "hypocapnia", "hyperventilation"]
+  },
+  {
+    "id": "r19-023",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 25-year-old man with a 5-pack-year smoking history presents with hemoptysis and cola-colored urine for 2 weeks. Serum creatinine is 4.2 mg/dL (baseline 0.9 mg/dL). Chest radiograph shows bilateral diffuse alveolar infiltrates. Renal biopsy shows crescentic glomerulonephritis with linear IgG deposition along the glomerular basement membrane on immunofluorescence. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Granulomatosis with polyangiitis"},
+      {"label": "B", "text": "IgA nephropathy"},
+      {"label": "C", "text": "Anti-GBM disease"},
+      {"label": "D", "text": "Systemic lupus nephritis"},
+      {"label": "E", "text": "Microscopic polyangiitis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Anti-GBM disease presents with pulmonary hemorrhage and rapidly progressive glomerulonephritis. The pathognomonic finding is linear IgG deposition along the glomerular basement membrane on immunofluorescence.",
+      "whyCorrect": "Anti-GBM disease is caused by autoantibodies against type IV collagen in basement membranes. The hallmark is linear IgG staining along the GBM. Smoking may expose alveolar basement membranes to autoantibodies, triggering pulmonary hemorrhage.",
+      "whyWrongByChoice": {
+        "A": "GPA shows necrotizing granulomas and pauci-immune staining on immunofluorescence, not linear IgG.",
+        "B": "IgA nephropathy shows mesangial IgA deposits, not linear IgG along the GBM.",
+        "D": "SLE nephritis shows a granular pattern of immunoglobulin deposition, not linear IgG.",
+        "E": "Microscopic polyangiitis shows pauci-immune glomerulonephritis without immunoglobulin deposits."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anti-GBM", "goodpasture", "linear-IgG", "pulmonary-renal-syndrome"]
+  },
+  {
+    "id": "r19-024",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 58-year-old man presents with a 3-month history of bloody nasal discharge, recurrent sinusitis, cough with hemoptysis, and dark urine. Physical examination reveals nasal mucosal ulceration and bilateral pulmonary crackles. Sinus CT shows mucosal thickening with bony erosion. Serum creatinine is elevated, and serologic testing is positive for c-ANCA with anti-proteinase 3 antibodies. Which histologic finding would lung biopsy most likely reveal?",
+    "choices": [
+      {"label": "A", "text": "Noncaseating epithelioid granulomas"},
+      {"label": "B", "text": "Linear IgG basement membrane deposits"},
+      {"label": "C", "text": "Necrotizing granulomatous vasculitis"},
+      {"label": "D", "text": "Eosinophilic tissue infiltration"},
+      {"label": "E", "text": "Diffuse honeycombing with fibrosis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "GPA is characterized by the triad of upper airway, lung, and renal disease. The hallmark histologic findings are necrotizing granulomas and necrotizing vasculitis, with c-ANCA (anti-PR3) positivity.",
+      "whyCorrect": "GPA causes necrotizing granulomatous inflammation and small-vessel vasculitis. Lung biopsy shows necrotizing granulomas with accompanying vasculitis. c-ANCA directed against PR3 is positive in 80–95% of cases.",
+      "whyWrongByChoice": {
+        "A": "Noncaseating granulomas without necrosis are characteristic of sarcoidosis, not GPA.",
+        "B": "Linear IgG along the basement membrane is pathognomonic of anti-GBM disease.",
+        "D": "Eosinophilic tissue infiltration is the hallmark of EGPA, which is associated with asthma.",
+        "E": "Honeycombing with fibrosis is characteristic of idiopathic pulmonary fibrosis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["GPA", "wegener", "c-ANCA", "necrotizing-granuloma", "vasculitis"]
+  },
+  {
+    "id": "r19-025",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 45-year-old man with a 10-year history of poorly controlled asthma presents with new-onset sinusitis, purpuric rash on his legs, and 5-kg unintentional weight loss over 3 months. Complete blood count shows WBC 14,000/μL with 32% eosinophils. Chest radiograph reveals bilateral migratory pulmonary infiltrates. Urinalysis shows microscopic hematuria. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Granulomatosis with polyangiitis"},
+      {"label": "B", "text": "Hypereosinophilic syndrome"},
+      {"label": "C", "text": "Allergic bronchopulmonary aspergillosis syndrome"},
+      {"label": "D", "text": "Eosinophilic granulomatosis with polyangiitis"},
+      {"label": "E", "text": "Chronic eosinophilic pneumonia"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "EGPA classically presents in a patient with asthma who develops peripheral eosinophilia (>10%), sinusitis, migratory pulmonary infiltrates, and systemic vasculitis (purpuric rash). The three sequential stages are allergic, eosinophilic, and vasculitic.",
+      "whyCorrect": "EGPA is uniquely associated with asthma and allergic symptoms. This patient demonstrates the eosinophilic stage (marked eosinophilia, migratory infiltrates) with vasculitic features (purpuric rash, weight loss, hematuria). Eosinophils >10% is a diagnostic criterion.",
+      "whyWrongByChoice": {
+        "A": "GPA causes upper airway disease and hemoptysis but is not associated with asthma or marked eosinophilia.",
+        "B": "Hypereosinophilic syndrome causes persistent eosinophilia with organ damage but is not associated with asthma or vasculitic rash.",
+        "C": "ABPA causes eosinophilia and infiltrates but occurs with Aspergillus sensitization, central bronchiectasis, and elevated IgE, without vasculitis.",
+        "E": "Chronic eosinophilic pneumonia causes eosinophilia and infiltrates but does not cause systemic vasculitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["EGPA", "churg-strauss", "eosinophilia", "asthma", "vasculitis"]
+  },
+  {
+    "id": "r19-026",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 52-year-old woman with a 15-year history of seropositive rheumatoid arthritis presents with progressive dyspnea on exertion and nonproductive cough for 8 months. She is a former smoker with 10 pack-years. HRCT of the chest shows bilateral ground-glass opacities and reticular markings with basal predominance. PFTs show FVC 68% predicted with FEV1/FVC of 82%. Which pulmonary complication is most likely?",
+    "choices": [
+      {"label": "A", "text": "RA-associated interstitial lung disease"},
+      {"label": "B", "text": "Acute bilateral pulmonary thromboembolism"},
+      {"label": "C", "text": "Rheumatoid pleural effusion"},
+      {"label": "D", "text": "Obstructive bronchiectasis"},
+      {"label": "E", "text": "Primary spontaneous pneumothorax"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "RA-ILD is the most frequent and clinically significant pulmonary complication of rheumatoid arthritis (RA-ILD) is the most frequent and clinically significant pulmonary complication of rheumatoid arthritis. It presents with progressive dyspnea, dry cough, restrictive PFTs, and ground-glass opacities with reticular changes on HRCT.",
+      "whyCorrect": "RA-ILD involves inflammation and fibrosis of the lung interstitium leading to restrictive disease. HRCT showing bilateral ground-glass opacities and reticular markings with basal predominance is characteristic. Smoking is a major risk factor.",
+      "whyWrongByChoice": {
+        "B": "Pulmonary embolism presents acutely, not with 8 months of progressive symptoms and chronic HRCT changes.",
+        "C": "Pleural effusion presents with opacities at the bases on imaging, not ground-glass opacities and reticular markings.",
+        "D": "Bronchiectasis shows dilated airways on HRCT and causes an obstructive pattern, not a restrictive pattern.",
+        "E": "Pneumothorax is not a common complication of RA and presents acutely."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["rheumatoid-arthritis", "ILD", "restrictive-lung-disease", "HRCT"]
+  },
+  {
+    "id": "r19-027",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 35-year-old woman with known systemic lupus erythematosus presents with sharp, left-sided chest pain that worsens with deep inspiration and coughing. She denies productive cough or hemoptysis. Temperature is 38.1°C, heart rate 88/min, and oxygen saturation 97%. Chest radiograph shows a small left-sided pleural effusion without consolidation. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Community-acquired pneumonia"},
+      {"label": "B", "text": "Acute pulmonary embolism"},
+      {"label": "C", "text": "Lupus pleuritis"},
+      {"label": "D", "text": "Constrictive pericarditis"},
+      {"label": "E", "text": "Spontaneous pneumothorax"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Pleuritis is the most common pulmonary manifestation of SLE. It presents with sharp pleuritic chest pain worsening with deep inspiration and may be accompanied by pleural effusion and low-grade fever.",
+      "whyCorrect": "Lupus pleuritis is the most common pulmonary manifestation of SLE, characterized by inflammation of the pleural lining causing sharp pleuritic chest pain. It can be accompanied by effusion and mild fever.",
+      "whyWrongByChoice": {
+        "A": "Bacterial pneumonia would present with productive cough, high fever, and consolidation on imaging.",
+        "B": "Pulmonary embolism typically presents with acute dyspnea and tachycardia, with wedge-shaped infarcts on imaging.",
+        "D": "Pericarditis causes chest pain that improves with leaning forward and may show pericardial effusion, not pleural effusion.",
+        "E": "Pneumothorax would show absent lung markings and a visible pleural line, not a pleural effusion."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["SLE", "pleuritis", "pleural-effusion", "chest-pain"]
+  },
+  {
+    "id": "r19-028",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 48-year-old woman with diffuse cutaneous systemic sclerosis presents with progressive dyspnea over the past year. She has skin thickening extending proximal to the elbows and Raynaud phenomenon. PFTs show FVC 58% predicted and DLCO 45% predicted with an FEV1/FVC ratio of 85%. Anti-topoisomerase-1 (anti-Scl-70) antibodies are positive. HRCT shows bilateral ground-glass opacities with basal fibrosis. Which pulmonary complication is most likely?",
+    "choices": [
+      {"label": "A", "text": "Scleroderma interstitial lung disease"},
+      {"label": "B", "text": "Isolated pulmonary arterial hypertension"},
+      {"label": "C", "text": "Recurrent aspiration pneumonia"},
+      {"label": "D", "text": "Malignant pleural effusion"},
+      {"label": "E", "text": "Primary lung carcinoma"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "ILD is the most significant respiratory complication in diffuse cutaneous systemic sclerosis, particularly in patients with anti-Scl-70 antibodies. It causes restrictive lung disease with decreased FVC and DLCO.",
+      "whyCorrect": "ILD is the most common and dangerous pulmonary manifestation of diffuse scleroderma. Anti-Scl-70 antibodies are strongly associated with ILD risk. The restrictive pattern with decreased FVC and DLCO, plus HRCT findings of ground-glass opacities and fibrosis, confirm the diagnosis.",
+      "whyWrongByChoice": {
+        "B": "Isolated PAH is more common in limited cutaneous scleroderma with anti-centromere antibodies. This patient has restrictive PFTs indicating parenchymal disease.",
+        "C": "Aspiration pneumonia from esophageal dysmotility would present acutely with fever and infiltrates.",
+        "D": "Malignant pleural effusion is not a recognized complication of scleroderma.",
+        "E": "Primary lung carcinoma is not a recognized complication of scleroderma."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["scleroderma", "ILD", "anti-Scl-70", "systemic-sclerosis"]
+  },
+  {
+    "id": "r19-029",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 30-year-old man presents with hemoptysis and rapidly progressive renal failure over 10 days. Serum creatinine is 5.8 mg/dL. Anti-GBM antibody is positive by ELISA. Chest radiograph shows bilateral alveolar infiltrates. He is started on pulse intravenous methylprednisolone and cyclophosphamide. Which additional treatment is most critical for this condition?",
+    "choices": [
+      {"label": "A", "text": "Intravenous immunoglobulin"},
+      {"label": "B", "text": "Weekly methotrexate injections"},
+      {"label": "C", "text": "Plasmapheresis"},
+      {"label": "D", "text": "Intravenous rituximab infusion"},
+      {"label": "E", "text": "Oral mycophenolate mofetil"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Anti-GBM disease is treated with immunosuppression (glucocorticoids plus cyclophosphamide) and plasmapheresis to rapidly remove pathogenic anti-GBM antibodies from circulation.",
+      "whyCorrect": "Plasmapheresis physically removes pathogenic anti-GBM antibodies from the blood, providing rapid antibody level reduction while immunosuppressive drugs prevent new antibody production.",
+      "whyWrongByChoice": {
+        "A": "IVIG is used in conditions like Kawasaki disease or Guillain-Barré but is not standard for anti-GBM disease.",
+        "B": "Methotrexate is a steroid-sparing agent for conditions like sarcoidosis, not acute anti-GBM disease.",
+        "D": "Rituximab is used for GPA and some vasculitides but is not first-line for anti-GBM disease.",
+        "E": "Mycophenolate is maintenance therapy in some autoimmune conditions, not key adjunctive therapy for acute anti-GBM disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anti-GBM", "plasmapheresis", "treatment", "goodpasture"]
+  },
+  {
+    "id": "r19-030",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 62-year-old man with a 5-year history of GPA presents with progressive nasal congestion, epistaxis, and a visible change in the shape of his nose. Physical examination reveals collapse of the nasal bridge with a widened, flattened appearance. Nasal endoscopy shows septal perforation with surrounding erythematous mucosa. Which of the following best explains this deformity?",
+    "choices": [
+      {"label": "A", "text": "Nasal polyp cartilage compression"},
+      {"label": "B", "text": "Chronic mucus impaction erosion"},
+      {"label": "C", "text": "Allergic mucosal edema remodeling"},
+      {"label": "D", "text": "Foreign body cartilage necrosis"},
+      {"label": "E", "text": "Granulomatous septum destruction"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Saddle nose deformity is a characteristic complication of GPA caused by necrotizing granulomatous inflammation that destroys the nasal septal cartilage, leading to nasal bridge collapse.",
+      "whyCorrect": "GPA causes necrotizing granulomatous inflammation of the upper respiratory tract, including the nasal septum. Progressive destruction of nasal septal cartilage leads to saddle nose deformity, a classic GPA finding.",
+      "whyWrongByChoice": {
+        "A": "Nasal polyps are more associated with EGPA and allergic conditions. They do not destroy cartilage.",
+        "B": "Mucus impaction causes obstruction but does not destroy cartilage or cause structural deformity.",
+        "C": "Allergic edema causes swelling and congestion but is reversible and does not destroy cartilage.",
+        "D": "Foreign body aspiration is acute, typically in children, and does not cause progressive cartilage destruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["GPA", "saddle-nose", "necrotizing-granuloma", "upper-airway"]
+  },
+  {
+    "id": "r19-031",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 55-year-old woman with limited cutaneous systemic sclerosis presents with worsening exertional dyspnea, fatigue, and near-syncope over 4 months. She has sclerodactyly and calcinosis. Anti-centromere antibodies are positive. Echocardiography reveals right ventricular systolic pressure of 55 mmHg and right ventricular dilation. PFTs show normal FVC but DLCO of 40% predicted. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Scleroderma interstitial lung disease"},
+      {"label": "B", "text": "Pulmonary veno-occlusive disease"},
+      {"label": "C", "text": "Left-sided heart failure"},
+      {"label": "D", "text": "Chronic thromboembolic hypertension"},
+      {"label": "E", "text": "Pulmonary arterial hypertension"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "PAH is a major complication of limited cutaneous scleroderma (CREST syndrome), particularly with anti-centromere antibodies. Isolated DLCO reduction with normal FVC and elevated RVSP is characteristic.",
+      "whyCorrect": "Limited cutaneous scleroderma with anti-centromere antibodies carries high PAH risk. Normal FVC with isolated DLCO reduction indicates impaired pulmonary vascular gas exchange without parenchymal restriction, and elevated RVSP confirms pulmonary hypertension.",
+      "whyWrongByChoice": {
+        "A": "ILD would cause decreased FVC in addition to decreased DLCO. This patient has normal FVC.",
+        "B": "Pulmonary veno-occlusive disease is rare and not specifically associated with scleroderma.",
+        "C": "Left heart failure would show left-sided dysfunction on echocardiography, not isolated right-sided findings.",
+        "D": "Chronic thromboembolic PH is not specifically associated with scleroderma or anti-centromere antibodies."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["scleroderma", "CREST", "pulmonary-hypertension", "anti-centromere"]
+  },
+  {
+    "id": "r19-032",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 40-year-old man with anti-GBM disease and a 15-year smoking history asks why smoking worsened his lung disease. His nephrologist explains that while all patients with anti-GBM disease develop glomerulonephritis, not all develop pulmonary hemorrhage, and smoking was a key contributor. Which of the following best explains the mechanism?",
+    "choices": [
+      {"label": "A", "text": "Smoking exposes alveolar basement membrane antigens"},
+      {"label": "B", "text": "Nicotine directly stimulates anti-GBM antibody production"},
+      {"label": "C", "text": "Tobacco directly activates pulmonary complement"},
+      {"label": "D", "text": "Smoking causes secondary pulmonary hypertension"},
+      {"label": "E", "text": "Tar inhibits surfactant production"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Smoking damages the alveolar epithelium, exposing the basement membrane to anti-GBM antibodies and triggering alveolar hemorrhage.",
+      "whyCorrect": "The alveolar basement membrane is normally protected from circulating autoantibodies. Smoking disrupts the alveolar epithelium, making the basement membrane susceptible to anti-GBM antibody binding, complement activation, and hemorrhage.",
+      "whyWrongByChoice": {
+        "B": "Smoking does not increase anti-GBM antibody production. The mechanism involves antigen exposure, not increased antibody synthesis.",
+        "C": "Nicotine does not directly activate complement. Complement activation occurs after antibody binding to exposed basement membrane.",
+        "D": "Smoking can contribute to pulmonary hypertension, but this is not the mechanism worsening anti-GBM disease.",
+        "E": "Surfactant dysfunction is not the relevant mechanism in anti-GBM hemorrhage."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anti-GBM", "smoking", "alveolar-hemorrhage", "pathophysiology"]
+  },
+  {
+    "id": "r19-033",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 50-year-old woman with Sjögren syndrome presents with a persistent dry cough for 6 months. She reports dry eyes requiring artificial tears and dry mouth. She denies dyspnea, hemoptysis, or chest pain. Chest radiograph is normal, and PFTs are within normal limits. Which of the following best explains her chronic cough?",
+    "choices": [
+      {"label": "A", "text": "Early pulmonary fibrosis"},
+      {"label": "B", "text": "Bilateral pleural effusion"},
+      {"label": "C", "text": "Xerotrachea from gland destruction"},
+      {"label": "D", "text": "Occult bronchogenic carcinoma"},
+      {"label": "E", "text": "Chronic recurrent pulmonary thromboembolism"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "The most frequent respiratory symptom in Sjögren syndrome is a persistent dry cough caused by xerotrachea — dryness of the trachea and bronchi due to destruction of mucous glands.",
+      "whyCorrect": "Sjögren syndrome causes autoimmune destruction of exocrine glands. In the respiratory tract, this leads to xerotrachea with loss of mucous gland function, causing dry cough as the most common respiratory symptom. Normal imaging and PFTs support this etiology.",
+      "whyWrongByChoice": {
+        "A": "Pulmonary fibrosis would cause dyspnea, abnormal PFTs, and radiographic findings.",
+        "B": "Pleural effusion would be visible on chest radiograph.",
+        "D": "Bronchogenic carcinoma would likely show an abnormality on chest radiograph.",
+        "E": "Chronic PE presents with dyspnea and chest pain, not isolated dry cough."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["sjogren", "xerotrachea", "dry-cough", "sicca-syndrome"]
+  },
+  {
+    "id": "r19-034",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 42-year-old man with EGPA develops substernal chest pain, dyspnea, and diaphoresis. Troponin I is markedly elevated at 15.2 ng/mL. ECG shows diffuse ST-segment elevation. Echocardiography reveals ejection fraction of 25% with diffuse hypokinesis. Coronary angiography shows no obstructive disease. Which of the following is the leading cause of mortality in EGPA?",
+    "choices": [
+      {"label": "A", "text": "Progressive renal failure"},
+      {"label": "B", "text": "Massive pulmonary hemorrhage"},
+      {"label": "C", "text": "Cardiac involvement"},
+      {"label": "D", "text": "Hemorrhagic cerebrovascular stroke"},
+      {"label": "E", "text": "Gastrointestinal perforation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Cardiac involvement is the most serious complication and the leading cause of death in EGPA. It can manifest as myocarditis, coronary vasculitis, pericarditis, or cardiomyopathy.",
+      "whyCorrect": "Cardiac disease is the leading cause of mortality in EGPA. The vasculitic stage causes inflammation of coronary vessels and myocardium, leading to myocardial ischemia, myocarditis, and cardiomyopathy. This patient's presentation with elevated troponin and reduced EF with clean coronaries confirms myocarditis.",
+      "whyWrongByChoice": {
+        "A": "Renal failure can occur but is not the most common cause of death in EGPA.",
+        "B": "Pulmonary hemorrhage is more associated with GPA and anti-GBM disease.",
+        "D": "Stroke from cerebral vasculitis can occur but is less common than cardiac mortality.",
+        "E": "GI perforation from mesenteric vasculitis is less common than cardiac complications."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["EGPA", "cardiac-involvement", "mortality", "vasculitis"]
+  },
+  {
+    "id": "r19-035",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 56-year-old man with a 20-year history of seropositive rheumatoid arthritis who has worked as a coal miner for 30 years presents with progressive dyspnea. Chest radiograph shows multiple well-defined rounded opacities (0.5–2 cm) scattered bilaterally, predominantly in the upper lung zones. PFTs show a mixed obstructive-restrictive pattern. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Metastatic pulmonary disease"},
+      {"label": "B", "text": "Pulmonary alveolar proteinosis"},
+      {"label": "C", "text": "Pulmonary sarcoidosis"},
+      {"label": "D", "text": "Caplan syndrome"},
+      {"label": "E", "text": "Simple coal workers' pneumoconiosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Caplan syndrome (rheumatoid pneumoconiosis) is the combination of rheumatoid arthritis with occupational coal dust exposure, producing multiple well-defined rounded pulmonary nodules.",
+      "whyCorrect": "Caplan syndrome occurs when RA coincides with coal dust or silica exposure. The combination produces characteristic well-defined rounded pulmonary nodules (Caplan nodules) that are larger and develop more rapidly than simple pneumoconiosis nodules.",
+      "whyWrongByChoice": {
+        "A": "Metastatic disease can cause rounded nodules, but the combination of RA and coal mining makes Caplan syndrome far more likely.",
+        "B": "Pulmonary alveolar proteinosis shows bilateral ground-glass opacities in a crazy-paving pattern, not discrete rounded nodules.",
+        "C": "Sarcoidosis causes hilar lymphadenopathy and reticulonodular infiltrates, not discrete rounded opacities in a coal miner with RA.",
+        "E": "Simple coal workers' pneumoconiosis produces small rounded opacities, but the RA history and larger nodule size indicate Caplan syndrome."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["rheumatoid-arthritis", "caplan-syndrome", "pneumoconiosis", "coal-dust"]
+  },
+  {
+    "id": "r19-036",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 28-year-old woman with SLE presents with progressive exertional dyspnea and decreasing exercise tolerance over 2 years. Serial PFTs show declining FVC from 85% to 58% predicted. Chest radiograph reveals bilateral elevated hemidiaphragms. HRCT shows no parenchymal abnormalities, consolidation, or fibrosis. She has no pleural effusions. Which of the following best explains these findings?",
+    "choices": [
+      {"label": "A", "text": "Acute lupus pneumonitis"},
+      {"label": "B", "text": "Unilateral phrenic nerve palsy"},
+      {"label": "C", "text": "Progressive pulmonary fibrosis"},
+      {"label": "D", "text": "Large bilateral pleural effusions"},
+      {"label": "E", "text": "Shrinking lung syndrome"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Shrinking lung syndrome is a rare SLE complication characterized by progressive restrictive lung disease with elevated hemidiaphragms but no parenchymal disease on imaging. It results from diaphragmatic dysfunction.",
+      "whyCorrect": "Shrinking lung syndrome features progressively decreasing lung volumes, elevated diaphragms, and dyspnea without parenchymal disease on imaging. It is specific to SLE and thought to result from diaphragmatic myopathy. The absence of HRCT abnormalities distinguishes it from ILD.",
+      "whyWrongByChoice": {
+        "A": "Lupus pneumonitis shows parenchymal infiltrates and typically presents acutely with fever and hypoxemia.",
+        "B": "Phrenic nerve palsy would typically be unilateral, and this patient has bilateral elevated diaphragms.",
+        "C": "Pulmonary fibrosis would show honeycombing or reticular changes on HRCT, which are absent.",
+        "D": "Pleural effusions are explicitly absent on imaging."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["SLE", "shrinking-lung-syndrome", "restrictive", "diaphragm"]
+  },
+  {
+    "id": "r19-037",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 65-year-old man presents with hemoptysis, chronic sinusitis, and dark urine for 6 weeks. Serum creatinine is 3.8 mg/dL. c-ANCA is positive, and anti-PR3 antibody testing is also positive. His physician explains that the combined positivity of these two tests has a diagnostic specificity exceeding which of the following thresholds for GPA?",
+    "choices": [
+      {"label": "A", "text": "Greater than 50%"},
+      {"label": "B", "text": "Greater than 75%"},
+      {"label": "C", "text": "Greater than 90%"},
+      {"label": "D", "text": "Greater than 99%"},
+      {"label": "E", "text": "Exactly 100%"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "c-ANCA alone is highly specific (>90%) for GPA. When both c-ANCA and anti-PR3 are positive, diagnostic specificity exceeds 99%.",
+      "whyCorrect": "c-ANCA targets proteinase 3 and is seen in most GPA patients. c-ANCA alone has >90% specificity. When both c-ANCA and anti-PR3 are confirmed positive, the combined specificity exceeds 99%.",
+      "whyWrongByChoice": {
+        "A": "Greater than 50% significantly underestimates the specificity. Even c-ANCA alone exceeds 90%.",
+        "B": "Greater than 75% also underestimates the combined specificity of c-ANCA plus anti-PR3.",
+        "C": "Greater than 90% describes c-ANCA alone. The combination raises specificity above 99%.",
+        "E": "No serologic test achieves absolute 100% specificity. Tissue biopsy remains confirmatory."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["GPA", "c-ANCA", "anti-PR3", "specificity", "diagnosis"]
+  },
+  {
+    "id": "r19-038",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 22-year-old man presents with hemoptysis, cola-colored urine, and bilateral lower extremity edema for 1 week. Serum anti-GBM antibodies are positive by ELISA. Renal biopsy shows crescentic glomerulonephritis with linear IgG deposits along the basement membrane. His physician explains the underlying immunologic mechanism. Which hypersensitivity reaction type is responsible?",
+    "choices": [
+      {"label": "A", "text": "Type I immediate hypersensitivity"},
+      {"label": "B", "text": "Type II cytotoxic hypersensitivity"},
+      {"label": "C", "text": "Type III immune complex mediated disease"},
+      {"label": "D", "text": "Type IV delayed hypersensitivity"},
+      {"label": "E", "text": "Combined type I and III reaction"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Anti-GBM disease is a classic type II hypersensitivity reaction in which IgG autoantibodies bind directly to type IV collagen in basement membranes, activating complement and causing tissue damage.",
+      "whyCorrect": "Type II hypersensitivity involves antibodies binding to cell-surface or extracellular matrix antigens. In anti-GBM disease, IgG binds to type IV collagen, activating complement and recruiting phagocytes that release reactive oxygen species.",
+      "whyWrongByChoice": {
+        "A": "Type I involves IgE-mediated mast cell degranulation in allergic reactions, not antibody-mediated tissue destruction.",
+        "C": "Type III involves circulating immune complex deposition, as in SLE nephritis. Anti-GBM disease involves direct antibody binding to tissue.",
+        "D": "Type IV is T-cell mediated, as in contact dermatitis. Anti-GBM disease is antibody-mediated.",
+        "E": "A combination of type I and III does not apply to anti-GBM disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["anti-GBM", "type-II-hypersensitivity", "pathophysiology", "immunology"]
+  },
+  {
+    "id": "r19-039",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 47-year-old man with EGPA and persistent peripheral eosinophilia undergoes serologic testing. ANCA immunofluorescence shows a perinuclear staining pattern. Subsequent antigen-specific testing confirms antibodies against a particular neutrophil enzyme. Which of the following ANCA patterns and target antigens is most commonly associated with EGPA?",
+    "choices": [
+      {"label": "A", "text": "c-ANCA targeting proteinase 3"},
+      {"label": "B", "text": "Atypical ANCA targeting elastase"},
+      {"label": "C", "text": "c-ANCA targeting myeloperoxidase"},
+      {"label": "D", "text": "p-ANCA targeting proteinase 3 antigen"},
+      {"label": "E", "text": "p-ANCA targeting MPO-myeloperoxidase"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "When ANCA-positive, EGPA is most commonly associated with p-ANCA targeting myeloperoxidase (MPO). Only 30–40% of EGPA patients are ANCA positive.",
+      "whyCorrect": "When ANCA is positive in EGPA (30–40% of cases), it is typically p-ANCA with antibodies against MPO. This contrasts with GPA, which is associated with c-ANCA targeting PR3.",
+      "whyWrongByChoice": {
+        "A": "c-ANCA targeting PR3 is characteristic of GPA, not EGPA.",
+        "B": "Atypical ANCA targeting elastase is not a recognized vasculitis finding.",
+        "C": "c-ANCA (cytoplasmic pattern) targeting MPO is not a recognized combination. MPO produces a perinuclear pattern.",
+        "D": "p-ANCA targeting PR3 is not a recognized combination. PR3 produces a cytoplasmic pattern."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["EGPA", "p-ANCA", "MPO", "vasculitis"]
+  },
+  {
+    "id": "r19-040",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 60-year-old woman with a 25-year history of rheumatoid arthritis presents with progressive hoarseness and inspiratory stridor for 3 months. She has bilateral hand deformities consistent with advanced RA. Direct laryngoscopy reveals bilateral swelling and fixation of the cricoarytenoid joints with restricted vocal cord abduction. Which of the following best explains this finding?",
+    "choices": [
+      {"label": "A", "text": "Recurrent laryngeal nerve compression"},
+      {"label": "B", "text": "Laryngeal squamous cell carcinoma"},
+      {"label": "C", "text": "Cricoarytenoid arthritis from RA"},
+      {"label": "D", "text": "Benign vocal cord polyp"},
+      {"label": "E", "text": "Granulomatous laryngeal infiltration"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "RA can affect the cricoarytenoid joints, which are true synovial joints. Cricoarytenoid arthritis causes hoarseness, stridor, and potential airway obstruction.",
+      "whyCorrect": "The cricoarytenoid joints are synovial joints susceptible to the same inflammatory arthritis affecting peripheral joints in RA. Inflammation causes swelling and fixation, leading to vocal cord immobility, hoarseness, and stridor.",
+      "whyWrongByChoice": {
+        "A": "Recurrent laryngeal nerve compression causes vocal cord paralysis but not joint swelling and fixation on laryngoscopy.",
+        "B": "Laryngeal carcinoma would show a mass lesion, not bilateral joint swelling and fixation.",
+        "D": "Vocal cord polyps are localized mucosal lesions, not joint inflammation.",
+        "E": "Granulomatous laryngeal infiltration occurs in GPA or sarcoidosis, not RA."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["rheumatoid-arthritis", "cricoarytenoid", "hoarseness", "extra-articular"]
+  },
+  {
+    "id": "r19-041",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 38-year-old woman with SLE and confirmed antiphospholipid antibody syndrome presents with sudden-onset dyspnea, right-sided pleuritic chest pain, and tachycardia. Heart rate is 112/min, respiratory rate 24/min, and oxygen saturation 89% on room air. CT pulmonary angiography shows a filling defect in the right main pulmonary artery. D-dimer is markedly elevated. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Acute lupus pneumonitis"},
+      {"label": "B", "text": "Lupus pleuritis with effusion"},
+      {"label": "C", "text": "Diffuse alveolar hemorrhage"},
+      {"label": "D", "text": "Pulmonary thromboembolism"},
+      {"label": "E", "text": "Shrinking lung syndrome"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "SLE patients with antiphospholipid antibody syndrome are at significantly increased risk for thromboembolic events. A filling defect on CTPA confirms pulmonary embolism.",
+      "whyCorrect": "Antiphospholipid antibody syndrome creates a hypercoagulable state, placing SLE patients at high risk for PE. The acute presentation with dyspnea, tachycardia, hypoxemia, and CTPA filling defect confirms the diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Lupus pneumonitis presents with diffuse infiltrates, not an arterial filling defect.",
+        "B": "Lupus pleuritis causes pleuritic pain and effusion but not a pulmonary arterial filling defect.",
+        "C": "Diffuse alveolar hemorrhage presents with hemoptysis and bilateral infiltrates, not an arterial filling defect.",
+        "E": "Shrinking lung syndrome causes progressive dyspnea with elevated diaphragms, not acute onset."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["SLE", "antiphospholipid", "pulmonary-embolism", "thrombosis"]
+  },
+  {
+    "id": "r19-042",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 44-year-old woman with Sjögren syndrome undergoes HRCT for evaluation of progressive dyspnea. The scan shows diffuse bilateral ground-glass opacities with multiple thin-walled cysts scattered throughout the lung parenchyma. Open lung biopsy demonstrates dense lymphocytic infiltration of the alveolar septa with focal germinal center formation. Which interstitial lung disease pattern is most likely?",
+    "choices": [
+      {"label": "A", "text": "Usual interstitial pneumonia"},
+      {"label": "B", "text": "Desquamative interstitial pneumonia"},
+      {"label": "C", "text": "Nonspecific interstitial pneumonia"},
+      {"label": "D", "text": "Cryptogenic organizing pneumonia"},
+      {"label": "E", "text": "Lymphocytic interstitial pneumonia"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Lymphocytic interstitial pneumonia (LIP) is the most characteristic ILD associated with Sjögren syndrome. It shows ground-glass opacities with thin-walled cysts on HRCT and dense lymphocytic infiltration on biopsy.",
+      "whyCorrect": "LIP is the most characteristic ILD pattern in Sjögren syndrome. HRCT shows ground-glass opacities with thin-walled cysts. Biopsy confirms dense lymphocytic infiltration of the alveolar septa.",
+      "whyWrongByChoice": {
+        "A": "UIP shows honeycombing with peripheral basal predominance and fibroblast foci, not diffuse lymphocytic infiltration with cysts.",
+        "B": "DIP shows ground-glass opacities with macrophage-filled alveoli, associated with smoking, not lymphocytic infiltration.",
+        "C": "NSIP shows uniform ground-glass opacities without cysts and homogeneous inflammation, not dense lymphocytic infiltration with cysts.",
+        "D": "Organizing pneumonia shows patchy consolidation with granulation tissue plugs in airways, not thin-walled cysts."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["sjogren", "LIP", "lymphocytic-interstitial-pneumonia", "cysts"]
+  },
+  {
+    "id": "r19-043",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 50-year-old man with GPA has active disease with cavitary pulmonary nodules, bloody nasal discharge, and serum creatinine rising from 1.2 to 4.5 mg/dL over 2 weeks. Renal biopsy shows pauci-immune crescentic glomerulonephritis. c-ANCA and anti-PR3 are strongly positive. Which of the following is the most appropriate initial treatment regimen?",
+    "choices": [
+      {"label": "A", "text": "Methotrexate monotherapy"},
+      {"label": "B", "text": "Prednisone monotherapy"},
+      {"label": "C", "text": "Corticosteroids plus cyclophosphamide"},
+      {"label": "D", "text": "Azathioprine plus mycophenolate mofetil"},
+      {"label": "E", "text": "Plasmapheresis alone"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Active GPA with organ-threatening disease requires aggressive immunosuppression with corticosteroids combined with either cyclophosphamide or rituximab. Plasmapheresis may be added for severe renal disease.",
+      "whyCorrect": "Standard induction therapy for active GPA with major organ involvement is corticosteroids plus either cyclophosphamide or rituximab. This combination rapidly suppresses the autoimmune vasculitis and granulomatous tissue destruction.",
+      "whyWrongByChoice": {
+        "A": "Methotrexate is for limited, non-organ-threatening GPA and is insufficient for rapidly progressive disease.",
+        "B": "Prednisone alone is insufficient for severe GPA. A cytotoxic or biologic agent is required.",
+        "D": "Azathioprine and mycophenolate are maintenance agents after remission, not for induction.",
+        "E": "Plasmapheresis alone is insufficient. It may supplement standard therapy for severe renal disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["GPA", "treatment", "cyclophosphamide", "rituximab", "vasculitis"]
+  },
+  {
+    "id": "r19-044",
+    "topicId": "autoimmune-respiratory",
+    "topicName": "Autoimmune Diseases with Respiratory Manifestations",
+    "stem": "A 48-year-old man with EGPA initially responded well to prednisone 60 mg daily. However, when tapered to 10 mg daily, his eosinophilia and asthma symptoms recur. His physician adds an interleukin-5-blocking monoclonal antibody approved for EGPA treatment. Which of the following medications was most likely prescribed?",
+    "choices": [
+      {"label": "A", "text": "Omalizumab"},
+      {"label": "B", "text": "Infliximab"},
+      {"label": "C", "text": "Dupilumab"},
+      {"label": "D", "text": "Benralizumab"},
+      {"label": "E", "text": "Mepolizumab"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Mepolizumab is an anti-IL-5 monoclonal antibody approved for EGPA treatment. IL-5 is the key cytokine driving eosinophil production, making mepolizumab effective in controlling eosinophilia and reducing relapse.",
+      "whyCorrect": "Mepolizumab binds IL-5, preventing eosinophil activation. It is specifically approved for EGPA, helping reduce eosinophilia, control symptoms, and allow corticosteroid dose reduction.",
+      "whyWrongByChoice": {
+        "A": "Omalizumab is an anti-IgE antibody for allergic asthma, not an IL-5 blocker.",
+        "B": "Infliximab is an anti-TNF-alpha antibody used for inflammatory conditions, not EGPA.",
+        "C": "Dupilumab blocks IL-4 and IL-13 for atopic dermatitis, not IL-5.",
+        "D": "Benralizumab targets the IL-5 receptor alpha for eosinophilic asthma but is not specifically approved for EGPA."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["EGPA", "mepolizumab", "IL-5", "treatment", "biologic"]
+  }
+]

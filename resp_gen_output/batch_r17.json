@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r17-001",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 58-year-old woman presents with a 6-month history of progressive exertional dyspnea and dry cough. She has no occupational exposures and no connective tissue disease. Physical examination reveals bilateral fine inspiratory crackles at the lung bases and an oxygen saturation of 91% on room air. Chest x-ray shows bilateral reticular opacities predominantly at the bases. Pulmonary function testing is performed. Which of the following patterns is most likely?",
+    "choices": [
+      {"label": "A", "text": "Decreased FEV1/FVC with increased TLC"},
+      {"label": "B", "text": "Increased FVC with decreased FEV1"},
+      {"label": "C", "text": "Decreased FEV1 with increased residual volume"},
+      {"label": "D", "text": "Decreased FVC with normal FEV1/FVC ratio"},
+      {"label": "E", "text": "Normal spirometry with isolated DLCO decrease"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Interstitial lung disease produces a restrictive pattern on pulmonary function testing. Fibrosis reduces lung compliance, decreasing FVC and TLC. Because FEV1 and FVC decline proportionally, the FEV1/FVC ratio remains normal or is slightly elevated.",
+      "whyCorrect": "ILD causes fibrosis that stiffens the lung parenchyma, reducing its ability to expand. This leads to decreased lung volumes (FVC, TLC, RV). Since both FEV1 and FVC decrease proportionally, the FEV1/FVC ratio is preserved or increased, which distinguishes restrictive from obstructive disease.",
+      "whyWrongByChoice": {
+        "A": "A decreased FEV1/FVC ratio with increased TLC is characteristic of obstructive lung diseases such as COPD or asthma, in which air trapping occurs. ILD produces the opposite pattern.",
+        "B": "An increased FVC is not seen in ILD. The fibrosed lung cannot fully expand, which reduces rather than increases FVC.",
+        "C": "A decreased FEV1 with increased residual volume suggests air trapping from obstructive disease. In ILD, residual volume decreases due to reduced lung compliance.",
+        "E": "While DLCO is decreased in ILD, spirometry also shows a restrictive pattern. An isolated DLCO decrease with normal spirometry is more consistent with early pulmonary vascular disease."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "restrictive-lung-disease", "pulmonary-function-tests", "spirometry"]
+  },
+  {
+    "id": "r17-002",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 64-year-old man with a history of Hodgkin lymphoma treated with ABVD chemotherapy 8 months ago presents with progressive dyspnea and nonproductive cough. He is afebrile with a respiratory rate of 20/min. Chest x-ray reveals bilateral reticular infiltrates, and pulmonary function tests show a restrictive pattern with reduced DLCO. Which component of his chemotherapy regimen is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Adriamycin"},
+      {"label": "B", "text": "Bleomycin"},
+      {"label": "C", "text": "Vinblastine"},
+      {"label": "D", "text": "Dacarbazine"},
+      {"label": "E", "text": "Prednisone"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Bleomycin is the most common chemotherapeutic agent associated with drug-induced interstitial lung disease. It causes direct cytotoxic injury to the pulmonary epithelium, leading to inflammation and progressive fibrosis.",
+      "whyCorrect": "Bleomycin generates free radicals that damage pulmonary epithelial cells and the underlying basement membrane. The lung is particularly susceptible because it lacks the enzyme bleomycin hydrolase that inactivates the drug in other tissues. This leads to diffuse alveolar damage, interstitial inflammation, and fibrosis.",
+      "whyWrongByChoice": {
+        "A": "Adriamycin (doxorubicin) is primarily associated with dose-dependent cardiotoxicity (dilated cardiomyopathy), not interstitial lung disease.",
+        "C": "Vinblastine is a vinca alkaloid that causes myelosuppression and peripheral neuropathy. It is not a well-known cause of pulmonary fibrosis.",
+        "D": "Dacarbazine is an alkylating agent associated with hepatotoxicity and myelosuppression, not pulmonary fibrosis.",
+        "E": "Prednisone is a corticosteroid that is actually used to treat ILD. It does not cause pulmonary fibrosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "drug-induced", "bleomycin", "chemotherapy"]
+  },
+  {
+    "id": "r17-003",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 70-year-old man with progressive dyspnea and chronic dry cough undergoes high-resolution CT of the chest. He has a 25-pack-year smoking history and oxygen saturation of 88% on room air. The scan reveals thick-walled cystic airspaces predominantly in the lower lobes bilaterally, producing a characteristic pattern. This finding is most closely associated with which of the following?",
+    "choices": [
+      {"label": "A", "text": "Early-stage reversible inflammation"},
+      {"label": "B", "text": "Active pulmonary infection"},
+      {"label": "C", "text": "End-stage fibrosis with poor prognosis"},
+      {"label": "D", "text": "Reversible obstructive bronchospasm"},
+      {"label": "E", "text": "Cavitary neoplastic process"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Honeycombing on HRCT represents cystically dilated airspaces with thick, fibrotic walls. It is the hallmark of end-stage interstitial lung disease and indicates irreversible fibrosis with a poor prognosis.",
+      "whyCorrect": "Honeycombing appears as clusters of thick-walled cystic spaces, usually 3-10 mm in diameter, in a subpleural distribution. It reflects destruction of normal alveolar architecture and replacement by fibrotic tissue. Its presence signifies advanced, irreversible disease and correlates with poor survival.",
+      "whyWrongByChoice": {
+        "A": "Honeycombing is a late finding of established fibrosis, not an acute or early process. It is associated with a poor rather than good prognosis.",
+        "B": "Honeycombing represents structural remodeling from chronic fibrosis, not an active infectious process. The thick-walled cysts are not abscess cavities.",
+        "D": "Bronchospasm is a feature of obstructive disease. Honeycombing reflects irreversible structural changes of restrictive disease and would not respond to bronchodilators.",
+        "E": "Honeycombing produces multiple small cystic spaces rather than a solitary cavitary mass. It is a diffuse fibrotic process, not a neoplastic one."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "honeycombing", "HRCT", "prognosis"]
+  },
+  {
+    "id": "r17-004",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 55-year-old woman with systemic sclerosis and Raynaud phenomenon presents with worsening dyspnea over 6 months. Pulmonary function tests show decreased FVC, decreased TLC, and reduced DLCO. Arterial blood gas analysis reveals a pH of 7.47 and PaCO2 of 32 mmHg. Her oxygen saturation is 90% on room air. Which of the following best explains her arterial blood gas findings?",
+    "choices": [
+      {"label": "A", "text": "Hypoventilation from muscle weakness"},
+      {"label": "B", "text": "Metabolic alkalosis from diuretic use"},
+      {"label": "C", "text": "V/Q mismatch causing CO2 retention"},
+      {"label": "D", "text": "Impaired CO2 diffusion across alveoli"},
+      {"label": "E", "text": "Compensatory hyperventilation from hypoxemia"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Interstitial lung disease causes hypoxemia from impaired gas exchange across fibrosed alveoli. The resulting hypoxemia stimulates peripheral chemoreceptors, triggering compensatory hyperventilation that blows off CO2, producing respiratory alkalosis.",
+      "whyCorrect": "ILD impairs oxygen transfer across the thickened alveolar-capillary membrane, causing hypoxemia. Peripheral chemoreceptors in the carotid and aortic bodies sense the low PaO2 and stimulate increased ventilation. The resulting hyperventilation lowers PaCO2 below normal, causing the elevated pH (respiratory alkalosis) seen in this patient.",
+      "whyWrongByChoice": {
+        "A": "Hypoventilation would lead to CO2 retention (respiratory acidosis) with a low pH, not alkalosis. This patient has a low PaCO2, indicating hyperventilation.",
+        "B": "Metabolic alkalosis would present with elevated bicarbonate as the primary disturbance. This patient's alkalosis is respiratory (low PaCO2), not metabolic.",
+        "C": "While V/Q mismatch occurs in ILD, it primarily impairs oxygen exchange. CO2 is much more diffusible than O2, so CO2 retention does not typically occur unless ILD is extremely advanced.",
+        "D": "CO2 diffuses approximately 20 times more readily than O2 across the alveolar membrane. Even with significant fibrosis, CO2 elimination is maintained; the alkalosis is from hyperventilation, not impaired CO2 diffusion."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "respiratory-alkalosis", "blood-gas", "hypoxemia"]
+  },
+  {
+    "id": "r17-005",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 48-year-old man who works in a sandblasting facility presents with progressive dyspnea over 2 years. He has no history of smoking or autoimmune disease. Physical examination reveals bibasilar crackles and oxygen saturation of 93%. Chest imaging shows bilateral upper-lobe predominant nodular opacities, and pulmonary function tests show a restrictive pattern. Which of the following is the most likely etiology?",
+    "choices": [
+      {"label": "A", "text": "Idiopathic pulmonary fibrosis"},
+      {"label": "B", "text": "Drug-induced lung toxicity"},
+      {"label": "C", "text": "Pneumoconiosis from silica exposure"},
+      {"label": "D", "text": "Sarcoidosis with granulomas"},
+      {"label": "E", "text": "Rheumatoid arthritis-associated ILD"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This patient's occupational exposure to silica dust from sandblasting makes pneumoconiosis (specifically silicosis) the most likely cause. Pneumoconioses are a category of secondary ILD caused by inhalation of occupational dusts and toxins.",
+      "whyCorrect": "Silicosis is a form of pneumoconiosis caused by chronic inhalation of crystalline silica dust, common in sandblasting workers. It classically presents with upper-lobe nodular opacities and a restrictive pattern on PFTs. The occupational exposure history is the key diagnostic clue.",
+      "whyWrongByChoice": {
+        "A": "IPF is idiopathic by definition and typically presents with basilar predominant disease, not upper-lobe nodular opacities. The clear occupational exposure history points to a secondary cause.",
+        "B": "There is no medication history suggesting drug-induced lung toxicity. The occupational exposure to silica is a much more likely etiology.",
+        "D": "Sarcoidosis can produce upper-lobe nodular disease and is a reasonable differential, but the strong occupational exposure to silica dust in a sandblasting worker makes pneumoconiosis more likely.",
+        "E": "Rheumatoid arthritis-associated ILD would present with joint symptoms and serologic findings of RA. There is no mention of joint disease or autoimmune findings."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "pneumoconiosis", "silicosis", "occupational-exposure"]
+  },
+  {
+    "id": "r17-006",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 60-year-old man with a 5-year history of progressive dyspnea undergoes evaluation for suspected interstitial lung disease. Physical examination reveals fine bibasilar crackles and digital clubbing. Oxygen saturation is 89% on room air. Chest x-ray shows bibasilar reticular opacities. Which of the following best describes the mechanism producing the crackles?",
+    "choices": [
+      {"label": "A", "text": "Opening of stiffened small airways"},
+      {"label": "B", "text": "Pleural fluid causing friction"},
+      {"label": "C", "text": "Bronchospasm with turbulent airflow"},
+      {"label": "D", "text": "Mucus plugging in large bronchi"},
+      {"label": "E", "text": "Upper airway tissue vibration"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The fine bibasilar crackles in ILD are produced by the sudden opening of stiffened, collapsed small airways and alveoli during inspiration. Fibrosis reduces lung compliance, causing small airways to close during expiration and snap open during the next inspiration.",
+      "whyCorrect": "In ILD, fibrosis reduces lung compliance, causing small airways and alveoli to collapse during expiration. During inspiration, these stiffened airways pop open, producing the characteristic fine inspiratory crackles. The bibasilar predominance reflects gravity-dependent closure in the lower lung zones.",
+      "whyWrongByChoice": {
+        "B": "Pleural fluid causes a friction rub, not crackles. A pleural effusion would present with decreased breath sounds and dullness to percussion, not the fine crackles heard in ILD.",
+        "C": "Bronchospasm produces wheezing, a continuous musical sound, not the discontinuous popping sounds of crackles. Wheezing is characteristic of obstructive, not restrictive, disease.",
+        "D": "Mucus plugging in large bronchi produces coarse crackles or rhonchi, not the fine bibasilar crackles characteristic of ILD. ILD typically presents with a dry cough, not productive secretions.",
+        "E": "Vibration of loose upper airway tissue produces stridor or snoring, not fine inspiratory crackles. Upper airway sounds are loudest over the neck, not at the lung bases."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "physical-exam", "crackles", "auscultation"]
+  },
+  {
+    "id": "r17-007",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 72-year-old man with idiopathic pulmonary fibrosis is found to have advanced digital clubbing. His respiratory rate is 22/min, and oxygen saturation is 85% on room air. Chest HRCT shows extensive basilar honeycombing with traction bronchiectasis. Which of the following laboratory findings would also be expected?",
+    "choices": [
+      {"label": "A", "text": "Elevated PaCO2 on blood gas"},
+      {"label": "B", "text": "Positive anti-dsDNA antibodies"},
+      {"label": "C", "text": "Polycythemia on complete blood count"},
+      {"label": "D", "text": "Reduced DLCO on pulmonary function testing"},
+      {"label": "E", "text": "FEV1/FVC ratio exceeding 0.95"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Reduced DLCO is a hallmark of ILD. Fibrosis thickens the alveolar-capillary membrane and destroys capillary beds, impairing gas diffusion. DLCO is one of the most sensitive tests for detecting ILD and correlates with disease severity.",
+      "whyCorrect": "In ILD, the DLCO is reduced due to both thickening of the alveolar-capillary membrane (which impedes diffusion) and loss of pulmonary capillary bed surface area from fibrosis. DLCO is consistently decreased in ILD and is expected in a patient with advanced disease showing clubbing.",
+      "whyWrongByChoice": {
+        "A": "CO2 is highly diffusible and is efficiently eliminated even with significant membrane thickening. Most ILD patients have normal or low PaCO2 (from compensatory hyperventilation). Elevated PaCO2 occurs only in very advanced disease.",
+        "B": "Anti-dsDNA antibodies are specific for systemic lupus erythematosus. This patient has idiopathic pulmonary fibrosis, which by definition has no identifiable autoimmune cause.",
+        "C": "Although chronic hypoxemia can stimulate erythropoietin production, polycythemia is not a consistent or expected finding in ILD. Many patients have comorbidities that prevent this compensatory response.",
+        "E": "While FEV1/FVC ratio may be normal or slightly elevated in ILD, a ratio above 0.95 is not a consistent or expected finding. The decreased DLCO is a far more reliable marker."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "DLCO", "clubbing", "pulmonary-function-tests"]
+  },
+  {
+    "id": "r17-008",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 45-year-old woman with rheumatoid arthritis treated with methotrexate for 3 years presents with new-onset dyspnea and dry cough over 2 months. Her temperature is 37.0°C, and oxygen saturation is 93%. Chest x-ray shows diffuse bilateral reticular infiltrates. Her rheumatoid arthritis has been well controlled on current therapy. Which of the following is the most appropriate initial step?",
+    "choices": [
+      {"label": "A", "text": "Increase methotrexate dose"},
+      {"label": "B", "text": "Add inhaled corticosteroids"},
+      {"label": "C", "text": "Start empiric antibiotics for pneumonia"},
+      {"label": "D", "text": "Obtain high-resolution chest CT"},
+      {"label": "E", "text": "Perform emergent thoracotomy"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This patient has two potential causes of ILD: rheumatoid arthritis and methotrexate. High-resolution CT is the best next step to characterize the extent and pattern of lung disease, which helps distinguish drug-induced ILD from RA-associated ILD and guides further management.",
+      "whyCorrect": "HRCT provides detailed imaging of the lung parenchyma and can identify the distribution and pattern of disease (ground-glass opacities, honeycombing, fibrosis). It is the most useful diagnostic tool for evaluating suspected ILD after an abnormal chest x-ray, and the pattern can help differentiate between drug-induced and autoimmune etiologies.",
+      "whyWrongByChoice": {
+        "A": "Increasing methotrexate would be contraindicated if methotrexate is the cause of the ILD. The drug itself is a known cause of interstitial lung disease and should be evaluated as a potential culprit.",
+        "B": "Inhaled corticosteroids are used for airway diseases such as asthma. ILD involves the parenchyma and interstitium, and if corticosteroids are indicated, systemic formulations would be used.",
+        "C": "The 2-month insidious course with dry cough and bilateral reticular infiltrates is more consistent with ILD than acute pneumonia. Empiric antibiotics are not the most appropriate initial step.",
+        "E": "Emergent thoracotomy is an invasive surgical procedure that is not warranted as an initial step. The patient is stable and requires diagnostic imaging first."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "methotrexate", "rheumatoid-arthritis", "HRCT", "diagnosis"]
+  },
+  {
+    "id": "r17-009",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 66-year-old woman with interstitial lung disease undergoes arterial blood gas analysis, which shows pH 7.46, PaCO2 33 mmHg, PaO2 62 mmHg, and HCO3 22 mEq/L. During a 6-minute walk test, her oxygen saturation drops from 92% to 82%. Her respiratory rate increases from 18 to 32/min with exertion. Which of the following best explains the exercise-induced desaturation?",
+    "choices": [
+      {"label": "A", "text": "Reduced capillary transit time across fibrotic areas"},
+      {"label": "B", "text": "Acute bronchoconstriction during exercise"},
+      {"label": "C", "text": "Arteriovenous shunting opening during exercise"},
+      {"label": "D", "text": "Respiratory muscle fatigue causing hypoventilation"},
+      {"label": "E", "text": "Increased dead space ventilation with exercise"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In ILD, the thickened alveolar-capillary membrane slows oxygen diffusion. At rest, there is usually enough time for equilibration. During exercise, increased cardiac output shortens the capillary transit time, so blood passes through the fibrotic areas too quickly for adequate oxygenation.",
+      "whyCorrect": "At rest, blood spends approximately 0.75 seconds in the pulmonary capillary, and oxygen equilibration normally occurs within 0.25 seconds. In ILD, diffusion is slowed by the thickened membrane, but equilibration may still be achieved at rest. During exercise, increased cardiac output reduces transit time, and the already impaired diffusion cannot compensate, leading to worsening hypoxemia.",
+      "whyWrongByChoice": {
+        "B": "Bronchoconstriction is a feature of obstructive diseases like asthma. ILD is a restrictive disease, and exercise-induced desaturation is due to diffusion limitation, not airway narrowing.",
+        "C": "Pulmonary arteriovenous malformations can cause shunting, but this is not a typical feature of ILD. The desaturation in ILD is due to diffusion impairment across the fibrosed membrane.",
+        "D": "Respiratory muscle fatigue causing hypoventilation would increase PaCO2. The patient's blood gas shows a low PaCO2, indicating hyperventilation rather than hypoventilation.",
+        "E": "Dead space ventilation impairs CO2 elimination, not oxygen uptake. The exercise-induced desaturation in ILD is primarily a diffusion limitation problem."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["ILD", "exercise", "diffusion-limitation", "hypoxemia"]
+  },
+  {
+    "id": "r17-010",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 52-year-old woman with progressive systemic sclerosis develops progressive dyspnea over 4 months. Her examination shows sclerodactyly and bibasilar crackles. HRCT of the chest shows bilateral ground-glass opacities with areas of fibrosis. Bronchoalveolar lavage is performed. Which of the following is the primary purpose of BAL in this patient?",
+    "choices": [
+      {"label": "A", "text": "Deliver antifibrotic medication locally"},
+      {"label": "B", "text": "Relieve airway obstruction from secretions"},
+      {"label": "C", "text": "Determine cause and exclude other diagnoses"},
+      {"label": "D", "text": "Obtain cultures for bacterial pneumonia"},
+      {"label": "E", "text": "Measure lung volumes more accurately"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Bronchoalveolar lavage in ILD is used to analyze cells and fluid from the distal airways to help determine the underlying cause of the disease and to exclude other conditions (such as infection or malignancy) that can mimic ILD on imaging.",
+      "whyCorrect": "BAL collects a sample of cells and fluid from the distal bronchioles and alveoli. Analysis of the cellular composition (lymphocytes, neutrophils, eosinophils) can suggest certain etiologies. BAL also helps rule out other diagnoses such as infection, malignancy, or hemorrhage that may appear similar to ILD on chest imaging.",
+      "whyWrongByChoice": {
+        "A": "BAL is a diagnostic procedure, not a therapeutic one. Antifibrotic medications for ILD are given systemically (e.g., pirfenidone, nintedanib), not via BAL.",
+        "B": "BAL involves instilling and aspirating saline to collect cells for analysis. It is not a therapeutic procedure for clearing airway secretions, which would be done with bronchoscopic suctioning.",
+        "D": "While BAL fluid can be cultured, the primary purpose in a patient with known ILD and ground-glass opacities is to characterize the inflammatory pattern and exclude mimics, not to specifically diagnose bacterial pneumonia.",
+        "E": "BAL does not measure lung volumes. Lung volumes are measured by spirometry, plethysmography, or helium dilution techniques."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "bronchoalveolar-lavage", "diagnosis", "systemic-sclerosis"]
+  },
+  {
+    "id": "r17-011",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 68-year-old man is evaluated for progressive dyspnea over 2 years. He has a 40-pack-year smoking history and no known occupational exposures. Physical exam shows bilateral basal crackles and finger clubbing. HRCT shows subpleural honeycombing and traction bronchiectasis in the lower lobes. Serologic studies for autoimmune disease are all negative. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Sarcoidosis with pulmonary involvement"},
+      {"label": "B", "text": "Hypersensitivity pneumonitis"},
+      {"label": "C", "text": "Asbestosis from occupational exposure"},
+      {"label": "D", "text": "Lupus-associated interstitial lung disease"},
+      {"label": "E", "text": "Idiopathic pulmonary fibrosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The combination of progressive dyspnea in an older male smoker, bibasilar crackles, clubbing, subpleural honeycombing with traction bronchiectasis on HRCT, and negative autoimmune serologies is the classic presentation of idiopathic pulmonary fibrosis.",
+      "whyCorrect": "IPF is the most common idiopathic interstitial pneumonia. It typically affects men over 60 with a smoking history. The usual interstitial pneumonia (UIP) pattern on HRCT, characterized by subpleural, basilar-predominant honeycombing and traction bronchiectasis, is diagnostic when autoimmune and secondary causes are excluded.",
+      "whyWrongByChoice": {
+        "A": "Sarcoidosis typically presents in younger patients with hilar lymphadenopathy and upper-lobe predominant disease. Subpleural honeycombing is not a typical feature of sarcoidosis.",
+        "B": "Hypersensitivity pneumonitis requires a history of antigen exposure. It often shows upper or mid-lung predominance and air trapping on HRCT, unlike the basilar honeycombing pattern seen here.",
+        "C": "Asbestosis requires a history of asbestos exposure, which this patient lacks. While it can produce lower-lobe fibrosis and pleural plaques, the absence of occupational exposure makes this unlikely.",
+        "D": "Lupus-associated ILD would present with positive autoimmune serologies (e.g., anti-dsDNA, ANA) and often other systemic manifestations such as malar rash or joint disease. Serologies are negative in this patient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "IPF", "HRCT", "honeycombing", "diagnosis"]
+  },
+  {
+    "id": "r17-012",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 50-year-old man with interstitial lung disease is evaluated with pulmonary function tests. Results show TLC 55% predicted, FVC 60% predicted, FEV1 65% predicted, FEV1/FVC 85%, and DLCO 40% predicted. His physician notes the DLCO is disproportionately low relative to the volume reduction. Which of the following best explains this finding?",
+    "choices": [
+      {"label": "A", "text": "Concurrent anemia reducing hemoglobin binding"},
+      {"label": "B", "text": "Capillary destruction plus membrane thickening"},
+      {"label": "C", "text": "Increased pulmonary blood flow compensation"},
+      {"label": "D", "text": "Air trapping causing uneven ventilation"},
+      {"label": "E", "text": "Mucus obstruction preventing CO delivery"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In ILD, DLCO is reduced by two mechanisms: thickening of the alveolar-capillary membrane impedes gas diffusion, and fibrosis destroys pulmonary capillaries, reducing the vascular surface area available for gas exchange. These combined effects often reduce DLCO more than lung volumes alone would predict.",
+      "whyCorrect": "The DLCO depends on both the membrane diffusing capacity and the pulmonary capillary blood volume. In ILD, fibrosis thickens the membrane and obliterates capillaries. The combined effect of increased diffusion distance and decreased capillary surface area produces a DLCO reduction that is disproportionate to the volume loss alone.",
+      "whyWrongByChoice": {
+        "A": "While anemia can reduce DLCO, it is not a feature of ILD itself. There is no information suggesting this patient is anemic, and the question asks about ILD-related mechanisms.",
+        "C": "Increased pulmonary blood flow would actually tend to increase DLCO (as seen in exercise or left-to-right shunts). It would not explain a disproportionately low DLCO.",
+        "D": "Air trapping is a feature of obstructive lung disease, not the restrictive pattern seen in this patient. The TLC is reduced, not increased.",
+        "E": "Mucus obstruction is characteristic of obstructive airway diseases like chronic bronchitis. ILD affects the interstitium, not the airways, and patients typically have a dry cough."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["ILD", "DLCO", "pathophysiology", "pulmonary-function-tests"]
+  },
+  {
+    "id": "r17-013",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 55-year-old woman presents with progressive dyspnea, Raynaud phenomenon, and thickened skin on her fingers. Her ANA is positive at a titer of 1:640 with a nucleolar pattern. Chest imaging reveals bibasilar reticular opacities, and pulmonary function tests show a restrictive pattern. Which systemic disease is most likely causing her interstitial lung disease?",
+    "choices": [
+      {"label": "A", "text": "Progressive systemic sclerosis"},
+      {"label": "B", "text": "Rheumatoid arthritis"},
+      {"label": "C", "text": "Systemic lupus erythematosus"},
+      {"label": "D", "text": "Sarcoidosis with skin involvement"},
+      {"label": "E", "text": "Dermatomyositis"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "The combination of Raynaud phenomenon and cutaneous thickening (sclerodactyly) in a patient with ILD is characteristic of progressive systemic sclerosis (scleroderma). ILD is the leading cause of death in systemic sclerosis.",
+      "whyCorrect": "Progressive systemic sclerosis causes fibrosis of skin and internal organs. Raynaud phenomenon and sclerodactyly (thickened skin on fingers) are hallmark features. Pulmonary involvement with ILD occurs in up to 80% of patients and is the leading cause of morbidity and mortality in this disease.",
+      "whyWrongByChoice": {
+        "B": "Rheumatoid arthritis can cause ILD but presents with symmetric joint inflammation, subcutaneous nodules, and morning stiffness, not Raynaud phenomenon with skin thickening.",
+        "C": "SLE can cause ILD and Raynaud phenomenon but typically presents with malar rash, photosensitivity, and serositis rather than skin thickening. Lupus ILD is less common than in scleroderma.",
+        "D": "Sarcoidosis causes noncaseating granulomas and presents with hilar lymphadenopathy, erythema nodosum, and uveitis, not Raynaud phenomenon or skin thickening.",
+        "E": "Dermatomyositis can cause ILD and presents with proximal muscle weakness and characteristic skin findings (heliotrope rash, Gottron papules), not Raynaud phenomenon with skin thickening."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "systemic-sclerosis", "Raynaud", "autoimmune"]
+  },
+  {
+    "id": "r17-014",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 63-year-old man with known interstitial lung disease presents with increasing cyanosis over 3 months. Physical examination reveals oxygen saturation of 85% on room air and prominent clubbing of the fingers. His nail beds are dusky, and capillary refill is delayed to 4 seconds. Which of the following best explains the pathogenesis of his digital clubbing?",
+    "choices": [
+      {"label": "A", "text": "Venous congestion from right heart failure"},
+      {"label": "B", "text": "Peripheral vasospasm from cold exposure"},
+      {"label": "C", "text": "Chronic tissue hypoxia stimulating growth factors"},
+      {"label": "D", "text": "Calcium deposition around the nail bed"},
+      {"label": "E", "text": "Bacterial infection of the nail matrix"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Digital clubbing in ILD is caused by chronic hypoxia that promotes the release of growth factors (including VEGF and PDGF) which stimulate connective tissue proliferation and vascular changes in the distal phalanges.",
+      "whyCorrect": "Chronic hypoxemia leads to increased levels of vascular endothelial growth factor (VEGF) and platelet-derived growth factor (PDGF) in the digital tissues. These factors promote connective tissue hypertrophy, increased vascularity, and edema in the distal phalanges, producing the characteristic bulbous enlargement of the fingertips.",
+      "whyWrongByChoice": {
+        "A": "While right heart failure can develop in advanced ILD (cor pulmonale), it produces peripheral edema and jugular venous distention, not clubbing. Clubbing is directly related to chronic hypoxia, not venous congestion.",
+        "B": "Peripheral vasospasm from cold exposure describes Raynaud phenomenon, which causes episodic color changes in the fingers. Clubbing is a persistent structural change caused by chronic hypoxia, not vasospasm.",
+        "D": "Calcium deposition (calcinosis) can occur in connective tissue diseases but produces hard subcutaneous nodules, not the soft tissue enlargement of the nail bed seen in clubbing.",
+        "E": "Paronychia (nail bed infection) causes localized inflammation and pain, not the bilateral, symmetric, painless soft tissue enlargement characteristic of clubbing."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "clubbing", "hypoxia", "pathogenesis"]
+  },
+  {
+    "id": "r17-015",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 57-year-old man with newly diagnosed interstitial lung disease undergoes a complete evaluation. His chest x-ray shows a bibasilar reticular pattern with some areas of confluence. HRCT is ordered to further characterize the disease. Oxygen saturation is 92% on room air. Which imaging finding would indicate the most advanced stage of disease?",
+    "choices": [
+      {"label": "A", "text": "Ground-glass opacities bilaterally"},
+      {"label": "B", "text": "Honeycombing with cystic airspaces"},
+      {"label": "C", "text": "Reticular infiltrates at lung bases"},
+      {"label": "D", "text": "Bilateral hilar lymphadenopathy"},
+      {"label": "E", "text": "Solitary peripheral pulmonary nodule"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Honeycombing represents the most advanced stage of interstitial lung disease. It consists of cystically dilated airspaces with thick fibrotic walls and indicates irreversible architectural destruction with poor prognosis.",
+      "whyCorrect": "Honeycombing develops when severe fibrosis destroys normal alveolar architecture, creating clusters of small cystic spaces lined by bronchiolar epithelium. It represents end-stage lung fibrosis and is associated with a significantly worse prognosis compared to other imaging findings in ILD.",
+      "whyWrongByChoice": {
+        "A": "Ground-glass opacities represent active alveolar inflammation or early fibrosis. They suggest potentially treatable disease and are not a sign of end-stage fibrosis.",
+        "C": "Reticular infiltrates indicate interstitial thickening and are common in ILD, but they represent an earlier stage than honeycombing and may be partially reversible.",
+        "D": "Hilar lymphadenopathy is more characteristic of sarcoidosis or lymphoma. It does not indicate end-stage fibrosis in ILD.",
+        "E": "A solitary pulmonary nodule suggests a localized process such as a neoplasm or granuloma. It is not a feature of diffuse interstitial lung disease progression."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "honeycombing", "imaging", "prognosis"]
+  },
+  {
+    "id": "r17-016",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 70-year-old woman with a 15-year history of rheumatoid arthritis presents with new dyspnea and dry cough over 3 months. Her medications include methotrexate and hydroxychloroquine. Chest imaging shows bilateral reticular opacities. Her physician considers both RA-associated ILD and drug-induced ILD. Which feature would most favor a drug-induced etiology?",
+    "choices": [
+      {"label": "A", "text": "Insidious onset over many years"},
+      {"label": "B", "text": "Presence of subcutaneous nodules"},
+      {"label": "C", "text": "Positive rheumatoid factor"},
+      {"label": "D", "text": "Recent medication initiation preceding symptoms"},
+      {"label": "E", "text": "Upper-lobe predominant disease pattern"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Drug-induced ILD typically develops during or shortly after treatment, usually within less than one year of starting the offending agent. A temporal relationship between starting a medication and developing respiratory symptoms is the strongest clue to a drug-induced etiology.",
+      "whyCorrect": "Drug-induced ILD characteristically develops within months of initiating the offending drug. Up to 40% of cases may be asymptomatic and discovered incidentally on imaging. The close temporal relationship between medication initiation and symptom onset is the most important clue distinguishing drug-induced ILD from autoimmune-associated ILD.",
+      "whyWrongByChoice": {
+        "A": "An insidious onset over many years is more consistent with the slow progression of autoimmune-associated ILD (e.g., RA-ILD) rather than a drug reaction, which typically develops more acutely.",
+        "B": "Subcutaneous nodules are a feature of rheumatoid arthritis and would support RA-associated ILD rather than a drug-induced process.",
+        "C": "Positive rheumatoid factor supports the diagnosis of rheumatoid arthritis and would favor RA-associated ILD over drug-induced disease.",
+        "E": "Upper-lobe predominant disease is not a typical distinguishing feature between drug-induced and RA-associated ILD. Both can show various distribution patterns."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["ILD", "drug-induced", "methotrexate", "rheumatoid-arthritis"]
+  },
+  {
+    "id": "r17-017",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 62-year-old man with atrial fibrillation has been taking amiodarone for 2 years. He presents with progressive dyspnea and dry cough over 3 months. His temperature is 37.1°C, and oxygen saturation is 91%. Chest x-ray shows bilateral reticular opacities. Which pathologic mechanism best explains amiodarone-induced ILD?",
+    "choices": [
+      {"label": "A", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "B", "text": "Direct cytotoxicity and immune-mediated inflammation"},
+      {"label": "C", "text": "Bronchial smooth muscle hyperreactivity"},
+      {"label": "D", "text": "Granuloma formation from drug crystals"},
+      {"label": "E", "text": "Coagulation cascade causing pulmonary emboli"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Amiodarone causes ILD through a combination of direct cytotoxic injury to alveolar epithelial cells and an immune-mediated inflammatory response. The drug accumulates in lysosomes, producing phospholipidosis and triggering inflammation that leads to fibrosis.",
+      "whyCorrect": "Amiodarone and its metabolite (desethylamiodarone) are directly toxic to pulmonary cells. The drug accumulates in lysosomes, causing phospholipidosis with characteristic lamellar inclusion bodies. Additionally, the drug triggers an immune-mediated inflammatory response with lymphocytic infiltration, contributing to progressive fibrosis.",
+      "whyWrongByChoice": {
+        "A": "Type I hypersensitivity involves IgE-mediated responses causing urticaria, anaphylaxis, or allergic asthma. Amiodarone toxicity involves direct cytotoxicity and cell-mediated inflammation, not IgE-mediated reactions.",
+        "C": "Bronchial smooth muscle hyperreactivity causes airway obstruction (as in asthma). Amiodarone toxicity affects the lung parenchyma and interstitium, producing restrictive rather than obstructive disease.",
+        "D": "While amiodarone does accumulate in tissues, it causes phospholipidosis in lysosomes, not crystal-induced granuloma formation. The pathology shows diffuse interstitial inflammation rather than discrete granulomas.",
+        "E": "Amiodarone does not cause ILD through the coagulation cascade. Pulmonary emboli produce vascular obstruction and infarction, not the diffuse interstitial pattern seen in amiodarone toxicity."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["ILD", "amiodarone", "drug-induced", "pathophysiology"]
+  },
+  {
+    "id": "r17-018",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 40-year-old woman presents with a 4-month history of dry cough, exertional dyspnea, and painful erythematous nodules on her shins. She has mild arthralgias and blurry vision. Chest x-ray reveals bilateral hilar lymphadenopathy with reticular parenchymal opacities. Which underlying condition is most likely responsible?",
+    "choices": [
+      {"label": "A", "text": "Idiopathic pulmonary fibrosis"},
+      {"label": "B", "text": "Silicosis from occupational dust"},
+      {"label": "C", "text": "Drug-induced interstitial lung disease"},
+      {"label": "D", "text": "Asbestosis from prior exposure"},
+      {"label": "E", "text": "Sarcoidosis with systemic involvement"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Sarcoidosis is a systemic granulomatous disease that commonly causes ILD. The triad of bilateral hilar lymphadenopathy, erythema nodosum, and pulmonary infiltrates in a young woman is classic for sarcoidosis.",
+      "whyCorrect": "Sarcoidosis causes noncaseating granulomas in multiple organs, especially the lungs. It commonly presents in younger patients (20-40 years) with bilateral hilar lymphadenopathy. Erythema nodosum (painful red nodules on the shins) is a characteristic extrapulmonary manifestation. These features combined are highly suggestive of sarcoidosis as the cause of ILD.",
+      "whyWrongByChoice": {
+        "A": "IPF typically affects older patients (>60 years), does not cause hilar lymphadenopathy, and does not present with skin lesions like erythema nodosum.",
+        "B": "Silicosis requires occupational silica exposure and presents with upper-lobe nodular disease and eggshell calcification of hilar lymph nodes, not erythema nodosum.",
+        "C": "Drug-induced ILD requires a relevant medication history and does not typically present with hilar lymphadenopathy and erythema nodosum.",
+        "D": "Asbestosis requires a history of asbestos exposure and typically presents with lower-lobe fibrosis and pleural plaques, not bilateral hilar lymphadenopathy."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "sarcoidosis", "erythema-nodosum", "hilar-lymphadenopathy"]
+  },
+  {
+    "id": "r17-019",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 58-year-old woman with interstitial lung disease has pulmonary function test results showing FVC 65% predicted, FEV1 70% predicted, TLC 60% predicted, and DLCO 35% predicted. Her physician explains the pathophysiologic basis of ILD to a medical student. Which of the following best describes the underlying mechanism?",
+    "choices": [
+      {"label": "A", "text": "Reversible airway inflammation with bronchospasm"},
+      {"label": "B", "text": "Loss of elastic recoil with air trapping"},
+      {"label": "C", "text": "Mucus hypersecretion obstructing small airways"},
+      {"label": "D", "text": "Persistent inflammation with excessive fibrosis"},
+      {"label": "E", "text": "Alveolar wall destruction without fibrosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The fundamental pathologic mechanism of ILD is persistent inflammation that leads to excessive fibrosis within the pulmonary interstitium. The fibrotic scar tissue replaces the normally elastic lung tissue, reducing compliance and impairing gas exchange.",
+      "whyCorrect": "In ILD, repetitive injury from various causes (toxins, autoimmune reactions, drugs) damages the respiratory epithelium and basement membrane. The inflammatory response attempts to repair the damage but results in excessive collagen deposition and fibrosis. This replaces elastic lung tissue with stiff scar tissue, reducing lung volumes (restrictive pattern) and impairing diffusion (reduced DLCO).",
+      "whyWrongByChoice": {
+        "A": "Reversible bronchospasm is the hallmark of asthma, an obstructive disease. ILD produces irreversible restrictive disease from fibrosis, not bronchospasm.",
+        "B": "Loss of elastic recoil with air trapping describes emphysema, an obstructive disease in which alveolar walls are destroyed. ILD involves increased stiffness (increased elastic recoil) from fibrosis, which is the opposite.",
+        "C": "Mucus hypersecretion is characteristic of chronic bronchitis, an obstructive disease. ILD patients typically present with a dry cough rather than productive cough.",
+        "E": "Destruction of alveolar walls without fibrosis describes emphysema. ILD is characterized by fibrosis and architectural distortion, not just destruction."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "pathophysiology", "fibrosis", "restrictive"]
+  },
+  {
+    "id": "r17-020",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 46-year-old man with polymyositis and proximal muscle weakness develops progressive dyspnea over 3 months. Chest CT shows bilateral ground-glass opacities. Serologic testing reveals a positive anti-Jo-1 antibody. His creatine kinase is elevated at 2,500 U/L. Which mechanism best explains how polymyositis causes his interstitial lung disease?",
+    "choices": [
+      {"label": "A", "text": "Systemic autoimmune inflammation targeting lung interstitium"},
+      {"label": "B", "text": "Direct viral invasion of pulmonary parenchyma"},
+      {"label": "C", "text": "Aspiration pneumonia from pharyngeal weakness"},
+      {"label": "D", "text": "Granulomatous reaction to foreign bodies"},
+      {"label": "E", "text": "Thrombotic occlusion of pulmonary arteries"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Polymyositis is a systemic inflammatory myopathy that can cause ILD through autoimmune-mediated inflammation of the lung interstitium. Anti-Jo-1 antibody (anti-histidyl-tRNA synthetase) is strongly associated with ILD in inflammatory myopathies.",
+      "whyCorrect": "Polymyositis is an autoimmune disease in which the immune system attacks skeletal muscle. The autoimmune inflammatory process can also target the lung interstitium, causing lymphocytic infiltration, alveolar inflammation, and progressive fibrosis. Anti-Jo-1 antibody positivity is associated with a higher risk of ILD in inflammatory myopathies.",
+      "whyWrongByChoice": {
+        "B": "Polymyositis is an autoimmune condition, not a viral infection. While viral infections have been proposed as triggers, the ILD itself is caused by autoimmune inflammation, not direct viral damage.",
+        "C": "While polymyositis can cause pharyngeal muscle weakness leading to aspiration, this would produce aspiration pneumonia, not the diffuse ground-glass opacities and interstitial pattern seen in this patient.",
+        "D": "Granulomatous inflammation from foreign body reaction is not a feature of polymyositis-associated ILD. Noncaseating granulomas are more characteristic of sarcoidosis.",
+        "E": "Thrombotic pulmonary arterial occlusion would cause pulmonary embolism, presenting with acute chest pain and V/Q mismatch, not the chronic bilateral ground-glass opacities seen here."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["ILD", "polymyositis", "autoimmune", "anti-Jo-1"]
+  },
+  {
+    "id": "r17-021",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 65-year-old man with ILD has followed a progressive decline in pulmonary function over 3 years. His latest PFTs show TLC 45% predicted and DLCO 25% predicted. He requires 4 L/min supplemental oxygen at rest. His physician discusses management options, noting the general approach to ILD treatment. Which of the following best describes this approach?",
+    "choices": [
+      {"label": "A", "text": "Symptom control and slowing disease progression"},
+      {"label": "B", "text": "Complete fibrosis reversal with immunosuppressants"},
+      {"label": "C", "text": "Curative resection of fibrotic tissue"},
+      {"label": "D", "text": "Empiric broad-spectrum antibiotic therapy"},
+      {"label": "E", "text": "Prolonged bronchodilator therapy restoring volumes"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Management of ILD generally focuses on symptom control and slowing the progression of the underlying disease. Existing fibrosis is largely irreversible, and treatment does little to reverse established scarring.",
+      "whyCorrect": "ILD management aims to slow progression, relieve symptoms, and maintain quality of life. This includes treating the underlying cause when possible, using anti-inflammatory or antifibrotic agents, supplemental oxygen for hypoxemia, and pulmonary rehabilitation. However, existing fibrosis cannot be reversed with current therapies.",
+      "whyWrongByChoice": {
+        "C": "Surgical resection of fibrotic tissue is not feasible because the disease is diffuse throughout both lungs. Lung transplantation may be considered in end-stage disease, but resection alone is not curative.",
+        "B": "Immunosuppressive therapy may slow progression in certain types of ILD (particularly autoimmune-associated), but it does not reverse established fibrosis. The scarring is permanent.",
+        "D": "Antibiotics are not indicated unless there is a concurrent infectious process. ILD is not an infectious disease and does not respond to antibiotic therapy.",
+        "E": "Bronchodilators target airway smooth muscle contraction in obstructive diseases. ILD is a restrictive disease caused by fibrosis, and bronchodilators cannot restore lung volumes lost to scarring."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "management", "prognosis", "fibrosis"]
+  },
+  {
+    "id": "r17-022",
+    "topicId": "ild-foundations",
+    "topicName": "Interstitial Lung Disease: Foundations",
+    "stem": "A 59-year-old man undergoes chest x-ray for evaluation of progressive dyspnea, which shows diffuse bilateral reticular opacities. His physician notes that up to 10% of chest x-rays in ILD may appear normal. A more detailed evaluation of the lung parenchyma is needed. Which imaging modality provides the best detailed evaluation?",
+    "choices": [
+      {"label": "A", "text": "Standard posteroanterior chest x-ray"},
+      {"label": "B", "text": "High-resolution CT of the chest"},
+      {"label": "C", "text": "Ventilation-perfusion lung scan"},
+      {"label": "D", "text": "Bedside chest ultrasonography"},
+      {"label": "E", "text": "PET-CT for metabolic activity"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "High-resolution CT (HRCT) is the gold standard imaging modality for evaluating ILD. It provides detailed visualization of lung parenchymal architecture, can show the extent and distribution of disease, and can identify specific patterns that suggest the underlying cause.",
+      "whyCorrect": "HRCT uses thin-section imaging (1-2 mm slices) to provide detailed visualization of the lung parenchyma. It can detect ground-glass opacities, reticular changes, honeycombing, and traction bronchiectasis with much greater sensitivity than chest x-ray. The pattern and distribution of abnormalities can help narrow the differential diagnosis.",
+      "whyWrongByChoice": {
+        "A": "While chest x-ray is the initial screening test, it has limited sensitivity (up to 10% may be normal in ILD) and cannot characterize the pattern and extent of disease as well as HRCT.",
+        "C": "Ventilation-perfusion scans are used to evaluate for pulmonary embolism by assessing V/Q mismatch. They do not provide detailed structural information about the lung interstitium.",
+        "D": "Chest ultrasonography is useful for detecting pleural effusions and guiding procedures but cannot adequately visualize the lung parenchyma deep to the pleural surface.",
+        "E": "PET-CT is primarily used for oncologic staging and detecting metabolically active lesions. It does not provide the high-resolution parenchymal detail needed to characterize ILD patterns."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["ILD", "HRCT", "imaging", "diagnosis"]
+  },
+  {
+    "id": "r17-023",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 35-year-old man who works on a dairy farm presents with recurrent episodes of fever, cough, and dyspnea that occur 4-6 hours after working in the barn. His temperature is 38.3°C during an episode, and lung examination reveals diffuse fine crackles bilaterally. Symptoms resolve within 24-48 hours when away from work. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Occupational asthma"},
+      {"label": "B", "text": "Silicosis from dust inhalation"},
+      {"label": "C", "text": "Community-acquired bacterial pneumonia"},
+      {"label": "D", "text": "Farmer's lung from moldy hay"},
+      {"label": "E", "text": "Allergic bronchopulmonary aspergillosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Farmer's lung is a form of acute hypersensitivity pneumonitis caused by inhalation of thermophilic actinomycetes from moldy hay or grain. The classic presentation is recurrent episodes of fever, cough, and dyspnea occurring 4-8 hours after antigen exposure.",
+      "whyCorrect": "Farmer's lung is the prototypical form of hypersensitivity pneumonitis. The 4-6 hour latency between exposure and symptom onset, with resolution upon removal from the environment, is characteristic of acute HP. Thermophilic bacteria in moldy hay release antigens that trigger type III and type IV hypersensitivity reactions.",
+      "whyWrongByChoice": {
+        "A": "Occupational asthma causes reversible airway obstruction with wheezing and typically occurs within minutes to hours of exposure. The presentation with fever, fine crackles, and a 4-6 hour delay is more consistent with HP than asthma.",
+        "B": "Silicosis is caused by chronic inhalation of silica dust and develops over years of exposure. It does not present with acute episodic symptoms that resolve with removal from exposure.",
+        "C": "Bacterial pneumonia would present with a single sustained illness, not recurrent episodes temporally linked to occupational exposure with complete resolution between episodes.",
+        "E": "Allergic bronchopulmonary aspergillosis is an IgE-mediated reaction to Aspergillus colonization of the airways. It presents with wheezing, mucus plugging, and central bronchiectasis, not the acute febrile episodes seen here."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "farmer-lung", "acute-HP", "occupational"]
+  },
+  {
+    "id": "r17-024",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 42-year-old woman who breeds parrots presents with cough and dyspnea that worsen during the week and improve on weekends. Her respiratory rate is 20/min, and oxygen saturation is 95%. Her physician suspects hypersensitivity pneumonitis. Which immunologic mechanism is most likely responsible for the acute phase?",
+    "choices": [
+      {"label": "A", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "B", "text": "Cytotoxic antibody-mediated cell lysis"},
+      {"label": "C", "text": "Immune complex deposition in alveoli"},
+      {"label": "D", "text": "Natural killer cell activation"},
+      {"label": "E", "text": "Complement-independent neutrophil activation"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Acute hypersensitivity pneumonitis is primarily mediated by a type III hypersensitivity reaction, in which immune complexes deposit in the alveolar walls, activate complement, and trigger an inflammatory response.",
+      "whyCorrect": "In acute HP, inhaled antigens combine with preformed IgG antibodies to form immune complexes that deposit in the alveolar walls. These complexes activate the complement cascade, leading to recruitment of neutrophils and macrophages and triggering acute inflammation. This is a classic type III hypersensitivity reaction.",
+      "whyWrongByChoice": {
+        "A": "IgE-mediated mast cell degranulation is a type I hypersensitivity reaction responsible for allergic asthma and anaphylaxis. HP involves type III (immune complex) and type IV (T-cell mediated) reactions, not type I.",
+        "B": "Cytotoxic antibody-mediated cell lysis is a type II hypersensitivity reaction. HP does not involve antibody-mediated destruction of host cells.",
+        "D": "Natural killer cells are part of innate immunity and are involved in killing virus-infected and tumor cells. They do not play a primary role in the pathogenesis of HP.",
+        "E": "While neutrophils are recruited in HP, their activation is complement-dependent (via immune complex-mediated complement activation), not complement-independent."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "type-III-hypersensitivity", "immune-complex", "immunology"]
+  },
+  {
+    "id": "r17-025",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 50-year-old man with chronic hypersensitivity pneumonitis from long-term pigeon exposure undergoes lung biopsy. He has had progressive dyspnea for 3 years and HRCT showing fibrotic changes with honeycombing. His FVC is 55% predicted. Which histologic finding is most characteristic?",
+    "choices": [
+      {"label": "A", "text": "Caseating granulomas with central necrosis"},
+      {"label": "B", "text": "Eosinophilic infiltrates with crystals"},
+      {"label": "C", "text": "Hyaline membranes lining alveoli"},
+      {"label": "D", "text": "Noncaseating granulomas with peribronchial fibrosis"},
+      {"label": "E", "text": "Ferruginous bodies with golden pigment"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Hypersensitivity pneumonitis characteristically shows noncaseating interstitial granulomas composed of histiocytes, lymphocytes, and giant cells. In chronic HP, these are accompanied by peribronchial and interstitial fibrosis.",
+      "whyCorrect": "HP produces a distinctive histologic pattern of noncaseating granulomas distributed around bronchioles, accompanied by lymphocytic interstitial inflammation. The granulomas contain histiocytes, lymphocytes, and multinucleated giant cells. In chronic HP, progressive peribronchial and interstitial fibrosis develops.",
+      "whyWrongByChoice": {
+        "A": "Caseating granulomas with central necrosis are the hallmark of tuberculosis and some fungal infections. HP produces noncaseating granulomas without central necrosis.",
+        "B": "Eosinophilic infiltrates with Charcot-Leyden crystals are characteristic of eosinophilic pneumonia or allergic bronchopulmonary aspergillosis. HP is characterized by lymphocytic, not eosinophilic, inflammation.",
+        "C": "Hyaline membranes are the hallmark of diffuse alveolar damage (as seen in ARDS or neonatal respiratory distress syndrome), not HP.",
+        "E": "Ferruginous bodies (asbestos bodies) are golden-brown iron-coated fibers characteristic of asbestosis, not HP."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "histology", "granuloma", "pathology"]
+  },
+  {
+    "id": "r17-026",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 28-year-old woman who recently started working at a pet shop presents with recurrent sneezing, cough, and mild dyspnea that occur during work and resolve on her days off. Her vital signs are normal, and chest x-ray is unremarkable. Physical examination shows no crackles or wheezing. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Long-term systemic corticosteroid therapy"},
+      {"label": "B", "text": "Inhaled bronchodilator therapy"},
+      {"label": "C", "text": "Prophylactic antibiotic therapy"},
+      {"label": "D", "text": "Lung transplantation evaluation"},
+      {"label": "E", "text": "Antigen avoidance and workplace modification"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "The mainstay of HP management is early identification and avoidance of the causative antigen. In early disease, antigen avoidance alone can lead to complete resolution of symptoms and prevention of chronic fibrosis.",
+      "whyCorrect": "Early HP is reversible if the patient stops exposure to the offending antigen. In this case, proteins from bird feathers and droppings are the likely antigens. Removing the patient from the exposure (changing job duties or wearing protective equipment) is the first and most important step in management.",
+      "whyWrongByChoice": {
+        "A": "Systemic corticosteroids may be used for severe or persistent symptoms, but they are not the initial management. Antigen avoidance should be tried first, as early disease is reversible without pharmacotherapy.",
+        "B": "Inhaled bronchodilators are used for obstructive airway diseases. HP is an interstitial lung disease, and the symptoms are not caused by bronchospasm.",
+        "C": "HP is an immunologically mediated disease, not an infection. Antibiotics have no role in its management.",
+        "D": "Lung transplantation is reserved for end-stage fibrotic disease. This patient has early, likely reversible disease that should respond to antigen avoidance."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "management", "antigen-avoidance"]
+  },
+  {
+    "id": "r17-027",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 45-year-old farmer with suspected acute hypersensitivity pneumonitis undergoes bronchoalveolar lavage. His symptoms began 3 days ago after cleaning a grain storage facility. Temperature is 37.8°C, and chest x-ray shows bilateral hazy infiltrates. Which cellular finding in the BAL fluid most supports the diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Neutrophil predominance"},
+      {"label": "B", "text": "Eosinophil predominance"},
+      {"label": "C", "text": "Red blood cell predominance"},
+      {"label": "D", "text": "Malignant epithelial cells"},
+      {"label": "E", "text": "Lymphocytosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "BAL lymphocytosis (increased lymphocyte percentage) is the characteristic finding in hypersensitivity pneumonitis. It reflects the T-cell mediated immune response that is central to the pathogenesis of HP.",
+      "whyCorrect": "In HP, BAL typically shows a markedly elevated lymphocyte percentage (often >50%, compared to normal <15%). This lymphocytosis reflects the intense T-cell mediated inflammatory response (type IV hypersensitivity) in the alveoli. While not specific for HP, BAL lymphocytosis is the most sensitive BAL finding supporting the diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Neutrophil predominance in BAL is more characteristic of bacterial infections or acute respiratory distress syndrome. While neutrophils may be transiently elevated immediately after acute HP exposure, lymphocytosis is the characteristic finding.",
+        "B": "Eosinophil predominance suggests eosinophilic pneumonia or allergic bronchopulmonary aspergillosis, not HP. The cellular response in HP is predominantly lymphocytic.",
+        "C": "Red blood cell predominance in BAL suggests diffuse alveolar hemorrhage, as seen in Goodpasture syndrome or pulmonary vasculitis, not HP.",
+        "D": "Malignant epithelial cells would indicate pulmonary carcinoma, not HP. BAL in HP shows inflammatory cells, particularly lymphocytes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "BAL", "lymphocytosis", "diagnosis"]
+  },
+  {
+    "id": "r17-028",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A physician evaluates a 55-year-old pigeon breeder with chronic cough and progressive dyspnea over 2 years. HRCT of the chest shows diffuse ground-glass opacities with areas of honeycombing. His FVC is 58% predicted. Pulmonary function testing is performed. Which of the following results is most likely?",
+    "choices": [
+      {"label": "A", "text": "Increased FEV1/FVC with increased TLC"},
+      {"label": "B", "text": "Normal spirometry with isolated DLCO reduction"},
+      {"label": "C", "text": "Markedly increased FVC with decreased RV"},
+      {"label": "D", "text": "Decreased FVC with mixed obstructive-restrictive features"},
+      {"label": "E", "text": "Normal FVC with markedly increased DLCO"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "HP characteristically shows restrictive lung disease on PFTs with decreased FVC and lung volumes. Unlike most other interstitial lung diseases, HP may also show features of obstructive disease, producing a mixed obstructive-restrictive pattern.",
+      "whyCorrect": "HP causes interstitial inflammation and fibrosis leading to a restrictive pattern (decreased FVC and lung volumes). However, the peribronchial inflammation in HP can also obstruct small airways, leading to a decreased FEV1/FVC ratio. This mixed obstructive-restrictive pattern is a distinctive feature that differentiates HP from other forms of ILD.",
+      "whyWrongByChoice": {
+        "A": "An increased TLC would suggest air trapping from purely obstructive disease. HP produces restrictive disease with decreased TLC, even if some obstructive features are also present.",
+        "B": "While DLCO is reduced in HP, spirometry is not normal. The interstitial fibrosis produces decreased FVC and lung volumes, and the peribronchial inflammation may reduce FEV1.",
+        "C": "A markedly increased FVC would indicate no restrictive disease. HP causes decreased, not increased, FVC due to interstitial fibrosis reducing lung compliance.",
+        "E": "DLCO is reduced in HP due to impaired gas exchange across inflamed and fibrosed alveolar membranes. An increased DLCO would not be expected."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "PFTs", "mixed-pattern", "restrictive"]
+  },
+  {
+    "id": "r17-029",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 38-year-old man presents with a 6-month history of malaise, weight loss of 5 kg, fatigue, and progressive dyspnea. He has kept pet budgerigars in his home for 10 years. HRCT shows fibrotic changes with honeycombing in the upper and mid-lung zones. His oxygen saturation is 90% at rest. Which form of HP does this presentation represent?",
+    "choices": [
+      {"label": "A", "text": "Acute hypersensitivity pneumonitis"},
+      {"label": "B", "text": "Subacute hypersensitivity pneumonitis"},
+      {"label": "C", "text": "Fulminant hypersensitivity pneumonitis"},
+      {"label": "D", "text": "Latent hypersensitivity pneumonitis"},
+      {"label": "E", "text": "Chronic hypersensitivity pneumonitis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Chronic HP develops over months to years of continued antigen exposure. It presents with constitutional symptoms (malaise, weight loss, fatigue) and progressive fibrosis, including honeycombing on HRCT, which is not seen in acute or subacute forms.",
+      "whyCorrect": "Chronic HP results from prolonged, low-level antigen exposure over months to years. The clinical presentation includes malaise, anorexia, fatigue, weight loss, and progressive dyspnea. Imaging shows fibrotic changes including honeycombing. This patient's 10-year bird exposure and 6-month progressive constitutional symptoms with fibrosis are classic for chronic HP.",
+      "whyWrongByChoice": {
+        "A": "Acute HP presents with rapid onset (4-8 hours) of fever, cough, chest tightness, and dyspnea after antigen exposure. It does not cause honeycombing or weight loss.",
+        "B": "Subacute HP develops over days to weeks with gradual onset of cough and dyspnea. It does not typically show honeycombing or the constitutional symptoms (weight loss, malaise) seen here.",
+        "C": "Fulminant is not a recognized classification of HP. The three standard categories are acute, subacute, and chronic.",
+        "D": "Latent is not a recognized classification of HP. This patient has overt symptoms and imaging findings consistent with chronic disease."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "chronic-HP", "bird-fancier", "classification"]
+  },
+  {
+    "id": "r17-030",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A physician evaluates a 40-year-old farmer with recurrent episodes of cough and fever after hay exposure. Temperature is 38.0°C, and chest x-ray shows bilateral ground-glass opacities. Serum precipitins against Thermoactinomyces species are positive. Which of the following best describes the diagnostic significance of this result?",
+    "choices": [
+      {"label": "A", "text": "Confirms the diagnosis of HP"},
+      {"label": "B", "text": "Rules out hypersensitivity pneumonitis"},
+      {"label": "C", "text": "Indicates antigen sensitization but not diagnostic"},
+      {"label": "D", "text": "Indicates active bacterial infection"},
+      {"label": "E", "text": "Serves as the gold standard test"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Positive serum precipitins indicate that the patient has been exposed to and sensitized against the antigen, but they do not confirm the diagnosis of HP. Many patients with antigen exposure develop precipitins without clinical disease, so precipitins must be interpreted in conjunction with clinical, radiologic, and other laboratory findings.",
+      "whyCorrect": "Serum precipitins detect IgG antibodies against specific antigens. A positive result confirms prior antigen exposure and sensitization but has limited specificity; many exposed individuals have positive precipitins without developing HP. Conversely, negative precipitins do not rule out HP due to high false-negative rates. Diagnosis requires integrating clinical history, imaging, PFTs, and BAL findings.",
+      "whyWrongByChoice": {
+        "A": "Positive precipitins alone cannot confirm HP because many individuals with antigen exposure develop antibodies without clinical disease. The test has limited specificity.",
+        "B": "Positive precipitins support rather than rule out HP. They indicate antigen sensitization, which is consistent with (but not diagnostic of) HP.",
+        "D": "Serum precipitins detect IgG antibodies against environmental antigens, not active bacterial infection. Thermoactinomyces exposure causes an immunologic reaction, not a treatable infection.",
+        "E": "There is no single gold standard test for HP. Diagnosis requires an integrated approach combining clinical history, imaging, PFTs, serology, and sometimes BAL or biopsy."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "serum-precipitins", "diagnosis", "sensitivity-specificity"]
+  },
+  {
+    "id": "r17-031",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 60-year-old man with chronic hypersensitivity pneumonitis has progressive fibrotic disease despite antigen avoidance and corticosteroid therapy. His FVC is 35% predicted and oxygen saturation is 84% on room air at rest. He requires 5 L/min supplemental oxygen continuously. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Increase corticosteroid dose further"},
+      {"label": "B", "text": "Evaluate for lung transplantation"},
+      {"label": "C", "text": "Add inhaled long-acting beta-agonist"},
+      {"label": "D", "text": "Start empiric antifungal therapy"},
+      {"label": "E", "text": "Perform repeated bronchoalveolar lavage"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In patients with severe, symptomatic fibrotic HP that progresses despite maximal medical therapy and antigen avoidance, lung transplantation should be considered. This patient has end-stage disease with severely reduced lung function and hypoxemia at rest.",
+      "whyCorrect": "Lung transplantation may be considered in patients with severe, progressive fibrotic HP who fail to respond to antigen avoidance and corticosteroid therapy. With an FVC of 35% predicted and resting hypoxemia, this patient has end-stage lung disease with limited remaining treatment options. Transplant evaluation is the appropriate next step.",
+      "whyWrongByChoice": {
+        "A": "The patient is already on corticosteroids with progressive disease. Increasing the dose is unlikely to reverse established fibrosis and would increase the risk of adverse effects.",
+        "C": "Long-acting beta-agonists are used for obstructive airway diseases like asthma and COPD. They do not address the fibrotic interstitial disease driving this patient's respiratory failure.",
+        "D": "HP is an immunologic disease, not a fungal infection. Antifungal therapy would not address the underlying fibrotic process.",
+        "E": "Repeated BAL is a diagnostic procedure, not a therapeutic one. The diagnosis is already established, and repeated BAL would not improve the patient's clinical status."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "lung-transplant", "management", "end-stage"]
+  },
+  {
+    "id": "r17-032",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 47-year-old woman develops acute HP after cleaning a moldy basement. She presents with fever of 38.5°C, cough, and dyspnea 6 hours later. Her respiratory rate is 24/min and oxygen saturation is 93%. Chest x-ray shows bilateral ground-glass opacities. Which immunoglobulin class is most involved in the immune complex formation?",
+    "choices": [
+      {"label": "A", "text": "IgA"},
+      {"label": "B", "text": "IgE"},
+      {"label": "C", "text": "IgM"},
+      {"label": "D", "text": "IgG"},
+      {"label": "E", "text": "IgD"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Acute HP involves a type III hypersensitivity reaction in which IgG antibodies form immune complexes with the inhaled antigen. These IgG-antigen complexes deposit in the alveolar walls and activate complement, triggering inflammation.",
+      "whyCorrect": "In acute HP, inhaled antigens bind to preformed IgG antibodies (specifically IgG precipitins) in the lung tissue. The resulting immune complexes activate the classical complement pathway, recruiting neutrophils and triggering acute inflammation. Serum precipitin assays used to diagnose HP specifically detect these IgG antibodies.",
+      "whyWrongByChoice": {
+        "A": "IgA is the predominant immunoglobulin in mucosal secretions and does not play a primary role in immune complex formation in HP.",
+        "B": "IgE mediates type I hypersensitivity reactions (allergic asthma, anaphylaxis). HP is a type III/IV reaction mediated by IgG, not IgE.",
+        "C": "IgM is the first antibody produced in a primary immune response and can form immune complexes, but the precipitins in HP are predominantly IgG antibodies.",
+        "E": "IgD is expressed on the surface of mature B cells and has a minimal role in circulating immune responses. It does not participate in immune complex formation in HP."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "IgG", "immune-complex", "immunology"]
+  },
+  {
+    "id": "r17-033",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 52-year-old man who is an avid pigeon racer presents with chronic cough and progressive dyspnea over 18 months. Physical examination reveals digital clubbing, bibasilar crackles, and oxygen saturation of 91% on room air. His physician needs to distinguish HP from allergic asthma. Which physical exam finding is more typical of HP?",
+    "choices": [
+      {"label": "A", "text": "Diffuse fine crackles without wheezing"},
+      {"label": "B", "text": "Expiratory wheezing throughout lung fields"},
+      {"label": "C", "text": "Prolonged expiratory phase"},
+      {"label": "D", "text": "Pulsus paradoxus greater than 10 mmHg"},
+      {"label": "E", "text": "Hyperresonance on percussion bilaterally"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In HP, physical examination reveals diffuse fine crackles typical of interstitial lung disease. Wheezes are characteristically absent, unlike allergic asthma where wheezing is the hallmark finding.",
+      "whyCorrect": "HP affects the lung interstitium and alveoli, producing fine inspiratory crackles from the opening of stiffened small airways. Wheezes, which are caused by narrowing of larger airways from bronchospasm, are characteristically absent in HP. This distinguishes HP from allergic asthma, where wheezing is the cardinal physical finding.",
+      "whyWrongByChoice": {
+        "B": "Expiratory wheezing is the hallmark of obstructive airway diseases like asthma and COPD. It would be expected in allergic asthma, not HP.",
+        "C": "A prolonged expiratory phase indicates airflow obstruction, as seen in asthma and COPD. HP causes restrictive disease without prolonged expiration.",
+        "D": "Pulsus paradoxus (>10 mmHg drop in systolic blood pressure during inspiration) is seen in severe asthma exacerbations and cardiac tamponade, not HP.",
+        "E": "Hyperresonance on percussion suggests air trapping or pneumothorax. HP produces normal or dull percussion from interstitial fibrosis, not hyperresonance."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "physical-exam", "crackles", "differential-diagnosis"]
+  },
+  {
+    "id": "r17-034",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 30-year-old man presents with acute-onset cough, fever of 38.6°C, and dyspnea 5 hours after cleaning a chicken coop. His respiratory rate is 26/min, and oxygen saturation is 92%. Chest x-ray shows bilateral ground-glass opacities and micronodular infiltrates in the lower and middle lung fields. Which HRCT finding would most likely be seen?",
+    "choices": [
+      {"label": "A", "text": "Upper-lobe cavitary lesions"},
+      {"label": "B", "text": "Ground-glass opacities with centrilobular micronodules"},
+      {"label": "C", "text": "Bilateral hilar eggshell calcifications"},
+      {"label": "D", "text": "Unilateral lobar consolidation with air bronchograms"},
+      {"label": "E", "text": "Bilateral pleural effusions with thickening"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Acute HP on HRCT characteristically shows diffuse ground-glass opacities and centrilobular micronodules. The ground-glass opacities reflect active alveolar inflammation, while the micronodules represent peribronchial inflammatory infiltrates.",
+      "whyCorrect": "In acute HP, HRCT typically reveals ground-glass opacities (hazy increased attenuation that does not obscure underlying structures) and micronodules in a centrilobular distribution. These findings reflect the alveolar and peribronchial inflammation caused by the immune complex and T-cell mediated responses to inhaled antigens.",
+      "whyWrongByChoice": {
+        "A": "Upper-lobe cavitary lesions are more characteristic of tuberculosis or lung cancer. Acute HP does not typically cause cavitary disease.",
+        "C": "Bilateral hilar lymphadenopathy with eggshell calcifications is characteristic of silicosis. HP does not produce this pattern.",
+        "D": "Unilateral lobar consolidation with air bronchograms suggests bacterial pneumonia. HP causes diffuse bilateral disease, not focal lobar consolidation.",
+        "E": "Bilateral pleural effusions are not a typical feature of HP. HP primarily affects the lung parenchyma, not the pleura."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "HRCT", "ground-glass", "micronodules"]
+  },
+  {
+    "id": "r17-035",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 48-year-old lifeguard at an indoor swimming pool develops subacute cough and mild dyspnea over 3 weeks. Symptoms worsen at work and improve on days off. His temperature is 37.2°C, and physical examination shows scattered bibasilar crackles. Which of the following is the most likely source of the causative antigen?",
+    "choices": [
+      {"label": "A", "text": "Chlorine gas airway irritation"},
+      {"label": "B", "text": "Bacterial or fungal pool contamination"},
+      {"label": "C", "text": "Pollen entering via ventilation system"},
+      {"label": "D", "text": "Silica dust from pool deck surfaces"},
+      {"label": "E", "text": "Viral infection from pool patrons"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Indoor swimming pools and associated humidification systems can harbor thermophilic bacteria and fungi that cause HP. Lifeguards and pool workers are at risk due to chronic exposure to aerosolized microorganisms in the humid pool environment.",
+      "whyCorrect": "HP can occur in individuals exposed to aerosolized bacteria or fungi from swimming pools, humidifiers, and water-damaged environments. The warm, humid pool environment promotes growth of thermophilic microorganisms. The temporal pattern of symptoms worsening at work and improving on days off is classic for HP from occupational antigen exposure.",
+      "whyWrongByChoice": {
+        "A": "Chlorine gas causes direct chemical irritation of the airways, not the immunologically mediated interstitial inflammation of HP.",
+        "C": "Pollen allergens cause type I hypersensitivity reactions (allergic rhinitis, allergic asthma) mediated by IgE, not the type III/IV reactions that characterize HP.",
+        "D": "Silica dust exposure causes silicosis (a pneumoconiosis), not HP. Swimming pool decks are not a significant source of silica exposure.",
+        "E": "Viral infections would cause a single illness episode, not a pattern of symptoms that worsen at work and resolve on days off."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "occupational", "swimming-pool", "environmental"]
+  },
+  {
+    "id": "r17-036",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A pulmonologist explains the pathogenesis of hypersensitivity pneumonitis to a medical student. She notes that while acute HP is primarily mediated by immune complexes, subacute and chronic HP involve a different predominant mechanism. Which immune mechanism predominates in subacute and chronic HP?",
+    "choices": [
+      {"label": "A", "text": "IgE-mediated mast cell degranulation"},
+      {"label": "B", "text": "Complement-mediated hemolysis"},
+      {"label": "C", "text": "Antibody-dependent cellular cytotoxicity"},
+      {"label": "D", "text": "IgG immune complex deposition"},
+      {"label": "E", "text": "T-cell mediated delayed-type hypersensitivity"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "While acute HP is primarily mediated by immune complexes (type III), subacute and chronic HP are predominantly mediated by T-cell (type IV) delayed-type hypersensitivity reactions. Circulating T cells mediate the chronic inflammatory and fibrotic response.",
+      "whyCorrect": "In subacute and chronic HP, sensitized T lymphocytes (both CD4+ and CD8+) recognize the inhaled antigen and mount a delayed-type hypersensitivity response. These T cells release cytokines that recruit macrophages and promote granuloma formation and fibrosis. The BAL lymphocytosis characteristic of HP reflects this T-cell mediated process.",
+      "whyWrongByChoice": {
+        "A": "IgE-mediated mast cell degranulation is a type I hypersensitivity reaction responsible for immediate allergic reactions. HP involves type III and type IV reactions, not type I.",
+        "B": "Complement-mediated hemolysis is a type II hypersensitivity reaction affecting red blood cells. It is not involved in the pathogenesis of HP.",
+        "C": "Antibody-dependent cellular cytotoxicity is a type II hypersensitivity mechanism. It is not the predominant mechanism in chronic HP.",
+        "D": "IgG immune complex deposition is the predominant mechanism in acute HP (type III). While it contributes, subacute and chronic forms are primarily driven by T-cell mediated immunity."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "type-IV-hypersensitivity", "T-cell", "pathogenesis"]
+  },
+  {
+    "id": "r17-037",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 55-year-old tobacco farmer presents with progressive dyspnea. He smokes 1 pack per day and works alongside a nonsmoking colleague who was recently diagnosed with HP from the same occupational exposure. Compared to his nonsmoking colleague, which of the following best describes the effect of smoking on his HP risk?",
+    "choices": [
+      {"label": "A", "text": "No effect on HP risk"},
+      {"label": "B", "text": "Increased risk from additional airway damage"},
+      {"label": "C", "text": "Decreased risk from suppressed immune responses"},
+      {"label": "D", "text": "Increased risk from enhanced antigen penetration"},
+      {"label": "E", "text": "Decreased risk from thickened mucus barrier"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Paradoxically, smoking reduces the risk of developing HP. This is attributed to the immunosuppressive effects of smoking, which weakens antibody production and T-cell responses, reducing the hypersensitivity reaction to inhaled antigens.",
+      "whyCorrect": "Smoking suppresses both humoral and cell-mediated immune responses in the lung. This includes reduced IgG antibody production and impaired T-cell function. As a result, smokers have a lower incidence of HP compared to nonsmokers with similar antigen exposure. This is one of the rare instances where smoking has a protective effect against a pulmonary disease.",
+      "whyWrongByChoice": {
+        "A": "Smoking significantly affects HP risk. Epidemiologic studies consistently show that smokers have a lower incidence of HP than nonsmokers.",
+        "B": "Although smoking causes chronic airway inflammation, the immunosuppressive effects on the adaptive immune system actually reduce the hypersensitivity response that drives HP.",
+        "D": "While smoking damages epithelial barriers, the dominant effect is immunosuppression that reduces the ability to mount the type III and type IV hypersensitivity reactions required for HP.",
+        "E": "The protective effect of smoking is not due to a mucus barrier. It is due to suppression of adaptive immune responses, specifically antibody production and T-cell function."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "smoking", "risk-factors", "immunosuppression"]
+  },
+  {
+    "id": "r17-038",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 44-year-old woman with subacute HP undergoes chest x-ray. She has had progressive cough and dyspnea for 4 weeks following exposure to a contaminated humidifier at her workplace. Physical examination shows scattered crackles and oxygen saturation of 94%. Which chest x-ray pattern is most characteristic?",
+    "choices": [
+      {"label": "A", "text": "Micronodular or reticular pattern in mid/upper lobes"},
+      {"label": "B", "text": "Unilateral pleural effusion"},
+      {"label": "C", "text": "Large cavitary mass in right upper lobe"},
+      {"label": "D", "text": "Bilateral hilar lymphadenopathy"},
+      {"label": "E", "text": "Diffuse lower-lobe honeycombing"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Subacute HP on chest x-ray characteristically shows a micronodular or reticular pattern with a predilection for the middle and upper lung lobes. This differs from acute HP (ground-glass opacities in lower/middle lobes) and chronic HP (honeycombing from diffuse fibrosis).",
+      "whyCorrect": "Subacute HP produces micronodular opacities (small 3-5 mm nodules) or a reticular pattern that tends to involve the middle and upper lung zones. This distribution reflects the pattern of antigen deposition and immune response in the airways.",
+      "whyWrongByChoice": {
+        "B": "Unilateral pleural effusion is not a feature of HP. HP primarily affects the lung parenchyma, not the pleura.",
+        "C": "A large cavitary mass suggests lung cancer or tuberculosis, not HP. HP produces diffuse bilateral parenchymal changes.",
+        "D": "Bilateral hilar lymphadenopathy is characteristic of sarcoidosis, not HP.",
+        "E": "Diffuse honeycombing is seen in chronic (not subacute) HP and represents end-stage fibrotic disease."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "subacute", "chest-x-ray", "imaging"]
+  },
+  {
+    "id": "r17-039",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 36-year-old woman presents with acute-onset fever of 38.5°C, tachypnea, and dry cough 5 hours after helping her neighbor clean a bird aviary. She has never had prior bird exposure. Lung examination reveals diffuse crackles bilaterally. Her WBC is 12,000/mcL. Which clinical feature most strongly suggests HP rather than community-acquired pneumonia?",
+    "choices": [
+      {"label": "A", "text": "Presence of fever"},
+      {"label": "B", "text": "Bilateral crackles on auscultation"},
+      {"label": "C", "text": "Elevated white blood cell count"},
+      {"label": "D", "text": "Temporal link to antigen exposure"},
+      {"label": "E", "text": "Productive cough with purulent sputum"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "The temporal relationship between antigen exposure (bird aviary cleaning) and symptom onset (5 hours later) is the most distinctive feature of acute HP. This 4-8 hour latency after environmental exposure is highly characteristic and distinguishes HP from infectious pneumonia.",
+      "whyCorrect": "Acute HP characteristically develops 4-8 hours after antigen exposure. The clear temporal association between cleaning a bird aviary and developing respiratory symptoms within hours is the strongest clinical clue pointing to HP rather than an infectious etiology.",
+      "whyWrongByChoice": {
+        "A": "Fever is nonspecific and occurs in both HP and pneumonia. While fever is common in acute HP, it cannot distinguish HP from infection.",
+        "B": "Bilateral crackles can be heard in both HP and bilateral pneumonia. They indicate parenchymal involvement but are not specific for either diagnosis.",
+        "C": "Elevated white blood cell count is nonspecific and occurs in both infectious and inflammatory conditions.",
+        "E": "Productive cough with purulent sputum is actually more suggestive of bacterial pneumonia than HP. HP typically presents with a dry cough."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "acute-HP", "diagnosis", "differential"]
+  },
+  {
+    "id": "r17-040",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 50-year-old man with chronic HP from pigeon breeding develops traction bronchiectasis on HRCT. He has had progressive dyspnea for 4 years despite antigen avoidance. His FVC is 50% predicted. Which of the following best describes the pathogenesis of this finding?",
+    "choices": [
+      {"label": "A", "text": "Mucus plugging causing distal dilation"},
+      {"label": "B", "text": "Chronic infection eroding bronchial cartilage"},
+      {"label": "C", "text": "Congenital weakness of bronchial wall"},
+      {"label": "D", "text": "Endobronchial tumor causing post-obstructive dilation"},
+      {"label": "E", "text": "Progressive fibrosis pulling airways irreversibly"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Traction bronchiectasis in chronic HP occurs when progressive interstitial fibrosis exerts traction on adjacent bronchi, pulling and distorting them irreversibly. This is a radiologic sign of advanced fibrotic lung disease.",
+      "whyCorrect": "In chronic HP, progressive fibrosis of the lung interstitium surrounds and distorts the airways. As the fibrotic tissue contracts, it exerts outward traction on the bronchial walls, causing them to widen irreversibly. This finding indicates advanced fibrotic disease with architectural distortion.",
+      "whyWrongByChoice": {
+        "A": "Mucus plugging causes airway obstruction, not traction bronchiectasis. Mucus-related bronchiectasis is more characteristic of cystic fibrosis or ABPA.",
+        "B": "Chronic infection can cause bronchiectasis through direct wall destruction, but traction bronchiectasis in HP is caused by surrounding fibrosis pulling on the airways.",
+        "C": "Congenital bronchial wall weakness is associated with Williams-Campbell syndrome. Traction bronchiectasis in HP is acquired from progressive fibrosis.",
+        "D": "Endobronchial tumors can cause focal post-obstructive changes but would not produce diffuse traction bronchiectasis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "traction-bronchiectasis", "fibrosis", "chronic-HP"]
+  },
+  {
+    "id": "r17-041",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 32-year-old compost facility worker is diagnosed with acute HP from Aspergillus exposure. He is treated with corticosteroids and removed from the workplace. Six months later, his PFTs have normalized and he is asymptomatic. Which prognostic factor was most important in his favorable outcome?",
+    "choices": [
+      {"label": "A", "text": "Young age at diagnosis"},
+      {"label": "B", "text": "Male sex"},
+      {"label": "C", "text": "Treatment with high-dose corticosteroids"},
+      {"label": "D", "text": "Exposure to Aspergillus versus bird proteins"},
+      {"label": "E", "text": "Inflammatory rather than fibrotic disease pattern"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Patients with acute or subacute HP that shows predominantly inflammatory histopathologic patterns have a much better prognosis than those with fibrotic patterns. The majority of patients with inflammatory HP experience near-total recovery after antigen avoidance.",
+      "whyCorrect": "The most important prognostic factor in HP is whether the disease is predominantly inflammatory or fibrotic. Acute HP is characterized by inflammatory changes (alveolitis, granulomas) without significant fibrosis. These inflammatory changes are reversible with antigen avoidance, leading to near-total recovery. Patients with fibrotic patterns have irreversible disease and poorer prognosis.",
+      "whyWrongByChoice": {
+        "A": "While younger patients may have better overall health, age is not the most important prognostic factor. The histopathologic pattern is more predictive of outcome.",
+        "B": "Sex does not significantly influence the prognosis of HP once disease is established.",
+        "C": "Corticosteroids can improve short-term symptoms but do not affect long-term outcome. Antigen avoidance and the inflammatory nature of the disease are more important.",
+        "D": "The type of antigen does not significantly determine prognosis. The pattern of disease and the ability to identify and avoid the antigen are more important."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "prognosis", "inflammatory", "recovery"]
+  },
+  {
+    "id": "r17-042",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A physician suspects hypersensitivity pneumonitis in a 40-year-old woman with recurrent respiratory symptoms that worsen at home and improve during vacations. She has pet birds and a basement hot tub. Her physician explains that no single test can confirm HP. Which approach best describes the diagnostic strategy?",
+    "choices": [
+      {"label": "A", "text": "Positive serum precipitins confirming diagnosis"},
+      {"label": "B", "text": "Lung biopsy required in all cases"},
+      {"label": "C", "text": "Positive methacholine challenge test is diagnostic"},
+      {"label": "D", "text": "Integrated approach using history, imaging, PFTs, and serology"},
+      {"label": "E", "text": "Sputum culture for offending organism confirms diagnosis"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "There is no single gold standard test for HP. Diagnosis requires an integrated approach that combines exposure history, clinical examination, chest imaging, pulmonary function tests, serum precipitins, and sometimes BAL or biopsy.",
+      "whyCorrect": "Because no single test can confirm or exclude HP, diagnosis relies on synthesizing information from multiple sources: detailed exposure history, physical examination findings, chest x-ray and HRCT patterns, restrictive PFT findings, serum precipitins, and BAL lymphocytosis. Each component adds supportive evidence to build the diagnosis.",
+      "whyWrongByChoice": {
+        "A": "Serum precipitins indicate antigen sensitization but cannot confirm HP alone. Many exposed individuals have positive precipitins without clinical disease.",
+        "B": "Lung biopsy is not required in all cases. It is reserved for diagnostically uncertain cases when other tests are inconclusive.",
+        "C": "Methacholine challenge testing evaluates airway hyperreactivity and is used to diagnose asthma, not HP.",
+        "E": "Sputum culture cannot diagnose HP because the causative organisms are environmental antigens, not pathogens causing active infection."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "diagnosis", "integrated-approach"]
+  },
+  {
+    "id": "r17-043",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 58-year-old bird breeder with chronic HP is treated with systemic corticosteroids. His symptoms improve over several weeks, with oxygen saturation rising from 89% to 93%. However, his physician explains that steroids have a limited role in HP. Which of the following best describes their effect?",
+    "choices": [
+      {"label": "A", "text": "They reduce symptoms without altering long-term outcome"},
+      {"label": "B", "text": "They eliminate the causative antigen"},
+      {"label": "C", "text": "They reverse established pulmonary fibrosis"},
+      {"label": "D", "text": "They provide permanent cure without antigen avoidance"},
+      {"label": "E", "text": "They prevent sensitization to new antigens"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Systemic corticosteroids are used in HP to suppress inflammation and reduce symptoms in the short term. However, they do not reverse established fibrosis, eliminate the antigen, or change the long-term outcome.",
+      "whyCorrect": "Corticosteroids are potent anti-inflammatory agents that suppress the immune-mediated inflammation in HP, providing symptom relief and short-term improvement in lung function. However, they cannot reverse fibrosis, and studies show they do not alter the long-term course of disease. Without antigen avoidance, disease will progress despite steroid therapy.",
+      "whyWrongByChoice": {
+        "C": "Corticosteroids suppress inflammation but cannot reverse established fibrotic scar tissue. Once fibrosis is present, it is irreversible regardless of treatment.",
+        "B": "Corticosteroids suppress the immune response but do not physically remove antigens from lung tissue. Antigen avoidance is necessary to stop the continued immune reaction.",
+        "D": "Corticosteroids provide symptomatic relief but are not curative. Without antigen avoidance, continued exposure will perpetuate disease progression.",
+        "E": "Corticosteroids suppress the immune response broadly but do not prevent sensitization to new antigens."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "corticosteroids", "management", "prognosis"]
+  },
+  {
+    "id": "r17-044",
+    "topicId": "hypersensitivity-pneumonitis",
+    "topicName": "Hypersensitivity Pneumonitis",
+    "stem": "A 26-year-old woman working at a pet shop develops cough and sneezing that are present during weekdays but completely resolve on weekends. She reports feeling great on Saturday mornings but symptomatic again by Monday. Her vital signs and physical exam are normal, and chest x-ray is unremarkable. These findings are most consistent with which disease category?",
+    "choices": [
+      {"label": "A", "text": "Type I IgE-mediated hypersensitivity"},
+      {"label": "B", "text": "Type II cytotoxic hypersensitivity"},
+      {"label": "C", "text": "Mixed type III and IV hypersensitivity"},
+      {"label": "D", "text": "Autoimmune granulomatous disease"},
+      {"label": "E", "text": "Primary immunodeficiency disorder"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This presentation is classic for hypersensitivity pneumonitis from bird antigen exposure at a pet shop. HP is caused by a mixed type III (immune complex-mediated) and type IV (T-cell mediated) hypersensitivity reaction to inhaled organic antigens.",
+      "whyCorrect": "The temporal pattern of symptoms worsening with workplace exposure and resolving with removal is the hallmark of HP. HP is immunologically classified as a mixed type III/IV hypersensitivity reaction. Type III involves IgG immune complex deposition (predominant in acute disease), while type IV involves T-cell mediated delayed hypersensitivity (predominant in subacute and chronic disease).",
+      "whyWrongByChoice": {
+        "A": "Type I hypersensitivity (IgE-mediated) causes allergic rhinitis and asthma with rapid onset (minutes) after exposure. HP has a delayed onset (hours) and involves immune complex and T-cell mediated mechanisms.",
+        "B": "Type II hypersensitivity involves cytotoxic antibodies directed against cell surface antigens. It is not involved in HP pathogenesis.",
+        "D": "Autoimmune granulomatous disease (e.g., sarcoidosis) is not triggered by environmental antigen exposure and does not show the temporal work-related pattern seen here.",
+        "E": "Primary immunodeficiency would present with recurrent infections, not a pattern of symptoms temporally related to antigen exposure. The immune system in HP is overactive, not deficient."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["hypersensitivity-pneumonitis", "type-III", "type-IV", "classification", "immunology"]
+  }
+]

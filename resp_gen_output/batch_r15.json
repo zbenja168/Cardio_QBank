@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "r15-001",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 12-year-old boy with cystic fibrosis homozygous for the F508del mutation is started on elexacaftor/tezacaftor/ivacaftor. At a 3-month follow-up, his FEV1 has improved from 65% to 82% predicted and he has gained 4 kg. His sweat chloride has decreased from 102 to 55 mEq/L. Which of the following best describes how elexacaftor and tezacaftor contribute to this improvement?",
+    "choices": [
+      {"label": "A", "text": "Improve CFTR protein folding and trafficking"},
+      {"label": "B", "text": "Cleave extracellular DNA in secretions"},
+      {"label": "C", "text": "Increase CFTR channel open probability"},
+      {"label": "D", "text": "Provide exogenous chloride transport"},
+      {"label": "E", "text": "Block epithelial sodium channel absorption"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Elexacaftor and tezacaftor are CFTR correctors that improve the folding, intracellular processing, and trafficking of mutant CFTR protein to the cell surface, increasing the quantity of functional channels at the membrane.",
+      "whyCorrect": "CFTR correctors such as elexacaftor and tezacaftor address the protein misfolding defect caused by mutations like F508del. By improving intracellular processing and trafficking, they allow more CFTR protein to reach the apical cell membrane, where the potentiator component (ivacaftor) can then enhance channel gating.",
+      "whyWrongByChoice": {
+        "C": "Increasing the open probability of CFTR channels at the cell surface is the mechanism of CFTR potentiators (e.g., ivacaftor), not correctors like elexacaftor and tezacaftor.",
+        "B": "Cleaving extracellular DNA in airway secretions is the mechanism of dornase alfa (DNase), an airway clearance therapy, not a CFTR modulator.",
+        "D": "CFTR modulators work by restoring function of the patient's own CFTR protein, not by providing an alternative chloride transport pathway.",
+        "E": "Inhibiting the epithelial sodium channel (ENaC) is not the mechanism of CFTR modulators. While ENaC hyperactivity contributes to airway dehydration in CF, these drugs target the CFTR protein itself."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR-modulators", "correctors", "Trikafta", "pharmacology"]
+  },
+  {
+    "id": "r15-002",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 28-year-old woman with cystic fibrosis and chronic Pseudomonas aeruginosa colonization has been on inhaled tobramycin for 2 years. Her pulmonologist explains that this route was specifically chosen over systemic antibiotics for long-term suppressive therapy. Serum creatinine and audiometry remain normal. Which of the following best explains the primary advantage of inhaled antibiotics in this setting?",
+    "choices": [
+      {"label": "A", "text": "Complete eradication of bacterial biofilms"},
+      {"label": "B", "text": "Prevention of antibiotic resistance"},
+      {"label": "C", "text": "Broader antimicrobial spectrum than IV"},
+      {"label": "D", "text": "High airway levels with low systemic toxicity"},
+      {"label": "E", "text": "Oral route unavailable for aminoglycosides"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Inhaled antibiotics are preferred for chronic Pseudomonas suppression in CF because they maximize drug concentration at the site of infection (the airways) while minimizing systemic absorption and associated toxicities such as nephrotoxicity and ototoxicity.",
+      "whyCorrect": "Inhaled tobramycin delivers high local concentrations directly to the airways, which is critical for treating endobronchial Pseudomonas infection. This route significantly reduces systemic exposure, thereby limiting the nephrotoxicity and ototoxicity that are well-known risks of aminoglycosides.",
+      "whyWrongByChoice": {
+        "A": "While higher local concentrations may help penetrate biofilms, inhaled antibiotics do not completely eradicate Pseudomonas biofilms. The primary advantage is the favorable local-to-systemic concentration ratio.",
+        "B": "Inhaled antibiotics can still promote resistance, though targeted delivery may reduce selective pressure elsewhere. Resistance prevention is not the primary advantage.",
+        "C": "The antimicrobial spectrum of an antibiotic is determined by its chemical properties, not its route of administration. Inhaled tobramycin has the same spectrum as parenteral tobramycin.",
+        "E": "Although oral bioavailability of aminoglycosides is poor, tobramycin can be given intravenously. The question asks about the advantage of inhaled over other systemic routes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "inhaled-antibiotics", "tobramycin", "Pseudomonas"]
+  },
+  {
+    "id": "r15-003",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 22-year-old man with cystic fibrosis presents with polyuria, polydipsia, fatigue, and unintentional 3-kg weight loss over 2 months. His hemoglobin A1c is 7.8% and fasting glucose is 180 mg/dL. Abdominal CT shows pancreatic calcifications. His pulmonologist explains that standard oral diabetes medications are not recommended for his condition. Which of the following is the most appropriate pharmacologic treatment?",
+    "choices": [
+      {"label": "A", "text": "Metformin monotherapy"},
+      {"label": "B", "text": "Pioglitazone daily"},
+      {"label": "C", "text": "Caloric restriction and exercise"},
+      {"label": "D", "text": "Glipizide twice daily"},
+      {"label": "E", "text": "Insulin therapy"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "CF-related diabetes (CFRD) results from progressive pancreatic damage leading to insulin deficiency. Because the primary defect is insufficient insulin secretion, insulin therapy is the recommended treatment. Oral hypoglycemics lack evidence of benefit in CFRD.",
+      "whyCorrect": "CFRD is caused by destruction of pancreatic islet cells from thick mucus plugging and chronic inflammation, resulting in insulin deficiency. Insulin is the only recommended pharmacologic therapy because it directly addresses the deficient hormone and supports the high-calorie nutritional needs of CF patients.",
+      "whyWrongByChoice": {
+        "A": "Metformin targets insulin resistance and hepatic glucose production. CFRD is primarily an insulin-deficiency state, and oral agents including metformin are not recommended due to insufficient evidence and potential GI side effects.",
+        "B": "Pioglitazone is a thiazolidinedione that improves insulin sensitivity. It does not address the insulin deficiency underlying CFRD and is not recommended.",
+        "D": "Glipizide is a sulfonylurea that stimulates insulin release from beta cells. With progressive beta cell destruction in CFRD, there is insufficient functional tissue for sulfonylureas to act on effectively.",
+        "C": "Caloric restriction is contraindicated in CF patients who typically require a high-calorie, nutrient-dense diet to maintain weight and pulmonary function."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFRD", "diabetes", "insulin"]
+  },
+  {
+    "id": "r15-004",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 16-year-old girl with cystic fibrosis uses inhaled dornase alfa daily as part of her airway clearance regimen. She produces thick, purulent sputum daily and has frequent neutrophilic airway inflammation on bronchoalveolar lavage. Her mother asks how this medication reduces sputum thickness. Which of the following best describes the mechanism of action of dornase alfa?",
+    "choices": [
+      {"label": "A", "text": "Osmotic hydration of airway lumen"},
+      {"label": "B", "text": "Disruption of mucus glycoprotein bonds"},
+      {"label": "C", "text": "Stimulation of ciliary beat frequency"},
+      {"label": "D", "text": "Cleavage of extracellular neutrophil DNA"},
+      {"label": "E", "text": "Blockade of epithelial sodium channels"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Dornase alfa is a recombinant human DNase that cleaves extracellular DNA released by degranulating neutrophils in CF airways. This reduces the viscosity of purulent sputum, facilitating airway clearance.",
+      "whyCorrect": "CF airways are characterized by chronic neutrophilic inflammation. When neutrophils degrade, they release large amounts of DNA into the sputum, contributing significantly to its viscosity. Dornase alfa enzymatically cleaves this extracellular DNA, thinning secretions and improving airway clearance.",
+      "whyWrongByChoice": {
+        "A": "Drawing water into the airway lumen via osmotic effect is the mechanism of hypertonic saline and inhaled mannitol, not dornase alfa.",
+        "B": "Breaking disulfide bonds within mucus glycoproteins is the mechanism of acetylcysteine (NAC), a mucolytic agent distinct from dornase alfa.",
+        "C": "Dornase alfa does not directly stimulate ciliary beat frequency. It works by reducing sputum viscosity through DNA cleavage, which indirectly facilitates mucociliary clearance.",
+        "E": "Blocking epithelial sodium channels is not the mechanism of any currently approved CF airway clearance therapy."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "dornase-alfa", "DNase", "airway-clearance"]
+  },
+  {
+    "id": "r15-005",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 9-year-old boy with cystic fibrosis presents with greasy, foul-smelling stools and poor weight gain despite a high-calorie diet. A 72-hour fecal fat test confirms steatorrhea. His physician prescribes pancrelipase (Creon) to be taken with every meal and snack. Which of the following best explains the underlying pathophysiology requiring this treatment?",
+    "choices": [
+      {"label": "A", "text": "Thick secretions obstructing pancreatic ducts"},
+      {"label": "B", "text": "Antibiotic-induced intestinal flora loss"},
+      {"label": "C", "text": "Defective pancreatic enzyme synthesis"},
+      {"label": "D", "text": "Impaired bile acid synthesis from cirrhosis"},
+      {"label": "E", "text": "Small intestinal villous atrophy"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "In CF, defective CFTR leads to thick, dehydrated secretions that obstruct pancreatic ducts, preventing digestive enzymes from reaching the small intestine. This causes pancreatic exocrine insufficiency with fat malabsorption (steatorrhea), requiring pancreatic enzyme replacement therapy.",
+      "whyCorrect": "Dysfunctional CFTR in the pancreatic ductal epithelium results in inadequate chloride and water secretion, producing thick mucus that plugs the ducts. This obstructs delivery of lipase, amylase, and protease to the duodenum, causing maldigestion and malabsorption, especially of fat.",
+      "whyWrongByChoice": {
+        "C": "The pancreatic acinar cells can still synthesize enzymes. The problem is that thick secretions obstruct the ducts, preventing enzyme delivery, not a primary defect in enzyme production.",
+        "B": "While CF patients frequently use antibiotics, the steatorrhea results from pancreatic exocrine insufficiency due to ductal obstruction, not from disruption of intestinal flora.",
+        "D": "Although CF can cause liver disease and biliary cirrhosis, the primary cause of steatorrhea in CF is pancreatic exocrine insufficiency from ductal obstruction.",
+        "E": "Villous atrophy is characteristic of celiac disease, not cystic fibrosis. The intestinal mucosa is generally intact in CF."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "pancreatic-insufficiency", "pancrelipase", "steatorrhea"]
+  },
+  {
+    "id": "r15-006",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 14-year-old girl with cystic fibrosis has been using chest physiotherapy with a percussion vest twice daily since childhood. She is adherent to scheduled sessions and reports improved sputum clearance with each session. Her FEV1 has remained stable over 2 years. Which of the following best describes how this device aids her pulmonary disease management?",
+    "choices": [
+      {"label": "A", "text": "Delivers aerosolized medication to airways"},
+      {"label": "B", "text": "Vibrates the chest to loosen mucus"},
+      {"label": "C", "text": "Provides continuous positive airway pressure"},
+      {"label": "D", "text": "Strengthens respiratory muscles via resistance"},
+      {"label": "E", "text": "Increases tidal volume by chest splinting"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "A percussion vest is a chest physiotherapy device that mechanically vibrates the patient's chest at scheduled sessions to break up the thick, tenacious mucus characteristic of CF, facilitating expectoration and airway clearance.",
+      "whyCorrect": "The percussion vest oscillates rapidly against the chest wall, generating vibrations that loosen and mobilize thick airway secretions. This is a cornerstone of airway clearance in CF, typically performed multiple times daily.",
+      "whyWrongByChoice": {
+        "A": "The percussion vest does not deliver aerosolized medications. Nebulizers and metered-dose inhalers are used for drug delivery.",
+        "C": "Continuous positive airway pressure (CPAP) is used for conditions like sleep apnea. The percussion vest works through oscillation, not sustained positive pressure.",
+        "D": "The vest does not provide resistance training for respiratory muscles. Its purpose is to dislodge mucus through external chest wall vibration.",
+        "E": "The vest does not increase tidal volume or splint the chest wall. Its therapeutic effect comes from high-frequency oscillations that mobilize secretions."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "chest-physiotherapy", "percussion-vest", "airway-clearance"]
+  },
+  {
+    "id": "r15-007",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 20-year-old woman with cystic fibrosis and chronic Pseudomonas aeruginosa infection is prescribed azithromycin three times weekly. Her sputum cultures continue to grow Pseudomonas despite this therapy, yet her pulmonary exacerbation frequency has decreased from 4 to 1 per year. Which of the following best explains the rationale for chronic azithromycin in this patient?",
+    "choices": [
+      {"label": "A", "text": "Direct bactericidal activity against Pseudomonas"},
+      {"label": "B", "text": "Anti-inflammatory and anti-biofilm properties"},
+      {"label": "C", "text": "Prophylaxis against Aspergillus colonization"},
+      {"label": "D", "text": "Synergistic augmentation of inhaled tobramycin"},
+      {"label": "E", "text": "Prevention of CF-related diabetes onset"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Chronic azithromycin therapy in CF patients with Pseudomonas colonization is used primarily for its anti-inflammatory effects, which include modulating the neutrophilic inflammatory response and potentially disrupting bacterial biofilms. This reduces exacerbation frequency.",
+      "whyCorrect": "Azithromycin's benefits in CF appear largely anti-inflammatory, with possible anti-biofilm and quorum-sensing interference effects. Clinical trials have demonstrated reduced pulmonary exacerbations in CF patients with chronic Pseudomonas infection who take azithromycin regularly.",
+      "whyWrongByChoice": {
+        "A": "Azithromycin does not eradicate Pseudomonas, which is intrinsically resistant to macrolides. Its benefits come from immunomodulatory and anti-biofilm properties rather than direct bactericidal activity.",
+        "C": "Azithromycin does not provide antifungal prophylaxis. It is a macrolide antibiotic with no activity against Aspergillus species.",
+        "D": "Azithromycin is not used to augment tobramycin activity. These are independent therapies with different mechanisms and targets.",
+        "E": "CFRD results from progressive pancreatic islet cell damage, not from airway inflammation. Azithromycin has no effect on preventing diabetes."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "azithromycin", "anti-inflammatory", "Pseudomonas"]
+  },
+  {
+    "id": "r15-008",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 7-year-old boy with cystic fibrosis is started on inhaled hypertonic saline as part of his airway clearance regimen. His physician also prescribes albuterol to be used immediately before the hypertonic saline. During a clinic visit, the boy's father asks why the bronchodilator must be given first. Which of the following best explains this practice?",
+    "choices": [
+      {"label": "A", "text": "To prevent saline-induced bronchospasm"},
+      {"label": "B", "text": "To increase airway mucus production"},
+      {"label": "C", "text": "To enhance sodium channel absorption"},
+      {"label": "D", "text": "To reduce risk of systemic hypernatremia"},
+      {"label": "E", "text": "To raise the osmolality of saline"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Hypertonic saline can provoke bronchospasm in some CF patients. Pre-treatment with a short-acting bronchodilator such as albuterol improves tolerability and ensures adequate drug delivery to the distal airways.",
+      "whyCorrect": "Hypertonic saline is an osmotic agent that draws water into the airway lumen, improving mucus hydration and clearance. However, it can irritate the airways and trigger bronchospasm. Administering albuterol beforehand relaxes airway smooth muscle, preventing bronchospasm and improving tolerability.",
+      "whyWrongByChoice": {
+        "B": "Bronchodilators do not increase mucus production. They relax bronchial smooth muscle. The goal of hypertonic saline is to improve clearance of existing mucus.",
+        "C": "Enhanced sodium absorption is not the goal. Hypertonic saline works by drawing water osmotically into the airway lumen to hydrate mucus.",
+        "D": "Systemic hypernatremia from inhaled hypertonic saline is not a clinically significant concern. The bronchodilator is given to prevent local airway reactivity.",
+        "E": "A bronchodilator does not alter the osmolality of hypertonic saline. These are separate medications with distinct mechanisms."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "hypertonic-saline", "bronchodilator", "airway-clearance"]
+  },
+  {
+    "id": "r15-009",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 30-year-old man with cystic fibrosis is evaluated for progressive jaundice and hepatomegaly. Laboratory studies show elevated alkaline phosphatase, conjugated bilirubin, and gamma-glutamyl transferase. Liver biopsy reveals inspissated eosinophilic material within bile ductules with surrounding portal fibrosis. His hepatologist explains that this pattern is characteristic of CF-related liver disease. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Autoimmune hepatitis"},
+      {"label": "B", "text": "Nonalcoholic fatty liver disease"},
+      {"label": "C", "text": "Primary sclerosing cholangitis"},
+      {"label": "D", "text": "Drug-induced hepatotoxicity"},
+      {"label": "E", "text": "Focal biliary cirrhosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "CF-related liver disease occurs when thick, dehydrated biliary secretions obstruct intrahepatic bile ductules. This leads to focal biliary cirrhosis, characterized by inspissated bile within ductules and surrounding portal fibrosis.",
+      "whyCorrect": "Defective CFTR in biliary epithelial cells produces thick, dehydrated bile that obstructs small bile ductules. This causes focal areas of bile duct proliferation, portal inflammation, and progressive fibrosis, termed focal biliary cirrhosis — the characteristic hepatic lesion of CF.",
+      "whyWrongByChoice": {
+        "A": "Autoimmune hepatitis presents with markedly elevated transaminases, positive autoantibodies, and interface hepatitis on biopsy. The cholestatic pattern and inspissated material point to biliary obstruction.",
+        "B": "Nonalcoholic fatty liver disease shows hepatic steatosis on biopsy, not inspissated ductular material. While CF patients can develop steatosis, these biopsy findings are classic for biliary cirrhosis.",
+        "C": "Primary sclerosing cholangitis involves inflammation and fibrosis of large bile ducts with onion-skin periductal fibrosis. CF liver disease involves small intrahepatic ductules.",
+        "D": "CFTR modulators can cause transaminase elevations, but inspissated material in bile ductules with portal fibrosis is characteristic of CF biliary disease, not drug toxicity."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "liver-disease", "biliary-cirrhosis", "hepatology"]
+  },
+  {
+    "id": "r15-010",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 25-year-old woman with cystic fibrosis homozygous for the G551D mutation is started on ivacaftor monotherapy. Her sweat chloride decreases from 98 to 48 mEq/L over 2 weeks and her FEV1 improves by 10 percentage points. Her physician explains that monotherapy is sufficient for this specific mutation. Which of the following best describes the mechanism of ivacaftor?",
+    "choices": [
+      {"label": "A", "text": "Corrects CFTR misfolding in the ER"},
+      {"label": "B", "text": "Replaces CFTR via gene therapy vector"},
+      {"label": "C", "text": "Increases CFTR channel open probability"},
+      {"label": "D", "text": "Inhibits proteasomal CFTR degradation"},
+      {"label": "E", "text": "Activates alternative chloride channels"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Ivacaftor is a CFTR potentiator that increases the open probability of CFTR channels already present at the cell surface. The G551D mutation causes a gating defect where CFTR reaches the membrane but does not open normally, making it ideal for potentiator therapy.",
+      "whyCorrect": "Ivacaftor binds to CFTR protein at the cell surface and increases the time the channel spends in the open state, enhancing chloride transport. The G551D mutation produces a CFTR protein that traffics normally to the membrane but has impaired gating, so potentiator monotherapy alone can substantially restore function.",
+      "whyWrongByChoice": {
+        "A": "Correcting protein misfolding in the ER is the mechanism of CFTR correctors (e.g., lumacaftor, tezacaftor, elexacaftor), not potentiators like ivacaftor.",
+        "B": "Gene therapy for CF remains investigational. Ivacaftor is a small-molecule drug that enhances the function of existing mutant CFTR protein.",
+        "D": "Ivacaftor does not inhibit proteasomal degradation. CFTR correctors address trafficking and processing, while ivacaftor acts on channels at the surface.",
+        "E": "Ivacaftor acts directly on the CFTR channel itself, not on alternative chloride channels. Its effect depends on CFTR protein presence at the cell surface."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "ivacaftor", "potentiator", "G551D", "pharmacology"]
+  },
+  {
+    "id": "r15-011",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 19-year-old man with cystic fibrosis presents with increased cough and purulent sputum. Sputum culture grows mucoid Pseudomonas aeruginosa with intermediate susceptibility to several antipseudomonals. His physician initiates intravenous therapy with two antipseudomonal agents. Repeat cultures one week later show no growth. Which of the following best explains the rationale for double coverage?",
+    "choices": [
+      {"label": "A", "text": "Synergistic killing with resistance prevention"},
+      {"label": "B", "text": "Reduction of total treatment duration"},
+      {"label": "C", "text": "Coverage of anaerobic co-pathogens"},
+      {"label": "D", "text": "Prevention of allergic drug reactions"},
+      {"label": "E", "text": "Dose reduction to prevent renal toxicity"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "During acute pulmonary exacerbations in CF, double coverage for Pseudomonas aeruginosa is used because of the severity of infection and the high risk of antibiotic resistance. Two agents provide synergistic bactericidal activity and reduce the likelihood of resistance emergence.",
+      "whyCorrect": "CF patients face repeated antibiotic exposures that select for resistant Pseudomonas strains. Dual antipseudomonal therapy provides synergistic killing and reduces the probability that resistant organisms will survive treatment, improving clinical outcomes.",
+      "whyWrongByChoice": {
+        "D": "Double coverage is not used to prevent allergic reactions. Allergy management involves drug selection and desensitization, not adding a second antibiotic.",
+        "B": "Double coverage does not necessarily reduce the total duration of therapy. Treatment duration is determined by clinical response.",
+        "C": "Anaerobic co-pathogens are not the primary concern in CF pulmonary exacerbations. The dual therapy specifically targets Pseudomonas.",
+        "E": "Double coverage does not typically allow lower doses; CF patients often require higher doses due to altered pharmacokinetics."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "Pseudomonas", "antibiotics", "double-coverage"]
+  },
+  {
+    "id": "r15-012",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 15-year-old girl with cystic fibrosis and documented pancreatic insufficiency reports difficulty seeing at night while driving with her parents. Examination reveals dry, scaly skin on her arms and legs. Her serum retinol level is markedly low. Which of the following best explains why this deficiency is common in CF?",
+    "choices": [
+      {"label": "A", "text": "Fat malabsorption from pancreatic insufficiency"},
+      {"label": "B", "text": "Terminal ileum inflammation impairing B12"},
+      {"label": "C", "text": "Increased oxidative stress depleting vitamin C"},
+      {"label": "D", "text": "Impaired intestinal folate absorption"},
+      {"label": "E", "text": "Chronic hemorrhage causing iron depletion"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Night blindness and xerosis (dry, scaly skin) are classic manifestations of vitamin A deficiency. In CF, pancreatic exocrine insufficiency causes fat malabsorption, leading to deficiency of fat-soluble vitamins (A, D, E, K).",
+      "whyCorrect": "Vitamin A is a fat-soluble vitamin whose absorption depends on adequate pancreatic lipase activity and bile salts for micelle formation. CF patients with pancreatic insufficiency have impaired fat digestion, leading to malabsorption of fat-soluble vitamins.",
+      "whyWrongByChoice": {
+        "B": "Vitamin B12 deficiency occurs with terminal ileum disease (e.g., Crohn disease). CF does not typically cause terminal ileum inflammation, and B12 is water-soluble.",
+        "C": "Vitamin C is water-soluble and its absorption is not impaired in CF. Night blindness is not a feature of vitamin C deficiency.",
+        "D": "Folate is a water-soluble vitamin not typically deficient in CF. Fat-soluble vitamins (A, D, E, K) are at risk due to fat malabsorption.",
+        "E": "Iron deficiency causes microcytic anemia, not night blindness. Chronic pulmonary hemorrhage is not a typical feature of CF."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "vitamin-A", "fat-soluble-vitamins", "malabsorption"]
+  },
+  {
+    "id": "r15-013",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 35-year-old man with cystic fibrosis has an FEV1 of 22% predicted despite maximal medical therapy including CFTR modulators, inhaled antibiotics, and aggressive airway clearance. He has been hospitalized four times this year for pulmonary exacerbations and now uses supplemental oxygen at rest. His CF care team discusses definitive treatment options. Which of the following is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "High-dose systemic corticosteroids"},
+      {"label": "B", "text": "Continuous home mechanical ventilation"},
+      {"label": "C", "text": "Long-term intravenous immunoglobulin"},
+      {"label": "D", "text": "Addition of a second modulator regimen"},
+      {"label": "E", "text": "Bilateral lung transplantation referral"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "For end-stage CF lung disease with severely reduced FEV1 despite maximal therapy, bilateral lung transplantation is the definitive treatment option that can significantly improve survival and quality of life.",
+      "whyCorrect": "Lung transplantation is considered when CF patients have progressive decline to an FEV1 below 30% predicted despite optimal therapy, with frequent exacerbations and functional deterioration. Bilateral transplant is required because leaving a native CF lung would serve as a reservoir for chronic infection.",
+      "whyWrongByChoice": {
+        "A": "Systemic corticosteroids are not standard therapy for CF lung disease and carry significant side effects including glucose intolerance and osteoporosis.",
+        "B": "Chronic mechanical ventilation does not address the underlying lung destruction and is generally a bridge to transplant or palliative measure.",
+        "C": "Intravenous immunoglobulin has no established role in CF management. Recurrent infections are due to impaired mucociliary clearance, not immunoglobulin deficiency.",
+        "D": "CFTR modulators are most effective when started earlier in the disease course. At this stage with severely reduced lung function, another modulator is unlikely to help."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "lung-transplant", "end-stage", "management"]
+  },
+  {
+    "id": "r15-014",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 10-year-old boy with cystic fibrosis was started on elexacaftor/tezacaftor/ivacaftor 6 months ago. Routine liver function tests reveal ALT at 3 times the upper limit of normal. He is asymptomatic with no jaundice or hepatomegaly. His prior liver tests were normal before starting the medication. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "CF-related biliary cirrhosis"},
+      {"label": "B", "text": "Acute viral hepatitis A"},
+      {"label": "C", "text": "CFTR modulator hepatotoxicity"},
+      {"label": "D", "text": "Wilson disease presentation"},
+      {"label": "E", "text": "New autoimmune hepatitis"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Hepatotoxicity with transaminase elevations is a recognized adverse effect of CFTR modulator therapy, including elexacaftor/tezacaftor/ivacaftor. Liver function tests should be monitored periodically in patients on these medications.",
+      "whyCorrect": "CFTR modulators carry a known risk of hepatotoxicity manifesting as transaminase elevations. This is typically asymptomatic and detected on routine monitoring. The temporal association with starting the medication makes drug-related hepatotoxicity most likely.",
+      "whyWrongByChoice": {
+        "A": "CF-related biliary cirrhosis presents with a cholestatic pattern (elevated alkaline phosphatase, GGT, conjugated bilirubin) rather than isolated transaminase elevation.",
+        "B": "While hepatitis A is possible, the temporal relationship to initiating a known hepatotoxic medication makes drug effect far more likely.",
+        "D": "Wilson disease typically presents in older children with additional features such as Kayser-Fleischer rings and low ceruloplasmin.",
+        "E": "Autoimmune hepatitis would show positive autoantibodies and often hypergammaglobulinemia. The timing after starting a hepatotoxic medication makes drug effect most likely."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR-modulators", "hepatotoxicity", "adverse-effects"]
+  },
+  {
+    "id": "r15-015",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A nutritionist counsels the parents of a 6-year-old boy with cystic fibrosis about his dietary needs. Despite pancreatic enzyme replacement therapy, the child remains underweight at the 5th percentile for age. His caloric intake is currently at 100% of age-recommended levels. His pulmonologist emphasizes that improved nutrition will support his lung function. Which dietary recommendation is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Low-fat, high-fiber intake"},
+      {"label": "B", "text": "Protein-restricted meals daily"},
+      {"label": "C", "text": "Standard age-appropriate calories"},
+      {"label": "D", "text": "Carbohydrate-restricted ketogenic diet"},
+      {"label": "E", "text": "High-calorie, high-fat with vitamin supplements"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "CF patients require a high-calorie, high-fat diet due to malabsorption and increased metabolic demands from chronic lung disease. Fat-soluble vitamin supplementation (A, D, E, K) is essential because pancreatic insufficiency impairs absorption of these vitamins.",
+      "whyCorrect": "Children with CF have increased caloric needs due to chronic inflammation, increased work of breathing, and malabsorption despite enzyme replacement. A high-calorie, high-fat diet (typically 120-150% of recommended intake) with supplemental fat-soluble vitamins is the standard nutritional approach.",
+      "whyWrongByChoice": {
+        "A": "A low-fat diet would worsen malnutrition in CF patients who already struggle to absorb adequate calories. Fat is a concentrated calorie source these patients need.",
+        "B": "Protein restriction is not recommended in CF. These patients need increased protein intake to support growth and combat catabolic effects of chronic infection.",
+        "C": "Standard age-appropriate caloric intake is insufficient for CF patients who have significantly increased energy expenditure and ongoing malabsorption.",
+        "D": "A carbohydrate-restricted ketogenic diet is not recommended for CF patients. Adequate carbohydrate intake is important for energy."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "nutrition", "fat-soluble-vitamins", "high-calorie-diet"]
+  },
+  {
+    "id": "r15-016",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 17-year-old girl with cystic fibrosis is hospitalized for a pulmonary exacerbation. Sputum culture grows mucoid Pseudomonas aeruginosa. Her CF pharmacist notes that standard antibiotic doses may be subtherapeutic and orders therapeutic drug monitoring for her IV tobramycin. Trough levels confirm accelerated drug clearance. Which of the following best explains why CF patients often need higher antibiotic doses?",
+    "choices": [
+      {"label": "A", "text": "Slower hepatic drug activation"},
+      {"label": "B", "text": "Altered pharmacokinetics with increased clearance"},
+      {"label": "C", "text": "Enzymatic inactivation by airway mucus"},
+      {"label": "D", "text": "Reduced receptor binding from malnutrition"},
+      {"label": "E", "text": "CYP450 induction by CFTR modulators"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "CF can alter antibiotic pharmacokinetics, often increasing renal clearance and volume of distribution. This necessitates higher doses to achieve adequate serum and tissue concentrations for therapeutic efficacy.",
+      "whyCorrect": "Patients with CF frequently demonstrate augmented renal clearance and increased volume of distribution for many antibiotics, including aminoglycosides and beta-lactams. These pharmacokinetic alterations mean that standard doses may produce subtherapeutic concentrations.",
+      "whyWrongByChoice": {
+        "A": "Impaired hepatic metabolism would lead to higher drug levels, not lower. CF patients typically have enhanced, not impaired, drug clearance.",
+        "C": "Airway mucus does not enzymatically inactivate antibiotics. While mucus can impair drug penetration, this is addressed by inhaled routes and higher dosing.",
+        "D": "Malnutrition does not reduce antibiotic receptor binding affinity. Antibiotic targets are on the bacteria, not the host.",
+        "E": "While CFTR modulators interact with some CYP450 enzymes, the need for higher antibiotic doses in CF predates modulators and reflects intrinsic pharmacokinetic differences."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "pharmacokinetics", "antibiotics", "dosing"]
+  },
+  {
+    "id": "r15-017",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "An 8-year-old boy with cystic fibrosis and mild lung disease is prescribed high-dose ibuprofen to slow the decline in lung function. His physician schedules him for periodic monitoring of specific adverse effects. His parents ask what risks require surveillance on this therapy. Which of the following adverse effects requires periodic monitoring?",
+    "choices": [
+      {"label": "A", "text": "Hepatic fibrosis progression"},
+      {"label": "B", "text": "Optic neuritis development"},
+      {"label": "C", "text": "Pulmonary eosinophilia"},
+      {"label": "D", "text": "Bone marrow suppression"},
+      {"label": "E", "text": "GI bleeding and renal impairment"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "High-dose NSAID therapy with ibuprofen can slow the rate of lung function decline in children with mild CF lung disease, but it requires close periodic monitoring for GI bleeding and renal impairment, which are well-known NSAID adverse effects.",
+      "whyCorrect": "NSAIDs inhibit cyclooxygenase, reducing prostaglandin-mediated gastric mucosal protection and renal vasodilation. High-dose ibuprofen used chronically increases the risk of GI hemorrhage and nephrotoxicity.",
+      "whyWrongByChoice": {
+        "A": "Hepatic fibrosis is not a typical adverse effect of ibuprofen. The primary monitoring concerns are GI and renal.",
+        "B": "Optic neuritis is associated with ethambutol, not ibuprofen. NSAIDs are not known to cause significant ocular toxicity.",
+        "D": "Bone marrow suppression is not a recognized adverse effect of ibuprofen. This is more characteristic of certain disease-modifying or chemotherapeutic agents.",
+        "C": "Pulmonary eosinophilia is not associated with NSAID use. NSAIDs can cause aspirin-exacerbated respiratory disease but not eosinophilic infiltrates."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "ibuprofen", "NSAID", "anti-inflammatory", "adverse-effects"]
+  },
+  {
+    "id": "r15-018",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 26-year-old woman with cystic fibrosis and CF-related diabetes is counseled about nutritional management. Her endocrinologist emphasizes that CFRD dietary recommendations differ markedly from those for type 2 diabetes. Her current BMI is 19 kg/m² and her FEV1 is 60% predicted. Which of the following best describes the appropriate nutritional approach?",
+    "choices": [
+      {"label": "A", "text": "Caloric restriction to reduce BMI"},
+      {"label": "B", "text": "Low-carbohydrate, high-protein meals"},
+      {"label": "C", "text": "Very-low-fat diet to spare pancreas"},
+      {"label": "D", "text": "High-calorie diet coordinated with insulin"},
+      {"label": "E", "text": "Intermittent fasting for insulin sensitivity"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Unlike type 2 diabetes, CFRD management prioritizes maintaining adequate caloric intake with a high-calorie, nutrient-dense diet because CF patients need to support weight and lung function. Insulin doses are adjusted to the diet rather than restricting calories.",
+      "whyCorrect": "CF patients with CFRD still require high-calorie, nutrient-dense diets to maintain weight and pulmonary health. Insulin therapy is coordinated with dietary intake rather than using dietary restriction as the primary glucose control strategy.",
+      "whyWrongByChoice": {
+        "A": "Caloric restriction is contraindicated in CF patients who typically need 120-150% of standard caloric intake. Weight loss would worsen pulmonary outcomes.",
+        "B": "Low-carbohydrate diets are not recommended for CFRD. Adequate carbohydrate intake is needed for energy, and insulin is adjusted to cover dietary needs.",
+        "C": "Very-low-fat diets would deprive CF patients of an essential concentrated calorie source. Fat malabsorption is managed with enzyme replacement.",
+        "E": "Intermittent fasting is inappropriate for CF patients who require consistent, frequent caloric intake to maintain weight."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFRD", "nutrition", "diabetes-management"]
+  },
+  {
+    "id": "r15-019",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 21-year-old man with cystic fibrosis is homozygous for the F508del mutation. His physician recommends triple combination therapy with elexacaftor/tezacaftor/ivacaftor rather than ivacaftor alone. The patient asks why a single potentiator is insufficient for his mutation. Which of the following best explains the need for triple therapy?",
+    "choices": [
+      {"label": "A", "text": "F508del is a nonsense mutation producing no protein"},
+      {"label": "B", "text": "F508del causes both trafficking and gating defects"},
+      {"label": "C", "text": "Homozygosity requires triple gene dosage coverage"},
+      {"label": "D", "text": "F508del CFTR resists potentiator binding"},
+      {"label": "E", "text": "F508del affects three separate CFTR exons"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "The F508del mutation causes CFTR protein to misfold in the endoplasmic reticulum, resulting in defective trafficking to the cell surface. Even the small amount that reaches the membrane has impaired gating. Correctors restore trafficking while the potentiator improves channel opening.",
+      "whyCorrect": "F508del produces a CFTR protein with multiple defects: misfolding leading to ER retention and proteasomal degradation (addressed by correctors), and reduced channel open probability at the surface (addressed by the potentiator). Combining corrector(s) + potentiator addresses both defects simultaneously.",
+      "whyWrongByChoice": {
+        "A": "F508del is a missense/deletion mutation that produces a misfolded CFTR protein, not a nonsense mutation. Nonsense mutations produce truncated or no protein.",
+        "C": "Gene dosage does not determine the number of drugs needed. The mutation itself causes multiple protein defects requiring different drug mechanisms.",
+        "D": "The F508del CFTR protein is not resistant to potentiator binding. However, too little F508del CFTR reaches the cell surface without correctors for a potentiator alone to work.",
+        "E": "F508del is a three-nucleotide deletion in a single exon (exon 11). The three drugs address different protein defects, not different exons."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "F508del", "triple-therapy", "CFTR-modulators"]
+  },
+  {
+    "id": "r15-020",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 13-year-old girl with cystic fibrosis is prescribed inhaled acetylcysteine as an adjunctive mucolytic. Shortly after the first treatment, she develops cough, wheezing, and chest tightness. Pulse oximetry drops from 97% to 93%. Albuterol nebulization resolves her symptoms within minutes. Which of the following best explains this adverse effect?",
+    "choices": [
+      {"label": "A", "text": "Airway irritation causing bronchospasm"},
+      {"label": "B", "text": "IgE-mediated hypersensitivity reaction"},
+      {"label": "C", "text": "Direct mast cell degranulation"},
+      {"label": "D", "text": "Toxic reactive oxygen species generation"},
+      {"label": "E", "text": "Inhibition of surfactant production"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "Acetylcysteine is a mucolytic that disrupts disulfide bonds within mucus glycoproteins, reducing viscosity. However, it can cause airway irritation and bronchospasm in some patients, which may limit its use and require pre-treatment with a bronchodilator.",
+      "whyCorrect": "Inhaled acetylcysteine can irritate airway mucosa and trigger reflex bronchospasm, particularly in patients with hyperreactive airways. This is a well-recognized adverse effect that sometimes limits its use or requires bronchodilator pre-treatment.",
+      "whyWrongByChoice": {
+        "C": "Acetylcysteine does not directly activate mast cells. The bronchospasm is due to direct airway irritation, not a mast cell-mediated mechanism.",
+        "B": "The reaction is not IgE-mediated. Bronchospasm from acetylcysteine is a local irritant response, not an allergic hypersensitivity reaction.",
+        "D": "Acetylcysteine's sulfhydryl groups actually serve as antioxidants (as a precursor to glutathione), not as generators of reactive oxygen species.",
+        "E": "Acetylcysteine does not inhibit surfactant production. Its mechanism involves breaking disulfide bonds in mucus glycoproteins."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "acetylcysteine", "mucolytic", "bronchospasm"]
+  },
+  {
+    "id": "r15-021",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 4-year-old boy with cystic fibrosis is about to start CFTR modulator therapy. His ophthalmologist performs a baseline lens examination and schedules periodic follow-up eye exams. The parents ask why eye monitoring is needed for a lung medication. Which of the following ocular adverse effects is the primary concern in pediatric patients?",
+    "choices": [
+      {"label": "A", "text": "Glaucoma development"},
+      {"label": "B", "text": "Retinal detachment risk"},
+      {"label": "C", "text": "Optic nerve atrophy"},
+      {"label": "D", "text": "Cataract formation"},
+      {"label": "E", "text": "Corneal ulceration"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "CFTR modulators have been rarely associated with cataracts in pediatric patients. Baseline and periodic ophthalmologic examinations are recommended for children starting these medications.",
+      "whyCorrect": "Cataracts have been reported as a rare adverse effect of CFTR modulator therapy, particularly in pediatric patients. Guidelines recommend baseline and periodic lens examinations in children and adolescents receiving these drugs.",
+      "whyWrongByChoice": {
+        "A": "Glaucoma is not a recognized adverse effect of CFTR modulator therapy. The primary ocular concern is cataract formation.",
+        "B": "Retinal detachment has not been associated with CFTR modulator use. This is typically related to high myopia or trauma.",
+        "C": "Optic atrophy is not linked to CFTR modulators. This finding is associated with conditions such as multiple sclerosis or ethambutol toxicity.",
+        "E": "Corneal ulceration is not a reported adverse effect of CFTR modulators."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "CFTR-modulators", "cataracts", "pediatric", "adverse-effects"]
+  },
+  {
+    "id": "r15-022",
+    "topicId": "cystic-fibrosis-2",
+    "topicName": "Cystic Fibrosis (Part 2)",
+    "stem": "A 23-year-old woman with cystic fibrosis is hospitalized for a severe pulmonary exacerbation. Her care team reviews infection prevention measures because she was recently found to be colonized with a pan-resistant Burkholderia cepacia complex. Another CF patient is on the same hospital floor. Which of the following is the most important infection control practice?",
+    "choices": [
+      {"label": "A", "text": "Prophylactic systemic antifungal therapy"},
+      {"label": "B", "text": "Empiric anti-tubercular medication coverage"},
+      {"label": "C", "text": "Continuous UV light room sterilization"},
+      {"label": "D", "text": "Complete restriction of all hospital visitors"},
+      {"label": "E", "text": "Strict contact and respiratory precautions"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Hospitalized CF patients require strict contact and respiratory precautions, including physical distancing from other patients with respiratory infections, to prevent cross-infection with resistant organisms like Pseudomonas and Burkholderia species.",
+      "whyCorrect": "Infections cause high mortality in CF, so prevention is critical. Strict contact and respiratory precautions are essential, along with physical distancing from other CF patients, to prevent acquisition of resistant pathogens or cross-transmission.",
+      "whyWrongByChoice": {
+        "A": "Prophylactic systemic antifungals are not routinely recommended. Antifungal therapy is reserved for diagnosed fungal infections.",
+        "B": "Empiric anti-tubercular therapy is not indicated without evidence of tuberculosis. CF patients are not at inherently increased risk for TB.",
+        "C": "Continuous UV light sterilization is not a standard infection control measure. Standard contact and respiratory precautions are evidence-based.",
+        "D": "Complete visitor restriction is not necessary. Appropriate hand hygiene and screening for active respiratory illness in visitors are sufficient."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["cystic-fibrosis", "infection-control", "hospitalization", "prevention"]
+  },
+  {
+    "id": "r15-023",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 7-year-old girl presents with a 2-day history of sore throat and fever of 38.9°C. Physical examination reveals tonsillar enlargement with purulent exudates and tender anterior cervical lymphadenopathy. She has no cough, rhinorrhea, or conjunctivitis. A rapid antigen detection test is positive. Which of the following is the most likely causative organism?",
+    "choices": [
+      {"label": "A", "text": "Adenovirus infection"},
+      {"label": "B", "text": "Epstein-Barr virus"},
+      {"label": "C", "text": "Parainfluenza virus"},
+      {"label": "D", "text": "Respiratory syncytial virus"},
+      {"label": "E", "text": "Group A Streptococcus"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This presentation — fever, tonsillar exudates, tender anterior cervical lymphadenopathy, and absence of cough — is classic for Group A Streptococcus (GAS) pharyngitis.",
+      "whyCorrect": "GAS pharyngitis characteristically presents with fever, sore throat, tonsillar enlargement with purulent exudates, tender anterior cervical lymphadenopathy, and notably the absence of cough. These features are part of the Centor criteria.",
+      "whyWrongByChoice": {
+        "A": "Adenovirus pharyngitis typically presents with concurrent cough, nasal congestion, and conjunctivitis. The absence of these viral symptoms makes adenovirus less likely.",
+        "B": "EBV mononucleosis presents with fatigue, posterior cervical lymphadenopathy, and splenomegaly, most commonly in adolescents and young adults.",
+        "C": "Parainfluenza virus typically causes croup in children, not isolated pharyngitis with tonsillar exudates.",
+        "D": "RSV primarily causes lower respiratory tract infections (bronchiolitis) in infants, not pharyngitis with tonsillar exudates in school-age children."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pharyngitis", "GAS", "strep-throat", "Centor-criteria"]
+  },
+  {
+    "id": "r15-024",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 10-year-old boy presents with sore throat, fever, and tonsillar exudates. A rapid antigen detection test for Group A Streptococcus is negative. His physician notes that the clinical features strongly suggest streptococcal infection. The RADT has approximately 90% sensitivity. Which of the following is the most appropriate next step?",
+    "choices": [
+      {"label": "A", "text": "Treat empirically with amoxicillin"},
+      {"label": "B", "text": "Obtain anti-streptolysin O titers"},
+      {"label": "C", "text": "Send a throat culture"},
+      {"label": "D", "text": "Prescribe ibuprofen and reassure"},
+      {"label": "E", "text": "Order a complete blood count"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "When the RADT is negative but clinical suspicion for GAS pharyngitis remains high, a throat culture should be obtained. Throat culture has 99% sensitivity for detecting streptococcal infection and is the confirmatory test after a negative RADT.",
+      "whyCorrect": "The RADT has approximately 90% sensitivity, meaning up to 10% of true GAS infections may be missed. When clinical suspicion is high despite a negative RADT, a throat culture should be performed because it has 99% sensitivity.",
+      "whyWrongByChoice": {
+        "A": "Empiric antibiotic treatment without confirmation is not recommended because it exposes the patient to unnecessary side effects and contributes to antibiotic resistance.",
+        "B": "Anti-streptolysin O titers indicate past streptococcal infection and are used to diagnose post-streptococcal complications, not acute pharyngitis.",
+        "D": "Symptomatic treatment alone is appropriate only if GAS has been ruled out. With high clinical suspicion, further testing is needed.",
+        "E": "A CBC may show leukocytosis but is nonspecific. Throat culture is the appropriate confirmatory test."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pharyngitis", "GAS", "RADT", "throat-culture", "diagnosis"]
+  },
+  {
+    "id": "r15-025",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 3-year-old boy presents to the emergency department at midnight with a barking cough, inspiratory stridor, and hoarseness that began tonight. His father reports a runny nose and low-grade fever for the past 2 days. Oxygen saturation is 97% and he appears comfortable between coughing spells. An AP neck radiograph shows symmetric subglottic narrowing. Which radiographic finding is this?",
+    "choices": [
+      {"label": "A", "text": "Thumbprint sign"},
+      {"label": "B", "text": "Sail sign"},
+      {"label": "C", "text": "Steeple sign"},
+      {"label": "D", "text": "Maxillary air-fluid levels"},
+      {"label": "E", "text": "Widened mediastinum"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This presentation — a toddler with barking cough, stridor, hoarseness, and a preceding URI — is classic for croup. The steeple sign on AP neck radiograph represents subglottic narrowing from mucosal edema.",
+      "whyCorrect": "The steeple sign is the characteristic radiographic finding in croup. It appears on an AP view as symmetric narrowing of the subglottic airway, creating a pointed appearance like a church steeple, caused by mucosal edema below the vocal cords.",
+      "whyWrongByChoice": {
+        "A": "The thumbprint sign is seen on lateral neck radiograph in epiglottitis, where the swollen epiglottis appears thumb-like.",
+        "B": "The sail sign refers to an enlarged thymus on chest radiograph in young children, a normal finding unrelated to croup.",
+        "D": "Air-fluid levels in the maxillary sinuses indicate sinusitis, not croup.",
+        "E": "A widened mediastinum is associated with thoracic aortic pathology or lymphoma, not laryngotracheobronchitis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["croup", "steeple-sign", "parainfluenza", "radiology"]
+  },
+  {
+    "id": "r15-026",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 4-year-old girl is brought to the emergency department with high fever of 40°C, drooling, a muffled \"hot-potato\" voice, and severe respiratory distress. She is sitting in a tripod position and appears toxic. Symptoms developed rapidly over several hours. The physician avoids examining her oropharynx. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Obtain throat culture first"},
+      {"label": "B", "text": "Administer nebulized racemic epinephrine"},
+      {"label": "C", "text": "Perform direct laryngoscopy immediately"},
+      {"label": "D", "text": "Secure the airway via intubation"},
+      {"label": "E", "text": "Give oral dexamethasone and discharge"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This presentation is classic for epiglottitis, a medical emergency. The immediate priority is securing the airway because the swollen epiglottis can rapidly cause complete airway obstruction.",
+      "whyCorrect": "Epiglottitis is a life-threatening emergency where the airway can occlude rapidly. In a child in respiratory distress with signs of epiglottitis, endotracheal intubation should not be delayed.",
+      "whyWrongByChoice": {
+        "A": "Obtaining a throat culture before securing the airway is inappropriate. Oropharyngeal examination can cause agitation and acute airway deterioration.",
+        "B": "Nebulized racemic epinephrine is used for croup, not epiglottitis. In epiglottitis, the obstruction is supraglottic.",
+        "C": "Direct laryngoscopy in a distressed child with epiglottitis can precipitate complete airway obstruction and cardiorespiratory arrest.",
+        "E": "Oral dexamethasone and discharge is appropriate for mild croup, not epiglottitis requiring immediate airway management."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["epiglottitis", "airway-emergency", "intubation", "management"]
+  },
+  {
+    "id": "r15-027",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 9-year-old girl is diagnosed with Group A Streptococcus pharyngitis by rapid antigen testing. She has no known drug allergies. Her physician discusses the importance of antibiotic selection to prevent rheumatic fever while minimizing disruption of normal oral flora. Which of the following is the most appropriate first-line antibiotic?",
+    "choices": [
+      {"label": "A", "text": "Oral azithromycin"},
+      {"label": "B", "text": "Oral amoxicillin"},
+      {"label": "C", "text": "IV ceftriaxone"},
+      {"label": "D", "text": "Oral clindamycin"},
+      {"label": "E", "text": "Oral doxycycline"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "For GAS pharyngitis in patients without penicillin allergy, a penicillin (usually amoxicillin or penicillin V) is the first-line treatment. These antibiotics are well tolerated, have excellent activity against GAS, and help prevent rheumatic fever.",
+      "whyCorrect": "Amoxicillin is the first-line antibiotic for GAS pharyngitis because it has excellent activity against Group A Streptococcus, is well tolerated, has a narrow enough spectrum to minimize flora disruption, and prevents rheumatic fever.",
+      "whyWrongByChoice": {
+        "A": "Azithromycin is a second-line option reserved for patients with penicillin allergy. Macrolide resistance in GAS exists, and penicillins have superior efficacy.",
+        "C": "Ceftriaxone is unnecessarily broad for uncomplicated GAS pharyngitis and requires injection.",
+        "D": "Clindamycin is an alternative for penicillin-allergic patients but is not first-line due to broader spectrum and Clostridioides difficile risk.",
+        "E": "Doxycycline is not recommended for GAS pharyngitis and is avoided in children under 8 due to tooth discoloration."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pharyngitis", "GAS", "amoxicillin", "antibiotics"]
+  },
+  {
+    "id": "r15-028",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 19-year-old college student presents with a 5-day history of fatigue, sore throat, and fever. Physical examination reveals posterior cervical lymphadenopathy and pharyngeal erythema with tonsillar enlargement. CBC shows an absolute lymphocyte count of 6,200/μL with atypical lymphocytes. A heterophile antibody test is positive. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Group A Streptococcus pharyngitis"},
+      {"label": "B", "text": "Cytomegalovirus pharyngitis"},
+      {"label": "C", "text": "Acute HIV seroconversion illness"},
+      {"label": "D", "text": "Adenoviral upper respiratory infection"},
+      {"label": "E", "text": "Epstein-Barr virus mononucleosis"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This young adult presents with the classic triad of infectious mononucleosis: fatigue, pharyngitis, and lymphadenopathy. The increased atypical lymphocytes and positive heterophile test confirm EBV infection.",
+      "whyCorrect": "Infectious mononucleosis caused by EBV classically presents in adolescents and young adults with fatigue, sore throat, fever, and lymphadenopathy. Hallmark findings are lymphocytosis with atypical lymphocytes and a positive heterophile test (Monospot).",
+      "whyWrongByChoice": {
+        "A": "GAS pharyngitis presents with anterior cervical lymphadenopathy and tonsillar exudates but does not cause atypical lymphocytosis or positive heterophile test.",
+        "B": "CMV can cause a mononucleosis-like syndrome but typically has a negative heterophile test (heterophile-negative mono).",
+        "C": "Acute HIV can present with pharyngitis and lymphadenopathy but would not cause a positive heterophile antibody test.",
+        "D": "Adenoviral pharyngitis typically presents with conjunctivitis and does not produce positive heterophile testing or marked atypical lymphocytosis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pharyngitis", "EBV", "mononucleosis", "heterophile-test"]
+  },
+  {
+    "id": "r15-029",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 5-year-old boy is treated with amoxicillin for Group A Streptococcus pharyngitis. His mother asks which complications antibiotic treatment can prevent. The physician explains that one serious immune-mediated complication involving cardiac valve damage is most effectively prevented by prompt antibiotic therapy. Which complication is this?",
+    "choices": [
+      {"label": "A", "text": "Post-infectious glomerulonephritis"},
+      {"label": "B", "text": "Scarlet fever rash"},
+      {"label": "C", "text": "Acute rheumatic fever"},
+      {"label": "D", "text": "Reactive arthritis"},
+      {"label": "E", "text": "IgA nephropathy"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Antibiotic treatment of GAS pharyngitis most effectively prevents acute rheumatic fever, an immune-mediated complication that can cause permanent cardiac valve damage. Antibiotics do not reliably prevent post-infectious glomerulonephritis.",
+      "whyCorrect": "The primary reason for treating GAS pharyngitis with antibiotics is to prevent acute rheumatic fever, which involves molecular mimicry between streptococcal M protein and cardiac tissue. Prompt antibiotic therapy within 9 days significantly reduces this risk.",
+      "whyWrongByChoice": {
+        "A": "Post-infectious glomerulonephritis is not reliably prevented by antibiotic treatment. This complication is mediated by immune complex deposition.",
+        "B": "Scarlet fever is caused by streptococcal exotoxins and occurs concurrently with the acute infection. The rash typically appears before treatment is initiated.",
+        "D": "Reactive arthritis prevention is not the primary indication for treating GAS pharyngitis.",
+        "E": "IgA nephropathy is a chronic glomerular disease unrelated to acute streptococcal infection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pharyngitis", "GAS", "rheumatic-fever", "complications", "antibiotics"]
+  },
+  {
+    "id": "r15-030",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 2-year-old boy with croup has worsening respiratory distress with stridor at rest, subcostal retractions, and tachypnea despite cool mist therapy and a dose of oral dexamethasone 30 minutes ago. His oxygen saturation is 92%. The emergency physician prepares for the next intervention. Which of the following is most appropriate?",
+    "choices": [
+      {"label": "A", "text": "Nebulized racemic epinephrine"},
+      {"label": "B", "text": "Inhaled albuterol treatment"},
+      {"label": "C", "text": "Intravenous ceftriaxone"},
+      {"label": "D", "text": "Immediate endotracheal intubation"},
+      {"label": "E", "text": "Inhaled ipratropium bromide"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "For croup with worsening respiratory distress despite supportive care and corticosteroids, nebulized racemic epinephrine provides rapid, short-term relief through alpha-1-mediated vasoconstriction that reduces subglottic mucosal edema.",
+      "whyCorrect": "Racemic epinephrine acts via alpha-1-receptor-mediated vasoconstriction of the edematous subglottic mucosa, rapidly reducing swelling. Its beta-2 agonist effects also promote bronchodilation. It is the treatment of choice for moderate-to-severe croup not responding to initial therapy.",
+      "whyWrongByChoice": {
+        "B": "Albuterol is a beta-2 selective agonist for bronchospasm. It lacks the alpha-1 vasoconstrictive effect needed to reduce subglottic mucosal edema in croup.",
+        "C": "Croup is viral (most commonly parainfluenza), so antibiotics are not indicated. Ceftriaxone would be appropriate for bacterial epiglottitis.",
+        "D": "Intubation is reserved for severe cases with impending respiratory failure not responsive to racemic epinephrine. It should not be the next step before trying epinephrine.",
+        "E": "Ipratropium is an anticholinergic bronchodilator for asthma and COPD. It does not reduce subglottic mucosal edema."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["croup", "racemic-epinephrine", "management", "respiratory-distress"]
+  },
+  {
+    "id": "r15-031",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 6-year-old boy presents with a unilateral sore throat, fever, trismus, and uvular deviation to the left. He has a muffled voice and ear pain on the right side. CT scan of the neck shows a rim-enhancing fluid collection in the right peritonsillar space. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Acute epiglottitis"},
+      {"label": "B", "text": "Retropharyngeal abscess"},
+      {"label": "C", "text": "Viral tonsillitis"},
+      {"label": "D", "text": "Ludwig angina"},
+      {"label": "E", "text": "Peritonsillar abscess"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "Peritonsillar abscess is a complication of bacterial tonsillitis characterized by unilateral sore throat, fever, trismus, uvular deviation away from the affected side, and a muffled voice.",
+      "whyCorrect": "The combination of unilateral sore throat, trismus, uvular deviation (away from the affected side), muffled voice, and rim-enhancing peritonsillar fluid collection on CT is classic for peritonsillar abscess.",
+      "whyWrongByChoice": {
+        "A": "Epiglottitis presents with drooling, stridor, a hot-potato voice, and tripod positioning, not trismus or uvular deviation.",
+        "B": "Retropharyngeal abscess presents with neck stiffness and dysphagia, typically in younger children, not with trismus or uvular deviation.",
+        "D": "Ludwig angina is a submandibular space infection from dental sources, presenting with firm floor-of-mouth swelling, not uvular deviation.",
+        "C": "Viral tonsillitis would not produce a rim-enhancing fluid collection, trismus, or uvular deviation."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["tonsillitis", "peritonsillar-abscess", "complications", "trismus"]
+  },
+  {
+    "id": "r15-032",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 45-year-old woman presents with hoarseness persisting for 3 weeks. She reports no sore throat, fever, or recent upper respiratory infection. She has a 20-year history of gastroesophageal reflux disease for which she takes omeprazole intermittently. Laryngoscopy reveals erythematous, edematous vocal cords without discrete lesions. Which of the following is the most likely cause?",
+    "choices": [
+      {"label": "A", "text": "Parainfluenza virus infection"},
+      {"label": "B", "text": "Group A Streptococcus infection"},
+      {"label": "C", "text": "Vocal cord nodules from overuse"},
+      {"label": "D", "text": "Candida albicans laryngitis"},
+      {"label": "E", "text": "Laryngopharyngeal acid reflux"}
+    ],
+    "correctAnswer": "E",
+    "explanation": {
+      "summary": "This patient has chronic hoarseness without infectious symptoms and a long history of GERD. Laryngopharyngeal reflux is a common noninfectious cause of chronic laryngitis.",
+      "whyCorrect": "Laryngopharyngeal reflux occurs when gastric contents reach the larynx, causing chronic mucosal irritation and inflammation. The absence of infectious symptoms and longstanding GERD make reflux the most likely etiology.",
+      "whyWrongByChoice": {
+        "A": "Parainfluenza virus causes acute, self-limited laryngitis resolving within 1-2 weeks. Three weeks of hoarseness without URI makes viral infection unlikely.",
+        "B": "GAS pharyngitis presents acutely with fever, sore throat, and tonsillar exudates, not chronic isolated hoarseness.",
+        "C": "Vocal cord nodules appear as bilateral, symmetric nodules on laryngoscopy, not diffuse erythema and edema.",
+        "D": "Candida laryngitis occurs in immunocompromised patients with white patches. This immunocompetent patient with GERD more likely has reflux."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["laryngitis", "GERD", "laryngopharyngeal-reflux", "hoarseness"]
+  },
+  {
+    "id": "r15-033",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 5-year-old child with epiglottitis has his airway secured with endotracheal intubation. Blood cultures are drawn and empiric antibiotic therapy is initiated. The most common causative organisms include H. influenzae, S. pneumoniae, GAS, and occasionally MRSA. Which of the following antibiotic regimens provides the most appropriate coverage?",
+    "choices": [
+      {"label": "A", "text": "Oral amoxicillin monotherapy"},
+      {"label": "B", "text": "Oral azithromycin alone"},
+      {"label": "C", "text": "IV ceftriaxone plus vancomycin"},
+      {"label": "D", "text": "IV metronidazole alone"},
+      {"label": "E", "text": "Nebulized tobramycin alone"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "Epiglottitis requires broad-spectrum IV antibiotics covering the most common pathogens. The recommended first-line regimen is IV ceftriaxone plus vancomycin.",
+      "whyCorrect": "Given the broad range of pathogens, ceftriaxone provides excellent coverage against H. influenzae and streptococcal species, while vancomycin adds MRSA and broad Gram-positive coverage.",
+      "whyWrongByChoice": {
+        "A": "Oral amoxicillin is appropriate for uncomplicated GAS pharyngitis but inadequate for epiglottitis, which requires IV antibiotics with broader coverage.",
+        "B": "Oral azithromycin does not provide adequate coverage for epiglottitis pathogens and the IV route is required.",
+        "D": "Metronidazole provides anaerobic coverage, which is not the primary concern in epiglottitis.",
+        "E": "Nebulized tobramycin is used for chronic Pseudomonas in CF, not acute epiglottitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["epiglottitis", "antibiotics", "ceftriaxone", "vancomycin"]
+  },
+  {
+    "id": "r15-034",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 3-year-old girl presents with a 3-day history of rhinorrhea followed by tonight's onset of a barking cough and inspiratory stridor. She is well-appearing with oxygen saturation of 96% and only occasional stridor when upset. The season is late fall. Which of the following is the most likely causative organism?",
+    "choices": [
+      {"label": "A", "text": "Haemophilus influenzae type B"},
+      {"label": "B", "text": "Parainfluenza virus"},
+      {"label": "C", "text": "Staphylococcus aureus"},
+      {"label": "D", "text": "Streptococcus pyogenes"},
+      {"label": "E", "text": "Bordetella pertussis"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This toddler presents with classic croup: viral prodrome followed by barking cough and inspiratory stridor, peaking at age 3 during fall. Parainfluenza virus is the most common cause.",
+      "whyCorrect": "Parainfluenza virus (types 1 and 3) is responsible for the majority of croup cases. The classic presentation includes a 1-3 day URI prodrome followed by barking cough, stridor, and hoarseness, worse at night.",
+      "whyWrongByChoice": {
+        "A": "H. influenzae type B is classically associated with epiglottitis, not croup.",
+        "C": "S. aureus is the most common cause of bacterial tracheitis, not viral croup.",
+        "D": "S. pyogenes causes pharyngitis and tonsillitis, not the laryngotracheobronchitis pattern of croup.",
+        "E": "Bordetella pertussis causes whooping cough with paroxysmal cough and inspiratory whoop, not barking cough and stridor."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["croup", "parainfluenza", "barking-cough", "pediatrics"]
+  },
+  {
+    "id": "r15-035",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 4-year-old boy initially diagnosed with viral croup develops worsening high fever of 40.5°C and thick purulent tracheal secretions after 3 days. He appears toxic and does not improve with racemic epinephrine. Tracheal aspirate culture grows Staphylococcus aureus. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Acute epiglottitis"},
+      {"label": "B", "text": "Retropharyngeal abscess"},
+      {"label": "C", "text": "Aspiration pneumonia"},
+      {"label": "D", "text": "Bacterial tracheitis"},
+      {"label": "E", "text": "Allergic laryngeal edema"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Bacterial tracheitis typically follows a viral URI or croup. It is characterized by high fever, toxic appearance, purulent tracheal secretions, and poor response to croup treatments. S. aureus is the most common causative organism.",
+      "whyCorrect": "Bacterial tracheitis classically follows a viral infection and presents with abrupt deterioration, high fever, and copious purulent secretions. Unlike croup, it does not respond to corticosteroids or racemic epinephrine.",
+      "whyWrongByChoice": {
+        "A": "Epiglottitis presents acutely with drooling and muffled voice and does not typically follow a viral croup prodrome.",
+        "B": "Retropharyngeal abscess presents with neck stiffness and dysphagia, not purulent tracheal secretions.",
+        "C": "Aspiration pneumonia presents with lower respiratory findings and typically occurs with altered consciousness or dysphagia.",
+        "E": "Allergic laryngeal edema presents acutely without fever or purulent secretions and would respond to epinephrine."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["bacterial-tracheitis", "S-aureus", "croup-complication", "pediatrics"]
+  },
+  {
+    "id": "r15-036",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 12-year-old boy develops a diffuse red, papular \"sandpaper-like\" rash 2 days after the onset of sore throat and fever. On exam, his tongue has a red, bumpy appearance resembling a strawberry. A rapid strep test is positive. His physician explains that the rash is caused by a toxin, not by direct skin invasion. Which of the following best describes the pathogenesis?",
+    "choices": [
+      {"label": "A", "text": "Direct bacterial invasion of skin"},
+      {"label": "B", "text": "Erythrogenic exotoxins from GAS"},
+      {"label": "C", "text": "Type IV delayed hypersensitivity reaction"},
+      {"label": "D", "text": "Immune complex deposition in dermis"},
+      {"label": "E", "text": "Drug reaction to prescribed antibiotic"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "This is scarlet fever, occurring 1-2 days after GAS pharyngitis, caused by erythrogenic (pyrogenic) exotoxins. The sandpaper-like rash and strawberry tongue are characteristic.",
+      "whyCorrect": "Scarlet fever is caused by streptococcal pyrogenic exotoxins produced by GAS. These toxins act as superantigens, causing the characteristic diffuse erythematous, papular, sandpaper-textured rash.",
+      "whyWrongByChoice": {
+        "A": "GAS does not directly invade the skin to cause scarlet fever. The rash is toxin-mediated, with bacteria remaining in the pharynx.",
+        "C": "Type IV hypersensitivity involves T-cell-mediated delayed reactions. The scarlet fever rash appears acutely due to circulating exotoxins.",
+        "D": "Immune complex deposition is the mechanism of post-streptococcal glomerulonephritis, not scarlet fever.",
+        "E": "The rash appeared 2 days after pharyngitis onset, consistent with scarlet fever's natural history, not an antibiotic reaction."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["scarlet-fever", "GAS", "exotoxin", "rash", "streptococcal"]
+  },
+  {
+    "id": "r15-037",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 30-year-old woman presents with a 3-day history of sore throat, nasal congestion, rhinorrhea, cough, and low-grade fever. Examination shows pharyngeal erythema with mild tonsillar edema but no exudates. There is no cervical lymphadenopathy. She asks if she needs antibiotics. Which of the following is the most appropriate management?",
+    "choices": [
+      {"label": "A", "text": "Ibuprofen and warm beverages"},
+      {"label": "B", "text": "Rapid strep antigen testing"},
+      {"label": "C", "text": "Throat culture with sensitivities"},
+      {"label": "D", "text": "Empiric amoxicillin for 10 days"},
+      {"label": "E", "text": "Oral dexamethasone short course"}
+    ],
+    "correctAnswer": "A",
+    "explanation": {
+      "summary": "This patient has classic viral pharyngitis: sore throat with nasal congestion, rhinorrhea, and cough. Viral pharyngitis is treated symptomatically with analgesics and warm beverages.",
+      "whyCorrect": "The presence of cough, nasal congestion, and rhinorrhea strongly suggests a viral etiology. Viral pharyngitis is managed with supportive care including ibuprofen and warm beverages. Antibiotics are not indicated.",
+      "whyWrongByChoice": {
+        "D": "Empiric antibiotics are not appropriate for viral pharyngitis and promote antibiotic resistance.",
+        "B": "A rapid strep test is indicated when GAS is suspected (fever, exudates, lymphadenopathy, absence of cough). This patient's symptoms clearly suggest viral cause.",
+        "C": "Throat culture is not needed when the clinical picture clearly points to viral pharyngitis.",
+        "E": "Systemic corticosteroids are not routinely used for uncomplicated viral pharyngitis."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["pharyngitis", "viral", "supportive-care", "management"]
+  },
+  {
+    "id": "r15-038",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 55-year-old man with poorly controlled HIV and a CD4 count of 85 cells/μL presents with painful swallowing and sore throat. Examination of the oropharynx reveals white patches on the pharyngeal mucosa and soft palate that can be scraped off, leaving an erythematous base. He has been on chronic antibiotics for recurrent bacterial infections. Which of the following is the most appropriate initial treatment?",
+    "choices": [
+      {"label": "A", "text": "Oral acyclovir therapy"},
+      {"label": "B", "text": "IV amphotericin B infusion"},
+      {"label": "C", "text": "Oral amoxicillin course"},
+      {"label": "D", "text": "Nystatin oral suspension"},
+      {"label": "E", "text": "IV ceftriaxone infusion"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "This immunocompromised patient has oropharyngeal candidiasis (thrush), evidenced by scrapable white patches. Localized candidal infections are initially treated with topical antifungals such as nystatin.",
+      "whyCorrect": "Fungal pharyngitis from Candida albicans is common in immunocompromised patients with low CD4 counts. Localized oropharyngeal candidiasis is initially treated with topical nystatin. Systemic azoles are reserved for refractory cases.",
+      "whyWrongByChoice": {
+        "A": "Acyclovir treats herpes simplex and varicella-zoster viruses, not fungal infections. HSV presents with vesicles and ulcers.",
+        "B": "IV amphotericin B is reserved for severe, systemic, or refractory fungal infections. It is unnecessarily aggressive for localized thrush.",
+        "C": "Amoxicillin treats bacterial infections. In fact, chronic antibiotic use is a risk factor for developing candidal infections.",
+        "E": "Ceftriaxone is a broad-spectrum antibiotic with no antifungal activity. White pharyngeal patches in an immunocompromised patient indicate fungal infection."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pharyngitis", "candidiasis", "HIV", "nystatin", "immunocompromised"]
+  },
+  {
+    "id": "r15-039",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A previously healthy 3-year-old boy presents with high fever, drooling, and refusal to lie down. A lateral neck radiograph shows a markedly thickened epiglottis with an enlarged aryepiglottic fold. The attending physician avoids examining the oropharynx despite the diagnostic utility of visualizing a cherry-red epiglottis. Which of the following best explains this decision?",
+    "choices": [
+      {"label": "A", "text": "Vagal response causing severe bradycardia"},
+      {"label": "B", "text": "Agitation may precipitate airway obstruction"},
+      {"label": "C", "text": "Oropharyngeal exam is unreliable here"},
+      {"label": "D", "text": "Infection may spread to the examiner"},
+      {"label": "E", "text": "Tongue blade pushes epiglottis into trachea"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "In children with suspected epiglottitis, direct oropharyngeal examination is avoided because the agitation it causes can worsen respiratory distress and precipitate complete airway obstruction.",
+      "whyCorrect": "Children with epiglottitis have critically compromised airways. The agitation and crying triggered by examination can increase oxygen demand and cause laryngospasm, leading to acute airway obstruction. Cardiorespiratory arrest during attempted visualization has been reported.",
+      "whyWrongByChoice": {
+        "A": "While vagal stimulation can occur, the primary concern is not bradycardia but rather acute airway obstruction from agitation.",
+        "C": "Direct visualization showing a cherry-red epiglottis is actually reliable. The reason for avoidance is patient safety.",
+        "D": "Infection transmission risk is managed with standard precautions. The issue is danger to the child's airway.",
+        "E": "Tongue depression does not mechanically push the epiglottis into the trachea. The concern is the child's distress response."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["epiglottitis", "pediatrics", "airway-management", "clinical-examination"]
+  },
+  {
+    "id": "r15-040",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "An 8-year-old girl is diagnosed with GAS pharyngitis. She has a documented anaphylactic reaction to penicillin manifested by lip swelling and respiratory distress after amoxicillin 2 years ago. Her physician needs to choose an antibiotic that avoids cross-reactivity risk. Which of the following is the most appropriate antibiotic?",
+    "choices": [
+      {"label": "A", "text": "Amoxicillin-clavulanate"},
+      {"label": "B", "text": "Cephalexin"},
+      {"label": "C", "text": "Ciprofloxacin"},
+      {"label": "D", "text": "Azithromycin"},
+      {"label": "E", "text": "Trimethoprim-sulfamethoxazole"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "In patients with severe (anaphylactic) penicillin allergy, azithromycin is an appropriate alternative for GAS pharyngitis. Cephalosporins carry cross-reactivity risk in severe penicillin allergy.",
+      "whyCorrect": "Azithromycin is recommended for GAS pharyngitis in patients with anaphylaxis to penicillin. It provides good GAS coverage while avoiding potential cross-reactivity between penicillins and cephalosporins.",
+      "whyWrongByChoice": {
+        "A": "Amoxicillin-clavulanate is a penicillin and is absolutely contraindicated in a patient with penicillin anaphylaxis.",
+        "B": "Cephalosporins like cephalexin are an option for mild penicillin allergy but carry cross-reactivity risk in patients with documented anaphylaxis.",
+        "C": "Fluoroquinolones are not recommended for GAS pharyngitis and are avoided in children due to musculoskeletal concerns.",
+        "E": "TMP-SMX does not have reliable activity against GAS and is not recommended for streptococcal pharyngitis."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["pharyngitis", "GAS", "penicillin-allergy", "azithromycin"]
+  },
+  {
+    "id": "r15-041",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 5-year-old girl presents with snoring, restless sleep, and daytime fatigue. Her parents report she frequently stops breathing during sleep and wakes gasping. Examination reveals 4+ tonsillar hypertrophy with kissing tonsils. A polysomnography confirms moderate obstructive sleep apnea with an apnea-hypopnea index of 12. Which of the following is the most appropriate definitive treatment?",
+    "choices": [
+      {"label": "A", "text": "Chronic azithromycin therapy"},
+      {"label": "B", "text": "Intranasal corticosteroid sprays"},
+      {"label": "C", "text": "Continuous positive airway pressure"},
+      {"label": "D", "text": "Adenotonsillectomy"},
+      {"label": "E", "text": "Weight loss counseling"}
+    ],
+    "correctAnswer": "D",
+    "explanation": {
+      "summary": "Chronically enlarged tonsils and adenoids are the most common cause of obstructive sleep apnea in children. Adenotonsillectomy is the definitive treatment.",
+      "whyCorrect": "Tonsillectomy with or without adenoidectomy is the first-line definitive treatment for OSA caused by tonsillar/adenoid hypertrophy in children. It directly removes the obstructing tissue.",
+      "whyWrongByChoice": {
+        "A": "Chronic azithromycin does not reduce tonsillar size sufficiently to treat OSA.",
+        "B": "Intranasal corticosteroids may provide modest benefit for adenoid hypertrophy but are not definitive treatment for moderate OSA with significant tonsillar hypertrophy.",
+        "C": "CPAP is used for adult OSA or as a bridge in children who are not surgical candidates. Surgery is preferred in pediatric OSA from tonsillar hypertrophy.",
+        "E": "Weight loss may help obesity-related OSA but is not the primary treatment when the cause is anatomic tonsillar hypertrophy."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["tonsillitis", "obstructive-sleep-apnea", "adenotonsillectomy", "pediatrics"]
+  },
+  {
+    "id": "r15-042",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 2.5-year-old boy with croup is treated with nebulized racemic epinephrine for stridor at rest. His symptoms rapidly improve within 15 minutes. The physician plans to observe him for several hours before considering discharge. The parents ask why he cannot go home immediately. Which of the following best explains the observation period?",
+    "choices": [
+      {"label": "A", "text": "Risk of delayed drug-induced laryngospasm"},
+      {"label": "B", "text": "Short-lived effect with possible rebound edema"},
+      {"label": "C", "text": "Cough reflex suppression masking disease"},
+      {"label": "D", "text": "Transient immunosuppression increasing risk"},
+      {"label": "E", "text": "Bronchodilation masking underlying pneumonia"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Racemic epinephrine provides rapid but temporary relief. Its effects wear off within 1-2 hours, and rebound worsening of edema can occur. Patients must be observed to ensure symptoms do not recur.",
+      "whyCorrect": "The alpha-1-mediated vasoconstrictive effect is short-lived (1-2 hours). After the drug wears off, the underlying edema may return or worsen (rebound). Observation for at least 2-4 hours ensures the child remains stable.",
+      "whyWrongByChoice": {
+        "A": "Racemic epinephrine does not cause delayed laryngospasm. The concern is rebound edema, not drug-induced spasm.",
+        "C": "Racemic epinephrine does not suppress the cough reflex. The cough is caused by airway inflammation.",
+        "D": "Racemic epinephrine does not cause immunosuppression. It is a sympathomimetic acting on adrenergic receptors.",
+        "E": "Observation is for rebound airway edema, not to detect pneumonia."
+      }
+    },
+    "difficulty": "medium",
+    "imageRef": null,
+    "tags": ["croup", "racemic-epinephrine", "rebound-edema", "observation"]
+  },
+  {
+    "id": "r15-043",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "An unvaccinated 4-year-old child presents with high fever, tachycardia, severe sore throat, and a gray-white membrane on the tonsils and posterior pharynx. The membrane bleeds when attempts are made to remove it. His immunization records show he has received no DTaP doses. Which of the following is the most likely diagnosis?",
+    "choices": [
+      {"label": "A", "text": "Infectious mononucleosis"},
+      {"label": "B", "text": "Peritonsillar abscess"},
+      {"label": "C", "text": "Diphtheria"},
+      {"label": "D", "text": "Candidal pharyngitis"},
+      {"label": "E", "text": "Viral croup"}
+    ],
+    "correctAnswer": "C",
+    "explanation": {
+      "summary": "This unvaccinated child presents with the hallmark finding of diphtheria: a gray-white pseudomembrane that bleeds upon attempted removal. Diphtheria is caused by toxin-producing Corynebacterium diphtheriae.",
+      "whyCorrect": "Diphtheria presents with a tough, gray-white pseudomembrane that adheres to the pharyngeal mucosa and bleeds upon removal. It is caused by Corynebacterium diphtheriae and can cause myocarditis and neuropathy. Lack of vaccination is a key risk factor.",
+      "whyWrongByChoice": {
+        "A": "EBV mononucleosis can cause tonsillar exudates but not a tough, adherent pseudomembrane that bleeds upon removal.",
+        "B": "Peritonsillar abscess presents with unilateral sore throat, trismus, and uvular deviation, not a bilateral pseudomembrane.",
+        "D": "Candidal pharyngitis produces white patches that scrape off relatively easily, unlike the firmly adherent, bleeding pseudomembrane of diphtheria.",
+        "E": "Viral croup presents with barking cough, stridor, and hoarseness, not a pharyngeal pseudomembrane."
+      }
+    },
+    "difficulty": "hard",
+    "imageRef": null,
+    "tags": ["diphtheria", "pseudomembrane", "Corynebacterium", "unvaccinated"]
+  },
+  {
+    "id": "r15-044",
+    "topicId": "inflammatory-pharynx-larynx-trachea",
+    "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "stem": "A 42-year-old singer presents with progressive hoarseness over the past week following a severe upper respiratory infection. She denies fever, weight loss, or dysphagia. She cancelled two performances this week due to her voice. Physical examination is unremarkable except for a slightly raspy voice quality. Which of the following is the most appropriate initial management?",
+    "choices": [
+      {"label": "A", "text": "Laryngoscopy with tissue biopsy"},
+      {"label": "B", "text": "Voice rest, hydration, and humidification"},
+      {"label": "C", "text": "Empiric oral antibiotic course"},
+      {"label": "D", "text": "Oral corticosteroids for 5 days"},
+      {"label": "E", "text": "Referral for surgical evaluation"}
+    ],
+    "correctAnswer": "B",
+    "explanation": {
+      "summary": "Acute laryngitis following a viral URI is the most common cause of hoarseness and is almost always viral. Management is supportive with voice rest, hydration, and humidification.",
+      "whyCorrect": "Viral laryngitis is managed with supportive care: voice rest to reduce mechanical stress on inflamed vocal cords, adequate hydration, and humidification. This is the appropriate initial approach for acute laryngitis following a URI.",
+      "whyWrongByChoice": {
+        "A": "Laryngoscopy with biopsy is reserved for hoarseness persisting beyond 2-3 weeks or when malignancy is suspected. One week after URI does not warrant invasive evaluation.",
+        "C": "Oral antibiotics are not indicated for viral laryngitis. Infectious laryngitis is almost always viral.",
+        "D": "Oral corticosteroids are not routinely recommended for uncomplicated viral laryngitis.",
+        "E": "Surgical referral is premature for acute viral laryngitis. Surgery is for structural lesions identified after persistent symptoms."
+      }
+    },
+    "difficulty": "easy",
+    "imageRef": null,
+    "tags": ["laryngitis", "viral", "voice-rest", "supportive-care"]
+  }
+]
