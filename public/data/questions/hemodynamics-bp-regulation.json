@@ -1056,7 +1056,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loss of baroreceptor afferent input removes inhibitory feedback on the sympathetic nervous system, causing unopposed sympathetic activation"
+          "text": "Loss of baroreceptor afferent input removes inhibitory feedback on the sympathetic nervous system"
         },
         {
           "label": "B",
@@ -1770,7 +1770,7 @@
         },
         {
           "label": "B",
-          "text": "V2 receptor activation on collecting duct principal cells promotes free water reabsorption causing dilutional hyponatremia, while V1a activation on arteriolar smooth muscle causes vasoconstriction"
+          "text": "V2 receptor activation on collecting duct principal cells promotes free water reabsorption, while V1a activation on arteriolar smooth muscle causes vasoconstriction"
         },
         {
           "label": "C",

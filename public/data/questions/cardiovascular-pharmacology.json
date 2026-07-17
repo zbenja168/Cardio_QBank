@@ -3247,7 +3247,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Rosuvastatin is cleared primarily by non-CYP450 pathways, whereas simvastatin is extensively metabolized by intestinal CYP3A4 that grapefruit juice inhibits"
+          "text": "Rosuvastatin is cleared primarily by non-CYP450 pathways"
         },
         {
           "label": "B",
@@ -3587,7 +3587,7 @@
         },
         {
           "label": "B",
-          "text": "She has multiple ASCVD risk enhancers including chronic inflammatory disease, elevated hs-CRP, and persistent triglyceride elevation"
+          "text": "She has multiple ASCVD risk enhancers"
         },
         {
           "label": "C",
@@ -3975,7 +3975,7 @@
         },
         {
           "label": "C",
-          "text": "Patients with very high LDL-C levels over 190 mg/dL or diabetes over age 40 are considered high-risk equivalents warranting statin therapy regardless of score"
+          "text": "Patients with very high LDL-C levels over 190 mg/dL or diabetes over age 40 are considered high-risk equivalents"
         },
         {
           "label": "D",

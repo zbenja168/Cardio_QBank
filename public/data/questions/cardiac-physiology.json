@@ -1844,7 +1844,7 @@
         },
         {
           "label": "E",
-          "text": "Extrapolation of the initial downslope to determine the time for the bolus to pass through the circulation"
+          "text": "Extrapolation of the initial downslope"
         }
       ],
       "correctAnswer": "E",
@@ -2019,7 +2019,7 @@
         },
         {
           "label": "B",
-          "text": "Increased afterload causing more blood to be retained in the ventricle after systole, increasing end-systolic volume and reducing stroke volume"
+          "text": "Increased afterload causing more blood to be retained in the ventricle after systole"
         },
         {
           "label": "C",

@@ -1197,7 +1197,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Overall mortality is similar to the general population at approximately 1%, but individual risk varies substantially"
+          "text": "Overall mortality is similar to the general population at approximately 1%"
         },
         {
           "label": "B",
@@ -2548,7 +2548,7 @@
         },
         {
           "label": "C",
-          "text": "Stiff hypertrophied ventricle limits diastolic filling, reducing stroke volume despite normal ejection fraction"
+          "text": "Stiff hypertrophied ventricle limits diastolic filling, reducing stroke volume"
         },
         {
           "label": "D",

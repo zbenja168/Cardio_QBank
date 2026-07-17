@@ -1148,7 +1148,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The right ventricle dilates more readily than the pulmonary artery, making secondary tricuspid regurgitation more common"
+          "text": "The right ventricle dilates more readily than the pulmonary artery"
         },
         {
           "label": "B",
@@ -1964,7 +1964,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "High-velocity flow through the narrowed outflow tract creates a Venturi effect pulling the anterior leaflet forward and impairing valve closure"
+          "text": "High-velocity flow through the narrowed outflow tract creates a Venturi effect pulling the anterior leaflet forward"
         },
         {
           "label": "B",

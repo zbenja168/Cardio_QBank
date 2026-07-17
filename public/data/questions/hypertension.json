@@ -304,7 +304,7 @@
         },
         {
           "label": "C",
-          "text": "Increased QRS voltage with left-axis deviation consistent with left ventricular hypertrophy"
+          "text": "Increased QRS voltage with left-axis deviation"
         },
         {
           "label": "D",
@@ -1060,7 +1060,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Inhibition of the Na-Cl symporter in the distal convoluted tubule increasing excretion of sodium, potassium, and chloride"
+          "text": "Inhibition of the Na-Cl symporter in the distal convoluted tubule"
         },
         {
           "label": "B",
@@ -1262,7 +1262,7 @@
         },
         {
           "label": "D",
-          "text": "Increased sodium and water retention combined with upregulation of angiotensin-II receptors and reduced nitric oxide release"
+          "text": "Increased sodium and water retention combined with upregulation of angiotensin-II receptors"
         },
         {
           "label": "E",
@@ -1684,7 +1684,7 @@
         },
         {
           "label": "D",
-          "text": "Lack of contrast at the branch point of the renal artery from the aorta with a single small kidney"
+          "text": "Lack of contrast at the branch point of the renal artery from the aorta"
         },
         {
           "label": "E",
@@ -1719,7 +1719,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Failed cerebral autoregulation leading to arterial dilation, hyperperfusion, and fluid leakage into the brain interstitium"
+          "text": "Failed cerebral autoregulation leading to arterial dilation, hyperperfusion"
         },
         {
           "label": "B",
@@ -2189,7 +2189,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The blood pressure was lowered too rapidly, causing tissue ischemia because vasodilation reversal lagged behind the drop in blood pressure"
+          "text": "The blood pressure was lowered too rapidly, causing tissue ischemia"
         },
         {
           "label": "B",
