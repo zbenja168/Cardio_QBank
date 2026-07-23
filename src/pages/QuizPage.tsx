@@ -3,6 +3,7 @@ import { Question } from '../types/question';
 import { ProgressData, AnswerRecord, Session } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
+import { track } from '../utils/track';
 
 interface Props {
   questions: Question[];
@@ -42,6 +43,7 @@ export function QuizPage({
     };
 
     onRecordAnswer(currentQuestion.id, record);
+    track('question_answered');
     setSessionAnswers(prev => new Map(prev).set(currentQuestion.id, choiceLabel));
   }, [currentQuestion, timer, onRecordAnswer]);
 
@@ -64,6 +66,7 @@ export function QuizPage({
 
     if (answered.length > 0) {
       onRecordSession(session);
+      track('quiz_complete', { score: session.score, total: session.total });
     }
     onExit();
   }, [sessionAnswers, questions, sessionStart, selectedTopicIds, onRecordSession, onExit]);
