@@ -3,6 +3,7 @@ import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
 import { ProgressData } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
+import type { ReviewMode } from './ReviewPage';
 
 interface Props {
   topics: TopicsIndex;
@@ -15,7 +16,7 @@ interface Props {
   onClearAll: () => void;
   onStartQuiz: () => void;
   onGoToDashboard: () => void;
-  onGoToReview: () => void;
+  onGoToReview: (mode?: ReviewMode) => void;
   onClearProgress: () => void;
 }
 
@@ -25,6 +26,7 @@ export function HomePage({
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
   const stats = getOverallStats(progress);
+  const missedCount = Object.values(progress.answers).filter((a) => !a.isCorrect).length;
   const bookmarkCount = progress.bookmarkedQuestions.length;
 
   return (
@@ -50,9 +52,18 @@ export function HomePage({
                 Dashboard ({stats.percentage}%)
               </button>
             )}
+            {missedCount > 0 && (
+              <button
+                onClick={() => onGoToReview('incorrect')}
+                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+                title="Redo the questions you got wrong"
+              >
+                🔁 Missed ({missedCount})
+              </button>
+            )}
             {bookmarkCount > 0 && (
               <button
-                onClick={onGoToReview}
+                onClick={() => onGoToReview()}
                 className="px-4 py-2 text-sm rounded-lg border border-amber-700 text-amber-400 hover:bg-amber-900/30 transition-colors"
               >
                 Bookmarked ({bookmarkCount})
