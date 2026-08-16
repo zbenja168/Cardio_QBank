@@ -3669,7 +3669,7 @@
         },
         {
           "label": "D",
-          "text": "Atropine blocks muscarinic receptors to reduce vagal tone but cannot restore automaticity in structurally damaged SA node tissue"
+          "text": "Atropine blocks muscarinic receptors but cannot restore automaticity in structurally damaged SA node tissue"
         },
         {
           "label": "E",
@@ -3952,7 +3952,7 @@
         },
         {
           "label": "D",
-          "text": "Stimulation of the vagus nerve as part of the Cushing reflex in response to elevated intracranial pressure"
+          "text": "Stimulation of the vagus nerve as part of the Cushing reflex"
         },
         {
           "label": "E",
@@ -4509,7 +4509,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The accessory pathway was used for retrograde conduction only while antegrade conduction proceeded normally through the AV node"
+          "text": "The accessory pathway was used for retrograde conduction only while antegrade conduction proceeded through the AV node"
         },
         {
           "label": "B",
@@ -4609,7 +4609,7 @@
         },
         {
           "label": "B",
-          "text": "Sinus tachycardia has gradual onset and resolution while PSVT has characteristically abrupt onset and termination"
+          "text": "Sinus tachycardia has gradual onset and resolution while PSVT has abrupt onset and termination"
         },
         {
           "label": "C",
@@ -4796,7 +4796,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Abnormal electrical impulse originating at the border of scarred and normal myocardium, bypassing the His-Purkinje system and activating the ventricles in series"
+          "text": "Abnormal electrical impulse originating at the border of scarred and normal myocardium, bypassing the His-Purkinje system"
         },
         {
           "label": "B",
@@ -5047,7 +5047,7 @@
         },
         {
           "label": "E",
-          "text": "Synchronized cardioversion to read the heart's electrical pattern and deliver a shock timed to increase probability of restoring sinus rhythm"
+          "text": "Synchronized cardioversion to deliver a shock timed to increase probability of restoring sinus rhythm"
         }
       ],
       "correctAnswer": "E",
@@ -5141,7 +5141,7 @@
         },
         {
           "label": "E",
-          "text": "Accelerated idioventricular rhythm, a wide complex rhythm at 60-100 beats per minute that typically does not require specific antiarrhythmic treatment"
+          "text": "Accelerated idioventricular rhythm, a wide complex rhythm that typically does not require specific antiarrhythmic treatment"
         }
       ],
       "correctAnswer": "E",
@@ -5235,7 +5235,7 @@
         },
         {
           "label": "E",
-          "text": "Beta-blocker therapy and/or implantable cardioverter-defibrillator placement for long-term management of hereditary long QT syndrome"
+          "text": "Beta-blocker therapy and/or implantable cardioverter-defibrillator placement for long-term management"
         }
       ],
       "correctAnswer": "E",
@@ -5266,7 +5266,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cocaine acts as a trigger that initiates ventricular tachycardia, while any underlying myocardial damage serves as the substrate that creates propensity for the arrhythmia"
+          "text": "Cocaine acts as a trigger that initiates ventricular tachycardia, while any underlying myocardial damage serves as the substrate"
         },
         {
           "label": "B",
@@ -5313,7 +5313,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ventricular bigeminy, a pattern of alternating normal sinus beats and premature ventricular contractions that may indicate underlying structural heart disease"
+          "text": "Ventricular bigeminy, a pattern that may indicate underlying structural heart disease"
         },
         {
           "label": "B",

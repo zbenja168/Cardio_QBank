@@ -1099,7 +1099,7 @@
         },
         {
           "label": "C",
-          "text": "The fibrosed pericardium blocks transmission of negative intrathoracic pressure to the right atrium, abolishing the thoracic pump effect"
+          "text": "The fibrosed pericardium blocks transmission of negative intrathoracic pressure to the right atrium"
         },
         {
           "label": "D",
@@ -1138,7 +1138,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Rapid accumulation of blood in the pericardial space increases pericardial pressure, compressing the right-sided chambers"
+          "text": "Rapid accumulation of blood in the pericardial space increases pericardial pressure"
         },
         {
           "label": "B",
@@ -1436,7 +1436,7 @@
         },
         {
           "label": "E",
-          "text": "The compressed right ventricle cannot expand during inspiration, forcing the interventricular septum leftward and reducing left ventricular stroke volume"
+          "text": "The compressed right ventricle cannot expand during inspiration, forcing the interventricular septum leftward"
         }
       ],
       "correctAnswer": "E",

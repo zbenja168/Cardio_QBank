@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Tachycardia shortens diastole more than systole, and loss of atrial kick eliminates the compensatory active filling that normally augments ventricular volume"
+          "text": "Tachycardia shortens diastole more than systole, and loss of atrial kick eliminates the compensatory active filling"
         },
         {
           "label": "B",
@@ -494,7 +494,7 @@
         },
         {
           "label": "C",
-          "text": "The P wave precedes the increase in left atrial pressure from atrial contraction, with a slight delay for mechanical coupling"
+          "text": "The P wave precedes the increase in left atrial pressure from atrial contraction"
         },
         {
           "label": "D",
@@ -838,7 +838,7 @@
         },
         {
           "label": "E",
-          "text": "Atrial septal defect with left-to-right shunting maintaining persistent right ventricular volume overload"
+          "text": "Atrial septal defect with left-to-right shunting"
         }
       ],
       "correctAnswer": "E",
@@ -882,7 +882,7 @@
         },
         {
           "label": "D",
-          "text": "Rapid inflow of blood from an overfilled atrium into a dilated, highly compliant ventricle causing wall vibrations"
+          "text": "Rapid inflow of blood from an overfilled atrium into a dilated, highly compliant ventricle"
         },
         {
           "label": "E",
@@ -926,7 +926,7 @@
         },
         {
           "label": "C",
-          "text": "Delayed closure of the pulmonic valve due to prolonged right ventricular contraction from delayed depolarization"
+          "text": "Delayed closure of the pulmonic valve due to prolonged right ventricular contraction"
         },
         {
           "label": "D",
@@ -1066,7 +1066,7 @@
         },
         {
           "label": "B",
-          "text": "In the athlete, the S3 is caused by tensing of chordae tendineae during normal filling, whereas in this patient it results from blood sloshing into a dilated ventricle"
+          "text": "In the athlete, the S3 is caused by tensing of chordae tendineae, whereas in this patient it results from blood sloshing into a dilated ventricle"
         },
         {
           "label": "C",
@@ -1162,7 +1162,7 @@
         },
         {
           "label": "B",
-          "text": "Decreased ventricular compliance requiring higher pressures for normal filling volumes"
+          "text": "Decreased ventricular compliance requiring higher pressures"
         },
         {
           "label": "C",
@@ -1410,7 +1410,7 @@
         },
         {
           "label": "D",
-          "text": "Increased venous return to the right heart due to an enhanced pressure gradient favoring blood flow into the thorax"
+          "text": "Increased venous return to the right heart due to an enhanced pressure gradient"
         },
         {
           "label": "E",
@@ -1886,7 +1886,7 @@
         },
         {
           "label": "D",
-          "text": "Ventricular stiffness impairing diastolic filling, reducing both end-diastolic volume and stroke volume proportionally"
+          "text": "Ventricular stiffness impairing diastolic filling"
         },
         {
           "label": "E",
@@ -2438,7 +2438,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The vascular function curve shifts to the left with decreased MCFP, and the operating point moves to a lower preload with decreased cardiac output"
+          "text": "The vascular function curve shifts to the left, and the operating point moves to a lower preload with decreased cardiac output"
         },
         {
           "label": "B",
@@ -2971,7 +2971,7 @@
         },
         {
           "label": "E",
-          "text": "Steeper end-systolic pressure-volume relationship slope with decreased end-systolic volume and increased stroke volume"
+          "text": "Steeper end-systolic pressure-volume relationship slope with decreased end-systolic volume"
         }
       ],
       "correctAnswer": "E",
@@ -3385,7 +3385,7 @@
         },
         {
           "label": "B",
-          "text": "Arterioles in ischemic regions are already maximally dilated and cannot dilate further, while arterioles in healthy regions dilate and divert blood flow away"
+          "text": "Arterioles in ischemic regions are already maximally dilated, while arterioles in healthy regions dilate and divert blood flow away"
         },
         {
           "label": "C",
@@ -3476,7 +3476,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Beta-blockers decrease heart rate, prolonging diastole and increasing coronary perfusion time while simultaneously reducing myocardial oxygen consumption"
+          "text": "Beta-blockers decrease heart rate, prolonging diastole while simultaneously reducing myocardial oxygen consumption"
         },
         {
           "label": "B",
@@ -3718,7 +3718,7 @@
         },
         {
           "label": "B",
-          "text": "The stenotic valve reduces coronary perfusion pressure while compensatory ventricular hypertrophy increases oxygen demand and compresses intramyocardial vessels"
+          "text": "The stenotic valve reduces coronary perfusion pressure while compensatory ventricular hypertrophy increases oxygen demand"
         },
         {
           "label": "C",
@@ -3818,7 +3818,7 @@
         },
         {
           "label": "C",
-          "text": "Adenosine, nitric oxide, and low ATP activating ATP-sensitive potassium channels"
+          "text": "Adenosine, nitric oxide, and low ATP"
         },
         {
           "label": "D",
@@ -4290,7 +4290,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Excess filtration has overwhelmed lymphatic drainage capacity, causing fluid accumulation that impairs cellular nutrition by increasing diffusion distances"
+          "text": "Excess filtration has overwhelmed lymphatic drainage capacity, causing fluid accumulation that impairs cellular nutrition"
         },
         {
           "label": "B",

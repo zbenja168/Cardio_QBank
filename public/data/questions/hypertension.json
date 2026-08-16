@@ -252,7 +252,7 @@
         },
         {
           "label": "B",
-          "text": "Rupture of microaneurysms in small penetrating arteries weakened by chronic hypertension"
+          "text": "Rupture of microaneurysms in small penetrating arteries"
         },
         {
           "label": "C",
@@ -456,7 +456,7 @@
         },
         {
           "label": "E",
-          "text": "Hypertensive emergency requiring hospitalization and intravenous antihypertensives"
+          "text": "Hypertensive emergency requiring hospitalization"
         }
       ],
       "correctAnswer": "E",
@@ -973,7 +973,7 @@
         },
         {
           "label": "C",
-          "text": "Primary hypertension is heritable with a significant genetic component, though no single gene has been primarily linked"
+          "text": "Primary hypertension is heritable with a significant genetic component"
         },
         {
           "label": "D",
@@ -1211,7 +1211,7 @@
         },
         {
           "label": "C",
-          "text": "ACE inhibitors preferentially dilate the efferent arteriole, potentially causing a dangerous drop in GFR if bilateral stenosis is present"
+          "text": "ACE inhibitors preferentially dilate the efferent arteriole, potentially causing a dangerous drop in GFR"
         },
         {
           "label": "D",

@@ -1153,7 +1153,7 @@
         },
         {
           "label": "E",
-          "text": "Elevated troponin levels detected by high-sensitivity assays in patients previously classified as having unstable angina"
+          "text": "Elevated troponin levels detected by high-sensitivity assays"
         }
       ],
       "correctAnswer": "E",
@@ -3066,7 +3066,7 @@
         },
         {
           "label": "B",
-          "text": "Intrapericardial pressure exceeding right-sided chamber pressures and impairing venous return"
+          "text": "Intrapericardial pressure exceeding right-sided chamber pressures"
         },
         {
           "label": "C",

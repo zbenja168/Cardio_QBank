@@ -202,7 +202,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gravitational pooling in leg veins reduces venous return and cardiac preload, decreasing cardiac output and cerebral perfusion despite baroreceptor compensation"
+          "text": "Gravitational pooling in leg veins reduces venous return and cardiac preload, decreasing cardiac output and cerebral perfusion"
         },
         {
           "label": "B",
@@ -692,7 +692,7 @@
         },
         {
           "label": "D",
-          "text": "Increased heart rate, increased cardiac contractility, and increased SVR via vasoconstriction"
+          "text": "Increased heart rate, increased cardiac contractility, and increased SVR"
         },
         {
           "label": "E",
@@ -1830,7 +1830,7 @@
         },
         {
           "label": "E",
-          "text": "Epinephrine increases cardiac output through beta-1 receptor activation and promotes vasoconstriction through alpha-1 receptor activation, counteracting histamine-induced vasodilation and hypotension"
+          "text": "Epinephrine increases cardiac output through beta-1 receptor activation and promotes vasoconstriction through alpha-1 receptor activation"
         }
       ],
       "correctAnswer": "E",
@@ -1910,7 +1910,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Chronic kidney disease impairs the renal response to natriuretic peptides, limiting their ability to promote natriuresis and reduce blood volume effectively"
+          "text": "Chronic kidney disease impairs the renal response to natriuretic peptides"
         },
         {
           "label": "B",
@@ -1969,7 +1969,7 @@
         },
         {
           "label": "D",
-          "text": "Increased vasopressin from high osmolality and low volume driving V1a-mediated vasoconstriction, and decreased natriuretic peptides from reduced cardiac chamber stretch"
+          "text": "Increased vasopressin from high osmolality and low volume, and decreased natriuretic peptides from reduced cardiac chamber stretch"
         },
         {
           "label": "E",
@@ -2021,7 +2021,7 @@
         },
         {
           "label": "E",
-          "text": "Increased intraluminal pressure stretches arteriolar smooth muscle, activating stretch-sensitive calcium channels that trigger reflex contraction and increased resistance"
+          "text": "Increased intraluminal pressure stretches arteriolar smooth muscle, activating stretch-sensitive calcium channels that trigger reflex contraction"
         }
       ],
       "correctAnswer": "E",
@@ -2146,7 +2146,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "High PCO2 dilates cerebral vessels by direct smooth muscle relaxation, and low PO2 constricts pulmonary vessels to redirect blood flow away from poorly ventilated alveoli"
+          "text": "High PCO2 dilates cerebral vessels, and low PO2 constricts pulmonary vessels to redirect blood flow away from poorly ventilated alveoli"
         },
         {
           "label": "B",
@@ -2865,7 +2865,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Autoantibody-mediated deposition of connective tissue containing hyaluronan, which retains water in the interstitium due to its hydrophilic properties"
+          "text": "Autoantibody-mediated deposition of connective tissue containing hyaluronan, which retains water in the interstitium"
         },
         {
           "label": "B",
@@ -3249,7 +3249,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Crystalloid solutions lack colloids and large molecular weight substances, so they redistribute rapidly out of the intravascular space into the interstitium"
+          "text": "Crystalloid solutions lack colloids, so they redistribute rapidly out of the intravascular space into the interstitium"
         },
         {
           "label": "B",

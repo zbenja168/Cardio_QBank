@@ -732,7 +732,7 @@
         },
         {
           "label": "E",
-          "text": "Regurgitant flow lowers diastolic pressure while increased end-diastolic volume raises stroke volume and systolic pressure"
+          "text": "Regurgitant flow lowers diastolic pressure while increased end-diastolic volume raises systolic pressure"
         }
       ],
       "correctAnswer": "E",
@@ -1056,7 +1056,7 @@
         },
         {
           "label": "B",
-          "text": "Progressive right heart failure with jugular venous distention, peripheral edema, and ascites"
+          "text": "Progressive right heart failure with jugular venous distention"
         },
         {
           "label": "C",
@@ -1452,7 +1452,7 @@
         },
         {
           "label": "E",
-          "text": "Mitral stenosis elevated left atrial pressure, increasing pulmonary capillary and artery pressures, leading to right ventricular pressure overload"
+          "text": "Mitral stenosis elevated left atrial pressure, increasing pulmonary capillary and artery pressures"
         }
       ],
       "correctAnswer": "E",
@@ -1692,7 +1692,7 @@
         },
         {
           "label": "E",
-          "text": "Elevated pulmonary venous and capillary pressures causing rupture of pulmonary capillaries"
+          "text": "Elevated pulmonary venous and capillary pressures"
         }
       ],
       "correctAnswer": "E",
@@ -1724,7 +1724,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "TEE provides better visualization of the left atrium and mitral valve because the esophagus is nearer to these structures"
+          "text": "TEE provides better visualization of the left atrium and mitral valve"
         },
         {
           "label": "B",
@@ -2780,7 +2780,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "In TS, the stenotic valve restricts blood flow into the RV causing underfilling, while in TR, regurgitant volume causes RV volume overload and dilation"
+          "text": "In TS, the stenotic valve restricts blood flow into the RV, while in TR, regurgitant volume causes RV volume overload and dilation"
         },
         {
           "label": "B",
@@ -4925,7 +4925,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cardiac metastases affect up to 10% of patients with metastatic cancer and are far more common than primary cardiac tumors"
+          "text": "Cardiac metastases are far more common than primary cardiac tumors"
         },
         {
           "label": "B",

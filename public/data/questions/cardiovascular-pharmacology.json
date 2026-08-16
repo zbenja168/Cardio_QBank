@@ -3059,7 +3059,7 @@
         },
         {
           "label": "B",
-          "text": "Cholestyramine can bind to warfarin, digoxin, and thyroid hormones, decreasing their therapeutic efficacy"
+          "text": "Cholestyramine can bind to warfarin, digoxin, and thyroid hormones"
         },
         {
           "label": "C",
@@ -4015,7 +4015,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "His risk of experiencing a major adverse cardiovascular event would decrease from 21% to approximately 12.8% over 10 years"
+          "text": "His risk would decrease from 21% to approximately 12.8% over 10 years"
         },
         {
           "label": "B",
@@ -4127,7 +4127,7 @@
         },
         {
           "label": "E",
-          "text": "Explain the 10-year risk concept, contextualize individual risk, illustrate treatment benefits, address medication concerns, and emphasize lifestyle modifications"
+          "text": "Explain the 10-year risk concept, illustrate treatment benefits, address medication concerns, and emphasize lifestyle modifications"
         }
       ],
       "correctAnswer": "E",
@@ -4171,7 +4171,7 @@
         },
         {
           "label": "D",
-          "text": "The calculator can estimate untreated lipid levels, though this introduces some uncertainty into the risk calculation"
+          "text": "The calculator can estimate untreated lipid levels, though this introduces some uncertainty"
         },
         {
           "label": "E",
@@ -4219,7 +4219,7 @@
         },
         {
           "label": "D",
-          "text": "Use the score to guide lipid management with high-intensity statin, strengthen rationale for tighter BP control, prioritize cardiovascular-protective diabetic agents, and motivate lifestyle changes"
+          "text": "Use the score to guide lipid management with high-intensity statin, strengthen rationale for tighter BP control, and motivate lifestyle changes"
         },
         {
           "label": "E",
