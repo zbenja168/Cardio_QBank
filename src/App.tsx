@@ -8,10 +8,15 @@ import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage, type ReviewMode } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
+import { restoreSkin } from './utils/skin';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
+  // Re-apply a saved exam skin, and drop it if the account that
+  // unlocked it is no longer signed in.
+  useEffect(() => { restoreSkin(); }, []);
+
   const [page, setPage] = useState<Page>('home');
   const topicsHook = useTopics();
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
