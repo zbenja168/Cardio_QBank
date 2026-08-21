@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import { TopicsIndex, Category } from '../types/topic';
 import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
+import { TopicStat } from '../hooks/useTopicProgress';
 import { ProgressData } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
@@ -11,6 +12,7 @@ interface Props {
   topics: TopicsIndex;
   selectedTopicIds: Set<string>;
   selectedCount: number;
+  topicStats?: Map<string, TopicStat> | null;
   progress: ProgressData;
   onToggleTopic: (topicId: string) => void;
   onToggleCategory: (category: Category) => void;
@@ -23,7 +25,7 @@ interface Props {
 }
 
 export function HomePage({
-  topics, selectedTopicIds, selectedCount, progress,
+  topics, selectedTopicIds, selectedCount, topicStats, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
@@ -176,6 +178,7 @@ export function HomePage({
               key={cat.id}
               category={cat}
               selectedTopicIds={selectedTopicIds}
+              topicStats={topicStats}
               onToggleTopic={onToggleTopic}
               onToggleCategory={onToggleCategory}
             />
