@@ -5,6 +5,7 @@ import { TopicStat } from '../hooks/useTopicProgress';
 import { ProgressData } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
+import { ProgressSummary } from '../components/ProgressSummary';
 import type { ReviewMode } from './ReviewPage';
 import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
 
@@ -51,13 +52,8 @@ export function HomePage({
             <h1 className="text-xl font-bold text-slate-100">CV QBank</h1>
             <p className="text-sm text-slate-400">Cardiovascular Question Bank</p>
           </div>
-          <a
-            href="https://zbenja168.github.io/Resp_QBank/"
-            className="text-xs px-3 py-1.5 rounded-lg border border-slate-600 text-slate-400 hover:text-teal-400 hover:border-teal-600 transition-colors"
-          >
-            Resp QBank &rarr;
-          </a>
-          <div className="flex items-center gap-3">
+          {/* One action group; the cross-link used to float alone. */}
+          <div className="flex items-center gap-2 flex-wrap justify-end">
             {stats.total > 0 && (
               <button
                 onClick={onGoToDashboard}
@@ -83,6 +79,12 @@ export function HomePage({
                 Bookmarked ({bookmarkCount})
               </button>
             )}
+            <a
+              href="https://zbenja168.github.io/Resp_QBank/"
+              className="text-xs px-3 py-2 rounded-lg text-slate-500 hover:text-teal-400 transition-colors"
+            >
+              Resp QBank &rarr;
+            </a>
           </div>
         </div>
       </header>
@@ -90,38 +92,19 @@ export function HomePage({
       <main className="max-w-5xl mx-auto px-4 py-8">
         <BrandCard />
 
-        {/* Stats summary */}
-        {stats.total > 0 && (<>
-          <div className="grid grid-cols-3 gap-4 mb-8">
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-200">{stats.total}</div>
-              <div className="text-sm text-slate-400">Answered</div>
-            </div>
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-green-400">{stats.percentage}%</div>
-              <div className="text-sm text-slate-400">Correct</div>
-            </div>
-            <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-200">{topics.totalQuestions - stats.total}</div>
-              <div className="text-sm text-slate-400">Remaining</div>
-            </div>
-          </div>
-          <div className="text-right">
-            <button
-              onClick={() => {
-                if (window.confirm('Clear all progress? This cannot be undone.')) {
-                  onClearProgress();
-                }
-              }}
-              className="text-sm text-red-400 hover:text-red-300 transition-colors"
-            >
-              Reset Progress
-            </button>
-          </div>
-        </>)}
+        {/* Where you are in the bank */}
+        { stats.total > 0 && (
+          <ProgressSummary
+            answered={stats.total}
+            correct={Math.round(stats.total * stats.percentage / 100)}
+            total={topics?.totalQuestions ?? stats.total}
+            onReset={onClearProgress}
+          />
+        )}
 
         {/* Filter controls */}
-        <div className="flex items-center justify-between mb-4">
+        {/* Settings first, then the list — they used to share a row. */}
+        <div className="mb-5">
           {/* Exam skins — re-dress the quiz to look like the interfaces you
               actually sit exams in. Signed-in Active Transport accounts only. */}
           <div className="mt-4">
@@ -162,7 +145,9 @@ export function HomePage({
                   : 'Exam skin on — right and wrong are still marked the usual way.'}
             </p>
           </div>
+        </div>
 
+        <div className="flex items-center justify-between mb-4">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
           <div className="flex items-center gap-3">
             <button onClick={onSelectAll} className="text-sm text-blue-400 hover:text-blue-300">Select All</button>
@@ -186,7 +171,7 @@ export function HomePage({
         </div>
 
         {/* Start button */}
-        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-4 pb-6">
+        <div className="sticky bottom-0 bg-gradient-to-t from-slate-900 via-slate-900 to-transparent pt-6 pb-6 -mx-4 px-4">
           <button
             onClick={onStartQuiz}
             disabled={selectedCount === 0}
