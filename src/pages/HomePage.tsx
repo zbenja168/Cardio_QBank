@@ -6,6 +6,7 @@ import { ProgressData } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
 import { ProgressSummary } from '../components/ProgressSummary';
+import { MembraneDivider } from '../components/Membrane';
 import type { ReviewMode } from './ReviewPage';
 import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
 
@@ -146,6 +147,8 @@ export function HomePage({
             </p>
           </div>
         </div>
+
+        <MembraneDivider />
 
         <div className="flex items-center justify-between mb-4">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
