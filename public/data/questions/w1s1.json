@@ -1,6 +1,6 @@
 {
-  "categoryId": "anatomy-embryology",
-  "categoryName": "Anatomy & Embryology",
+  "categoryId": "w1s1",
+  "categoryName": "Session 1",
   "questions": [
     {
       "id": "ae-001",
@@ -2068,483 +2068,1727 @@
       ]
     },
     {
-      "id": "ae-044",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 3-week-old male neonate is brought to the emergency department because of poor feeding and grayish skin color noted over the past 24 hours. He was born at 39 weeks via uncomplicated vaginal delivery with a birth weight of 3.4 kg. On examination, his heart rate is 170/min, respiratory rate is 62/min, and blood pressure in the right arm is 90/60 mm Hg, while femoral pulses are weak and blood pressure in the left leg is 50/30 mm Hg. A continuous murmur is heard at the left infraclavicular region. Echocardiography reveals a focal narrowing of the aorta just distal to the left subclavian artery origin with a closing patent ductus arteriosus. The narrowing in this patient most likely involves a region embryologically derived from which of the following structures?",
+      "id": "hi-001",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 42-year-old man with a history of intravenous drug use presents with fever (39.2 C), chills, and malaise for 2 weeks. Blood cultures grow Staphylococcus aureus. Transesophageal echocardiography reveals vegetations on the tricuspid valve with moderate regurgitation. The valve leaflets affected in this patient are lined by a tissue layer that is continuous with the lining of which of the following structures?",
       "choices": [
         {
           "label": "A",
-          "text": "Incorporation of ductal tissue from the left sixth aortic arch into the adjacent aortic wall"
+          "text": "The pericardial cavity between the visceral and parietal serous layers"
         },
         {
           "label": "B",
-          "text": "Abnormal persistence of the right fourth aortic arch with failure of left-sided development"
+          "text": "The coronary arteries embedded within the epicardial adipose tissue"
         },
         {
           "label": "C",
-          "text": "Incomplete regression of the fifth aortic arch leading to luminal obstruction"
+          "text": "The subendocardial layer containing the cardiac conduction fibers"
         },
         {
           "label": "D",
-          "text": "Failure of the third aortic arch to properly separate from the dorsal aorta"
+          "text": "The aorta and other major blood vessels exiting and entering the heart"
         },
         {
           "label": "E",
-          "text": "Defective fusion of the paired dorsal aortae at the level of the aortic isthmus"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Coarctation of the aorta occurs just distal to the left subclavian artery near the ductus arteriosus (ligamentum arteriosum), reflecting incorporation of ductal tissue from the left sixth aortic arch and abnormal partial involution of the left dorsal aorta.",
-        "whyCorrect": "The characteristic location of coarctation reflects the embryologic association with the left sixth aortic arch. Ductal tissue from this arch is incorporated into the aortic wall at this site, and when the ductus closes postnatally, contraction of this ectopic ductal tissue causes narrowing. Combined with abnormal partial involution of the left dorsal aorta, this produces the classic juxtaductal coarctation.",
-        "whyWrongByChoice": {
-          "B": "The right fourth aortic arch forms the proximal right subclavian artery, not the aortic arch itself. The left fourth aortic arch forms the segment of the aortic arch between the left common carotid and left subclavian arteries, which is proximal to the typical coarctation site.",
-          "C": "The fifth aortic arch normally regresses early in development and contributes no adult structures. It does not persist to cause luminal obstruction.",
-          "D": "The third aortic arch forms the common carotid arteries and proximal internal carotid arteries. Abnormal separation from the dorsal aorta would affect head and neck vasculature, not the juxtaductal aortic region.",
-          "E": "The paired dorsal aortae fuse caudally to form the descending aorta, but this occurs well below the site of typical coarctation. The aortic isthmus narrowing is related to ductal tissue, not dorsal aorta fusion."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "embryology",
-        "aortic arch development",
-        "coarctation of the aorta",
-        "sixth aortic arch",
-        "ductus arteriosus"
-      ]
-    },
-    {
-      "id": "ae-045",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 4-year-old girl undergoes surgical repair of a coarctation of the aorta. Postoperatively, she develops persistent hoarseness lasting several weeks. Laryngoscopy reveals left vocal cord paralysis. The surgeon explains that the injured nerve was vulnerable during the procedure because of its anatomic relationship to a structure derived from a specific embryonic vessel. Which embryologic event best explains why this nerve was at risk during this particular surgery?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Regression of the right sixth aortic arch causing the nerve to migrate superiorly on the right side"
-        },
-        {
-          "label": "B",
-          "text": "Persistence of the left sixth aortic arch as the ductus arteriosus, anchoring the nerve beneath the aortic arch"
-        },
-        {
-          "label": "C",
-          "text": "Fusion of the paired dorsal aortae pulling the nerve inferiorly into the thorax"
-        },
-        {
-          "label": "D",
-          "text": "Asymmetric division of the aortic sac creating the brachiocephalic trunk on the right side"
-        },
-        {
-          "label": "E",
-          "text": "Persistence of the left fourth aortic arch forming the segment of aorta between the carotid and subclavian origins"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The left recurrent laryngeal nerve loops under the aortic arch posterior to the ligamentum arteriosum because the left sixth aortic arch persists as the ductus arteriosus, keeping the nerve anchored in the thorax.",
-        "whyCorrect": "During early development, both recurrent laryngeal nerves loop around the sixth aortic arches. On the left side, the distal segment of the sixth arch persists as the ductus arteriosus (later ligamentum arteriosum), maintaining the nerve's position looped under the aortic arch. This makes the left recurrent laryngeal nerve vulnerable during aortic arch surgery, including coarctation repair.",
-        "whyWrongByChoice": {
-          "A": "Regression of the right sixth aortic arch explains the course of the right recurrent laryngeal nerve (which loops under the right subclavian artery), not the vulnerability of the left nerve during aortic surgery.",
-          "C": "Fusion of the paired dorsal aortae occurs caudally to form the descending aorta. This process does not determine the position of the recurrent laryngeal nerves relative to the aortic arch.",
-          "D": "The asymmetric division of the aortic sac into the brachiocephalic trunk (right) and ascending aorta (left) does not directly determine the course of the left recurrent laryngeal nerve.",
-          "E": "The left fourth aortic arch forms the aortic arch segment between the left common carotid and left subclavian arteries, but it is the persistence of the sixth arch (ductus arteriosus) that anchors the left recurrent laryngeal nerve in its thoracic position."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "embryology",
-        "recurrent laryngeal nerve",
-        "sixth aortic arch",
-        "ductus arteriosus",
-        "coarctation repair"
-      ]
-    },
-    {
-      "id": "ae-046",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 55-year-old woman with a history of lung cancer undergoes CT of the chest, which reveals a large mass encasing the aortic arch near the ligamentum arteriosum. She presents with progressive hoarseness over the past 3 months. Her temperature is 37.0 C, pulse is 78/min, and blood pressure is 128/82 mm Hg. Laryngoscopy confirms left vocal cord paralysis. The nerve affected in this patient follows its characteristic course because of the developmental fate of which embryonic structure?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Left third aortic arch, which forms the left common carotid artery"
-        },
-        {
-          "label": "B",
-          "text": "Right fourth aortic arch, which forms the proximal right subclavian artery"
-        },
-        {
-          "label": "C",
-          "text": "Left sixth aortic arch, whose distal segment persists as the ductus arteriosus"
-        },
-        {
-          "label": "D",
-          "text": "Left fourth aortic arch, which forms the aortic arch between the left common carotid and left subclavian arteries"
-        },
-        {
-          "label": "E",
-          "text": "Right sixth aortic arch, whose distal segment regresses during development"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "The left recurrent laryngeal nerve loops under the aortic arch at the ligamentum arteriosum because the distal left sixth aortic arch persists as the ductus arteriosus, holding the nerve in place during embryonic elongation.",
-        "whyCorrect": "During embryonic development, both recurrent laryngeal nerves initially loop around the sixth aortic arches. On the left, the distal segment of the sixth arch persists as the ductus arteriosus (later the ligamentum arteriosum), so the left recurrent laryngeal nerve remains looped under the aortic arch at this location. A mass at the ligamentum arteriosum compresses this nerve, causing hoarseness.",
-        "whyWrongByChoice": {
-          "A": "The left third aortic arch forms the left common carotid artery and proximal internal carotid artery. It does not determine the course of the left recurrent laryngeal nerve.",
-          "B": "The right fourth aortic arch forms the proximal right subclavian artery. The right recurrent laryngeal nerve loops under this structure, but the question describes left-sided vocal cord paralysis.",
-          "D": "The left fourth aortic arch forms the segment of the adult aortic arch between the left common carotid and left subclavian arteries. While the nerve passes near this region, its specific anchoring point is determined by the sixth arch derivative (ductus arteriosus), not the fourth.",
-          "E": "The distal right sixth aortic arch regresses, which is why the right recurrent laryngeal nerve migrates superiorly to loop under the right subclavian artery. This explains the right nerve's course, not the left."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "embryology",
-        "recurrent laryngeal nerve",
-        "sixth aortic arch",
-        "ligamentum arteriosum",
-        "lung cancer"
-      ]
-    },
-    {
-      "id": "ae-047",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A medical student is studying the embryologic origins of the great vessels. She notes that in the adult, the left common carotid and left subclavian arteries arise as separate branches directly from the aortic arch, whereas on the right side, these vessels branch from a common brachiocephalic trunk. She traces the brachiocephalic trunk back to its embryonic origin. Which embryonic structure gives rise to the brachiocephalic trunk?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Right fourth aortic arch prior to its remodeling into the proximal right subclavian artery"
-        },
-        {
-          "label": "B",
-          "text": "Right dorsal aorta before its partial regression during vascular remodeling"
-        },
-        {
-          "label": "C",
-          "text": "Right third aortic arch during formation of the right common carotid artery"
-        },
-        {
-          "label": "D",
-          "text": "Right portion of the aortic sac following its asymmetric division during outflow tract development"
-        },
-        {
-          "label": "E",
-          "text": "Truncus arteriosus prior to septation into the aortic and pulmonary outflow tracts"
+          "text": "The mesothelial surface covering the external aspect of the myocardium"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The brachiocephalic trunk arises from asymmetric division of the aortic sac, with the right portion forming the brachiocephalic trunk and the left portion contributing to the ascending aorta.",
-        "whyCorrect": "The aortic sac, which is the distal continuation of the truncus arteriosus at the embryonic heart's outflow, divides asymmetrically during development. The right side of the aortic sac becomes the brachiocephalic trunk, while the left side becomes the ascending aorta. This asymmetric division explains why the right common carotid and right subclavian arise from a shared trunk, while on the left they branch separately.",
+        "summary": "The endocardium lines the heart chambers and valves, and its epithelium continues past the heart to line all major blood vessels including the aorta, vena cavae, and pulmonary arteries.",
+        "whyCorrect": "The endocardium provides the inner lining of the heart, covering the atria, ventricles, and heart valves. The source material explicitly states that 'the epithelium covers the valves and continues past the heart to line all the major blood vessels (e.g., aorta, vena cavae, and pulmonary arteries).' The valve vegetations in endocarditis affect this endocardial lining, which is continuous with the endothelium of the great vessels.",
         "whyWrongByChoice": {
-          "A": "The right fourth aortic arch forms the proximal right subclavian artery, not the brachiocephalic trunk. The brachiocephalic trunk is the structure from which the right subclavian and right common carotid arteries branch.",
-          "B": "The right dorsal aorta partially regresses, with its distal segment persisting as part of the right subclavian artery. It does not form the brachiocephalic trunk.",
-          "C": "The right third aortic arch forms the right common carotid artery and proximal internal carotid artery. While the common carotid branches from the brachiocephalic trunk, the trunk itself is derived from the aortic sac.",
-          "E": "The truncus arteriosus septates into the aortic and pulmonary outflow tracts. The aortic sac is the distal continuation of the truncus arteriosus. While related, the brachiocephalic trunk specifically derives from the asymmetric division of the aortic sac, not the truncus arteriosus itself."
+          "A": "The pericardial cavity is lined by the serous pericardium (mesothelium), not endocardium. The endocardial lining is on the inner surface of the heart and is not continuous with the pericardial space lining.",
+          "B": "The coronary arteries are located within the epicardium, not the endocardium. While coronary arteries have their own endothelial lining, the question asks about the tissue layer lining the valve, which is the endocardium that continues into the great vessels.",
+          "C": "The subendocardial layer lies beneath the endocardium and contains Purkinje fibers. While it is considered part of the endocardium, it is a deeper layer and not the surface epithelium that lines the valves and continues into blood vessels.",
+          "E": "The mesothelium is the simple squamous epithelium of the epicardium (visceral pericardium), which covers the external surface of the heart. It is a separate layer from the endocardium that lines the valve surfaces."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "embryology",
-        "aortic arch development",
-        "brachiocephalic trunk",
-        "aortic sac",
-        "great vessel asymmetry"
+        "histology",
+        "endocardium",
+        "endocarditis",
+        "heart valves",
+        "endothelium"
       ]
     },
     {
-      "id": "ae-048",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 62-year-old man undergoes a right thyroidectomy for papillary thyroid carcinoma. Postoperatively, he has no voice changes or difficulty swallowing. The surgeon identifies and preserves the right recurrent laryngeal nerve during the procedure by locating it as it loops under a specific artery in the neck. Based on embryologic principles, this nerve loops under the right subclavian artery rather than the aortic arch because of which developmental process?",
+      "id": "hi-002",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 68-year-old woman with a history of breast cancer treated with doxorubicin presents with progressive dyspnea and peripheral edema. Echocardiography shows a dilated left ventricle with an ejection fraction of 25%. An endomyocardial biopsy is performed. On histologic examination, the pathologist identifies cells with branching morphology, central nuclei, and dark-staining transverse lines at regular intervals between cells. These dark-staining transverse lines are composed of three distinct structural components. Damage to which specific component would most directly impair the synchronized electrical activation of the myocardium?",
       "choices": [
         {
           "label": "A",
-          "text": "Persistence of the left sixth aortic arch as the ductus arteriosus on the contralateral side"
+          "text": "Fascia adherens, which anchor actin filaments and enable contractile force transmission between cells"
         },
         {
           "label": "B",
-          "text": "Formation of the brachiocephalic trunk from the right portion of the aortic sac"
+          "text": "Macula adherens, which bind intermediate filaments and maintain structural integrity of the myocyte network"
         },
         {
           "label": "C",
-          "text": "Fusion of the paired dorsal aortae into a single descending aorta below the fourth thoracic vertebra"
+          "text": "Gap junctions composed of connexin proteins, which allow ion passage between adjacent cardiomyocytes"
         },
         {
           "label": "D",
-          "text": "Regression of the right third aortic arch leaving only the common carotid artery"
+          "text": "Sarcomeric actin-myosin cross-bridges, which generate the mechanical force of cardiac contraction"
         },
         {
           "label": "E",
-          "text": "Regression of the distal right sixth aortic arch"
+          "text": "Cadherin-mediated desmosomes, which prevent cardiomyocyte separation under mechanical stress"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gap junctions within intercalated discs allow passage of ions between cardiomyocytes, enabling propagation of cardiac action potentials and synchronized electrical activation of the myocardium.",
+        "whyCorrect": "The dark-staining transverse lines are intercalated discs, which contain three components: fascia adherens, macula adherens (desmosomes), and gap junctions. Gap junctions connect the cytoplasm of neighboring cardiomyocytes and allow passage of ions, which propagates cardiac action potentials. Damage to gap junctions would most directly impair synchronized electrical activation, leading to arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "Fascia adherens are binding sites for actin filaments that allow contractility and cell-to-cell extracellular connection. Damage would impair mechanical force transmission but not directly disrupt electrical synchronization.",
+          "B": "Macula adherens (desmosomes) contain cadherin and bind intermediate filaments, providing structural integrity for the myocyte network. Their damage would compromise mechanical connections but not electrical coupling.",
+          "D": "Sarcomeric actin-myosin cross-bridges are components of the myofibrils responsible for contraction, not components of intercalated discs. Damage would impair contractile force but not electrical propagation between cells.",
+          "E": "This answer describes the same structure as macula adherens (desmosomes) using different terminology. While they prevent cell separation under stress, their damage would affect structural integrity rather than electrical synchronization."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "intercalated discs",
+        "gap junctions",
+        "connexin",
+        "cardiac electrophysiology"
+      ]
+    },
+    {
+      "id": "hi-003",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 29-year-old man is brought to the emergency department after a motor vehicle collision. CT of the chest shows a moderate pericardial effusion with early signs of cardiac tamponade. His blood pressure is 88/60 mm Hg, heart rate is 122/min, and jugular venous distension is noted. Pericardiocentesis yields 200 mL of bloody fluid. The fluid was accumulating in a space between two layers that are both lined by the same type of epithelium. Which embryonic germ layer gives rise to the epithelium lining both surfaces of this fluid-filled space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm, which gives rise to the surface epithelium of the pericardial sac"
+        },
+        {
+          "label": "B",
+          "text": "Endoderm, which lines the internal cavities including the pericardial space"
+        },
+        {
+          "label": "C",
+          "text": "Mesoderm, which gives rise to the mesothelium lining the pericardial cavity"
+        },
+        {
+          "label": "D",
+          "text": "Neural crest, which contributes to connective tissue surrounding the heart"
+        },
+        {
+          "label": "E",
+          "text": "Lateral plate mesoderm specifically from the splanchnic layer forming only the visceral pericardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pericardial cavity lies between the visceral (epicardium) and parietal layers of the serous pericardium, both lined by mesothelium derived from mesoderm.",
+        "whyCorrect": "The pericardial fluid accumulates in the pericardial cavity between the visceral layer (epicardium) and the parietal layer of the serous pericardium. The epicardium is covered by mesothelium, which the source material explicitly states is 'derived from the embryonic mesoderm.' Both the visceral and parietal layers share this mesothelial lining, and mesothelium originates from mesoderm.",
+        "whyWrongByChoice": {
+          "A": "Ectoderm gives rise to the epidermis, nervous system, and other structures but does not form the mesothelial lining of serous cavities like the pericardium.",
+          "B": "Endoderm lines the gastrointestinal tract, respiratory epithelium, and other internal organs but does not give rise to the serous membrane lining of body cavities.",
+          "D": "Neural crest cells contribute to various structures including pharyngeal arch cartilage and some connective tissues, but they do not form the mesothelial lining of the pericardial cavity.",
+          "E": "While lateral plate mesoderm is indeed involved, this answer incorrectly states that only the visceral pericardium is formed from this layer. Both visceral and parietal layers of the serous pericardium are lined by mesothelium from mesoderm, and the question asks about epithelium lining both surfaces."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "pericardium",
+        "mesothelium",
+        "mesoderm",
+        "cardiac tamponade"
+      ]
+    },
+    {
+      "id": "hi-004",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 58-year-old man with a history of hypertension and diabetes presents to the clinic for routine follow-up. Echocardiography shows concentric left ventricular hypertrophy with a septal wall thickness of 1.4 cm (normal <1.1 cm) and preserved ejection fraction of 60%. The increased wall thickness in this patient is primarily due to enlargement of cells within which layer of the heart wall, and what is the expected microscopic appearance of these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endocardium, composed of simple squamous epithelium with underlying smooth muscle fibers and connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Myocardium, composed of branching striated cells with central nuclei and intercalated discs at cell junctions"
+        },
+        {
+          "label": "C",
+          "text": "Epicardium, composed of mesothelium overlying loose connective tissue with adipose and autonomic nerves"
+        },
+        {
+          "label": "D",
+          "text": "Subendocardium, composed of modified cardiac muscle fibers forming the impulse-conducting Purkinje system"
+        },
+        {
+          "label": "E",
+          "text": "Fibrous pericardium, composed of dense irregular connective tissue that prevents cardiac chamber overdistension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Left ventricular hypertrophy involves thickening of the myocardium, which is composed of cardiomyocytes that display branching morphology, striations, central nuclei, and intercalated discs.",
+        "whyCorrect": "The myocardium is the thickest layer of the heart wall and is responsible for contraction. In hypertensive heart disease, the left ventricular myocardium undergoes hypertrophy (increased cardiomyocyte size). Microscopically, cardiomyocytes are striated (alternating dark and light bands from actin-myosin arrangement), have a branching morphology, generally contain one central nucleus, and are connected by intercalated discs.",
+        "whyWrongByChoice": {
+          "A": "The endocardium is a thin layer that lines the heart chambers and valves. It does not significantly contribute to wall thickness, and its hypertrophy would not account for the increased ventricular wall measurement seen on echocardiography.",
+          "C": "The epicardium is the outermost layer containing coronary vessels and adipose tissue. It is a thin membrane and does not hypertrophy in response to pressure overload. Its thickening would not explain concentric left ventricular hypertrophy.",
+          "D": "The subendocardium contains Purkinje fibers of the conduction system but is a thin layer considered part of the endocardium. Its enlargement would not account for the significant wall thickening seen in ventricular hypertrophy.",
+          "E": "The fibrous pericardium surrounds the heart externally and prevents overfilling. It is not part of the heart wall proper, and its thickening would not be detected as increased ventricular wall thickness on echocardiography."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "myocardium",
+        "cardiomyocytes",
+        "ventricular hypertrophy",
+        "cardiac muscle"
+      ]
+    },
+    {
+      "id": "hi-005",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A pathologist examines a cardiac biopsy from a 34-year-old woman with suspected viral myocarditis. She observes dense inflammatory infiltrate surrounding damaged muscle cells with characteristic branching morphology. She notes that the inflammatory damage involves structures at cell-cell junctions that are critical for both mechanical stability and electrical coupling. One particular junctional protein, when damaged, would most directly explain why this patient is at risk for cardiac arrhythmias. Which protein is most likely involved?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actin, which forms the thin filaments responsible for sarcomeric contraction within individual cardiomyocytes"
+        },
+        {
+          "label": "B",
+          "text": "Cadherin, which is the adhesion protein within macula adherens providing structural integrity between cardiomyocytes"
+        },
+        {
+          "label": "C",
+          "text": "Connexin, which forms the connexon channels of gap junctions allowing ionic current flow between cardiomyocytes"
+        },
+        {
+          "label": "D",
+          "text": "Myosin, which forms thick filaments that interact with actin to generate contractile force in cardiomyocytes"
+        },
+        {
+          "label": "E",
+          "text": "Desmin, which forms intermediate filaments anchored by desmosomes to maintain cardiomyocyte structural alignment"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Connexin forms the connexon channels that make up gap junctions in intercalated discs. Damage to connexin disrupts ion passage between cardiomyocytes, impairing action potential propagation and causing arrhythmias.",
+        "whyCorrect": "Gap junctions are composed of multiple connexon channels made of the protein connexin. These allow passage of ions between cardiomyocytes, enabling propagation of cardiac action potentials and ensuring electrical cell-to-cell communication. When connexin is damaged in myocarditis, the disrupted ionic communication leads directly to arrhythmias because action potentials can no longer propagate normally through the myocardium.",
+        "whyWrongByChoice": {
+          "A": "Actin forms thin filaments within sarcomeres and is involved in contraction. While fascia adherens anchor actin filaments, damage to actin itself would primarily impair contractility rather than directly causing arrhythmias through disrupted electrical coupling.",
+          "B": "Cadherin is found in macula adherens (desmosomes) and provides structural integrity by binding intermediate filaments. Damage to cadherin would weaken mechanical connections between cardiomyocytes but would not directly impair electrical propagation.",
+          "D": "Myosin forms thick filaments in sarcomeres responsible for generating contractile force. Damage would impair pump function but would not directly disrupt electrical coupling between cells.",
+          "E": "Desmin intermediate filaments are anchored by desmosomes and maintain structural alignment. Their damage would compromise mechanical integrity but would not directly cause arrhythmias through disrupted electrical communication."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "connexin",
+        "gap junctions",
+        "myocarditis",
+        "cardiac arrhythmia"
+      ]
+    },
+    {
+      "id": "hi-006",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 72-year-old man with chronic kidney disease on hemodialysis develops pleuritic chest pain that worsens when lying flat and improves when leaning forward. His temperature is 38.1 C, heart rate is 96/min, and a friction rub is heard on auscultation. Echocardiography reveals a circumferential pericardial effusion. The inflammation in this patient involves a membrane structure whose outermost layer folds inward at the great vessels to form two distinct surfaces. The space between these two surfaces normally contains a small amount of fluid that serves which primary function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Providing nutrients and oxygen to the subepicardial cardiomyocytes via diffusion"
+        },
+        {
+          "label": "B",
+          "text": "Reducing friction between the visceral and parietal pericardial layers during cardiac contraction and relaxation"
+        },
+        {
+          "label": "C",
+          "text": "Maintaining oncotic pressure to prevent transudation of fluid from the epicardial coronary vessels"
+        },
+        {
+          "label": "D",
+          "text": "Lubricating the endocardial surface to ensure laminar blood flow through the cardiac chambers"
+        },
+        {
+          "label": "E",
+          "text": "Cushioning the cardiac conduction system within the subendocardial layer from external mechanical forces"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pericardial cavity between the visceral (epicardium) and parietal layers of the serous pericardium contains fluid that reduces friction during cardiac contraction and relaxation.",
+        "whyCorrect": "The serous pericardium folds inward at the great vessels, creating visceral (epicardium) and parietal layers. The pericardial cavity between them contains a small amount of fluid that, as stated in the source material, 'reduces friction within the pericardium during the contraction and relaxation of the heart.' In pericarditis, inflammation increases this fluid, potentially causing tamponade.",
+        "whyWrongByChoice": {
+          "A": "Nutrition and oxygen to the myocardium are supplied by the coronary arteries within the epicardium, not by pericardial fluid diffusion. The pericardial fluid serves a mechanical, not nutritive, function.",
+          "C": "Pericardial fluid is not involved in maintaining oncotic pressure or preventing transudation from coronary vessels. Its primary role is purely mechanical friction reduction.",
+          "D": "The endocardial surface is the inner lining of the heart chambers. Pericardial fluid is located outside the heart wall between the pericardial layers and has no role in intracardiac blood flow dynamics.",
+          "E": "The cardiac conduction system (Purkinje fibers) runs through the subendocardial layer deep within the heart wall. Pericardial fluid on the external surface of the heart does not protect these internal structures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "pericardium",
+        "pericardial fluid",
+        "pericarditis",
+        "serous membrane"
+      ]
+    },
+    {
+      "id": "hi-007",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A histology instructor shows students two microscopy images side by side: one of cardiac muscle and one of skeletal muscle. Both specimens show striated cells. A student is asked to identify the cardiac muscle specimen. She correctly identifies it based on two key histologic features that distinguish cardiac from skeletal muscle cells. Which pair of features would most reliably allow this distinction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of actin-myosin filaments and location of mitochondria between myofibrils"
+        },
+        {
+          "label": "B",
+          "text": "Branching cellular morphology with intercalated discs and single central nuclei per cell"
+        },
+        {
+          "label": "C",
+          "text": "Presence of T-tubules at the A-I junction and sarcoplasmic reticulum surrounding each sarcomere"
+        },
+        {
+          "label": "D",
+          "text": "Elongated cylindrical shape with peripheral nuclei and absence of gap junctions between cells"
+        },
+        {
+          "label": "E",
+          "text": "Voluntary neural control via motor end plates and multinucleated syncytial fiber arrangement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cardiac muscle is distinguished from skeletal muscle by branching morphology with intercalated discs and generally single central nuclei, versus skeletal muscle's non-branching tubular shape with multiple peripheral nuclei.",
+        "whyCorrect": "The source material explicitly states that cardiomyocytes have 'a distinct branching morphology and generally contain only one nucleus' while 'skeletal muscle does not branch (tubular shape) and has multiple nuclei per cell.' Additionally, intercalated discs are unique to cardiac muscle and are a key identifying feature on microscopy.",
+        "whyWrongByChoice": {
+          "A": "Both cardiac and skeletal muscle contain actin-myosin filaments that produce striations, and both have mitochondria. These features are shared and would not allow distinction between the two muscle types.",
+          "C": "Both cardiac and skeletal muscle contain T-tubules and sarcoplasmic reticulum as part of their excitation-contraction coupling machinery. These features alone would not reliably distinguish the two.",
+          "D": "This description matches skeletal muscle (cylindrical shape, peripheral nuclei, no gap junctions), not cardiac muscle. The question asks for features that identify cardiac muscle.",
+          "E": "This description also matches skeletal muscle (voluntary control, motor end plates, multinucleated). Cardiac muscle is involuntary and does not have motor end plates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "cardiac muscle",
+        "skeletal muscle",
+        "cardiomyocytes",
+        "intercalated discs"
+      ]
+    },
+    {
+      "id": "hi-008",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 51-year-old woman presents with acute-onset severe substernal chest pain radiating to her left arm. ECG shows ST-segment elevation in leads V1-V4. Cardiac catheterization reveals complete occlusion of the left anterior descending artery. Emergent percutaneous coronary intervention restores flow. The coronary artery that was occluded is located within a specific layer of the heart wall. This layer also contains autonomic nerves and variable amounts of adipose tissue. On microscopy, the outermost surface of this layer is lined by which type of epithelium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Simple cuboidal epithelium specialized for secretion and absorption of pericardial fluid"
+        },
+        {
+          "label": "B",
+          "text": "Stratified squamous epithelium providing protection against friction from cardiac motion"
+        },
+        {
+          "label": "C",
+          "text": "Pseudostratified columnar epithelium with cilia for clearing debris from the pericardial space"
+        },
+        {
+          "label": "D",
+          "text": "Transitional epithelium capable of stretching during changes in cardiac volume"
+        },
+        {
+          "label": "E",
+          "text": "Simple squamous epithelium called mesothelium derived from embryonic mesoderm"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "The right recurrent laryngeal nerve loops under the right subclavian artery (fourth arch derivative) because the distal right sixth aortic arch regresses, allowing the nerve to shift superiorly.",
-        "whyCorrect": "During early development, both recurrent laryngeal nerves loop around the sixth aortic arches. On the right side, the distal portion of the sixth aortic arch regresses. As the embryo elongates, the right recurrent laryngeal nerve moves upward and ultimately loops around the right subclavian artery, which is a derivative of the right fourth aortic arch. This regression is the key event explaining the nerve's final position.",
+        "summary": "The coronary arteries are located within the epicardium, whose outermost surface is lined by simple squamous epithelium called mesothelium, derived from embryonic mesoderm.",
+        "whyCorrect": "The source material states that the epicardium 'contains the coronary arteries and veins that supply blood to and drain blood from the heart' along with 'autonomic nerves and variable amounts of fat.' The outermost surface consists of 'a layer of simple squamous epithelium called mesothelium (derived from the embryonic mesoderm).'",
         "whyWrongByChoice": {
-          "A": "Persistence of the left sixth aortic arch as the ductus arteriosus explains the course of the left recurrent laryngeal nerve, not the right. While the two events are related aspects of sixth arch asymmetry, the specific event affecting the right nerve is regression of the right sixth arch.",
-          "B": "Formation of the brachiocephalic trunk from the aortic sac contributes to the vascular framework but does not directly determine why the right recurrent laryngeal nerve shifts from the sixth arch level to the fourth arch level.",
-          "C": "Fusion of the paired dorsal aortae into a single descending aorta occurs caudally and does not influence the position of the recurrent laryngeal nerves relative to the aortic arches.",
-          "D": "The right third aortic arch does not regress; it persists to form the right common carotid artery and proximal internal carotid artery. This is unrelated to the course of the right recurrent laryngeal nerve."
+          "A": "Simple cuboidal epithelium is found in glandular structures such as thyroid follicles and nephron linings. It does not line the epicardial surface or any serous membrane.",
+          "B": "Stratified squamous epithelium is found in areas subject to abrasive forces (skin, mouth, esophagus, vagina). The epicardial surface experiences friction but is protected by pericardial fluid and mesothelium, not stratified squamous epithelium.",
+          "C": "Pseudostratified columnar epithelium is found in the upper airways and is not present in the pericardium or on any cardiac surface.",
+          "D": "Transitional epithelium (urothelium) is exclusively found in the urinary tract and is not present on any cardiac surface."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "embryology",
-        "recurrent laryngeal nerve",
-        "sixth aortic arch regression",
-        "right subclavian artery",
-        "thyroidectomy"
+        "histology",
+        "epicardium",
+        "mesothelium",
+        "coronary arteries",
+        "simple squamous epithelium"
       ]
     },
     {
-      "id": "ae-049",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 7-month-old infant with trisomy 21 presents for cardiac evaluation. Echocardiography reveals a patent ductus arteriosus connecting the pulmonary trunk to the descending aorta. The physician plans pharmacologic closure with indomethacin. An embryologist reviewing the case notes that the ductus arteriosus is derived from the distal segment of a specific embryonic vessel, while the proximal segment of this same vessel contributes to another structure. What additional structure shares this common embryonic origin with the ductus arteriosus?",
+      "id": "hi-009",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 45-year-old man with dilated cardiomyopathy undergoes endomyocardial biopsy. The pathologist notes that the characteristic branching pattern of cardiomyocytes enhances intercellular communication because each cardiomyocyte shares intercalated discs with multiple neighboring cells. This branching architecture is functionally significant because it allows the action potential to spread more rapidly through the myocardium. Approximately how many intercalated discs does a single branching cardiomyocyte share with its neighboring cells?",
       "choices": [
         {
           "label": "A",
-          "text": "Left common carotid artery arising from the aortic arch"
+          "text": "One intercalated disc, connecting each cardiomyocyte to a single downstream neighbor in series"
         },
         {
           "label": "B",
-          "text": "Proximal left pulmonary artery branching from the pulmonary trunk"
+          "text": "Two intercalated discs, connecting each cardiomyocyte to one upstream and one downstream neighbor"
         },
         {
           "label": "C",
-          "text": "Aortic arch segment between the left common carotid and left subclavian arteries"
+          "text": "Three intercalated discs, allowing each cardiomyocyte to communicate with multiple neighboring cells"
         },
         {
           "label": "D",
-          "text": "Left subclavian artery arising directly from the aortic arch"
+          "text": "Five intercalated discs, one at each branch point and two at the longitudinal ends of the cell"
         },
         {
           "label": "E",
-          "text": "Proximal right pulmonary artery branching from the pulmonary trunk"
-        }
-      ],
-      "correctAnswer": "B",
-      "explanation": {
-        "summary": "The left sixth aortic arch gives rise to both the proximal left pulmonary artery (proximal segment) and the ductus arteriosus (distal segment).",
-        "whyCorrect": "The sixth aortic arches contribute to the pulmonary vasculature. On the left, the proximal segment forms the proximal left pulmonary artery while the distal segment persists as the ductus arteriosus. Both structures therefore share a common embryonic origin from the left sixth aortic arch.",
-        "whyWrongByChoice": {
-          "A": "The left common carotid artery is derived from the third aortic arch, not the sixth. It shares no common embryonic origin with the ductus arteriosus.",
-          "C": "The aortic arch segment between the left common carotid and left subclavian arteries is derived from the left fourth aortic arch, not the sixth.",
-          "D": "The left subclavian artery does not originate from any aortic arch; it is instead a branch of the aorta derived from the seventh intersegmental artery.",
-          "E": "The proximal right pulmonary artery is derived from the right sixth aortic arch. While this is the corresponding structure on the opposite side, it does not share the same specific embryonic vessel (left sixth arch) as the ductus arteriosus."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "embryology",
-        "sixth aortic arch",
-        "ductus arteriosus",
-        "pulmonary artery",
-        "patent ductus arteriosus"
-      ]
-    },
-    {
-      "id": "ae-050",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "During a gross anatomy dissection, a medical student notices that the right common carotid artery branches from the brachiocephalic trunk, while the left common carotid artery arises independently from the aortic arch. The instructor asks the student to explain this asymmetry. The student correctly identifies that both common carotid arteries are derived from the same embryonic arch pair, but the difference in their adult branching pattern is best explained by which of the following developmental events?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Regression of the right dorsal aorta cranial to the fourth arch, redirecting blood flow through the brachiocephalic trunk"
-        },
-        {
-          "label": "B",
-          "text": "Differential growth of the third aortic arches causing the left arch to elongate more than the right"
-        },
-        {
-          "label": "C",
-          "text": "Asymmetric division of the aortic sac, forming the brachiocephalic trunk on the right and ascending aorta on the left"
-        },
-        {
-          "label": "D",
-          "text": "Earlier regression of the right sixth aortic arch compared to the left sixth aortic arch"
-        },
-        {
-          "label": "E",
-          "text": "Unequal contribution of neural crest cells to the right and left pharyngeal arches"
+          "text": "Variable numbers of intercalated discs depending on the chamber where the cardiomyocyte is located"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The asymmetric branching pattern of the common carotid arteries results from the asymmetric division of the aortic sac into the brachiocephalic trunk (right) and ascending aorta (left).",
-        "whyCorrect": "Both common carotid arteries derive from the third aortic arches. However, the aortic sac divides asymmetrically: the right portion becomes the brachiocephalic trunk (from which the right common carotid branches), while the left portion becomes the ascending aorta (leaving the left common carotid to arise separately from the aortic arch). This asymmetric division of the aortic sac is the key event explaining the different branching patterns.",
+        "summary": "Each branching cardiomyocyte shares a total of three intercalated discs with its neighboring cells, which enhances the speed of action potential propagation through the myocardium.",
+        "whyCorrect": "The source material explicitly states: 'The characteristic branching of the cardiomyocytes enhances this communication because one cardiomyocyte shares a total of three intercalated discs (and associated gap junctions) with its neighboring cells. This helps speed the action potential through the entire myocardium.'",
         "whyWrongByChoice": {
-          "A": "While the right dorsal aorta does partially regress, this primarily affects the formation of the right subclavian artery rather than explaining why the right common carotid branches from the brachiocephalic trunk.",
-          "B": "Both third aortic arches develop symmetrically to form the common carotid arteries bilaterally. There is no differential growth of the third arches themselves.",
-          "D": "Regression of the right sixth aortic arch explains the asymmetric courses of the recurrent laryngeal nerves but does not account for the different branching patterns of the common carotid arteries.",
-          "E": "While neural crest cells contribute to the cartilage bars within pharyngeal arches, the asymmetric branching of the common carotid arteries is determined by vascular remodeling of the aortic sac, not differential neural crest cell migration."
+          "A": "If each cardiomyocyte only connected to one neighbor, the myocardium would function as a simple linear chain, which would not allow the rapid, multidirectional spread of action potentials necessary for coordinated contraction.",
+          "B": "Two intercalated discs would describe a simple end-to-end chain arrangement without branching. The branching morphology of cardiomyocytes specifically allows connection to more than two neighbors.",
+          "D": "Five intercalated discs per cardiomyocyte is not supported by the source material. The branching morphology results in three connections to neighboring cells.",
+          "E": "While myocardial thickness varies by chamber, the source material specifies that each cardiomyocyte shares three intercalated discs with neighbors, without noting chamber-dependent variation in this number."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "embryology",
-        "aortic sac",
-        "brachiocephalic trunk",
-        "common carotid artery",
-        "great vessel asymmetry"
+        "histology",
+        "cardiomyocytes",
+        "intercalated discs",
+        "branching morphology",
+        "action potential propagation"
       ]
     },
     {
-      "id": "ae-051",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A newborn is diagnosed with an aberrant right subclavian artery (arteria lusoria) that arises as the last branch of the aortic arch and courses posterior to the esophagus. This anomaly occurs when the right fourth aortic arch and the right dorsal aorta cranial to the seventh intersegmental artery both regress abnormally. In normal development, the right dorsal aorta contributes to which of the following structures?",
+      "id": "hi-010",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 60-year-old woman with long-standing rheumatic heart disease undergoes mitral valve replacement. During surgery, the surgeon notes that the fibrous pericardium is densely adherent to surrounding structures, making dissection difficult. The attending explains that this layer serves an important physiologic function. A medical student observes that the pericardium appears to have two functionally distinct components: a stiff outer layer and a smoother inner layer. The stiff outer layer of the pericardium primarily serves which physiologic function?",
       "choices": [
         {
           "label": "A",
-          "text": "The brachiocephalic trunk, proximal to its bifurcation into the right common carotid and right subclavian arteries"
+          "text": "Anchoring the heart to the diaphragm and sternum to prevent excessive cardiac displacement during respiration"
         },
         {
           "label": "B",
-          "text": "The proximal right pulmonary artery, before it enters the right lung hilum"
+          "text": "Preventing the heart from overfilling by providing a non-compliant external constraint on cardiac volume"
         },
         {
           "label": "C",
-          "text": "The distal portion of the right subclavian artery, together with the right fourth aortic arch forming the proximal portion"
+          "text": "Generating the pericardial fluid that lubricates the interface between the heart and surrounding mediastinal structures"
         },
         {
           "label": "D",
-          "text": "The ascending aorta, between the aortic valve and the origin of the brachiocephalic trunk"
+          "text": "Transmitting the cardiac electrical impulse from the sinoatrial node to the surrounding autonomic nervous system"
         },
         {
           "label": "E",
-          "text": "The descending thoracic aorta, below the level where the paired dorsal aortae normally fuse"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "In normal development, the cranial right dorsal aorta partially regresses, but its distal segment persists as part of the right subclavian artery, complementing the proximal portion formed by the right fourth aortic arch.",
-        "whyCorrect": "The right dorsal aorta undergoes partial regression cranially. The distal segment that persists becomes part of the right subclavian artery, while the right fourth aortic arch forms the proximal right subclavian artery. Together, these two embryonic structures compose the adult right subclavian artery. When both regress abnormally, the right subclavian must arise aberrantly from the descending aorta.",
-        "whyWrongByChoice": {
-          "A": "The brachiocephalic trunk is derived from the right portion of the aortic sac, not from the right dorsal aorta.",
-          "B": "The proximal right pulmonary artery is derived from the right sixth aortic arch, not from the right dorsal aorta.",
-          "D": "The ascending aorta is derived from the left portion of the aortic sac, not from the right dorsal aorta.",
-          "E": "The descending thoracic aorta is formed by caudal fusion of both paired dorsal aortae. The cranial right dorsal aorta contributes to the right subclavian artery, not the descending aorta."
-        }
-      },
-      "difficulty": "hard",
-      "imageRef": null,
-      "tags": [
-        "embryology",
-        "right dorsal aorta",
-        "right subclavian artery",
-        "aortic arch development",
-        "vascular anomaly"
-      ]
-    },
-    {
-      "id": "ae-052",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "A 35-year-old woman undergoes a parathyroidectomy for primary hyperparathyroidism. Postoperatively, she has no voice changes or difficulty swallowing. The surgeon identifies and preserves the right recurrent laryngeal nerve during the procedure by locating it as it loops under a specific artery before ascending to the larynx. The surgeon notes that this nerve supplies all intrinsic laryngeal muscles except one. Injury to this nerve during the procedure would most likely result in which clinical finding?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Inability to tense the vocal cords during phonation due to loss of cricothyroid muscle function"
-        },
-        {
-          "label": "B",
-          "text": "Hoarseness and breathy voice quality due to paralysis of the ipsilateral vocal cord"
-        },
-        {
-          "label": "C",
-          "text": "Dysphagia from paralysis of the pharyngeal constrictor muscles innervated by this nerve"
-        },
-        {
-          "label": "D",
-          "text": "Bilateral vocal cord paralysis with acute airway obstruction requiring emergent intubation"
-        },
-        {
-          "label": "E",
-          "text": "Loss of sensation to the supraglottic larynx with increased risk of silent aspiration"
+          "text": "Providing the elastic recoil necessary for ventricular diastolic filling during the cardiac relaxation phase"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "The recurrent laryngeal nerve supplies all intrinsic muscles of the larynx except the cricothyroid. Unilateral injury causes ipsilateral vocal cord paralysis resulting in hoarseness, a weak/breathy voice, and increased aspiration risk.",
-        "whyCorrect": "The recurrent laryngeal nerves are branches of the vagus nerve (CN X) that supply all intrinsic muscles of the larynx except the cricothyroid. Injury during parathyroidectomy causes ipsilateral vocal cord paralysis, manifesting as hoarseness and a breathy voice quality. The source material specifically states that injury causes hoarseness, a weak or breathy voice, and an increased risk of aspiration.",
+        "summary": "The fibrous pericardium is described as a stiff and unyielding layer that prevents the heart from overfilling.",
+        "whyCorrect": "The source material explicitly states: 'The outermost layer is the fibrous pericardium, a stiff and unyielding layer that prevents the heart from overfilling.' This non-compliant external constraint limits acute cardiac chamber distension, which is the primary physiologic function of this layer.",
         "whyWrongByChoice": {
-          "A": "The cricothyroid muscle is the one intrinsic laryngeal muscle NOT innervated by the recurrent laryngeal nerve. It is innervated by the external branch of the superior laryngeal nerve. Recurrent laryngeal nerve injury would spare cricothyroid function.",
-          "C": "The pharyngeal constrictor muscles are primarily innervated by the pharyngeal plexus (vagus and glossopharyngeal nerves), not specifically by the recurrent laryngeal nerve. Dysphagia is not the primary manifestation of recurrent laryngeal nerve injury.",
-          "D": "Bilateral vocal cord paralysis could cause airway obstruction, but the question describes a unilateral procedure (right side). Unilateral recurrent laryngeal nerve injury causes hoarseness, not complete airway obstruction.",
-          "E": "Sensation to the supraglottic larynx is provided by the internal branch of the superior laryngeal nerve, not the recurrent laryngeal nerve. Loss of supraglottic sensation is not a consequence of recurrent laryngeal nerve injury."
+          "A": "While the fibrous pericardium does have attachments to surrounding structures, the source material specifically identifies its primary function as preventing cardiac overfilling, not anchoring the heart in position.",
+          "C": "Pericardial fluid is produced by the serous pericardium (the inner layer), not the fibrous pericardium. The fibrous pericardium is a structural layer that provides mechanical constraint.",
+          "D": "The fibrous pericardium has no role in cardiac electrical conduction. The conduction system runs through the subendocardial layer (Purkinje fibers) and myocardium, not through the pericardium.",
+          "E": "Elastic recoil for diastolic filling is a property of the myocardium and its elastic components, not the fibrous pericardium. The fibrous pericardium is described as stiff and unyielding, not elastic."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "embryology",
-        "recurrent laryngeal nerve",
-        "parathyroidectomy",
-        "vocal cord paralysis",
-        "laryngeal innervation"
+        "histology",
+        "fibrous pericardium",
+        "cardiac physiology",
+        "pericardium",
+        "heart wall"
       ]
     },
     {
-      "id": "ae-053",
-      "topicId": "development-aortic-arches",
-      "topicName": "Development of the Aortic Arches",
-      "stem": "An embryology professor presents a diagram showing the six pairs of aortic arches and asks students to identify which pair undergoes the earliest and most complete regression, contributing no adult vascular structures. A student correctly identifies this arch and then is asked a follow-up question: given the developmental timeline of the pharyngeal apparatus during weeks 4-5, which of the following correctly pairs this non-contributing arch with an arch that produces a transient structure that also fully regresses?",
+      "id": "hi-011",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 23-year-old previously healthy man develops sudden-onset palpitations and lightheadedness while exercising. ECG reveals ventricular tachycardia. He is cardioverted to normal sinus rhythm. MRI of the heart shows fatty infiltration of the right ventricular myocardium with wall thinning. Genetic testing reveals a mutation in a gene encoding a desmosomal protein. Based on the histologic structure of intercalated discs, this mutation most directly disrupts which cellular function?",
       "choices": [
         {
           "label": "A",
-          "text": "Third arch (no adult derivative) paired with first arch (maxillary artery contribution)"
+          "text": "Ion transfer between cardiomyocytes for action potential propagation via connexon channels"
         },
         {
           "label": "B",
-          "text": "Fourth arch (no adult derivative) paired with sixth arch (ductus arteriosus)"
+          "text": "Anchoring of actin filaments to allow contractile force transmission across cell boundaries"
         },
         {
           "label": "C",
-          "text": "Sixth arch (no adult derivative) paired with third arch (common carotid artery)"
+          "text": "Binding of intermediate filaments to maintain strong intercellular structural connections between cardiomyocytes"
         },
         {
           "label": "D",
-          "text": "Fifth arch (no adult derivative) paired with second arch (transient stapedial artery)"
+          "text": "Propagation of calcium waves through the sarcoplasmic reticulum for excitation-contraction coupling"
         },
         {
           "label": "E",
-          "text": "First arch (no adult derivative) paired with fourth arch (aortic arch segment)"
+          "text": "Transmission of neural impulses from autonomic nerve fibers to the cardiomyocyte membrane"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Desmosomes (macula adherens) within intercalated discs contain cadherin and bind intermediate filaments to form strong intercellular connections. Mutations in desmosomal proteins cause arrhythmogenic right ventricular cardiomyopathy (ARVC).",
+        "whyCorrect": "The source material describes macula adherens (desmosomes) as 'binding sites for intermediate filaments that form strong intercellular connections between cardiomyocytes' containing 'the protein cadherin' and providing 'structural integrity for the network of myocytes.' A desmosomal protein mutation directly disrupts these structural connections, leading to cardiomyocyte detachment, fibrofatty replacement, and arrhythmias as seen in ARVC.",
+        "whyWrongByChoice": {
+          "A": "Ion transfer via connexon channels is a function of gap junctions, not desmosomes. Gap junctions are composed of connexin protein, which is different from desmosomal proteins like cadherin.",
+          "B": "Anchoring of actin filaments is the function of fascia adherens, not desmosomes (macula adherens). These are two distinct components of intercalated discs with different structural roles.",
+          "D": "Calcium handling through the sarcoplasmic reticulum is an intracellular process within individual cardiomyocytes and is not related to desmosomal proteins at intercalated discs.",
+          "E": "Autonomic neural transmission to cardiomyocytes occurs via neurotransmitter receptors on the cell membrane, not through desmosomal proteins at intercalated discs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "histology",
+        "desmosomes",
+        "macula adherens",
+        "ARVC",
+        "intercalated discs"
+      ]
+    },
+    {
+      "id": "hi-012",
+      "topicId": "histology-of-the-heart",
+      "topicName": "Histology of the Heart",
+      "stem": "A 6-year-old boy with a history of Kawasaki disease undergoes follow-up echocardiography, which reveals a coronary artery aneurysm involving the left main coronary artery. The cardiologist explains to the parents that these vessels are embedded within a specific layer of the heart wall. On biopsy of this layer, the pathologist would expect to find loose connective tissue containing autonomic nerves and adipose tissue, with the surface covered by a specific epithelium. This same layer is also known by another name because of its relationship to a surrounding protective structure. What is the alternative name for this layer, and what surrounding structure does it relate to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endocardium, which is the innermost component of the pericardial sac that directly contacts circulating blood"
+        },
+        {
+          "label": "B",
+          "text": "Fibrous pericardium, which is the tough outermost layer of the pericardial sac surrounding the great vessels"
+        },
+        {
+          "label": "C",
+          "text": "Parietal pericardium, which is the outer layer of the serous membrane reflected at the great vessels"
+        },
+        {
+          "label": "D",
+          "text": "Visceral layer of the serous pericardium, which is the inner layer of the pericardial sac adherent to the heart surface"
+        },
+        {
+          "label": "E",
+          "text": "Subendocardium, which is the deep layer of the endocardium containing the cardiac conduction fibers"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The fifth aortic arch contributes no adult structures (regresses early), and the second aortic arch produces only the transient stapedial arteries, which also fully regress during development.",
-        "whyCorrect": "The fifth pair of aortic arches is the only pair that contributes no adult vascular structures, as it regresses early in development. The second pair forms the stapedial arteries, which are transient and also regress during development. Both arches therefore produce no persistent adult vascular derivatives, making this the correct pairing.",
+        "summary": "The epicardium is also known as the visceral layer of the serous pericardium, the innermost layer of the pericardial sac that is directly adherent to the heart surface.",
+        "whyCorrect": "The source material states: 'The epicardium is also the innermost layer of a two-layered structure called the pericardium' and 'The inner layer, the serous pericardium, is divided into two layers: the inner visceral layer (the epicardium) and outer parietal layer.' The epicardium contains the coronary arteries, autonomic nerves, and fat, and is synonymous with the visceral layer of the serous pericardium.",
         "whyWrongByChoice": {
-          "A": "The third aortic arch does form adult structures (common carotid and proximal internal carotid arteries), so it cannot be the arch with no adult derivative. The first arch also contributes to the maxillary arteries.",
-          "B": "The fourth aortic arch forms significant adult structures: the proximal right subclavian artery on the right and the aortic arch segment on the left. It is not the arch with no adult derivatives.",
-          "C": "The sixth aortic arch forms the proximal pulmonary arteries and the ductus arteriosus. It has major adult derivatives and is not the non-contributing arch.",
-          "E": "The first aortic arch does have a partial adult derivative (contributes to the maxillary arteries), so it is not the arch with no adult derivatives. Furthermore, the fourth arch produces important adult structures."
+          "A": "The endocardium is the innermost layer of the heart wall that lines the chambers and valves, not the layer containing coronary arteries. It contacts blood directly but is not part of the pericardial sac.",
+          "B": "The fibrous pericardium is the stiff outermost layer that prevents overfilling. It does not contain the coronary arteries and is structurally separate from the epicardium.",
+          "C": "The parietal pericardium is the outer layer of the serous pericardium, not the layer adherent to the heart surface. The epicardium is the visceral (inner) layer, not the parietal (outer) layer.",
+          "E": "The subendocardium is a deep component of the endocardium containing Purkinje fibers. It is located on the inner aspect of the heart wall and does not contain coronary arteries."
         }
       },
       "difficulty": "hard",
       "imageRef": null,
       "tags": [
-        "embryology",
-        "aortic arch development",
-        "fifth aortic arch",
-        "second aortic arch",
-        "stapedial artery"
+        "histology",
+        "epicardium",
+        "visceral pericardium",
+        "coronary arteries",
+        "pericardial layers"
+      ]
+    },
+    {
+      "id": "cp-001",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 72-year-old man with a history of atrial fibrillation presents to the emergency department with acute decompensated heart failure. His heart rate is 145 bpm. Echocardiography shows a left ventricular ejection fraction of 30% with an end-diastolic volume of 90 mL and an end-systolic volume of 63 mL. The attending physician notes that atrial fibrillation at this rapid rate significantly impairs ventricular filling. Which mechanism best explains why tachycardia disproportionately reduces ventricular filling in the setting of atrial fibrillation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tachycardia shortens diastole more than systole, and loss of atrial kick eliminates the compensatory active filling"
+        },
+        {
+          "label": "B",
+          "text": "Tachycardia increases afterload by raising aortic diastolic pressure, which prevents the semilunar valves from closing during relaxation"
+        },
+        {
+          "label": "C",
+          "text": "Tachycardia prolongs isovolumetric contraction, reducing the time available for ventricular ejection and subsequent filling"
+        },
+        {
+          "label": "D",
+          "text": "Loss of atrial contraction causes retrograde flow through the semilunar valves, reducing the net forward stroke volume significantly"
+        },
+        {
+          "label": "E",
+          "text": "Tachycardia shortens systole more than diastole, but loss of the v wave in the atrial pressure curve prevents passive venous return"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In tachycardia, diastole shortens more than systole, reducing passive filling time. Normally, atrial contraction compensates by providing up to 40% of ventricular filling at high heart rates, but this is lost in atrial fibrillation.",
+        "whyCorrect": "When heart rate increases, both systole and diastole shorten, but diastole shortens disproportionately more. At normal resting rates, atrial contraction provides only 10-15% of ventricular filling. However, at maximal heart rates, atrial contraction can provide up to 40% of filling. In atrial fibrillation, the atria cannot contract effectively, eliminating this compensatory mechanism precisely when it is most needed.",
+        "whyWrongByChoice": {
+          "B": "Tachycardia does not primarily increase afterload by raising aortic diastolic pressure. Additionally, semilunar valves close normally at the end of ventricular ejection regardless of heart rate. The primary issue is reduced filling time, not afterload.",
+          "C": "Tachycardia does not selectively prolong isovolumetric contraction. All phases shorten with tachycardia, but diastolic phases shorten disproportionately compared to systolic phases.",
+          "D": "Atrial contraction does not affect semilunar valve function. The semilunar valves separate ventricles from great vessels, not atria from ventricles. Loss of atrial contraction affects atrioventricular filling, not semilunar valve flow.",
+          "E": "Tachycardia actually shortens diastole more than systole, not the reverse. Also, the v wave reflects passive venous filling of the atria and is not dependent on atrial contraction; it would still be present in atrial fibrillation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "atrial-fibrillation",
+        "tachycardia",
+        "ventricular-filling",
+        "atrial-kick"
+      ]
+    },
+    {
+      "id": "cp-002",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 65-year-old man with severe aortic stenosis is undergoing cardiac catheterization. The left ventricular pressure tracing shows a markedly prolonged period during which ventricular pressure is rising but both the aortic and mitral valves remain closed. The peak left ventricular pressure is 240 mmHg while the aortic pressure is 130/80 mmHg. Which heart sound marks the beginning of this prolonged phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1, generated by closure of the mitral and tricuspid valves at the onset of ventricular contraction"
+        },
+        {
+          "label": "B",
+          "text": "S2, generated by closure of the aortic and pulmonary valves at the onset of ventricular relaxation"
+        },
+        {
+          "label": "C",
+          "text": "S3, generated by rapid filling of a volume-overloaded ventricle during early diastolic filling"
+        },
+        {
+          "label": "D",
+          "text": "S4, generated by atrial contraction against a stiff noncompliant ventricle during late diastolic filling"
+        },
+        {
+          "label": "E",
+          "text": "A systolic ejection click generated by the opening of a stenotic aortic valve during ventricular ejection"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The phase described is isovolumetric contraction, where both AV and semilunar valves are closed while ventricular pressure rises. S1 (closure of mitral and tricuspid valves) marks its beginning.",
+        "whyCorrect": "Isovolumetric contraction begins when rising ventricular pressure exceeds atrial pressure, closing the atrioventricular (mitral and tricuspid) valves, producing S1. During this phase, both AV and semilunar valves are closed, and ventricular pressure rises without volume change. In aortic stenosis, the ventricle must generate much higher pressure to overcome the stenotic valve, prolonging this phase. S1 marks its onset.",
+        "whyWrongByChoice": {
+          "B": "S2 is produced by closure of the aortic and pulmonary valves, which marks the end of ventricular ejection and the beginning of isovolumetric relaxation, not isovolumetric contraction.",
+          "C": "S3 occurs during rapid ventricular filling in early diastole and is associated with volume overload states. It does not occur during isovolumetric contraction.",
+          "D": "S4 occurs during atrial systole in late diastole when the atria contract against a stiff ventricle. It precedes isovolumetric contraction but does not mark its beginning; S1 does.",
+          "E": "A systolic ejection click occurs when the stenotic aortic valve opens, which marks the end of isovolumetric contraction and beginning of ejection, not the beginning of isovolumetric contraction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "isovolumetric-contraction",
+        "heart-sounds",
+        "aortic-stenosis",
+        "S1"
+      ]
+    },
+    {
+      "id": "cp-003",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 58-year-old woman is being evaluated in the cardiac catheterization laboratory. Simultaneous recordings of left ventricular and aortic pressures are obtained. The physician notes a brief period during which blood continues to flow from the ventricle into the aorta despite the aortic pressure exceeding the ventricular pressure. Which property of blood flow best explains this phenomenon during the reduced ventricular ejection phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Frank-Starling mechanism increases contractile force as ventricular volume increases during this phase"
+        },
+        {
+          "label": "B",
+          "text": "Elastic recoil of the aortic wall generates a pressure gradient that actively pulls blood from the ventricle"
+        },
+        {
+          "label": "C",
+          "text": "The kinetic energy and inertia of the blood maintains forward flow briefly even when the pressure gradient reverses"
+        },
+        {
+          "label": "D",
+          "text": "Active contraction of smooth muscle in the aortic wall creates a peristaltic wave that draws blood forward"
+        },
+        {
+          "label": "E",
+          "text": "The semilunar valves actively open wider during this phase to compensate for the declining ventricular pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "During reduced ventricular ejection, blood continues to leave the ventricle due to kinetic energy and inertia even when aortic pressure briefly exceeds ventricular pressure.",
+        "whyCorrect": "During reduced ventricular ejection, the ventricles begin to relax and the force of ejection diminishes. Blood still continues to leave the ventricles due to the kinetic energy or inertia of the blood for a short time, even when the pressure in the large arteries exceeds the ventricular pressure. This is a fundamental property of fluid dynamics.",
+        "whyWrongByChoice": {
+          "A": "The Frank-Starling mechanism relates to the force of contraction based on preload (end-diastolic volume) at the start of systole. It does not explain continued flow during the reduced ejection phase when the ventricle is already partially emptied.",
+          "B": "Elastic recoil of the aortic wall stores energy during systole and releases it during diastole to maintain forward flow in the arterial system. However, during reduced ejection, the aortic valve is still open and recoil is not pulling blood from the ventricle.",
+          "D": "The aorta does not have peristaltic contractions. While the aortic wall contains smooth muscle, it does not actively contract in a peristaltic fashion to propel blood. Forward flow is maintained by elastic recoil and blood momentum.",
+          "E": "Semilunar valves are passive structures that open and close based on pressure gradients. They do not actively open wider. They close when the pressure gradient fully reverses and flow stops."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "reduced-ejection",
+        "blood-inertia",
+        "ventricular-ejection"
+      ]
+    },
+    {
+      "id": "cp-004",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 74-year-old man with known right-sided heart failure is examined in the clinic. The physician places him at a 45-degree angle and observes prominent pulsations in the neck. The measured jugular venous pressure is 8 cm above the sternal angle. The physician observes the waveform pattern and notes a prominent wave occurring during ventricular systole while the tricuspid valve is closed and venous blood is accumulating in the right atrium. Which component of the jugular venous pressure waveform corresponds to this observation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The a wave, representing the peak in pressure resulting from forceful right atrial contraction during atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "The c wave, representing the brief pressure increase from ventricular contraction bulging the closed tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "The x descent, representing the decrease in atrial pressure as the ventricle ejects blood and the atrium relaxes"
+        },
+        {
+          "label": "D",
+          "text": "The v wave, representing the gradual pressure increase from continued venous return against the closed tricuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "The y descent, representing the rapid decrease in atrial pressure when the tricuspid valve opens during early diastole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The v wave represents passive venous filling of the right atrium during ventricular systole while the tricuspid valve is closed, causing a gradual increase in atrial pressure.",
+        "whyCorrect": "With the tricuspid valve closed during ventricular systole, venous return continues to fill the right atrium. This causes a slow, gradual increase in atrial pressure known as the v wave. It occurs throughout ventricular contraction and into isovolumetric relaxation. The 'v' stands for venous filling.",
+        "whyWrongByChoice": {
+          "A": "The a wave represents atrial contraction (atrial systole), which occurs before ventricular systole and before the tricuspid valve closes. It does not occur during ventricular systole with a closed tricuspid valve.",
+          "B": "The c wave is a brief, small bump caused by ventricular contraction pushing the closed tricuspid valve back into the atrium during isovolumetric contraction. It is transient, not a gradual accumulation of venous blood.",
+          "C": "The x descent represents a decrease in atrial pressure from atrial relaxation and ventricular ejection. It shows declining pressure, not the accumulation of blood described in the stem.",
+          "E": "The y descent occurs when the tricuspid valve opens during rapid ventricular filling, allowing blood to flow from the atrium into the ventricle. The stem specifies the tricuspid valve is closed, so this cannot be the y descent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "jugular-venous-pressure",
+        "v-wave",
+        "right-atrial-pressure",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "cp-005",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 50-year-old woman undergoes an exercise stress test for evaluation of exertional dyspnea. At rest, her heart rate is 70 bpm, end-diastolic volume is 120 mL, and end-systolic volume is 50 mL. During peak exercise, her heart rate increases to 170 bpm, end-diastolic volume is 140 mL, and end-systolic volume is 30 mL. What is the change in her stroke volume from rest to peak exercise, and which cardiac cycle phase is most shortened to accommodate the increased heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stroke volume increases by 40 mL; isovolumetric contraction is most shortened as the ventricle contracts faster"
+        },
+        {
+          "label": "B",
+          "text": "Stroke volume increases by 40 mL; diastolic filling phases are most shortened because diastole shortens more than systole"
+        },
+        {
+          "label": "C",
+          "text": "Stroke volume decreases by 20 mL; rapid ejection is most shortened due to increased afterload during exercise"
+        },
+        {
+          "label": "D",
+          "text": "Stroke volume increases by 20 mL; atrial systole is most shortened since the atria cannot contract at high rates"
+        },
+        {
+          "label": "E",
+          "text": "Stroke volume remains unchanged at 70 mL; all phases shorten equally to accommodate the increased heart rate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SV at rest = 120-50 = 70 mL; SV at peak = 140-30 = 110 mL; increase of 40 mL. Diastole shortens more than systole during tachycardia.",
+        "whyCorrect": "Stroke volume = EDV - ESV. At rest: 120 - 50 = 70 mL. At peak exercise: 140 - 30 = 110 mL. The increase is 40 mL. When heart rate increases, both systole and diastole shorten, but diastole shortens disproportionately more than systole. This means the filling phases (rapid and reduced ventricular filling) are most shortened.",
+        "whyWrongByChoice": {
+          "A": "While the stroke volume calculation of 40 mL increase is correct, isovolumetric contraction is not the phase most shortened. Diastolic filling phases shorten disproportionately more than systolic phases during tachycardia.",
+          "C": "The stroke volume actually increases, not decreases. At rest SV = 70 mL, at peak SV = 110 mL. This is an increase of 40 mL, driven by both increased EDV (Frank-Starling) and decreased ESV (enhanced contractility).",
+          "D": "The stroke volume increase is 40 mL (110 - 70), not 20 mL. While atrial systole does shorten, the overall diastolic filling period (both rapid and reduced filling phases) is what shortens most substantially.",
+          "E": "Stroke volume changes from 70 mL to 110 mL, an increase of 40 mL, not unchanged. Additionally, all phases do not shorten equally; diastole shortens disproportionately more than systole."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "stroke-volume",
+        "exercise",
+        "diastole",
+        "heart-rate"
+      ]
+    },
+    {
+      "id": "cp-006",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 55-year-old man is undergoing cardiac catheterization. The cardiologist records simultaneous left ventricular and aortic pressure tracings. She notices a small upward deflection in the aortic pressure tracing that occurs immediately after the aortic valve closes. This deflection is sometimes visible as a brief notch in the carotid artery pulse tracing on physical examination. Which phase of the cardiac cycle does this deflection correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial systole, when the atria contract and increase the pressure transmitted retrograde to the aortic root"
+        },
+        {
+          "label": "B",
+          "text": "Rapid ventricular ejection, when maximal blood flow from the ventricle causes peak pressure in the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Reduced ventricular ejection, when the declining ventricular pressure creates turbulent flow in the aortic root"
+        },
+        {
+          "label": "D",
+          "text": "Isovolumetric relaxation, when elastic recoil of the aorta against the closed aortic valve produces a pressure rebound"
+        },
+        {
+          "label": "E",
+          "text": "Rapid ventricular filling, when the opening of the mitral valve causes a transient increase in aortic root pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The dicrotic notch is an upward rebound in the aortic pressure tracing caused by elastic recoil of the aorta against the closed aortic valve, corresponding to isovolumetric relaxation.",
+        "whyCorrect": "The dicrotic notch is an upward rebound of the aortic pressure tracing that corresponds to a rebound of pressures in the elastic aorta just after closing of the aortic valve. This occurs at the beginning of isovolumetric relaxation, when the aortic and pulmonary valves have just closed. It can sometimes be observed in the carotid artery pulse tracing.",
+        "whyWrongByChoice": {
+          "A": "Atrial systole occurs during late diastole, well before and temporally distant from the dicrotic notch. Atrial contraction does not produce retrograde pressure changes in the aorta since the aortic valve is closed during diastole.",
+          "B": "Rapid ventricular ejection produces the peak of the aortic pressure curve (systolic peak), not the dicrotic notch. The dicrotic notch occurs after ejection is complete and the aortic valve closes.",
+          "C": "During reduced ventricular ejection, aortic pressure is declining but the aortic valve is still open. The dicrotic notch occurs specifically after valve closure, not during the ejection phase.",
+          "E": "Rapid ventricular filling involves opening of the mitral valve, not the aortic valve. This phase occurs after isovolumetric relaxation and does not cause pressure changes in the aortic root."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "dicrotic-notch",
+        "aortic-pressure",
+        "isovolumetric-relaxation"
+      ]
+    },
+    {
+      "id": "cp-007",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 70-year-old woman with severe tricuspid regurgitation is examined by a cardiology fellow. On inspection of the jugular venous pulsations, the fellow notices prominent large waves occurring simultaneously with ventricular systole, replacing the normal x descent. The attending explains that regurgitant blood flowing backward through the incompetent tricuspid valve during ventricular contraction produces these giant waves. Which normal waveform component is being replaced and amplified by the regurgitant flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The a wave, which normally represents the pressure peak from atrial contraction during atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "The c wave, which normally represents the brief pressure increase from the tricuspid valve bulging during isovolumetric contraction"
+        },
+        {
+          "label": "C",
+          "text": "The v wave, which normally represents gradual venous filling pressure but is now massively augmented by regurgitant systolic flow"
+        },
+        {
+          "label": "D",
+          "text": "The y descent, which normally represents the pressure drop from tricuspid valve opening during rapid ventricular filling"
+        },
+        {
+          "label": "E",
+          "text": "The x descent, which normally represents the pressure drop from atrial relaxation and is now obliterated by systolic backflow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In tricuspid regurgitation, giant cv waves or prominent v waves occur because regurgitant blood flows back into the right atrium during ventricular systole, massively augmenting the normal v wave.",
+        "whyCorrect": "The v wave normally represents the gradual increase in right atrial pressure from venous return during ventricular systole while the tricuspid valve is closed. In tricuspid regurgitation, the incompetent valve allows blood to regurgitate back into the right atrium during ventricular contraction, causing a massive augmentation of the v wave (giant v wave or cv wave). The stem describes waves during ventricular systole, which is when the v wave occurs.",
+        "whyWrongByChoice": {
+          "A": "The a wave occurs during atrial systole, before ventricular contraction. While giant a waves occur in other conditions (tricuspid stenosis, pulmonary hypertension), the stem specifically describes waves during ventricular systole, which corresponds to the v wave.",
+          "B": "The c wave is a brief, small bump during isovolumetric contraction. While tricuspid regurgitation does affect events during systole, the prominent waves described represent a massive augmentation of the v wave rather than just the c wave.",
+          "D": "The y descent occurs after the tricuspid valve opens during rapid ventricular filling (diastole). The stem describes events during ventricular systole, not diastole.",
+          "E": "While the x descent is indeed obliterated in tricuspid regurgitation, the x descent represents a pressure drop (descent), not a wave. The question asks which waveform is being replaced and amplified; the v wave is the waveform augmented by regurgitant flow."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "tricuspid-regurgitation",
+        "jugular-venous-pressure",
+        "v-wave"
+      ]
+    },
+    {
+      "id": "cp-008",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 63-year-old man with long-standing hypertension presents with exertional dyspnea. Echocardiography reveals concentric left ventricular hypertrophy with preserved ejection fraction. His end-diastolic volume is 100 mL and end-systolic volume is 35 mL. Cardiac catheterization shows that left ventricular pressure rises from 8 mmHg to 120 mmHg during a phase in which the ventricle is contracting but no blood is entering or leaving the chamber. During this specific phase, what is the status of the cardiac valves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The mitral valve is open and the aortic valve is closed, allowing continued filling from the left atrium"
+        },
+        {
+          "label": "B",
+          "text": "Both the mitral and aortic valves are open, permitting simultaneous filling and ejection of blood"
+        },
+        {
+          "label": "C",
+          "text": "The mitral valve is closed and the aortic valve is open, permitting ejection of blood into the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Both the mitral and aortic valves are closed, creating a sealed chamber for pressure buildup only"
+        },
+        {
+          "label": "E",
+          "text": "The aortic valve is open and the pulmonary valve is closed, directing all output to the systemic circulation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During isovolumetric contraction, both the AV valves (mitral/tricuspid) and semilunar valves (aortic/pulmonary) are closed, creating a sealed chamber where pressure rises without volume change.",
+        "whyCorrect": "The phase described — ventricular pressure rising with no blood entering or leaving — is isovolumetric contraction. At its onset, rising ventricular pressure exceeds atrial pressure, closing the mitral valve (producing S1). The aortic valve remains closed because ventricular pressure has not yet exceeded aortic pressure. With both valves closed, the ventricle contracts as a sealed chamber, building pressure without changing volume.",
+        "whyWrongByChoice": {
+          "A": "If the mitral valve were open, blood could flow between the atrium and ventricle, and the phase would not be isovolumetric. The mitral valve closes at the beginning of this phase when ventricular pressure exceeds atrial pressure.",
+          "B": "Both valves are never simultaneously open during any phase of the normal cardiac cycle. This would create direct flow from atrium through ventricle to aorta, which does not occur physiologically.",
+          "C": "If the aortic valve were open, blood would be ejected into the aorta, which would be the ejection phase, not isovolumetric contraction. The aortic valve opens only when ventricular pressure exceeds aortic pressure, marking the end of isovolumetric contraction.",
+          "E": "The aortic and pulmonary valves function on their respective sides of the heart. The left-sided events described involve the mitral and aortic valves. During isovolumetric contraction, both are closed; the pulmonary valve status pertains to the right heart."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "isovolumetric-contraction",
+        "valve-status",
+        "hypertension"
+      ]
+    },
+    {
+      "id": "cp-009",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 40-year-old woman undergoes right heart catheterization for evaluation of pulmonary hypertension. The right atrial pressure tracing shows the normal waveform components. The cardiologist points to a brief pressure increase that occurs just after the a wave descends and correlates it with a specific cardiac cycle event. This small deflection is caused by the right ventricle beginning to contract, which closes the tricuspid valve and briefly pushes it back into the right atrium. During which phase of the cardiac cycle does this deflection occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial systole, when the atria are actively contracting and pushing blood into the ventricles"
+        },
+        {
+          "label": "B",
+          "text": "Rapid ventricular ejection, when the pulmonary valve is open and blood is flowing into the pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Isovolumetric ventricular contraction, when the ventricle contracts with all valves closed and the tricuspid bulges atrium-ward"
+        },
+        {
+          "label": "D",
+          "text": "Isovolumetric ventricular relaxation, when the ventricle relaxes with all valves closed before the tricuspid opens"
+        },
+        {
+          "label": "E",
+          "text": "Rapid ventricular filling, when the tricuspid valve opens and blood rushes passively from the atrium into the ventricle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The c wave on the right atrial pressure tracing occurs during isovolumetric contraction when the contracting ventricle pushes the closed tricuspid valve back into the right atrium.",
+        "whyCorrect": "The c wave is a slight bump in the atrial pressure tracing caused by ventricular contraction against the closed tricuspid valve. The contraction closes the valve and pushes it slightly back into the right atrium, increasing atrial pressure briefly. This occurs during isovolumetric contraction, when all valves are closed and the ventricle is building pressure.",
+        "whyWrongByChoice": {
+          "A": "Atrial systole produces the a wave, not the c wave. During atrial systole, the atria are actively contracting, which is a different event from ventricular contraction pushing on the closed tricuspid valve.",
+          "B": "During rapid ventricular ejection, the pulmonary valve is open and blood is flowing out of the ventricle. The x descent, not the c wave, is occurring in the atrial pressure tracing during this phase.",
+          "D": "During isovolumetric relaxation, the ventricle is relaxing and pressure is falling. The v wave is completing during this phase. The tricuspid valve does not bulge into the atrium during relaxation.",
+          "E": "During rapid ventricular filling, the tricuspid valve is open and blood flows from the atrium into the ventricle. This corresponds to the y descent in the atrial pressure tracing, not the c wave."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "c-wave",
+        "atrial-pressure",
+        "isovolumetric-contraction",
+        "tricuspid-valve"
+      ]
+    },
+    {
+      "id": "cp-010",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 78-year-old man with a history of myocardial infarction presents with progressive dyspnea and orthopnea. Physical examination reveals bibasilar crackles, an S3 gallop, and jugular venous distention. His echocardiogram shows a dilated left ventricle with an ejection fraction of 20%, an end-diastolic volume of 250 mL, and an end-systolic volume of 200 mL. Despite the severely reduced ejection fraction, the patient's stroke volume is calculated. What is this patient's stroke volume, and how does it compare to a healthy individual with an EDV of 120 mL and an ESV of 50 mL?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patient SV is 50 mL, which is reduced compared to the normal SV of 70 mL, reflecting impaired systolic function"
+        },
+        {
+          "label": "B",
+          "text": "Patient SV is 200 mL, which is increased because the dilated ventricle ejects more blood per contraction cycle"
+        },
+        {
+          "label": "C",
+          "text": "Patient SV is 70 mL, which is identical to normal because the Frank-Starling mechanism fully compensates for dysfunction"
+        },
+        {
+          "label": "D",
+          "text": "Patient SV is 250 mL, which equals the end-diastolic volume since the entire ventricular content is ejected each beat"
+        },
+        {
+          "label": "E",
+          "text": "Patient SV is 120 mL, which is increased compared to normal because the dilated ventricle has greater preload stretch"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SV = EDV - ESV. Patient: 250 - 200 = 50 mL. Normal: 120 - 50 = 70 mL. The patient's SV is reduced despite a dilated ventricle, reflecting impaired systolic function.",
+        "whyCorrect": "Stroke volume is calculated as EDV minus ESV. For this patient: 250 - 200 = 50 mL. For a healthy individual: 120 - 50 = 70 mL. Despite having a much larger EDV due to ventricular dilation, the severely reduced ejection fraction (20%) means most of the blood remains in the ventricle after contraction, resulting in a lower stroke volume than normal.",
+        "whyWrongByChoice": {
+          "B": "SV is EDV minus ESV (250 - 200 = 50 mL), not 200 mL. The ESV is not the stroke volume. This answer confuses the end-systolic volume with the amount of blood ejected.",
+          "C": "The patient's SV is 50 mL, not 70 mL. While the Frank-Starling mechanism does attempt to compensate (the increased EDV stretches the ventricle), the severely damaged myocardium cannot generate adequate contractile force, so compensation is incomplete.",
+          "D": "The EDV (250 mL) is not the stroke volume. SV = EDV - ESV = 50 mL. The entire ventricular content is never ejected; some blood always remains (ESV). An ejection fraction of 100% is physiologically impossible.",
+          "E": "The patient's SV is 50 mL (250 - 200), not 120 mL. While increased preload does stretch the ventricle, the severely impaired contractility prevents adequate ejection, resulting in a reduced, not increased, stroke volume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "stroke-volume",
+        "ejection-fraction",
+        "heart-failure",
+        "EDV-ESV"
+      ]
+    },
+    {
+      "id": "cp-011",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 45-year-old woman presents to the emergency department with palpitations and lightheadedness. An ECG shows atrial fibrillation with a ventricular rate of 150 bpm. The physician explains to a medical student that the P wave on a normal ECG precedes the mechanical event it triggers, because electrical activation precedes mechanical contraction. The student asks which specific relationship between ECG and mechanical events illustrates this concept. Which of the following correctly pairs an ECG event with the mechanical event it most closely precedes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The T wave directly triggers closure of the atrioventricular valves and production of the first heart sound"
+        },
+        {
+          "label": "B",
+          "text": "The QRS complex directly triggers opening of the semilunar valves and the start of rapid ventricular ejection"
+        },
+        {
+          "label": "C",
+          "text": "The P wave precedes the increase in left atrial pressure from atrial contraction"
+        },
+        {
+          "label": "D",
+          "text": "The U wave triggers the rapid ventricular filling phase by causing relaxation of the ventricular papillary muscles"
+        },
+        {
+          "label": "E",
+          "text": "The PR interval directly corresponds to the duration of isovolumetric contraction of the ventricular myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ECG impulse precedes the corresponding mechanical event. The P wave (atrial depolarization) starts before the increase in left atrial pressure from atrial contraction, with a slight delay for electromechanical coupling.",
+        "whyCorrect": "The source material specifically states that the ECG impulse precedes the change in cardiac pressure. For example, the P wave starts before the increase in left atrial pressure, and the Q wave happens before the increase in LV pressure. This is because actual cardiac muscle contraction lags slightly behind the electrical impulse. The P wave to atrial contraction relationship exemplifies this principle.",
+        "whyWrongByChoice": {
+          "A": "The T wave represents ventricular repolarization (relaxation), not contraction. AV valve closure (S1) is triggered by ventricular contraction, which follows the QRS complex, not the T wave.",
+          "B": "The QRS complex triggers ventricular contraction (depolarization), but this leads first to isovolumetric contraction (all valves closed), not directly to semilunar valve opening. Semilunar valve opening occurs only after ventricular pressure exceeds arterial pressure.",
+          "D": "The U wave is an inconstant finding on ECG whose significance is debated. It does not trigger rapid ventricular filling or papillary muscle relaxation in any established physiological model.",
+          "E": "The PR interval represents the time from atrial depolarization to ventricular depolarization (conduction through the AV node). It does not correspond to the duration of isovolumetric contraction, which occurs after the QRS complex."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "ECG",
+        "electromechanical-coupling",
+        "P-wave",
+        "atrial-contraction"
+      ]
+    },
+    {
+      "id": "cp-012",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "A 66-year-old man with right-sided heart failure is being evaluated. His jugular venous pressure is elevated at 10 cm above the sternal angle. The physician examines the jugular venous waveform and identifies a downward deflection that occurs during early diastole, immediately after the tricuspid valve opens and blood flows from the right atrium into the right ventricle. This deflection reflects the rapid decrease in right atrial volume and pressure. Which component of the jugular venous pressure waveform does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The a wave, which represents the pressure increase from right atrial contraction during the atrial systole phase"
+        },
+        {
+          "label": "B",
+          "text": "The x descent, which represents the pressure decrease from atrial relaxation and ventricular ejection during systole"
+        },
+        {
+          "label": "C",
+          "text": "The c wave, which represents the brief pressure increase from the tricuspid valve bulging during isovolumetric contraction"
+        },
+        {
+          "label": "D",
+          "text": "The v wave, which represents the gradual pressure buildup from venous return while the tricuspid valve is still closed"
+        },
+        {
+          "label": "E",
+          "text": "The y descent, which represents the pressure decrease as blood empties from the right atrium into the right ventricle during filling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The y descent represents the decrease in right atrial pressure when the tricuspid valve opens and blood flows passively from the atrium into the ventricle during rapid ventricular filling.",
+        "whyCorrect": "The y descent occurs when the tricuspid valve opens during the rapid ventricular filling phase of the cardiac cycle. Blood that has been collecting in the right atrium while the tricuspid valve was closed can now passively enter the right ventricle, causing right atrial volume and pressure to decrease. The 'y' mnemonic stands for 'emptYing of the atrium.'",
+        "whyWrongByChoice": {
+          "A": "The a wave is an upward deflection (pressure increase), not a downward deflection. It occurs during atrial systole from atrial contraction, not during early diastole after tricuspid valve opening.",
+          "B": "The x descent is a downward deflection that occurs during ventricular systole, not early diastole. It results from atrial relaxation and ventricular ejection pulling the base of the heart downward. The timing does not match the stem's description of events after tricuspid valve opening.",
+          "C": "The c wave is an upward deflection (pressure increase), not a downward deflection. It occurs during isovolumetric contraction, not during early diastole.",
+          "D": "The v wave is an upward deflection (gradual pressure increase) from venous return while the tricuspid valve is closed during systole. It does not represent a decrease in pressure after the tricuspid valve opens."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-cycle",
+        "y-descent",
+        "jugular-venous-pressure",
+        "rapid-ventricular-filling",
+        "right-heart"
+      ]
+    },
+    {
+      "id": "cp-013",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 62-year-old man with a 20-year history of poorly controlled hypertension presents to the clinic with progressive exertional dyspnea over the past 3 months. His blood pressure is 168/98 mm Hg, heart rate is 78 beats/min, and respiratory rate is 18 breaths/min. On cardiac auscultation, you hear a low-frequency sound immediately preceding S1, producing a cadence reminiscent of the word \"Tennessee.\" An echocardiogram reveals concentric left ventricular hypertrophy with an ejection fraction of 55%. Which of the following best explains the mechanism producing this additional heart sound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid blood flow into a dilated and volume-overloaded ventricle during early diastole"
+        },
+        {
+          "label": "B",
+          "text": "Atrial contraction forcing blood against stiff, noncompliant ventricular walls during late diastole"
+        },
+        {
+          "label": "C",
+          "text": "Delayed closure of the pulmonic valve due to increased right ventricular volume during inspiration"
+        },
+        {
+          "label": "D",
+          "text": "Turbulent blood flow across a stenotic aortic valve during systolic ejection"
+        },
+        {
+          "label": "E",
+          "text": "Tensing of chordae tendineae during passive ventricular filling in a high-cardiac-output state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The S4 heart sound occurs during late diastole when the atrium contracts (atrial kick) and forces blood into a stiff, hypertrophied ventricle, causing the chordae tendineae to reverberate.",
+        "whyCorrect": "S4 is produced when atrial contraction pushes blood into pathologically stiff, noncompliant ventricles (as seen in concentric ventricular hypertrophy from chronic hypertension). The forceful atrial kick against the stiff ventricular walls causes reverberation and produces the characteristic low-frequency S4 sound, heard just before S1 with a 'Tennessee' cadence.",
+        "whyWrongByChoice": {
+          "A": "Rapid blood flow into a dilated, compliant ventricle during early diastole describes the mechanism of an S3 heart sound, not S4. S3 occurs immediately after S2 with a 'Kentucky' cadence.",
+          "C": "Delayed closure of the pulmonic valve describes the mechanism of physiologic or wide S2 splitting during inspiration, not an extra heart sound before S1.",
+          "D": "Turbulent flow across a stenotic valve produces a murmur, which is a prolonged sound distinct from the discrete, short S4 heart sound.",
+          "E": "Tensing of chordae tendineae during passive filling in high-output states describes a physiologic S3 sound heard in athletes or pregnant women, not S4."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S4",
+        "ventricular-hypertrophy",
+        "auscultation"
+      ]
+    },
+    {
+      "id": "cp-014",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 28-year-old woman at 32 weeks of gestation presents for a routine prenatal visit. She reports feeling well with no shortness of breath or chest pain. On cardiac auscultation, you detect a low-frequency extra sound occurring immediately after S2. Her vital signs are within normal limits for pregnancy. Which of the following is the most likely explanation for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial contraction against a ventricle with reduced compliance from gestational cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal left-to-right shunting through an undiagnosed atrial septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Pathologic volume overload causing ventricular dilation from preeclampsia"
+        },
+        {
+          "label": "D",
+          "text": "Physiologic rapid ventricular filling with tensing of chordae tendineae in a high-cardiac-output state"
+        },
+        {
+          "label": "E",
+          "text": "Paradoxical splitting of S2 from delayed aortic valve closure due to increased systemic resistance"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A physiologic S3 can be heard in pregnant women due to high-cardiac-output states, where rapid ventricular filling causes tensing of the chordae tendineae.",
+        "whyCorrect": "S3 gallops are normal in pregnant women, well-trained athletes, and children. In these high-cardiac-output states, the sound represents tensing of the chordae tendineae around the AV valve during rapid ventricular filling in early diastole. This is a physiologic finding that does not indicate pathology.",
+        "whyWrongByChoice": {
+          "A": "Atrial contraction against a noncompliant ventricle describes the mechanism of S4, not S3. Additionally, gestational cardiomyopathy (peripartum cardiomyopathy) would present with heart failure symptoms, which this patient lacks.",
+          "B": "An atrial septal defect would produce a fixed split S2, not an S3 sound. Additionally, ASD would typically present with other clinical findings.",
+          "C": "While pathologic S3 can occur with volume overload, this asymptomatic pregnant woman with normal vital signs most likely has a physiologic S3, not one caused by preeclampsia.",
+          "E": "Paradoxical splitting involves the S2 sound splitting during expiration rather than inspiration and is associated with aortic stenosis or left bundle branch block, not pregnancy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S3",
+        "pregnancy",
+        "physiologic-finding"
+      ]
+    },
+    {
+      "id": "cp-015",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 45-year-old woman presents with progressive dyspnea on exertion and lower extremity edema. Echocardiography reveals severe mitral regurgitation with a dilated left ventricle and an ejection fraction of 35%. On auscultation, you hear an extra heart sound producing a cadence similar to the word \"Kentucky.\" At what point in the cardiac cycle does this additional sound occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "During isovolumic contraction, immediately after the QRS complex on electrocardiogram"
+        },
+        {
+          "label": "B",
+          "text": "During late systole, just before closure of the aortic and pulmonic valves"
+        },
+        {
+          "label": "C",
+          "text": "During late diastole, coinciding with atrial contraction just before S1"
+        },
+        {
+          "label": "D",
+          "text": "During early diastole, in the rapid ventricular filling phase immediately after S2"
+        },
+        {
+          "label": "E",
+          "text": "At the end of the T wave, coinciding with ventricular repolarization and semilunar valve closure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The S3 heart sound occurs during early diastole in the rapid ventricular filling phase, immediately after S2, producing a 'Kentucky' cadence.",
+        "whyCorrect": "S3 occurs immediately after S2 during the rapid ventricular filling phase of diastole. In this patient with mitral regurgitation and a dilated ventricle, excess volume enters the ventricle during diastole, exaggerating early filling and producing a prominent S3. The 'Kentucky' cadence (S1-S2-S3 = Ken-tuc-ky) confirms this is an S3.",
+        "whyWrongByChoice": {
+          "A": "Isovolumic contraction occurs just after the QRS complex and corresponds to the timing of S1 (closure of AV valves), not the extra sound described.",
+          "B": "Late systole, before semilunar valve closure, does not correspond to any normal or pathologic heart sound; S2 marks the end of this phase.",
+          "C": "Late diastole coinciding with atrial contraction describes the timing of S4, which produces a 'Tennessee' cadence, not 'Kentucky.'",
+          "E": "The end of the T wave corresponds to the timing of S2, when ventricular repolarization leads to semilunar valve closure, not the extra sound described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S3",
+        "mitral-regurgitation",
+        "cardiac-cycle"
+      ]
+    },
+    {
+      "id": "cp-016",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 7-year-old girl is brought to her pediatrician for a sports physical. She is asymptomatic and active. On auscultation, the physician notes that S2 appears as two distinct sounds during deep inspiration but is heard as a single sound during expiration. The remainder of the examination is unremarkable. Which of the following mechanisms best explains this auscultatory finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased intrathoracic pressure during inspiration increasing venous return and delaying pulmonic valve closure"
+        },
+        {
+          "label": "B",
+          "text": "Delayed right ventricular depolarization from right bundle branch block prolonging pulmonary valve ejection"
+        },
+        {
+          "label": "C",
+          "text": "Left-to-right shunting through an atrial septal defect causing persistent right ventricular volume overload"
+        },
+        {
+          "label": "D",
+          "text": "Delayed aortic valve closure from aortic stenosis causing A2 to occur after P2 during expiration"
+        },
+        {
+          "label": "E",
+          "text": "Increased pulmonary artery pressure forcing the pulmonic valve to remain open longer during both phases of respiration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Physiologic S2 splitting occurs during inspiration when decreased intrathoracic pressure increases venous return to the right heart, prolonging right ventricular ejection and delaying pulmonic valve (P2) closure.",
+        "whyCorrect": "During inspiration, intrathoracic pressure drops, allowing more venous blood to enter the right ventricle. This increased blood volume prolongs ejection across the pulmonary valve and delays P2 relative to A2, producing an audible split. During expiration, A2 and P2 occur nearly simultaneously, producing a single S2. This is a normal physiologic finding.",
+        "whyWrongByChoice": {
+          "C": "An atrial septal defect causes a fixed split S2 that remains equally wide during both inspiration and expiration, not a split that resolves with expiration.",
+          "B": "Right bundle branch block delays right ventricular contraction and causes a wide split S2 that is pathologic, typically exaggerated beyond the normal physiologic split.",
+          "D": "Delayed aortic valve closure causing A2 after P2 describes paradoxical (reversed) splitting, where splitting occurs during expiration and disappears during inspiration — the opposite of this patient's finding.",
+          "E": "Increased pulmonary artery pressure can contribute to wide or fixed splitting, not the normal pattern of splitting only during inspiration with a single S2 during expiration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S2-splitting",
+        "physiologic-splitting",
+        "auscultation"
+      ]
+    },
+    {
+      "id": "cp-017",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 55-year-old man with known severe aortic stenosis presents for a follow-up evaluation. On auscultation, the physician notes that S2 is split during expiration but becomes a single sound during inspiration. Which of the following best explains this auscultatory pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The stenotic aortic valve delays A2 until after P2 during expiration, while inspiratory delay of P2 causes P2 and A2 to coincide"
+        },
+        {
+          "label": "B",
+          "text": "Increased venous return during inspiration causes earlier closure of the aortic valve and delayed closure of the pulmonic valve"
+        },
+        {
+          "label": "C",
+          "text": "Persistent left-to-right shunting maintains equal right ventricular volumes throughout the respiratory cycle"
+        },
+        {
+          "label": "D",
+          "text": "Right bundle branch block delays right ventricular contraction and exaggerates the normal inspiratory splitting of S2"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary hypertension forces the pulmonic valve open longer, widening the split during both inspiration and expiration equally"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paradoxical (reversed) splitting of S2 occurs in severe aortic stenosis because the stiff aortic valve delays A2 until after P2 during expiration; during inspiration, delayed P2 merges with the already-delayed A2.",
+        "whyCorrect": "In aortic stenosis, the aortic valve is stiff and takes longer to close, delaying A2 until it occurs after P2 during expiration, producing a split S2. During inspiration, P2 is further delayed by increased right ventricular filling, causing P2 and the delayed A2 to coincide, producing a single S2. This reversal of the normal splitting pattern is called paradoxical splitting.",
+        "whyWrongByChoice": {
+          "B": "This describes a mechanism that would exaggerate normal physiologic splitting rather than reverse it. In normal splitting, increased venous return delays P2, not A2.",
+          "C": "Persistent left-to-right shunting through an atrial septal defect causes fixed splitting, where the split is equal during both phases of respiration, not paradoxical splitting.",
+          "D": "Right bundle branch block causes wide splitting of S2 during inspiration, not paradoxical splitting during expiration.",
+          "E": "Pulmonary hypertension can contribute to wide splitting but does not cause the reversal of the splitting pattern seen in paradoxical splitting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "paradoxical-splitting",
+        "aortic-stenosis",
+        "S2"
+      ]
+    },
+    {
+      "id": "cp-018",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 35-year-old woman is evaluated for a heart murmur discovered during a routine examination. Cardiac auscultation reveals a fixed split S2 that does not vary with respiration. She is otherwise asymptomatic. Which of the following congenital heart defects is most likely responsible for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular septal defect with left-to-right shunting across the interventricular septum"
+        },
+        {
+          "label": "B",
+          "text": "Patent ductus arteriosus with continuous flow from aorta to pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Coarctation of the aorta with increased left ventricular afterload"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot with right-to-left shunting and right ventricular outflow obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Atrial septal defect with left-to-right shunting"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fixed splitting of S2 is most closely associated with atrial septal defect (ASD), where continuous left-to-right shunting maintains constant right ventricular volume overload regardless of respiratory phase.",
+        "whyCorrect": "In ASD, blood flows from the higher-pressure left atrium to the lower-pressure right atrium through the septal defect. The extra blood is pumped into the right ventricle and across the pulmonary valve, persistently delaying P2 closure. This delay remains constant regardless of breathing, producing a fixed split S2 heard equally during both inspiration and expiration.",
+        "whyWrongByChoice": {
+          "A": "Ventricular septal defect causes a systolic murmur due to turbulent flow across the interventricular septum but is not associated with fixed splitting of S2.",
+          "B": "Patent ductus arteriosus produces a continuous machinery-like murmur but does not characteristically cause a fixed split S2.",
+          "C": "Coarctation of the aorta increases left ventricular afterload and may cause a systolic murmur, but it does not produce fixed splitting of S2.",
+          "D": "Tetralogy of Fallot involves right-to-left shunting and typically produces a single or diminished S2 due to the pulmonic stenosis component, not a fixed split."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "fixed-splitting",
+        "atrial-septal-defect",
+        "congenital"
+      ]
+    },
+    {
+      "id": "cp-019",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 70-year-old man with dilated cardiomyopathy and an ejection fraction of 25% presents with worsening dyspnea and bilateral lower extremity edema. On auscultation, an extra heart sound is heard in early diastole. Which of the following pathophysiologic mechanisms best explains this sound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Forceful atrial contraction propelling blood against thickened and hypertrophied ventricular walls"
+        },
+        {
+          "label": "B",
+          "text": "Delayed closure of the pulmonic valve relative to the aortic valve during the inspiratory phase"
+        },
+        {
+          "label": "C",
+          "text": "Turbulent retrograde flow across an incompetent mitral valve during ventricular systole"
+        },
+        {
+          "label": "D",
+          "text": "Rapid inflow of blood from an overfilled atrium into a dilated, highly compliant ventricle"
+        },
+        {
+          "label": "E",
+          "text": "Reversal of the normal A2-P2 sequence due to delayed aortic valve closure from left bundle branch block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pathologic S3 in dilated cardiomyopathy results from rapid blood inflow into a dilated, compliant ventricle during early diastole, causing ventricular wall vibrations.",
+        "whyCorrect": "In dilated cardiomyopathy, the ventricle becomes enlarged and compliant. During early diastole, blood flows quickly from an overfilled atrium into the enlarged ventricle, causing vibrations of the ventricular wall. This produces the characteristic low-frequency S3 'sloshing' sound, similar to pouring water rapidly into a partially filled balloon.",
+        "whyWrongByChoice": {
+          "A": "Forceful atrial contraction against hypertrophied ventricular walls describes the mechanism of S4, which occurs in late diastole just before S1, not in early diastole after S2.",
+          "B": "Delayed pulmonic valve closure relative to the aortic valve describes S2 splitting, not an extra heart sound in early diastole.",
+          "C": "Turbulent retrograde flow across an incompetent mitral valve produces a systolic murmur of mitral regurgitation, not a discrete diastolic heart sound.",
+          "E": "Reversal of the A2-P2 sequence describes paradoxical splitting of S2, which is a modification of the S2 sound, not an extra heart sound in early diastole."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S3",
+        "dilated-cardiomyopathy",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "cp-020",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 48-year-old man presents with palpitations and mild dyspnea. ECG reveals a right bundle branch block (RBBB). On cardiac auscultation, the physician notes an abnormally wide split S1 and a widened split S2 during inspiration. Which of the following best explains the wide splitting of S2 in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early closure of the aortic valve due to decreased left ventricular stroke volume from reduced preload"
+        },
+        {
+          "label": "B",
+          "text": "Fixed volume overload of the right ventricle from an undiagnosed atrial septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Delayed closure of the pulmonic valve due to prolonged right ventricular contraction"
+        },
+        {
+          "label": "D",
+          "text": "Paradoxical reversal of A2 and P2 timing due to concurrent left ventricular conduction delay"
+        },
+        {
+          "label": "E",
+          "text": "Increased pulmonary vascular resistance causing sustained elevation of pulmonary artery pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In RBBB, delayed right ventricular depolarization prolongs right ventricular contraction, causing the pulmonic valve to close later than normal and producing a wide split S2.",
+        "whyCorrect": "Right bundle branch block delays right ventricular depolarization and contraction. Because the right ventricle contracts later, the pulmonary valve closes later, widening the interval between A2 and P2. This produces a wide split S2 that is especially apparent during inspiration, when increased venous return further delays P2.",
+        "whyWrongByChoice": {
+          "A": "Early aortic valve closure from reduced preload would not explain the widened S2 split associated with RBBB; the mechanism involves delayed right-sided events, not early left-sided closure.",
+          "B": "An atrial septal defect produces a fixed split S2 that does not vary with respiration, unlike the wide split in RBBB that varies with the respiratory cycle.",
+          "D": "Paradoxical splitting occurs with left-sided conduction delays (LBBB) or aortic stenosis, not RBBB. In RBBB, the normal A2-before-P2 sequence is preserved but exaggerated.",
+          "E": "Increased pulmonary vascular resistance from pulmonary hypertension can contribute to wide splitting, but the clinical scenario specifically implicates RBBB as the cause."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "wide-splitting",
+        "RBBB",
+        "S2"
+      ]
+    },
+    {
+      "id": "cp-021",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 60-year-old woman with a history of left bundle branch block (LBBB) undergoes cardiac auscultation. The examiner notes that S2 is split during expiration but becomes a single sound during inspiration. This patient's S2 splitting pattern is most similar to the pattern expected in which of the following conditions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial septal defect with persistent left-to-right interatrial shunting"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary stenosis with prolonged right ventricular ejection time"
+        },
+        {
+          "label": "C",
+          "text": "Severe aortic stenosis with delayed closure of a calcified aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary arterial hypertension with increased right ventricular afterload"
+        },
+        {
+          "label": "E",
+          "text": "Right bundle branch block with delayed right ventricular depolarization"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Both LBBB and severe aortic stenosis cause paradoxical (reversed) splitting of S2, where splitting occurs during expiration and disappears during inspiration.",
+        "whyCorrect": "LBBB delays left ventricular depolarization and contraction, causing delayed aortic valve closure (A2) such that A2 occurs after P2 during expiration. Similarly, in severe aortic stenosis, the stiff aortic valve takes longer to close, also delaying A2 past P2. Both conditions produce paradoxical splitting — S2 split during expiration, single during inspiration.",
+        "whyWrongByChoice": {
+          "A": "Atrial septal defect produces a fixed split S2 that does not vary with respiration, which is a different pattern from the paradoxical splitting seen in LBBB.",
+          "B": "Pulmonary stenosis prolongs right ventricular ejection and delays P2, producing a wide split S2 during inspiration, not paradoxical splitting during expiration.",
+          "D": "Pulmonary arterial hypertension delays P2 closure and can cause wide splitting, not the paradoxical pattern where splitting occurs in expiration.",
+          "E": "Right bundle branch block delays right ventricular depolarization and P2, producing wide splitting during inspiration — the opposite of the paradoxical pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "paradoxical-splitting",
+        "LBBB",
+        "aortic-stenosis"
+      ]
+    },
+    {
+      "id": "cp-022",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A medical student is reviewing the Wiggers diagram and correlating heart sounds with ECG events. She notes that S1 occurs just after the QRS complex and S2 occurs near the end of the T wave. A patient's phonocardiogram shows an extra sound occurring between the T wave and the next P wave. Which of the following heart sounds is most consistent with this timing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S1, representing closure of the atrioventricular valves at the onset of systole"
+        },
+        {
+          "label": "B",
+          "text": "S2, representing closure of the semilunar valves at the onset of diastole"
+        },
+        {
+          "label": "C",
+          "text": "A systolic ejection click from a bicuspid aortic valve during ventricular contraction"
+        },
+        {
+          "label": "D",
+          "text": "S4, occurring during atrial contraction against a stiff ventricle in late diastole"
+        },
+        {
+          "label": "E",
+          "text": "S3, occurring during rapid ventricular filling in early diastole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "S3 occurs in early diastole during rapid ventricular filling, which on the ECG corresponds to the interval between the T wave (end of ventricular repolarization/S2) and the next P wave (atrial depolarization).",
+        "whyCorrect": "S3 occurs just after S2 during the rapid ventricular filling phase of early diastole. On the ECG, S2 occurs near the end of the T wave, and the next event is the P wave (atrial depolarization). An extra sound between the T wave and the next P wave falls in early diastole, consistent with S3 timing.",
+        "whyWrongByChoice": {
+          "A": "S1 occurs just after the QRS complex, not between the T wave and the next P wave. S1 marks the beginning of systole.",
+          "B": "S2 occurs near the end of the T wave itself, marking the onset of diastole, not in the interval after the T wave.",
+          "D": "S4 occurs during atrial contraction, which coincides with the P wave on ECG, not in the interval between the T wave and the P wave.",
+          "C": "A systolic ejection click would occur during systole (between S1 and S2, i.e., after the QRS complex), not in the diastolic interval described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S3",
+        "ECG-correlation",
+        "Wiggers-diagram"
+      ]
+    },
+    {
+      "id": "cp-023",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 58-year-old man with chronic aortic regurgitation presents with progressive heart failure symptoms. Echocardiography shows a markedly dilated left ventricle with an end-diastolic volume of 240 mL (normal ~120 mL). On auscultation, an S3 gallop is appreciated. Which of the following statements best differentiates this patient's pathologic S3 from the S3 heard in a trained endurance athlete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In the athlete, the S3 results from atrial contraction against stiff ventricles, whereas in this patient it results from passive filling"
+        },
+        {
+          "label": "B",
+          "text": "In the athlete, the S3 is caused by tensing of chordae tendineae, whereas in this patient it results from blood sloshing into a dilated ventricle"
+        },
+        {
+          "label": "C",
+          "text": "In the athlete, the S3 occurs in late diastole before S1, whereas in this patient it occurs immediately after S2"
+        },
+        {
+          "label": "D",
+          "text": "In the athlete, the S3 is caused by delayed pulmonic valve closure, whereas in this patient it is from early mitral valve opening"
+        },
+        {
+          "label": "E",
+          "text": "In the athlete, the S3 represents paradoxical splitting of S2, whereas in this patient it represents a true gallop rhythm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A physiologic S3 in athletes results from tensing of chordae tendineae during normal rapid ventricular filling, while a pathologic S3 results from blood rapidly entering a dilated, volume-overloaded ventricle causing wall vibrations.",
+        "whyCorrect": "In healthy athletes with high cardiac output, S3 represents tensing of the chordae tendineae around the AV valve during normal ventricular filling. In pathologic states like aortic regurgitation with ventricular dilation, S3 results from a large volume of blood rapidly entering a dilated, highly compliant ventricle, causing ventricular wall vibrations — a 'sloshing' sound similar to pouring water rapidly into a partially filled balloon.",
+        "whyWrongByChoice": {
+          "A": "Atrial contraction against stiff ventricles describes the mechanism of S4, not S3. Both physiologic and pathologic S3 occur during early diastolic passive filling, not atrial contraction.",
+          "C": "Both physiologic and pathologic S3 occur at the same point in the cardiac cycle — immediately after S2 in early diastole. An extra sound before S1 would be S4.",
+          "D": "Delayed pulmonic valve closure causes S2 splitting, not S3. Neither physiologic nor pathologic S3 involves the pulmonic valve.",
+          "E": "Paradoxical splitting of S2 is an alteration in the S2 sound pattern, not an S3. Both the athlete's and this patient's extra sound represent S3, occurring at the same point in the cardiac cycle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "S3",
+        "physiologic-vs-pathologic",
+        "aortic-regurgitation"
+      ]
+    },
+    {
+      "id": "cp-024",
+      "topicId": "heart-sounds",
+      "topicName": "Heart Sounds (S1, S2, S3, S4)",
+      "stem": "A 72-year-old man with severe pulmonary arterial hypertension undergoes cardiac auscultation. The physician notes that S2 is split during both expiration and inspiration, but the degree of splitting increases noticeably during inspiration compared to expiration. Which of the following best characterizes this S2 splitting pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Physiologic splitting, a normal variant that requires no further evaluation"
+        },
+        {
+          "label": "B",
+          "text": "Fixed splitting, indicating the presence of an underlying atrial septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Paradoxical splitting, suggesting concurrent aortic stenosis or left bundle branch block"
+        },
+        {
+          "label": "D",
+          "text": "Absent splitting, indicating that A2 and P2 are occurring simultaneously throughout respiration"
+        },
+        {
+          "label": "E",
+          "text": "Wide splitting, caused by delayed pulmonic valve closure from elevated pulmonary artery pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Wide splitting of S2 is characterized by a split present during expiration that increases during inspiration. Pulmonary arterial hypertension delays pulmonic valve closure, producing this pattern.",
+        "whyCorrect": "In pulmonary arterial hypertension, high pressure in the pulmonary artery forces the pulmonic valve to stay open longer, delaying its closure (P2). This produces a small split during expiration that widens during inspiration (when increased venous return further delays P2). This is a wide-split S2 pattern.",
+        "whyWrongByChoice": {
+          "A": "Normal physiologic splitting produces a single S2 during expiration and a split only during inspiration. The presence of a split during expiration makes this abnormal.",
+          "B": "Fixed splitting produces an equally wide split during both inspiration and expiration that does not vary with respiration, unlike this patient whose split widens during inspiration.",
+          "C": "Paradoxical splitting occurs when S2 is split during expiration and single during inspiration — the reverse of the normal pattern. This patient's split increases with inspiration, which is not paradoxical.",
+          "D": "Absent splitting would mean a single S2 throughout the respiratory cycle. This patient clearly has audible splitting during both phases."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-sounds",
+        "wide-splitting",
+        "pulmonary-hypertension",
+        "S2"
       ]
     }
   ]

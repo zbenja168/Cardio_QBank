@@ -1,0 +1,2410 @@
+{
+  "categoryId": "w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ch-049",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 68-year-old man with a 20-year history of poorly controlled hypertension presents with progressive exertional dyspnea over the past 6 months. Echocardiography reveals a left ventricular ejection fraction of 62%, increased wall thickness, and impaired diastolic filling. A biopsy of the myocardium would most likely show sarcomeres arranged in which of the following patterns?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parallel arrangement with increased number of sarcomeres side by side"
+        },
+        {
+          "label": "B",
+          "text": "Series arrangement with sarcomeres added end to end sequentially"
+        },
+        {
+          "label": "C",
+          "text": "Random disorganized arrangement due to fibrotic tissue replacement"
+        },
+        {
+          "label": "D",
+          "text": "Decreased total number of sarcomeres with myocyte atrophy present"
+        },
+        {
+          "label": "E",
+          "text": "Normal sarcomere arrangement with increased number of myocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic hypertension causes pressure overload leading to concentric hypertrophy, where sarcomeres are added in parallel (side by side), thickening the ventricular wall.",
+        "whyCorrect": "Concentric hypertrophy from chronic pressure overload (hypertension) results in parallel addition of sarcomeres, creating a thicker myocardial wall. This preserves ejection fraction but impairs diastolic filling, consistent with HFpEF.",
+        "whyWrongByChoice": {
+          "B": "Series arrangement of sarcomeres (end to end) is characteristic of eccentric hypertrophy seen in volume overload conditions, not pressure overload from hypertension.",
+          "C": "Random disorganized fibrotic replacement occurs after ischemic injury and myocardial infarction, not as the primary response to chronic pressure overload.",
+          "D": "Myocyte atrophy with decreased sarcomeres is not a recognized response to chronic hypertension; hypertrophy (increased sarcomeres) is the expected adaptation.",
+          "E": "Cardiac enlargement occurs primarily through hypertrophy (increase in cell size), not hyperplasia (increase in cell number); hyperplasia plays only a minor role."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "concentric-hypertrophy",
+        "sarcomeres",
+        "HFpEF"
+      ]
+    },
+    {
+      "id": "ch-050",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 52-year-old woman with a history of chronic alcoholism presents with worsening fatigue and bilateral lower extremity edema. Echocardiography shows a dilated left ventricle with an ejection fraction of 25%. On the Frank-Starling curve, this patient's heart is most likely operating on which portion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The steep ascending limb at very low end-diastolic volumes"
+        },
+        {
+          "label": "B",
+          "text": "The plateau phase where stroke volume is maximally optimized"
+        },
+        {
+          "label": "C",
+          "text": "The descending limb where increased filling reduces stroke volume"
+        },
+        {
+          "label": "D",
+          "text": "The normal midpoint of the ascending limb with adequate output"
+        },
+        {
+          "label": "E",
+          "text": "A rightward-shifted ascending limb with preserved peak output"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In dilated cardiomyopathy with eccentric hypertrophy, sarcomeres are overstretched and the heart operates on the descending limb of the Frank-Starling curve, where additional volume decreases stroke volume.",
+        "whyCorrect": "In a dilated ventricle from eccentric hypertrophy (as seen in alcoholic cardiomyopathy), sarcomeres are already overstretched. Adding more volume pushes the heart onto the descending limb of the Starling curve, where stroke volume falls despite high filling pressures, characteristic of HFrEF.",
+        "whyWrongByChoice": {
+          "A": "Operating at very low end-diastolic volumes on the steep ascending limb describes diastolic dysfunction with concentric hypertrophy (HFpEF), not a dilated ventricle.",
+          "B": "The plateau phase represents optimal cardiac function; a severely dilated ventricle with EF of 25% has far exceeded this point.",
+          "D": "The normal midpoint of the ascending limb describes a healthy heart with adequate output, which is inconsistent with an EF of 25% and symptomatic heart failure.",
+          "E": "A rightward-shifted ascending limb with preserved peak output does not describe a failing heart; this patient has markedly reduced contractility and stroke volume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "frank-starling",
+        "eccentric-hypertrophy",
+        "HFrEF"
+      ]
+    },
+    {
+      "id": "ch-051",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 70-year-old man with a history of two prior myocardial infarctions presents with progressive dyspnea and orthopnea. Echocardiography reveals global hypokinesis and an ejection fraction of 30%. On a pressure-volume loop, which of the following changes best represents this patient's cardiac physiology compared to normal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Steeper end-systolic pressure-volume relationship with decreased end-diastolic volume"
+        },
+        {
+          "label": "B",
+          "text": "Flatter end-systolic pressure-volume relationship with increased end-systolic volume"
+        },
+        {
+          "label": "C",
+          "text": "Upward shift of end-diastolic pressure-volume relationship with normal end-systolic volume"
+        },
+        {
+          "label": "D",
+          "text": "Leftward shift of the entire pressure-volume loop with preserved stroke volume throughout"
+        },
+        {
+          "label": "E",
+          "text": "Narrowing of the pressure-volume loop width with proportional decrease in both volumes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In systolic heart failure (HFrEF), reduced contractility flattens the ESPVR slope, and the heart cannot eject blood efficiently, leading to markedly increased end-systolic volume and decreased stroke volume.",
+        "whyCorrect": "Reduced myocardial contractility from ischemic injury flattens the end-systolic pressure-volume relationship (ESPVR), reflecting diminished pressure generation for any given volume. End-systolic volume increases markedly as the heart fails to adequately eject blood, while end-diastolic volume increases slightly, resulting in decreased stroke volume and reduced EF.",
+        "whyWrongByChoice": {
+          "A": "A steeper ESPVR indicates increased contractility, which is the opposite of what occurs in systolic heart failure; contractility is reduced.",
+          "C": "An upward shift of the EDPVR with normal ESV describes diastolic dysfunction (HFpEF), not systolic failure with global hypokinesis and reduced EF.",
+          "D": "A leftward shift with preserved stroke volume does not represent heart failure; this patient has reduced EF and impaired contractility.",
+          "E": "Narrowing of the PV loop width with proportional decreases in both volumes describes diastolic HF (HFpEF), where both EDV and SV decrease while EF is preserved."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pressure-volume-loop",
+        "ESPVR",
+        "HFrEF"
+      ]
+    },
+    {
+      "id": "ch-052",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 64-year-old woman with long-standing aortic stenosis develops heart failure symptoms. Her physician explains that her heart initially adapted to the increased pressure load but that this adaptation eventually became harmful. Which of the following best explains why the initial cardiac adaptation to pressure overload eventually leads to myocardial ischemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased sympathetic tone causes excessive coronary vasoconstriction and spasm"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone-mediated fluid retention increases coronary venous congestion pressure"
+        },
+        {
+          "label": "C",
+          "text": "Increased muscle mass with inadequate capillary growth and arterial compression"
+        },
+        {
+          "label": "D",
+          "text": "Eccentric dilation stretches coronary arteries beyond their functional capacity limits"
+        },
+        {
+          "label": "E",
+          "text": "Fibrotic replacement tissue physically occludes intramyocardial coronary vessel lumens"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac hypertrophy leads to ischemia through two mechanisms: decreased capillary density (new blood vessels do not increase proportionally with hypertrophied muscle) and arterial compression by extra cardiac mass.",
+        "whyCorrect": "Hypertrophic hearts develop low cardiac perfusion because new blood vessels do not increase proportionally with the hypertrophied muscle mass (decreased capillary density) and because the extra cardiac mass compresses coronary arteries, reducing oxygen delivery during diastole.",
+        "whyWrongByChoice": {
+          "A": "While sympathetic activation occurs in heart failure, coronary vasoconstriction and spasm is not the primary mechanism by which hypertrophy causes ischemia.",
+          "B": "Aldosterone-mediated fluid retention contributes to systemic congestion but is not the direct mechanism linking hypertrophy to myocardial ischemia.",
+          "D": "Eccentric dilation involves chamber enlargement, not the wall thickening seen in pressure overload from aortic stenosis; coronary artery stretching is not the mechanism.",
+          "E": "While fibrosis can occur in advanced disease, physical occlusion of coronary vessels by fibrotic tissue is not the primary mechanism linking hypertrophy to ischemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "hypertrophy",
+        "ischemia",
+        "capillary-density"
+      ]
+    },
+    {
+      "id": "ch-053",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 58-year-old man with newly diagnosed heart failure and reduced ejection fraction is started on an ACE inhibitor. His physician explains that this medication interrupts a chronic maladaptive process. Which of the following best describes the harmful chronic effect of the pathway that ACE inhibitors block in heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased heart rate leading to demand ischemia and myocyte necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Decreased renal perfusion causing irreversible acute tubular necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery vasoconstriction causing transmural myocardial infarction"
+        },
+        {
+          "label": "D",
+          "text": "Increased afterload, fluid retention, and pathological remodeling"
+        },
+        {
+          "label": "E",
+          "text": "Direct beta-receptor stimulation causing cardiomyocyte apoptosis and dilation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ACE inhibitors block the RAAS, whose chronic activation in heart failure causes increased afterload via vasoconstriction, fluid retention via aldosterone, and myocardial fibrosis and pathological remodeling.",
+        "whyCorrect": "Chronic RAAS activation increases afterload through angiotensin-mediated vasoconstriction, increases preload through aldosterone-mediated fluid retention, and promotes myocardial fibrosis, collagen deposition, and pathological remodeling. ACE inhibitors block this cascade, reducing afterload and preventing fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Increased heart rate is primarily mediated by the sympathetic nervous system (SNS), which is blocked by beta-blockers, not ACE inhibitors.",
+          "B": "While reduced renal perfusion occurs in heart failure, ACE inhibitors do not primarily target prevention of acute tubular necrosis; RAAS causes sodium retention rather than tubular necrosis.",
+          "C": "Coronary vasoconstriction causing transmural MI is not the primary chronic harmful effect of RAAS activation that ACE inhibitors are targeting.",
+          "E": "Direct beta-receptor stimulation causing cardiomyocyte apoptosis is a consequence of chronic SNS activation, which is blocked by beta-blockers, not ACE inhibitors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "RAAS",
+        "ACE-inhibitors",
+        "pharmacology"
+      ]
+    },
+    {
+      "id": "ch-054",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 72-year-old woman with long-standing hypertension and diastolic heart failure undergoes cardiac catheterization. Pressure-volume analysis reveals reduced end-diastolic volume, preserved contractility slope (ESPVR), and elevated left ventricular diastolic pressure at any given volume. Which of the following best explains why her cardiac output is reduced despite normal contractility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The flattened ESPVR prevents adequate pressure generation during systole"
+        },
+        {
+          "label": "B",
+          "text": "Overstretched sarcomeres place the heart on the descending limb of the Starling curve"
+        },
+        {
+          "label": "C",
+          "text": "Stiff hypertrophied ventricle limits diastolic filling, reducing stroke volume"
+        },
+        {
+          "label": "D",
+          "text": "Increased end-systolic volume from poor contractility widens the pressure-volume loop"
+        },
+        {
+          "label": "E",
+          "text": "Chronic volume overload causes progressive thinning of the ventricular wall myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In diastolic HF (HFpEF), the thickened stiff ventricle cannot fill adequately, reducing EDV and therefore stroke volume, even though contractility and ejection fraction are preserved.",
+        "whyCorrect": "In diastolic heart failure from concentric hypertrophy, the stiff ventricle limits diastolic filling, decreasing end-diastolic volume. Since stroke volume equals EDV minus ESV, the reduced EDV leads to reduced stroke volume and cardiac output, despite normal contractility (preserved ESPVR slope) and preserved ejection fraction.",
+        "whyWrongByChoice": {
+          "A": "A flattened ESPVR indicates reduced contractility seen in systolic HF (HFrEF); this patient has preserved contractility with a normal ESPVR slope.",
+          "B": "Overstretched sarcomeres on the descending limb of the Starling curve describes systolic HF with eccentric hypertrophy and ventricular dilation, not diastolic dysfunction.",
+          "D": "Increased end-systolic volume from poor contractility describes systolic dysfunction (HFrEF); this patient has preserved contractility and reduced EDV.",
+          "E": "Progressive wall thinning occurs in eccentric hypertrophy from volume overload, not in concentric hypertrophy from chronic hypertension."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "HFpEF",
+        "diastolic-dysfunction",
+        "pressure-volume-loop"
+      ]
+    },
+    {
+      "id": "ch-055",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 60-year-old man with chronic heart failure and reduced ejection fraction is admitted with acute decompensation. His physician considers giving intravenous fluids to improve cardiac output. However, the intern warns against this approach. Which of the following best explains why volume administration may be harmful in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The stiff ventricle cannot accommodate additional volume due to concentric hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Additional fluid will further suppress already diminished renin-angiotensin-aldosterone activation"
+        },
+        {
+          "label": "C",
+          "text": "The sharply upward-curving EDPVR leaves minimal capacity for additional fluid"
+        },
+        {
+          "label": "D",
+          "text": "Excess volume will cause acute aortic regurgitation by dilating the aortic valve annulus"
+        },
+        {
+          "label": "E",
+          "text": "Fluid administration will paradoxically decrease heart rate by suppressing sympathetic tone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In HFrEF, the end-diastolic pressure-volume relationship (EDPVR) curves sharply upward, so even small additional volume causes disproportionate rises in filling pressure, precipitating pulmonary edema.",
+        "whyCorrect": "In systolic heart failure, the EDPVR shifts to curve sharply upward, meaning the ventricle has minimal capacity for additional fluid. Administering more volume to patients with HFrEF may precipitate pulmonary edema due to elevated hydrostatic pressures, illustrating the 'preload paradox.'",
+        "whyWrongByChoice": {
+          "A": "Concentric hypertrophy with a stiff ventricle describes diastolic HF (HFpEF); this patient has HFrEF with a dilated ventricle, though the EDPVR is still problematic.",
+          "B": "In heart failure, RAAS is chronically activated, not suppressed; additional fluid would not suppress RAAS activation.",
+          "D": "Volume administration does not cause acute aortic regurgitation by dilating the valve annulus; this is not a recognized consequence of fluid loading in HFrEF.",
+          "E": "Fluid administration in decompensated HF would worsen congestion and potentially further activate, not suppress, sympathetic tone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "preload-paradox",
+        "EDPVR",
+        "volume-management"
+      ]
+    },
+    {
+      "id": "ch-056",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 55-year-old man with chronic severe mitral regurgitation develops progressive exercise intolerance. Echocardiography shows a dilated left ventricle with thinned walls. According to the Law of Laplace, which of the following best explains the progressive ventricular dysfunction in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased ventricular radius reduces wall tension below the threshold for effective contraction"
+        },
+        {
+          "label": "B",
+          "text": "Increased wall thickness from parallel sarcomere addition raises myocardial oxygen demand"
+        },
+        {
+          "label": "C",
+          "text": "Dilation increases radius and outpaces wall thickening, causing wall stress to rise and contractility to decline"
+        },
+        {
+          "label": "D",
+          "text": "Decreased preload from impaired ventricular filling limits Frank-Starling recruitment of contractility"
+        },
+        {
+          "label": "E",
+          "text": "Angiotensin II-mediated vasoconstriction increases afterload beyond the ventricle's contractile capacity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In eccentric hypertrophy from volume overload, ventricular dilation increases the radius. Over time, dilation outpaces wall thickening, causing wall stress (σ = T/2h) to rise progressively, damaging and weakening the heart.",
+        "whyCorrect": "According to Laplace's law (wall stress σ = T/2h), the increased radius from ventricular dilation raises wall tension. While some wall thickening occurs, dilation eventually outpaces it, causing wall stress to rise and contractility to decline—the hallmark progression of eccentric hypertrophy to HFrEF.",
+        "whyWrongByChoice": {
+          "A": "The ventricular radius increases (not decreases) in eccentric hypertrophy from volume overload; this is the fundamental problem.",
+          "B": "Increased wall thickness from parallel sarcomere addition describes concentric hypertrophy from pressure overload, not eccentric hypertrophy from mitral regurgitation.",
+          "D": "Preload is actually increased in volume overload conditions like mitral regurgitation; decreased preload from impaired filling describes diastolic dysfunction.",
+          "E": "While RAAS activation does contribute to increased afterload in heart failure, it is not the primary mechanism explained by Laplace's law for progressive dysfunction in volume overload."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "laplace-law",
+        "wall-stress",
+        "eccentric-hypertrophy"
+      ]
+    },
+    {
+      "id": "ch-057",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 63-year-old man with newly diagnosed heart failure has a reduced ejection fraction. His blood pressure is 88/60 mmHg. Laboratory studies show elevated serum aldosterone and elevated plasma renin activity. Which of the following is the most direct effect of the elevated angiotensin II levels in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulation of beta-1 adrenergic receptors on cardiac myocytes to increase contractility"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of antidiuretic hormone release from the posterior pituitary gland"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral vasoconstriction and stimulation of aldosterone secretion from the adrenal cortex"
+        },
+        {
+          "label": "D",
+          "text": "Direct stimulation of the sinoatrial node to increase the resting heart rate"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of renal sodium reabsorption to reduce intravascular volume overload"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Angiotensin II has three major effects: constriction of peripheral blood vessels, stimulation of ADH release from the posterior pituitary, and stimulation of aldosterone secretion from the adrenal cortex.",
+        "whyCorrect": "Angiotensin II constricts peripheral blood vessels (raising arterial and venous pressure), stimulates aldosterone secretion from the adrenal cortex (increasing renal sodium and water reabsorption), and stimulates ADH release. Vasoconstriction and aldosterone stimulation are among its most direct effects.",
+        "whyWrongByChoice": {
+          "A": "Stimulation of beta-1 receptors on cardiac myocytes is mediated by the sympathetic nervous system (norepinephrine/epinephrine), not angiotensin II.",
+          "B": "Angiotensin II stimulates (not inhibits) ADH release from the posterior pituitary, increasing water reabsorption.",
+          "D": "Direct sinoatrial node stimulation to increase heart rate is a function of sympathetic nervous system activation via beta-1 receptors, not angiotensin II.",
+          "E": "Angiotensin II increases (not inhibits) sodium reabsorption through aldosterone, which retains sodium and water to expand intravascular volume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "RAAS",
+        "angiotensin-II",
+        "neurohormonal"
+      ]
+    },
+    {
+      "id": "ch-058",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 48-year-old woman is diagnosed with heart failure after receiving doxorubicin chemotherapy for breast cancer. Echocardiography shows a dilated left ventricle with an ejection fraction of 22%. Which of the following mechanisms of myocardial injury is most directly responsible for her cardiac dysfunction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic pressure overload leading to parallel sarcomere addition and wall thickening"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery atherosclerosis causing progressive luminal narrowing and ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Direct myocyte injury leading to eccentric hypertrophy with sarcomeres added in series"
+        },
+        {
+          "label": "D",
+          "text": "Volume overload from valvular regurgitation causing progressive chamber dilation"
+        },
+        {
+          "label": "E",
+          "text": "Fibrotic thickening of the pericardium restricting ventricular filling during diastole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Doxorubicin causes direct myocyte injury, which is a listed cause of eccentric hypertrophy. The damaged myocytes lead to ventricular dilation with sarcomeres added in series, resulting in systolic dysfunction and HFrEF.",
+        "whyCorrect": "Doxorubicin is listed among drugs that cause eccentric hypertrophy through direct myocyte injury. This injury leads to ventricular dilation with sarcomeres added in series (end-to-end), causing a thinned, dilated ventricle with reduced contractility and HFrEF.",
+        "whyWrongByChoice": {
+          "A": "Parallel sarcomere addition and wall thickening describe concentric hypertrophy from pressure overload (e.g., hypertension), not drug-induced cardiomyopathy.",
+          "B": "Coronary atherosclerosis causing ischemia is a separate mechanism of heart failure; doxorubicin causes direct toxic injury to myocytes, not coronary artery disease.",
+          "D": "Volume overload from valvular regurgitation is a different cause of eccentric hypertrophy; doxorubicin-induced cardiomyopathy results from direct myocyte toxicity.",
+          "E": "Pericardial constriction restricting filling causes a different type of cardiac dysfunction unrelated to the mechanism of doxorubicin cardiotoxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "doxorubicin",
+        "myocyte-injury",
+        "eccentric-hypertrophy"
+      ]
+    },
+    {
+      "id": "ch-059",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 66-year-old man with chronic heart failure is being treated with a beta-blocker. His cardiologist explains that while this medication may initially reduce cardiac output, it provides long-term benefit. Which of the following chronic pathologic effects of the sympathetic nervous system in heart failure does this medication most directly prevent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin II-mediated peripheral vasoconstriction and increased systemic vascular resistance"
+        },
+        {
+          "label": "B",
+          "text": "Aldosterone-mediated renal sodium retention and expansion of the extracellular fluid volume"
+        },
+        {
+          "label": "C",
+          "text": "Antidiuretic hormone-mediated free water reabsorption in the renal collecting duct system"
+        },
+        {
+          "label": "D",
+          "text": "Direct cardiomyocyte damage, apoptosis, left ventricular dilation, and systolic dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Myocardial fibrosis and collagen deposition from chronic renin-angiotensin-aldosterone activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic sympathetic nervous system activation in heart failure causes direct cardiomyocyte damage and apoptosis, LV dilation and systolic dysfunction, and further decreases in cardiac output. Beta-blockers block this harmful SNS pathway.",
+        "whyCorrect": "Chronic SNS activation causes direct cardiomyocyte damage and apoptosis, LV dilation and systolic dysfunction, and further decreases in cardiac output. Beta-blockers block these harmful chronic effects of SNS stimulation by blocking beta receptors on cardiomyocytes.",
+        "whyWrongByChoice": {
+          "A": "Angiotensin II-mediated vasoconstriction is part of the RAAS pathway, which is blocked by ACE inhibitors or ARBs, not beta-blockers.",
+          "B": "Aldosterone-mediated sodium retention is blocked by mineralocorticoid receptor antagonists (e.g., spironolactone), not beta-blockers.",
+          "C": "ADH-mediated free water reabsorption is part of the neurohormonal response triggered by RAAS, not directly blocked by beta-blockers.",
+          "E": "Myocardial fibrosis from chronic RAAS activation is primarily addressed by ACE inhibitors and mineralocorticoid antagonists, not beta-blockers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "sympathetic-nervous-system",
+        "beta-blockers",
+        "cardiomyocyte-damage"
+      ]
+    },
+    {
+      "id": "ch-060",
+      "topicId": "heart-failure-physiology",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "A 59-year-old man with chronic coronary artery disease develops heart failure. Cardiac catheterization reveals both impaired ventricular filling and reduced contractility. A myocardial biopsy shows extensive fibrosis replacing normal myocardium. His physician explains that impaired ventricular relaxation in the ischemic territory is due to a specific cellular energy deficit. Which of the following processes is most directly impaired?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium-potassium ATPase-mediated restoration of the resting myocyte membrane potential"
+        },
+        {
+          "label": "B",
+          "text": "Myosin light chain kinase phosphorylation required for initiation of the contraction cycle"
+        },
+        {
+          "label": "C",
+          "text": "ATP-dependent calcium reuptake into the sarcoplasmic reticulum by the SERCA pump"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial oxidative phosphorylation generating ATP for all cellular metabolic needs"
+        },
+        {
+          "label": "E",
+          "text": "Voltage-gated calcium channel opening during phase 2 of the cardiac action potential cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myocardial relaxation requires ATP because calcium must be actively pumped out of the cytosol by SERCA back into the sarcoplasmic reticulum. Ischemia reduces ATP availability, directly impairing this energy-dependent relaxation process.",
+        "whyCorrect": "Myocardial relaxation requires ATP for the SERCA pump to transport Ca2+ back into the sarcoplasmic reticulum against its concentration gradient, ending contraction. Relaxation is an energy-dependent process, and ischemia reduces ATP availability, directly impairing SERCA function and causing diastolic dysfunction.",
+        "whyWrongByChoice": {
+          "A": "While Na-K ATPase is energy-dependent, impaired relaxation specifically relates to calcium reuptake by SERCA, not restoration of the resting membrane potential.",
+          "B": "Myosin light chain kinase phosphorylation is relevant to smooth muscle contraction, not cardiac myocyte relaxation in the context of diastolic dysfunction.",
+          "D": "While mitochondrial dysfunction from ischemia is upstream of reduced ATP production, the question asks about the most directly impaired process in relaxation, which is SERCA-mediated calcium reuptake.",
+          "E": "Voltage-gated calcium channel opening during phase 2 is involved in initiating contraction, not in the relaxation process that is impaired in diastolic dysfunction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "SERCA",
+        "diastolic-dysfunction",
+        "ischemia",
+        "calcium-handling"
+      ]
+    },
+    {
+      "id": "hb-053",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 58-year-old man with a 20-year history of type 2 diabetes mellitus presents with progressive bilateral lower extremity swelling over the past 3 weeks. He reports that his shoes no longer fit and he has gained 8 kg. Laboratory studies show serum albumin of 1.8 g/dL and urine protein excretion of 5.2 g/day. Serum creatinine is 1.1 mg/dL. On examination, he has 3+ pitting edema bilaterally extending to the thighs and periorbital edema. Which of the following best explains the primary mechanism of edema formation in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased capillary hydrostatic pressure from volume overload due to decreased glomerular filtration rate"
+        },
+        {
+          "label": "B",
+          "text": "Decreased capillary oncotic pressure from urinary albumin loss exceeding hepatic synthetic capacity"
+        },
+        {
+          "label": "C",
+          "text": "Increased capillary permeability from inflammatory mediator release in the glomerular basement membrane"
+        },
+        {
+          "label": "D",
+          "text": "Decreased lymphatic drainage from fibrotic obstruction of lymphatic vessels in the lower extremities"
+        },
+        {
+          "label": "E",
+          "text": "Increased interstitial oncotic pressure from accumulation of plasma proteins in the extravascular space"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has nephrotic syndrome (massive proteinuria >3.5 g/day, hypoalbuminemia) from diabetic kidney disease, the most common cause of nephrotic syndrome in adults. The primary mechanism is loss of albumin in the urine through leaking glomeruli, exceeding hepatic synthetic capacity, leading to decreased capillary oncotic pressure and fluid shift into the interstitium.",
+        "whyCorrect": "Nephrotic syndrome causes massive loss of albumin into the urine because of leaking glomeruli. The liver cannot synthesize enough albumin to compensate, leading to decreased capillary oncotic pressure (reduced pi-c), which shifts fluid into the interstitium. The drop in plasma volume also stimulates renal sodium reabsorption via RAAS activation.",
+        "whyWrongByChoice": {
+          "A": "While increased capillary hydrostatic pressure can occur secondarily from renal sodium retention, the serum creatinine is near normal, indicating preserved GFR. The primary mechanism in nephrotic syndrome is decreased oncotic pressure from albumin loss, not volume overload from renal failure.",
+          "C": "Increased capillary permeability occurs in burns, sepsis, and SIRS. While the glomerular basement membrane is damaged in nephrotic syndrome, the systemic edema results from albumin loss and decreased oncotic pressure, not from systemic capillary permeability changes.",
+          "D": "Lymphatic obstruction causes lymphedema, which can be pitting or nonpitting. This mechanism is associated with trauma, infection (filariasis), radiation fibrosis, or lymph node removal, none of which are present in this patient.",
+          "E": "Interstitial oncotic and hydrostatic pressures do not normally change significantly and do not contribute meaningfully to edema formation. The primary Starling force abnormality here is decreased capillary oncotic pressure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "nephrotic syndrome",
+        "Starling forces",
+        "oncotic pressure",
+        "diabetic kidney disease"
+      ]
+    },
+    {
+      "id": "hb-054",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 62-year-old woman with a history of breast cancer treated with left axillary lymph node dissection and radiation therapy 2 years ago presents with progressive swelling of the left arm. On examination, the left arm is significantly larger than the right, with firm, nonpitting swelling extending from the hand to the upper arm. The skin appears thickened. Which of the following best describes the mechanism underlying this patient's swelling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of the renin-angiotensin-aldosterone system leading to increased renal sodium and water retention"
+        },
+        {
+          "label": "B",
+          "text": "Decreased hepatic synthesis of albumin resulting in reduced capillary oncotic pressure and fluid extravasation"
+        },
+        {
+          "label": "C",
+          "text": "Impaired clearance of interstitial fluid due to disruption of lymphatic vessel drainage pathways"
+        },
+        {
+          "label": "D",
+          "text": "Increased capillary hydrostatic pressure from obstruction of venous outflow in the upper extremity"
+        },
+        {
+          "label": "E",
+          "text": "Elevated capillary permeability from release of inflammatory cytokines and vasoactive mediators"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has lymphedema resulting from axillary lymph node dissection and radiation fibrosis. The lymphatic system normally returns excess interstitial fluid (about 20 L/day) to the venous circulation; its disruption leads to fluid accumulation in the interstitium.",
+        "whyCorrect": "Lymphedema results from damage to the lymphatic system that interrupts the flow of interstitial fluid back to the venous circulation. In this patient, both surgical removal of lymph nodes (axillary dissection) and radiation-induced fibrosis of lymphatic vessels have compromised lymphatic drainage, leading to localized nonpitting edema.",
+        "whyWrongByChoice": {
+          "A": "RAAS activation leads to generalized edema through sodium and water retention, as seen in heart failure, liver failure, or nephrotic syndrome. This patient has localized unilateral arm edema, which is not caused by systemic sodium retention.",
+          "B": "Decreased albumin synthesis from liver disease causes generalized edema due to reduced capillary oncotic pressure. This patient has no evidence of liver disease, and her edema is localized to one extremity.",
+          "D": "Venous obstruction (e.g., deep vein thrombosis or vena cava syndrome) can cause localized edema by raising capillary hydrostatic pressure, but the clinical history of lymph node dissection and radiation with firm nonpitting swelling points to lymphedema rather than venous obstruction.",
+          "E": "Elevated capillary permeability from inflammatory mediators causes edema in conditions like sepsis, burns, and allergic reactions. This patient's chronic, progressive, unilateral swelling with skin thickening is characteristic of lymphedema, not an inflammatory process."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "lymphedema",
+        "lymphatic system",
+        "breast cancer",
+        "radiation therapy"
+      ]
+    },
+    {
+      "id": "hb-055",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 45-year-old man with a history of chronic alcoholism presents with abdominal distension and bilateral lower extremity swelling. Physical examination reveals shifting dullness on abdominal percussion, spider angiomata, and 2+ pitting edema in both legs. Laboratory studies show serum albumin of 2.1 g/dL and elevated portal venous pressures. Which of the following combinations of mechanisms most accurately accounts for the edema and ascites in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased capillary permeability and decreased lymphatic drainage from hepatic fibrosis compressing periportal lymphatics"
+        },
+        {
+          "label": "B",
+          "text": "Decreased renal filtration from hepatorenal syndrome and increased interstitial oncotic pressure from protein extravasation"
+        },
+        {
+          "label": "C",
+          "text": "Increased cardiac output from hyperdynamic circulation and decreased venous capacitance from portal-systemic shunting"
+        },
+        {
+          "label": "D",
+          "text": "Primary renal tubular sodium retention from direct hepatotoxic effects on the nephron and increased capillary hydrostatic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Systemic vasodilation reducing effective circulating volume with RAAS-mediated sodium retention, hypoalbuminemia, and portal hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cirrhosis causes edema through multiple overlapping mechanisms: systemic vasodilation (from circulating vasodilators) reduces effective circulating volume, activating RAAS and causing renal sodium/water retention; decreased hepatic albumin synthesis reduces capillary oncotic pressure; and portal hypertension increases capillary hydrostatic pressure in mesenteric vessels, causing ascites.",
+        "whyCorrect": "In cirrhosis, diffuse systemic vasodilation from circulating vasodilators and metabolites reduces renal blood flow and activates RAAS, causing sodium and water retention. The liver's impaired albumin synthesis decreases capillary oncotic pressure. Portal hypertension forces fluid from mesenteric capillaries into the peritoneum, producing ascites.",
+        "whyWrongByChoice": {
+          "A": "While portal hypertension can impair lymphatic drainage, the primary mechanism in cirrhosis is not increased capillary permeability. The edema results from vasodilation-induced low effective circulating volume, hypoalbuminemia, and portal hypertension, not capillary leak.",
+          "B": "Hepatorenal syndrome is a late complication of cirrhosis and would not be the primary mechanism of edema formation. Additionally, interstitial oncotic pressure does not normally change significantly enough to drive edema formation.",
+          "C": "While cirrhosis can cause a hyperdynamic circulation, the high cardiac output does not cause edema. The edema results from vasodilation reducing effective circulating volume despite the elevated cardiac output, and from decreased venous capacitance is not the mechanism involved.",
+          "D": "The kidneys retain sodium in cirrhosis because of RAAS activation triggered by low effective circulating volume from systemic vasodilation, not from direct hepatotoxic effects on the nephron. This is a neurohormonal response, not a primary renal tubular defect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "cirrhosis",
+        "ascites",
+        "portal hypertension",
+        "RAAS",
+        "hypoalbuminemia"
+      ]
+    },
+    {
+      "id": "hb-056",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 72-year-old woman with chronic heart failure presents with worsening dyspnea and bilateral leg swelling. Physical examination reveals jugular venous distension, bibasilar crackles, hepatomegaly, and 3+ pitting edema. Her serum albumin is normal. Chest radiograph shows bilateral pleural effusions and pulmonary vascular congestion. Which of the following is the most likely sequence of events leading to her edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased capillary oncotic pressure leads to fluid extravasation, reducing plasma volume and activating sympathetic nervous system"
+        },
+        {
+          "label": "B",
+          "text": "Increased capillary permeability from inflammatory mediators allows protein-rich fluid to accumulate in the interstitial space"
+        },
+        {
+          "label": "C",
+          "text": "Lymphatic obstruction from chronic venous congestion prevents adequate drainage of interstitial fluid to the venous system"
+        },
+        {
+          "label": "D",
+          "text": "Low cardiac output reduces renal blood flow, activating RAAS and causing sodium retention, expanding plasma volume and raising venous pressure"
+        },
+        {
+          "label": "E",
+          "text": "Primary renal disease impairs glomerular filtration, leading to sodium and water retention with subsequent expansion of the extracellular space"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In heart failure, low cardiac output leads to decreased renal blood flow, which activates the RAAS and sympathetic nervous system. This causes renal sodium and water retention, expanding plasma volume. The failing heart cannot accommodate the increased volume, leading to elevated venous pressures, increased capillary hydrostatic pressure, and edema.",
+        "whyCorrect": "Heart failure causes edema through a sequence beginning with low cardiac output, which leads to low renal blood flow and RAAS activation. The resulting sodium and water retention expands extracellular volume. Blood backs up behind the failing ventricle, raising venous pressures and capillary hydrostatic pressure (Pc), pushing fluid into the interstitium.",
+        "whyWrongByChoice": {
+          "A": "The patient's serum albumin is normal, ruling out decreased capillary oncotic pressure as the primary mechanism. Heart failure edema is driven by increased capillary hydrostatic pressure from volume overload and venous congestion, not by oncotic pressure changes.",
+          "B": "Increased capillary permeability is the mechanism in sepsis, burns, and SIRS. Heart failure edema results from hemodynamic changes (increased Pc) rather than from structural damage to capillary walls.",
+          "C": "While chronic venous congestion may affect lymphatic drainage, the primary mechanism of heart failure edema is increased capillary hydrostatic pressure from RAAS-mediated volume expansion and venous congestion, not lymphatic obstruction.",
+          "E": "Although renal sodium retention is central to heart failure edema, it is driven by RAAS activation from low cardiac output, not by primary renal disease. The kidneys are responding to decreased effective circulating volume, not failing intrinsically."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "heart failure",
+        "RAAS",
+        "capillary hydrostatic pressure",
+        "venous congestion"
+      ]
+    },
+    {
+      "id": "hb-057",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 55-year-old man with osteoarthritis has been taking ibuprofen 800 mg three times daily for the past 4 weeks. He presents with bilateral ankle swelling and a weight gain of 3 kg. His blood pressure is 148/92 mmHg, up from his baseline of 128/78 mmHg. Serum albumin is 4.2 g/dL and serum creatinine is 1.0 mg/dL. Which of the following best explains the mechanism of his edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased prostaglandin synthesis leads to reduced inhibition of tubular sodium reabsorption, causing sodium retention and volume expansion"
+        },
+        {
+          "label": "B",
+          "text": "Selective arteriolar vasodilation increases capillary blood flow and raises capillary hydrostatic pressure without matching venous dilation"
+        },
+        {
+          "label": "C",
+          "text": "Direct toxic injury to capillary endothelium increases capillary permeability, allowing protein-rich fluid to leak into the interstitium"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of cyclooxygenase reduces renal blood flow and glomerular filtration rate, causing acute kidney injury and fluid retention"
+        },
+        {
+          "label": "E",
+          "text": "Suppression of aldosterone secretion paradoxically enhances distal tubular sodium reabsorption through aldosterone-independent pathways"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "NSAIDs like ibuprofen cause edema by inhibiting prostaglandin synthesis. Prostaglandins (e.g., PGE2) normally enhance renal sodium excretion by inhibiting sodium reabsorption via sodium transporters in the tubule. By blocking prostaglandin synthesis, NSAIDs promote sodium retention and edema.",
+        "whyCorrect": "NSAIDs decrease synthesis of prostaglandins such as PGE2, which normally enhance renal sodium excretion by inhibiting sodium reabsorption via sodium transporters in the tubule. By preventing this prostaglandin-mediated inhibition, NSAIDs cause sodium retention, volume expansion, and edema.",
+        "whyWrongByChoice": {
+          "B": "Selective arteriolar vasodilation is the mechanism by which calcium channel blockers cause edema, not NSAIDs. Calcium channel blockers decrease arteriolar resistance without matching venous dilation, increasing capillary hydrostatic pressure.",
+          "C": "NSAIDs do not cause edema through capillary endothelial damage. Increased capillary permeability is the mechanism in conditions like burns, sepsis, and SIRS, not NSAID use.",
+          "D": "While NSAIDs can affect renal hemodynamics, the patient's creatinine is normal, indicating no significant acute kidney injury. The primary mechanism of NSAID-induced edema is impaired prostaglandin-mediated sodium excretion, not acute renal failure.",
+          "E": "NSAIDs do not suppress aldosterone secretion. The mechanism involves inhibition of prostaglandin synthesis, which removes the prostaglandin-mediated inhibition of tubular sodium reabsorption, leading to sodium retention."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "NSAIDs",
+        "prostaglandins",
+        "sodium retention",
+        "drug-induced edema"
+      ]
+    },
+    {
+      "id": "hb-058",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 28-year-old woman presents to the emergency department with facial swelling, lip swelling, and difficulty breathing that developed 30 minutes after taking a new medication for hypertension. She was recently started on lisinopril. Examination reveals significant swelling of the lips, tongue, and periorbital tissues. Laryngoscopy shows edema of the laryngeal structures. Which of the following best characterizes the pathophysiology of this patient's presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal sodium reabsorption stimulated by renin-angiotensin-aldosterone system activation from decreased effective circulating volume"
+        },
+        {
+          "label": "B",
+          "text": "Decreased capillary oncotic pressure from acute hepatic dysfunction and impaired albumin synthesis triggered by the medication"
+        },
+        {
+          "label": "C",
+          "text": "Localized increase in capillary permeability mediated by bradykinin immune reaction leading to submucosal and subcutaneous fluid accumulation"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction of cervical and facial lymphatic drainage pathways resulting in impaired interstitial fluid clearance from the affected areas"
+        },
+        {
+          "label": "E",
+          "text": "Systemic elevation of capillary hydrostatic pressure from acute right heart failure caused by medication-induced myocardial depression"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has angioedema caused by an ACE inhibitor (lisinopril). Angioedema is a localized increase in capillary permeability leading to swelling just under the skin or mucous membranes, caused by histamine or bradykinin immune reactions to drugs or toxins. ACE inhibitors can rarely cause angioedema through bradykinin accumulation.",
+        "whyCorrect": "Angioedema from ACE inhibitors is caused by a localized increase in capillary permeability mediated by bradykinin. ACE normally degrades bradykinin; when ACE is inhibited, bradykinin accumulates, causing increased vascular permeability and swelling of the face, lips, tongue, and larynx. This is not dependent on renal sodium reabsorption.",
+        "whyWrongByChoice": {
+          "A": "RAAS-mediated sodium retention causes generalized edema as seen in heart failure, liver failure, and nephrotic syndrome. Angioedema is a localized phenomenon caused by increased capillary permeability, not by systemic sodium and water retention.",
+          "B": "ACE inhibitors do not cause acute hepatic dysfunction or impair albumin synthesis. Hypoalbuminemia causes generalized edema, not the acute, localized swelling of the face, lips, and larynx seen in angioedema.",
+          "D": "Lymphatic obstruction causes lymphedema, typically from surgical dissection, radiation, or parasitic infection. The acute onset of facial and laryngeal swelling after starting a new medication is characteristic of angioedema, not lymphatic obstruction.",
+          "E": "ACE inhibitors do not cause acute right heart failure or myocardial depression. The localized distribution of swelling (face, lips, tongue, larynx) is characteristic of angioedema, not the dependent edema seen in heart failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "angioedema",
+        "ACE inhibitors",
+        "bradykinin",
+        "capillary permeability"
+      ]
+    },
+    {
+      "id": "hb-059",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 67-year-old man with end-stage kidney disease on hemodialysis misses two consecutive dialysis sessions. He presents with severe dyspnea, orthopnea, and bilateral lower extremity swelling. His oxygen saturation is 88% on room air. Chest radiograph shows bilateral alveolar infiltrates with a butterfly pattern. Serum creatinine is 9.8 mg/dL and BUN is 112 mg/dL. Which of the following best explains why pulmonary edema is particularly dangerous in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary edema increases the susceptibility of lung tissue to bacterial colonization and nosocomial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary edema compresses the pulmonary vasculature, leading to pulmonary hypertension and right heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary edema dilutes surfactant in the alveolar space, leading to alveolar collapse and ventilation-perfusion mismatch"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary edema causes mechanical compression of the bronchial tree, resulting in obstructive airway disease and air trapping"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema decreases lung compliance and thickens the diffusion barrier, impairing both ventilation and gas exchange"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pulmonary edema is dangerous because it alters intrinsic lung tissue properties, decreasing lung compliance (reducing ventilation ability) and thickening the diffusion barrier for gas exchange (impairing oxygenation). In end-stage kidney disease, missed dialysis leads to volume overload and increased capillary hydrostatic pressure, causing pulmonary edema.",
+        "whyCorrect": "Edema alters the intrinsic properties of certain tissues, leading to impaired organ function. Specifically, pulmonary edema decreases lung compliance (decreasing ventilation ability) and thickens the diffusion barrier for gas exchange (impairing oxygenation and ventilation), explaining this patient's dyspnea and hypoxemia.",
+        "whyWrongByChoice": {
+          "A": "While edematous tissue is more susceptible to infection, the immediate life-threatening danger of pulmonary edema is respiratory failure from impaired gas exchange and decreased compliance, not infection risk.",
+          "B": "Pulmonary edema does not primarily cause pulmonary hypertension through vascular compression. The danger lies in impaired gas exchange and ventilation from decreased compliance and thickened diffusion barrier.",
+          "C": "While surfactant dysfunction can occur in severe cases, the primary mechanism by which pulmonary edema impairs respiratory function is by decreasing lung compliance and thickening the gas exchange barrier, as described in the source material.",
+          "D": "Pulmonary edema causes restrictive physiology (decreased compliance), not obstructive airway disease. The fluid accumulates in the alveolar and interstitial spaces, not primarily in the bronchial tree."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "pulmonary edema",
+        "end-stage kidney disease",
+        "gas exchange",
+        "lung compliance"
+      ]
+    },
+    {
+      "id": "hb-060",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 35-year-old previously healthy woman presents with bilateral lower extremity pitting edema that worsens with prolonged standing and improves with leg elevation. She has no history of heart, liver, or kidney disease. Laboratory studies including serum albumin, creatinine, liver function tests, and urinalysis are all normal. Echocardiogram shows normal cardiac function. She has a history of an eating disorder and depression. She was previously on diuretics prescribed by another provider but notes her swelling paradoxically improved when she stopped taking them. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early nephrotic syndrome with microalbuminuria below the detection threshold of standard urinalysis"
+        },
+        {
+          "label": "B",
+          "text": "Subclinical right heart failure with preserved ejection fraction causing mild venous congestion"
+        },
+        {
+          "label": "C",
+          "text": "Chronic venous insufficiency from incompetent venous valves causing increased capillary hydrostatic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Idiopathic edema with possible high capillary leak in a premenopausal woman with associated comorbidities"
+        },
+        {
+          "label": "E",
+          "text": "Calcium channel blocker-induced edema from an undisclosed antihypertensive medication causing arteriolar vasodilation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Idiopathic edema is a condition of unknown etiology mostly seen in otherwise healthy premenopausal women who lack other obvious causes of edema. It is associated with diabetes mellitus, purging, eating disorders, obesity, and depression. High capillary leak has been implicated, and some patients paradoxically improve when diuretics are withdrawn.",
+        "whyCorrect": "This patient fits the classic profile of idiopathic edema: a premenopausal woman with no identifiable cardiac, hepatic, or renal cause, with associated eating disorder and depression. The paradoxical improvement upon diuretic withdrawal is a characteristic feature. High capillary leak has been implicated as a cause.",
+        "whyWrongByChoice": {
+          "A": "The normal urinalysis and serum albumin argue against nephrotic syndrome. Nephrotic syndrome presents with massive proteinuria (>3.5 g/day), hypoalbuminemia, and often hyperlipidemia, none of which are present here.",
+          "B": "The echocardiogram shows normal cardiac function, ruling out heart failure with preserved ejection fraction. Heart failure edema would typically be accompanied by other findings such as jugular venous distension or pulmonary congestion.",
+          "C": "Chronic venous insufficiency typically follows deep vein thrombosis or develops with age, and would usually show skin changes such as hemosiderin deposition or venous ulcers. The paradoxical improvement with diuretic withdrawal and associated psychiatric comorbidities point to idiopathic edema.",
+          "E": "There is no mention of the patient taking calcium channel blockers or any antihypertensive medication. The clinical presentation and paradoxical diuretic response are characteristic of idiopathic edema."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "idiopathic edema",
+        "diuretics",
+        "premenopausal women",
+        "capillary leak"
+      ]
+    },
+    {
+      "id": "hb-061",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 50-year-old woman with Graves disease presents with firm, localized swelling over both shins. The swelling is nonpitting. She is currently euthyroid on methimazole therapy. Her cardiovascular, hepatic, and renal examinations are normal, and serum albumin is 4.0 g/dL. Which of the following best explains the mechanism of edema in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoantibody-mediated deposition of connective tissue containing hyaluronan, which retains water in the interstitium"
+        },
+        {
+          "label": "B",
+          "text": "Increased capillary hydrostatic pressure from hyperthyroid-induced high cardiac output state and decreased systemic vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "Decreased capillary oncotic pressure from thyroid hormone-mediated acceleration of hepatic albumin catabolism"
+        },
+        {
+          "label": "D",
+          "text": "Obstruction of pretibial lymphatic channels by thyroid hormone-stimulated fibroblast proliferation and collagen deposition"
+        },
+        {
+          "label": "E",
+          "text": "Increased capillary permeability from circulating thyroid-stimulating immunoglobulins directly damaging capillary endothelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pretibial myxedema is a localized form of edema seen in Graves disease characterized by increased deposition of connective tissue components. The autoantibodies that cause thyroid disease also stimulate deposition of connective tissue containing hyaluronan, a hydrophilic glycosaminoglycan that retains water in the interstitium.",
+        "whyCorrect": "Myxedema (pretibial myxedema) is caused by the same autoantibodies that cause Graves disease. These stimulate increased deposition of connective tissue containing hyaluronan, an anionic glycosaminoglycan that is hydrophilic and retains water in the interstitium, causing the characteristic nonpitting localized edema over the shins.",
+        "whyWrongByChoice": {
+          "B": "The patient is currently euthyroid on treatment, and pretibial myxedema is not caused by hemodynamic changes from hyperthyroidism. It is an autoimmune phenomenon that can persist even when thyroid function is controlled.",
+          "C": "Thyroid hormones do not cause edema through decreased albumin levels. The patient's serum albumin is normal at 4.0 g/dL, and the localized distribution of swelling is inconsistent with oncotic pressure-driven edema, which would be generalized.",
+          "D": "Pretibial myxedema is not caused by lymphatic obstruction. The mechanism involves deposition of hydrophilic glycosaminoglycans (hyaluronan) in the dermis, driven by autoantibodies, not by fibroblast-mediated lymphatic compression.",
+          "E": "The autoantibodies in Graves disease cause pretibial myxedema through connective tissue deposition, not through direct capillary endothelial damage. Increased capillary permeability is seen in sepsis, burns, and inflammatory conditions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "myxedema",
+        "Graves disease",
+        "hyaluronan",
+        "autoimmune"
+      ]
+    },
+    {
+      "id": "hb-062",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 40-year-old man is hospitalized with severe burns covering 40% of his total body surface area. Over the next 24 hours, he develops significant edema in the burned areas and receives large volumes of intravenous fluids. Despite aggressive fluid resuscitation, his urine output decreases and his serum creatinine rises. Which of the following complications of edema is most likely contributing to his declining renal function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Edema-mediated thickening of the glomerular basement membrane reducing filtration surface area"
+        },
+        {
+          "label": "B",
+          "text": "Edema-induced compression of venous outflow in fascial compartments impairing tissue perfusion and causing ischemia"
+        },
+        {
+          "label": "C",
+          "text": "Edematous tissue providing a favorable medium for bacterial growth and subsequent sepsis-induced renal injury"
+        },
+        {
+          "label": "D",
+          "text": "Increased interstitial fluid volume diluting circulating albumin and reducing capillary oncotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Edema-related impairment of wound healing preventing adequate closure of burned tissue and causing ongoing fluid losses"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Edema in non-expandable compartments (such as fascial compartments of extremities) can compress venous outflow, leading to impaired tissue perfusion and ischemia. This compartment syndrome can cause tissue hypoxia, lactic acidosis, and even tissue necrosis, including renal injury from rhabdomyolysis or direct renal hypoperfusion.",
+        "whyCorrect": "Edema in non-expandable compartments, such as the fascial compartments of extremities, can compress venous outflow, leading to impaired tissue perfusion and ischemia. This increases the distance between cells and capillaries, decreasing diffusion capacity for oxygen and nutrients, potentially causing tissue hypoxia, lactic acidosis, and tissue necrosis.",
+        "whyWrongByChoice": {
+          "A": "Edema does not thicken the glomerular basement membrane. Glomerular basement membrane thickening occurs in conditions like diabetic nephropathy and membranous nephropathy, not as a complication of peripheral edema.",
+          "C": "While edematous tissue is more susceptible to infection, the acute decline in renal function within 24 hours is more consistent with compartment-related ischemia and hypoperfusion than with sepsis-induced renal injury, which typically develops over a longer time course.",
+          "D": "While large-volume fluid resuscitation can lower albumin concentration, the primary mechanism of declining renal function in this scenario is compartment edema impairing tissue perfusion, not dilutional hypoalbuminemia.",
+          "E": "Impaired wound healing is a known complication of edema but would not acutely cause declining renal function within 24 hours. The compartment syndrome from edema in non-expandable fascial spaces is the more immediate threat."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "compartment syndrome",
+        "burns",
+        "tissue perfusion",
+        "complications"
+      ]
+    },
+    {
+      "id": "hb-063",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 60-year-old woman with a history of deep vein thrombosis in the left leg presents with persistent unilateral left leg swelling 6 months after completing anticoagulation therapy. Her cardiac, hepatic, and renal evaluations are normal. Serum albumin is 3.9 g/dL. The edema is pitting and limited to the left leg below the knee. Her physician considers starting furosemide. Which of the following best explains why diuretic therapy would not be appropriate for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Furosemide acts on the loop of Henle and would not be effective because her edema is caused by glomerular rather than tubular dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Her edema is localized from venous damage without systemic volume overload, so diuretics risk volume depletion without addressing the cause"
+        },
+        {
+          "label": "C",
+          "text": "Diuretics would worsen her edema by further reducing capillary oncotic pressure through increased urinary protein losses"
+        },
+        {
+          "label": "D",
+          "text": "Loop diuretics are contraindicated after deep vein thrombosis because they increase the risk of recurrent thrombotic events"
+        },
+        {
+          "label": "E",
+          "text": "Her normal serum albumin indicates that the edema is nonpitting, making diuretic therapy ineffective for this type of swelling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has localized edema from venous insufficiency due to damage to one-way venous valves from her prior DVT. Her intravascular volume is not increased, so diuretics may not be beneficial and could be harmful by causing volume depletion. First-line treatments include weight loss, leg elevation, and compression stockings.",
+        "whyCorrect": "Patients with edema due to venous insufficiency should not be given diuretics due to the risk of volume depletion. The edema is localized and caused by venous valve damage, not by systemic renal sodium and water retention. Since intravascular volume is not increased, diuretics would remove fluid from the circulation without addressing the underlying venous problem.",
+        "whyWrongByChoice": {
+          "A": "The issue is not the site of action of furosemide. Furosemide effectively blocks sodium reabsorption in the loop of Henle, but the problem is that this patient's edema is not caused by excess renal sodium retention, making diuresis inappropriate.",
+          "C": "Loop diuretics do not cause significant urinary protein losses or reduce capillary oncotic pressure. The contraindication to diuretics in venous insufficiency edema is the risk of volume depletion, not protein loss.",
+          "D": "There is no contraindication to loop diuretics after DVT based on thrombotic risk. The reason to avoid diuretics is that the edema is localized without systemic volume overload, making diuresis potentially harmful through volume depletion.",
+          "E": "The patient has pitting edema, not nonpitting edema. Pitting edema can occur in both systemic conditions (heart, liver, kidney disease) and localized venous insufficiency. The type of edema does not determine diuretic efficacy; the underlying mechanism does."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "venous insufficiency",
+        "DVT",
+        "diuretics",
+        "management"
+      ]
+    },
+    {
+      "id": "hb-064",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "A 48-year-old man with newly diagnosed hypertension is started on amlodipine 10 mg daily. After 2 weeks, he develops bilateral ankle edema. His serum albumin is 4.1 g/dL, creatinine is 0.9 mg/dL, and BNP is within normal limits. Echocardiogram shows normal cardiac function. Which of the following best describes the mechanism by which amlodipine causes edema in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of prostaglandin synthesis reduces renal sodium excretion, leading to systemic volume expansion and increased venous pressure"
+        },
+        {
+          "label": "B",
+          "text": "Direct nephrotoxicity impairs glomerular filtration, causing sodium and water retention with expansion of the extracellular volume"
+        },
+        {
+          "label": "C",
+          "text": "Decreased arteriolar resistance increases capillary hydrostatic pressure without a compensatory decrease in venous-side resistance"
+        },
+        {
+          "label": "D",
+          "text": "Stimulation of aldosterone secretion via RAAS activation promotes sodium reabsorption in the collecting duct and volume expansion"
+        },
+        {
+          "label": "E",
+          "text": "Increased capillary wall permeability from direct drug-mediated endothelial injury allows plasma protein leakage into the interstitium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcium channel blockers like amlodipine cause edema by decreasing arteriolar resistance (which is how they lower blood pressure), but the decrease in resistance is not matched on the venous side. This imbalance increases capillary hydrostatic pressure (Pc) and promotes fluid filtration into the interstitium.",
+        "whyCorrect": "Calcium channel blockers decrease arteriolar resistance, which is their antihypertensive mechanism. However, this vasodilation is selective to the arterial side and is not matched by venous dilation. The resulting imbalance increases capillary hydrostatic pressure (Pc), promoting fluid movement from capillaries into the interstitium.",
+        "whyWrongByChoice": {
+          "A": "Inhibition of prostaglandin synthesis is the mechanism by which NSAIDs cause edema. Calcium channel blockers do not inhibit prostaglandin synthesis; they cause edema through selective arteriolar vasodilation increasing capillary hydrostatic pressure.",
+          "B": "Calcium channel blockers are not nephrotoxic and do not impair glomerular filtration. The patient's creatinine is normal. The edema results from hemodynamic changes at the capillary level, not from renal dysfunction.",
+          "D": "Calcium channel blockers cause arteriolar vasodilation, which may reflexively activate RAAS to some degree, but the primary mechanism of edema is the increased capillary hydrostatic pressure from unmatched arteriolar dilation, not aldosterone-mediated sodium retention.",
+          "E": "Calcium channel blockers do not damage capillary endothelium or increase capillary permeability. Increased capillary permeability is seen in burns, sepsis, and inflammatory conditions, not as a side effect of calcium channel blockers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "edema",
+        "calcium channel blockers",
+        "amlodipine",
+        "capillary hydrostatic pressure",
+        "drug-induced edema"
+      ]
+    },
+    {
+      "id": "ch-061",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 62-year-old woman with diabetes and hypertension presents with progressive dyspnea on exertion and bilateral lower extremity edema. She reports that she must sleep propped up on three pillows and is occasionally awakened from sleep by sudden shortness of breath. Which of the following symptoms is most specific for a cardiac rather than pulmonary cause of her dyspnea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progressive dyspnea on exertion worsening over several weeks"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral lower extremity pitting edema with weight gain"
+        },
+        {
+          "label": "C",
+          "text": "Paroxysmal nocturnal dyspnea awakening her from sleep"
+        },
+        {
+          "label": "D",
+          "text": "Nonproductive cough that worsens with physical exertion"
+        },
+        {
+          "label": "E",
+          "text": "Fatigue and decreased exercise tolerance during daily activities"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Paroxysmal nocturnal dyspnea (PND) is highly specific for cardiac causes of dyspnea, indicating heart failure rather than a pulmonary etiology.",
+        "whyCorrect": "Orthopnea and paroxysmal nocturnal dyspnea (PND) are highly specific for heart failure, indicating a cardiac rather than pulmonary cause of dyspnea. PND occurs due to fluid redistribution to the lungs when supine during sleep.",
+        "whyWrongByChoice": {
+          "A": "Dyspnea on exertion is common but nonspecific for heart failure; it can also be caused by pulmonary diseases such as COPD, asthma, or pulmonary embolism.",
+          "B": "Bilateral lower extremity edema can result from many conditions including venous insufficiency, nephrotic syndrome, and liver disease, making it less specific for heart failure.",
+          "D": "Cough is common but nonspecific for heart failure; it can be caused by many pulmonary and non-pulmonary conditions including respiratory infections and COPD.",
+          "E": "Fatigue and decreased exercise tolerance are nonspecific symptoms that can occur in many conditions including anemia, deconditioning, and pulmonary disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "diagnosis",
+        "PND",
+        "specificity"
+      ]
+    },
+    {
+      "id": "ch-062",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 58-year-old man with a history of two myocardial infarctions presents with worsening fatigue and dyspnea. On examination, his jugular veins are distended, his liver is palpable 4 cm below the costal margin, and he has bilateral pitting edema to his knees. Application of pressure to the abdomen causes further distention of the jugular veins. Which of the following is the most common underlying cause of this patient's right-sided heart failure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary pulmonary hypertension causing right ventricular pressure overload"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid valve stenosis restricting blood flow into the right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Left-sided heart failure causing secondary pulmonary congestion and right heart strain"
+        },
+        {
+          "label": "D",
+          "text": "Chronic obstructive pulmonary disease causing cor pulmonale and right heart dilation"
+        },
+        {
+          "label": "E",
+          "text": "Right ventricular myocardial infarction causing isolated right ventricular dysfunction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The most common cause of right-sided heart failure is left-sided heart failure. This patient has a history of myocardial infarctions and now presents with signs of right heart failure including JVD, hepatomegaly, positive hepatojugular reflux, and peripheral edema.",
+        "whyCorrect": "The most common cause of right heart failure is left heart failure. This patient's prior MIs led to left-sided HF, which then caused pulmonary congestion and secondary right heart strain, progressing to right-sided HF with JVD, hepatomegaly, positive hepatojugular reflux, and peripheral edema.",
+        "whyWrongByChoice": {
+          "A": "Primary pulmonary hypertension can cause right heart failure but is far less common than left-sided HF as a cause of right-sided HF.",
+          "B": "Tricuspid stenosis limits blood flow from the right atrium to right ventricle and may cause right atrial enlargement but does not cause right heart failure and is rare.",
+          "D": "COPD-related cor pulmonale is a recognized cause of right heart failure but is less common than left-sided heart failure as the etiology.",
+          "E": "Isolated right ventricular infarction can cause right-sided HF but is not the most common cause overall; left-sided failure is far more prevalent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "right-sided-HF",
+        "hepatojugular-reflux",
+        "etiology"
+      ]
+    },
+    {
+      "id": "ch-063",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 70-year-old woman presents to the emergency department with acute dyspnea. She has a history of hypertension and diabetes. Her BNP level returns at 45 pg/mL. Chest X-ray shows no cardiomegaly. She has bilateral wheezing and a productive cough. Which of the following is the best interpretation of the BNP result in this clinical scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The low BNP effectively rules out acute heart failure as the cause of her symptoms"
+        },
+        {
+          "label": "B",
+          "text": "The BNP is unreliable because her diabetes invalidates the test interpretation"
+        },
+        {
+          "label": "C",
+          "text": "The low BNP confirms a diagnosis of chronic obstructive pulmonary disease exacerbation"
+        },
+        {
+          "label": "D",
+          "text": "The BNP should be disregarded because echocardiography is always required first"
+        },
+        {
+          "label": "E",
+          "text": "The low BNP is likely a false negative due to her age and female sex factors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "BNP <100 pg/mL effectively rules out acute heart failure, as BNP has a high negative predictive value. This patient's low BNP at 45 pg/mL is convincing evidence that HF is not present.",
+        "whyCorrect": "BNP <100 pg/mL effectively rules out acute heart failure. BNP is best used for ruling out HF since a negative test has a high negative predictive value. At 45 pg/mL, this result provides convincing evidence that her dyspnea is not due to heart failure.",
+        "whyWrongByChoice": {
+          "B": "Diabetes does not invalidate BNP interpretation; false positives occur in CKD, older patients, and females, but the test remains useful for ruling out HF with low values.",
+          "C": "While the low BNP makes heart failure unlikely, it does not confirm any specific alternative diagnosis; further workup is needed to determine the cause of her symptoms.",
+          "D": "BNP is a validated initial test for evaluating suspected heart failure; echocardiography is needed to confirm HF if BNP is elevated, not as a prerequisite for BNP testing.",
+          "E": "False negatives for BNP tend to occur in obese individuals, not specifically due to age and female sex; older age and female sex are associated with false positives, not false negatives."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "diagnosis",
+        "BNP",
+        "negative-predictive-value"
+      ]
+    },
+    {
+      "id": "ch-064",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 65-year-old man with long-standing hypertension is found to have high-voltage QRS complexes on his ECG with the S wave amplitude in V1 measuring 22 mm and the R wave amplitude in V5 measuring 28 mm. He also has ST depressions and T-wave inversions in leads I, V5, and V6. These ECG findings are most consistent with which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute ST-elevation myocardial infarction involving the lateral wall territory"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular hypertrophy with associated repolarization strain pattern"
+        },
+        {
+          "label": "C",
+          "text": "Left bundle branch block with secondary ST-T wave changes present"
+        },
+        {
+          "label": "D",
+          "text": "Acute pericarditis with diffuse ST-segment and T-wave abnormalities"
+        },
+        {
+          "label": "E",
+          "text": "Digitalis effect causing characteristic ST-segment scooping depression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High voltage in lateral leads (S in V1 + R in V5 = 50 mm, >35 mm threshold) with ST depressions and T-wave inversions in lateral leads indicates left ventricular hypertrophy with a strain pattern.",
+        "whyCorrect": "A common criterion for LVH is S amplitude in V1 plus R amplitude in V5 or V6 exceeding 35 mm. Here, 22 + 28 = 50 mm, indicating LVH. The ST depressions and T-wave inversions in lateral leads (I, V5, V6) represent the characteristic 'strain pattern' seen with LVH in HFpEF patients.",
+        "whyWrongByChoice": {
+          "A": "Acute STEMI shows ST elevations, not depressions, in the affected leads; this patient has ST depressions and T-wave inversions consistent with LVH strain.",
+          "C": "LBBB shows wide QRS complexes with characteristic morphology in V1 and V6, which is not described here; the findings are more consistent with LVH voltage criteria.",
+          "D": "Acute pericarditis typically shows diffuse ST elevations and PR depressions, not the localized lateral ST depression and T-wave inversion pattern seen here.",
+          "E": "Digitalis effect produces characteristic 'scooped' or 'sagging' ST depression, but the clinical context of long-standing hypertension with voltage criteria makes LVH with strain the best diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "ECG",
+        "LVH",
+        "strain-pattern"
+      ]
+    },
+    {
+      "id": "ch-065",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 56-year-old woman with no significant past medical history presents with acute-onset severe dyspnea, pleuritic chest pain, and hemoptysis. She recently underwent hip replacement surgery 10 days ago. Her BNP is mildly elevated at 150 pg/mL, and troponin is slightly elevated. Her D-dimer is markedly elevated. Which of the following is the most appropriate next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transthoracic echocardiography to assess left ventricular ejection fraction"
+        },
+        {
+          "label": "B",
+          "text": "Coronary angiography to evaluate for acute myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "CT pulmonary angiography to evaluate for pulmonary embolism"
+        },
+        {
+          "label": "D",
+          "text": "Chest X-ray to evaluate for cardiomegaly and pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac MRI to assess for myocarditis or infiltrative cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This presentation (acute dyspnea, pleuritic chest pain, hemoptysis, recent surgery, elevated D-dimer) is classic for pulmonary embolism, not heart failure. CT pulmonary angiography is the appropriate diagnostic test.",
+        "whyCorrect": "The sudden onset of symptoms, pleuritic chest pain, hemoptysis, recent surgery (immobilization risk factor), and markedly elevated D-dimer point strongly to pulmonary embolism. BNP and troponins can be elevated in PE as well as HF, so they do not distinguish. CT pulmonary angiography showing filling defects confirms the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Echocardiography is the gold standard for heart failure diagnosis, but this presentation with pleuritic pain, hemoptysis, surgical risk factor, and elevated D-dimer is much more consistent with PE.",
+          "B": "Coronary angiography is indicated when ECG or lab evidence suggests acute MI in the setting of HF symptoms; this presentation is more consistent with PE than acute coronary syndrome.",
+          "D": "While chest X-ray can provide useful information, it would not diagnose pulmonary embolism, which is the leading concern in this clinical scenario.",
+          "E": "Cardiac MRI assesses cardiomyopathies and infiltrative diseases; it is not the appropriate test for the acute presentation suggesting pulmonary embolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "differential-diagnosis",
+        "pulmonary-embolism",
+        "CT-angiography"
+      ]
+    },
+    {
+      "id": "ch-066",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 74-year-old man with chronic heart failure is evaluated in clinic. He reports that he can perform most household tasks and walk on level ground without difficulty, but he becomes short of breath after climbing one flight of stairs or walking uphill. He is comfortable at rest. Which New York Heart Association functional class best describes this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NYHA Class I: no limitation of physical activity from cardiac symptoms"
+        },
+        {
+          "label": "B",
+          "text": "NYHA Class II: mild symptoms during ordinary physical activities"
+        },
+        {
+          "label": "C",
+          "text": "NYHA Class III: marked limitation with symptoms at minimal exertion"
+        },
+        {
+          "label": "D",
+          "text": "NYHA Class IV: symptoms present at rest with inability to perform any activity"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be classified without objective exercise testing such as six-minute walk"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NYHA Class II patients experience mild symptoms during ordinary activities but are comfortable at rest. This patient has dyspnea with stair climbing and uphill walking but can perform most household tasks, consistent with Class II.",
+        "whyCorrect": "NYHA Class II is characterized by mild symptoms (dyspnea, fatigue, palpitations) during ordinary activities with comfort at rest. This patient experiences DOE when climbing more than one flight of stairs or walking uphill but can perform most household tasks without symptoms, matching the Class II description exactly.",
+        "whyWrongByChoice": {
+          "A": "NYHA Class I patients are asymptomatic during all activities; this patient clearly has exertional symptoms with stair climbing and uphill walking.",
+          "C": "NYHA Class III patients experience symptoms with minimal exertion such as walking short distances on level ground or light housework; this patient tolerates these activities.",
+          "D": "NYHA Class IV patients have symptoms at rest and cannot perform activities of daily living independently; this patient is comfortable at rest and functional.",
+          "E": "The NYHA classification is based on reported symptom frequency during activity and does not require objective exercise testing; the clinical history is sufficient for classification."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "NYHA-classification",
+        "functional-status"
+      ]
+    },
+    {
+      "id": "ch-067",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 68-year-old man is admitted to the ICU with severe dyspnea and diffuse bilateral pulmonary infiltrates on chest X-ray. He was recently treated for pneumonia complicated by sepsis. His echocardiogram shows normal left ventricular function with an ejection fraction of 60%. Pulmonary artery catheterization reveals a pulmonary artery occlusion pressure of 12 mmHg. Which of the following best explains the pulmonary edema in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decompensated heart failure with preserved ejection fraction causing diastolic dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Noncardiogenic pulmonary edema from acute respiratory distress syndrome due to sepsis"
+        },
+        {
+          "label": "C",
+          "text": "Acute systolic heart failure with reduced ejection fraction masked by inotropic support"
+        },
+        {
+          "label": "D",
+          "text": "Cardiogenic pulmonary edema from left ventricular failure with elevated filling pressures"
+        },
+        {
+          "label": "E",
+          "text": "Right-sided heart failure causing pulmonary venous congestion and transudative effusions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Normal cardiac function on echo with a low pulmonary artery occlusion pressure (<18 mmHg) in the setting of sepsis-associated bilateral infiltrates indicates ARDS (noncardiogenic pulmonary edema), not cardiogenic pulmonary edema from heart failure.",
+        "whyCorrect": "ARDS (noncardiogenic pulmonary edema) is differentiated from cardiogenic edema by normal cardiac function on echo and a lower pulmonary artery occlusion pressure. In cardiogenic edema from HF, the occlusion pressure is typically >18 mmHg. The identifiable precipitating factor (sepsis) and normal EF support ARDS.",
+        "whyWrongByChoice": {
+          "A": "HFpEF would show impaired diastolic filling on echo and elevated filling pressures; this patient has normal cardiac function and low occlusion pressure.",
+          "C": "The EF is 60% with normal function; there is no evidence of systolic failure or that inotropic support is masking reduced contractility.",
+          "D": "Cardiogenic pulmonary edema from LV failure would show elevated pulmonary artery occlusion pressure (>18 mmHg); this patient's pressure is only 12 mmHg.",
+          "E": "Right-sided heart failure causes systemic venous congestion (JVD, hepatomegaly, peripheral edema), not pulmonary edema with bilateral infiltrates."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "differential-diagnosis",
+        "ARDS",
+        "pulmonary-edema"
+      ]
+    },
+    {
+      "id": "ch-068",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 60-year-old obese woman (BMI 42) presents with worsening dyspnea and bilateral leg swelling. Her physician suspects heart failure. A BNP level is drawn and returns at 85 pg/mL. Echocardiography reveals an ejection fraction of 35% with global hypokinesis. Which of the following best explains the discrepancy between the BNP result and the echocardiographic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "BNP levels are typically lower in obese patients, leading to a false negative result"
+        },
+        {
+          "label": "B",
+          "text": "The echocardiogram is likely a false positive due to the patient's body habitus"
+        },
+        {
+          "label": "C",
+          "text": "BNP is only elevated in diastolic heart failure and remains normal in systolic dysfunction"
+        },
+        {
+          "label": "D",
+          "text": "Chronic kidney disease is artificially lowering the BNP below the diagnostic threshold"
+        },
+        {
+          "label": "E",
+          "text": "The patient likely has compensated heart failure where BNP normalizes despite low EF"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "BNP levels tend to be lower in obese individuals, meaning a negative BNP result can be a false negative. This patient has confirmed HFrEF on echo despite a BNP below the 100 pg/mL threshold.",
+        "whyCorrect": "BNP levels tend to be lower in obese individuals, which means a negative test can be a false negative in this population. Despite a BNP of 85 pg/mL (below the 100 pg/mL cutoff), this patient has confirmed HFrEF with EF 35% on echocardiography.",
+        "whyWrongByChoice": {
+          "B": "Echocardiography is the gold standard for diagnosing heart failure and determining EF; an EF of 35% with global hypokinesis is a reliable finding, not a false positive.",
+          "C": "BNP is released by ventricular myocytes in response to increased wall stress in both systolic and diastolic heart failure, not exclusively in diastolic dysfunction.",
+          "D": "Chronic kidney disease causes falsely elevated (not lower) BNP levels; CKD is listed as a cause of false positive BNP results.",
+          "E": "While compensated heart failure can have lower BNP levels than decompensated states, the primary explanation for this discrepancy is the well-documented effect of obesity on BNP levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "diagnosis",
+        "BNP",
+        "obesity",
+        "false-negative"
+      ]
+    },
+    {
+      "id": "ch-069",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 72-year-old man with advanced heart failure is hospitalized with severe dyspnea at rest, inability to perform any activities of daily living, and requiring continuous intravenous inotropic support. His cardiologist discusses with the family that he may need evaluation for a left ventricular assist device or cardiac transplantation. This patient's functional status is most consistent with which NYHA classification and associated management approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NYHA Class II requiring addition of mineralocorticoid receptor antagonists to therapy"
+        },
+        {
+          "label": "B",
+          "text": "NYHA Class III requiring device therapy with implantable cardioverter-defibrillator"
+        },
+        {
+          "label": "C",
+          "text": "NYHA Class IV requiring evaluation for mechanical circulatory support or transplantation"
+        },
+        {
+          "label": "D",
+          "text": "NYHA Class I requiring only neurohormonal antagonists to prevent disease progression"
+        },
+        {
+          "label": "E",
+          "text": "NYHA Class III requiring more intensive diuretic regimens and closer clinical monitoring"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "NYHA Class IV represents the most severe stage with symptoms at rest and inability to perform ADLs. These patients frequently require advanced therapies including inotropic support, mechanical circulatory support, or transplantation.",
+        "whyCorrect": "NYHA Class IV represents the most advanced HF with symptoms at rest, inability to perform ADLs independently, and frequent need for hospitalization and advanced therapies. This patient's requirement for continuous IV inotropes and consideration for LVAD or transplant is consistent with Class IV management.",
+        "whyWrongByChoice": {
+          "A": "NYHA Class II involves mild symptoms during ordinary activities with comfort at rest; this patient has symptoms at rest and cannot perform ADLs, far exceeding Class II severity.",
+          "B": "NYHA Class III involves symptoms with minimal exertion but comfort at rest; this patient has resting symptoms requiring inotropic support, which exceeds Class III.",
+          "D": "NYHA Class I describes asymptomatic patients needing preventive therapy; this patient is gravely symptomatic and disabled.",
+          "E": "While NYHA Class III patients may need intensive diuretics, this patient's resting symptoms, ADL dependency, and need for inotropic support clearly place him in Class IV."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "NYHA-classification",
+        "advanced-therapies",
+        "transplant"
+      ]
+    },
+    {
+      "id": "ch-070",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 55-year-old man presents with progressive dyspnea and is found to have an S3 gallop, laterally displaced point of maximal impulse, and jugular venous distention. His echocardiogram shows an ejection fraction of 28% with a dilated, spherical left ventricle. Which of the following best describes the morphologic change in this patient's ventricle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentric hypertrophy with a smaller chamber size and thickened ventricular walls"
+        },
+        {
+          "label": "B",
+          "text": "Normal ventricular geometry with isolated diastolic filling impairment present"
+        },
+        {
+          "label": "C",
+          "text": "Dilated thin-walled ventricle with increased end-diastolic volume and spherical remodeling"
+        },
+        {
+          "label": "D",
+          "text": "Restrictive physiology with normal wall thickness and markedly decreased compliance"
+        },
+        {
+          "label": "E",
+          "text": "Asymmetric septal hypertrophy with dynamic left ventricular outflow tract obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In HFrEF, the ventricle becomes dilated and thin-walled, increasing end-diastolic volume and adopting a more spherical shape that further compromises efficient contraction.",
+        "whyCorrect": "In HFrEF, the ventricle becomes dilated and thin-walled with increased end-diastolic volume. The chamber becomes more spherical, weakening fiber mechanics and reducing contractile efficiency. This patient's findings (S3, displaced PMI, EF 28%, spherical LV) are classic for this morphologic pattern.",
+        "whyWrongByChoice": {
+          "A": "Concentric hypertrophy with a smaller chamber and thickened walls describes HFpEF from pressure overload, not the dilated ventricle with reduced EF seen here.",
+          "B": "Normal ventricular geometry is inconsistent with the echo findings of a dilated, spherical ventricle with EF 28%; isolated diastolic impairment describes HFpEF.",
+          "D": "Restrictive physiology from infiltrative diseases presents differently with normal or near-normal wall thickness and severe diastolic dysfunction, not the dilation described here.",
+          "E": "Asymmetric septal hypertrophy with LVOT obstruction describes hypertrophic cardiomyopathy, which does not present with a dilated spherical ventricle and reduced EF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "morphology",
+        "HFrEF",
+        "ventricular-remodeling"
+      ]
+    },
+    {
+      "id": "ch-071",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 67-year-old woman with known heart failure and reduced ejection fraction presents with right upper quadrant pain and jaundice. Her liver is palpable and tender, and she has significant ascites. Laboratory studies show elevated bilirubin and transaminases. Which of the following pathophysiologic mechanisms most directly explains her hepatic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal vein thrombosis causing acute hepatic ischemia and parenchymal infarction"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune hepatitis triggered by chronic heart failure immune dysregulation process"
+        },
+        {
+          "label": "C",
+          "text": "Venous blood backing up from the right atrium into hepatic veins causing congestive hepatopathy"
+        },
+        {
+          "label": "D",
+          "text": "Drug-induced hepatotoxicity from heart failure medications such as ACE inhibitor therapy"
+        },
+        {
+          "label": "E",
+          "text": "Primary biliary cholangitis causing progressive destruction of intrahepatic bile ducts"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In right-sided heart failure, impaired forward flow causes blood to back up from the right atrium into systemic veins, including hepatic veins, leading to congestive hepatopathy with hepatomegaly, jaundice, and elevated liver enzymes.",
+        "whyCorrect": "In right-sided HF, blood backs up from the right atrium into systemic veins, including the hepatic veins. This venous congestion causes liver congestion, hepatomegaly, jaundice, and elevated liver enzymes—a syndrome termed congestive hepatopathy (pathologically called 'nutmeg liver').",
+        "whyWrongByChoice": {
+          "A": "Portal vein thrombosis causes hepatic ischemia but is not the mechanism of liver injury in right-sided heart failure; the congestion is venous, not arterial or portal.",
+          "B": "Autoimmune hepatitis is an independent liver disease unrelated to heart failure; chronic HF does not trigger autoimmune hepatic destruction.",
+          "D": "While some medications can cause hepatotoxicity, the clinical scenario with right-sided HF signs (JVD, ascites, hepatomegaly) points to congestive hepatopathy, not drug-induced injury.",
+          "E": "Primary biliary cholangitis is a chronic autoimmune liver disease unrelated to heart failure and presents with a different clinical and laboratory profile."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "right-sided-HF",
+        "congestive-hepatopathy",
+        "nutmeg-liver"
+      ]
+    },
+    {
+      "id": "ch-072",
+      "topicId": "heart-failure-diagnosis",
+      "topicName": "Diagnosis of Heart Failure",
+      "stem": "A 63-year-old man presents with acute dyspnea, productive cough with purulent sputum, and fever of 39.2°C. He has a history of heart failure with reduced ejection fraction. Chest X-ray shows a right lower lobe consolidation and cardiomegaly. His BNP is 280 pg/mL, and his white blood cell count is 18,000/mm³ with left shift. Which of the following findings most strongly supports the diagnosis of pneumonia rather than acute decompensated heart failure as the primary cause of his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomegaly on chest X-ray with known history of reduced ejection fraction"
+        },
+        {
+          "label": "B",
+          "text": "Elevated BNP level above the normal threshold of 100 pg/mL for diagnosis"
+        },
+        {
+          "label": "C",
+          "text": "Fever with leukocytosis, purulent sputum production, and focal consolidation"
+        },
+        {
+          "label": "D",
+          "text": "Presence of acute dyspnea as the predominant symptom on presentation today"
+        },
+        {
+          "label": "E",
+          "text": "History of heart failure making him more susceptible to cardiac decompensation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fever, leukocytosis, purulent sputum, and focal consolidation on CXR are key distinguishing features of pneumonia that help differentiate it from acute decompensated heart failure, which shares symptoms like dyspnea.",
+        "whyCorrect": "Key distinguishing features of pneumonia include fever, leukocytosis, productive cough with purulent sputum, and focal consolidation on CXR. While both pneumonia and HF can cause dyspnea and even abnormal chest X-rays, these infectious signs strongly support pneumonia as the primary diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Cardiomegaly on CXR can be seen in both systolic and diastolic heart failure and does not help differentiate between pneumonia and HF exacerbation as the cause of acute symptoms.",
+          "B": "Elevated BNP supports but does not confirm HF (moderate positive predictive value); in a patient with known HFrEF, baseline BNP may be chronically elevated regardless of acute decompensation.",
+          "D": "Acute dyspnea is a nonspecific symptom shared by both pneumonia and heart failure exacerbation and does not favor one diagnosis over the other.",
+          "E": "While HF history is a risk factor for decompensation, it does not distinguish between pneumonia and HF exacerbation as the acute cause; clinical features must guide the diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "differential-diagnosis",
+        "pneumonia",
+        "diagnostic-reasoning"
+      ]
+    },
+    {
+      "id": "ch-073",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 58-year-old man with a history of ischemic cardiomyopathy presents for routine follow-up. His echocardiogram shows a left ventricular ejection fraction (LVEF) of 30%. He is currently taking lisinopril and metoprolol succinate at goal doses. He denies dyspnea, orthopnea, or lower extremity edema. His blood pressure is 118/72 mmHg, heart rate is 64 bpm, and his serum potassium is 4.1 mEq/L. According to guideline-directed medical therapy for heart failure with reduced ejection fraction, which of the following medications should be added next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dapagliflozin, an SGLT-2 inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin, a cardiac glycoside inotrope"
+        },
+        {
+          "label": "C",
+          "text": "Furosemide, a loop diuretic agent"
+        },
+        {
+          "label": "D",
+          "text": "Hydralazine, a direct arteriolar vasodilator"
+        },
+        {
+          "label": "E",
+          "text": "Amlodipine, a dihydropyridine calcium-channel blocker"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After tolerating an ACE inhibitor/ARB/ARNI and a beta-blocker (Block 1), the next step in GDMT for HFrEF is to add an SGLT-2 inhibitor (Block 2), followed by an MRA if LVEF < 35% (Block 3).",
+        "whyCorrect": "Dapagliflozin is an SGLT-2 inhibitor that reduces preload and afterload through natriuresis and osmotic diuresis, and has favorable effects on cardiac metabolism and remodeling. SGLT-2 inhibitors are part of the four foundational GDMT classes for HFrEF and are added once ACE/ARB/ARNI and beta-blocker are tolerated.",
+        "whyWrongByChoice": {
+          "B": "Digoxin does not improve mortality in heart failure and is reserved for patients who fail other guideline-directed therapies. It is not part of the foundational GDMT classes.",
+          "C": "Furosemide is used for symptomatic relief of volume overload but does not decrease mortality. This patient is currently asymptomatic without edema, so a loop diuretic is not indicated at this time.",
+          "D": "Hydralazine is a second- or third-line agent reserved for patients who cannot tolerate ACE inhibitors or ARBs; it is not part of the standard GDMT stepwise approach.",
+          "E": "Amlodipine is a second-line afterload-reducing agent that does not reduce mortality in systolic heart failure and is not part of foundational GDMT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "GDMT",
+        "SGLT2-inhibitors"
+      ]
+    },
+    {
+      "id": "ch-074",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 72-year-old woman with chronic systolic heart failure and an LVEF of 25% has been on enalapril, carvedilol, dapagliflozin, and furosemide for 6 months. Despite these medications at optimal doses, she continues to have NYHA class III symptoms with dyspnea on minimal exertion. Her serum potassium is 3.9 mEq/L, creatinine is 1.2 mg/dL, and blood pressure is 110/68 mmHg. Which of the following is the most appropriate addition to her regimen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine to reduce systemic vascular resistance"
+        },
+        {
+          "label": "B",
+          "text": "Spironolactone to block aldosterone-mediated effects"
+        },
+        {
+          "label": "C",
+          "text": "Digoxin to increase myocardial contractility"
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem to reduce heart rate and afterload"
+        },
+        {
+          "label": "E",
+          "text": "Nitroglycerin to decrease venous return to the heart"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In patients with HFrEF and LVEF < 35% who remain symptomatic despite ACE/ARB/ARNI, beta-blocker, SGLT-2 inhibitor, and loop diuretic therapy, adding an MRA such as spironolactone is recommended as it reduces morbidity and mortality.",
+        "whyCorrect": "Spironolactone is a mineralocorticoid receptor antagonist that blocks aldosterone-mediated sodium and water retention, myocardial fibrosis, and ventricular remodeling. It is recommended for patients with NYHA III-IV symptoms and LVEF < 35% already on GDMT, as it provides proven mortality reduction.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine reduces afterload but does not reduce mortality in systolic heart failure. It is a second-line agent, not part of the standard GDMT escalation for HFrEF.",
+          "C": "Digoxin may provide symptomatic relief but does not reduce mortality. It is only considered when other guideline-directed therapies have failed, and its significant adverse effect profile makes it a less favorable option.",
+          "D": "Non-dihydropyridine calcium channel blockers like diltiazem reduce rate and contractility without affecting the RAAS, lacking the reverse-remodeling benefits of beta-blockers. They are generally not used in systolic heart failure.",
+          "E": "Nitrates such as nitroglycerin are second-line agents typically used in combination with hydralazine for patients who cannot tolerate ACE inhibitors or ARBs, not for standard GDMT escalation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "spironolactone",
+        "MRA"
+      ]
+    },
+    {
+      "id": "ch-075",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 66-year-old man with chronic systolic heart failure (LVEF 28%) has been taking lisinopril for 3 months. He develops a persistent dry cough that significantly bothers him. His renal function is normal. His physician decides to switch the lisinopril to a different medication. Which of the following best explains why the cough occurred with lisinopril and why the replacement drug would avoid this adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lisinopril inhibits aldosterone directly; an ARB blocks angiotensin II at the AT1 receptor without affecting aldosterone breakdown"
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril prevents bradykinin degradation, causing cough; an ARB blocks the angiotensin II receptor without affecting bradykinin metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Lisinopril causes excessive sodium retention leading to cough; an ARB promotes natriuresis through neprilysin inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Lisinopril directly stimulates pulmonary C-fibers via angiotensin II accumulation; an ARB reduces angiotensin II synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Lisinopril inhibits neprilysin causing natriuretic peptide accumulation; an ARB selectively blocks angiotensin receptors without neprilysin effects"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACE inhibitor-induced cough is caused by accumulation of bradykinin, which is normally degraded by ACE. ARBs block the angiotensin II receptor directly and do not inhibit ACE, so bradykinin metabolism is unaffected and the incidence of cough is greatly reduced.",
+        "whyCorrect": "ACE inhibitors like lisinopril inhibit the enzyme that degrades bradykinin. Elevated bradykinin levels stimulate cough receptors in the airway. ARBs block angiotensin II at its receptor downstream and do not interfere with bradykinin degradation, greatly reducing the risk of cough.",
+        "whyWrongByChoice": {
+          "A": "Lisinopril does not directly inhibit aldosterone; it reduces aldosterone levels indirectly by blocking angiotensin II production. The cough mechanism involves bradykinin, not aldosterone.",
+          "C": "ACE inhibitors actually decrease sodium retention (not increase it) by reducing aldosterone levels. The cough is bradykinin-mediated, and neprilysin inhibition is a feature of sacubitril, not ARBs.",
+          "D": "ACE inhibitors reduce angiotensin II levels (not cause accumulation), and the cough is mediated by bradykinin accumulation, not direct C-fiber stimulation by angiotensin II. ARBs do not reduce angiotensin II synthesis.",
+          "E": "Neprilysin inhibition is characteristic of sacubitril (found in the ARNI sacubitril/valsartan), not lisinopril. ACE inhibitor-induced cough is due to bradykinin accumulation, not natriuretic peptide changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "ACE-inhibitors",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "ch-076",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 55-year-old man with chronic systolic heart failure (LVEF 20%) is being treated with sacubitril/valsartan, carvedilol, spironolactone, empagliflozin, and furosemide. He continues to have NYHA class III-IV symptoms. His physician considers adding digoxin. The patient's serum potassium is 3.3 mEq/L. Which of the following is the most important concern to address before initiating digoxin in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The risk of drug-induced lupus from concurrent medication use"
+        },
+        {
+          "label": "B",
+          "text": "The potential for angioedema with combined ARNI and digoxin therapy"
+        },
+        {
+          "label": "C",
+          "text": "The increased risk of digoxin-induced cardiac arrhythmias in the setting of hypokalemia"
+        },
+        {
+          "label": "D",
+          "text": "The likelihood of worsening renal function with digoxin and spironolactone together"
+        },
+        {
+          "label": "E",
+          "text": "The risk of euglycemic diabetic ketoacidosis from digoxin and SGLT-2 inhibitor interaction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digoxin toxicity, especially cardiac arrhythmias, is greatly potentiated by hypokalemia. This patient's potassium of 3.3 mEq/L must be corrected before starting digoxin.",
+        "whyCorrect": "Digoxin's adverse cardiac effects (heart block, bradycardia, ventricular tachycardia, supraventricular tachycardias) are most likely to occur when the patient is even slightly hypokalemic. Patients on loop diuretics like furosemide are particularly at risk for hypokalemia, and maintaining completely normal serum potassium is essential before and during digoxin therapy.",
+        "whyWrongByChoice": {
+          "A": "Drug-induced lupus is associated with hydralazine, not digoxin. There is no significant interaction between his current medications and digoxin that would cause lupus.",
+          "B": "Angioedema is a rare adverse effect of ARNI therapy itself; it is not potentiated by digoxin. This is not the primary concern in this clinical scenario.",
+          "D": "Digoxin does not have a well-established interaction with spironolactone that worsens renal function. Spironolactone is potassium-sparing and could actually help prevent the hypokalemia that increases digoxin toxicity risk.",
+          "E": "Euglycemic diabetic ketoacidosis is a rare risk of SGLT-2 inhibitors in susceptible patients, but this is not related to digoxin use and is not the most pressing concern here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "digoxin",
+        "toxicity",
+        "hypokalemia"
+      ]
+    },
+    {
+      "id": "ch-077",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 60-year-old woman with heart failure and a left ventricular ejection fraction of 32% is being started on a beta-blocker. Her physician selects carvedilol over metoprolol succinate because she also has poorly controlled hypertension. Which of the following best explains the pharmacologic rationale for choosing carvedilol in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carvedilol has greater affinity for beta-2 receptors, providing superior bronchodilation in heart failure patients"
+        },
+        {
+          "label": "B",
+          "text": "Carvedilol inhibits neprilysin, providing additional preload reduction through natriuretic peptide preservation"
+        },
+        {
+          "label": "C",
+          "text": "Carvedilol directly inhibits the Na+/K+-ATPase, providing additional inotropic support for the failing heart"
+        },
+        {
+          "label": "D",
+          "text": "Carvedilol blocks alpha-1 adrenergic receptors in addition to beta receptors, providing additional antihypertensive vasodilatory effect"
+        },
+        {
+          "label": "E",
+          "text": "Carvedilol selectively blocks beta-1 receptors with minimal beta-2 effects, avoiding reflex tachycardia seen with other agents"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carvedilol has selectivity for beta-1 > beta-2 receptors as well as alpha-1 receptors. The alpha-1 blockade provides additional vasodilation and antihypertensive effect, making it a great choice for heart failure patients with concomitant hypertension.",
+        "whyCorrect": "Unlike metoprolol succinate and bisoprolol, which are cardioselective (beta-1 selective), carvedilol also blocks alpha-1 adrenergic receptors. This alpha-1 antagonism causes peripheral vasodilation, providing additional blood pressure lowering, which is beneficial in patients with both heart failure and hypertension.",
+        "whyWrongByChoice": {
+          "A": "Carvedilol has beta-1 > beta-2 selectivity, not greater beta-2 affinity. Bronchodilation would require beta-2 agonism, not antagonism. Beta-blockers can actually worsen bronchospasm.",
+          "B": "Neprilysin inhibition is the mechanism of sacubitril (in the ARNI sacubitril/valsartan), not carvedilol. Carvedilol is a beta-blocker with alpha-1 blocking activity.",
+          "C": "Na+/K+-ATPase inhibition is the mechanism of digoxin, not carvedilol. Carvedilol works through adrenergic receptor blockade.",
+          "E": "This description better fits metoprolol succinate or bisoprolol, which are classified as cardioselective due to high beta-1 affinity and very low beta-2 affinity. Carvedilol is unique in having alpha-1 blocking activity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "beta-blockers",
+        "carvedilol"
+      ]
+    },
+    {
+      "id": "ch-078",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 68-year-old man with heart failure with preserved ejection fraction (HFpEF) secondary to long-standing hypertension presents with blood pressure of 158/96 mmHg. Echocardiography shows concentric left ventricular hypertrophy with an LVEF of 62%. Which of the following medications should be avoided in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amlodipine, a dihydropyridine calcium-channel blocker"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochlorothiazide, a thiazide diuretic agent"
+        },
+        {
+          "label": "C",
+          "text": "Losartan, an angiotensin receptor blocker agent"
+        },
+        {
+          "label": "D",
+          "text": "Lisinopril, an angiotensin-converting enzyme inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Digoxin, a cardiac glycoside inotropic agent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In diastolic heart failure (HFpEF), digoxin, beta-blockers, and nitrates should be avoided because they may worsen outflow obstruction from the thickened ventricle. Management focuses on aggressive blood pressure control.",
+        "whyCorrect": "Digoxin should be avoided in diastolic HF because it may worsen the outflow obstruction caused by the thickened ventricle. No drugs have been shown to reduce cardiovascular remodeling or mortality in diastolic HF; therapy focuses on aggressive blood pressure control to potentially regress the LVH.",
+        "whyWrongByChoice": {
+          "A": "Amlodipine is one of the recommended antihypertensive drugs for diastolic HF. Calcium-channel blockers are appropriate for blood pressure management in HFpEF.",
+          "B": "Thiazide diuretics are among the recommended antihypertensive agents for managing hypertension in diastolic heart failure and are not contraindicated.",
+          "C": "ARBs like losartan are recommended antihypertensive drugs for diastolic HF and are appropriate for aggressive blood pressure management in these patients.",
+          "D": "ACE inhibitors like lisinopril are among the recommended antihypertensive agents for diastolic HF management and help reduce blood pressure toward the goal of less than 130/80 mmHg."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "diastolic-HF",
+        "HFpEF",
+        "pharmacology"
+      ]
+    },
+    {
+      "id": "ch-079",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 70-year-old man with chronic systolic heart failure (LVEF 22%) and a history of a prior cardiac arrest is being evaluated for device therapy. He has been on maximally tolerated guideline-directed medical therapy for 4 months with sacubitril/valsartan, bisoprolol, spironolactone, dapagliflozin, and furosemide. His ECG shows a QRS duration of 148 ms with a left bundle branch block pattern. Which of the following is the most appropriate device recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Single-chamber pacemaker to prevent bradycardia from beta-blocker use"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular assist device as destination therapy for refractory heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Biventricular pacemaker with implantable cardioverter-defibrillator"
+        },
+        {
+          "label": "D",
+          "text": "Implantable cardioverter-defibrillator alone without pacemaker functionality"
+        },
+        {
+          "label": "E",
+          "text": "External defibrillator vest while awaiting heart transplant evaluation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with chronic systolic HF, very low LVEF, prior cardiac arrest, and prolonged QRS > 120 ms with LBBB on maximally tolerated GDMT for at least 3 months should receive a biventricular pacemaker with ICD (CRT-D), which resynchronizes the ventricles and provides defibrillation capability.",
+        "whyCorrect": "This patient meets criteria for cardiac resynchronization therapy with defibrillator (CRT-D): chronic systolic HF with very low LVEF, prolonged QRS > 120 ms with LBBB, and has been on maximally tolerated GDMT for over 3 months. CRT-D resynchronizes the ventricles to beat together, improving cardiac output and decreasing heart failure symptoms, while the ICD component protects against lethal ventricular arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "A single-chamber pacemaker does not address the ventricular dyssynchrony caused by LBBB, nor does it provide defibrillation capability for a patient at high risk of ventricular arrhythmias.",
+          "B": "An LVAD is considered for end-stage refractory heart failure when all medical and device therapies have been exhausted. This patient has not yet received CRT-D, which should be tried first.",
+          "D": "An ICD alone would address arrhythmia risk but would miss the opportunity for biventricular pacing to resynchronize the ventricles, which is indicated given the prolonged QRS with LBBB.",
+          "E": "An external defibrillator vest is a temporizing measure and does not provide the resynchronization therapy this patient needs for his LBBB and severely reduced LVEF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "device-therapy",
+        "CRT-D",
+        "ICD"
+      ]
+    },
+    {
+      "id": "ch-080",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 62-year-old man with chronic heart failure (LVEF 30%) is prescribed sacubitril/valsartan. He asks about how this medication works. Which of the following best describes the mechanism by which sacubitril contributes to the therapeutic effect of this combination drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly blocks the angiotensin II type 1 receptor, reducing vasoconstriction and aldosterone secretion"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits the sodium-glucose cotransporter in the proximal tubule, promoting osmotic diuresis"
+        },
+        {
+          "label": "C",
+          "text": "It blocks beta-1 adrenergic receptors on juxtaglomerular cells, reducing renin secretion and RAAS activation"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits neprilysin, preventing degradation of natriuretic peptides"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits angiotensin-converting enzyme, preventing the conversion of angiotensin I to angiotensin II"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sacubitril is a neprilysin inhibitor that prevents the degradation of natriuretic peptides, which are released when the atria and ventricles are stretched. Increased natriuretic peptide levels promote renal sodium and water excretion, reducing intravascular volume and preload.",
+        "whyCorrect": "Sacubitril inhibits neprilysin, the enzyme responsible for degrading natriuretic peptides. By preserving these peptides, sacubitril promotes sodium and water excretion by the kidneys, reducing preload. This mechanism is combined with the ARB valsartan's blockade of angiotensin II to provide comprehensive neurohormonal modulation in HFrEF.",
+        "whyWrongByChoice": {
+          "A": "This describes the mechanism of the valsartan component (an ARB), not sacubitril. Sacubitril acts on neprilysin, not the angiotensin receptor.",
+          "B": "This describes the mechanism of SGLT-2 inhibitors such as dapagliflozin and empagliflozin, not sacubitril.",
+          "C": "This describes a mechanism of beta-blockers, not sacubitril. Beta-blockers reduce renin secretion by blocking beta-1 receptors on juxtaglomerular cells.",
+          "E": "This describes the mechanism of ACE inhibitors such as lisinopril and enalapril, not sacubitril. Notably, sacubitril should not be combined with ACE inhibitors due to increased risk of angioedema."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "ARNI",
+        "sacubitril"
+      ]
+    },
+    {
+      "id": "ch-081",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 74-year-old woman with chronic systolic heart failure (LVEF 35%) has been taking enalapril and metoprolol succinate for 2 years. She presents with worsening dyspnea and bilateral lower extremity edema. Furosemide is added to her regimen. Two weeks later, laboratory tests reveal a serum potassium of 2.9 mEq/L and a serum sodium of 132 mEq/L. Which of the following is the best explanation for this electrolyte abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enalapril-induced hyperaldosteronism causing excessive potassium wasting in the renal collecting duct"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol-induced suppression of renin leading to increased distal sodium delivery and potassium exchange"
+        },
+        {
+          "label": "C",
+          "text": "Furosemide-induced inhibition of sodium reabsorption in the loop of Henle"
+        },
+        {
+          "label": "D",
+          "text": "Enalapril-induced inhibition of neprilysin causing excessive natriuretic peptide-mediated potassium wasting"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol-induced reduction in cardiac output causing prerenal azotemia and secondary potassium loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loop diuretics like furosemide inhibit sodium reabsorption in the thick ascending limb of the loop of Henle, increasing urine sodium and water losses. The increased distal tubular flow promotes potassium excretion, leading to hypokalemia.",
+        "whyCorrect": "Furosemide is a loop diuretic that increases urine sodium and water losses by blocking reabsorption in the loop of Henle. This increased sodium delivery to the distal nephron enhances potassium secretion through the sodium-potassium exchange mechanism, resulting in hypokalemia. This is a well-known adverse effect of loop diuretics.",
+        "whyWrongByChoice": {
+          "A": "ACE inhibitors like enalapril actually reduce aldosterone levels by blocking angiotensin II production, which would tend to cause potassium retention (hyperkalemia), not potassium wasting.",
+          "B": "While metoprolol reduces renin secretion, this would decrease aldosterone and tend to retain potassium, not waste it. The hypokalemia is best explained by the loop diuretic.",
+          "D": "Enalapril is an ACE inhibitor, not a neprilysin inhibitor. Neprilysin inhibition is the mechanism of sacubitril. ACE inhibitors tend to cause hyperkalemia, not hypokalemia.",
+          "E": "While beta-blockers can transiently reduce cardiac output, this patient's hypokalemia is far more consistent with loop diuretic-induced potassium wasting than with prerenal azotemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "loop-diuretics",
+        "electrolytes"
+      ]
+    },
+    {
+      "id": "ch-082",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 59-year-old African American man with chronic systolic heart failure (LVEF 28%) develops angioedema while taking lisinopril. His physician discontinues the ACE inhibitor. The patient cannot tolerate ARBs due to a similar reaction. Which of the following combinations is the most appropriate second-line replacement therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diltiazem and furosemide to reduce preload and afterload simultaneously"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin and amlodipine to increase contractility and reduce afterload"
+        },
+        {
+          "label": "C",
+          "text": "Spironolactone and empagliflozin to block aldosterone and promote natriuresis"
+        },
+        {
+          "label": "D",
+          "text": "Dobutamine and dopamine to increase cardiac contractility and renal perfusion"
+        },
+        {
+          "label": "E",
+          "text": "Hydralazine and isosorbide dinitrate to reduce afterload and preload respectively"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "For patients who cannot tolerate ACE inhibitors or ARBs, the combination of hydralazine (an arteriolar vasodilator reducing afterload) and a nitrate (a venodilator reducing preload) is the recommended second-line alternative.",
+        "whyCorrect": "Nitrates combined with hydralazine are specifically recommended as second-line drugs for patients unresponsive to or who cannot tolerate ACE inhibitors and/or beta-blockers. Hydralazine directly relaxes arterioles to reduce afterload, while nitrates dilate veins to reduce preload, together addressing both hemodynamic goals of HF therapy.",
+        "whyWrongByChoice": {
+          "A": "Non-DHP calcium channel blockers like diltiazem reduce rate and contractility but do not affect the RAAS and lack the reverse-remodeling effects of beta-blockers. They are generally not used in systolic heart failure management.",
+          "B": "While amlodipine can reduce afterload, it does not improve mortality. Digoxin is reserved for when other therapies fail. Neither constitutes the recommended second-line replacement for ACE inhibitors.",
+          "C": "While spironolactone and empagliflozin are valuable components of GDMT, they do not serve as replacements for the afterload and preload reduction provided by ACE inhibitors/ARBs. The patient still needs an agent to fill that role.",
+          "D": "Intravenous inotropes like dobutamine and dopamine are only used for acute decompensated heart failure and cardiogenic shock, not for chronic outpatient heart failure management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "hydralazine",
+        "nitrates"
+      ]
+    },
+    {
+      "id": "ch-083",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 63-year-old man with chronic systolic heart failure (LVEF 25%) on guideline-directed medical therapy is being seen for routine follow-up. He has been on digoxin for symptomatic relief after failing other therapies. He reports seeing yellow halos around lights and experiencing nausea over the past week. His ECG shows new premature ventricular complexes. Which of the following best explains the mechanism by which digoxin produces its therapeutic inotropic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of phosphodiesterase-3, increasing cyclic AMP and intracellular calcium in cardiac myocytes"
+        },
+        {
+          "label": "B",
+          "text": "Direct activation of beta-1 adrenergic receptors, increasing cyclic AMP-mediated calcium release from the sarcoplasmic reticulum"
+        },
+        {
+          "label": "C",
+          "text": "Inhibition of the Na+/K+-ATPase, increasing intracellular sodium and thereby increasing calcium influx via the Na+/Ca2+ exchanger"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of voltage-gated potassium channels, prolonging the action potential and increasing calcium entry during plateau phase"
+        },
+        {
+          "label": "E",
+          "text": "Stimulation of ryanodine receptors on the sarcoplasmic reticulum, directly releasing stored calcium into the cytoplasm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digoxin inhibits the Na+/K+-ATPase on cardiac myocytes, leading to intracellular sodium accumulation. The elevated intracellular sodium reduces the driving force for the Na+/Ca2+ exchanger, resulting in increased intracellular calcium and enhanced contractility.",
+        "whyCorrect": "Digoxin increases cardiac contractility by inhibiting Na+/K+-ATPase activity, which raises intracellular sodium levels. The higher intracellular sodium reduces calcium efflux (or increases calcium influx) through the Na+/Ca2+ antiporter, resulting in increased intracellular calcium available for myocardial contraction.",
+        "whyWrongByChoice": {
+          "A": "Phosphodiesterase-3 inhibition is the mechanism of milrinone, not digoxin. Milrinone is an inodilator used in acute decompensated heart failure.",
+          "B": "Direct beta-1 adrenergic receptor activation describes the mechanism of dobutamine, not digoxin. Digoxin works through Na+/K+-ATPase inhibition, not adrenergic pathways.",
+          "D": "Potassium channel blockade is a mechanism of class III antiarrhythmic drugs like amiodarone. Digoxin's primary mechanism involves Na+/K+-ATPase inhibition.",
+          "E": "Direct stimulation of ryanodine receptors is not the mechanism of digoxin. Digoxin increases intracellular calcium indirectly through Na+/K+-ATPase inhibition and subsequent effects on the Na+/Ca2+ exchanger."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "digoxin",
+        "mechanism-of-action"
+      ]
+    },
+    {
+      "id": "ch-084",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 56-year-old woman presents with progressive exertional dyspnea and lower extremity edema over the past 4 months. Physical examination reveals bilateral rales, an S3 gallop, and 2+ pitting edema. Echocardiography shows an LVEF of 38% with dilated left ventricle. She has no history of diabetes. Her physician starts her on lisinopril, metoprolol succinate, and furosemide. Which of the following additional medications has been shown to reduce heart failure hospitalizations and mortality in this patient regardless of her diabetes status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pioglitazone, a thiazolidinedione insulin sensitizer"
+        },
+        {
+          "label": "B",
+          "text": "Metformin, a biguanide oral hypoglycemic agent"
+        },
+        {
+          "label": "C",
+          "text": "Sitagliptin, a dipeptidyl peptidase-4 inhibitor"
+        },
+        {
+          "label": "D",
+          "text": "Empagliflozin, a sodium-glucose cotransporter-2 inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Glipizide, a sulfonylurea insulin secretagogue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SGLT-2 inhibitors like empagliflozin and dapagliflozin are now foundational therapies for HFrEF regardless of diabetes status, providing significant reductions in heart failure hospitalizations and mortality.",
+        "whyCorrect": "SGLT-2 inhibitors, originally developed for diabetes treatment, have demonstrated significant reductions in heart failure hospitalizations and mortality in patients with HFrEF regardless of whether they have diabetes. They work by inhibiting the sodium-glucose cotransporter-2 in the proximal tubule, resulting in natriuresis, reduced preload and afterload, and favorable effects on cardiac metabolism and remodeling.",
+        "whyWrongByChoice": {
+          "A": "Thiazolidinediones like pioglitazone can actually worsen heart failure by causing fluid retention and are generally contraindicated in patients with heart failure.",
+          "B": "Metformin is a diabetes medication that has not been shown to reduce heart failure hospitalizations or mortality in HFrEF patients. It is not part of heart failure GDMT.",
+          "C": "DPP-4 inhibitors have not demonstrated reductions in heart failure outcomes. Some DPP-4 inhibitors have even raised concerns about increased heart failure hospitalization risk.",
+          "E": "Sulfonylureas like glipizide are diabetes medications with no proven benefit for heart failure outcomes and are not part of heart failure GDMT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "SGLT2-inhibitors",
+        "GDMT"
+      ]
+    },
+    {
+      "id": "ch-085",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 71-year-old man with chronic heart failure (LVEF 26%) on enalapril, carvedilol, and spironolactone presents with gynecomastia and bilateral breast tenderness. He is reluctant to stop his aldosterone antagonist because he understands its mortality benefit. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Discontinue spironolactone and add hydrochlorothiazide for additional diuretic effect"
+        },
+        {
+          "label": "B",
+          "text": "Switch spironolactone to eplerenone, another mineralocorticoid receptor antagonist"
+        },
+        {
+          "label": "C",
+          "text": "Add tamoxifen to counteract the estrogen-like effects of spironolactone on breast tissue"
+        },
+        {
+          "label": "D",
+          "text": "Reduce the dose of carvedilol, as beta-blockers commonly cause gynecomastia through hormonal pathways"
+        },
+        {
+          "label": "E",
+          "text": "Discontinue spironolactone and replace with furosemide to maintain equivalent preload reduction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spironolactone can cause gynecomastia due to its endocrine-related adverse effects. Eplerenone is another MRA that does not carry the risk of gynecomastia in males and can be substituted to maintain the mortality benefit of aldosterone antagonism.",
+        "whyCorrect": "Eplerenone is a more selective mineralocorticoid receptor antagonist that lacks the anti-androgenic and progestational side effects of spironolactone. Switching to eplerenone preserves the proven mortality and morbidity benefits of aldosterone antagonism while eliminating the gynecomastia.",
+        "whyWrongByChoice": {
+          "A": "Hydrochlorothiazide is a thiazide diuretic that does not provide the same mortality benefit as MRAs. Thiazides are generally not potent enough to be routinely useful in heart failure and do not block aldosterone-mediated myocardial fibrosis and remodeling.",
+          "C": "Adding tamoxifen to treat drug-induced gynecomastia is not standard of care when a simple medication substitution (eplerenone) can eliminate the side effect while preserving the therapeutic benefit.",
+          "D": "Gynecomastia is an endocrine-related adverse effect of spironolactone, not carvedilol. While beta-blockers can cause erectile dysfunction, they are not a common cause of gynecomastia.",
+          "E": "Furosemide is a loop diuretic that provides symptomatic preload reduction but does not reduce mortality in heart failure. Replacing spironolactone with furosemide would lose the proven mortality benefit of MRA therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "pharmacology",
+        "spironolactone",
+        "eplerenone",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "ch-086",
+      "topicId": "heart-failure-management",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "A 67-year-old man with newly diagnosed heart failure (LVEF 22%) is admitted to the hospital with acute decompensated systolic heart failure. His blood pressure is 78/52 mmHg and he has signs of cardiogenic shock. Which of the following statements best describes the appropriate initial pharmacologic approach for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start metoprolol succinate immediately because beta-blockers reduce mortality in all forms of heart failure"
+        },
+        {
+          "label": "B",
+          "text": "Start sacubitril/valsartan as first-line therapy to simultaneously reduce preload, afterload, and cardiac remodeling"
+        },
+        {
+          "label": "C",
+          "text": "Start oral digoxin as first-line therapy because inotropic support is the most effective approach for any form of heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Start spironolactone and dapagliflozin together as the initial step since they are both part of guideline-directed medical therapy"
+        },
+        {
+          "label": "E",
+          "text": "Avoid beta-blockers initially and consider intravenous inotropes such as dobutamine to support cardiac output"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In acute decompensated heart failure with cardiogenic shock and hypotension, beta-blockers should be avoided initially because they decrease cardiac output. Intravenous inotropes like dobutamine are used for acute decompensated HF and cardiogenic shock.",
+        "whyCorrect": "Beta-blockers reduce contractility and lower heart rate, which would further compromise cardiac output in a patient with cardiogenic shock and hypotension. Intravenous inotropes such as dobutamine and dopamine are specifically indicated for acute decompensated HF and cardiogenic shock to support cardiac output. The order of medication initiation differs between acute and chronic heart failure.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers should be avoided in patients with cardiogenic shock because their negative inotropic and chronotropic effects would acutely decrease cardiac output and worsen hypotension.",
+          "B": "While sacubitril/valsartan is excellent for chronic HFrEF management, initiating it in a hypotensive patient with cardiogenic shock could dangerously worsen hypotension. Acute stabilization must come first.",
+          "C": "Oral digoxin has a slow onset of action and would not adequately address cardiogenic shock. Additionally, intravenous inotropes (not oral digoxin) are preferred for acute decompensated HF with shock.",
+          "D": "Starting multiple chronic GDMT medications in the setting of cardiogenic shock and severe hypotension is inappropriate. Both spironolactone and dapagliflozin can worsen hypotension, and the acute presentation requires immediate hemodynamic support."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "heart-failure",
+        "acute-decompensated-HF",
+        "cardiogenic-shock",
+        "inotropes"
+      ]
+    }
+  ]
+}

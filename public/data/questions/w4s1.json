@@ -1,0 +1,1832 @@
+{
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "ea-049",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 62-year-old man with a history of coronary artery disease presents to the emergency department with palpitations and lightheadedness that began 2 hours ago. His blood pressure is 98/64 mmHg. An ECG reveals a regular, wide-complex tachycardia at a rate of 180 beats/min. The patient's wife reports that he had a myocardial infarction 3 years ago. Which of the following best describes the site of origin of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The arrhythmia originates at or above the bundle of His with normal ventricular activation"
+        },
+        {
+          "label": "B",
+          "text": "The arrhythmia originates below the bundle of His with abnormal ventricular activation"
+        },
+        {
+          "label": "C",
+          "text": "The arrhythmia originates from the sinoatrial node with compensatory increased rate"
+        },
+        {
+          "label": "D",
+          "text": "The arrhythmia originates from the atrioventricular node with retrograde atrial activation"
+        },
+        {
+          "label": "E",
+          "text": "The arrhythmia originates from the atrial myocardium with aberrant conduction delay"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Wide-complex tachycardia in a patient with prior MI is most consistent with ventricular tachycardia, which originates below the bundle of His.",
+        "whyCorrect": "Ventricular arrhythmias arise below the bundle of His and produce wide, abnormal QRS complexes due to the abnormal ventricular activation sequence. A history of structural heart disease (prior MI) makes ventricular tachycardia the most likely diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Supraventricular tachycardias originate at or above the bundle of His and typically produce narrow QRS complexes, not the wide-complex pattern seen here.",
+          "C": "Sinus tachycardia originates from the SA node and produces narrow QRS complexes; it is a compensatory response to underlying conditions rather than a primary wide-complex arrhythmia.",
+          "D": "AV nodal reentrant tachycardia is a supraventricular arrhythmia that typically produces narrow QRS complexes, inconsistent with the wide-complex pattern described.",
+          "E": "While atrial arrhythmias with aberrant conduction can produce wide complexes, the history of prior MI and structural heart disease makes ventricular tachycardia far more likely than an atrial origin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "ventricular-tachycardia",
+        "site-of-origin",
+        "ECG-interpretation",
+        "wide-complex-tachycardia"
+      ]
+    },
+    {
+      "id": "ea-050",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 48-year-old woman is brought to the emergency department after a witnessed syncopal episode. She has been taking methadone for chronic pain. Her ECG shows a polymorphic ventricular tachycardia with a twisting morphology of the QRS complexes around the baseline. A prior ECG from 1 month ago showed a prolonged QT interval. Which of the following mechanisms most likely underlies this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed afterdepolarizations caused by intracellular calcium overload from adrenergic excess"
+        },
+        {
+          "label": "B",
+          "text": "Reentry circuit formation due to two adjacent pathways with different conduction velocities"
+        },
+        {
+          "label": "C",
+          "text": "Early afterdepolarizations caused by prolonged action potential duration and QT prolongation"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced automaticity in the sinoatrial node due to sympathetic nervous system activation"
+        },
+        {
+          "label": "E",
+          "text": "Decreased automaticity in the atrioventricular node due to parasympathetic nervous system tone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Torsades de pointes in the setting of drug-induced QT prolongation is caused by early afterdepolarizations (EADs).",
+        "whyCorrect": "Early afterdepolarizations (EADs) result from prolonged action potential duration and QT prolongation. Methadone is known to prolong the QT interval. EADs interrupt phases 2 or 3 of the action potential and can trigger polymorphic ventricular tachycardia (torsades de pointes).",
+        "whyWrongByChoice": {
+          "A": "Delayed afterdepolarizations (DADs) are caused by intracellular calcium overload, as seen in digoxin toxicity and adrenergic excess, not by QT prolongation. This mechanism does not explain the prolonged QT interval seen here.",
+          "B": "Reentry circuits require two adjacent pathways with different conduction velocities and a unidirectional block; while reentry can cause tachycardia, the QT prolongation and triggered activity mechanism are more consistent with the clinical presentation.",
+          "D": "Enhanced automaticity in the SA node would produce sinus tachycardia with narrow complexes, not polymorphic ventricular tachycardia with QT prolongation.",
+          "E": "Decreased automaticity causes bradycardia and would not produce the polymorphic ventricular tachycardia described in this scenario."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "triggered-activity",
+        "early-afterdepolarizations",
+        "QT-prolongation",
+        "torsades-de-pointes"
+      ]
+    },
+    {
+      "id": "ea-051",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 30-year-old woman presents with recurrent episodes of sudden-onset palpitations that resolve abruptly. During an episode, her ECG shows a narrow-complex tachycardia at 170 beats/min with no visible P waves. Vagal maneuvers terminate the arrhythmia. Electrophysiologic studies reveal two functional pathways within the AV node with different conduction velocities. Which of the following is a required condition for the initiation of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A premature atrial contraction occurring when the fast pathway is in its refractory period"
+        },
+        {
+          "label": "B",
+          "text": "An accessory pathway of myocardium connecting the atria directly to the ventricles"
+        },
+        {
+          "label": "C",
+          "text": "Progressive prolongation of conduction time through the atrioventricular node"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the sinoatrial node impulse to spread to the surrounding atrial myocardium"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced automaticity of an ectopic focus located below the bundle of His region"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AVNRT is initiated when a premature atrial contraction finds the fast pathway refractory, forcing conduction down the slow pathway and establishing a reentry circuit.",
+        "whyCorrect": "In AV nodal reentrant tachycardia (AVNRT), a premature beat arrives when the fast pathway's absolute refractory period has not yet expired. The impulse travels down the slow pathway instead; by the time it reaches the distal AV node, the fast pathway has recovered, allowing retrograde conduction back to the atria, establishing the reentry loop.",
+        "whyWrongByChoice": {
+          "B": "An accessory pathway connecting atria and ventricles is the hallmark of Wolff-Parkinson-White syndrome, not AVNRT. AVNRT involves dual pathways within the AV node itself.",
+          "C": "Progressive prolongation of conduction time describes the Wenckebach phenomenon (Mobitz type I second-degree AV block), not the initiation of a reentrant tachycardia.",
+          "D": "Failure of the SA node impulse to spread to surrounding myocardium describes SA exit block, which causes pauses rather than tachycardia.",
+          "E": "Enhanced automaticity of an ectopic ventricular focus would produce a wide-complex tachycardia, not the narrow-complex reentrant tachycardia described here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "AVNRT",
+        "reentry",
+        "premature-atrial-contraction",
+        "refractory-period"
+      ]
+    },
+    {
+      "id": "ea-052",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 72-year-old man with a history of heart failure is brought to the emergency department with confusion and nausea. He takes digoxin, furosemide, and lisinopril. His serum potassium is 2.8 mEq/L. ECG shows frequent premature ventricular contractions with occasional bigeminy. Which of the following best explains the mechanism by which this patient's electrolyte abnormality contributes to his arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypokalemia decreases the resting membrane potential, reducing conduction velocity throughout the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Hypokalemia enhances vagal tone at the sinoatrial node, causing decreased automaticity and bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Hypokalemia increases the risk of digoxin toxicity, which causes arrhythmias via intracellular calcium overload"
+        },
+        {
+          "label": "D",
+          "text": "Hypokalemia directly activates the sympathetic nervous system, causing enhanced automaticity in the ventricles"
+        },
+        {
+          "label": "E",
+          "text": "Hypokalemia shortens the action potential duration, reducing the absolute refractory period of cardiac cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypokalemia increases the risk of digoxin toxicity, which causes arrhythmias through delayed afterdepolarizations from intracellular calcium overload.",
+        "whyCorrect": "Digoxin toxicity is a well-known cause of arrhythmias, particularly in the setting of hypokalemia. Potassium and digoxin compete for binding sites on the Na+/K+ ATPase; hypokalemia increases digoxin's effect, leading to intracellular calcium overload and delayed afterdepolarizations (DADs), which trigger premature ventricular contractions.",
+        "whyWrongByChoice": {
+          "A": "While hypokalemia affects the membrane potential, the primary mechanism of arrhythmia in this patient is digoxin toxicity potentiated by hypokalemia, not a direct effect on conduction velocity.",
+          "B": "Hypokalemia does not enhance vagal tone; this mechanism does not explain the premature ventricular contractions seen in this patient taking digoxin.",
+          "D": "While sympathetic activation can cause enhanced automaticity, the clinical scenario with digoxin use and hypokalemia points to digoxin toxicity as the primary mechanism rather than direct sympathetic activation.",
+          "E": "Hypokalemia actually prolongs the action potential duration rather than shortening it, and this is not the primary mechanism of arrhythmia in a patient with digoxin toxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "digoxin-toxicity",
+        "hypokalemia",
+        "delayed-afterdepolarizations",
+        "PVCs"
+      ]
+    },
+    {
+      "id": "ea-053",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 22-year-old man presents for evaluation of palpitations. His ECG in sinus rhythm shows a shortened PR interval and a delta wave at the onset of the QRS complex. He is told he has a congenital cardiac condition. Which of the following best describes the anatomical basis of this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incomplete formation of the AV valve ring insulators allowing a strip of myocardium to bypass the AV junction"
+        },
+        {
+          "label": "B",
+          "text": "Dual pathways within the atrioventricular node with differing conduction velocities and refractory periods"
+        },
+        {
+          "label": "C",
+          "text": "Fibrosis and degeneration of the sinoatrial node with failure to generate spontaneous action potentials"
+        },
+        {
+          "label": "D",
+          "text": "Abnormal gap junctions between ventricular myocytes creating zones of slow conduction and unidirectional block"
+        },
+        {
+          "label": "E",
+          "text": "Congenital absence of the right or left bundle branch causing sequential rather than parallel ventricular activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Wolff-Parkinson-White syndrome is caused by an accessory pathway (Kent bundle) resulting from incomplete formation of the AV valve ring insulators.",
+        "whyCorrect": "WPW occurs in about 1:5000 people. It is a congenital defect in which the AV valve ring insulators are incompletely formed, allowing a strip of myocardium (the accessory pathway or Kent bundle) to connect the atria and ventricles directly, bypassing the AV junction. This produces the characteristic short PR interval and delta wave on ECG.",
+        "whyWrongByChoice": {
+          "B": "Dual pathways within the AV node describe the substrate for AVNRT, not WPW. WPW involves an accessory pathway outside the AV node connecting atria and ventricles.",
+          "C": "SA node fibrosis causes sinus node dysfunction and bradycardia, not the pre-excitation pattern with delta waves seen in WPW.",
+          "D": "Abnormal gap junctions creating zones of slow conduction describe a substrate for ventricular reentry tachycardia, not the congenital accessory pathway seen in WPW.",
+          "E": "Congenital absence of a bundle branch would cause a bundle branch block pattern with wide QRS, not the shortened PR interval and delta wave characteristic of WPW."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "WPW",
+        "accessory-pathway",
+        "Kent-bundle",
+        "pre-excitation"
+      ]
+    },
+    {
+      "id": "ea-054",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 58-year-old woman with no prior cardiac history presents to the clinic for evaluation of intermittent dizziness over the past month. She reports occasional near-syncope when rising from bed in the morning. Her heart rate is 48 beats/min at rest. She takes no medications. Thyroid function tests are normal. ECG shows a regular rhythm with normal P waves preceding each QRS complex. Which of the following best describes the mechanism of her bradycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reentry circuit within the atrioventricular node causing repetitive retrograde activation of the atria"
+        },
+        {
+          "label": "B",
+          "text": "Triggered activity from delayed afterdepolarizations due to intracellular calcium overload in SA nodal cells"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced automaticity of a subsidiary pacemaker focus in the ventricles usurping SA nodal function"
+        },
+        {
+          "label": "D",
+          "text": "Conduction block at the level of the bundle of His preventing atrial impulses from reaching the ventricles"
+        },
+        {
+          "label": "E",
+          "text": "Decreased rate of spontaneous action potential generation by the sinoatrial node below the normal range"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sinus bradycardia results from decreased automaticity of the SA node, producing a slow heart rate with preserved normal conduction.",
+        "whyCorrect": "Decreased automaticity refers to a decreased rate of action potential generation by the SA node, resulting in a heart rate less than 60 bpm. The ECG shows P waves preceding each QRS, confirming sinus origin. Causes include pathologic conditions such as ischemic heart disease or cardiomyopathy.",
+        "whyWrongByChoice": {
+          "A": "Reentry within the AV node causes tachycardia (AVNRT), not bradycardia. Reentry is a mechanism for tachyarrhythmias.",
+          "B": "Delayed afterdepolarizations cause triggered tachyarrhythmias, not bradycardia. They are associated with digoxin toxicity and adrenergic excess.",
+          "C": "Enhanced automaticity of a subsidiary pacemaker would produce an accelerated junctional or ventricular rhythm, not sinus bradycardia with normal P waves before each QRS.",
+          "D": "AV conduction block would show either prolonged PR intervals, dropped beats, or AV dissociation. The presence of normal P waves preceding each QRS makes conduction block unlikely."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "sinus-bradycardia",
+        "decreased-automaticity",
+        "SA-node",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "ea-055",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 56-year-old man with hypertension presents with palpitations. His heart rate is 112 beats/min and irregularly irregular. He takes hydrochlorothiazide. He denies chest pain or syncope but reports occasional dizziness. His blood pressure is 134/82 mmHg. ECG confirms the suspected diagnosis. In addition to rate control with a beta-blocker, which of the following is most important to initiate in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A calcium-channel blocker to restore the resting membrane potential of atrial myocytes to baseline"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin therapy to suppress the enhanced automaticity of the ectopic atrial pacemaker focus"
+        },
+        {
+          "label": "C",
+          "text": "Anticoagulant therapy to prevent thromboembolic events associated with the underlying rhythm"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous atropine to block parasympathetic input and increase sinoatrial node automaticity"
+        },
+        {
+          "label": "E",
+          "text": "Immediate electrical cardioversion to terminate the arrhythmia before hemodynamic compromise"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Atrial fibrillation with an irregularly irregular rhythm requires anticoagulant therapy to prevent embolic strokes in addition to rate control.",
+        "whyCorrect": "This patient's presentation matches the case connection in the source material: atrial fibrillation diagnosed by an irregularly irregular rhythm. Treatment includes a beta-blocker for rate control and anticoagulant therapy to prevent embolic strokes, which is the most important additional intervention.",
+        "whyWrongByChoice": {
+          "A": "While calcium-channel blockers can be used for rate control in atrial fibrillation, the question asks what is most important to add beyond rate control; anticoagulation to prevent stroke takes priority.",
+          "B": "Digoxin can be used for rate control but does not address the critical need for stroke prevention through anticoagulation in atrial fibrillation.",
+          "D": "Atropine increases heart rate by blocking vagal tone and is used for symptomatic bradycardia, not for a patient already tachycardic with atrial fibrillation.",
+          "E": "The patient is hemodynamically stable with a blood pressure of 134/82 mmHg and no syncope or chest pain, so immediate cardioversion is not warranted."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "atrial-fibrillation",
+        "anticoagulation",
+        "stroke-prevention",
+        "rate-control"
+      ]
+    },
+    {
+      "id": "ea-056",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A researcher is studying the ventricular cardiac action potential in isolated myocytes. She applies a drug that blocks L-type voltage-gated calcium channels. Which of the following phases of the cardiac action potential would be most directly affected by this intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase 0, because blocking calcium channels would prevent the rapid depolarization mediated by sodium influx"
+        },
+        {
+          "label": "B",
+          "text": "Phase 1, because blocking calcium channels would eliminate the transient outward potassium current notch"
+        },
+        {
+          "label": "C",
+          "text": "Phase 2, because blocking calcium channels would disrupt the sustained inward calcium current of the plateau"
+        },
+        {
+          "label": "D",
+          "text": "Phase 3, because blocking calcium channels would prevent the delayed rectifier potassium efflux during repolarization"
+        },
+        {
+          "label": "E",
+          "text": "Phase 4, because blocking calcium channels would abolish the resting membrane potential maintained by potassium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "L-type calcium channels are responsible for the sustained calcium influx during Phase 2 (plateau phase) of the ventricular action potential.",
+        "whyCorrect": "During Phase 2, L-type voltage-gated calcium channels open, permitting sustained Ca2+ influx (ICa-L) into the cell. This inward calcium current is balanced by outward potassium currents, creating the prolonged plateau. Blocking these channels would directly disrupt the plateau phase.",
+        "whyWrongByChoice": {
+          "A": "Phase 0 rapid depolarization is mediated by fast voltage-gated sodium channels (INa), not calcium channels. Blocking calcium channels would not directly affect this phase.",
+          "B": "Phase 1 early repolarization involves transient outward potassium channels (Ito) and sodium channel inactivation, not L-type calcium channels.",
+          "D": "Phase 3 repolarization is driven by delayed rectifier potassium channels (IKr and IKs) with calcium channels closing; the primary effect of blocking calcium channels is on Phase 2, not Phase 3.",
+          "E": "Phase 4 resting membrane potential is maintained by inwardly rectifying potassium channels (IK1), not by calcium channels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiac-action-potential",
+        "L-type-calcium-channels",
+        "phase-2",
+        "plateau-phase",
+        "ion-channels"
+      ]
+    },
+    {
+      "id": "ea-057",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 45-year-old man is admitted to the intensive care unit for septic shock and is started on norepinephrine. Two hours later, he develops a sustained tachycardia at 140 beats/min with normal-appearing QRS complexes. Which of the following best explains the mechanism of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conduction block in the bundle branches preventing normal impulse propagation to the ventricles"
+        },
+        {
+          "label": "B",
+          "text": "Reentry circuit establishment in the atrioventricular node due to dual pathway conduction properties"
+        },
+        {
+          "label": "C",
+          "text": "Early afterdepolarizations triggered by drug-induced prolongation of the ventricular action potential"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced automaticity of cardiac conduction tissues stimulated by sympathomimetic drug administration"
+        },
+        {
+          "label": "E",
+          "text": "Decreased automaticity of the sinoatrial node resulting from parasympathetic nervous system activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Norepinephrine, a sympathomimetic agent used in the ICU, enhances automaticity of cardiac tissues, leading to tachycardia.",
+        "whyCorrect": "Enhanced normal automaticity can occur in both muscle and conduction tissues in the heart when cells respond to sympathetic stimulation. ICU drugs such as norepinephrine, dopamine, and dobutamine are specifically cited as causes of enhanced automaticity leading to tachycardia.",
+        "whyWrongByChoice": {
+          "A": "Conduction block causes bradyarrhythmias, not the tachycardia seen in this patient. Bundle branch block would also produce wide QRS complexes.",
+          "B": "While AVNRT involves dual pathways in the AV node, the clinical context of a patient on norepinephrine in septic shock makes enhanced automaticity from sympathomimetic stimulation far more likely.",
+          "C": "Early afterdepolarizations are associated with QT prolongation and hypokalemia, not with norepinephrine administration. EADs would be expected to produce polymorphic ventricular tachycardia.",
+          "E": "Decreased automaticity would produce bradycardia, the opposite of the tachycardia observed. Parasympathetic activation slows the heart rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "enhanced-automaticity",
+        "norepinephrine",
+        "sympathomimetic",
+        "ICU"
+      ]
+    },
+    {
+      "id": "ea-058",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 38-year-old woman with Graves disease presents with chest pain, diaphoresis, and palpitations. Her heart rate is 162 beats/min and irregularly irregular. ECG confirms a supraventricular tachyarrhythmia. Echocardiography is scheduled for further evaluation. Which of the following best explains why echocardiography is indicated in the workup of this patient's arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echocardiography can measure serum thyroid hormone levels that are responsible for the increased heart rate"
+        },
+        {
+          "label": "B",
+          "text": "Echocardiography can identify the specific ion channel mutations responsible for the triggering mechanism"
+        },
+        {
+          "label": "C",
+          "text": "Echocardiography can detect structural and functional abnormalities such as cardiomyopathy or valve disease"
+        },
+        {
+          "label": "D",
+          "text": "Echocardiography can directly visualize the reentry circuit within the atrioventricular node on imaging"
+        },
+        {
+          "label": "E",
+          "text": "Echocardiography can differentiate between early and delayed afterdepolarizations by measuring wall motion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Echocardiography is indicated in arrhythmia evaluation to identify structural and functional cardiac abnormalities that may be causing or contributing to the arrhythmia.",
+        "whyCorrect": "Echocardiography can identify structural and functional abnormalities that may be causing an arrhythmia, such as cardiomyopathy, valve disease, or a cardiac tumor. In a patient with hyperthyroidism and an arrhythmia, identifying structural changes is important for management.",
+        "whyWrongByChoice": {
+          "A": "Echocardiography is a cardiac imaging modality, not a blood test. Thyroid hormone levels are measured through serum laboratory studies.",
+          "B": "Ion channel mutations are identified through genetic testing, not echocardiography. Echocardiography evaluates cardiac structure and function.",
+          "D": "Reentry circuits within the AV node are too small to be visualized on echocardiography. Electrophysiology studies are used to map reentry circuits.",
+          "E": "Afterdepolarizations are electrical phenomena at the cellular level and cannot be differentiated by echocardiographic wall motion assessment."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "echocardiography",
+        "investigation",
+        "structural-heart-disease",
+        "hyperthyroidism"
+      ]
+    },
+    {
+      "id": "ea-059",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 70-year-old man with chronic heart failure and atrial fibrillation is being treated with digoxin. He is hospitalized for pneumonia and develops vomiting and diarrhea. Laboratory values reveal a potassium of 2.9 mEq/L. His ECG now shows a new arrhythmia with frequent ectopic beats. The attending physician suspects digoxin toxicity as the cause. Which type of triggered activity is most likely responsible for this patient's arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early afterdepolarizations interrupting phase 2 of the action potential due to QT prolongation"
+        },
+        {
+          "label": "B",
+          "text": "Early afterdepolarizations interrupting phase 3 of the action potential due to hypokalemia"
+        },
+        {
+          "label": "C",
+          "text": "Delayed afterdepolarizations occurring after full repolarization due to intracellular calcium overload"
+        },
+        {
+          "label": "D",
+          "text": "Decreased automaticity of the sinoatrial node due to enhanced parasympathetic output to the heart"
+        },
+        {
+          "label": "E",
+          "text": "Reentry circuit formation in the bundle of His due to unidirectional conduction block from ischemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digoxin toxicity causes arrhythmias through delayed afterdepolarizations (DADs) resulting from intracellular calcium overload.",
+        "whyCorrect": "Delayed afterdepolarizations (DADs) occur after full repolarization (phase 4) and are caused by increased intracellular calcium overload. Digoxin toxicity is a classic etiology of DADs, along with adrenergic excess and ischemia.",
+        "whyWrongByChoice": {
+          "A": "Early afterdepolarizations in phase 2 are associated with QT prolongation syndromes and hypokalemia, not specifically with digoxin toxicity. Digoxin toxicity characteristically causes DADs.",
+          "B": "While hypokalemia can contribute to EADs, the primary mechanism of digoxin-induced arrhythmias is delayed afterdepolarizations from calcium overload, not early afterdepolarizations.",
+          "D": "Decreased SA node automaticity causes bradycardia, not the ectopic beats described. While digoxin does increase vagal tone, the arrhythmia described is caused by triggered activity.",
+          "E": "Reentry is a distinct mechanism from triggered activity. The clinical scenario with digoxin toxicity and hypokalemia specifically points to delayed afterdepolarizations as the mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "digoxin-toxicity",
+        "delayed-afterdepolarizations",
+        "triggered-activity",
+        "calcium-overload"
+      ]
+    },
+    {
+      "id": "ea-060",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 65-year-old man with a history of anterior wall myocardial infarction presents with sustained palpitations. His ECG shows a monomorphic wide-complex tachycardia at 200 beats/min. Which of the following best explains why this patient is at higher risk for hemodynamic instability compared to a patient with a supraventricular tachycardia at the same rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The abnormal ventricular activation sequence reduces cardiac output and he likely has structural disease limiting compensation"
+        },
+        {
+          "label": "B",
+          "text": "The narrow QRS complex seen in his arrhythmia indicates that ventricular filling time is critically shortened"
+        },
+        {
+          "label": "C",
+          "text": "The arrhythmia increases parasympathetic tone to the heart, which further decreases the sinoatrial node rate"
+        },
+        {
+          "label": "D",
+          "text": "The supraventricular origin of his arrhythmia prevents normal atrial contraction from contributing to ventricular output"
+        },
+        {
+          "label": "E",
+          "text": "The prolonged refractory period associated with his arrhythmia prevents rescue pacemaker activation in the ventricles"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ventricular tachycardia is generally worse than SVT because the abnormal activation sequence impairs cardiac function and it occurs more often in patients with structural heart disease who cannot compensate.",
+        "whyCorrect": "Ventricular tachycardia is more common in patients with structural heart disease (like prior MI) and therefore reduced ability to compensate hemodynamically. Additionally, the abnormal activation sequence in the ventricles further impairs cardiac output.",
+        "whyWrongByChoice": {
+          "B": "This patient has a wide-complex tachycardia, not a narrow QRS. The wide QRS is characteristic of ventricular origin, not supraventricular.",
+          "C": "Tachyarrhythmias do not increase parasympathetic tone. The hemodynamic instability results from the abnormal ventricular activation and underlying structural disease.",
+          "D": "This patient has a ventricular tachycardia, not a supraventricular arrhythmia. The question asks why VT is worse than SVT at the same rate.",
+          "E": "The hemodynamic instability in VT is due to the abnormal activation sequence and structural heart disease, not due to prevention of rescue pacemaker activation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "ventricular-tachycardia",
+        "hemodynamic-instability",
+        "structural-heart-disease",
+        "cardiac-output"
+      ]
+    },
+    {
+      "id": "ea-061",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 50-year-old man with a history of well-controlled hypertension presents to the emergency department after a syncopal episode while mowing the lawn. He reports no preceding palpitations but recalls suddenly feeling lightheaded before losing consciousness. He recovered spontaneously within seconds. His resting heart rate is 52 beats/min with a regular rhythm. He takes atenolol 100 mg daily. Which of the following is the most likely mechanism of his presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced automaticity of an ectopic ventricular focus producing ultra-fast ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Triggered activity from early afterdepolarizations interrupting phase 2 of the ventricular action potential"
+        },
+        {
+          "label": "C",
+          "text": "Reentry circuit in the atrioventricular node causing paroxysmal supraventricular tachycardia with syncope"
+        },
+        {
+          "label": "D",
+          "text": "Medication-induced decreased automaticity of the sinoatrial node resulting in insufficient cardiac output"
+        },
+        {
+          "label": "E",
+          "text": "Accessory pathway conduction causing rapid ventricular response during a paroxysm of atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Beta-blockers such as atenolol decrease SA node automaticity, causing bradycardia that can reduce cardiac output sufficiently to cause syncope, especially during exertion.",
+        "whyCorrect": "Decreased automaticity can be medication-induced, with beta-blockers specifically cited as a cause. Atenolol reduces SA node automaticity, resulting in bradycardia (52 bpm at rest). During exertion, the inability to adequately increase heart rate limits cardiac output, potentially causing syncope.",
+        "whyWrongByChoice": {
+          "A": "Enhanced automaticity would produce tachycardia, not the bradycardia observed. There is no evidence of ventricular tachycardia on his resting ECG.",
+          "B": "Early afterdepolarizations are associated with QT prolongation and produce polymorphic ventricular tachycardia, not the bradycardia-related syncope seen here.",
+          "C": "AVNRT would produce rapid heart rates and palpitations, which the patient did not report. His resting bradycardia on a beta-blocker is the more likely cause.",
+          "E": "There is no history suggesting WPW or accessory pathway, and the patient's bradycardia on a beta-blocker is a more straightforward explanation for exertional syncope."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "decreased-automaticity",
+        "beta-blocker",
+        "syncope",
+        "bradycardia"
+      ]
+    },
+    {
+      "id": "ea-062",
+      "topicId": "arrhythmias-pathophys-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "A 55-year-old man presents with recurrent episodes of rapid palpitations. During an episode, his ECG shows a regular tachycardia at 150 beats/min with a sawtooth pattern of atrial activity. Electrophysiology study reveals a macro-reentrant circuit in the right atrium. Which of the following features is NOT a required element for the establishment of a reentry circuit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two adjacent electrical pathways with different conduction velocities within the cardiac tissue"
+        },
+        {
+          "label": "B",
+          "text": "A premature action potential, frequently called an extrasystole, that initiates the circuit"
+        },
+        {
+          "label": "C",
+          "text": "A temporary conduction block in one of the pathways allowing unidirectional propagation"
+        },
+        {
+          "label": "D",
+          "text": "An area of enhanced automaticity in the sinoatrial node that increases the resting heart rate"
+        },
+        {
+          "label": "E",
+          "text": "A leading edge and trailing tail of depolarization that can self-perpetuate in rapid fashion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enhanced SA node automaticity is not a required element for reentry; the three requirements are dual pathways with different conduction velocities, a premature beat, and temporary unidirectional block.",
+        "whyCorrect": "The source material specifies three common features of all reentrant circuits: two adjacent pathways with different conduction velocities, a premature action potential (extrasystole) to initiate the circuit, and a temporary conduction block in one pathway. Enhanced automaticity is a separate arrhythmia mechanism, not a component of reentry.",
+        "whyWrongByChoice": {
+          "A": "Two adjacent pathways with different conduction velocities (one fast and one slow) is explicitly listed as one of the three required features of all reentrant circuits.",
+          "B": "A premature action potential (extrasystole) is required to initiate the reentrant circuit by arriving when one pathway is refractory.",
+          "C": "A temporary conduction block in one of the pathways is essential because it allows the impulse to travel down one pathway while the other recovers, establishing the circuit.",
+          "E": "A self-perpetuating leading edge and trailing tail of depolarization is the result of the three conditions being met and describes how the reentrant tachycardia sustains itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "arrhythmias",
+        "reentry",
+        "atrial-flutter",
+        "macro-reentry",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "cv-001",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 62-year-old man with a history of recurrent ventricular tachycardia is started on a new antiarrhythmic medication. Two weeks later, he presents to his primary care physician complaining of joint pain, a facial rash, and pleuritic chest pain. Laboratory studies reveal positive antihistone antibodies. Which of the following medications was most likely prescribed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Procainamide"
+        },
+        {
+          "label": "B",
+          "text": "Quinidine"
+        },
+        {
+          "label": "C",
+          "text": "Disopyramide"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Lidocaine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Procainamide, a class IA antiarrhythmic, is well-known for causing drug-induced lupus characterized by rash, joint pain, pleuritis, and antihistone antibodies. The syndrome is reversible upon drug discontinuation.",
+        "whyCorrect": "Procainamide causes drug-induced lupus presenting with arthralgia, facial rash, pleuritis, and positive antihistone antibodies. This is a classic and well-recognized adverse effect of this class IA agent.",
+        "whyWrongByChoice": {
+          "B": "Quinidine causes cinchonism (tinnitus, blurry vision, GI symptoms) and quinidine syncope from self-terminating torsades de pointes, but is not associated with drug-induced lupus or antihistone antibodies.",
+          "C": "Disopyramide causes anticholinergic effects (dry mouth, urinary retention, constipation) and heart failure due to decreased cardiac contractility, but does not cause drug-induced lupus.",
+          "D": "Flecainide is a class IC agent that causes visual disturbances and dizziness and is contraindicated in structural heart disease; it is not associated with drug-induced lupus.",
+          "E": "Lidocaine is a class IB agent that causes CNS effects such as perioral numbness, paresthesias, confusion, and seizures, but does not cause drug-induced lupus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IA",
+        "procainamide",
+        "drug-induced-lupus",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cv-002",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 58-year-old woman with a history of paroxysmal atrial fibrillation and no structural heart disease is started on flecainide for rhythm control. Her cardiologist also prescribes metoprolol. Which of the following best explains why a rate-controlling agent is co-prescribed with flecainide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To prevent QT prolongation caused by flecainide's potassium channel blockade"
+        },
+        {
+          "label": "B",
+          "text": "To reduce the risk of drug-induced lupus associated with class IC agents"
+        },
+        {
+          "label": "C",
+          "text": "To prevent tachycardia-induced increased channel blockade and toxicity from use dependence"
+        },
+        {
+          "label": "D",
+          "text": "To counteract the negative inotropic effects of flecainide on cardiac myocytes"
+        },
+        {
+          "label": "E",
+          "text": "To decrease first-pass hepatic metabolism of flecainide and maintain therapeutic levels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Class IC drugs like flecainide exhibit the strongest use dependence among class I agents. At faster heart rates, these drugs have less time to dissociate from sodium channels, leading to increased blockade and greater potential for toxicity.",
+        "whyCorrect": "Use dependence means that at higher heart rates, class IC drugs dissociate less from Na+ channels, resulting in increased channel blockade and heightened drug effect with greater toxicity potential. Co-prescribing a rate-lowering agent prevents tachycardia and mitigates this risk.",
+        "whyWrongByChoice": {
+          "A": "Flecainide does not block potassium channels and does not prolong the QT interval. The QT interval is unchanged because the action potential duration is unaffected by class IC drugs.",
+          "B": "Drug-induced lupus is associated with procainamide (a class IA agent), not with class IC agents like flecainide.",
+          "D": "While propafenone (another class IC agent) can cause heart failure, the primary reason for co-prescribing a rate-controlling agent is to prevent use dependence, not to counteract negative inotropy.",
+          "E": "Metoprolol does not reduce first-pass hepatic metabolism of flecainide. Flecainide is metabolized by CYP2D6, and the rationale for co-prescription is related to use dependence."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IC",
+        "flecainide",
+        "use-dependence",
+        "mechanism-of-action"
+      ]
+    },
+    {
+      "id": "cv-003",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 70-year-old man with a recent anterior wall myocardial infarction develops recurrent episodes of ventricular tachycardia in the cardiac care unit. The cardiology team decides to start an antiarrhythmic agent that selectively targets inactivated sodium channels in ischemic myocardium. Which of the following agents is most appropriate for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quinidine"
+        },
+        {
+          "label": "B",
+          "text": "Flecainide"
+        },
+        {
+          "label": "C",
+          "text": "Propafenone"
+        },
+        {
+          "label": "D",
+          "text": "Mexiletine"
+        },
+        {
+          "label": "E",
+          "text": "Disopyramide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Class IB agents like mexiletine and lidocaine are most selective for inactivated sodium channels found in ischemic myocardium, making them the drugs of choice for ventricular arrhythmias occurring after myocardial infarction.",
+        "whyCorrect": "Mexiletine is a class IB agent that preferentially binds to sodium channels in their inactivated state. Ischemic myocardium has more inactivated Na+ channels than normal tissue, making class IB drugs the preferred choice for post-MI ventricular arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "Quinidine is a class IA agent that blocks open Na+ channels and also blocks K+ channels, prolonging the action potential. It does not selectively target inactivated channels in ischemic tissue.",
+          "B": "Flecainide is a class IC agent that is contraindicated in patients with structural heart disease or myocardial ischemia because it can paradoxically provoke arrhythmias by being more active in normal tissue than in ischemic areas.",
+          "C": "Propafenone is a class IC agent similarly contraindicated in post-MI patients because of the risk of proarrhythmia in the setting of structural heart disease and ischemia.",
+          "E": "Disopyramide is a class IA agent that blocks open Na+ channels and K+ channels. It can also decrease cardiac contractility and cause heart failure, making it a poor choice in acute MI."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IB",
+        "mexiletine",
+        "myocardial-infarction",
+        "ischemia"
+      ]
+    },
+    {
+      "id": "cv-004",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 55-year-old woman is being treated with a class IA antiarrhythmic for supraventricular tachycardia. She develops dry mouth, difficulty urinating, and constipation. An echocardiogram reveals a new decline in ejection fraction to 35%. Which of the following drugs is most likely responsible for these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Procainamide"
+        },
+        {
+          "label": "B",
+          "text": "Quinidine"
+        },
+        {
+          "label": "C",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "D",
+          "text": "Propafenone"
+        },
+        {
+          "label": "E",
+          "text": "Disopyramide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Disopyramide has significant anticholinergic activity causing dry mouth, urinary retention, and constipation. It also decreases cardiac contractility, which can lead to heart failure with reduced ejection fraction.",
+        "whyCorrect": "Disopyramide is the only class IA agent with significant anticholinergic effects (xerostomia, urinary retention, constipation) and negative inotropic properties that can reduce cardiac output and precipitate heart failure.",
+        "whyWrongByChoice": {
+          "A": "Procainamide is associated with drug-induced lupus (arthralgia, rash, pleuritis with antihistone antibodies), hypotension, and ventricular arrhythmias, but not with anticholinergic effects or decreased cardiac contractility.",
+          "B": "Quinidine causes cinchonism (facial flushing, tinnitus, GI symptoms, blurry vision) and quinidine syncope from torsades de pointes, but does not have prominent anticholinergic effects or significant negative inotropy.",
+          "C": "Lidocaine is a class IB agent primarily causing CNS effects such as perioral numbness, paresthesias, confusion, and seizures. It is not associated with anticholinergic effects.",
+          "D": "Propafenone is a class IC agent that can cause heart failure and bradycardia but does not exhibit the anticholinergic side effect profile described in this patient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IA",
+        "disopyramide",
+        "anticholinergic",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "cv-005",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 48-year-old man with Wolff-Parkinson-White syndrome is started on quinidine to control recurrent episodes of supraventricular tachycardia. Three days later, he experiences a sudden syncopal episode while at home. His wife calls 911, and a rhythm strip in the ambulance reveals a polymorphic ventricular tachycardia with a twisting QRS complex around the isoelectric line. Which of the following best explains the underlying mechanism of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive sodium channel blockade causing marked QRS widening and reentrant ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Potassium channel blockade leading to prolonged QT interval and early afterdepolarizations"
+        },
+        {
+          "label": "C",
+          "text": "Anticholinergic effects causing reflex tachycardia and myocardial oxygen demand mismatch"
+        },
+        {
+          "label": "D",
+          "text": "Beta-adrenergic receptor blockade causing severe bradycardia and escape rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Calcium channel blockade in nodal cells causing prolonged AV conduction and junctional tachycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Quinidine syncope results from self-terminating torsades de pointes caused by the drug's potassium channel blocking effects, which prolong the QT interval and create vulnerability to early afterdepolarizations.",
+        "whyCorrect": "Class IA agents like quinidine block both Na+ and K+ channels. The K+ channel blockade prolongs repolarization (phase 3), extending the QT interval. This APD prolongation creates vulnerability to early afterdepolarizations (EADs) that can trigger torsades de pointes, especially at slow heart rates.",
+        "whyWrongByChoice": {
+          "A": "While quinidine does block Na+ channels causing QRS widening, the polymorphic ventricular tachycardia with twisting morphology (torsades de pointes) is specifically related to QT prolongation from K+ channel blockade, not from Na+ channel blockade alone.",
+          "C": "Anticholinergic effects are primarily associated with disopyramide, not quinidine. Quinidine's proarrhythmic effect here is due to its K+ channel blockade prolonging repolarization.",
+          "D": "Quinidine is a class IA sodium/potassium channel blocker, not a beta-adrenergic receptor blocker. Beta-blocker effects would cause bradycardia but not the torsades pattern described.",
+          "E": "Calcium channel blockade characterizes class IV antiarrhythmics (verapamil, diltiazem), not class IA agents like quinidine. Quinidine's mechanism involves Na+ and K+ channel blockade."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IA",
+        "quinidine",
+        "torsades-de-pointes",
+        "proarrhythmia"
+      ]
+    },
+    {
+      "id": "cv-006",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 64-year-old woman with a history of coronary artery disease and reduced ejection fraction (EF 30%) presents with new-onset atrial fibrillation. Her cardiologist considers various antiarrhythmic agents for rhythm control. Which of the following agents is most strongly contraindicated in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "B",
+          "text": "Mexiletine"
+        },
+        {
+          "label": "C",
+          "text": "Procainamide"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Quinidine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Class IC agents like flecainide are contraindicated in patients with structural heart disease, including coronary artery disease and cardiomyopathy, because they can provoke lethal ventricular arrhythmias in these patients.",
+        "whyCorrect": "Flecainide is a class IC agent with strong use dependence. In patients with structural heart disease or ischemia, class IC drugs are more active in normal tissue than in diseased areas, creating dangerous electrical heterogeneity that can provoke ventricular tachycardia or fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Lidocaine is a class IB agent that preferentially targets inactivated Na+ channels in ischemic myocardium. While not typically used for atrial fibrillation, it is not contraindicated in structural heart disease.",
+          "B": "Mexiletine is a class IB agent that, like lidocaine, is selective for ischemic myocardium and is not contraindicated in structural heart disease. It is primarily used for ventricular arrhythmias.",
+          "C": "Procainamide is a class IA agent that carries risks of drug-induced lupus and QT prolongation but is not as strongly contraindicated in structural heart disease as class IC agents.",
+          "E": "Quinidine is a class IA agent with risks of torsades de pointes and cinchonism. While it has proarrhythmic potential from QT prolongation, it is not as specifically contraindicated in structural heart disease as class IC drugs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IC",
+        "flecainide",
+        "structural-heart-disease",
+        "contraindications"
+      ]
+    },
+    {
+      "id": "cv-007",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 45-year-old man is brought to the emergency department after a witnessed seizure. He was recently started on an intravenous antiarrhythmic agent for recurrent ventricular tachycardia following an acute myocardial infarction. On examination, he has perioral numbness and is confused. His serum drug levels are found to be supratherapeutic. Which of the following drugs was most likely administered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "B",
+          "text": "Quinidine"
+        },
+        {
+          "label": "C",
+          "text": "Disopyramide"
+        },
+        {
+          "label": "D",
+          "text": "Propafenone"
+        },
+        {
+          "label": "E",
+          "text": "Procainamide"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lidocaine is a class IB agent administered intravenously for post-MI ventricular arrhythmias. At supratherapeutic levels, it crosses the blood-brain barrier and causes CNS toxicity ranging from perioral numbness and confusion to seizures and respiratory depression.",
+        "whyCorrect": "Lidocaine is given IV for post-MI ventricular tachycardia and causes dose-dependent CNS effects due to sodium channel blockade in the central and peripheral nervous systems. Mild toxicity presents as perioral numbness and paresthesias, progressing to confusion, seizures, and respiratory depression at higher levels.",
+        "whyWrongByChoice": {
+          "B": "Quinidine is a class IA agent associated with cinchonism (tinnitus, blurry vision, GI symptoms) and torsades de pointes causing syncope, but not with the perioral numbness-to-seizure progression seen here.",
+          "C": "Disopyramide is a class IA agent primarily associated with anticholinergic effects (dry mouth, urinary retention, constipation) and heart failure from decreased contractility, not CNS toxicity with seizures.",
+          "D": "Propafenone is a class IC oral agent that can cause heart failure and bradycardia. It is not typically given IV for post-MI arrhythmias and is contraindicated in structural heart disease.",
+          "E": "Procainamide is a class IA agent whose toxicity profile includes drug-induced lupus, hypotension, and ventricular arrhythmias from QRS prolongation, not the CNS toxicity pattern described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IB",
+        "lidocaine",
+        "CNS-toxicity",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cv-008",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A cardiologist reviews the ECG of a patient who was recently started on a class IC antiarrhythmic drug. Compared to the baseline ECG, which of the following changes would be most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prolonged QT interval with no change in QRS duration"
+        },
+        {
+          "label": "B",
+          "text": "Shortened QT interval with T-wave inversion"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged PR interval with bradycardia"
+        },
+        {
+          "label": "D",
+          "text": "Pronounced QRS widening with unchanged QT interval"
+        },
+        {
+          "label": "E",
+          "text": "Widened QRS interval with prolonged QT interval"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Class IC drugs significantly slow conduction throughout the heart, resulting in pronounced QRS widening. Because they do not affect K+ channels, the action potential duration and QT interval remain unchanged.",
+        "whyCorrect": "Class IC agents bind strongly to open Na+ channels with slow dissociation kinetics, markedly decreasing conduction velocity. This translates to significant QRS widening on ECG. Since there is no K+ channel blockade, the action potential duration is unaffected and the QT interval remains unchanged.",
+        "whyWrongByChoice": {
+          "A": "Prolonged QT interval without QRS change describes the effect of class III antiarrhythmics (K+ channel blockers), not class IC drugs. Class IC drugs do not block K+ channels.",
+          "B": "Shortened QT interval with T-wave changes is characteristic of digoxin effect (scooped ST segments, QT shortening), not class IC antiarrhythmics.",
+          "C": "Prolonged PR interval with bradycardia is characteristic of class II (beta-blockers) or class IV (calcium channel blockers) antiarrhythmics that act on nodal cells, not class IC drugs.",
+          "E": "While class IC drugs do widen the QRS, they do not prolong the QT interval because they have no effect on K+ channels or action potential duration. This combination would be more consistent with class IA drugs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IC",
+        "ECG-changes",
+        "QRS-widening"
+      ]
+    },
+    {
+      "id": "cv-009",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 50-year-old woman on long-term procainamide therapy presents for routine follow-up. Her physician orders serum drug levels. Results show elevated levels of both the parent compound and its metabolite N-acetylprocainamide (NAPA). Which of the following metabolic pathways is primarily responsible for the formation of this active metabolite?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylation by N-acetyltransferase"
+        },
+        {
+          "label": "B",
+          "text": "Glucuronidation by UDP-glucuronosyltransferase in hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "CYP3A4 oxidation in the hepatic smooth endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "CYP2D6-mediated hydroxylation in the liver microsomes"
+        },
+        {
+          "label": "E",
+          "text": "Sulfation by sulfotransferase in the hepatic cytosol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Procainamide undergoes acetylation by N-acetyltransferase to form N-acetylprocainamide (NAPA), which is an active metabolite with its own arrhythmogenic properties. Both parent drug and metabolite levels must be monitored.",
+        "whyCorrect": "Procainamide is metabolized primarily by N-acetyltransferase via acetylation to produce NAPA. This metabolite is pharmacologically active and has arrhythmogenic properties, necessitating monitoring of both procainamide and NAPA levels.",
+        "whyWrongByChoice": {
+          "B": "Glucuronidation is a phase II conjugation reaction that is not the primary pathway for procainamide metabolism. NAPA is formed specifically through acetylation.",
+          "C": "CYP3A4 oxidation is the primary metabolic pathway for quinidine, not procainamide. Quinidine is susceptible to interactions with CYP3A4 inhibitors like ketoconazole and erythromycin.",
+          "D": "CYP2D6-mediated metabolism is primarily relevant to flecainide and propafenone among class I antiarrhythmics, not to procainamide.",
+          "E": "Sulfation is not a significant metabolic pathway for procainamide. The formation of NAPA occurs through acetylation by N-acetyltransferase."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IA",
+        "procainamide",
+        "metabolism",
+        "NAPA"
+      ]
+    },
+    {
+      "id": "cv-010",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 60-year-old man with atrial fibrillation is on a stable dose of flecainide for rhythm control. He is subsequently started on amiodarone for breakthrough arrhythmias. Two weeks later, he presents with visual disturbances, dizziness, and a new wide-complex rhythm on ECG. Which of the following best explains the mechanism of this drug interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone induces CYP2D6 activity, accelerating flecainide metabolism and causing subtherapeutic levels"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone inhibits multiple CYP enzymes, significantly increasing flecainide plasma levels and causing toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Flecainide inhibits renal tubular secretion of amiodarone, leading to amiodarone accumulation and thyroid toxicity"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone competes with flecainide for sodium channel binding sites, reducing the antiarrhythmic efficacy of both drugs"
+        },
+        {
+          "label": "E",
+          "text": "Flecainide induces CYP3A4 activity, increasing amiodarone clearance and reducing its therapeutic effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Amiodarone is a potent inhibitor of multiple CYP enzymes. Since flecainide is metabolized primarily by CYP2D6, co-administration with amiodarone significantly increases flecainide plasma levels, leading to toxicity manifesting as visual disturbances, dizziness, and proarrhythmia.",
+        "whyCorrect": "Amiodarone inhibits CYP1A2, CYP2C9, CYP2D6, and CYP3A4. Flecainide is metabolized primarily by CYP2D6, so amiodarone's inhibition of this enzyme significantly increases flecainide levels, causing toxicity with visual disturbances, dizziness, and wide-complex arrhythmias from excessive Na+ channel blockade.",
+        "whyWrongByChoice": {
+          "A": "Amiodarone inhibits (not induces) CYP2D6, which would increase rather than decrease flecainide levels. The patient's symptoms are consistent with flecainide toxicity from elevated levels.",
+          "C": "There is no significant interaction involving flecainide inhibiting renal tubular secretion of amiodarone. The interaction is driven by amiodarone's CYP enzyme inhibition affecting flecainide metabolism.",
+          "D": "While both drugs affect sodium channels, the clinical drug interaction is pharmacokinetic (CYP inhibition increasing flecainide levels), not pharmacodynamic competition at channel binding sites.",
+          "E": "Flecainide does not induce CYP3A4. It is the substrate, not an inducer of hepatic enzymes. The interaction is caused by amiodarone's potent CYP enzyme inhibition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IC",
+        "flecainide",
+        "amiodarone",
+        "drug-interactions",
+        "CYP-enzymes"
+      ]
+    },
+    {
+      "id": "cv-011",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A 52-year-old man with a history of ventricular tachycardia is being treated with a class IA antiarrhythmic. He presents to the emergency department with facial flushing, severe tinnitus, blurry vision, abdominal pain, nausea, and diarrhea. His ECG shows a prolonged QT interval. Which of the following medications is he most likely taking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Procainamide"
+        },
+        {
+          "label": "B",
+          "text": "Disopyramide"
+        },
+        {
+          "label": "C",
+          "text": "Mexiletine"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Quinidine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Quinidine causes a characteristic constellation of symptoms called cinchonism, which includes facial flushing, tinnitus, blurry vision, headaches, abdominal pain, nausea, vomiting, diarrhea, and QT prolongation on ECG.",
+        "whyCorrect": "The symptom complex of facial flushing, tinnitus, blurry vision, and GI complaints (abdominal pain, nausea, diarrhea) along with QT prolongation is pathognomonic for cinchonism, a well-known adverse effect of quinidine.",
+        "whyWrongByChoice": {
+          "A": "Procainamide causes drug-induced lupus (rash, arthralgias, pleuritis, antihistone antibodies), hypotension, and ventricular arrhythmias, but not the cinchonism symptom complex described.",
+          "B": "Disopyramide causes anticholinergic effects (dry mouth, urinary retention, constipation) and can precipitate heart failure through decreased contractility, not cinchonism.",
+          "C": "Mexiletine is a class IB agent that causes ataxia, tremors, and confusion. It shortens (rather than prolongs) the action potential duration and does not cause cinchonism.",
+          "D": "Flecainide is a class IC agent that causes visual disturbances and dizziness but does not cause the full cinchonism complex and does not prolong the QT interval."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IA",
+        "quinidine",
+        "cinchonism",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cv-012",
+      "topicId": "antiarrhythmic-class-i",
+      "topicName": "Antiarrhythmic Agents: Class I",
+      "stem": "A pharmacology professor explains that among the class I antiarrhythmic subclasses, one subclass decreases the slope of phase 0 of the cardiac action potential while also shortening the overall action potential duration. A student asks which ECG finding would best distinguish this subclass from class IA agents. Which of the following correctly describes the distinguishing ECG characteristic of this subclass?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Significant QRS widening with prolonged QT interval"
+        },
+        {
+          "label": "B",
+          "text": "Pronounced QRS widening with unchanged QT interval"
+        },
+        {
+          "label": "C",
+          "text": "Minimal QRS widening with unchanged or shortened QT interval"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged PR interval with narrowed QRS complex"
+        },
+        {
+          "label": "E",
+          "text": "ST-segment depression with T-wave inversions in lateral leads"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Class IB agents decrease the slope of phase 0 and shorten action potential duration. On ECG, they produce minimal QRS widening (less than 10% at therapeutic doses) and do not prolong (and may shorten) the QT interval, distinguishing them from class IA agents.",
+        "whyCorrect": "Class IB drugs (lidocaine, mexiletine) have the lowest affinity for Na+ channels among class I agents and quick dissociation kinetics. This produces only minimal QRS widening. Their shortening of action potential duration means the QT interval is unchanged or shortened, unlike class IA drugs which prolong QT.",
+        "whyWrongByChoice": {
+          "A": "Significant QRS widening with prolonged QT interval describes class IA drugs, which block both Na+ and K+ channels. Class IB agents produce neither significant QRS widening nor QT prolongation.",
+          "B": "Pronounced QRS widening with unchanged QT interval describes class IC drugs (flecainide, propafenone), which have strong Na+ channel blockade without K+ channel effects.",
+          "D": "Prolonged PR interval with narrowed QRS is not characteristic of any class I subclass. PR prolongation is seen with class II (beta-blockers) and class IV (calcium channel blockers) agents that act on nodal cells.",
+          "E": "ST-segment depression with T-wave inversions in lateral leads is characteristic of digoxin effect on ECG, not class IB antiarrhythmic agents."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IB",
+        "ECG-changes",
+        "action-potential"
+      ]
+    },
+    {
+      "id": "ea-075",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 72-year-old man is brought to the emergency department after a syncopal episode at home. His wife reports that he has had increasing fatigue and dizziness over the past 3 weeks. His medications include metoprolol 50 mg twice daily for hypertension and levothyroxine 75 mcg daily for hypothyroidism. Vital signs reveal a heart rate of 38 bpm and blood pressure of 88/54 mmHg. ECG shows sinus bradycardia with intermittent pauses of 4.2 seconds alternating with bursts of rapid irregular atrial activity. Laboratory studies show a TSH of 0.8 mIU/L. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bradycardia-tachycardia syndrome as a manifestation of sick sinus syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Hypothyroidism-related bradycardia due to inadequate levothyroxine dosing"
+        },
+        {
+          "label": "C",
+          "text": "Drug-induced bradycardia from metoprolol requiring dose adjustment"
+        },
+        {
+          "label": "D",
+          "text": "Vasovagal syndrome triggered by an identifiable situational stimulus"
+        },
+        {
+          "label": "E",
+          "text": "Physiologic sinus bradycardia associated with high cardiovascular fitness"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The combination of sinus bradycardia with prolonged pauses (>3 seconds) and alternating episodes of rapid atrial activity is characteristic of bradycardia-tachycardia syndrome, a manifestation of sick sinus syndrome (SSS).",
+        "whyCorrect": "SSS encompasses sinus bradycardia, sinus pauses, chronotropic incompetence, and bradycardia-tachycardia syndrome. The hallmark finding of sinus pauses greater than 3 seconds combined with alternating tachyarrhythmias (atrial fibrillation) defines brady-tachy syndrome. His age also makes intrinsic SA node degeneration likely.",
+        "whyWrongByChoice": {
+          "C": "While metoprolol can cause bradycardia, the presence of prolonged sinus pauses >3 seconds and alternating tachycardia episodes points to intrinsic SA node dysfunction rather than simple drug-induced rate slowing, which would not typically cause alternating tachyarrhythmias.",
+          "B": "The TSH of 0.8 mIU/L is within normal range, indicating adequate thyroid hormone replacement. Hypothyroidism-related bradycardia would be expected to show elevated TSH and is typically persistent rather than intermittent with alternating tachycardia.",
+          "D": "Vasovagal syndrome is episodic and circumstantial, typically triggered by identifiable situations such as micturition, blood draws, or prolonged standing. This patient has progressive symptoms without identifiable triggers and ECG findings of SSS.",
+          "E": "Physiologic bradycardia in athletes is typically asymptomatic, occurs in physically fit individuals, and demonstrates appropriate heart rate response to exercise. A 72-year-old with syncope and hemodynamic instability does not fit this profile."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "sick-sinus-syndrome",
+        "bradycardia-tachycardia-syndrome",
+        "arrhythmias"
+      ]
+    },
+    {
+      "id": "ea-076",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 78-year-old woman with a history of heart failure with preserved ejection fraction is evaluated for progressive exertional dyspnea and recurrent presyncope. ECG reveals sinus bradycardia at 42 bpm with first-degree AV block. Echocardiography shows increased ventricular wall thickness with a granular sparkling appearance, and cardiac MRI demonstrates diffuse late gadolinium enhancement. Technetium pyrophosphate scan is positive. Which of the following is the most likely underlying etiology of her conduction abnormalities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Age-related fibrosis and calcification of the conduction system without infiltrative disease"
+        },
+        {
+          "label": "B",
+          "text": "Chronic beta-blocker therapy suppressing sinoatrial node automaticity over time"
+        },
+        {
+          "label": "C",
+          "text": "Hypothyroidism causing decreased metabolic rate and reduced sympathetic responsiveness"
+        },
+        {
+          "label": "D",
+          "text": "Wild-type transthyretin cardiac amyloidosis causing conduction system infiltration"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia suppressing sinoatrial node automaticity and slowing myocardial conduction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The combination of HFpEF, increased ventricular wall thickness with granular sparkling, diffuse late gadolinium enhancement, and a positive technetium pyrophosphate scan is diagnostic of wild-type transthyretin cardiac amyloidosis (ATTRwt), an increasingly recognized cause of conduction system disease in the elderly.",
+        "whyCorrect": "ATTRwt is a restrictive cardiomyopathy caused by deposition of misfolded transthyretin protein in the myocardium. It commonly presents with HFpEF and conduction abnormalities including sinus bradycardia. The imaging findings (wall thickening, granular sparkling, LGE, positive pyrophosphate scan) are characteristic of this condition.",
+        "whyWrongByChoice": {
+          "A": "While age-related degeneration is the most common cause of SA node dysfunction in the elderly, the imaging findings (granular sparkling, positive pyrophosphate scan) specifically point to an infiltrative process rather than simple degenerative fibrosis.",
+          "C": "Hypothyroidism is an extrinsic cause of bradycardia that slows heart rate through systemic metabolic effects. It would not explain the characteristic echocardiographic and cardiac MRI findings described, which point to an infiltrative cardiomyopathy.",
+          "B": "Drug-induced bradycardia has a clear temporal relationship with medication use and is a reversible extrinsic cause. The imaging findings indicate structural myocardial disease, not a pharmacologic effect.",
+          "E": "Hyperkalemia is an extrinsic factor that can suppress SA node automaticity, but it would not cause the structural cardiac changes seen on echocardiography and MRI. It is diagnosed by serum electrolyte measurement."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "cardiac-amyloidosis",
+        "ATTRwt",
+        "sinus-bradycardia",
+        "conduction-disease"
+      ]
+    },
+    {
+      "id": "ea-077",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 55-year-old man with symptomatic sinus bradycardia (heart rate 34 bpm) and blood pressure of 82/50 mmHg is treated with atropine 0.5 mg IV in the emergency department. His heart rate increases to only 40 bpm after two doses. He has a known history of prior inferior myocardial infarction with residual SA node fibrosis. Which of the following best explains the limited efficacy of atropine in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine is a beta-adrenergic agonist and requires intact sympathetic nerve terminals to be effective"
+        },
+        {
+          "label": "B",
+          "text": "Atropine primarily increases ventricular contractility rather than chronotropy at the SA node"
+        },
+        {
+          "label": "C",
+          "text": "Atropine acts on nicotinic receptors in the autonomic ganglia and has no direct cardiac effects"
+        },
+        {
+          "label": "D",
+          "text": "Atropine blocks muscarinic receptors but cannot restore automaticity in structurally damaged SA node tissue"
+        },
+        {
+          "label": "E",
+          "text": "Atropine requires concurrent administration of epinephrine to exert any chronotropic effect"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Atropine competitively blocks muscarinic (M2) receptors at the SA node, reducing parasympathetic tone. It is most effective for vagally-mediated bradycardia but has limited efficacy when the underlying cause is intrinsic structural SA node disease.",
+        "whyCorrect": "In this patient with SA node fibrosis from prior MI, the bradycardia is due to intrinsic structural damage to pacemaker cells, not excessive vagal tone. Atropine works by blocking parasympathetic input but cannot compensate for the loss of functional pacemaker cells in fibrotic tissue.",
+        "whyWrongByChoice": {
+          "A": "Atropine is a muscarinic (M2) receptor antagonist, not a beta-adrenergic agonist. It works by blocking parasympathetic input to the SA node, not by stimulating sympathetic pathways.",
+          "B": "Atropine does not increase ventricular contractility. Its primary cardiac effect is on heart rate through vagolytic effects at the SA and AV nodes. Increased contractility is mediated by beta-adrenergic stimulation.",
+          "C": "Atropine acts on muscarinic receptors, not nicotinic receptors. It has direct cardiac effects at M2 receptors on the SA and AV nodes, blocking parasympathetic influence on heart rate.",
+          "E": "Atropine can exert its chronotropic effect independently without concurrent epinephrine. While epinephrine or dopamine infusions may be used when atropine is ineffective, they are not required for atropine to function."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "pharmacology",
+        "atropine",
+        "sinus-bradycardia",
+        "SA-node-dysfunction"
+      ]
+    },
+    {
+      "id": "ea-078",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 22-year-old competitive marathon runner presents for a pre-participation sports physical. She is asymptomatic and reports no dizziness, syncope, or exercise intolerance. Resting ECG reveals sinus bradycardia at 48 bpm with normal P-wave morphology and a normal PR interval. She completes a maximal exercise stress test, achieving a peak heart rate of 192 bpm with no arrhythmias. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate ambulatory Holter monitoring to evaluate for occult sinus pauses during sleep"
+        },
+        {
+          "label": "B",
+          "text": "Begin low-dose atropine therapy to maintain a resting heart rate above 60 bpm"
+        },
+        {
+          "label": "C",
+          "text": "Refer for permanent pacemaker implantation to prevent future symptomatic bradycardia"
+        },
+        {
+          "label": "D",
+          "text": "Provide reassurance and observation with no further cardiac workup required"
+        },
+        {
+          "label": "E",
+          "text": "Order thyroid function tests and serum electrolytes to exclude pathologic bradycardia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Athletic bradycardia in young, physically fit individuals is physiologic and typically asymptomatic. With a normal stress test showing appropriate chronotropic response, no treatment or further workup is necessary.",
+        "whyCorrect": "Asymptomatic bradycardia in athletes with good cardiovascular fitness is physiologic, resulting from increased vagal tone from conditioning. The appropriate heart rate response to exercise (peak 192 bpm) confirms normal chronotropic competence, ruling out pathologic SA node dysfunction. Reassurance and observation are appropriate.",
+        "whyWrongByChoice": {
+          "A": "Ambulatory monitoring is indicated when there is clinical suspicion for intermittent pathologic bradycardia or correlation between symptoms and bradycardic episodes. In an asymptomatic athlete with normal stress test results, this is unnecessary.",
+          "B": "Long-term atropine therapy is impractical and not indicated for physiologic bradycardia. Atropine is reserved for acute symptomatic bradycardia in emergency settings.",
+          "C": "Permanent pacemaker implantation is the definitive treatment for symptomatic intrinsic SA node dysfunction. It is not indicated in asymptomatic physiologic bradycardia with normal chronotropic response.",
+          "E": "While thyroid function tests and electrolytes are part of the workup for unexplained bradycardia, this patient's clinical picture (young athlete, asymptomatic, normal exercise response) makes pathologic causes very unlikely, and further testing is not warranted."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "athletic-bradycardia",
+        "sports-medicine",
+        "sinus-bradycardia"
+      ]
+    },
+    {
+      "id": "ea-079",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 70-year-old man with sick sinus syndrome and a heart rate of 35 bpm is being monitored in the ICU. His ECG shows absence of P waves with narrow QRS complexes at a regular rate of 45 bpm. Which of the following best describes the mechanism responsible for maintaining his cardiac rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A ventricular escape rhythm originating from the Purkinje fibers with inherently wide QRS complexes"
+        },
+        {
+          "label": "B",
+          "text": "Accelerated junctional rhythm that has usurped the dominant cardiac pacemaker at a rate exceeding 60 bpm"
+        },
+        {
+          "label": "C",
+          "text": "A bundle branch escape rhythm producing narrow complexes due to rapid conduction through the His bundle"
+        },
+        {
+          "label": "D",
+          "text": "Atrial fibrillation with a controlled ventricular response and absent discernible atrial activity"
+        },
+        {
+          "label": "E",
+          "text": "A junctional escape rhythm from the AV node acting as a subsidiary pacemaker due to SA node failure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When the SA node fails, the fastest available subsidiary pacemaker assumes control. The AV node (junctional pacemaker) fires at 40-60 bpm, producing narrow QRS complexes because impulses conduct normally through the bilateral bundle branches.",
+        "whyCorrect": "The absence of P waves with regular narrow QRS complexes at 45 bpm is characteristic of a junctional escape rhythm. When SA node activity ceases, the AV node becomes the dominant pacemaker by default, producing an escape rhythm with a typical rate of 40-60 bpm and narrow QRS complexes.",
+        "whyWrongByChoice": {
+          "A": "Ventricular escape rhythms from the Purkinje fibers would produce wide QRS complexes because depolarization does not follow the normal His-Purkinje conduction pathway. The narrow QRS complexes in this case indicate a supraventricular origin.",
+          "B": "Accelerated junctional rhythm has a rate of 60-100 bpm and usurps the dominant rhythm rather than occurring by default. This patient's rate of 45 bpm is within the typical junctional escape range (40-60 bpm), consistent with a true escape rhythm.",
+          "D": "Atrial fibrillation would produce an irregularly irregular ventricular response, not the regular rhythm described in this patient. While P waves are absent in both conditions, the regularity of the QRS complexes distinguishes junctional escape from atrial fibrillation.",
+          "C": "Escape rhythms from the bundle branches would produce wide QRS complexes because only one bundle branch would be generating the impulse, with abnormal ventricular activation. The narrow complexes here indicate the impulse originates above the bifurcation of the His bundle."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "escape-rhythms",
+        "junctional-rhythm",
+        "sick-sinus-syndrome"
+      ]
+    },
+    {
+      "id": "ea-080",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 45-year-old man presents to the emergency department after losing consciousness while urinating. Witnesses report he was pale and diaphoretic before collapsing. In the ED, his heart rate is 52 bpm and blood pressure is 86/58 mmHg. ECG shows sinus bradycardia. No structural heart disease is found on echocardiography. His symptoms have recurred three times in the past year, always associated with micturition. Lifestyle modifications including adequate hydration and situational precautions have been ineffective. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Permanent dual-chamber pacemaker implantation as first-line definitive treatment"
+        },
+        {
+          "label": "B",
+          "text": "Initiation of a beta-blocker to prevent reflex tachycardia that triggers subsequent bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Long-term oral atropine therapy to prevent recurrent vagally-mediated bradycardia episodes"
+        },
+        {
+          "label": "D",
+          "text": "Catheter ablation of the sinoatrial node to eliminate the source of abnormal impulse generation"
+        },
+        {
+          "label": "E",
+          "text": "Pharmacotherapy with midodrine or fludrocortisone to address the vasodepressor component"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This patient has vasovagal syndrome (micturition syncope) with both cardioinhibitory (bradycardia) and vasodepressor (hypotension) components. After lifestyle modifications fail, pharmacotherapy with midodrine or fludrocortisone to address the hypotension component is appropriate.",
+        "whyCorrect": "Vasovagal episodes manifest as a combination of bradycardia (cardioinhibitory component) and hypotension (vasodepressor component). Management starts with lifestyle interventions; when those fail, medications such as midodrine or fludrocortisone to improve the hypotension component may be helpful. Pacing is reserved as a last resort.",
+        "whyWrongByChoice": {
+          "A": "Pacemaker implantation is employed as a last resort in vasovagal syndrome and is not indicated in most patients. The vasodepressor (hypotension) component would not be addressed by pacing alone, and pharmacotherapy should be attempted first.",
+          "C": "Long-term oral atropine therapy is impractical and not an accepted treatment strategy. Atropine is reserved for acute symptomatic bradycardia in emergency settings and is not suitable for chronic outpatient management.",
+          "D": "Catheter ablation of the SA node is not a treatment for vasovagal syndrome. The SA node itself is not dysfunctional; rather, excessive vagal input is causing the bradycardia. Ablation would worsen the condition.",
+          "B": "Beta-blockers would exacerbate bradycardia by further suppressing SA node function and are contraindicated in symptomatic bradycardia. They would worsen both the heart rate and blood pressure in this patient."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "vasovagal-syndrome",
+        "micturition-syncope",
+        "bradycardia-management"
+      ]
+    },
+    {
+      "id": "ea-081",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 66-year-old woman with chronic heart failure is evaluated for worsening fatigue and exercise intolerance over the past 2 months. She takes digoxin 0.25 mg daily, lisinopril, and furosemide. Resting heart rate is 50 bpm. During an exercise stress test, her heart rate increases from 50 bpm to only 72 bpm at peak exertion, well below the expected age-predicted maximum heart rate. ECG shows sinus rhythm with no pauses. Which of the following best characterizes her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronotropic incompetence as a component of sick sinus syndrome exacerbated by digoxin"
+        },
+        {
+          "label": "B",
+          "text": "Sinus pause with asymptomatic recovery masking underlying SA node arrest on monitoring"
+        },
+        {
+          "label": "C",
+          "text": "Athletic bradycardia from deconditioning-induced enhanced vagal tone in heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Hypothyroidism-related bradycardia with reduced metabolic rate and blunted exercise response"
+        },
+        {
+          "label": "E",
+          "text": "First-degree AV block causing delayed ventricular activation and reduced exercise capacity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronotropic incompetence is the inability to appropriately increase heart rate with exercise and is a component of sick sinus syndrome. Digoxin, which increases vagal tone and suppresses SA node function, can exacerbate this condition.",
+        "whyCorrect": "The failure to achieve an adequate heart rate response during exercise (50 to 72 bpm) despite maximal exertion defines chronotropic incompetence. This is part of the SSS spectrum and is worsened by digoxin, which suppresses SA node function by increasing vagal tone.",
+        "whyWrongByChoice": {
+          "B": "Sinus pauses were not observed on the ECG or during stress testing. Chronotropic incompetence is characterized by inadequate heart rate response to exercise, not by intermittent pauses in SA node activity.",
+          "C": "Athletic bradycardia occurs in physically fit individuals with physiologic enhancement of vagal tone. This patient has heart failure with symptomatic exercise intolerance, not athletic conditioning. Additionally, athletic bradycardia demonstrates appropriate chronotropic response during exercise.",
+          "D": "While hypothyroidism can cause bradycardia and reduced exercise capacity, the clinical presentation with heart failure, digoxin use, and inadequate chronotropic response is more consistent with SSS. Thyroid function tests would be needed to evaluate this possibility.",
+          "E": "First-degree AV block involves delayed conduction through the AV node (prolonged PR interval) and does not explain the failure of the SA node to appropriately increase its firing rate during exercise."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "chronotropic-incompetence",
+        "sick-sinus-syndrome",
+        "digoxin"
+      ]
+    },
+    {
+      "id": "ea-082",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 58-year-old man presents to the emergency department with acute symptomatic bradycardia (heart rate 30 bpm) and hemodynamic instability (blood pressure 78/48 mmHg). Atropine 1 mg IV is administered with minimal response. Dopamine infusion is initiated but the patient remains hemodynamically unstable. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Place a temporary transvenous pacemaker to provide direct myocardial electrical stimulation"
+        },
+        {
+          "label": "B",
+          "text": "Initiate intravenous verapamil to improve AV nodal conduction and restore adequate heart rate"
+        },
+        {
+          "label": "C",
+          "text": "Administer additional atropine at higher doses to overcome parasympathetic tone completely"
+        },
+        {
+          "label": "D",
+          "text": "Begin oral beta-blocker therapy to stabilize the cardiac rhythm through sympathetic modulation"
+        },
+        {
+          "label": "E",
+          "text": "Perform immediate permanent pacemaker implantation under local anesthesia in the emergency department"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When atropine and chronotropic drug infusions fail to stabilize symptomatic bradycardia, temporary transvenous pacing provides direct myocardial stimulation as a bridge to definitive treatment.",
+        "whyCorrect": "Transvenous pacing involves inserting a pacing catheter through a central vein into the right ventricle to deliver electrical impulses directly to the myocardium. It is used for persistent or unstable bradyarrhythmias when medications are ineffective, serving as a bridge to permanent pacemaker implantation.",
+        "whyWrongByChoice": {
+          "C": "Atropine has already been administered with minimal response, indicating that the bradycardia is likely not primarily vagally mediated. Additional atropine doses are unlikely to be effective and may cause adverse effects including tachyarrhythmias.",
+          "B": "Verapamil is a non-dihydropyridine calcium channel blocker that suppresses SA node automaticity and slows AV conduction. It would worsen the bradycardia and is contraindicated in this setting.",
+          "D": "Beta-blockers reduce heart rate by blocking sympathetic stimulation at beta-1 receptors and are contraindicated in symptomatic bradycardia. They would further suppress SA node function and worsen hemodynamic instability.",
+          "E": "Permanent pacemaker implantation is the definitive treatment but requires a planned procedure in an appropriate setting, not emergency implantation. Temporary pacing bridges the patient to this definitive therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "transvenous-pacing",
+        "symptomatic-bradycardia",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "ea-083",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 30-year-old woman is found unresponsive after a severe traumatic brain injury. In the ICU, her heart rate is 42 bpm and blood pressure is 168/102 mmHg. CT scan shows diffuse cerebral edema with evidence of elevated intracranial pressure. Which of the following best explains the mechanism of her bradycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct myocardial contusion from chest trauma causing intrinsic SA node dysfunction"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemia from tissue injury suppressing SA node automaticity and conduction velocity"
+        },
+        {
+          "label": "C",
+          "text": "Hypothermia-induced slowing of all metabolic processes including SA node automaticity"
+        },
+        {
+          "label": "D",
+          "text": "Stimulation of the vagus nerve as part of the Cushing reflex"
+        },
+        {
+          "label": "E",
+          "text": "Reduced sympathetic outflow due to cervical spinal cord injury causing neurogenic bradycardia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Increased intracranial pressure from any cause can stimulate the vagus nerve, leading to bradycardia as part of the Cushing reflex (Cushing triad: hypertension, bradycardia, and irregular respirations).",
+        "whyCorrect": "The Cushing reflex is a physiologic response to elevated intracranial pressure in which vagal stimulation produces bradycardia, while sympathetic activation causes hypertension. This patient's combination of bradycardia and hypertension following traumatic brain injury with cerebral edema is classic for this reflex.",
+        "whyWrongByChoice": {
+          "A": "The clinical scenario describes a traumatic brain injury, not chest trauma. There is no mention of thoracic injury. The combination of bradycardia with hypertension after brain injury points to a central nervous system mechanism, not direct cardiac damage.",
+          "C": "There is no mention of hypothermia in this patient. While hypothermia slows SA node automaticity, the hypertension present in this case is more consistent with the Cushing reflex than with hypothermia, which would typically cause hypotension.",
+          "B": "While hyperkalemia from rhabdomyolysis could theoretically occur after trauma, it would suppress SA node automaticity without causing the hypertension seen here. The combination of bradycardia and hypertension is characteristic of the Cushing reflex.",
+          "E": "Cervical spinal cord injury causes neurogenic shock with bradycardia and hypotension due to loss of sympathetic tone. This patient has hypertension, not hypotension, making the Cushing reflex the more likely mechanism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "Cushing-reflex",
+        "intracranial-pressure",
+        "sinus-bradycardia",
+        "neurology"
+      ]
+    },
+    {
+      "id": "ea-084",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 65-year-old man with recently diagnosed atrial fibrillation is started on diltiazem for rate control. Two weeks later, he presents with progressive fatigue and lightheadedness. His heart rate is 44 bpm and ECG shows sinus bradycardia. The diltiazem is discontinued, and 48 hours later, his heart rate normalizes to 72 bpm with resolution of symptoms. Which of the following best describes the mechanism by which diltiazem caused bradycardia in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blocking beta-1 adrenergic receptors in the SA node, reducing sympathetic-mediated chronotropy"
+        },
+        {
+          "label": "B",
+          "text": "Enhancing vagal tone through stimulation of muscarinic receptors on the SA node pacemaker cells"
+        },
+        {
+          "label": "C",
+          "text": "Reducing thyroid hormone synthesis peripherally, thereby decreasing metabolic rate and cardiac chronotropy"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting sodium-potassium ATPase in cardiac myocytes, leading to increased intracellular calcium concentrations"
+        },
+        {
+          "label": "E",
+          "text": "Directly suppressing SA node automaticity by blocking calcium channels essential for pacemaker cell function"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diltiazem is a non-dihydropyridine calcium channel blocker that directly suppresses SA node automaticity by blocking calcium channels essential for pacemaker cell function, leading to bradycardia.",
+        "whyCorrect": "Non-dihydropyridine calcium channel blockers like diltiazem and verapamil directly suppress SA node automaticity by blocking L-type calcium channels that are essential for the phase 4 depolarization of pacemaker cells. This is a common and reversible cause of drug-induced sinus bradycardia.",
+        "whyWrongByChoice": {
+          "A": "Blocking beta-1 adrenergic receptors is the mechanism of beta-blockers (e.g., metoprolol, atenolol), not calcium channel blockers like diltiazem. These are distinct drug classes with different pharmacologic targets.",
+          "B": "Enhancing vagal tone through muscarinic receptor stimulation is the mechanism by which digoxin causes bradycardia. Diltiazem acts by directly blocking calcium channels, not by modulating vagal tone.",
+          "D": "Inhibiting sodium-potassium ATPase describes the mechanism of digoxin (cardiac glycosides), not calcium channel blockers. This mechanism leads to increased intracellular calcium and enhanced contractility, not direct suppression of SA node automaticity.",
+          "C": "Diltiazem does not affect thyroid hormone synthesis. Reduced thyroid function causing bradycardia is associated with hypothyroidism or antithyroid medications, not calcium channel blockers."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "pharmacology",
+        "calcium-channel-blockers",
+        "drug-induced-bradycardia"
+      ]
+    },
+    {
+      "id": "ea-085",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 74-year-old man with known sick sinus syndrome and a permanent pacemaker presents for a routine follow-up. He reports excellent exercise tolerance and no symptoms. His pacemaker interrogation reveals that the device adjusts the pacing rate from 60 bpm at rest to 110 bpm during his daily walks. Which of the following pacemaker features is responsible for this physiologic heart rate adjustment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixed-rate pacing mode that delivers impulses at a constant predetermined rate regardless of activity"
+        },
+        {
+          "label": "B",
+          "text": "Rate-responsive pacing that adjusts heart rate based on the patient's physiological demands"
+        },
+        {
+          "label": "C",
+          "text": "Overdrive pacing designed to suppress competing intrinsic atrial tachyarrhythmias"
+        },
+        {
+          "label": "D",
+          "text": "Demand pacing that only fires when the intrinsic heart rate falls below a set minimum threshold"
+        },
+        {
+          "label": "E",
+          "text": "Antitachycardia pacing that delivers rapid bursts to terminate reentrant supraventricular circuits"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Modern pacemakers can provide rate-responsive pacing that adjusts heart rate based on physiological demands, using sensors that detect activity level, minute ventilation, or other physiologic parameters.",
+        "whyCorrect": "Rate-responsive pacing uses activity sensors (accelerometers, minute ventilation sensors) to detect the patient's level of physical activity and adjust the pacing rate accordingly. This mimics the normal physiologic increase in heart rate during exercise, which is particularly important in patients with chronotropic incompetence from SSS.",
+        "whyWrongByChoice": {
+          "A": "Fixed-rate pacing delivers impulses at a constant rate and does not adjust to physiologic demands. This would not explain the rate increase from 60 to 110 bpm during exercise.",
+          "C": "Overdrive pacing is used to suppress tachyarrhythmias by pacing at a rate faster than the arrhythmia. This patient's rate adjustment occurs during normal exercise, not in response to an arrhythmia.",
+          "D": "Demand pacing senses intrinsic cardiac activity and only delivers a pacing impulse when the heart rate falls below a set threshold. While this prevents competition with intrinsic rhythm, it does not increase the rate during exercise.",
+          "E": "Antitachycardia pacing delivers rapid burst pacing to terminate reentrant tachycardias. This is not the mechanism for physiologic rate adjustment during exercise in a patient with SSS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "pacemaker",
+        "rate-responsive-pacing",
+        "sick-sinus-syndrome"
+      ]
+    },
+    {
+      "id": "ea-086",
+      "topicId": "sinus-bradycardia-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "A 60-year-old man presents to the ED with severe dizziness. His heart rate is 32 bpm with blood pressure of 80/50 mmHg. ECG shows sinus bradycardia. Atropine 0.5 mg IV is ineffective. While awaiting transvenous pacemaker placement, the team decides to attempt transcutaneous pacing. Large pacing pads are placed on his chest and electrical impulses are delivered. Which of the following is the primary limitation of transcutaneous pacing in this clinical setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It can only pace the atria and has no effect on ventricular depolarization or contraction"
+        },
+        {
+          "label": "B",
+          "text": "It requires surgical implantation of leads and therefore cannot be performed emergently"
+        },
+        {
+          "label": "C",
+          "text": "It delivers unsynchronized shocks that carry a high risk of inducing ventricular fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "It is difficult to implement effectively and lacks strong evidence for improved patient outcomes"
+        },
+        {
+          "label": "E",
+          "text": "It is contraindicated in patients with intrinsic SA node disease and only works for vagal bradycardia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "While transcutaneous pacing can provide temporary heart rate support in emergency situations, it is difficult to implement effectively and lacks good evidence for improved patient outcomes.",
+        "whyCorrect": "Transcutaneous pacing delivers electrical impulses through the skin to stimulate ventricular depolarization. However, it is technically challenging to implement reliably, is often painful for the patient, and evidence for improved clinical outcomes is limited. It serves primarily as a bridge to more definitive therapy such as transvenous pacing.",
+        "whyWrongByChoice": {
+          "A": "Transcutaneous pacing stimulates ventricular depolarization and contraction through large pacing pads placed on the chest. The electrical impulses pass through the thoracic wall to depolarize the ventricles.",
+          "B": "Transcutaneous pacing is a noninvasive method that does not require surgical lead implantation. It uses external pads placed on the chest and can be initiated rapidly in emergency situations.",
+          "C": "Transcutaneous pacing delivers pacing impulses, not unsynchronized shocks. The pacing impulses are delivered at a set rate to stimulate ventricular contraction, which is different from defibrillation or unsynchronized cardioversion.",
+          "E": "Transcutaneous pacing is not contraindicated in intrinsic SA node disease. It can be used for any cause of symptomatic bradycardia as a temporary measure while preparing for more definitive treatment."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "transcutaneous-pacing",
+        "emergency-management",
+        "bradycardia"
+      ]
+    }
+  ]
+}

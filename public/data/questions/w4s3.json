@@ -1,0 +1,1242 @@
+{
+  "categoryId": "w4s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "ea-063",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 17-year-old competitive cross-country runner presents for a pre-participation sports physical. He is asymptomatic and has no history of cardiac disease. His resting heart rate is 54 beats/min. ECG shows a regular sinus rhythm with a PR interval of 230 milliseconds, normal axis, and normal QRS morphology. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate treatment with atropine to shorten the prolonged PR interval and restore normal conduction"
+        },
+        {
+          "label": "B",
+          "text": "Refer for emergent pacemaker implantation due to the high risk of progression to complete heart block"
+        },
+        {
+          "label": "C",
+          "text": "Reassure the patient that this is a physiologic finding common in conditioned athletes requiring no treatment"
+        },
+        {
+          "label": "D",
+          "text": "Start a beta-blocker to reduce the heart rate further and prevent progression to higher-degree AV block"
+        },
+        {
+          "label": "E",
+          "text": "Obtain an urgent electrophysiology study to map the conduction delay and identify the site of the block"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "First-degree AV block in a young, conditioned athlete with a slow heart rate is a physiologic finding due to increased vagal tone and requires no treatment.",
+        "whyCorrect": "First-degree AV block (PR >200 ms) in highly conditioned athletes is a physiologic conduction delay caused by increased vagal tone that also slows AV nodal conduction. The source material specifically states that this condition is common in young endurance athletes with normal hearts, requires no treatment, and does not prevent participation in competitive sports.",
+        "whyWrongByChoice": {
+          "A": "Atropine is used for symptomatic bradycardia, not for an asymptomatic physiologic first-degree AV block. This patient has no symptoms requiring treatment.",
+          "B": "Pacemaker implantation is indicated for symptomatic high-grade or complete heart block, not for asymptomatic first-degree AV block, which rarely progresses in young athletes.",
+          "D": "Beta-blockers would further slow the heart rate and potentially worsen AV conduction delay, which is the opposite of what would be desired if treatment were needed.",
+          "E": "An electrophysiology study is not indicated for an asymptomatic first-degree AV block in a young athlete, as this is a benign physiologic finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "first-degree-AV-block",
+        "athlete",
+        "physiologic",
+        "PR-interval"
+      ]
+    },
+    {
+      "id": "ea-064",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 68-year-old woman with a history of inferior myocardial infarction 1 week ago is being monitored in the cardiac care unit. Telemetry shows progressive lengthening of the PR interval over consecutive beats followed by a single dropped QRS complex, after which the cycle repeats. Her heart rate averages 62 beats/min and she is asymptomatic. Which of the following best describes the anatomic site of this conduction abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The conduction abnormality is located within the bilateral bundle branches below the bundle of His"
+        },
+        {
+          "label": "B",
+          "text": "The conduction abnormality is located within the atrioventricular node above the bundle of His"
+        },
+        {
+          "label": "C",
+          "text": "The conduction abnormality is located at the sinoatrial node with failure of impulse exit to the atria"
+        },
+        {
+          "label": "D",
+          "text": "The conduction abnormality is located within the common bundle of His at the intrahisian level"
+        },
+        {
+          "label": "E",
+          "text": "The conduction abnormality is located in the ventricular myocardium distal to the Purkinje fibers"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Mobitz type I (Wenckebach) block with progressive PR prolongation before a dropped beat occurs at the level of the AV node.",
+        "whyCorrect": "Mobitz type I (Wenckebach) block is characterized by progressive lengthening of the PR interval until a beat is dropped. This type of block almost always occurs at the anatomic level of the AV node. It can be caused by inferior MI, increased vagal tone, or medications.",
+        "whyWrongByChoice": {
+          "A": "Bilateral bundle branch block is the typical site of Mobitz type II block, not type I. Type II presents with constant PR intervals before the dropped beat.",
+          "C": "SA node exit block causes sinus pauses on ECG, not the progressive PR prolongation pattern characteristic of Wenckebach block.",
+          "D": "Intrahisian block is possible but much less common than AV nodal block for Mobitz type I. The source material specifically states that Mobitz type I almost always occurs at the AV node.",
+          "E": "Block at the ventricular myocardium distal to Purkinje fibers would not produce the PR prolongation pattern seen; this is not a recognized site for AV conduction block."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "Mobitz-type-I",
+        "Wenckebach",
+        "AV-node",
+        "inferior-MI"
+      ]
+    },
+    {
+      "id": "ea-065",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 74-year-old man with a history of dilated cardiomyopathy presents with progressive fatigue and exertional dyspnea. His ECG shows intermittent dropped QRS complexes with constant PR intervals in the conducted beats. The QRS complexes are widened at 140 milliseconds. He is hemodynamically stable. Which of the following is the most appropriate long-term management for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Observation with serial ECGs since this type of conduction abnormality is typically benign and self-resolving"
+        },
+        {
+          "label": "B",
+          "text": "Administration of intravenous atropine to enhance AV nodal conduction and prevent further dropped beats"
+        },
+        {
+          "label": "C",
+          "text": "Permanent pacemaker implantation because this condition often progresses to complete atrioventricular block"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of a nondihydropyridine calcium-channel blocker to improve conduction through the AV junction"
+        },
+        {
+          "label": "E",
+          "text": "Discontinuation of all cardiac medications since this is most likely a drug-induced reversible conduction delay"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mobitz type II second-degree AV block always requires pacemaker treatment due to its high risk of progression to complete heart block.",
+        "whyCorrect": "Mobitz type II block presents with constant PR intervals in conducted beats followed by dropped beats, often with wide QRS from coexisting bundle branch block. It is almost always caused by intrinsic cardiac disease, is chronic, and often progresses to complete AV block. The source material states it always requires treatment with a pacemaker, even in asymptomatic patients.",
+        "whyWrongByChoice": {
+          "A": "Unlike Mobitz type I, which is often reversible and benign, Mobitz type II is chronic and frequently progresses to complete heart block. Observation alone is inadequate.",
+          "B": "Atropine works at the AV node, but Mobitz type II typically occurs below the AV node (bundle of His or bundle branches), so atropine is generally ineffective for this condition.",
+          "D": "Nondihydropyridine calcium-channel blockers (e.g., verapamil, diltiazem) slow AV conduction and are listed as causes of AV block, not treatments. They would worsen the condition.",
+          "E": "Mobitz type II is almost always intrinsic to the heart, not due to temporary external factors. The wide QRS and cardiomyopathy history indicate structural cardiac disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "Mobitz-type-II",
+        "pacemaker",
+        "second-degree-AV-block",
+        "complete-heart-block"
+      ]
+    },
+    {
+      "id": "ea-066",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 78-year-old woman presents to the emergency department after a witnessed syncopal episode. Her heart rate is 32 beats/min. ECG shows regular P waves at a rate of 80/min and regular QRS complexes at a rate of 32/min with no consistent relationship between the P waves and QRS complexes. The QRS complexes are wide at 160 milliseconds. Which of the following best explains the origin of the ventricular rhythm in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ventricular rhythm originates from the sinoatrial node with normal conduction through the AV junction"
+        },
+        {
+          "label": "B",
+          "text": "The ventricular rhythm originates from a rescue pacemaker low in the conduction system below the site of block"
+        },
+        {
+          "label": "C",
+          "text": "The ventricular rhythm is driven by retrograde conduction from the atria through an accessory pathway"
+        },
+        {
+          "label": "D",
+          "text": "The ventricular rhythm results from enhanced automaticity of the AV node due to sympathetic stimulation"
+        },
+        {
+          "label": "E",
+          "text": "The ventricular rhythm is generated by reentry within the bundle of His creating a self-sustaining circuit"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In complete heart block, a rescue pacemaker below the level of block generates the slow ventricular escape rhythm, which is wide when the block is infra-Hisian.",
+        "whyCorrect": "In third-degree AV block, no conduction occurs between atria and ventricles (AV dissociation). A default rescue pacemaker takes over in the ventricles. The wide QRS (160 ms) indicates the block is at an infra-Hisian location, where available rescue pacemakers fire slowly (as low as 15-30 bpm) and produce wide escape complexes.",
+        "whyWrongByChoice": {
+          "A": "In complete heart block, SA node impulses cannot reach the ventricles. The dissociation between P waves and QRS complexes confirms that the ventricles are not being driven by the SA node.",
+          "C": "There is no evidence of an accessory pathway. The ventricular rhythm is an escape rhythm from a subsidiary pacemaker, not retrograde conduction through an accessory pathway.",
+          "D": "The AV node is above the level of block in infra-Hisian complete heart block. Enhanced AV nodal automaticity would not explain the wide QRS complexes or the very slow rate of 32 bpm.",
+          "E": "Reentry causes tachycardia, not the slow escape rhythm seen in complete heart block. The rate of 32 bpm is consistent with a low ventricular escape pacemaker, not a reentrant circuit."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "third-degree-AV-block",
+        "complete-heart-block",
+        "escape-rhythm",
+        "infra-Hisian"
+      ]
+    },
+    {
+      "id": "ea-067",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 55-year-old man presents with new-onset fatigue and occasional lightheadedness. His ECG shows a QRS duration of 150 milliseconds with an rSR' pattern (M-shaped QRS) in lead V1 and a deep, wide S wave in lead V6. The PR interval is normal at 160 milliseconds. Which of the following best describes the pathophysiology responsible for the widened QRS complex in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Delayed conduction through the right bundle branch causes sequential left-then-right ventricular activation"
+        },
+        {
+          "label": "B",
+          "text": "Delayed conduction through the left bundle branch causes sequential right-then-left ventricular activation"
+        },
+        {
+          "label": "C",
+          "text": "Complete block at the atrioventricular node causes the ventricles to be activated by an escape pacemaker"
+        },
+        {
+          "label": "D",
+          "text": "Delayed conduction through the common bundle of His equally affects both right and left ventricular activation"
+        },
+        {
+          "label": "E",
+          "text": "Pre-excitation through an accessory pathway causes premature ventricular activation with a delta wave pattern"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Right bundle branch block causes sequential activation of the left ventricle followed by the right ventricle, producing the characteristic rSR' pattern in V1 and wide QRS.",
+        "whyCorrect": "In RBBB, delay in conduction through the right bundle branch causes depolarization of the heart in series: left ventricle first, then right. This produces a widened QRS (>120 ms), an rSR' (M-shaped) pattern in V1/V2, and a dominant prolonged S wave in V6.",
+        "whyWrongByChoice": {
+          "B": "LBBB causes sequential right-then-left activation but produces a downward deflection in V1, not the rSR' (M-shaped) pattern described here.",
+          "C": "Complete AV block would show AV dissociation with P waves unrelated to QRS complexes. The normal PR interval here indicates intact AV conduction.",
+          "D": "Delay in the common bundle of His would affect both bundle branches equally, which is not the mechanism of isolated bundle branch block with the characteristic rSR' morphology.",
+          "E": "Pre-excitation with a delta wave produces a shortened PR interval and a slurred upstroke of the QRS, not the rSR' pattern with normal PR interval seen in RBBB."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "RBBB",
+        "bundle-branch-block",
+        "QRS-morphology",
+        "V1-pattern"
+      ]
+    },
+    {
+      "id": "ea-068",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 63-year-old woman with a history of hypertension and type 2 diabetes presents with progressive exercise intolerance over 6 months. Her ECG shows a QRS duration of 160 milliseconds with a wide downward deflection in lead V1 and loss of the normal septal Q waves in lateral leads. An echocardiogram reveals an ejection fraction of 35%. Which of the following best explains the relationship between her conduction abnormality and reduced ejection fraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The conduction abnormality causes simultaneous activation of both ventricles, increasing myocardial oxygen demand"
+        },
+        {
+          "label": "B",
+          "text": "The conduction abnormality results in dyssynchronous ventricular activation that can reduce ejection fraction over time"
+        },
+        {
+          "label": "C",
+          "text": "The conduction abnormality indicates a reentrant circuit that directly damages the ventricular myocardium progressively"
+        },
+        {
+          "label": "D",
+          "text": "The conduction abnormality produces retrograde atrial activation that impairs ventricular filling during each cardiac cycle"
+        },
+        {
+          "label": "E",
+          "text": "The conduction abnormality causes prolonged QT interval that leads to recurrent ventricular tachycardia and myocardial injury"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Left bundle branch block causes dyssynchronous (sequential) ventricular activation that can lead to reduced ejection fraction and heart failure over time.",
+        "whyCorrect": "LBBB (wide QRS with downward deflection in V1 and loss of septal Q waves) causes in-series rather than simultaneous ventricular activation. The source material states that this dyssynchronous activation can, over time, lead to a reduction in ejection fraction and even heart failure.",
+        "whyWrongByChoice": {
+          "A": "Bundle branch blocks cause sequential (dyssynchronous), not simultaneous, ventricular activation. It is the dyssynchrony, not simultaneous activation, that impairs cardiac function.",
+          "C": "LBBB is a conduction abnormality, not a reentrant circuit. It does not directly damage the myocardium but impairs coordinated contraction over time.",
+          "D": "LBBB does not cause retrograde atrial activation. The conduction abnormality affects ventricular activation sequence, not atrial activation.",
+          "E": "LBBB affects QRS duration, not the QT interval. The reduced ejection fraction results from dyssynchronous activation, not from QT prolongation or recurrent VT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "LBBB",
+        "dyssynchrony",
+        "heart-failure",
+        "ejection-fraction"
+      ]
+    },
+    {
+      "id": "ea-069",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 60-year-old man with no significant past medical history presents to the emergency department with dizziness. His ECG shows a 2:1 AV conduction ratio with a ventricular rate of 43 beats/min. He is on no medications, and his blood chemistry, arterial blood gases, CBC, and chest X-ray are all normal. Which of the following statements about this patient's conduction abnormality is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The constant PR intervals in the conducted beats confirm that this is definitively Mobitz type II second-degree block"
+        },
+        {
+          "label": "B",
+          "text": "The Mobitz classification cannot be applied because consecutively conducted beats are needed to distinguish type I from type II"
+        },
+        {
+          "label": "C",
+          "text": "The presence of a relationship between P waves and every other QRS confirms that this is complete atrioventricular block"
+        },
+        {
+          "label": "D",
+          "text": "The 2:1 conduction ratio indicates that this block is physiologic and related to increased parasympathetic tone at rest"
+        },
+        {
+          "label": "E",
+          "text": "The normal blood chemistry rules out cardiac disease as a cause, suggesting this is a medication-related conduction delay"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In 2:1 AV block, the Mobitz classification cannot be applied because only every other beat is conducted, so there are no consecutively conducted beats to assess PR interval behavior.",
+        "whyCorrect": "To apply the Mobitz classification, one must observe the PR interval in consecutively conducted beats leading up to the dropped beat. In 2:1 block, only every other beat is conducted, so there are no consecutively conducted beats. The block could be either Mobitz type I or type II.",
+        "whyWrongByChoice": {
+          "A": "Although the PR intervals may appear constant, this criterion cannot be applied for Mobitz classification when the block is 2:1, since consecutively conducted beats are required to distinguish the types.",
+          "C": "Complete heart block requires AV dissociation with no relationship between P waves and QRS complexes. The fact that every other P wave is followed by a QRS maintains a relationship, ruling out complete block.",
+          "D": "A symptomatic 2:1 block with a dangerously slow rate of 43 bpm in a patient with no reversible cause is not physiologic and likely represents intrinsic cardiac disease.",
+          "E": "The patient is on no medications, and normal blood chemistry does not rule out intrinsic cardiac disease such as fibrosis or degenerative conduction system disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "2-to-1-AV-block",
+        "Mobitz-classification",
+        "second-degree-AV-block",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-070",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 72-year-old man with a history of chronic heart failure and left bundle branch block presents with worsening dyspnea on exertion. His ejection fraction has declined from 40% to 25% over the past year despite optimal medical therapy. Which of the following treatment strategies most directly addresses the pathophysiologic consequences of his conduction abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Implantation of a single-chamber ventricular pacemaker to increase the resting heart rate above 60 beats per minute"
+        },
+        {
+          "label": "B",
+          "text": "Initiation of a beta-blocker to reduce heart rate and decrease myocardial oxygen demand during systolic contraction"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac resynchronization therapy with simultaneous pacing of the right and left ventricles to restore synchrony"
+        },
+        {
+          "label": "D",
+          "text": "Catheter ablation of the left bundle branch to eliminate the conduction delay and restore normal QRS duration"
+        },
+        {
+          "label": "E",
+          "text": "Administration of intravenous atropine to improve conduction velocity through the left bundle branch fibers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac resynchronization therapy (CRT) with biventricular pacing directly addresses the dyssynchronous ventricular activation caused by LBBB in patients with heart failure.",
+        "whyCorrect": "The source material states that patients with bundle branch block and heart failure may require resynchronization therapy with simultaneous pacemakers in the RV and LV. CRT restores synchronous ventricular activation, improving ejection fraction and symptoms.",
+        "whyWrongByChoice": {
+          "A": "A single-chamber ventricular pacemaker would not address the dyssynchrony between right and left ventricles. Biventricular pacing is needed to restore coordinated contraction.",
+          "B": "While beta-blockers are part of heart failure therapy, they do not address the mechanical dyssynchrony caused by LBBB, which is the specific pathophysiologic consequence being targeted.",
+          "D": "Catheter ablation of the left bundle branch would worsen, not improve, the conduction abnormality. Ablation destroys tissue and would not restore normal conduction.",
+          "E": "Atropine works by blocking vagal input at the AV node and would not improve conduction through the bundle branches, which is the site of the block in LBBB."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "LBBB",
+        "CRT",
+        "resynchronization",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "ea-071",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 66-year-old man with a history of anterior wall myocardial infarction is admitted to the coronary care unit. His initial ECG shows right bundle branch block. Over the next 12 hours, he develops intermittent dropped QRS complexes with constant PR intervals in the conducted beats. His cardiologist expresses concern about a potentially dangerous progression. Which of the following complications is the cardiologist most worried about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Development of complete heart block due to the contralateral left bundle branch also becoming blocked"
+        },
+        {
+          "label": "B",
+          "text": "Development of atrial fibrillation due to atrial remodeling caused by the prolonged QRS duration on ECG"
+        },
+        {
+          "label": "C",
+          "text": "Development of Wolff-Parkinson-White syndrome from new accessory pathway formation after the infarction"
+        },
+        {
+          "label": "D",
+          "text": "Development of sinoatrial node dysfunction due to ischemic damage extending to the right atrial tissue"
+        },
+        {
+          "label": "E",
+          "text": "Development of first-degree AV block with asymptomatic PR prolongation that will require lifelong monitoring"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When one bundle branch is blocked and Mobitz type II block develops, the concern is that the contralateral branch may also become blocked, causing complete heart block.",
+        "whyCorrect": "The source material warns that if the contralateral bundle branch becomes blocked in a patient with existing bundle branch block, a very dangerous form of AV block may suddenly result. Mobitz type II with existing RBBB suggests the left bundle is also affected, and complete bilateral bundle branch block would cause third-degree AV block.",
+        "whyWrongByChoice": {
+          "B": "Atrial fibrillation is not a consequence of bundle branch block. The RBBB does not cause atrial remodeling leading to atrial fibrillation.",
+          "C": "WPW is a congenital condition resulting from incomplete formation of AV valve ring insulators; it does not develop after myocardial infarction.",
+          "D": "While SA node dysfunction is possible with right coronary artery disease, the cardiologist's concern with progressive conduction disease in both bundle branches is complete heart block.",
+          "E": "First-degree AV block is a benign condition. The concern here is far more serious: progression to complete heart block from bilateral bundle branch block, which could cause cardiac arrest."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "bilateral-bundle-branch-block",
+        "complete-heart-block",
+        "Mobitz-type-II",
+        "anterior-MI"
+      ]
+    },
+    {
+      "id": "ea-072",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 58-year-old woman presents to the emergency department with lightheadedness and near-syncope. Her heart rate is 38 beats/min. ECG shows grouped beating with progressive prolongation of the PR interval before each dropped QRS complex. She is hemodynamically symptomatic with blood pressure of 82/54 mmHg. She recently started verapamil for hypertension. Which of the following is the most appropriate immediate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Implantation of a permanent pacemaker because this type of block is always chronic and irreversible by definition"
+        },
+        {
+          "label": "B",
+          "text": "Administration of intravenous verapamil to further slow AV conduction and allow the ventricles more filling time"
+        },
+        {
+          "label": "C",
+          "text": "Administration of intravenous atropine to block vagal input and improve conduction through the AV node acutely"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of a beta-blocker to reduce the heart rate and prevent the premature beats that trigger the dropped QRS"
+        },
+        {
+          "label": "E",
+          "text": "Electrical cardioversion to terminate the arrhythmia and restore normal sinus rhythm with 1:1 AV conduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Symptomatic Mobitz type I block is treated acutely with intravenous atropine, which blocks vagal (muscarinic) input to improve AV nodal conduction.",
+        "whyCorrect": "Mobitz type I (Wenckebach) block occurs at the AV node and is often dependent on vagal tone or certain drugs (like verapamil). When symptomatic, atropine is usually effective in the short term due to its muscarinic blocking (anti-vagal) properties, serving to buy time until the offending agent is removed or the process resolves.",
+        "whyWrongByChoice": {
+          "A": "Mobitz type I, in contrast to type II, tends to occur in acute situations, be dependent on vagal tone or certain drugs, and be reversible. Permanent pacing is needed only in exceptional chronic cases.",
+          "B": "Verapamil is a nondihydropyridine calcium-channel blocker that slows AV conduction and is likely the cause of this patient's block. Giving more verapamil would worsen the condition.",
+          "D": "Beta-blockers slow AV conduction and heart rate, which would worsen the block and the hemodynamic compromise. They are a cause of AV block, not a treatment.",
+          "E": "Cardioversion is used for tachyarrhythmias, not for bradyarrhythmias like second-degree AV block. The problem here is insufficient conduction, not an abnormal rapid rhythm."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "Mobitz-type-I",
+        "Wenckebach",
+        "atropine",
+        "verapamil",
+        "treatment"
+      ]
+    },
+    {
+      "id": "ea-073",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 45-year-old man undergoes an ECG as part of a routine employment physical. The tracing shows a regular sinus rhythm at 72 beats/min with a PR interval of 180 milliseconds, a QRS duration of 88 milliseconds, and normal ST-T wave morphology. He has no cardiac symptoms or history. His physician tells him the ECG is normal. If this patient's AV node were to suddenly fail completely, which of the following intrinsic rates would be expected from the next available rescue pacemaker?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "60 to 80 beats per minute from the sinoatrial node taking over as the primary cardiac pacemaker"
+        },
+        {
+          "label": "B",
+          "text": "40 to 50 beats per minute from atrial tissue serving as the next subsidiary pacemaker in the hierarchy"
+        },
+        {
+          "label": "C",
+          "text": "30 to 40 beats per minute from the AV junction generating an escape rhythm below the level of block"
+        },
+        {
+          "label": "D",
+          "text": "15 to 30 beats per minute from ventricular myocardium serving as the lowest rescue pacemaker available"
+        },
+        {
+          "label": "E",
+          "text": "100 to 120 beats per minute from enhanced sympathetic stimulation compensating for the loss of AV conduction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "If the AV node fails completely, the next rescue pacemaker in the conduction hierarchy is the AV junction (distal to the block), with an intrinsic rate of 30-40 bpm.",
+        "whyCorrect": "The intrinsic pacemaker rates are: SA node 60-80 bpm, atria 40-50 bpm, AV junction 30-40 bpm, and ventricles 15-30 bpm. If the AV node itself fails, the rescue pacemaker from the junctional tissue distal to the block (His bundle region) would fire at 30-40 bpm.",
+        "whyWrongByChoice": {
+          "A": "The SA node is already the primary pacemaker and would continue to fire, but its impulses cannot reach the ventricles through the failed AV node. The SA node rate is irrelevant to what drives the ventricles.",
+          "B": "Atrial tissue (40-50 bpm) is above the level of the AV node block. Like the SA node, atrial impulses would not be able to cross the blocked AV node to reach the ventricles.",
+          "D": "Ventricular myocardium (15-30 bpm) is the lowest rescue pacemaker, but the AV junction at 30-40 bpm would be expected to take over first, as it is the next available pacemaker below the block.",
+          "E": "While sympathetic stimulation may occur as a compensatory response, the intrinsic rate of the rescue pacemaker is determined by the tissue's automaticity, not by the sympathetic nervous system response."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "pacemaker-hierarchy",
+        "intrinsic-rates",
+        "escape-rhythm",
+        "AV-junction"
+      ]
+    },
+    {
+      "id": "ea-074",
+      "topicId": "heart-blocks",
+      "topicName": "Heart Blocks",
+      "stem": "A 70-year-old woman with a history of Lyme disease presents with fatigue and dyspnea. Her heart rate is 34 beats/min. ECG shows P waves at a rate of 76/min marching through the QRS complexes with no consistent relationship. The QRS complexes are narrow at 90 milliseconds with a regular rate. Which of the following conclusions about the level of the block is best supported by the QRS morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The narrow QRS complexes indicate the block is at or above the bundle of His with a junctional escape rhythm"
+        },
+        {
+          "label": "B",
+          "text": "The narrow QRS complexes indicate the block is below the bundle of His with a ventricular escape rhythm"
+        },
+        {
+          "label": "C",
+          "text": "The narrow QRS complexes indicate the block is within the bilateral bundle branches at an infra-Hisian level"
+        },
+        {
+          "label": "D",
+          "text": "The narrow QRS complexes indicate the block is at the sinoatrial node with failure of impulse generation"
+        },
+        {
+          "label": "E",
+          "text": "The QRS morphology cannot provide any information about the anatomic level of the conduction block"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In complete heart block, narrow escape QRS complexes indicate the block is at or above the bundle of His, with a junctional escape pacemaker generating the ventricular rhythm.",
+        "whyCorrect": "The source material states that blockade at or above the bundle of His may produce narrow escape QRS complexes (<3 small boxes), while infra-Hisian blockade always produces wide escape QRS complexes. The narrow QRS (90 ms) indicates the escape rhythm originates at the His bundle or AV junction level.",
+        "whyWrongByChoice": {
+          "B": "Infra-Hisian block with a ventricular escape rhythm would produce wide QRS complexes, not the narrow 90 ms complexes seen in this patient.",
+          "C": "Bilateral bundle branch block is an infra-Hisian location that always produces wide escape complexes, inconsistent with the narrow QRS described.",
+          "D": "SA node failure would not show P waves at 76/min marching through the rhythm. The presence of regular P waves indicates the SA node is functioning normally; the problem is at the AV level.",
+          "E": "QRS morphology does provide important information about the level of block in complete heart block: narrow QRS suggests block at or above the His bundle, while wide QRS indicates infra-Hisian block."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "heart-blocks",
+        "third-degree-AV-block",
+        "complete-heart-block",
+        "narrow-QRS",
+        "Lyme-disease",
+        "junctional-escape"
+      ]
+    },
+    {
+      "id": "ea-101",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 62-year-old man with a history of anterior wall myocardial infarction 3 months ago presents to the emergency department after a witnessed syncopal episode at home. His wife reports he was sitting in a chair when he suddenly lost consciousness for approximately 30 seconds before spontaneously awakening. On arrival, his blood pressure is 88/54 mm Hg and heart rate is 180 beats/min. ECG reveals a series of wide QRS complexes (duration 160 msec) at a regular rate with uniform morphology. P waves are not discernible. Which of the following best explains the electrophysiologic mechanism responsible for this patient's arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abnormal electrical impulse originating at the border of scarred and normal myocardium, bypassing the His-Purkinje system"
+        },
+        {
+          "label": "B",
+          "text": "Chaotic disorganized electrical wavelets propagating simultaneously in multiple directions from the atrial myocardium into the ventricles"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced automaticity of the sinoatrial node with aberrant conduction through the bundle branches producing widened QRS complexes"
+        },
+        {
+          "label": "D",
+          "text": "Retrograde conduction through an accessory pathway creating a macro-reentrant circuit involving both the atria and the ventricles"
+        },
+        {
+          "label": "E",
+          "text": "Triggered activity from delayed afterdepolarizations in the Purkinje fibers causing repetitive depolarizations at a rate of 60-100 beats/min"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient presents with monomorphic ventricular tachycardia (VT) in the setting of prior MI. VT originates from the border between normal and scarred myocardium, with the impulse bypassing the His-Purkinje system and activating the ventricles in series rather than in parallel, producing wide QRS complexes.",
+        "whyCorrect": "In VT, the abnormal electrical impulse commonly originates on the border between normal and abnormal myocardium (e.g., scar tissue from prior MI). The impulse spreads from the diseased portion of the myocardium, bypassing the His-Purkinje system, so the ventricles are activated in series rather than in parallel, producing a wide QRS complex (>120 msec) and dyssynchronous contraction that reduces cardiac output.",
+        "whyWrongByChoice": {
+          "B": "Chaotic disorganized wavelets propagating in multiple directions describes atrial fibrillation, not ventricular tachycardia. This patient has a regular rhythm with uniform wide QRS complexes, inconsistent with AF.",
+          "C": "Enhanced automaticity of the SA node with aberrant conduction would produce sinus tachycardia with bundle branch block. The absence of P waves and the clinical context of prior MI make this unlikely.",
+          "D": "A macro-reentrant circuit involving an accessory pathway describes atrioventricular reentrant tachycardia (AVRT), as seen in Wolff-Parkinson-White syndrome, not monomorphic VT arising from ventricular scar tissue.",
+          "E": "A rate of 60-100 beats/min describes accelerated idioventricular rhythm (AIVR), not ventricular tachycardia. This patient's rate of 180 beats/min is well above the AIVR range."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ventricular-tachycardia",
+        "pathophysiology",
+        "myocardial-infarction"
+      ]
+    },
+    {
+      "id": "ea-102",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 58-year-old woman is brought to the emergency department after collapsing at a grocery store. Bystanders initiated CPR immediately. On arrival, she is unresponsive, pulseless, and apneic. The cardiac monitor shows chaotic, disorganized oscillations with no identifiable QRS complexes. The emergency physician prepares to deliver electrical therapy. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unsynchronized defibrillation with continuation of chest compressions per the basic cardiac life support protocol"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous amiodarone 300 mg bolus followed by continuous infusion to restore organized cardiac activity"
+        },
+        {
+          "label": "C",
+          "text": "Synchronized cardioversion at 100 joules coordinated with the cardiac rhythm displayed on the monitor"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous diltiazem 20 mg bolus to slow the ventricular rate and restore hemodynamic stability"
+        },
+        {
+          "label": "E",
+          "text": "Transcutaneous pacing at a rate of 80 beats per minute to override the chaotic ventricular electrical activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient is in ventricular fibrillation (VF), which presents as pulseless cardiac arrest with chaotic oscillations on the monitor and no organized QRS complexes. VF is always treated with immediate unsynchronized defibrillation and BCLS (chest compressions).",
+        "whyCorrect": "VF is always unstable and emergent. The treatment is immediate unsynchronized defibrillation along with basic cardiac life support (chest compressions). Unsynchronized defibrillation delivers a high-voltage shock not coordinated with the heartbeat, which is necessary because there is no organized QRS complex to synchronize with.",
+        "whyWrongByChoice": {
+          "B": "While amiodarone may be used as an adjunct during cardiac arrest, the immediate priority in VF is defibrillation, not pharmacologic therapy. Electricity, not pharmacology, is necessary for immediate restoration of rhythm.",
+          "C": "Synchronized cardioversion requires an identifiable QRS complex for the defibrillator to coordinate the shock. In VF, there are no organized QRS complexes, making synchronization impossible.",
+          "D": "Intravenous diltiazem is a calcium channel blocker used for rate control in supraventricular arrhythmias. Calcium channel blockers are generally contraindicated in ventricular arrhythmias and would not restore organized cardiac activity in VF.",
+          "E": "Transcutaneous pacing is used for symptomatic bradycardia, not for ventricular fibrillation. The chaotic electrical activity in VF would not respond to pacing attempts."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ventricular-fibrillation",
+        "defibrillation",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "ea-103",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 45-year-old woman is admitted to the psychiatric unit and started on a new antipsychotic medication. On hospital day 3, telemetry reveals recurring brief salvos of a wide complex tachycardia characterized by QRS complexes with alternating amplitudes and axis shifts appearing to twist around an isoelectric baseline. Between salvos, the QTc interval measures 560 msec. Serum electrolytes reveal potassium of 3.0 mEq/L and magnesium of 1.2 mg/dL. Which of the following is the most appropriate initial pharmacologic treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous lidocaine bolus followed by a continuous infusion to suppress the ventricular ectopic focus"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous amiodarone loading dose to prolong the refractory period and terminate the arrhythmia"
+        },
+        {
+          "label": "C",
+          "text": "Oral flecainide to suppress the abnormal automaticity generating the polymorphic ventricular complexes"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous magnesium and potassium replacement to correct the underlying electrolyte abnormalities"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous adenosine rapid push to transiently block AV nodal conduction and terminate the reentrant circuit"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has torsades de pointes (TdP), a form of polymorphic VT associated with prolonged QT interval, triggered by an antipsychotic medication in the setting of hypokalemia and hypomagnesemia. TdP is treated with intravenous magnesium and/or potassium replacement.",
+        "whyCorrect": "Torsades de pointes is a disorder of prolonged repolarization associated with a long QT interval. The acquired form can be caused by drugs (including antipsychotics) and electrolyte depletion (potassium and magnesium). Treatment is intravenous magnesium and/or potassium replacement. The offending drug should also be discontinued.",
+        "whyWrongByChoice": {
+          "A": "Lidocaine may be used for monomorphic VT but is not the first-line treatment for torsades de pointes. The priority is correcting the underlying cause—electrolyte abnormalities and drug-induced QT prolongation.",
+          "B": "Amiodarone is a Class III antiarrhythmic that prolongs the QT interval. Using amiodarone in TdP could further prolong the QT interval and worsen the arrhythmia, making it contraindicated in this setting.",
+          "C": "Flecainide is a Class IC agent used for supraventricular arrhythmias in patients without structural heart disease. It does not address the prolonged QT interval or electrolyte abnormalities causing TdP.",
+          "E": "Adenosine is primarily used for supraventricular tachycardia due to its ability to transiently block AV nodal conduction. It is not effective for TdP, which originates in the ventricles and is not dependent on AV nodal conduction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "torsades-de-pointes",
+        "long-QT-syndrome",
+        "drug-induced-arrhythmia"
+      ]
+    },
+    {
+      "id": "ea-104",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 70-year-old man with a history of ischemic cardiomyopathy and ejection fraction of 25% is evaluated 8 weeks after a large anterior wall myocardial infarction. He has had no further episodes of chest pain or arrhythmias since his MI. He is hemodynamically stable on optimal medical therapy. His cardiologist recommends placement of a device for primary prevention of sudden cardiac death. Which of the following best describes the rationale for this recommendation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patients with prior MI who develop VT/VF only within the first 48 hours have a high risk of recurrent arrhythmia requiring device therapy"
+        },
+        {
+          "label": "B",
+          "text": "Implantable cardioverter-defibrillators are indicated after MI in patients with low ejection fraction who have never had an arrhythmia to prevent sudden cardiac death"
+        },
+        {
+          "label": "C",
+          "text": "Beta-blocker therapy alone is sufficient for long-term prevention of sudden cardiac death in patients with post-MI cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Antiarrhythmic drugs such as amiodarone provide equivalent survival benefit compared to implantable cardioverter-defibrillators in this patient population"
+        },
+        {
+          "label": "E",
+          "text": "Device implantation is only indicated in patients who have had a documented episode of ventricular tachycardia or ventricular fibrillation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient with post-MI ischemic cardiomyopathy and low EF is a candidate for primary prevention ICD placement. ICDs are implanted after MI in patients with low EF who have never had an arrhythmia, as primary prevention of sudden cardiac death.",
+        "whyCorrect": "Many ICD devices are implanted after MI in patients with low EF who have never had an arrhythmia, as primary prevention of sudden cardiac death (SCD). This patient's structural heart disease (ischemic cardiomyopathy with EF 25%) creates the substrate for potentially lethal ventricular arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "Patients who only have VT/VF within the first 48 hours after MI are actually an exception to ICD placement. Their arrhythmia is considered related to the acute event and does not indicate a need for long-term device therapy.",
+          "C": "While beta-blockers reduce arrhythmia risk, they are not sufficient as the sole strategy for preventing sudden cardiac death in high-risk patients with post-MI cardiomyopathy and severely reduced ejection fraction.",
+          "D": "Antiarrhythmic drugs have not been shown to provide equivalent survival benefit compared to ICDs in patients at high risk for sudden cardiac death. ICDs remain the standard of care for primary prevention in this population.",
+          "E": "This is incorrect because ICDs are indicated for primary prevention (patients who have never had VT/VF) in the setting of structural heart disease with low EF, not only for secondary prevention after a documented arrhythmic event."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ICD",
+        "sudden-cardiac-death",
+        "primary-prevention"
+      ]
+    },
+    {
+      "id": "ea-105",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 32-year-old previously healthy man is brought to the emergency department after a cardiac arrest during a recreational soccer game. He was successfully resuscitated with an automated external defibrillator. His family history is significant for an uncle who died suddenly at age 28. Baseline ECG in the emergency department shows characteristic ST-segment elevations in leads V1-V3 with a right bundle branch block pattern. Echocardiogram reveals no structural heart disease. Genetic testing reveals an autosomal dominant mutation affecting cardiac sodium channels. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic cardiomyopathy with dynamic left ventricular outflow tract obstruction causing exercise-induced ventricular arrhythmia"
+        },
+        {
+          "label": "B",
+          "text": "Acquired long QT syndrome secondary to an unidentified medication causing torsades de pointes during physical exertion"
+        },
+        {
+          "label": "C",
+          "text": "Brugada syndrome with a genetic sodium channel disorder predisposing to ventricular tachycardia and fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Arrhythmogenic right ventricular cardiomyopathy with fibrofatty replacement of the right ventricular myocardium"
+        },
+        {
+          "label": "E",
+          "text": "Wolff-Parkinson-White syndrome with an accessory pathway causing pre-excited atrial fibrillation degenerating into ventricular fibrillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This young man with sudden cardiac arrest, family history of sudden death, characteristic ECG changes (ST elevations in V1-V3 with RBBB pattern), no structural heart disease, and an autosomal dominant sodium channel mutation has Brugada syndrome.",
+        "whyCorrect": "Brugada syndrome is the second most common inherited disorder of the action potential that can cause lethal ventricular arrhythmias. It is a disorder of sodium channels with primarily autosomal dominant inheritance with variable expression. Most patients are asymptomatic until they present in sudden cardiac arrest from VT or VF. Early diagnosis based on recognition of characteristic ECG findings is essential.",
+        "whyWrongByChoice": {
+          "A": "Hypertrophic cardiomyopathy would show structural abnormalities on echocardiography (septal hypertrophy), which was normal in this patient. Additionally, the genetic mutation affects sodium channels, not sarcomeric proteins.",
+          "B": "Acquired long QT syndrome is caused by drugs or electrolyte abnormalities, not by an inherited sodium channel mutation. Additionally, the ECG pattern described (ST elevations in V1-V3) is characteristic of Brugada syndrome, not long QT.",
+          "D": "Arrhythmogenic right ventricular cardiomyopathy involves structural changes (fibrofatty replacement) that would be visible on imaging. The echocardiogram in this patient was normal, and the genetic defect is in sodium channels, not desmosomal proteins.",
+          "E": "Wolff-Parkinson-White syndrome involves an accessory pathway and would show a delta wave on ECG with a short PR interval, not the characteristic ST elevations in V1-V3 with RBBB pattern seen in Brugada syndrome."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "Brugada-syndrome",
+        "sodium-channel",
+        "sudden-cardiac-death"
+      ]
+    },
+    {
+      "id": "ea-106",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 55-year-old man with a history of dilated cardiomyopathy presents with palpitations and dizziness. His blood pressure is 82/50 mm Hg and heart rate is 190 beats/min. ECG shows a wide complex tachycardia with uniform QRS morphology at a regular rate. He has a palpable pulse. Which of the following is the most appropriate immediate intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous adenosine 6 mg rapid push to differentiate supraventricular tachycardia with aberrancy from ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous amiodarone 150 mg over 10 minutes followed by a continuous drip to pharmacologically terminate the tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Vagal maneuvers including carotid sinus massage and Valsalva to slow conduction through the atrioventricular node"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous diltiazem 0.25 mg/kg bolus to achieve rapid rate control by slowing conduction through the atrioventricular node"
+        },
+        {
+          "label": "E",
+          "text": "Synchronized cardioversion to deliver a shock timed to increase probability of restoring sinus rhythm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This patient has monomorphic VT with hemodynamic instability (hypotension) but still has a pulse. The treatment for VT in a patient who has a pulse but is hypotensive is synchronized cardioversion.",
+        "whyCorrect": "If the patient has a pulse but is hypotensive, synchronized cardioversion is used. This allows the defibrillator to read the current electrical pattern of the heart and apply a shock at a particular moment to increase the probability that the patient's heart will return to sinus rhythm.",
+        "whyWrongByChoice": {
+          "A": "Adenosine is primarily used for supraventricular tachycardia due to its ability to transiently block AV nodal conduction. It is not effective for VT, which originates in the ventricles and does not depend on AV nodal conduction.",
+          "B": "Amiodarone can be used to terminate VT, but only in hemodynamically stable patients. This patient is hypotensive (BP 82/50), indicating hemodynamic instability that requires immediate electrical cardioversion rather than pharmacologic therapy.",
+          "C": "Vagal maneuvers are used for supraventricular tachycardias that depend on AV nodal conduction. They are ineffective in VT because the arrhythmia originates in the ventricles and does not involve the AV node.",
+          "D": "Calcium channel blockers like diltiazem are generally contraindicated in ventricular arrhythmias. In the setting of VT with hemodynamic instability, they could further reduce blood pressure and worsen the clinical picture."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ventricular-tachycardia",
+        "synchronized-cardioversion",
+        "hemodynamic-instability"
+      ]
+    },
+    {
+      "id": "ea-107",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 48-year-old woman presents for a routine physical examination. She reports occasional sensations of her heart \"skipping a beat,\" particularly after drinking coffee. She denies syncope, chest pain, or dyspnea. Physical examination is unremarkable. ECG shows normal sinus rhythm with occasional single premature beats characterized by a widened QRS complex (140 msec), abnormal QRS morphology, and ST segments pointing opposite to the major QRS deflection. A compensatory pause follows each abnormal beat. Echocardiogram shows no structural heart disease. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Referral for electrophysiology study and catheter ablation of the ectopic ventricular focus causing the premature beats"
+        },
+        {
+          "label": "B",
+          "text": "Initiation of amiodarone therapy to suppress the premature beats and prevent progression to ventricular tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Implantation of a cardioverter-defibrillator for primary prevention given the presence of ventricular ectopy on ECG"
+        },
+        {
+          "label": "D",
+          "text": "Avoidance of caffeine and other precipitating substances with beta-blocker therapy if lifestyle modification is ineffective"
+        },
+        {
+          "label": "E",
+          "text": "Immediate admission for continuous telemetry monitoring given the risk of degeneration into ventricular fibrillation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has premature ventricular contractions (PVCs), which are benign in the absence of structural heart disease. Treatment focuses on avoidance of precipitating substances (caffeine, alcohol, tobacco) with beta-blockers reserved for symptomatic patients who do not respond to lifestyle changes.",
+        "whyCorrect": "PVCs are not life-threatening. Treatment is largely directed toward avoidance of alcohol, tobacco, caffeine, or other precipitating drugs. Beta-blockers can reduce the frequency in patients who are symptomatic and do not respond to lifestyle changes.",
+        "whyWrongByChoice": {
+          "A": "Catheter ablation is not indicated for occasional, benign PVCs in a patient without structural heart disease. This invasive procedure is reserved for patients with very frequent PVCs causing symptoms or cardiomyopathy.",
+          "B": "Amiodarone has significant side effects including pulmonary, thyroid, and hepatic toxicity. It is inappropriate for benign PVCs, which are not life-threatening and can be managed conservatively.",
+          "C": "ICD implantation is indicated for patients with VF/VT in the setting of structural heart disease or for primary prevention in high-risk patients with low ejection fraction. Occasional PVCs in a structurally normal heart do not warrant device implantation.",
+          "E": "PVCs in the absence of structural heart disease are benign and do not require hospitalization for telemetry monitoring. They do not carry a significant risk of degenerating into ventricular fibrillation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "PVC",
+        "benign-arrhythmia",
+        "lifestyle-modification"
+      ]
+    },
+    {
+      "id": "ea-108",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 66-year-old man is being monitored in the coronary care unit following a successful percutaneous coronary intervention for an acute inferior STEMI. On hospital day 2, telemetry reveals a wide QRS complex rhythm at a rate of 75 beats/min. The patient is asymptomatic, hemodynamically stable with a blood pressure of 128/76 mm Hg, and reports feeling well. Which of the following best describes this rhythm and its appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular tachycardia requiring immediate synchronized cardioversion to prevent hemodynamic deterioration and cardiac arrest"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular fibrillation requiring immediate unsynchronized defibrillation and initiation of chest compressions per ACLS protocol"
+        },
+        {
+          "label": "C",
+          "text": "Torsades de pointes requiring intravenous magnesium supplementation and discontinuation of all QT-prolonging medications"
+        },
+        {
+          "label": "D",
+          "text": "Supraventricular tachycardia with aberrant conduction requiring intravenous adenosine to restore normal sinus rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Accelerated idioventricular rhythm, a wide complex rhythm that typically does not require specific antiarrhythmic treatment"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This patient has accelerated idioventricular rhythm (AIVR), defined by wide QRS complexes at a rate of 60-100 beats/min. AIVR occurs during myocardial ischemia or infarction and typically does not require specific antiarrhythmic treatment.",
+        "whyCorrect": "When the rate of repetitive ventricular depolarizations is in the range of 60-100 beats per minute, the arrhythmia is referred to as accelerated idioventricular rhythm (AIVR) rather than ventricular tachycardia. AIVR occurs during myocardial ischemia or infarction and typically does not require specific antiarrhythmic treatment.",
+        "whyWrongByChoice": {
+          "A": "Ventricular tachycardia is defined by a rate of 100-250 beats/min. This patient's rate of 75 beats/min is below the threshold for VT. Additionally, he is hemodynamically stable and asymptomatic, making emergent cardioversion inappropriate.",
+          "B": "Ventricular fibrillation presents with chaotic, disorganized oscillations and no organized QRS complexes, along with pulselessness. This patient has organized wide QRS complexes and is hemodynamically stable.",
+          "C": "Torsades de pointes is characterized by alternating amplitudes and axis shifts of QRS complexes with a prolonged QT interval. This patient has a regular, uniform wide complex rhythm at a moderate rate, inconsistent with TdP.",
+          "D": "The wide QRS complexes and the clinical context of recent MI are more consistent with a ventricular origin than SVT with aberrancy. Adenosine would not be appropriate management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "AIVR",
+        "myocardial-infarction",
+        "wide-complex-rhythm"
+      ]
+    },
+    {
+      "id": "ea-109",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 73-year-old man with chronic heart failure and an ejection fraction of 30% has an implantable cardioverter-defibrillator (ICD) that was placed 2 years ago. He presents to the cardiology clinic for routine follow-up and has had no device shocks. His medications include carvedilol, lisinopril, and spironolactone. He asks why the device was implanted when he has never had an arrhythmia. Which of the following conditions would be an exception to ICD placement for the prevention of sudden cardiac death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy with an ejection fraction of 28% and New York Heart Association class II heart failure symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular fibrillation occurring exclusively within the first 48 hours after an acute myocardial infarction without recurrence"
+        },
+        {
+          "label": "C",
+          "text": "Ischemic cardiomyopathy with an ejection fraction of 32% and a prior episode of sustained monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophic cardiomyopathy with severe left ventricular hypertrophy and a family history of sudden cardiac death"
+        },
+        {
+          "label": "E",
+          "text": "Valvular heart disease with moderate mitral regurgitation and an ejection fraction of 30% with nonsustained ventricular tachycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "VT/VF occurring only within the first 48 hours after MI is an exception to ICD placement. This early arrhythmia is considered related to the acute ischemic event rather than an underlying substrate for future arrhythmias.",
+        "whyCorrect": "Exceptions to ICD placement include those who only have VT/VF in the first 48 hours after a MI, or in whom a reversible noncardiac cause like a drug overdose or electrolyte imbalance was the cause of the VF/VT. Early post-MI arrhythmias are attributed to the acute event itself rather than a persistent arrhythmogenic substrate.",
+        "whyWrongByChoice": {
+          "A": "Dilated cardiomyopathy with severely reduced EF (28%) represents structural heart disease that creates a substrate for lethal ventricular arrhythmias, making it a standard indication for primary prevention ICD placement.",
+          "C": "Ischemic cardiomyopathy with reduced EF and documented sustained VT is a clear indication for ICD placement, both for secondary prevention (prior VT) and primary prevention (low EF with structural heart disease).",
+          "D": "Hypertrophic cardiomyopathy with severe LVH and family history of sudden death represents a high-risk structural heart disease where ICD placement is indicated for primary prevention of SCD.",
+          "E": "Valvular heart disease with reduced EF and nonsustained VT represents structural heart disease with arrhythmogenic potential, warranting consideration for ICD placement as primary prevention."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ICD",
+        "exceptions",
+        "post-MI-arrhythmia"
+      ]
+    },
+    {
+      "id": "ea-110",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 28-year-old man with known hereditary long QT syndrome presents to the emergency department after experiencing two episodes of near-syncope today. His ECG shows a QTc of 520 msec. He has had multiple prior episodes of self-terminating polymorphic ventricular tachycardia documented on Holter monitoring. His cardiologist is considering long-term management options. Which of the following is the most appropriate long-term treatment strategy for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic oral amiodarone therapy to suppress the ventricular arrhythmias and prevent recurrent episodes of polymorphic VT"
+        },
+        {
+          "label": "B",
+          "text": "Class IC antiarrhythmic agent such as flecainide to stabilize the ventricular myocardium and prevent triggered activity"
+        },
+        {
+          "label": "C",
+          "text": "Chronic magnesium supplementation alone to maintain adequate serum magnesium levels and prevent QT prolongation"
+        },
+        {
+          "label": "D",
+          "text": "Avoidance of all physical activity without any pharmacologic or device-based therapy as the primary management approach"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blocker therapy and/or implantable cardioverter-defibrillator placement for long-term management"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hereditary long QT syndrome with recurrent episodes of polymorphic VT (torsades de pointes) requires long-term treatment with beta-blockers and/or an implanted defibrillator.",
+        "whyCorrect": "The hereditary forms of torsades de pointes require long-term treatment, which might consist of beta-blockers or an implanted defibrillator. Given this patient's recurrent near-syncope and documented polymorphic VT, both beta-blockers and ICD should be considered.",
+        "whyWrongByChoice": {
+          "A": "Amiodarone is a Class III antiarrhythmic that prolongs the QT interval. In a patient with hereditary long QT syndrome, amiodarone could further prolong repolarization and exacerbate the risk of torsades de pointes.",
+          "B": "Class IC agents are not indicated for long QT syndrome management. They do not address the underlying disorder of prolonged repolarization that characterizes hereditary long QT syndrome.",
+          "C": "While intravenous magnesium is used acutely for torsades de pointes, chronic oral magnesium supplementation alone is insufficient for managing hereditary long QT syndrome, which requires beta-blockers and/or device therapy.",
+          "D": "Activity restriction alone without pharmacologic or device-based therapy is inadequate for managing hereditary long QT syndrome with documented recurrent polymorphic VT and near-syncope."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "long-QT-syndrome",
+        "torsades-de-pointes",
+        "hereditary-arrhythmia"
+      ]
+    },
+    {
+      "id": "ea-111",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 52-year-old man with a history of cocaine use presents to the emergency department with palpitations and chest tightness. He admits to using cocaine approximately 2 hours ago. His heart rate is 160 beats/min and blood pressure is 130/85 mm Hg. ECG reveals a regular, wide complex tachycardia with uniform QRS morphology. He is alert, oriented, and hemodynamically stable. Which of the following best characterizes the relationship between this patient's drug use and his arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cocaine acts as a trigger that initiates ventricular tachycardia, while any underlying myocardial damage serves as the substrate"
+        },
+        {
+          "label": "B",
+          "text": "Cocaine directly causes permanent structural damage to the myocardium that is solely responsible for generating the ventricular tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Cocaine prolongs phase 3 of the action potential, causing a prolonged QT interval that leads to torsades de pointes rather than monomorphic VT"
+        },
+        {
+          "label": "D",
+          "text": "Cocaine increases vagal tone, which suppresses the sinoatrial node and allows an escape ventricular rhythm to emerge at an accelerated rate"
+        },
+        {
+          "label": "E",
+          "text": "Cocaine blocks the AV node selectively, causing dissociation between atrial and ventricular activity manifesting as an atrial arrhythmia with wide complexes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The concept of substrate and trigger explains how ventricular arrhythmias arise. The substrate (underlying myocardial pathology) provides the propensity for arrhythmia, while the trigger (such as cocaine or other stimulant drugs) sets it off at a given time.",
+        "whyCorrect": "The pathologic processes such as myocardial damage are referred to as substrates—the 'fertile ground' from which an arrhythmia may arise. For the arrhythmia to occur at any given time there must also be a trigger. Cocaine and other stimulant drugs are known precipitants of PVCs and VT. The trigger could be anything from stimulant drug use, electrolyte disturbance, acute ischemia, hypoxia, or stress.",
+        "whyWrongByChoice": {
+          "B": "While cocaine can cause myocardial damage (e.g., through ischemia), the arrhythmia results from the interplay of substrate and trigger rather than solely from structural damage. The concept emphasizes that both elements are typically needed.",
+          "C": "While cocaine can trigger Brugada syndrome, the description of torsades de pointes specifically involves prolongation of phase 3 of the action potential and a prolonged QT interval, which is not the primary mechanism described for cocaine-induced monomorphic VT.",
+          "D": "Cocaine is a sympathomimetic stimulant that increases sympathetic tone, not vagal tone. It does not suppress the SA node but rather increases heart rate and automaticity through catecholamine excess.",
+          "E": "Cocaine does not selectively block the AV node. The wide complex tachycardia in this case originates from the ventricles (VT), not from an atrial arrhythmia conducted aberrantly."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "substrate-and-trigger",
+        "cocaine",
+        "ventricular-tachycardia"
+      ]
+    },
+    {
+      "id": "ea-112",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 60-year-old woman with a history of heart failure is admitted for dyspnea. Telemetry reveals an ECG pattern where every other beat is a premature beat with a widened QRS complex (150 msec), abnormal morphology, and discordant ST-T wave changes. A compensatory pause follows each abnormal beat before normal sinus rhythm resumes. This alternating pattern has been consistent throughout the monitoring period. Which of the following best describes the ECG pattern and its clinical significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular bigeminy, a pattern that may indicate underlying structural heart disease"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular trigeminy, a pattern where every third beat is a premature ventricular contraction, commonly seen in electrolyte imbalances"
+        },
+        {
+          "label": "C",
+          "text": "First-degree atrioventricular block with intermittent bundle branch block causing alternating wide and narrow QRS complexes on the ECG"
+        },
+        {
+          "label": "D",
+          "text": "Atrial bigeminy with aberrant ventricular conduction producing widened QRS complexes that mimic ventricular ectopy on telemetry"
+        },
+        {
+          "label": "E",
+          "text": "Sustained monomorphic ventricular tachycardia presenting at a slow rate with alternating conducted and nonconducted ventricular beats"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This ECG pattern shows bigeminy—every other beat is a PVC with widened QRS, abnormal morphology, and discordant ST-T waves followed by a compensatory pause. PVCs may be a sign of underlying structural heart disease such as MI.",
+        "whyCorrect": "In bigeminy, each normal beat is followed by a PVC. PVCs show up as a single abnormal beat with a widened QRS complex (>120 msec), abnormal QRS morphology, and ST segments/T waves pointing opposite to the major QRS deflection. A compensatory pause follows each PVC. While PVCs may occur in normal individuals, they may also be a sign of underlying structural heart disease.",
+        "whyWrongByChoice": {
+          "B": "Trigeminy describes a pattern where every third beat is a PVC, not every other beat. The described pattern of alternating normal and premature beats is bigeminy.",
+          "C": "First-degree AV block produces a prolonged PR interval, not alternating wide and narrow QRS complexes. The compensatory pause and abnormal QRS morphology are characteristic of PVCs, not conduction delay.",
+          "D": "The widened QRS complexes (150 msec) with abnormal morphology and discordant ST-T changes are characteristic of ventricular origin (PVCs), not aberrantly conducted atrial premature beats.",
+          "E": "Sustained VT consists of consecutive wide complex beats at 100-250 beats/min. Bigeminy alternates between normal sinus beats and PVCs, which is fundamentally different from sustained VT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "PVC",
+        "bigeminy",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-113",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 74-year-old man undergoes coronary artery bypass grafting (CABG). On postoperative day 1, he develops sudden dyspnea and reports feeling like he is \"suffocating.\" His heart rate is 150 beats/min, blood pressure is 90/60 mm Hg, and respiratory rate is 20 breaths/min. Telemetry shows a wide complex tachycardia. Moments later, he loses consciousness and becomes pulseless. Which of the following is the most likely explanation for his respiratory symptoms prior to losing consciousness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood backing up into the lungs due to reduced cardiac output from impaired diastolic filling and dyssynchronous ventricular contraction"
+        },
+        {
+          "label": "B",
+          "text": "Primary pulmonary embolism causing acute right heart failure and mimicking the presentation of ventricular tachycardia on telemetry"
+        },
+        {
+          "label": "C",
+          "text": "Acute bronchospasm triggered by the stress response associated with the rapid ventricular rate and sympathetic nervous system activation"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragmatic paralysis secondary to phrenic nerve injury during the CABG procedure causing ventilatory failure"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax developing as a delayed complication of central venous catheter placement during the perioperative period"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In VT, the high rate does not allow adequate diastolic filling, and the dyssynchronous contraction reduces cardiac output. Blood backs up into the lungs, causing pulmonary edema and shortness of breath.",
+        "whyCorrect": "In VT, the high heart rate does not allow enough time for the heart to relax enough to fill with blood between contractions. The cardiac output drops, and blood can back up into the lungs, leading to pulmonary edema with shortness of breath. The dyssynchronous contraction (from ventricular activation in series rather than parallel) further reduces cardiac output.",
+        "whyWrongByChoice": {
+          "B": "While pulmonary embolism can cause dyspnea, the telemetry clearly shows a wide complex tachycardia consistent with VT in a post-CABG patient. The presentation is explained by the arrhythmia itself.",
+          "C": "While sympathetic activation occurs during VT, the dyspnea is caused by pulmonary congestion from reduced cardiac output, not primary bronchospasm. The mechanism is hemodynamic, not bronchial.",
+          "D": "Phrenic nerve injury can occur during cardiac surgery but would present with persistent unilateral diaphragmatic elevation, not acute dyspnea associated with a wide complex tachycardia and hemodynamic instability.",
+          "E": "Pneumothorax would present with unilateral absent breath sounds and possibly tracheal deviation, not with a wide complex tachycardia on telemetry as the primary finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "ventricular-tachycardia",
+        "pulmonary-edema",
+        "post-CABG"
+      ]
+    },
+    {
+      "id": "ea-114",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "A 40-year-old man with a known diagnosis of Brugada syndrome presents to the emergency department with a fever of 39.5°C (103.1°F) due to a urinary tract infection. The emergency physician is concerned about the risk of triggering a lethal arrhythmia. Which of the following statements best explains the relationship between fever and arrhythmia risk in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever causes coronary vasospasm that produces acute myocardial ischemia, creating the substrate for ventricular arrhythmias in structurally normal hearts"
+        },
+        {
+          "label": "B",
+          "text": "Fever prolongs the QT interval through direct effects on potassium channels, increasing the risk of torsades de pointes in Brugada syndrome patients"
+        },
+        {
+          "label": "C",
+          "text": "Fever is a known trigger for VT/VF in Brugada syndrome, where the occurrence of arrhythmia is unpredictable and spontaneous but can be provoked by specific factors"
+        },
+        {
+          "label": "D",
+          "text": "Fever increases vagal tone, which suppresses the sinoatrial node and unmasks the sodium channel defect, leading to accelerated idioventricular rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Fever causes dehydration and hypovolemia, which directly triggers premature ventricular contractions that degenerate into sustained ventricular tachycardia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Brugada syndrome, VT/VF occurrence is unpredictable and spontaneous but can be triggered by fever, cocaine, or tricyclic antidepressant use. Fever is a recognized trigger that can provoke lethal arrhythmias in these patients.",
+        "whyCorrect": "VT/VF occurrence in Brugada syndrome is unpredictable and spontaneous but can be triggered by fever, cocaine, or tricyclic antidepressant use. Aggressive fever management is therefore essential in patients with known Brugada syndrome to minimize the risk of triggering a lethal arrhythmia.",
+        "whyWrongByChoice": {
+          "A": "Brugada syndrome is a sodium channel disorder, not a condition involving coronary vasospasm. The arrhythmia risk is related to the ion channel dysfunction, not to ischemia from coronary artery disease.",
+          "B": "Brugada syndrome is a disorder of sodium channels, not potassium channels. The QT interval is not the primary electrophysiologic abnormality in Brugada syndrome, which is instead characterized by ST elevations in V1-V3.",
+          "D": "Fever typically increases sympathetic tone, not vagal tone. Additionally, the primary concern with fever in Brugada syndrome is VT/VF, not accelerated idioventricular rhythm.",
+          "E": "While fever can cause dehydration, the arrhythmogenic mechanism in Brugada syndrome is related to the effect of fever on the dysfunctional sodium channels, not simply to dehydration-induced PVCs."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ventricular-arrhythmias",
+        "Brugada-syndrome",
+        "fever",
+        "arrhythmia-trigger"
+      ]
+    }
+  ]
+}

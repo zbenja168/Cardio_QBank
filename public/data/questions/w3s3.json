@@ -1,0 +1,2145 @@
+{
+  "categoryId": "w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "cd-045",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 61-year-old man with a history of erectile dysfunction treated with sildenafil presents to the emergency department with crushing substernal chest pain. His ECG shows ST-segment elevations in the inferior leads. His blood pressure is 135/85 mmHg. The emergency physician considers administering sublingual nitroglycerin for pain relief. Which of the following is the most important reason to withhold nitroglycerin in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitroglycerin is contraindicated in patients with inferior wall STEMI"
+        },
+        {
+          "label": "B",
+          "text": "Drug interaction between nitroglycerin and phosphodiesterase-5 inhibitors"
+        },
+        {
+          "label": "C",
+          "text": "Nitroglycerin has no proven mortality benefit in acute coronary syndrome"
+        },
+        {
+          "label": "D",
+          "text": "The patient's blood pressure is too high for safe nitroglycerin administration"
+        },
+        {
+          "label": "E",
+          "text": "Nitroglycerin should only be given intravenously, not sublingually, in STEMI"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Nitroglycerin has a critical drug interaction with phosphodiesterase-5 inhibitors such as sildenafil, which can cause severe hypotension.",
+        "whyCorrect": "The source material specifically notes that an important drug interaction exists between nitrates and phosphodiesterase-5 inhibitors such as sildenafil (Viagra). Both drugs cause vasodilation, and their combination can lead to dangerous hypotension.",
+        "whyWrongByChoice": {
+          "A": "Nitroglycerin is not absolutely contraindicated in inferior wall STEMI. It is used in hemodynamically stable patients with ACS.",
+          "C": "While nitroglycerin does not have proven mortality benefit, the dangerous drug interaction with sildenafil is the primary concern here.",
+          "D": "A blood pressure of 135/85 mmHg would be acceptable for nitroglycerin if not for the sildenafil interaction. Nitrates are used when SBP is 90 mmHg or greater.",
+          "E": "Nitroglycerin is appropriately administered sublingually in ACS for immediate pain relief."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "nitroglycerin",
+        "drug-interaction",
+        "sildenafil"
+      ]
+    },
+    {
+      "id": "cd-046",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 58-year-old man presents with an acute inferior wall STEMI. The nearest percutaneous coronary intervention-capable facility is 3 hours away by ambulance transport. The local emergency department physician decides to administer a thrombolytic agent instead. Which of the following best describes the ideal timing for administering thrombolytic therapy in this scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Within 30 minutes of first contact with a medical team"
+        },
+        {
+          "label": "B",
+          "text": "Within 90 minutes of initial symptom onset by the patient"
+        },
+        {
+          "label": "C",
+          "text": "Within 6 hours of symptom onset for maximum efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Within 24 hours of symptom onset if troponin remains elevated"
+        },
+        {
+          "label": "E",
+          "text": "Within 48 hours of symptom onset alongside anticoagulant therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thrombolytic agents should ideally be given within 30 minutes of first contact with a medical team, and must be given within 12 hours of symptom onset.",
+        "whyCorrect": "The source material states that thrombolytic drugs should be given within 12 hours of symptom onset, ideally within 30 minutes of first contact with a medical team, because effectiveness decreases with time.",
+        "whyWrongByChoice": {
+          "B": "The 90-minute window refers to the ideal door-to-balloon time for PCI, not thrombolytic therapy.",
+          "C": "While thrombolytics can be effective up to 12 hours after symptom onset, the ideal timing is within 30 minutes of first medical contact.",
+          "D": "Administration beyond 12 hours has no demonstrated benefit. There is no 24-hour window for thrombolytic therapy.",
+          "E": "There is no 48-hour window for thrombolytic therapy. Effectiveness decreases with time."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "thrombolytics",
+        "STEMI",
+        "timing"
+      ]
+    },
+    {
+      "id": "cd-047",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 64-year-old woman is diagnosed with NSTEMI in the emergency department. She is started on appropriate antiplatelet and anticoagulant therapy. The cardiology team plans for coronary angiography. Which of the following best describes why thrombolytic therapy is NOT indicated for this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrombolytics are only effective for clots older than 12 hours in duration"
+        },
+        {
+          "label": "B",
+          "text": "Thrombolytics are contraindicated in women due to increased bleeding risk"
+        },
+        {
+          "label": "C",
+          "text": "NSTEMI patients have unstable angina and do not have actual infarction"
+        },
+        {
+          "label": "D",
+          "text": "The coronary occlusion is not complete and studies show no improved outcome"
+        },
+        {
+          "label": "E",
+          "text": "Thrombolytics require concurrent PCI which is planned for a later time"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thrombolytics are not used for NSTEMI because the coronary occlusion is incomplete and studies show no overall improved outcome.",
+        "whyCorrect": "The source material states that thrombolytics are not used for NSTEMI because the occlusion is not complete and studies show no overall improved outcome, therefore the risks exceed benefits.",
+        "whyWrongByChoice": {
+          "A": "Thrombolytics are most effective when given early, not for old clots. They should be used within 12 hours of symptom onset.",
+          "B": "Thrombolytics are not contraindicated based on sex.",
+          "C": "NSTEMI is distinct from unstable angina. NSTEMI does involve actual myocardial infarction with elevated troponins.",
+          "E": "Thrombolytics do not require concurrent PCI. They are an alternative to PCI for STEMI when PCI is unavailable."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "thrombolytics",
+        "NSTEMI"
+      ]
+    },
+    {
+      "id": "cd-048",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 70-year-old man with a history of asthma is admitted to the coronary care unit with an acute STEMI. After successful PCI, the physician considers initiating beta-blocker therapy. The patient's heart rate is 78 bpm and blood pressure is 128/76 mmHg. Which of the following beta-blockers would be most appropriate for this patient given his comorbidity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol, a nonselective beta-blocker with proven post-MI benefit"
+        },
+        {
+          "label": "B",
+          "text": "Labetalol, a combined alpha- and beta-blocker for blood pressure control"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol, a cardioselective beta-1 blocker minimizing bronchospasm risk"
+        },
+        {
+          "label": "D",
+          "text": "Nadolol, a long-acting nonselective beta-blocker for sustained heart rate control"
+        },
+        {
+          "label": "E",
+          "text": "Timolol, a nonselective beta-blocker commonly used after myocardial infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardioselective beta-1 blockers such as metoprolol are preferred in patients with asthma because they minimize the risk of bronchospasm from beta-2 blockade.",
+        "whyCorrect": "The source material states that cardioselective beta-1 blockers are preferred because selective agents prevent side effects such as bronchospasm that can occur with beta-2 inhibition in patients with asthma. Metoprolol is specifically listed as one of the agents used in ACS.",
+        "whyWrongByChoice": {
+          "A": "Propranolol is a nonselective beta-blocker that can cause bronchospasm in patients with asthma.",
+          "B": "Labetalol blocks both beta-1 and beta-2 receptors and could trigger bronchospasm.",
+          "D": "Nadolol is a nonselective beta-blocker and could precipitate bronchospasm in asthmatic patients.",
+          "E": "Timolol is a nonselective beta-blocker and carries the risk of bronchoconstriction in asthmatic patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "beta-blockers",
+        "metoprolol",
+        "asthma"
+      ]
+    },
+    {
+      "id": "cd-049",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 55-year-old man is admitted with an NSTEMI and started on intravenous unfractionated heparin along with aspirin and clopidogrel. On hospital day 5, his platelet count drops from 240,000/microL to 85,000/microL. He develops new swelling and pain in his left calf. Which of the following best describes the mechanism underlying his thrombocytopenia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct bone marrow suppression from heparin reducing platelet production"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin-induced irreversible platelet inhibition causing accelerated clearance"
+        },
+        {
+          "label": "C",
+          "text": "Disseminated intravascular coagulation from ongoing myocardial necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Immune-mediated platelet destruction with paradoxical hypercoagulability"
+        },
+        {
+          "label": "E",
+          "text": "Clopidogrel-induced thrombotic thrombocytopenic purpura with platelet consumption"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Heparin-induced thrombocytopenia (HIT) is an immune response causing platelet destruction and paradoxical hypercoagulability.",
+        "whyCorrect": "The source material describes HIT as an immune response causing platelet destruction and hypercoagulability. HIT occurs more commonly with intravenous heparin and is an absolute contraindication to further heparin use. The dropping platelet count with new DVT is classic for HIT.",
+        "whyWrongByChoice": {
+          "A": "HIT is not caused by bone marrow suppression. It is an immune-mediated process.",
+          "B": "While aspirin irreversibly inhibits platelet function, it does not cause significant thrombocytopenia.",
+          "C": "DIC would present with both thrombocytopenia and bleeding. The isolated platelet drop with new thrombosis is more consistent with HIT.",
+          "E": "While clopidogrel can rarely cause TTP, the temporal association with heparin and the pattern of thrombocytopenia with thrombosis is most consistent with HIT."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "heparin",
+        "HIT",
+        "thrombocytopenia"
+      ]
+    },
+    {
+      "id": "cd-050",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 67-year-old man with a history of heparin-induced thrombocytopenia presents with an acute STEMI requiring emergent percutaneous coronary intervention. Heparin is absolutely contraindicated. Which of the following alternative anticoagulants is most appropriate for this patient during the procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enoxaparin, a low-molecular-weight heparin with predictable pharmacokinetics"
+        },
+        {
+          "label": "B",
+          "text": "Warfarin, an oral vitamin K antagonist with rapid onset of anticoagulation"
+        },
+        {
+          "label": "C",
+          "text": "Aspirin, an irreversible cyclooxygenase inhibitor providing anticoagulation"
+        },
+        {
+          "label": "D",
+          "text": "Ticagrelor, a reversible P2Y12 receptor antagonist with anticoagulant properties"
+        },
+        {
+          "label": "E",
+          "text": "Bivalirudin, a reversible direct thrombin inhibitor used during PCI"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bivalirudin is a reversible direct thrombin inhibitor indicated when heparin is contraindicated in patients undergoing PCI.",
+        "whyCorrect": "The source material states that bivalirudin is a reversible direct thrombin inhibitor mostly used when heparin is contraindicated in patients undergoing PCI. It is an alternative for patients with HIT.",
+        "whyWrongByChoice": {
+          "A": "Enoxaparin is a low-molecular-weight heparin and is contraindicated in patients with HIT.",
+          "B": "Warfarin has a slow onset of action (days) and is not appropriate for acute anticoagulation during emergent PCI.",
+          "C": "Aspirin is an antiplatelet agent, not an anticoagulant, and cannot replace heparin during PCI.",
+          "D": "Ticagrelor is a P2Y12 receptor antagonist that inhibits platelet activation but does not have anticoagulant properties."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "bivalirudin",
+        "HIT",
+        "PCI"
+      ]
+    },
+    {
+      "id": "cd-051",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 59-year-old man presents with acute chest pain and is diagnosed with STEMI. He is immediately given aspirin 325 mg and instructed to chew the tablet rather than swallow it whole. Postprocedure, he is started on a P2Y12 inhibitor. At 15 months post-MI, he experiences dyspnea with his P2Y12 inhibitor. Which of the following P2Y12 inhibitors is most likely responsible for this side effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clopidogrel, which commonly causes dyspnea in approximately 15% of patients"
+        },
+        {
+          "label": "B",
+          "text": "Prasugrel, which has a well-known side effect of significant shortness of breath"
+        },
+        {
+          "label": "C",
+          "text": "Ticagrelor, which causes significant shortness of breath in about 15% of patients"
+        },
+        {
+          "label": "D",
+          "text": "Cangrelor, which is an oral agent causing respiratory depression over time"
+        },
+        {
+          "label": "E",
+          "text": "Abciximab, which is a P2Y12 inhibitor associated with bronchospasm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ticagrelor has a unique adverse effect of causing significant shortness of breath in approximately 15% of patients.",
+        "whyCorrect": "The source material specifically states that ticagrelor has an additional concerning side effect: in about 15% of patients, it causes significant shortness of breath.",
+        "whyWrongByChoice": {
+          "A": "Clopidogrel's main adverse effect is bleeding, not dyspnea. The 15% dyspnea rate is specifically associated with ticagrelor.",
+          "B": "Prasugrel's primary adverse effect is bleeding, not shortness of breath.",
+          "D": "Cangrelor is an intravenous (not oral) P2Y12 inhibitor and is not associated with the 15% dyspnea rate.",
+          "E": "Abciximab is a GP IIb/IIIa inhibitor, not a P2Y12 inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "ticagrelor",
+        "P2Y12-inhibitors",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cd-052",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 73-year-old man presents with an acute STEMI. The interventional cardiologist notes that angiography reveals a significant stenosis of the left main coronary artery without evidence of collateral circulation. Which of the following is the most appropriate intervention for this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Percutaneous coronary intervention with drug-eluting stent placement"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous thrombolytic therapy with tissue plasminogen activator"
+        },
+        {
+          "label": "C",
+          "text": "Medical management alone with antiplatelet and anticoagulant therapy"
+        },
+        {
+          "label": "D",
+          "text": "Surgical coronary artery bypass for left main coronary artery disease"
+        },
+        {
+          "label": "E",
+          "text": "Intra-aortic balloon pump placement for hemodynamic stabilization"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "When the left main coronary artery lacks collateral flow, PCI is contraindicated. These patients undergo surgical coronary artery bypass.",
+        "whyCorrect": "The source material states that when the LMCA lacks collateral flow, PCI should not be used because if the LMCA thromboses during the procedure, a large part of the myocardium can infarct. Patients with LMCA lesions instead undergo surgical coronary artery bypass.",
+        "whyWrongByChoice": {
+          "A": "PCI is contraindicated for LMCA lesions without collateral flow due to the risk of massive infarction if the artery thromboses during the procedure.",
+          "B": "Thrombolytic therapy does not address the underlying stenosis and is a backup to PCI, not a substitute for definitive revascularization.",
+          "C": "Medical management alone is insufficient for significant left main coronary artery disease requiring definitive revascularization.",
+          "E": "Intra-aortic balloon pump provides temporary hemodynamic support but does not address the underlying LMCA stenosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "LMCA",
+        "CABG",
+        "PCI-contraindications"
+      ]
+    },
+    {
+      "id": "cd-053",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 62-year-old man is brought to the emergency department with crushing chest pain. His oxygen saturation is 97% on room air. The attending physician orders supplemental oxygen via nasal cannula. A medical student questions whether oxygen therapy is necessary. Which of the following best supports the student's concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen therapy increases myocardial oxygen demand through coronary vasodilation"
+        },
+        {
+          "label": "B",
+          "text": "Research shows no benefit and possible harm from oxygen in nonhypoxic MI patients"
+        },
+        {
+          "label": "C",
+          "text": "Supplemental oxygen interferes with the absorption of antiplatelet medications"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen therapy masks chest pain symptoms needed for monitoring ischemia progression"
+        },
+        {
+          "label": "E",
+          "text": "Supplemental oxygen is only indicated for patients with confirmed STEMI on ECG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Research shows that giving oxygen to nonhypoxic MI patients has no benefit and may cause harm. Oxygen should only be used when saturation is less than 90%.",
+        "whyCorrect": "The source material states that most MI patients have no hypoxemia and do not benefit from oxygen therapy. Research shows no benefit and may cause harm in nonhypoxic patients. It should only be used when oxygen saturation is less than 90%.",
+        "whyWrongByChoice": {
+          "A": "The concern with unnecessary oxygen is lack of benefit and potential harm, not increased myocardial oxygen demand.",
+          "C": "Interference with antiplatelet medication absorption is attributed to morphine, not oxygen therapy.",
+          "D": "Masking pain symptoms is a concern with morphine use, not oxygen therapy.",
+          "E": "Oxygen indication is based on hypoxemia (saturation less than 90%), not the type of ACS."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "oxygen-therapy",
+        "evidence-based-medicine"
+      ]
+    },
+    {
+      "id": "cd-054",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 56-year-old man is diagnosed with STEMI and undergoes emergent PCI with placement of a drug-eluting stent in the right coronary artery. Which of the following best describes the primary purpose of the drug coating on the stent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prevention of thrombus formation on the stent surface through anticoagulation"
+        },
+        {
+          "label": "B",
+          "text": "Dissolution of residual thrombus within the stented coronary artery segment"
+        },
+        {
+          "label": "C",
+          "text": "Delivery of antiplatelet medication directly to the site of plaque rupture"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of inflammatory mediators to prevent post-procedural pericarditis"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of neointimal proliferation to reduce the risk of restenosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Drug-eluting stents have a drug bonded to a polymer coating that limits neointimal proliferation, reducing the risk of restenosis.",
+        "whyCorrect": "The source material states that drug-eluting stents have a drug bonded to a polymer coating that limits neointimal proliferation and hence the risk of restenosis.",
+        "whyWrongByChoice": {
+          "A": "The drug on drug-eluting stents is not an anticoagulant. Anticoagulation is achieved through systemic medications.",
+          "B": "Drug-eluting stents do not dissolve thrombus. Thrombus removal is through the mechanical action of angioplasty.",
+          "C": "The drug coating is not an antiplatelet agent delivered locally. Antiplatelet therapy is provided systemically.",
+          "D": "The drug coating does not target post-procedural pericarditis. Its purpose is preventing restenosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "drug-eluting-stent",
+        "PCI",
+        "restenosis"
+      ]
+    },
+    {
+      "id": "cd-055",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 65-year-old man is admitted with an NSTEMI. He is started on aspirin, clopidogrel, heparin, metoprolol, and atorvastatin. He undergoes PCI with stent placement on hospital day 2. The resident asks why atorvastatin was started acutely rather than waiting until lipid panels returned. Which of the following best describes the immediate benefit of statin therapy in the acute period following MI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-inflammatory and anti-thrombotic effects independent of lipid lowering"
+        },
+        {
+          "label": "B",
+          "text": "Rapid reduction of LDL cholesterol levels preventing further plaque formation"
+        },
+        {
+          "label": "C",
+          "text": "Direct coronary artery vasodilation improving myocardial blood flow"
+        },
+        {
+          "label": "D",
+          "text": "Enhancement of antiplatelet drug efficacy through pharmacokinetic interactions"
+        },
+        {
+          "label": "E",
+          "text": "Prevention of contrast-induced nephropathy during cardiac catheterization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In the acute period following MI, statins provide immediate anti-inflammatory and anti-thrombotic effects independent of lipid lowering.",
+        "whyCorrect": "The source material states that in the acute period, statin's immediate effects are anti-inflammatory and anti-thrombotic, not lipid lowering.",
+        "whyWrongByChoice": {
+          "B": "While statins do reduce LDL cholesterol, this effect takes weeks. The immediate benefit is anti-inflammatory and anti-thrombotic.",
+          "C": "Statins do not directly cause coronary vasodilation. That is achieved through nitrates.",
+          "D": "Statins do not enhance antiplatelet drug efficacy through pharmacokinetic interactions.",
+          "E": "Prevention of contrast-induced nephropathy is not described as a primary benefit of acute statin therapy in the source material."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "statins",
+        "acute-phase",
+        "anti-inflammatory"
+      ]
+    },
+    {
+      "id": "cd-056",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 60-year-old man presents with a suspected acute MI. In the emergency department, he is given aspirin, which he is instructed to chew rather than swallow whole. The attending physician emphasizes to the team that aspirin is the single most important initial medication. Which of the following best explains why aspirin is considered the gold standard first-line treatment for suspected MI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It provides analgesia through COX inhibition, reducing the chest pain of MI"
+        },
+        {
+          "label": "B",
+          "text": "It activates the intrinsic fibrinolytic pathway to dissolve the coronary thrombus"
+        },
+        {
+          "label": "C",
+          "text": "It is the only medication in the MONA protocol with proven mortality benefit for ACS"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits the coagulation cascade through direct inhibition of factor Xa"
+        },
+        {
+          "label": "E",
+          "text": "It reduces myocardial oxygen demand by decreasing heart rate and contractility"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Of the MONA medications (morphine, oxygen, nitrates, aspirin), only aspirin has a proven mortality benefit for ACS.",
+        "whyCorrect": "The source material explicitly states that of the four MONA medications, only aspirin has a proven mortality benefit for ACS. Morphine, oxygen, and nitrates can all be harmful.",
+        "whyWrongByChoice": {
+          "A": "While aspirin does inhibit COX, its importance in MI is as an antiplatelet agent, not as an analgesic.",
+          "B": "Aspirin does not activate the fibrinolytic pathway. That is the mechanism of tissue plasminogen activator.",
+          "D": "Aspirin does not inhibit factor Xa. That is the mechanism of heparin and fondaparinux.",
+          "E": "Reducing myocardial oxygen demand through decreased heart rate and contractility is the mechanism of beta-blockers, not aspirin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "aspirin",
+        "MONA",
+        "mortality-benefit"
+      ]
+    },
+    {
+      "id": "cd-057",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 71-year-old man with an acute STEMI is being prepared for emergent PCI. The interventional cardiologist requests administration of a glycoprotein IIb/IIIa inhibitor as an adjunct to the procedure. Which of the following best describes the mechanism by which this class of drugs prevents thrombus formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Irreversible inhibition of cyclooxygenase preventing thromboxane A2 synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of the final step in platelet aggregation by blocking fibrinogen binding"
+        },
+        {
+          "label": "C",
+          "text": "Activation of antithrombin to enhance inactivation of factors Xa and thrombin"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of plasminogen to plasmin promoting dissolution of fibrin clots"
+        },
+        {
+          "label": "E",
+          "text": "Blockade of the ADP receptor preventing intracellular cAMP reduction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GP IIb/IIIa inhibitors antagonize the GP IIb/IIIa receptor, inhibiting the final step in platelet aggregation by preventing fibrinogen binding.",
+        "whyCorrect": "The source material states that GP IIb/IIIa inhibitors antagonize the GP IIb/IIIa receptor and inhibit the final step in platelet aggregation. This receptor binds fibrinogen, which leads to linked platelets that form a clot.",
+        "whyWrongByChoice": {
+          "A": "Irreversible inhibition of cyclooxygenase is the mechanism of aspirin, not GP IIb/IIIa inhibitors.",
+          "C": "Activation of antithrombin is the mechanism of heparin and enoxaparin.",
+          "D": "Conversion of plasminogen to plasmin is the mechanism of thrombolytic agents such as tPA.",
+          "E": "Blockade of the ADP receptor is the mechanism of P2Y12 inhibitors such as clopidogrel and ticagrelor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "GP-IIb-IIIa-inhibitors",
+        "antiplatelet",
+        "mechanism-of-action"
+      ]
+    },
+    {
+      "id": "cd-058",
+      "topicId": "treatment-acs",
+      "topicName": "Treatment of Acute Coronary Syndrome",
+      "stem": "A 54-year-old man presents to the emergency department with an acute STEMI. He has a history of a hemorrhagic stroke 2 months ago. The emergency physician determines that both percutaneous coronary intervention and thrombolytic therapy carry significant risks. Which of the following is an absolute contraindication specifically to thrombolytic therapy that makes PCI the preferred approach despite its risks?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recent intracranial hemorrhage within the preceding months"
+        },
+        {
+          "label": "B",
+          "text": "History of heparin-induced thrombocytopenia on prior admission"
+        },
+        {
+          "label": "C",
+          "text": "Chronic kidney disease with baseline creatinine of 2.5 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery stenosis greater than 50% on prior angiography"
+        },
+        {
+          "label": "E",
+          "text": "Active gastrointestinal bleeding from a known duodenal ulcer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intracranial hemorrhage is an absolute contraindication to thrombolytic therapy, making PCI the preferred intervention.",
+        "whyCorrect": "The source material lists intracranial hemorrhage as one of the absolute contraindications to thrombolytic therapy. Other absolute contraindications include active bleeding, aortic dissection, closed head trauma, recent ischemic stroke, and severe uncontrolled hypertension.",
+        "whyWrongByChoice": {
+          "B": "History of HIT is a contraindication to heparin, not specifically to thrombolytic therapy.",
+          "C": "Chronic kidney disease is a consideration for contrast-induced nephropathy with PCI but is not listed as an absolute contraindication to thrombolytics.",
+          "D": "Coronary artery stenosis greater than 50% is an indication for PCI, not a contraindication to thrombolytics.",
+          "E": "While active bleeding is also an absolute contraindication to thrombolytics, the question specifically asks about the patient's history of intracranial hemorrhage, which is the most critical contraindication given the risk of recurrent brain hemorrhage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "treatment-acs",
+        "thrombolytics",
+        "contraindications",
+        "intracranial-hemorrhage"
+      ]
+    },
+    {
+      "id": "vd-061",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 32-year-old woman presents to the emergency department with a 2-day history of progressively worsening right calf pain and swelling. She returned from a 14-hour international flight 4 days ago. Her only medication is a combined oral contraceptive pill. On examination, her right calf circumference is 4 cm greater than the left, and there is tenderness along the posterior calf extending into the popliteal fossa. Passive dorsiflexion of the right ankle elicits pain in the calf. Which of the following findings on physical examination is most specifically associated with deep vein thrombosis in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilateral calf erythema with increased skin temperature over the affected area"
+        },
+        {
+          "label": "B",
+          "text": "Calf pain elicited by passive dorsiflexion of the ankle on the affected side"
+        },
+        {
+          "label": "C",
+          "text": "Pitting edema extending from the ankle to the mid-calf on the affected side"
+        },
+        {
+          "label": "D",
+          "text": "Palpable dilated superficial veins in the affected leg from collateral venous flow"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral lower extremity swelling with symmetric tenderness in both calves"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A palpable 'cord' from dilated superficial veins occurs in DVT when superficial veins enlarge due to increased collateral circulation around the deep venous obstruction, representing a physical finding more specifically associated with DVT.",
+        "whyCorrect": "Palpable dilated superficial veins (a 'palpable cord') develop because deep venous obstruction forces blood through collateral superficial venous pathways, causing them to dilate and become palpable. This finding is a relatively specific sign for deep venous obstruction and is one of the criteria in the Wells scoring system for DVT.",
+        "whyWrongByChoice": {
+          "A": "Unilateral erythema and warmth can be seen in DVT but are nonspecific findings that also occur with cellulitis, superficial thrombophlebitis, and other inflammatory conditions of the leg.",
+          "B": "Calf pain with passive dorsiflexion (Homan sign) is caused by irritation of the calf muscles and is a classic but nonspecific finding. It can also be positive in gastrocnemius strain, Baker cyst rupture, and other calf pathology.",
+          "C": "Pitting edema is a nonspecific finding that can result from many conditions including heart failure, venous insufficiency, lymphedema, and other causes of fluid retention, not just DVT.",
+          "E": "Bilateral lower extremity swelling with symmetric tenderness would suggest a systemic process such as heart failure or nephrotic syndrome rather than DVT, which characteristically presents with unilateral symptoms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "physical-examination",
+        "collateral-veins",
+        "homan-sign",
+        "clinical-presentation"
+      ]
+    },
+    {
+      "id": "vd-062",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 42-year-old man presents to the office with left calf pain and mild swelling that began yesterday after a 6-hour car trip. He has no significant past medical history and takes no medications. On exam, his left calf is mildly tender to palpation and has minimal pitting edema around the ankle. Calf circumference is 1.5 cm greater on the left. His Wells score for DVT is calculated at 1 point. Which of the following is the most appropriate next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression ultrasonography of the left lower extremity to visualize the deep venous system"
+        },
+        {
+          "label": "B",
+          "text": "D-dimer assay to evaluate for the presence of ongoing fibrin degradation products"
+        },
+        {
+          "label": "C",
+          "text": "CT venography with contrast to directly visualize any thrombus within the deep veins"
+        },
+        {
+          "label": "D",
+          "text": "Empiric anticoagulation with heparin while awaiting further diagnostic testing results"
+        },
+        {
+          "label": "E",
+          "text": "No further workup is indicated at this time; reassess in one week if symptoms persist"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Patients with a low to moderate Wells score (2 or below) should receive a D-dimer test first. If the D-dimer is negative, DVT is effectively ruled out. If positive, compression ultrasonography should follow.",
+        "whyCorrect": "With a Wells score of 1 (low-moderate pretest probability), the appropriate next step is a D-dimer assay. The greatest utility of D-dimer testing is in ruling out DVT because the test is highly sensitive. A normal D-dimer in a low-risk patient effectively excludes DVT without the need for imaging.",
+        "whyWrongByChoice": {
+          "A": "Compression ultrasonography is the best radiographic modality for DVT diagnosis but is typically ordered first in patients with a high Wells score (3 or above) or after a positive D-dimer in low-moderate risk patients. Starting with D-dimer is more cost-effective in this low-risk setting.",
+          "C": "CT venography is unnecessarily expensive and invasive when ultrasonography is available and D-dimer testing has not yet been performed. It is not part of the standard diagnostic algorithm for DVT.",
+          "D": "Empiric anticoagulation before confirming the diagnosis exposes the patient to unnecessary bleeding risk. In a patient with low-moderate pretest probability, diagnostic testing should be completed before initiating treatment.",
+          "E": "DVT should be evaluated promptly because delayed diagnosis and treatment can lead to pulmonary embolism and other serious complications. Watchful waiting for one week is inappropriate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "d-dimer",
+        "wells-score",
+        "diagnostic-algorithm",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "vd-063",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 28-year-old woman with no significant medical history presents to the emergency department with acute onset of left leg swelling, severe pain, and blue discoloration. She is 12 weeks pregnant. On examination, the entire left lower extremity is massively edematous and cyanotic from the groin to the foot. Femoral and distal pulses are difficult to palpate due to the significant edema. Which of the following is the most likely diagnosis and the most appropriate immediate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis of the left lower extremity requiring broad-spectrum intravenous antibiotic therapy"
+        },
+        {
+          "label": "B",
+          "text": "Acute arterial occlusion of the left common iliac artery requiring emergent surgical thrombectomy"
+        },
+        {
+          "label": "C",
+          "text": "Compartment syndrome of the left lower extremity requiring emergent fasciotomy to relieve pressure"
+        },
+        {
+          "label": "D",
+          "text": "Phlegmasia cerulea dolens from massive iliofemoral DVT requiring urgent surgical thrombectomy"
+        },
+        {
+          "label": "E",
+          "text": "Chronic venous insufficiency with acute decompensation requiring leg elevation and compression therapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phlegmasia cerulea dolens is a severe complication of massive iliofemoral DVT causing near-complete venous occlusion, presenting with massive edema, cyanosis, and potential gangrene. It requires urgent thrombectomy to preserve the limb.",
+        "whyCorrect": "The massive edema, cyanosis, and involvement of the entire limb from groin to foot indicate phlegmasia cerulea dolens, a life- and limb-threatening complication of severe iliofemoral DVT with near-complete venous drainage occlusion. Pregnancy is a hypercoagulable state predisposing to DVT. Unlike typical DVT treated with anticoagulation alone, phlegmasia cerulea dolens requires urgent surgical thrombectomy to prevent limb loss.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis presents with erythema, warmth, and tenderness, but does not cause the massive edema with cyanosis extending from groin to foot. The diffuse cyanotic discoloration is more consistent with venous obstruction than infection.",
+          "B": "Acute arterial occlusion presents with a pale (not cyanotic), cool, pulseless limb. Cyanosis with massive edema indicates venous obstruction, not arterial occlusion. Arterial disease would cause pallor rather than the blue discoloration seen here.",
+          "C": "Compartment syndrome presents with tense compartments, pain with passive stretch, and paresthesias, typically following trauma or reperfusion injury. The massive diffuse edema and cyanosis from groin to foot suggest a venous process rather than compartment syndrome.",
+          "E": "Chronic venous insufficiency develops over months to years with gradual edema, skin changes, and ulceration. The acute onset of massive edema with cyanosis in a young woman is inconsistent with a chronic venous process."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "phlegmasia-cerulea-dolens",
+        "iliofemoral-dvt",
+        "pregnancy",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "vd-064",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 50-year-old man who underwent total hip replacement 5 days ago is found to have new-onset right calf swelling and tenderness. He has been receiving low-molecular-weight heparin prophylaxis since surgery. A compression ultrasound confirms a DVT in the right popliteal vein. The patient's vital signs are stable, and he denies chest pain or shortness of breath. Which of the following best explains the rationale for DVT prophylaxis that was already in place for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hospitalized surgical patients are at increased risk due to immobilization causing blood stasis"
+        },
+        {
+          "label": "B",
+          "text": "All patients over age 50 require routine anticoagulation prophylaxis regardless of their surgical or medical history"
+        },
+        {
+          "label": "C",
+          "text": "Low-molecular-weight heparin is given postoperatively primarily to prevent surgical wound infection and promote healing"
+        },
+        {
+          "label": "D",
+          "text": "Anticoagulant prophylaxis is given to prevent arterial thromboemboli that commonly occur after orthopedic surgery"
+        },
+        {
+          "label": "E",
+          "text": "DVT prophylaxis is given only to patients with a known hereditary thrombophilia identified on preoperative screening"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hospitalized patients, particularly surgical patients, are at high risk for DVT due to multiple elements of Virchow's triad: prolonged immobilization (stasis), surgical trauma (endothelial damage), and the inflammatory response (hypercoagulability). Prophylactic anticoagulation is standard of care.",
+        "whyCorrect": "Patients in hospitals are at higher risk of developing DVT because of prolonged immobilization (abnormal blood flow/stasis), trauma from surgery leading to endothelial damage, and infection/inflammation leading to hypercoagulability. These correspond to Virchow's triad. Prophylactic low-molecular-weight heparin is given to at-risk hospitalized patients to prevent DVT.",
+        "whyWrongByChoice": {
+          "B": "DVT prophylaxis is not based solely on age. It is indicated for patients at increased risk due to specific factors such as surgery, immobilization, or hypercoagulable states, not for all patients over a certain age.",
+          "C": "Low-molecular-weight heparin is an anticoagulant given to prevent thromboembolic disease, not to prevent wound infections or promote healing. Antibiotics, not anticoagulants, are used for infection prophylaxis.",
+          "D": "DVT prophylaxis targets venous thromboembolism (DVT and PE), not arterial thromboemboli. Arterial emboli have different risk factors and pathophysiology, most commonly arising from atrial fibrillation or atherosclerotic disease.",
+          "E": "DVT prophylaxis is recommended for all at-risk hospitalized patients based on clinical risk factors such as surgery, immobilization, and medical illness. It is not limited to those with known hereditary thrombophilias; most patients who develop DVT do not have inherited disorders."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "prophylaxis",
+        "virchow-triad",
+        "hospitalized-patients",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "vd-065",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 24-year-old man with no significant past medical history presents with left lower extremity swelling and pain. He has not traveled recently, has no history of surgery or trauma, and takes no medications. His family history is notable for a brother who had a pulmonary embolism at age 22 and a mother with recurrent DVTs. Compression ultrasonography confirms a left femoral vein DVT. Which of the following hereditary conditions is the most likely underlying cause of this patient's DVT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antithrombin III deficiency causing loss of natural inhibition of the coagulation cascade"
+        },
+        {
+          "label": "B",
+          "text": "Factor V Leiden mutation causing resistance of factor V to inactivation by activated protein C"
+        },
+        {
+          "label": "C",
+          "text": "Protein S deficiency causing inadequate cofactor activity for the protein C anticoagulant pathway"
+        },
+        {
+          "label": "D",
+          "text": "Prothrombin gene mutation causing elevated circulating prothrombin levels and increased thrombin generation"
+        },
+        {
+          "label": "E",
+          "text": "Plasminogen activator inhibitor-1 excess causing impaired fibrinolysis and reduced clot breakdown"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor V Leiden mutation is the most common inherited cause of hypercoagulability. It renders factor V resistant to inactivation by activated protein C, keeping factor V in a prolonged active state that predisposes to abnormal thrombosis.",
+        "whyCorrect": "In a young patient with unprovoked DVT and a strong family history of venous thromboembolism, a hereditary thrombophilia should be suspected. Factor V Leiden mutation is the most common inherited cause of hypercoagulability. It involves a mutation in clotting factor V that renders it resistant to inactivation by activated protein C, allowing factor V to remain active and predisposing to thrombosis.",
+        "whyWrongByChoice": {
+          "A": "Antithrombin III deficiency is an inherited thrombophilia but is much less common than Factor V Leiden mutation. While it can cause unprovoked DVT, Factor V Leiden is the most common inherited cause of hypercoagulability.",
+          "C": "Protein S deficiency is a recognized hereditary thrombophilia but is significantly less common than Factor V Leiden mutation. When considering the most likely inherited cause of venous thromboembolism, Factor V Leiden should be the primary consideration.",
+          "D": "Prothrombin gene mutation (G20210A) is the second most common inherited thrombophilia after Factor V Leiden, but Factor V Leiden remains the most common inherited cause of hypercoagulability and is the most likely diagnosis here.",
+          "E": "While impaired fibrinolysis can theoretically predispose to thrombosis, PAI-1 excess is not among the classic hereditary thrombophilias commonly tested for in the workup of unprovoked VTE, and Factor V Leiden is far more prevalent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "factor-v-leiden",
+        "hereditary-thrombophilia",
+        "hypercoagulability",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "vd-066",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 55-year-old man with a history of DVT treated 2 years ago now presents with chronic left leg swelling, brownish skin discoloration around the ankle, and a shallow ulcer on the medial malleolus. He reports that the leg has been persistently swollen and uncomfortable since his DVT episode despite completing the recommended course of anticoagulation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent acute deep vein thrombosis in the same extremity requiring repeat anticoagulation therapy"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral arterial disease causing chronic limb ischemia with skin breakdown and ulceration"
+        },
+        {
+          "label": "C",
+          "text": "Postthrombotic syndrome characterized by chronic venous insufficiency following prior deep vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis of the left lower extremity with secondary skin breakdown requiring antibiotic treatment"
+        },
+        {
+          "label": "E",
+          "text": "Lymphedema from chronic obstruction of the lymphatic drainage system following prior venous thrombosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Postthrombotic syndrome develops in up to 50% of patients who have had a DVT. It presents with chronic venous insufficiency symptoms including leg pain, edema, skin discoloration, and ulcers, and is treated with leg elevation and compression.",
+        "whyCorrect": "Postthrombotic syndrome is a recognized complication that develops in up to 50% of DVT patients. It manifests as chronic venous insufficiency with persistent leg swelling, pain, skin discoloration (hemosiderin deposition), and venous ulcers. The temporal relationship with prior DVT and the chronic nature of symptoms are characteristic.",
+        "whyWrongByChoice": {
+          "A": "Acute DVT presents with new-onset unilateral swelling, pain, and erythema. This patient has chronic symptoms persisting for 2 years since his original DVT, which is more consistent with postthrombotic syndrome than a new acute thrombotic event.",
+          "B": "Peripheral arterial disease causes ulcers typically on the toes or dorsum of the foot, with associated claudication and diminished pulses. The medial malleolus location, chronic swelling, and skin discoloration are characteristic of venous rather than arterial disease.",
+          "D": "Cellulitis presents acutely with erythema, warmth, and tenderness. The chronic 2-year course with skin discoloration and venous ulceration is inconsistent with an infectious process and points to chronic venous insufficiency.",
+          "E": "While lymphedema can cause chronic leg swelling, it does not typically cause the hemosiderin skin discoloration or venous ulcers at the medial malleolus. The direct temporal relationship with prior DVT makes postthrombotic syndrome the more likely diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "postthrombotic-syndrome",
+        "chronic-venous-insufficiency",
+        "complications",
+        "clinical-presentation"
+      ]
+    },
+    {
+      "id": "vd-067",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 48-year-old woman with a recent diagnosis of stage III ovarian cancer presents with progressive right leg swelling, pain, and redness over the past 3 days. She underwent debulking surgery 3 weeks ago and has been relatively immobile since. Her right calf is warm, erythematous, and 4 cm larger in circumference than the left. Compression ultrasonography confirms an extensive DVT of the right femoral and popliteal veins. However, she also has a recent history of hemorrhagic stroke 2 weeks ago. Which of the following is the most appropriate DVT treatment strategy given her contraindication to anticoagulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral rivaroxaban at full therapeutic dosing since it has a lower bleeding risk than traditional anticoagulants"
+        },
+        {
+          "label": "B",
+          "text": "Low-dose aspirin to provide mild antithrombotic effect without significant anticoagulation-related bleeding risk"
+        },
+        {
+          "label": "C",
+          "text": "Surgical thrombectomy of the femoral and popliteal veins to remove the thrombus without anticoagulation"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous unfractionated heparin at a reduced dose titrated to a subtherapeutic partial thromboplastin time"
+        },
+        {
+          "label": "E",
+          "text": "Mechanical leg compression devices as prophylaxis against further thrombus propagation and embolization"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Patients with high bleeding risks who cannot take anticoagulants can be treated with mechanical leg compression devices for DVT prophylaxis and management, though these are less effective than anticoagulants.",
+        "whyCorrect": "This patient has a contraindication to anticoagulation (recent hemorrhagic stroke). For patients with high bleeding risks who cannot take anticoagulants, mechanical leg compression devices are used as an alternative. While less effective than anticoagulants, they provide some protection against thrombus propagation and embolization without the bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "Rivaroxaban is a direct oral anticoagulant and carries significant bleeding risk, particularly in a patient with a recent hemorrhagic stroke. All anticoagulants are contraindicated in this setting regardless of their relative bleeding profiles.",
+          "B": "Low-dose aspirin is an antiplatelet agent, not an anticoagulant, and is not effective for DVT treatment. Additionally, even aspirin carries some bleeding risk in a patient with a recent hemorrhagic stroke.",
+          "C": "Surgical thrombectomy for DVT is reserved for phlegmasia cerulea dolens with limb-threatening venous occlusion. This patient has significant DVT but not the massive edema, cyanosis, and gangrene that would warrant surgical intervention.",
+          "D": "Even reduced-dose heparin poses an unacceptable bleeding risk in a patient with a recent hemorrhagic stroke. Subtherapeutic anticoagulation is neither safe nor effective in this clinical scenario."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "mechanical-compression",
+        "bleeding-contraindication",
+        "cancer-associated-dvt",
+        "management"
+      ]
+    },
+    {
+      "id": "vd-068",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 38-year-old woman presents with a 1-day history of right calf pain and swelling. She has a history of recurrent DVTs and is currently taking warfarin. Her Wells score is 4 (high pretest probability). Which of the following is the most appropriate initial diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "D-dimer assay to confirm ongoing fibrin degradation indicating active thrombosis in the venous system"
+        },
+        {
+          "label": "B",
+          "text": "CT venography with intravenous contrast to directly visualize the thrombus within the deep venous system"
+        },
+        {
+          "label": "C",
+          "text": "Compression ultrasonography of the affected extremity to assess vein compressibility and identify thrombus"
+        },
+        {
+          "label": "D",
+          "text": "Venous-phase magnetic resonance angiography to evaluate the deep venous system of the lower extremity"
+        },
+        {
+          "label": "E",
+          "text": "Serial clinical examination with repeat Wells scoring in 48 hours to reassess the pretest probability"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with a high Wells score (3 or above) should proceed directly to compression ultrasonography, which is the best radiographic modality for diagnosing DVT. D-dimer is used for low-moderate probability patients.",
+        "whyCorrect": "With a Wells score of 4 (high pretest probability), the diagnostic algorithm indicates proceeding directly to compression ultrasonography. This is the best radiographic modality for DVT, as it can demonstrate non-compressibility of the vein indicating the presence of a thrombus, even when the clot is not directly visualized.",
+        "whyWrongByChoice": {
+          "A": "D-dimer testing is used for patients with low to moderate pretest probability (Wells score of 2 or below). In high-probability patients, a negative D-dimer is insufficient to rule out DVT, and ultrasonography is indicated regardless. Additionally, D-dimer may be unreliable in this patient already on anticoagulation.",
+          "B": "CT venography is unnecessarily expensive and invasive when compression ultrasonography is available. Ultrasonography is the standard first-line imaging modality for DVT diagnosis and does not require contrast or radiation exposure.",
+          "D": "MR venography is not a standard first-line test for DVT diagnosis. Compression ultrasonography is more accessible, less expensive, and equally effective as the initial diagnostic imaging modality.",
+          "E": "Delaying diagnosis with serial clinical assessments is inappropriate in a patient with high pretest probability for DVT. Prompt diagnosis and treatment are essential to prevent complications such as pulmonary embolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "compression-ultrasonography",
+        "wells-score",
+        "high-pretest-probability",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "vd-069",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 45-year-old man with a newly diagnosed DVT of the left popliteal vein is started on rivaroxaban. He asks why he is receiving this medication instead of the heparin followed by warfarin that his father received for a DVT 20 years ago. Which of the following best describes the primary mechanism of action of anticoagulant therapy in DVT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticoagulants directly dissolve the existing thrombus by activating the fibrinolytic system to break down fibrin"
+        },
+        {
+          "label": "B",
+          "text": "Anticoagulants prevent new clot formation and existing clot enlargement while the body's own system breaks down the clot"
+        },
+        {
+          "label": "C",
+          "text": "Anticoagulants strengthen the venous wall to prevent thrombus adherence and promote spontaneous clot detachment"
+        },
+        {
+          "label": "D",
+          "text": "Anticoagulants inhibit platelet aggregation at the site of thrombus formation to prevent further platelet-rich clot growth"
+        },
+        {
+          "label": "E",
+          "text": "Anticoagulants reduce venous pressure in the affected limb to decrease blood stasis and promote normal venous return"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anticoagulation for DVT prevents clots from forming or from getting bigger, allowing the body's own anticoagulation system to break down the clot over time. Anticoagulants do not directly dissolve existing clots.",
+        "whyCorrect": "Anticoagulation works by preventing new clots from forming and preventing existing clots from getting bigger. This allows the body's endogenous anticoagulation and fibrinolytic system to gradually break down the existing thrombus over time. The anticoagulant itself does not directly dissolve the clot.",
+        "whyWrongByChoice": {
+          "A": "Anticoagulants do not directly dissolve existing thrombi. Thrombolytic agents (like tissue plasminogen activator) are the drugs that actively break down clots by activating the fibrinolytic system. Anticoagulants only prevent new clot formation and clot growth.",
+          "C": "Anticoagulants do not affect the venous wall structure or promote clot detachment. Their mechanism involves inhibiting the coagulation cascade to prevent further thrombus formation, not altering vascular wall properties.",
+          "D": "While some anticoagulants may have minor effects on platelet function, their primary mechanism is inhibition of the coagulation cascade (thrombin or factor Xa), not platelet aggregation inhibition. Antiplatelet agents like aspirin target platelet function.",
+          "E": "Anticoagulants have no effect on venous pressure or venous return. They act on the coagulation cascade to prevent clot formation and growth. Venous pressure is addressed by mechanical measures like compression stockings and leg elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "anticoagulation",
+        "mechanism-of-action",
+        "rivaroxaban",
+        "treatment"
+      ]
+    },
+    {
+      "id": "vd-070",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 60-year-old man who is 3 days post-operative from a colon resection for colorectal cancer develops sudden onset of dyspnea, tachycardia, and pleuritic chest pain. His oxygen saturation drops to 88% on room air. He had been on bed rest since surgery. Lower extremity examination reveals new left calf swelling and tenderness. Which of the following best describes the pathophysiologic mechanism by which this patient's DVT led to his acute respiratory symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The thrombus from the leg vein traveled through the inferior vena cava to the right heart and into the pulmonary arterial circulation"
+        },
+        {
+          "label": "B",
+          "text": "The thrombus from the leg vein traveled retrograde through the inferior vena cava to lodge in the hepatic veins causing Budd-Chiari syndrome"
+        },
+        {
+          "label": "C",
+          "text": "The thrombus from the leg vein crossed through a septal defect to the left heart and embolized to the bronchial arterial circulation"
+        },
+        {
+          "label": "D",
+          "text": "The thrombus released inflammatory mediators systemically causing acute respiratory distress syndrome without actual embolization"
+        },
+        {
+          "label": "E",
+          "text": "The thrombus from the leg vein traveled through the thoracic duct and lodged in the pulmonary lymphatic drainage system"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common route for a thromboembolus from a leg DVT is through the inferior vena cava to the right atrium, right ventricle, and into the pulmonary arterial circulation, causing pulmonary embolism.",
+        "whyCorrect": "Most DVTs involve the legs. The common route for a thromboembolus is to travel up the inferior vena cava to the right side of the heart (right atrium then right ventricle) and into the pulmonary arterial circulation. Large clots may obstruct the large pulmonary arteries, while smaller clots may travel to the pulmonary arterioles or capillaries, causing the dyspnea and hypoxia seen here.",
+        "whyWrongByChoice": {
+          "B": "Budd-Chiari syndrome involves hepatic vein thrombosis, not retrograde embolization from leg veins. Venous blood flows from the legs toward the heart, not retrograde to the liver. This would not explain the acute respiratory symptoms.",
+          "C": "Crossing from the venous to arterial side requires a congenital intracardiac shunt (paradoxical embolism). While possible, this is uncommon and there is no evidence of a septal defect. The standard pathway is through the right heart to the pulmonary arteries.",
+          "D": "While systemic inflammation can cause respiratory distress, the acute onset of dyspnea, tachycardia, pleuritic chest pain, and hypoxia in a patient with a new DVT is classic for pulmonary embolism from direct embolization, not an inflammatory-mediated process.",
+          "E": "Thromboemboli travel through the venous system, not the lymphatic system. There is no anatomic pathway for venous thrombi to enter the thoracic duct or pulmonary lymphatics."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "pulmonary-embolism",
+        "thromboembolism-pathway",
+        "postoperative-complications",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "vd-071",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 33-year-old woman who smokes one pack of cigarettes per day and takes combined oral contraceptives presents with left leg swelling and pain. Compression ultrasonography confirms a left popliteal vein DVT. Her Wells score was 5. In evaluating this patient's risk factors according to Virchow's triad, which of the following correctly categorizes her identified risk factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smoking contributes to endothelial injury, while oral contraceptives contribute to hypercoagulability"
+        },
+        {
+          "label": "B",
+          "text": "Smoking contributes to hypercoagulability, while oral contraceptives contribute to endothelial injury"
+        },
+        {
+          "label": "C",
+          "text": "Both smoking and oral contraceptives primarily contribute to abnormal blood flow and venous stasis"
+        },
+        {
+          "label": "D",
+          "text": "Smoking contributes to abnormal blood flow, while oral contraceptives contribute to endothelial injury"
+        },
+        {
+          "label": "E",
+          "text": "Both smoking and oral contraceptives primarily contribute to hypercoagulability without affecting other triad elements"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Within Virchow's triad, smoking is classified as a cause of endothelial damage, while estrogen-containing contraceptives create a hypercoagulable state. Both independently increase the risk of venous thromboembolism.",
+        "whyCorrect": "According to Virchow's triad as described in the source material, smoking is listed among the common causes of endothelial damage (along with hypertension, surgery, and trauma), while estrogen-containing contraceptives are classified as a cause of hypercoagulability. These two risk factors act through different mechanisms of the triad, and together they significantly increase DVT risk.",
+        "whyWrongByChoice": {
+          "B": "This reverses the categorization. Smoking primarily causes endothelial injury (damage to vessel walls), while oral contraceptives create a hypercoagulable state through estrogen's effects on clotting factor production, not endothelial damage.",
+          "C": "Neither smoking nor oral contraceptives are primarily categorized as causes of abnormal blood flow or stasis. Abnormal blood flow is caused by immobility, central venous catheters, varicose veins, and atrial fibrillation.",
+          "D": "Smoking is categorized as a cause of endothelial damage, not abnormal blood flow. Oral contraceptives cause hypercoagulability, not endothelial injury. This option misclassifies both risk factors.",
+          "E": "While oral contraceptives contribute to hypercoagulability, smoking primarily causes endothelial injury. They do not both act through the same mechanism of Virchow's triad."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "virchow-triad",
+        "risk-factors",
+        "smoking",
+        "oral-contraceptives"
+      ]
+    },
+    {
+      "id": "vd-072",
+      "topicId": "dvt",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A 52-year-old woman presents to the emergency department with right leg pain and swelling. She underwent knee arthroscopy 2 weeks ago and has been relatively sedentary during recovery. Her Wells score is calculated at 2. A D-dimer assay returns elevated at 1.8 mcg/mL (normal <0.5 mcg/mL). Which of the following is the most appropriate next step in the diagnostic evaluation of this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Repeat the D-dimer assay in 48 hours to confirm the elevation before pursuing further diagnostic testing"
+        },
+        {
+          "label": "B",
+          "text": "Initiate full therapeutic anticoagulation immediately based on the elevated D-dimer result alone"
+        },
+        {
+          "label": "C",
+          "text": "Order a complete blood count and coagulation studies to further characterize the thrombotic process"
+        },
+        {
+          "label": "D",
+          "text": "Obtain CT venography with contrast to directly visualize the suspected thrombus within the deep venous system"
+        },
+        {
+          "label": "E",
+          "text": "Perform compression ultrasonography of the affected extremity to evaluate for the presence of a deep vein thrombus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In the DVT diagnostic algorithm, patients with low-moderate pretest probability and a positive D-dimer should proceed to compression ultrasonography. Ultrasonography is the best radiographic modality for confirming DVT.",
+        "whyCorrect": "This patient has a low-moderate Wells score (2) and a positive D-dimer. According to the diagnostic algorithm, the next step after a positive D-dimer in this risk category is compression ultrasonography, which is the best radiographic modality for diagnosing DVT. A vein that does not collapse under compression indicates the presence of a thrombus.",
+        "whyWrongByChoice": {
+          "A": "Repeating the D-dimer delays diagnosis and is unnecessary. An elevated D-dimer in a patient with clinical suspicion for DVT warrants immediate further evaluation with imaging, not repeat laboratory testing.",
+          "B": "While prompt treatment is important, initiating anticoagulation based on D-dimer alone is inappropriate because D-dimer is sensitive but not specific for DVT. Many conditions (surgery, infection, pregnancy) can elevate D-dimer. Imaging confirmation is needed before starting therapy with potent anticoagulants that have significant side effects.",
+          "C": "A complete blood count and coagulation studies are not part of the standard DVT diagnostic algorithm. The appropriate next step after a positive D-dimer is compression ultrasonography to directly evaluate for venous thrombosis.",
+          "D": "CT venography is unnecessarily expensive and invasive when compression ultrasonography is available. Ultrasonography is the standard first-line imaging modality and does not require contrast or radiation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dvt",
+        "d-dimer",
+        "compression-ultrasonography",
+        "diagnostic-algorithm",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "cv-037",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 43-year-old woman presents with right calf swelling, erythema, and tenderness 2 days after a long-haul flight from Australia. Venous ultrasound confirms a femoral vein thrombosis. The physician plans to start anticoagulation with apixaban. Which of the following best describes the mechanism of action of this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation of antithrombin III to potentiate the inhibition of thrombin and factor Xa indirectly"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of vitamin K epoxide reductase to reduce synthesis of clotting factors II, VII, IX, and X"
+        },
+        {
+          "label": "C",
+          "text": "Direct inhibition of factor Xa in the common pathway of the coagulation cascade"
+        },
+        {
+          "label": "D",
+          "text": "Direct inhibition of thrombin (factor IIa) to prevent fibrinogen conversion to fibrin strands"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of platelet aggregation through blockade of the P2Y12 receptor for adenosine diphosphate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Apixaban is a direct oral anticoagulant (DOAC) that works by directly inhibiting factor Xa in the common pathway of the coagulation cascade.",
+        "whyCorrect": "Apixaban is a direct factor Xa inhibitor. DOACs directly inhibit factor Xa's action in the common pathway and therefore inhibit coagulation. Unlike heparin and warfarin, they directly inhibit a component of the coagulation pathway.",
+        "whyWrongByChoice": {
+          "A": "Activation of antithrombin III is the mechanism of heparins (unfractionated heparin and low-molecular-weight heparin), not DOACs. DOACs directly inhibit factor Xa without requiring antithrombin as an intermediary.",
+          "B": "Inhibition of vitamin K epoxide reductase is the mechanism of warfarin, not apixaban. Warfarin reduces synthesis of vitamin K-dependent clotting factors.",
+          "D": "Direct thrombin (factor IIa) inhibition is the mechanism of drugs like argatroban, not apixaban. DOACs target factor Xa, not thrombin.",
+          "E": "P2Y12 receptor blockade is the mechanism of antiplatelet drugs like clopidogrel, prasugrel, and ticagrelor, not of DOACs which are anticoagulants."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "apixaban",
+        "factor-Xa-inhibitor",
+        "mechanism-of-action",
+        "DVT"
+      ]
+    },
+    {
+      "id": "cv-038",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 67-year-old man with atrial fibrillation has been stable on rivaroxaban for 18 months. He is brought to the emergency department after a fall, and a CT scan reveals a large subdural hematoma requiring emergent surgical evacuation. Which of the following is the most appropriate targeted reversal strategy for this patient's anticoagulant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer protamine sulfate intravenously to neutralize the anticoagulant effect of rivaroxaban"
+        },
+        {
+          "label": "B",
+          "text": "Administer andexanet alfa, a specific reversal agent that binds and sequesters rivaroxaban"
+        },
+        {
+          "label": "C",
+          "text": "Administer high-dose vitamin K intravenously to restore synthesis of vitamin K-dependent factors"
+        },
+        {
+          "label": "D",
+          "text": "Administer fresh frozen plasma to provide clotting factors and dilute the circulating rivaroxaban"
+        },
+        {
+          "label": "E",
+          "text": "Administer tranexamic acid to inhibit plasminogen activation and counteract rivaroxaban's fibrinolytic effect"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Andexanet alfa is a specific reversal agent for rivaroxaban and apixaban. It binds and sequesters these DOACs and inhibits the activity of Tissue Factor Pathway Inhibitor.",
+        "whyCorrect": "Andexanet alfa is a specific reversal agent for rivaroxaban and apixaban, the two most commonly used DOACs. It works by binding and sequestering these DOACs and inhibiting the activity of Tissue Factor Pathway Inhibitor, increasing tissue factor-initiated thrombin generation.",
+        "whyWrongByChoice": {
+          "A": "Protamine sulfate is the antidote for heparin-induced bleeding, not for DOAC-induced bleeding. It neutralizes heparin by forming an inactive complex.",
+          "C": "Vitamin K is the reversal agent for warfarin, which works by inhibiting vitamin K epoxide reductase. DOACs directly inhibit factor Xa and are not affected by vitamin K supplementation.",
+          "D": "Fresh frozen plasma is not the standard reversal strategy for DOACs. Activated prothrombin complex concentrate (aPCC) or andexanet alfa are the recommended approaches.",
+          "E": "Tranexamic acid is an antifibrinolytic used to reverse thrombolytic drugs. Rivaroxaban is not a fibrinolytic agent; it is a direct factor Xa inhibitor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "rivaroxaban",
+        "andexanet-alfa",
+        "reversal-agent",
+        "bleeding"
+      ]
+    },
+    {
+      "id": "cv-039",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 72-year-old woman with non-valvular atrial fibrillation is being transitioned from warfarin to a DOAC. She asks her physician about the advantages of switching. Which of the following is the most clinically significant benefit of DOACs compared to warfarin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs can be safely used in patients with mechanical prosthetic heart valves unlike warfarin therapy"
+        },
+        {
+          "label": "B",
+          "text": "DOACs are administered intravenously, providing more reliable pharmacokinetics than oral warfarin"
+        },
+        {
+          "label": "C",
+          "text": "DOACs do not require frequent monitoring of PT/INR, unlike warfarin which needs regular monitoring"
+        },
+        {
+          "label": "D",
+          "text": "DOACs inhibit vitamin K-dependent clotting factor synthesis more selectively than warfarin does"
+        },
+        {
+          "label": "E",
+          "text": "DOACs have no risk of bleeding complications, making them significantly safer than warfarin therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A major benefit of DOACs over warfarin is that they do not require frequent PT/INR monitoring. Only general patient monitoring for signs of bleeding is needed.",
+        "whyCorrect": "A benefit of DOACs over other anticoagulants like warfarin is that they do not require frequent monitoring of PT/INR. Only general patient monitoring for signs and symptoms of irregular bleeding (e.g., overt bruising, dark/tarry stools) is needed.",
+        "whyWrongByChoice": {
+          "A": "This is incorrect. DOACs are NOT indicated for anticoagulation in patients with prosthetic heart valves. This is actually a key distinction from warfarin, which can be used for this indication.",
+          "B": "DOACs are only administered orally, not intravenously. Their oral-only route of administration is actually a feature, not a limitation.",
+          "D": "DOACs do not inhibit vitamin K-dependent clotting factor synthesis at all. They directly inhibit factor Xa. Warfarin is the drug that inhibits vitamin K-dependent factor synthesis.",
+          "E": "DOACs do carry a risk of bleeding, which is their main adverse effect. The advantage is not the absence of bleeding risk but rather the lack of need for frequent laboratory monitoring."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "warfarin-comparison",
+        "PT-INR-monitoring",
+        "advantages",
+        "non-valvular-atrial-fibrillation"
+      ]
+    },
+    {
+      "id": "cv-040",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 55-year-old man with a recent hip replacement surgery is started on edoxaban for DVT prophylaxis. He is also taking ketoconazole for a chronic fungal infection. Three weeks later, he presents to the emergency department with melena and hemoglobin of 7.2 g/dL. Which of the following best explains the mechanism of the drug interaction that led to this bleeding complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ketoconazole induces CYP3A4, accelerating the metabolism of edoxaban to a more potent active metabolite"
+        },
+        {
+          "label": "B",
+          "text": "Ketoconazole inhibits CYP3A4, increasing edoxaban levels and significantly raising the risk of bleeding"
+        },
+        {
+          "label": "C",
+          "text": "Ketoconazole inhibits CYP2C19, preventing the activation of edoxaban from its prodrug form in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Ketoconazole competes with edoxaban for renal tubular secretion, reducing edoxaban's renal elimination rate"
+        },
+        {
+          "label": "E",
+          "text": "Ketoconazole directly potentiates factor Xa inhibition by edoxaban through allosteric enhancement of binding"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DOACs are substrates of CYP3A4. Ketoconazole is a potent CYP3A4 inhibitor, which increases DOAC levels and significantly raises bleeding risk.",
+        "whyCorrect": "DOACs are substrates of CYP3A4, so caution should be used when other medications that inhibit this enzyme are co-administered. Ketoconazole is a well-known potent CYP3A4 inhibitor. Inhibiting CYP3A4 greatly increases DOAC levels and thus the risk for bleeding.",
+        "whyWrongByChoice": {
+          "A": "Ketoconazole is a CYP3A4 inhibitor, not an inducer. Induction would decrease drug levels, not increase them. The bleeding resulted from increased edoxaban levels due to enzyme inhibition.",
+          "C": "CYP2C19 is not the relevant enzyme for DOAC metabolism. DOACs are substrates of CYP3A4. CYP2C19 is relevant for clopidogrel activation, which is an antiplatelet agent.",
+          "D": "While DOACs are eliminated renally, the primary drug interaction with ketoconazole is through CYP3A4 inhibition of hepatic metabolism, not competition for renal tubular secretion.",
+          "E": "Ketoconazole does not directly potentiate factor Xa inhibition. The interaction is pharmacokinetic (inhibition of CYP3A4 metabolism), not pharmacodynamic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "edoxaban",
+        "CYP3A4",
+        "drug-interactions",
+        "ketoconazole"
+      ]
+    },
+    {
+      "id": "cv-041",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 50-year-old woman with atrial fibrillation is found to have a creatinine clearance of 22 mL/min on routine labs. She is currently taking apixaban for stroke prevention. Her physician is concerned about her declining renal function. Which of the following is the most important pharmacokinetic consideration regarding DOAC use in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs undergo primarily hepatic elimination, so renal impairment does not affect their clearance"
+        },
+        {
+          "label": "B",
+          "text": "All DOACs are eliminated renally, requiring dosage adjustment in patients with impaired renal function"
+        },
+        {
+          "label": "C",
+          "text": "DOACs are eliminated solely through biliary excretion, making renal function monitoring unnecessary"
+        },
+        {
+          "label": "D",
+          "text": "DOACs require frequent PT/INR monitoring in patients with renal impairment to guide dose titration"
+        },
+        {
+          "label": "E",
+          "text": "DOACs should be combined with heparin in patients with renal impairment to maintain therapeutic efficacy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "All DOACs are eliminated renally, so dosage adjustment for patients with altered renal function is required to prevent drug accumulation and bleeding.",
+        "whyCorrect": "All of the DOACs are eliminated renally, so dosage adjustment for patients with altered renal function is required. In this patient with a creatinine clearance of 22 mL/min, careful dose adjustment is essential to prevent drug accumulation and increased bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "While DOACs do undergo some hepatic metabolism via CYP3A4, renal elimination is a significant route for all DOACs, and renal impairment does affect their clearance.",
+          "C": "DOACs are not eliminated solely through biliary excretion. Renal elimination is important, and renal function monitoring is necessary to guide dosage adjustments.",
+          "D": "DOACs do not require PT/INR monitoring regardless of renal function. This is one of their advantages over warfarin. Dose adjustments are made based on renal function parameters.",
+          "E": "Adding heparin to DOACs in renal impairment is not recommended and would increase bleeding risk. The appropriate approach is dose adjustment of the DOAC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "apixaban",
+        "renal-impairment",
+        "dosage-adjustment",
+        "pharmacokinetics"
+      ]
+    },
+    {
+      "id": "cv-042",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 60-year-old man with a bioprosthetic aortic valve replacement performed 3 months ago develops atrial fibrillation. The cardiologist discusses anticoagulation options. The patient prefers an oral medication that does not require frequent blood monitoring. Which of the following is the most important reason a DOAC would NOT be appropriate for this patient if he had a mechanical (prosthetic) heart valve instead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs are only available in intravenous formulations and cannot provide long-term oral anticoagulation"
+        },
+        {
+          "label": "B",
+          "text": "DOACs are not indicated for anticoagulation in patients with prosthetic heart valves due to lack of proven efficacy"
+        },
+        {
+          "label": "C",
+          "text": "DOACs inhibit platelet aggregation rather than the coagulation cascade, providing inadequate valve protection"
+        },
+        {
+          "label": "D",
+          "text": "DOACs require weekly PT/INR monitoring that is not practical for long-term mechanical valve anticoagulation"
+        },
+        {
+          "label": "E",
+          "text": "DOACs are contraindicated due to direct chemical interaction with the metallic components of mechanical valves"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DOACs are NOT indicated for anticoagulation in patients with prosthetic heart valves. This is a key distinction from warfarin, which remains the standard for this indication.",
+        "whyCorrect": "Where DOACs differ from warfarin in terms of indication is that they are NOT indicated for anticoagulation in patients with a prosthetic heart valve. Clinical trials have not demonstrated adequate efficacy and safety of DOACs in this population, and warfarin remains the standard of care.",
+        "whyWrongByChoice": {
+          "A": "DOACs are only administered orally. They are direct oral anticoagulants by definition, making them convenient for long-term use.",
+          "C": "DOACs are anticoagulants that inhibit factor Xa in the coagulation cascade. They are not antiplatelet agents and do not inhibit platelet aggregation.",
+          "D": "DOACs do not require PT/INR monitoring at all, which is actually one of their advantages over warfarin. This is not a limitation.",
+          "E": "There is no direct chemical interaction between DOACs and metallic valve components. The contraindication is based on lack of proven clinical efficacy and safety."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "prosthetic-heart-valve",
+        "contraindications",
+        "warfarin-comparison",
+        "indications"
+      ]
+    },
+    {
+      "id": "cv-043",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 48-year-old woman on rivaroxaban for a pulmonary embolism presents to the emergency department after a motor vehicle accident with a large splenic laceration and hemorrhagic shock. The trauma surgeon requests immediate reversal of her anticoagulant. Activated prothrombin complex concentrate (aPCC) is administered. Which of the following best describes how aPCC reverses DOAC-induced bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "aPCC directly binds and neutralizes circulating rivaroxaban molecules, rendering them pharmacologically inactive"
+        },
+        {
+          "label": "B",
+          "text": "aPCC provides clotting factors II, VII, IX, and X to supplement the coagulation cascade without inactivating the DOAC"
+        },
+        {
+          "label": "C",
+          "text": "aPCC activates antithrombin III to accelerate the clearance of rivaroxaban from the systemic circulation"
+        },
+        {
+          "label": "D",
+          "text": "aPCC inhibits CYP3A4-mediated hepatic activation of rivaroxaban, preventing further anticoagulant effect"
+        },
+        {
+          "label": "E",
+          "text": "aPCC stimulates hepatic synthesis of new clotting factors by providing vitamin K as a necessary cofactor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "aPCC replaces clotting factors II, VII, IX, and X to supplement the clotting cascade. It does NOT inactivate the DOAC medication itself.",
+        "whyCorrect": "Activated prothrombin complex concentrate (aPCC) replaces clotting factors (II, VII, IX, and X) to aid the patient in supplementing the clotting cascade. Importantly, giving aPCC and replacing clotting factors does NOT inactivate the DOAC medication. It simply provides more substrate for the coagulation cascade to overcome the factor Xa blockade.",
+        "whyWrongByChoice": {
+          "A": "aPCC does not directly bind or neutralize DOACs. Andexanet alfa is the specific agent that binds and sequesters rivaroxaban and apixaban. aPCC works by replacing clotting factors.",
+          "C": "aPCC does not activate antithrombin III. Heparin activates antithrombin III. aPCC provides clotting factors to supplement the coagulation cascade.",
+          "D": "aPCC does not inhibit CYP3A4. Rivaroxaban is already an active drug (not a prodrug requiring activation), and aPCC works by providing clotting factors, not by altering drug metabolism.",
+          "E": "aPCC directly provides clotting factors, not vitamin K. Vitamin K is used to reverse warfarin by stimulating hepatic synthesis of clotting factors, which is a different mechanism entirely."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "rivaroxaban",
+        "aPCC",
+        "reversal",
+        "bleeding-management"
+      ]
+    },
+    {
+      "id": "cv-044",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 35-year-old woman who is 10 weeks pregnant presents with a newly diagnosed deep vein thrombosis in her left lower extremity. The physician discusses anticoagulation options. The patient asks about taking a DOAC since she has heard they are convenient and do not require blood monitoring. Which of the following is the most appropriate response regarding DOAC use in pregnancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs are the preferred anticoagulant in pregnancy because they do not cross the placental barrier"
+        },
+        {
+          "label": "B",
+          "text": "DOACs can be used safely in the first trimester but must be switched to heparin in the third trimester"
+        },
+        {
+          "label": "C",
+          "text": "DOACs are recommended during pregnancy because their renal elimination protects the fetus from exposure"
+        },
+        {
+          "label": "D",
+          "text": "DOACs are not recommended during pregnancy because safety has not been established in this population"
+        },
+        {
+          "label": "E",
+          "text": "DOACs are only contraindicated during labor and delivery but can be safely used throughout the rest of pregnancy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Safety of DOACs during pregnancy is not established, so most sources recommend not using these drugs during pregnancy.",
+        "whyCorrect": "DOACs are contraindicated during pregnancy because safety has not been established. Most sources recommend not using DOACs during pregnancy. Alternative anticoagulants such as low-molecular-weight heparin are preferred for pregnant patients requiring anticoagulation.",
+        "whyWrongByChoice": {
+          "A": "DOACs are not the preferred anticoagulant in pregnancy. Their safety has not been established, and they are not recommended for use during pregnancy.",
+          "B": "There is no evidence supporting safe use of DOACs in any trimester of pregnancy. They are not recommended at any point during pregnancy.",
+          "C": "Renal elimination does not protect the fetus from DOAC exposure. The safety concern is not simply about elimination route but about unknown effects on fetal development.",
+          "E": "DOACs are not recommended during any part of pregnancy, not just during labor and delivery. The safety concern extends throughout the entire pregnancy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "pregnancy",
+        "contraindications",
+        "DVT",
+        "safety"
+      ]
+    },
+    {
+      "id": "cv-045",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 70-year-old man with non-valvular atrial fibrillation is being started on anticoagulation. His physician selects apixaban and counsels him that while the specific reversal agent andexanet alfa exists, it has not been widely adopted. Which of the following best explains why andexanet alfa has seen limited clinical use despite being a targeted reversal agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Andexanet alfa can only reverse betrixaban and edoxaban, the least commonly prescribed DOACs in practice"
+        },
+        {
+          "label": "B",
+          "text": "Andexanet alfa requires daily subcutaneous injections for 7 days, limiting its practical use in emergency settings"
+        },
+        {
+          "label": "C",
+          "text": "Andexanet alfa has significantly higher drug cost and has failed to show superiority over aPCC in clinical trials"
+        },
+        {
+          "label": "D",
+          "text": "Andexanet alfa is only effective when administered within 30 minutes of DOAC ingestion, restricting its utility"
+        },
+        {
+          "label": "E",
+          "text": "Andexanet alfa causes severe anaphylaxis in over 25 percent of patients, making its risk profile unacceptable"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Despite being a specific reversal agent for DOACs, andexanet alfa has seen limited use due to significantly higher drug cost and failure to show superiority over aPCC in clinical trials.",
+        "whyCorrect": "Although andexanet alfa seems ideal as a specific reversal agent for DOACs, significantly higher drug cost and failure to show superiority in clinical trials have limited its clinical use. aPCC remains the more commonly used first-line reversal strategy.",
+        "whyWrongByChoice": {
+          "A": "Andexanet alfa is a specific reversal agent for rivaroxaban and apixaban, which are by far the two most commonly prescribed DOACs, not the least common ones.",
+          "B": "Andexanet alfa is administered intravenously in emergency settings, not as daily subcutaneous injections for 7 days.",
+          "D": "There is no such narrow 30-minute window requirement for andexanet alfa administration. It can be given when life-threatening bleeding is recognized.",
+          "E": "Severe anaphylaxis in over 25% of patients is not a documented concern with andexanet alfa. The limitations are primarily cost and lack of demonstrated superiority over aPCC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "andexanet-alfa",
+        "reversal-agent",
+        "aPCC",
+        "cost-effectiveness"
+      ]
+    },
+    {
+      "id": "cv-046",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "A 58-year-old man with severe hepatic cirrhosis (Child-Pugh class C) and newly diagnosed atrial fibrillation is being evaluated for anticoagulation therapy. His physician considers starting a DOAC but has concerns about hepatic impairment. Which of the following best explains the pharmacological basis for using DOACs cautiously in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DOACs require hepatic CYP2C19 activation from an inactive prodrug form to become pharmacologically active"
+        },
+        {
+          "label": "B",
+          "text": "DOACs are substrates of CYP3A4 and undergo hepatic metabolism, which is impaired in severe liver disease"
+        },
+        {
+          "label": "C",
+          "text": "DOACs inhibit hepatic synthesis of clotting factors, which is already compromised in patients with cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "DOACs are highly protein-bound to albumin, and hypoalbuminemia in cirrhosis leads to undetectable drug levels"
+        },
+        {
+          "label": "E",
+          "text": "DOACs are eliminated exclusively through hepatic glucuronidation, which is absent in patients with severe cirrhosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DOACs are substrates of CYP3A4 and undergo hepatic metabolism. In patients with severe liver disease, this metabolism is impaired, necessitating cautious use.",
+        "whyCorrect": "The DOACs are substrates of CYP3A4, so they should be used cautiously in patients with severe liver disease because of impaired hepatic metabolism. Altered drug metabolism in cirrhosis can lead to unpredictable drug levels and increased bleeding risk.",
+        "whyWrongByChoice": {
+          "A": "DOACs are not prodrugs requiring CYP2C19 activation. They are active drugs that are metabolized by CYP3A4. Clopidogrel (an antiplatelet agent) is the prodrug requiring CYP2C19 activation.",
+          "C": "DOACs do not inhibit hepatic synthesis of clotting factors. They directly inhibit factor Xa activity. Warfarin is the anticoagulant that inhibits hepatic synthesis of vitamin K-dependent clotting factors.",
+          "D": "While protein binding may be a pharmacokinetic consideration, the primary concern in liver disease is impaired CYP3A4-mediated hepatic metabolism of DOACs, not hypoalbuminemia leading to undetectable levels.",
+          "E": "DOACs are not eliminated exclusively through hepatic glucuronidation. They are metabolized by CYP3A4 and also eliminated renally. The concern is about impaired CYP3A4 metabolism in severe liver disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "doacs",
+        "CYP3A4",
+        "hepatic-impairment",
+        "pharmacokinetics",
+        "liver-disease"
+      ]
+    },
+    {
+      "id": "vd-073",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 48-year-old female elementary school teacher presents to her primary care physician with a 6-month history of bilateral lower extremity aching and swelling that worsens throughout the day and improves when she elevates her legs at home in the evening. She has a BMI of 32 kg/m2, a 15-pack-year smoking history, and two prior pregnancies. Physical examination reveals bilateral tortuous, dilated superficial veins on the lower legs, 1+ pitting edema, and brownish discoloration of the skin on the medial aspects of both ankles. Which of the following best explains the skin discoloration observed on this patient's lower extremities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deposition of hemosiderin from extravasated red blood cells due to venous hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of bilirubin in the dermis from hepatic dysfunction caused by chronic venous congestion"
+        },
+        {
+          "label": "C",
+          "text": "Melanocyte hyperactivity stimulated by chronic inflammatory cytokine release in the dermis"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposition from recurrent microhemorrhages caused by arterial insufficiency and ischemia"
+        },
+        {
+          "label": "E",
+          "text": "Lipofuscin accumulation in dermal macrophages secondary to chronic oxidative stress from stasis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient has chronic venous insufficiency with stasis dermatitis. The hyperpigmentation is caused by venous hypertension leading to capillary dilation and increased permeability, red blood cell extravasation, and subsequent hemosiderin deposition in the dermis.",
+        "whyCorrect": "Venous hypertension from incompetent valves causes microcirculatory changes including capillary dilation and increased permeability. Red blood cells extravasate into the surrounding tissue, and as they break down, hemosiderin (an iron-storage complex) is deposited in the dermis, producing the characteristic brownish hyperpigmentation of stasis dermatitis.",
+        "whyWrongByChoice": {
+          "B": "Bilirubin accumulation causes jaundice and is associated with hepatic or hemolytic disorders, not chronic venous insufficiency. The discoloration pattern and location are inconsistent with bilirubin deposition.",
+          "C": "Melanocyte hyperactivity causes hyperpigmentation in conditions such as Addison disease or post-inflammatory hyperpigmentation, but the mechanism in stasis dermatitis involves hemosiderin deposition from red blood cell extravasation, not melanocyte stimulation.",
+          "D": "Arterial insufficiency causes pallor, hair loss, and ulceration on distal extremities, not the brownish medial ankle discoloration seen in venous stasis. The iron deposition in stasis dermatitis originates from venous hypertension, not arterial disease.",
+          "E": "Lipofuscin is a wear-and-tear pigment found in aging cells such as cardiac myocytes and neurons. It does not accumulate in dermal macrophages as a cause of skin discoloration in venous insufficiency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "venous insufficiency",
+        "stasis dermatitis",
+        "hemosiderin",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "vd-074",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 60-year-old male retired truck driver presents with a 3-day history of pain, redness, and warmth along a superficial vein on his right forearm. He was hospitalized 10 days ago for pneumonia and received intravenous antibiotics through a peripheral IV catheter in that forearm. He is currently afebrile with a heart rate of 78 bpm and blood pressure of 128/80 mmHg. Physical examination reveals a firm, tender, cordlike structure palpable along the course of the cephalic vein with surrounding erythema. There is no purulent drainage, fluctuance, or asymmetric limb swelling. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obtain blood cultures and initiate broad-spectrum intravenous antibiotic therapy"
+        },
+        {
+          "label": "B",
+          "text": "Initiate therapeutic-dose anticoagulation with low-molecular-weight heparin"
+        },
+        {
+          "label": "C",
+          "text": "Provide analgesics, leg elevation, and compression for symptomatic relief"
+        },
+        {
+          "label": "D",
+          "text": "Order a lower extremity duplex ultrasound to evaluate for deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Perform surgical thrombectomy to prevent thrombus propagation into the deep veins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has uncomplicated catheter-associated superficial thrombophlebitis. Without signs of infection (fever, purulence) or deep vein thrombosis (asymmetric swelling), the appropriate management is conservative with analgesics, elevation, and compression.",
+        "whyCorrect": "Uncomplicated superficial thrombophlebitis is managed conservatively with analgesics for pain relief, elevation to promote venous return, and compression stockings. This patient is afebrile, has no purulent drainage, and has no signs of DVT, making conservative management the appropriate first-line approach.",
+        "whyWrongByChoice": {
+          "A": "Blood cultures and antibiotics are indicated when superficial thrombophlebitis is complicated by signs of infection such as fever, purulent drainage, or fluctuance. This patient is afebrile with no purulence, so antibiotics are not warranted at this time.",
+          "B": "Therapeutic anticoagulation is the treatment for deep vein thrombosis, not uncomplicated superficial thrombophlebitis. There are no signs of DVT in this patient, such as asymmetric calf swelling or limb edema.",
+          "D": "Duplex ultrasound is indicated when there is clinical suspicion for concurrent DVT, such as asymmetric calf swelling or saphenous vein involvement. This patient has an upper extremity superficial vein thrombophlebitis without signs suggesting deep venous involvement.",
+          "E": "Surgical thrombectomy is not a standard treatment for superficial thrombophlebitis. It is reserved for certain cases of extensive deep venous thrombosis and is not indicated in this uncomplicated presentation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "superficial thrombophlebitis",
+        "catheter-associated",
+        "management"
+      ]
+    },
+    {
+      "id": "vd-075",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 52-year-old female with a history of intravenous drug use is brought to the emergency department with a 3-day history of right arm pain and swelling. She reports fevers and chills. Her temperature is 39.2°C, heart rate is 112 bpm, and blood pressure is 88/56 mmHg. On examination, there is erythema, warmth, and a palpable tender cord along the antecubital fossa of the right arm with purulent drainage from a recent injection site. Which of the following organisms is most likely responsible for this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli producing extended-spectrum beta-lactamases"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomonas aeruginosa colonizing the vascular endothelium"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pyogenes causing necrotizing soft tissue infection"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus from the patient's normal skin flora"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans associated with immunocompromised status"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has infectious superficial thrombophlebitis with signs of sepsis. The most common pathogens causing infectious thrombophlebitis are skin flora, particularly Staphylococcus aureus.",
+        "whyCorrect": "S. aureus is the most common organism responsible for infectious thrombophlebitis. As a normal component of skin flora, it is introduced into the venous system through endothelial damage from IV drug injection or catheter placement. The patient's IV drug use and injection site involvement strongly support S. aureus as the causative pathogen.",
+        "whyWrongByChoice": {
+          "A": "Escherichia coli is a coliform bacterium most commonly associated with urinary tract infections and intra-abdominal infections. It is not a typical pathogen in thrombophlebitis arising from skin breach and venipuncture sites.",
+          "B": "Pseudomonas aeruginosa can cause catheter-related infections but is much less common than S. aureus in this setting. It is more commonly associated with hospital-acquired pneumonia, burn wound infections, and chronic otitis externa.",
+          "C": "Streptococcus pyogenes can cause cellulitis and necrotizing fasciitis, but it is not typically the primary pathogen in thrombophlebitis related to venous access sites. The presentation with a tender cord and purulent drainage from an injection site is more consistent with S. aureus.",
+          "E": "Candida albicans can cause catheter-related bloodstream infections, particularly in immunocompromised or critically ill patients with prolonged central venous catheter use, but it is not the most common pathogen in this clinical scenario of IV drug use-associated thrombophlebitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "superficial thrombophlebitis",
+        "infectious",
+        "Staphylococcus aureus",
+        "IV drug use"
+      ]
+    },
+    {
+      "id": "vd-076",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 45-year-old obese female presents with progressively worsening bilateral lower extremity swelling, aching, and visible dilated veins over the past 2 years. She works as a hairdresser and stands for approximately 10 hours per day. She has tried over-the-counter analgesics without significant improvement. Physical examination reveals extensive bilateral tortuous varicose veins with 2+ pitting edema. There is hyperpigmented, scaly skin over the medial malleoli bilaterally. She has been compliant with compression stockings and regular leg elevation for 6 months without adequate symptom relief. A small, shallow ulcer is noted on the left medial malleolus. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate a trial of systemic corticosteroids to reduce the inflammatory component of her disease"
+        },
+        {
+          "label": "B",
+          "text": "Refer for superficial venous ablation given the severity of varicose veins with ulceration"
+        },
+        {
+          "label": "C",
+          "text": "Prescribe aspirin and clopidogrel to prevent further thrombus formation in affected veins"
+        },
+        {
+          "label": "D",
+          "text": "Recommend smoking cessation as the primary intervention to halt disease progression"
+        },
+        {
+          "label": "E",
+          "text": "Advise continued observation with conservative measures for an additional 6-month trial"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has severe chronic venous insufficiency with ulceration refractory to conservative measures. Superficial venous ablation is indicated for severe varicose veins with associated ulcerations or isolated saphenous vein incompetence.",
+        "whyCorrect": "When varicose veins are severe with associated ulcerations, and conservative measures (elevation, compression stockings, exercise) have failed, the patient is a candidate for superficial venous ablation. This procedure introduces a catheter into the vein to apply heat until the vein closes and loses its dilation.",
+        "whyWrongByChoice": {
+          "A": "Systemic corticosteroids are not part of the management of chronic venous insufficiency. Venous insufficiency is a mechanical problem of valve incompetence and venous hypertension, not a systemic inflammatory condition that would respond to immunosuppressive therapy.",
+          "C": "Antiplatelet therapy with aspirin and clopidogrel is not a standard treatment for chronic venous insufficiency. The pathology involves valve incompetence and venous reflux, not arterial thrombosis.",
+          "D": "Although smoking is listed as a risk factor for venous insufficiency, smoking cessation has specifically not been found to be effective in the management of chronic venous insufficiency. Additionally, this patient's disease has already progressed to ulceration requiring more definitive intervention.",
+          "E": "The patient has already undergone a 6-month trial of conservative measures without adequate improvement and has developed ulceration. Continuing the same approach without escalation would not address the progressive nature of her disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "venous insufficiency",
+        "varicose veins",
+        "venous ablation",
+        "management",
+        "stasis ulcer"
+      ]
+    },
+    {
+      "id": "vd-077",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 58-year-old male with a history of pancreatic adenocarcinoma diagnosed 3 months ago presents with recurrent episodes of painful, erythematous, cordlike lesions along superficial veins in different locations on his extremities over the past several weeks. Each episode resolves spontaneously within days before a new lesion appears at a different site. He denies recent IV access, trauma, or immobilization. His temperature is 37.1°C, and he is hemodynamically stable. Which of the following best describes the pathophysiologic mechanism underlying this patient's recurrent superficial venous condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of vascular endothelial cells mediated by antiphospholipid antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial seeding of venous endothelium from an occult intra-abdominal abscess"
+        },
+        {
+          "label": "C",
+          "text": "Mucin release from the tumor causing hypercoagulability and endothelial injury"
+        },
+        {
+          "label": "D",
+          "text": "Mechanical compression of the inferior vena cava by the pancreatic tumor mass"
+        },
+        {
+          "label": "E",
+          "text": "Paraneoplastic vasospasm of superficial veins triggered by tumor-secreted catecholamines"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has migratory superficial thrombophlebitis (Trousseau syndrome) associated with pancreatic adenocarcinoma. Certain cancers, particularly pancreatic adenocarcinoma, release mucin that causes a hypercoagulable state and endothelial injury, leading to migratory superficial thrombophlebitis.",
+        "whyCorrect": "Pancreatic adenocarcinomas release mucin, which creates a hypercoagulable state and causes endothelial injury. This results in migratory superficial thrombophlebitis, characterized by recurrent episodes of thrombophlebitis at different sites (Trousseau syndrome). The pathogenesis involves elements of Virchow's triad: endothelial damage and hypercoagulability.",
+        "whyWrongByChoice": {
+          "A": "Antiphospholipid antibody syndrome can cause thrombotic events but is an autoimmune condition unrelated to mucin-producing malignancies. The temporal association with pancreatic adenocarcinoma and the migratory pattern are more consistent with a paraneoplastic hypercoagulable state.",
+          "B": "Bacterial seeding would typically present with signs of systemic infection including fever, leukocytosis, and positive blood cultures. This patient is afebrile, and the migratory nature of the lesions is inconsistent with a focal infectious source.",
+          "D": "Mechanical compression of the IVC by a tumor mass would cause bilateral lower extremity edema and potentially deep vein thrombosis, not recurrent migratory superficial thrombophlebitis affecting different extremities at different times.",
+          "E": "Paraneoplastic vasospasm caused by catecholamines is associated with pheochromocytoma, not pancreatic adenocarcinoma. Vasospasm would cause ischemic symptoms rather than the inflammatory cordlike lesions characteristic of thrombophlebitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "superficial thrombophlebitis",
+        "migratory",
+        "pancreatic cancer",
+        "Trousseau syndrome",
+        "hypercoagulability"
+      ]
+    },
+    {
+      "id": "vd-078",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 34-year-old female nurse presents with a 1-year history of bilateral lower extremity heaviness and visible swollen veins that worsen after her 12-hour shifts and improve on her days off when she can rest with her legs elevated. She has had two pregnancies and has a BMI of 28 kg/m2. She denies any fever, redness, tenderness, or skin changes. Physical examination reveals bilateral tortuous superficial veins on the lower legs without edema, skin discoloration, or palpable cords. Her vital signs are normal. Which of the following best describes the underlying pathophysiology of this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thrombus formation within the superficial veins triggered by endothelial cell damage from prolonged standing"
+        },
+        {
+          "label": "B",
+          "text": "Lymphatic obstruction from repeated gravitational stress causing fluid accumulation in the lower extremities"
+        },
+        {
+          "label": "C",
+          "text": "Arteriovenous malformation with abnormal communication between the deep arterial and superficial venous systems"
+        },
+        {
+          "label": "D",
+          "text": "Damage to elastic fibers from increased intraluminal pressure causing valve incompetence and retrograde venous blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Inflammatory infiltration of the vein walls by neutrophils leading to weakened vessel wall integrity and dilation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has superficial venous insufficiency (varicose veins). The underlying pathophysiology involves pressure buildup from blood stagnation that weakens venous valves, causing incompetence and allowing retrograde venous blood flow (venous reflux). Over time, the increased intraluminal pressures damage the elastic fibers of the vessel walls, causing dilation and tortuosity.",
+        "whyCorrect": "Prolonged standing causes blood stagnation and increased venous pressure, which weakens venous valves and makes them incompetent. This allows retrograde venous blood flow (venous reflux). The sustained increased intraluminal pressure damages the elastic fibers of the vessel walls, leading to the dilated, floppy, tortuous veins characteristic of varicose veins.",
+        "whyWrongByChoice": {
+          "A": "Thrombus formation within superficial veins describes superficial thrombophlebitis, which presents with a tender palpable cord, erythema, and warmth. This patient has no signs of thrombosis or inflammation, and her presentation is consistent with venous insufficiency.",
+          "B": "Lymphatic obstruction (lymphedema) causes non-pitting edema and is associated with lymph node dissection, malignancy, or parasitic infection. This patient has visible varicose veins that improve with elevation, consistent with venous insufficiency rather than lymphatic disease.",
+          "C": "Arteriovenous malformations are congenital vascular anomalies that present differently from acquired varicose veins. They typically cause localized swelling, warmth, and a palpable thrill, none of which are present in this patient.",
+          "E": "Neutrophilic infiltration of vein walls describes an inflammatory vasculitis process. Superficial venous insufficiency is caused by mechanical valve failure and elastic fiber damage from increased intraluminal pressure, not by inflammatory cell infiltration of the vessel walls."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "venous insufficiency",
+        "varicose veins",
+        "pathophysiology",
+        "valve incompetence",
+        "venous reflux"
+      ]
+    },
+    {
+      "id": "vd-079",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 50-year-old male with a history of obesity and type 2 diabetes presents with worsening bilateral lower extremity swelling over the past several months. He works as a security guard and sits for extended periods. He smokes half a pack of cigarettes daily. Physical examination reveals bilateral 2+ pitting edema, tortuous dilated veins, and dark brownish discoloration of the skin over both medial malleoli. There is a 2 cm shallow ulcer with irregular borders over the left medial malleolus. The dorsalis pedis and posterior tibial pulses are intact bilaterally. He has not tried any treatment. Which of the following is the most appropriate initial management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Referral for immediate sclerotherapy to eliminate the incompetent superficial veins bilaterally"
+        },
+        {
+          "label": "B",
+          "text": "Smoking cessation counseling as the primary therapeutic intervention to reverse venous disease"
+        },
+        {
+          "label": "C",
+          "text": "Initiation of systemic anticoagulation to prevent deep vein thrombosis from venous stasis"
+        },
+        {
+          "label": "D",
+          "text": "Prescription of topical corticosteroids to treat the inflammatory component of stasis dermatitis"
+        },
+        {
+          "label": "E",
+          "text": "Leg elevation, compression stockings, and exercise as conservative first-line measures"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Initial treatment for chronic venous insufficiency includes conservative measures such as leg elevation, exercise, and compression stockings. These measures should be tried first before considering procedural interventions.",
+        "whyCorrect": "The initial treatment for chronic venous insufficiency is conservative management with leg elevation, exercise, and compression stockings. This patient has not tried any treatment yet, so conservative measures are the appropriate first step before considering more invasive options like sclerotherapy or venous ablation.",
+        "whyWrongByChoice": {
+          "A": "Sclerotherapy is reserved for patients whose venous insufficiency is refractory to conservative measures and is primarily used to improve cosmetic appearance. It should not be the initial management, as conservative measures should be attempted first.",
+          "B": "Although smoking is a risk factor for developing venous insufficiency, smoking cessation has specifically not been found to be effective in the management of established chronic venous insufficiency. It should not be relied upon as the primary therapeutic intervention.",
+          "C": "Systemic anticoagulation is not indicated for chronic venous insufficiency. Anticoagulation is the treatment for deep vein thrombosis, which is a different condition. There are no signs of DVT in this patient.",
+          "D": "Topical corticosteroids are not a standard treatment for stasis dermatitis from chronic venous insufficiency. The discoloration is caused by hemosiderin deposition from extravasated red blood cells, which is addressed by treating the underlying venous hypertension with compression and elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "venous insufficiency",
+        "management",
+        "compression stockings",
+        "conservative treatment"
+      ]
+    },
+    {
+      "id": "vd-080",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 62-year-old male is hospitalized for a hip replacement surgery. On postoperative day 3, he develops pain and swelling along the dorsum of his left hand where a peripheral IV catheter was placed for fluid administration. His temperature is 38.9°C, heart rate is 105 bpm, and blood pressure is 100/62 mmHg. Physical examination reveals erythema, warmth, and a tender cordlike structure along a superficial vein on the dorsal hand. There is purulent material draining from the IV insertion site. Asymmetric calf swelling is noted on the left lower extremity. In addition to blood cultures and antibiotics, which of the following is the most important next diagnostic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT angiography of the chest to evaluate for pulmonary embolism from the upper extremity thrombus"
+        },
+        {
+          "label": "B",
+          "text": "Lower extremity duplex ultrasound to evaluate for concurrent deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Venography of the left upper extremity to determine the full extent of the superficial thrombus"
+        },
+        {
+          "label": "D",
+          "text": "Echocardiography to assess for right heart strain from possible thromboembolic disease"
+        },
+        {
+          "label": "E",
+          "text": "D-dimer assay to rule out venous thromboembolism in the postoperative setting"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This postoperative patient has infectious catheter-associated thrombophlebitis with signs of sepsis AND asymmetric calf swelling suggesting possible concurrent DVT. Lower extremity ultrasound should be performed to evaluate for DVT, which would require anticoagulation.",
+        "whyCorrect": "The patient has asymmetric calf swelling, which is a clinical sign suggestive of deep vein thrombosis. In the setting of thrombophlebitis with evidence of possible DVT (asymmetric calf swelling), lower extremity ultrasound should be performed to evaluate for concurrent DVT, as its presence would necessitate anticoagulation treatment.",
+        "whyWrongByChoice": {
+          "A": "While pulmonary embolism is a concern in postoperative patients, the most important initial step is to evaluate the asymmetric calf swelling for DVT with ultrasound. CT angiography would be more appropriate if the patient had respiratory symptoms or hemodynamic instability suggesting PE.",
+          "C": "Venography of the upper extremity is an invasive procedure that is not the standard initial diagnostic approach. The superficial thrombophlebitis in the hand is already clinically diagnosed, and the more pressing concern is the asymmetric calf swelling suggesting lower extremity DVT.",
+          "D": "Echocardiography may be useful in evaluating for right heart strain in massive pulmonary embolism, but this patient's primary concern is the asymmetric calf swelling that needs evaluation with duplex ultrasound before pursuing cardiac imaging.",
+          "E": "D-dimer has limited utility in the postoperative setting because surgery itself causes D-dimer elevation, making it an unreliable screening test. Direct imaging with duplex ultrasound is more appropriate when clinical suspicion for DVT is present."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "superficial thrombophlebitis",
+        "DVT",
+        "ultrasound",
+        "postoperative",
+        "catheter-associated"
+      ]
+    },
+    {
+      "id": "vd-081",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A 38-year-old female with a history of two prior pregnancies presents with concerns about prominent veins on her lower legs that have been gradually worsening over the past 3 years. She reports that the veins are unsightly and cause mild aching after prolonged standing at work. She denies leg swelling, skin changes, or ulceration. Physical examination reveals moderate bilateral varicose veins without edema, hyperpigmentation, or tenderness. She has been using compression stockings regularly for the past year with partial symptom relief but remains dissatisfied with the cosmetic appearance. Which of the following treatments would most appropriately address her primary concern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial venous ablation using catheter-directed thermal energy to close the incompetent veins"
+        },
+        {
+          "label": "B",
+          "text": "Surgical ligation and stripping of the great saphenous vein to eliminate the source of reflux"
+        },
+        {
+          "label": "C",
+          "text": "Sclerotherapy with injection of a chemical agent to damage and eventually eliminate the affected veins"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of oral venoactive medication such as diosmin to strengthen venous wall integrity"
+        },
+        {
+          "label": "E",
+          "text": "Referral for angioplasty and stenting of the superficial venous system to restore normal flow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient's primary concern is cosmetic appearance of varicose veins that are refractory to conservative measures. Sclerotherapy is used to improve cosmetic appearance when venous insufficiency is refractory to conservative measures.",
+        "whyCorrect": "Sclerotherapy involves the injection of a chemical agent into a vein to damage, narrow, and eventually eliminate that vein. It is specifically used for cosmetic improvement of varicose veins when conservative measures have been insufficient. Although it does not prevent venous insufficiency from recurring, it directly addresses this patient's primary concern about the appearance of her veins.",
+        "whyWrongByChoice": {
+          "A": "Superficial venous ablation is reserved for more severe cases with associated ulcerations or isolated saphenous vein incompetence. This patient has moderate varicose veins without ulceration, and her primary concern is cosmetic, making sclerotherapy the more appropriate choice.",
+          "B": "Surgical ligation and stripping is a more invasive procedure that is not the first-line procedural intervention for cosmetic concerns with moderate varicose veins. Sclerotherapy is a less invasive option that directly addresses cosmetic appearance.",
+          "D": "Oral venoactive medications are not discussed as part of the standard management approach for superficial venous insufficiency in this context. Initial management includes elevation, exercise, and compression, with procedural options for refractory or cosmetically concerning cases.",
+          "E": "Angioplasty and stenting are used for arterial stenosis, not for superficial venous insufficiency. The treatment of varicose veins involves eliminating or closing the incompetent veins, not restoring flow through them."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "venous insufficiency",
+        "sclerotherapy",
+        "varicose veins",
+        "cosmetic",
+        "management"
+      ]
+    }
+  ]
+}

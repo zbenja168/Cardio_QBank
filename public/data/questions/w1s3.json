@@ -1,0 +1,2584 @@
+{
+  "categoryId": "w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "cv-047",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 42-year-old man presents to the emergency department with severe epigastric pain radiating to the back. He reports similar episodes over the past 2 years. His father and paternal uncle both experienced recurrent pancreatitis in their 30s. Laboratory studies show serum lipase at 5 times the upper limit of normal, total cholesterol of 195 mg/dL, LDL cholesterol of 90 mg/dL, HDL cholesterol of 35 mg/dL, and triglycerides of 1,450 mg/dL. A centrifuged blood sample shows a clear infranatant with no creamy supernatant layer. Which of the following is the most likely underlying pathophysiology of this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic overproduction of very-low-density lipoprotein particles"
+        },
+        {
+          "label": "B",
+          "text": "Increased hepatic production of apolipoprotein B-100"
+        },
+        {
+          "label": "C",
+          "text": "Defective apolipoprotein E-mediated hepatic uptake of remnant particles"
+        },
+        {
+          "label": "D",
+          "text": "Decreased expression of LDL receptors on hepatocyte surfaces"
+        },
+        {
+          "label": "E",
+          "text": "Deficiency of lipoprotein lipase on endothelial cell surfaces"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient presents with recurrent pancreatitis secondary to markedly elevated triglycerides with near-normal cholesterol, a family history suggesting autosomal dominant inheritance, and no creamy supernatant (ruling out chylomicronemia). This is consistent with familial hypertriglyceridemia (Fredrickson type IV), caused by hepatic overproduction of VLDL.",
+        "whyCorrect": "Familial hypertriglyceridemia (type IV) is characterized by elevated VLDL and triglycerides with relatively normal total cholesterol and low HDL. It is caused by hepatic overproduction of VLDLs. The lack of a creamy supernatant on centrifuged blood excludes chylomicronemia (type I). The family history of pancreatitis in males is consistent with the autosomal dominant pure monogenic form.",
+        "whyWrongByChoice": {
+          "B": "Increased apolipoprotein B-100 production is the mechanism of familial combined hyperlipidemia (type IIb), which presents with elevations in both cholesterol and triglycerides along with elevated LDL and VLDL, not isolated hypertriglyceridemia.",
+          "C": "Defective ApoE-mediated hepatic uptake characterizes familial dysbetalipoproteinemia (type III), which presents with moderate elevations in both cholesterol and triglycerides and is associated with pathognomonic palmar xanthomas.",
+          "D": "Decreased LDL receptor expression is the mechanism of familial hypercholesterolemia (type IIa), which presents with markedly elevated LDL cholesterol and near-normal triglycerides, not the pattern seen here.",
+          "E": "Lipoprotein lipase deficiency causes familial hyperchylomicronemia (type I), which would produce a creamy supernatant layer on centrifuged blood due to accumulated chylomicrons; this patient's sample lacked that finding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial hypertriglyceridemia",
+        "Fredrickson type IV",
+        "VLDL",
+        "pancreatitis"
+      ]
+    },
+    {
+      "id": "cv-048",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 7-year-old boy is brought to the pediatric emergency department with severe abdominal pain after eating a birthday meal of pizza and cake. Physical examination reveals tender hepatomegaly and scattered reddish papules on his buttocks. Laboratory studies show total cholesterol of 210 mg/dL, triglycerides of 3,800 mg/dL, and a serum lipase 6 times the upper limit of normal. His parents are both phenotypically normal but are known to be consanguineous. Which of the following best explains why this patient is NOT at significantly increased risk for premature atherosclerotic cardiovascular disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "His chylomicrons are too large to penetrate the arterial endothelium effectively"
+        },
+        {
+          "label": "B",
+          "text": "His LDL cholesterol levels are within or near normal reference ranges"
+        },
+        {
+          "label": "C",
+          "text": "His apolipoprotein E is functioning normally and clearing remnant particles"
+        },
+        {
+          "label": "D",
+          "text": "His hepatic LDL receptors are upregulated to compensate for high triglycerides"
+        },
+        {
+          "label": "E",
+          "text": "His PCSK9 activity is reduced, leading to increased hepatic LDL receptor density"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This child has familial hyperchylomicronemia (Fredrickson type I), an autosomal recessive LPL deficiency presenting with massively elevated triglycerides, pancreatitis, hepatomegaly, and eruptive xanthomas. Despite severe hypertriglyceridemia, cholesterol (especially LDL) levels remain near normal, so the risk of ischemic heart disease is not increased.",
+        "whyCorrect": "In familial hyperchylomicronemia (type I), LPL deficiency leads to accumulation of triglyceride-rich chylomicrons, but cholesterol levels remain within or near reference ranges. Since atherosclerosis is primarily driven by elevated LDL cholesterol, these patients are not at significantly increased risk for premature atherosclerotic cardiovascular disease.",
+        "whyWrongByChoice": {
+          "A": "While chylomicrons are large particles, the reason this patient is not at increased ASCVD risk is specifically because LDL cholesterol levels remain near normal, not because of particle size exclusion from the endothelium.",
+          "C": "ApoE function is not the relevant protective factor here; ApoE abnormalities are associated with type III dysbetalipoproteinemia. The key factor is that LDL cholesterol remains in the normal range.",
+          "D": "There is no evidence that LDL receptor upregulation occurs as a compensatory mechanism in this condition; the near-normal LDL is due to the nature of the metabolic defect affecting triglyceride-rich particles rather than LDL metabolism.",
+          "E": "Reduced PCSK9 activity would increase LDL receptor density and lower LDL, but this is not the mechanism at play in familial hyperchylomicronemia. The near-normal cholesterol is inherent to the LPL deficiency phenotype."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial hyperchylomicronemia",
+        "Fredrickson type I",
+        "LPL deficiency",
+        "atherosclerosis risk"
+      ]
+    },
+    {
+      "id": "cv-049",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 28-year-old man presents to his primary care physician after his brother was diagnosed with a myocardial infarction at age 32. Family history reveals that his father died of a heart attack at age 38. Physical examination shows thickened Achilles tendons bilaterally and a partial corneal arcus. Fasting lipid panel shows total cholesterol of 385 mg/dL, LDL cholesterol of 295 mg/dL, HDL cholesterol of 42 mg/dL, and triglycerides of 140 mg/dL. Which of the following statements best characterizes the inheritance pattern and molecular mechanism of this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive inheritance with deficient lipoprotein lipase activity on endothelial surfaces"
+        },
+        {
+          "label": "B",
+          "text": "Polygenic multifactorial inheritance with hepatic overproduction of small VLDL particles"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant inheritance with decreased LDL receptor expression on hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Autosomal recessive inheritance with impaired ApoE-mediated hepatic clearance of remnant particles"
+        },
+        {
+          "label": "E",
+          "text": "Non-Mendelian inheritance with increased apolipoprotein B-100 expression and dense LDL particles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has familial hypercholesterolemia (Fredrickson type IIa), the only primarily autosomal dominant familial dyslipidemia. It is caused by mutations in the LDLR gene that alter receptor expression (not binding affinity), leading to decreased LDL clearance and markedly elevated LDL cholesterol with near-normal triglycerides.",
+        "whyCorrect": "Familial hypercholesterolemia (type IIa) is autosomal dominant and is caused by mutations that lead to too few or absent LDL receptors. The presentation of very high LDL with normal triglycerides, tendinous xanthomas, corneal arcus before age 40, and strong family history of premature coronary disease is classic for this condition.",
+        "whyWrongByChoice": {
+          "A": "Autosomal recessive inheritance with LPL deficiency characterizes familial hyperchylomicronemia (type I), which presents with massively elevated triglycerides and near-normal cholesterol, not the pattern seen in this patient.",
+          "B": "Polygenic multifactorial inheritance with hepatic overproduction of small VLDL particles describes familial combined hyperlipidemia (type IIb), which elevates both cholesterol and triglycerides and features non-Mendelian inheritance with male predominance.",
+          "D": "Autosomal recessive inheritance with impaired ApoE-mediated clearance characterizes familial dysbetalipoproteinemia (type III), which presents with moderate elevations in both cholesterol and triglycerides and pathognomonic palmar xanthomas.",
+          "E": "Non-Mendelian inheritance with increased ApoB-100 expression describes familial combined hyperlipidemia (type IIb), which presents with elevations in LDL, VLDL, and triglycerides, not isolated LDL elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial hypercholesterolemia",
+        "Fredrickson type IIa",
+        "LDLR mutation",
+        "autosomal dominant"
+      ]
+    },
+    {
+      "id": "cv-050",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 45-year-old woman presents to her physician with yellow-orange discoloration in the creases of both palms that has developed over the past several months. She also notes bumpy growths on her knees. Both of her parents had coronary artery disease diagnosed before age 45. Fasting lipid panel shows total cholesterol of 310 mg/dL, triglycerides of 420 mg/dL, LDL cholesterol of 160 mg/dL, and HDL cholesterol of 38 mg/dL. Genetic testing would most likely reveal a mutation in which of the following genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "LDLR encoding the low-density lipoprotein receptor"
+        },
+        {
+          "label": "B",
+          "text": "LPL encoding lipoprotein lipase"
+        },
+        {
+          "label": "C",
+          "text": "APOB encoding apolipoprotein B-100"
+        },
+        {
+          "label": "D",
+          "text": "APOE encoding apolipoprotein E"
+        },
+        {
+          "label": "E",
+          "text": "PCSK9 encoding proprotein convertase subtilisin kexin type 9"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The combination of palmar xanthomas (pathognomonic), eruptive xanthomas on the knees, moderate elevations in both cholesterol and triglycerides, and family history of premature cardiovascular disease in both parents (consistent with autosomal recessive inheritance) is diagnostic of familial dysbetalipoproteinemia (Fredrickson type III), which is caused by mutations in the APOE gene.",
+        "whyCorrect": "Palmar xanthomas (yellow-orange plaques in the palmar creases) are pathognomonic for familial dysbetalipoproteinemia (type III). This condition is primarily autosomal recessive, caused by mutations in the APOE gene. The ApoE2 isoform has reduced affinity for the LDL receptor, impairing hepatic clearance of chylomicron remnants and IDL particles.",
+        "whyWrongByChoice": {
+          "A": "LDLR mutations cause familial hypercholesterolemia (type IIa), which presents with markedly elevated LDL and near-normal triglycerides, and is characterized by tendinous xanthomas rather than palmar xanthomas.",
+          "B": "LPL mutations cause familial hyperchylomicronemia (type I), which presents with massively elevated triglycerides, near-normal cholesterol, and eruptive xanthomas, but not palmar xanthomas.",
+          "C": "APOB mutations can contribute to familial hypercholesterolemia or familial combined hyperlipidemia but do not produce the pathognomonic palmar xanthomas seen in this patient.",
+          "E": "PCSK9 gain-of-function mutations contribute to familial hypercholesterolemia by increasing LDL receptor internalization and degradation, but do not produce palmar xanthomas or the lipid profile seen here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial dysbetalipoproteinemia",
+        "Fredrickson type III",
+        "APOE",
+        "palmar xanthomas"
+      ]
+    },
+    {
+      "id": "cv-051",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 50-year-old man with type 2 diabetes mellitus, obesity (BMI 34 kg/m2), and insulin resistance presents for evaluation of an abnormal lipid panel discovered during routine screening. He has no family history of premature cardiovascular disease. His fasting lipid panel shows total cholesterol of 260 mg/dL, LDL cholesterol of 165 mg/dL, and triglycerides of 310 mg/dL. Before attributing his dyslipidemia to a primary lipid disorder, which of the following additional laboratory tests should be obtained to rule out secondary causes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum homocysteine, factor V Leiden, and antiphospholipid antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Serum ferritin, transferrin saturation, and HFE gene mutation analysis"
+        },
+        {
+          "label": "C",
+          "text": "Erythrocyte sedimentation rate, antinuclear antibody, and complement levels"
+        },
+        {
+          "label": "D",
+          "text": "Serum cortisol, plasma aldosterone, and 24-hour urinary catecholamines"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin A1c, thyroid-stimulating hormone, and liver function tests"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Secondary dyslipidemias are far more common than primary forms and must be ruled out first. Key diagnostic tests include hemoglobin A1c (diabetes), TSH (hypothyroidism), LFTs (liver disease), BUN/creatinine (chronic kidney disease), and BMI (obesity).",
+        "whyCorrect": "All patients with elevated blood lipids should have secondary conditions ruled out first. The recommended diagnostic tests include hemoglobin A1c for diabetes, TSH for hypothyroidism, and liver function tests for liver disease. These conditions are among the most common secondary causes of dyslipidemia.",
+        "whyWrongByChoice": {
+          "A": "Homocysteine, factor V Leiden, and antiphospholipid antibodies are thrombophilia workup components, not tests used to evaluate secondary causes of dyslipidemia.",
+          "B": "Ferritin, transferrin saturation, and HFE gene testing evaluate for hereditary hemochromatosis, which is not a recognized secondary cause of dyslipidemia.",
+          "C": "ESR, ANA, and complement levels are autoimmune and inflammatory markers that are not part of the standard workup for secondary dyslipidemia.",
+          "D": "Cortisol, aldosterone, and urinary catecholamines evaluate for endocrine causes of hypertension (Cushing syndrome, hyperaldosteronism, pheochromocytoma), not secondary dyslipidemia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "secondary dyslipidemia",
+        "laboratory testing",
+        "differential diagnosis"
+      ]
+    },
+    {
+      "id": "cv-052",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 15-year-old girl is brought to the clinic by her parents after her older brother was found to have severely elevated cholesterol. Her brother was recently diagnosed with a homozygous mutation in the LDLR gene. The patient is found to be heterozygous for the same mutation. Her fasting lipid panel shows total cholesterol of 310 mg/dL, LDL cholesterol of 240 mg/dL, HDL cholesterol of 48 mg/dL, and triglycerides of 110 mg/dL. Compared to her brother, which of the following best describes the expected clinical course for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "She will have a milder phenotype with increased risk of severe atherosclerosis in young adulthood"
+        },
+        {
+          "label": "B",
+          "text": "She will have an identical clinical course because the disease shows complete dominance"
+        },
+        {
+          "label": "C",
+          "text": "She will be an asymptomatic carrier with no increased cardiovascular risk throughout her life"
+        },
+        {
+          "label": "D",
+          "text": "She will develop pancreatitis rather than atherosclerosis due to triglyceride accumulation"
+        },
+        {
+          "label": "E",
+          "text": "She will have pathognomonic palmar xanthomas and moderate elevation of triglycerides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Familial hypercholesterolemia (type IIa) is autosomal dominant but is not a full-dominance disease. Heterozygotes have elevated LDL and increased risk of severe atherosclerotic disease in young adulthood, while homozygotes have a more severe phenotype and often die of cardiac disease before age 20.",
+        "whyCorrect": "In familial hypercholesterolemia, heterozygotes have a milder phenotype compared to homozygotes. Heterozygotes have increased risk of severe atherosclerotic disease in young adulthood (especially men), while homozygous patients have more severe disease with earlier onset, often dying of cardiac disease before age 20. The disease does not show full dominance.",
+        "whyWrongByChoice": {
+          "B": "Familial hypercholesterolemia is explicitly described as not a full-dominance disease. Homozygotes have a markedly more severe phenotype than heterozygotes, with earlier onset and higher mortality.",
+          "C": "Heterozygotes are not merely asymptomatic carriers; they have significantly elevated LDL cholesterol levels and face increased risk of premature atherosclerotic cardiovascular disease.",
+          "D": "Pancreatitis is associated with markedly elevated triglycerides (types I and IV), not with familial hypercholesterolemia (type IIa), which features elevated LDL with near-normal triglycerides.",
+          "E": "Palmar xanthomas are pathognomonic for familial dysbetalipoproteinemia (type III), not familial hypercholesterolemia. Type IIa is associated with tendinous xanthomas and corneal arcus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial hypercholesterolemia",
+        "Fredrickson type IIa",
+        "autosomal dominant",
+        "heterozygous vs homozygous"
+      ]
+    },
+    {
+      "id": "cv-053",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 52-year-old man presents with a 6-month history of progressive exertional chest pain. He has a BMI of 31 kg/m2 and a history of insulin resistance. His father had a myocardial infarction at age 49. Fasting lipid panel shows total cholesterol of 280 mg/dL, LDL cholesterol of 175 mg/dL, VLDL cholesterol of 65 mg/dL, and triglycerides of 325 mg/dL. Additional testing reveals elevated apolipoprotein B-100 levels and the presence of small, dense LDL particles. This patient's lipid disorder accounts for approximately what percentage of cases of premature coronary artery disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 1% of premature coronary artery disease cases"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 20% of premature coronary artery disease cases"
+        },
+        {
+          "label": "C",
+          "text": "Approximately 5% of premature coronary artery disease cases"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 50% of premature coronary artery disease cases"
+        },
+        {
+          "label": "E",
+          "text": "Approximately 75% of premature coronary artery disease cases"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has familial combined hyperlipidemia (Fredrickson type IIb), characterized by elevated LDL, VLDL, and triglycerides with increased ApoB-100 and small dense LDL particles. It is the most common primary lipid disorder and accounts for as many as 20% of cases of premature coronary artery disease.",
+        "whyCorrect": "Familial combined hyperlipidemia (type IIb) features elevated LDL, VLDL, and triglycerides with increased apolipoprotein B-100 and small, dense LDL particles that are especially atherogenic. This disorder accounts for as many as 20% of cases of premature coronary artery disease.",
+        "whyWrongByChoice": {
+          "A": "Less than 1% would be more representative of rare primary lipid disorders such as familial hyperchylomicronemia (type I), not familial combined hyperlipidemia, which is the most common primary lipid disorder.",
+          "C": "Five percent significantly underestimates the contribution of familial combined hyperlipidemia to premature coronary artery disease, which is approximately 20%.",
+          "D": "Fifty percent greatly overestimates the contribution; while type IIb is the most common primary dyslipidemia, it does not account for the majority of premature CAD cases.",
+          "E": "Seventy-five percent is far too high; most premature coronary artery disease is attributable to modifiable risk factors and secondary causes rather than a single primary lipid disorder."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "familial combined hyperlipidemia",
+        "Fredrickson type IIb",
+        "premature CAD",
+        "apolipoprotein B-100"
+      ]
+    },
+    {
+      "id": "cv-054",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 55-year-old woman with well-controlled hypertension on hydrochlorothiazide and metoprolol presents for a routine wellness visit. Her fasting lipid panel shows total cholesterol of 245 mg/dL, LDL cholesterol of 155 mg/dL, HDL cholesterol of 40 mg/dL, and triglycerides of 250 mg/dL. She has no family history of premature cardiovascular disease or pancreatitis. Which of the following is the most appropriate initial step in evaluating her dyslipidemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Order genetic testing for LDLR and APOE mutations to classify the primary disorder"
+        },
+        {
+          "label": "B",
+          "text": "Obtain a direct LDL measurement to confirm the calculated LDL value"
+        },
+        {
+          "label": "C",
+          "text": "Consider her current medications as a potential secondary cause of her lipid abnormalities"
+        },
+        {
+          "label": "D",
+          "text": "Classify her disorder using the Fredrickson phenotype system based on her lipid panel"
+        },
+        {
+          "label": "E",
+          "text": "Start high-intensity statin therapy immediately given her cardiovascular risk factors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secondary dyslipidemias are far more common than primary forms, and all patients with elevated blood lipids should have secondary conditions ruled out first. This patient is on hydrochlorothiazide and a beta-blocker, both of which are known medications that can cause secondary elevations of cholesterol and triglycerides.",
+        "whyCorrect": "Hydrochlorothiazide and beta-blockers are both listed as medications that can cause secondary dyslipidemia. Secondary lipid disorders are far more common than primary forms, and all patients with elevated blood lipids should have secondary conditions ruled out first before considering primary lipid disorders.",
+        "whyWrongByChoice": {
+          "A": "Genetic testing for primary lipid disorders should only be considered after secondary causes have been ruled out. This patient's medications are a plausible secondary cause of her lipid abnormalities.",
+          "B": "While direct LDL measurement can be useful when triglycerides are elevated (potentially affecting the Friedewald calculation), this is not the most important initial step; identifying and addressing secondary causes takes priority.",
+          "D": "The Fredrickson classification applies to primary dyslipidemias. Before classifying a disorder as primary, secondary causes must be excluded, especially given her use of medications known to elevate lipids.",
+          "E": "Initiating statin therapy without first evaluating for secondary causes of dyslipidemia is premature. If her medications are the cause, adjusting them may improve her lipid profile."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "secondary dyslipidemia",
+        "medication-induced",
+        "hydrochlorothiazide",
+        "beta-blockers"
+      ]
+    },
+    {
+      "id": "cv-055",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 20-year-old male college student presents for a routine wellness examination. He is asymptomatic with a BMI of 26 kg/m2 and blood pressure of 128/82 mmHg. He reports a diet high in fried foods and limited physical activity. His fasting lipid panel shows: total cholesterol 210 mg/dL, triglycerides 180 mg/dL, and HDL cholesterol 40 mg/dL. Using the Friedewald equation, what is this patient's calculated LDL cholesterol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "110 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "124 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "150 mg/dL"
+        },
+        {
+          "label": "D",
+          "text": "134 mg/dL"
+        },
+        {
+          "label": "E",
+          "text": "178 mg/dL"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Friedewald equation calculates LDL = Total Cholesterol - HDL - (Triglycerides / 5). Substituting the values: LDL = 210 - 40 - (180/5) = 210 - 40 - 36 = 134 mg/dL.",
+        "whyCorrect": "Using the Friedewald equation: LDL = Total Cholesterol - HDL - (Triglycerides / 5) = 210 - 40 - (180/5) = 210 - 40 - 36 = 134 mg/dL.",
+        "whyWrongByChoice": {
+          "A": "110 mg/dL results from an incorrect calculation, possibly from using an incorrect divisor for triglycerides or subtracting additional values not part of the equation.",
+          "B": "124 mg/dL is an incorrect calculation that does not properly apply the Friedewald equation with the given laboratory values.",
+          "C": "150 mg/dL results from an incorrect calculation, possibly from failing to subtract the triglyceride/5 component or using incorrect values.",
+          "E": "178 mg/dL is an incorrect calculation, possibly from omitting the HDL subtraction or using an incorrect formula altogether."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "Friedewald equation",
+        "LDL calculation",
+        "lipid panel"
+      ]
+    },
+    {
+      "id": "cv-056",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 60-year-old man with a history of familial hypertriglyceridemia presents for a routine follow-up. His triglyceride level is 2,500 mg/dL. His physician orders a direct LDL measurement rather than relying on the standard fasting lipid panel calculation. Which of the following best explains why the direct LDL measurement was preferred in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The patient's elevated triglycerides indicate concurrent LDL receptor deficiency requiring specialized testing"
+        },
+        {
+          "label": "B",
+          "text": "Direct LDL measurement can simultaneously assess VLDL receptor density on hepatocyte surfaces"
+        },
+        {
+          "label": "C",
+          "text": "The Friedewald equation overestimates LDL in patients with normal triglyceride levels only"
+        },
+        {
+          "label": "D",
+          "text": "Direct LDL testing is required by insurance companies before authorizing lipid-lowering therapy"
+        },
+        {
+          "label": "E",
+          "text": "Genetically elevated triglyceride levels cause incorrect LDL values when using the Friedewald equation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Friedewald equation (LDL = Total Cholesterol - HDL - TG/5) becomes inaccurate when triglycerides are markedly elevated, as the TG/5 estimate of VLDL cholesterol becomes unreliable. In patients with genetically elevated triglyceride levels, a direct LDL measurement should be requested.",
+        "whyCorrect": "Non-fasting or genetically elevated triglyceride levels cause incorrect LDL calculations when using the Friedewald equation. The equation estimates VLDL as triglycerides divided by 5, which becomes inaccurate at very high triglyceride levels. A direct LDL measurement is recommended in these cases.",
+        "whyWrongByChoice": {
+          "A": "Elevated triglycerides in familial hypertriglyceridemia do not indicate concurrent LDL receptor deficiency; the issue is the mathematical inaccuracy of the Friedewald equation at high triglyceride levels.",
+          "B": "Direct LDL measurement does not assess VLDL receptor density; it is simply a method of directly quantifying LDL cholesterol without relying on a calculation.",
+          "C": "The Friedewald equation is most accurate at normal triglyceride levels and becomes increasingly inaccurate as triglycerides rise, the opposite of what this answer choice states.",
+          "D": "The preference for direct LDL measurement is based on clinical accuracy, not insurance requirements. The clinical rationale is the unreliability of calculated LDL at very high triglyceride levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "Friedewald equation",
+        "direct LDL",
+        "hypertriglyceridemia",
+        "laboratory testing"
+      ]
+    },
+    {
+      "id": "cv-057",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 35-year-old man presents to his ophthalmologist for a routine eye examination. Slit-lamp examination reveals a bilateral white ring at the periphery of the cornea. The ophthalmologist refers the patient for further cardiovascular evaluation. A fasting lipid panel shows total cholesterol of 350 mg/dL, LDL cholesterol of 270 mg/dL, triglycerides of 130 mg/dL, and HDL cholesterol of 54 mg/dL. Which of the following additional physical examination findings would most likely be present in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Yellow-orange plaques within the palmar creases of both hands"
+        },
+        {
+          "label": "B",
+          "text": "Scattered eruptive papules over the buttocks and extensor surfaces"
+        },
+        {
+          "label": "C",
+          "text": "Thickening and nodularity of the Achilles tendons bilaterally"
+        },
+        {
+          "label": "D",
+          "text": "Milky-white appearance of retinal arteries on fundoscopic examination"
+        },
+        {
+          "label": "E",
+          "text": "Hepatosplenomegaly with diffuse abdominal tenderness on palpation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient has corneal arcus before age 40, which is highly suggestive of familial hypercholesterolemia (type IIa). The lipid panel confirms markedly elevated LDL with near-normal triglycerides. Tendinous xanthomas (particularly of the Achilles tendons) are characteristic of familial hypercholesterolemia.",
+        "whyCorrect": "Corneal arcus before approximately 40 years of age is highly suggestive of familial hypercholesterolemia. Tendinous xanthomas, including thickening and nodularity of the Achilles tendons, are almost always indicative of a familial lipid disorder and are characteristic of type IIa hypercholesterolemia.",
+        "whyWrongByChoice": {
+          "A": "Palmar xanthomas (yellow-orange plaques in palmar creases) are pathognomonic for familial dysbetalipoproteinemia (type III), not familial hypercholesterolemia. Type III presents with moderate elevations of both cholesterol and triglycerides.",
+          "B": "Eruptive xanthomas on the buttocks and extensor surfaces are associated with severely elevated triglycerides, as seen in familial hyperchylomicronemia (type I) or hypertriglyceridemia (type IV), not the isolated hypercholesterolemia seen here.",
+          "D": "Lipemia retinalis (milky-white retinal arteries) occurs in patients with excessively high triglyceride levels (>2,000 mg/dL), not in patients with isolated hypercholesterolemia and normal triglycerides.",
+          "E": "Hepatosplenomegaly is more commonly associated with familial hyperchylomicronemia (type I) with massively elevated triglycerides, not familial hypercholesterolemia with isolated LDL elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "corneal arcus",
+        "tendinous xanthoma",
+        "familial hypercholesterolemia",
+        "physical examination"
+      ]
+    },
+    {
+      "id": "cv-058",
+      "topicId": "dyslipidemia-pathophysiology",
+      "topicName": "Dyslipidemia: Pathophysiology",
+      "stem": "A 48-year-old man with known familial hypercholesterolemia undergoes genetic testing that reveals a gain-of-function mutation in the PCSK9 gene. His LDL cholesterol is 310 mg/dL despite lifestyle modifications. Which of the following best describes the mechanism by which this mutation leads to elevated LDL cholesterol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased PCSK9 activity enhances hepatic VLDL secretion into the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Increased PCSK9 activity directly inhibits lipoprotein lipase on endothelial surfaces"
+        },
+        {
+          "label": "C",
+          "text": "Increased PCSK9 activity impairs ApoE-mediated binding of LDL particles to hepatocytes"
+        },
+        {
+          "label": "D",
+          "text": "Increased PCSK9 activity promotes augmented LDL receptor internalization and lysosomal degradation"
+        },
+        {
+          "label": "E",
+          "text": "Increased PCSK9 activity stimulates cholesterol synthesis by upregulating HMG-CoA reductase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PCSK9 binds to the LDL receptor on hepatocyte surfaces and facilitates its endocytosis and lysosomal degradation. A gain-of-function PCSK9 mutation leads to increased internalization and degradation of LDL receptors, decreasing their expression on the cell surface and reducing LDL clearance from the blood.",
+        "whyCorrect": "Increased PCSK9 activity leads to augmented LDL receptor internalization and decreased expression on the hepatocyte surface. PCSK9 binds to the LDL-R, the complex is transported to the endosome, and PCSK9 binding causes lysosomal degradation of the LDL-R. This reduces the number of LDL receptors available to clear LDL from the circulation.",
+        "whyWrongByChoice": {
+          "A": "PCSK9 does not enhance hepatic VLDL secretion. Its mechanism involves degradation of LDL receptors, not stimulation of lipoprotein production.",
+          "B": "PCSK9 does not inhibit lipoprotein lipase. LPL deficiency is the mechanism of familial hyperchylomicronemia (type I), a completely distinct pathway.",
+          "C": "PCSK9 does not impair ApoE-mediated binding. ApoE dysfunction is the mechanism of familial dysbetalipoproteinemia (type III), which involves a different receptor-ligand interaction.",
+          "E": "PCSK9 does not directly upregulate HMG-CoA reductase or stimulate cholesterol synthesis. Its effect is on LDL receptor turnover on the hepatocyte surface."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "PCSK9",
+        "LDL receptor",
+        "familial hypercholesterolemia",
+        "gain-of-function mutation"
+      ]
+    },
+    {
+      "id": "cv-059",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 62-year-old man with a history of coronary artery disease and a prior myocardial infarction is started on high-intensity atorvastatin therapy. At his 3-month follow-up visit, liver function tests show alanine aminotransferase (ALT) at 4 times the upper limit of normal, confirmed on repeat testing. He denies alcohol use and hepatitis serologies are negative. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue the current dose of atorvastatin and recheck liver function tests in 6 months"
+        },
+        {
+          "label": "B",
+          "text": "Reduce the statin dose or switch to an alternate antihyperlipidemic agent"
+        },
+        {
+          "label": "C",
+          "text": "Add ezetimibe to the current regimen to allow a lower statin dose"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue all lipid-lowering therapy permanently due to hepatotoxicity risk"
+        },
+        {
+          "label": "E",
+          "text": "Switch to niacin as the primary agent for LDL cholesterol reduction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Statins can elevate liver aminotransferases within the first three months of therapy in a dose-dependent manner. A lower statin dose or using alternate agents is recommended in patients with three times upper ALT levels confirmed with a second lab test.",
+        "whyCorrect": "This patient's ALT is 4 times the upper limit of normal, confirmed on a second test, which exceeds the threshold of 3 times ULN. Per guidelines, a lower statin dose or using alternate agents is recommended in this situation.",
+        "whyWrongByChoice": {
+          "A": "Continuing the same dose is inappropriate when ALT levels exceed three times the upper limit of normal on confirmed repeat testing, as this indicates significant hepatic dysfunction.",
+          "C": "While adding ezetimibe is a reasonable adjunctive strategy in some settings, the immediate priority with confirmed ALT greater than 3 times ULN is to reduce or change the offending statin, not simply add another agent.",
+          "D": "Permanently discontinuing all lipid-lowering therapy is not indicated. The recommendation is to lower the dose or switch agents, as the patient has established coronary artery disease and requires ongoing lipid management.",
+          "E": "Switching to niacin would be inappropriate because niacin itself can cause severe hepatotoxicity and is contraindicated in patients with hepatic disease, making it a poor choice in a patient with statin-induced liver enzyme elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "hepatotoxicity",
+        "adverse drug reactions",
+        "atorvastatin",
+        "liver function tests"
+      ]
+    },
+    {
+      "id": "cv-060",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 58-year-old woman with type 2 diabetes and hyperlipidemia has been on simvastatin 40 mg daily for 2 years. She is started on diltiazem for new-onset atrial fibrillation with rapid ventricular response. Three weeks later, she presents with diffuse muscle weakness and dark brown urine. Serum creatine kinase (CK) is 15,000 U/L and serum creatinine is 2.8 mg/dL. Which of the following best explains the mechanism of this drug interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diltiazem inhibits CYP3A4, decreasing simvastatin metabolism and increasing its serum levels"
+        },
+        {
+          "label": "B",
+          "text": "Diltiazem induces CYP3A4, increasing simvastatin metabolism and producing toxic metabolites"
+        },
+        {
+          "label": "C",
+          "text": "Diltiazem inhibits CYP2C9, decreasing simvastatin metabolism and potentiating myotoxicity"
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem competes with simvastatin for binding to HMG-CoA reductase in hepatocytes"
+        },
+        {
+          "label": "E",
+          "text": "Diltiazem displaces simvastatin from albumin binding sites, increasing free drug concentration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient developed rhabdomyolysis (elevated CK, myoglobinuria, acute kidney injury) from the interaction between simvastatin and diltiazem. Simvastatin is metabolized by CYP3A4, and diltiazem is a moderate CYP3A4 inhibitor. Inhibition of CYP3A4 decreases simvastatin metabolism, increasing its serum levels and risk of myopathy.",
+        "whyCorrect": "Simvastatin is extensively metabolized by CYP3A4. Calcium channel blockers including diltiazem and verapamil are moderate inhibitors of CYP3A4 metabolism and can increase side effects of statins metabolized by CYP3A4. This leads to elevated simvastatin levels and increased risk of rhabdomyolysis.",
+        "whyWrongByChoice": {
+          "B": "Diltiazem inhibits (not induces) CYP3A4. CYP3A4 inhibition decreases simvastatin metabolism, leading to accumulation of the parent drug rather than production of toxic metabolites.",
+          "C": "CYP2C9 is involved in fluvastatin metabolism, not simvastatin metabolism. Simvastatin is primarily metabolized by CYP3A4, which is inhibited by diltiazem.",
+          "D": "Diltiazem does not compete with simvastatin for HMG-CoA reductase binding. The interaction is pharmacokinetic (CYP3A4 inhibition), not pharmacodynamic (receptor competition).",
+          "E": "Protein binding displacement is not the clinically significant mechanism of this interaction. The primary mechanism is inhibition of CYP3A4-mediated hepatic metabolism of simvastatin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "simvastatin",
+        "diltiazem",
+        "CYP3A4",
+        "drug interaction",
+        "rhabdomyolysis"
+      ]
+    },
+    {
+      "id": "cv-061",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 47-year-old man with heterozygous familial hypercholesterolemia has an LDL cholesterol of 210 mg/dL despite maximum-tolerated statin therapy and ezetimibe. His cardiologist recommends adding a PCSK9 inhibitor. The patient asks how often he will need to take this medication. Which of the following best describes the route of administration and a common adverse effect of PCSK9 inhibitors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral administration with a common adverse effect of intense cutaneous flushing"
+        },
+        {
+          "label": "B",
+          "text": "Intravenous infusion with a common adverse effect of hepatotoxicity"
+        },
+        {
+          "label": "C",
+          "text": "Transdermal patch with a common adverse effect of hyperuricemia"
+        },
+        {
+          "label": "D",
+          "text": "Intramuscular injection with a common adverse effect of gallstone formation"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous injection with a common adverse effect of injection site reactions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PCSK9 inhibitors (alirocumab, evolocumab) are monoclonal antibodies administered as subcutaneous injections. Common adverse effects include injection site reactions and hypersensitivity reactions such as rash, pruritus, and urticaria.",
+        "whyCorrect": "PCSK9 inhibitors are available as subcutaneous (SC) injections. These agents can cause injection site reactions, and hypersensitivity reactions like rash, pruritus, and urticaria can occur with these injections. They are indicated for familial hypercholesterolemia or established ASCVD.",
+        "whyWrongByChoice": {
+          "A": "PCSK9 inhibitors are not oral medications, and intense cutaneous flushing is a characteristic adverse effect of niacin, not PCSK9 inhibitors.",
+          "B": "PCSK9 inhibitors are administered subcutaneously, not intravenously. Hepatotoxicity is more commonly associated with statins and niacin.",
+          "C": "PCSK9 inhibitors are not available as transdermal patches. Hyperuricemia is a notable adverse effect of bempedoic acid (occurring in approximately 26% of patients), not PCSK9 inhibitors.",
+          "D": "PCSK9 inhibitors are given subcutaneously, not intramuscularly. Gallstone formation is an adverse effect of fibrates, which inhibit biliary secretions."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "PCSK9 inhibitors",
+        "alirocumab",
+        "evolocumab",
+        "adverse effects",
+        "subcutaneous injection"
+      ]
+    },
+    {
+      "id": "cv-062",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 55-year-old woman with a history of gout and chronic kidney disease stage 3 is diagnosed with hypercholesterolemia. Her physician is considering adding bempedoic acid to her regimen. Which of the following concerns should be discussed with the patient before initiating this medication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bempedoic acid frequently causes intense cutaneous flushing that can be mitigated with aspirin pretreatment"
+        },
+        {
+          "label": "B",
+          "text": "Bempedoic acid is a PPAR agonist that increases the risk of gallstone formation"
+        },
+        {
+          "label": "C",
+          "text": "Bempedoic acid can cause hyperuricemia, which may exacerbate her existing gout"
+        },
+        {
+          "label": "D",
+          "text": "Bempedoic acid inhibits the NPC1L1 protein and commonly causes upper respiratory tract infections"
+        },
+        {
+          "label": "E",
+          "text": "Bempedoic acid is contraindicated in patients with hepatic disease due to severe hepatotoxicity risk"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bempedoic acid inhibits adenosine triphosphate citrate lyase (ACL), decreasing cholesterol formation. Its most notable adverse effect is hyperuricemia, occurring in approximately 26% of patients, and it should be used with caution in patients with gout.",
+        "whyCorrect": "Bempedoic acid can cause hyperuricemia in approximately 26% of patients and should be used with caution in patients with gout. Given this patient's history of gout, the risk of worsening her condition should be discussed.",
+        "whyWrongByChoice": {
+          "A": "Intense cutaneous flushing mitigated by aspirin pretreatment is characteristic of niacin, not bempedoic acid. Niacin causes prostaglandin-mediated flushing that can be reduced by taking aspirin 30 minutes before dosing.",
+          "B": "PPAR agonism and gallstone formation are characteristics of fibrates (gemfibrozil, fenofibrate), not bempedoic acid. Bempedoic acid works by inhibiting ACL enzyme.",
+          "D": "NPC1L1 inhibition is the mechanism of ezetimibe, not bempedoic acid. Upper respiratory tract infections are associated with ezetimibe use.",
+          "E": "Severe hepatotoxicity with contraindication in hepatic disease is a characteristic of niacin. Bempedoic acid's primary concern is hyperuricemia, not hepatotoxicity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bempedoic acid",
+        "ACL inhibitor",
+        "hyperuricemia",
+        "gout",
+        "adverse effects"
+      ]
+    },
+    {
+      "id": "cv-063",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 64-year-old man with severe hypertriglyceridemia (triglycerides 850 mg/dL) and a history of recurrent pancreatitis is started on fenofibrate. At a follow-up visit 6 months later, he reports intermittent right upper quadrant pain after fatty meals. An abdominal ultrasound reveals multiple gallstones. Which of the following best explains the mechanism by which this medication contributed to gallstone formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fenofibrate increases cholesterol absorption from the intestine via NPC1L1 upregulation"
+        },
+        {
+          "label": "B",
+          "text": "Fenofibrate increases hepatic cholesterol synthesis through HMG-CoA reductase activation"
+        },
+        {
+          "label": "C",
+          "text": "Fenofibrate decreases bile acid reabsorption in the terminal ileum"
+        },
+        {
+          "label": "D",
+          "text": "Fenofibrate inhibits biliary secretions, leading to gallstone formation"
+        },
+        {
+          "label": "E",
+          "text": "Fenofibrate causes hepatic steatosis through increased fatty acid uptake by the liver"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fibrates (including fenofibrate) can inhibit biliary secretions, which leads to gallstone formation. This is a recognized adverse effect of the fibrate drug class.",
+        "whyCorrect": "Fibrates can inhibit biliary secretions, leading to gallstone formation. This is a known adverse drug reaction of the fibrate class, explaining this patient's development of cholelithiasis after starting fenofibrate therapy.",
+        "whyWrongByChoice": {
+          "A": "NPC1L1 is the target of ezetimibe, not fibrates. Fibrates work as PPAR agonists to increase lipoprotein lipase activity and decrease triglyceride levels.",
+          "B": "Fibrates do not activate HMG-CoA reductase. Their mechanism involves PPAR activation, which increases lipoprotein lipase expression and decreases apo CIII expression, reducing VLDL and triglycerides.",
+          "C": "Decreased bile acid reabsorption in the terminal ileum is a mechanism associated with bile acid sequestrants (cholestyramine, colestipol, colesevelam), not fibrates.",
+          "E": "Fibrates do not cause hepatic steatosis through increased fatty acid uptake. In fact, they promote fatty acid oxidation through PPAR activation and decrease triglyceride levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fibrates",
+        "fenofibrate",
+        "gallstones",
+        "adverse effects",
+        "hypertriglyceridemia"
+      ]
+    },
+    {
+      "id": "cv-064",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 70-year-old woman with atrial fibrillation on warfarin, hypothyroidism on levothyroxine, and heart failure on digoxin is diagnosed with hypercholesterolemia. Her physician considers starting cholestyramine. Which of the following is the most significant concern regarding this medication choice in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholestyramine can cause severe rhabdomyolysis when used with cardiac glycosides"
+        },
+        {
+          "label": "B",
+          "text": "Cholestyramine can bind to warfarin, digoxin, and thyroid hormones"
+        },
+        {
+          "label": "C",
+          "text": "Cholestyramine inhibits CYP3A4 metabolism of warfarin, increasing bleeding risk"
+        },
+        {
+          "label": "D",
+          "text": "Cholestyramine causes prostaglandin-mediated flushing that is exacerbated by warfarin use"
+        },
+        {
+          "label": "E",
+          "text": "Cholestyramine increases hepatic production of VLDL, worsening heart failure outcomes"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bile acid sequestrants are resins that can bind to drugs in the GI tract, including digoxin, warfarin, and thyroid hormones, significantly decreasing their absorption and therapeutic efficacy. This patient is on all three of these medications.",
+        "whyCorrect": "Bile acid sequestrants like cholestyramine are resins that can bind to drugs such as digoxin, warfarin, and thyroid hormones in the GI tract, decreasing their absorption and therapeutic efficacy. This is a critical concern in a patient taking all three of these medications.",
+        "whyWrongByChoice": {
+          "A": "Rhabdomyolysis is an adverse effect associated with statins and fibrates, not bile acid sequestrants. Cholestyramine does not cause myotoxicity.",
+          "C": "Cholestyramine does not inhibit CYP3A4. Its drug interaction is through binding in the GI tract (decreasing absorption), not through hepatic enzyme inhibition.",
+          "D": "Prostaglandin-mediated flushing is a characteristic adverse effect of niacin, not cholestyramine. Common adverse effects of bile acid sequestrants include constipation, nausea, and flatulence.",
+          "E": "While bile acid sequestrants can affect lipid metabolism, the primary and most significant concern in this patient is the binding interaction with her three critical medications (warfarin, digoxin, levothyroxine)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "bile acid sequestrants",
+        "cholestyramine",
+        "drug interactions",
+        "warfarin",
+        "digoxin"
+      ]
+    },
+    {
+      "id": "cv-065",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 52-year-old man with established atherosclerotic cardiovascular disease has an LDL cholesterol of 95 mg/dL on maximum-tolerated rosuvastatin. His cardiologist adds inclisiran to his regimen. The patient asks how this new medication differs from the PCSK9 monoclonal antibodies he has heard about. Which of the following best describes the mechanism of action of inclisiran?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a monoclonal antibody that binds circulating PCSK9 protein and prevents it from interacting with LDL receptors"
+        },
+        {
+          "label": "B",
+          "text": "It is an adenosine triphosphate citrate lyase inhibitor that decreases the precursors for cholesterol synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It is a small interfering RNA that prevents PCSK9 translation in the liver, increasing LDL receptor recycling"
+        },
+        {
+          "label": "D",
+          "text": "It is a PPAR agonist that increases lipoprotein lipase expression and reduces VLDL formation"
+        },
+        {
+          "label": "E",
+          "text": "It is an NPC1L1 inhibitor that blocks cholesterol absorption at the intestinal brush border"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Inclisiran is a double-stranded small interfering RNA (siRNA) that prevents PCSK9 translation in the liver. This increases LDL receptor recycling and expression on hepatocytes, increasing LDL-C uptake and reducing circulating LDL-C concentrations.",
+        "whyCorrect": "Unlike PCSK9 monoclonal antibodies (alirocumab, evolocumab) that bind circulating PCSK9 protein, inclisiran is a siRNA that prevents PCSK9 translation at the mRNA level in the liver. This increases LDL-C receptor recycling and expression on hepatocytes, reducing circulating LDL-C.",
+        "whyWrongByChoice": {
+          "A": "This describes the mechanism of PCSK9 monoclonal antibodies (alirocumab, evolocumab), not inclisiran. Inclisiran works upstream by preventing PCSK9 protein synthesis through RNA interference.",
+          "B": "This describes the mechanism of bempedoic acid, which inhibits adenosine triphosphate citrate lyase (ACL), not inclisiran.",
+          "D": "This describes the mechanism of fibrates (gemfibrozil, fenofibrate), which are PPAR agonists that increase lipoprotein lipase activity, not inclisiran.",
+          "E": "This describes the mechanism of ezetimibe, which inhibits the NPC1L1 protein in the intestinal brush border, not inclisiran."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "inclisiran",
+        "siRNA",
+        "PCSK9",
+        "LDL receptor",
+        "mechanism of action"
+      ]
+    },
+    {
+      "id": "cv-066",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 60-year-old man with statin-associated muscle symptoms (SAMS) on atorvastatin requires continued lipid-lowering therapy for secondary prevention after a recent stroke. His physician is considering switching to a statin with a lower risk of myopathy. Laboratory tests show a normal TSH and adequate vitamin D levels. Which of the following statins would be most appropriate due to its lower risk of muscle-related adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Simvastatin, because it has the lowest rate of muscle-related adverse effects"
+        },
+        {
+          "label": "B",
+          "text": "Lovastatin, because it undergoes minimal hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin, because it is a potent inhibitor of CYP3A4 metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Pravastatin, because it is not metabolized by CYP3A4"
+        },
+        {
+          "label": "E",
+          "text": "Atorvastatin at a higher dose, because dose escalation reduces muscle toxicity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Risk of myopathy is lowest with fluvastatin, pravastatin, and pitavastatin since they are not CYP3A4 metabolized. SAMS has a higher risk with lovastatin, simvastatin, and atorvastatin, which are CYP3A4-metabolized statins.",
+        "whyCorrect": "Pravastatin is cleared primarily by non-CYP450 transformations and has one of the lowest risks of myopathy among statins. Since this patient already developed SAMS on atorvastatin (a CYP3A4-metabolized statin), switching to pravastatin is appropriate.",
+        "whyWrongByChoice": {
+          "A": "Simvastatin has a higher risk of SAMS and is metabolized by CYP3A4. Its dose is actually limited to a maximum of 40 mg/day specifically to prevent SAMS.",
+          "B": "Lovastatin is extensively metabolized by CYP3A4 and carries a higher risk of SAMS, making it an inappropriate choice for a patient who developed muscle symptoms on another CYP3A4-metabolized statin.",
+          "C": "Rosuvastatin is cleared by non-CYP450 transformations (which is favorable), but it is not described as a CYP3A4 inhibitor. This answer choice incorrectly characterizes its pharmacokinetic profile.",
+          "E": "Increasing the dose of the offending statin would worsen muscle symptoms, as statin-associated liver enzyme elevations and muscle symptoms are dose-dependent."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "statins",
+        "SAMS",
+        "myopathy",
+        "CYP3A4",
+        "pravastatin"
+      ]
+    },
+    {
+      "id": "cv-067",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 48-year-old woman with hypercholesterolemia is started on niacin after failing to tolerate two different statins. Thirty minutes after taking her first dose, she develops intense warmth, redness, and pruritus over her face, neck, and chest. She calls her physician in distress. Which of the following is the most appropriate recommendation to manage this adverse effect in subsequent doses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Take diphenhydramine 30 minutes before niacin to block the histamine-mediated response"
+        },
+        {
+          "label": "B",
+          "text": "Discontinue niacin and start a bile acid sequestrant as an alternative therapy"
+        },
+        {
+          "label": "C",
+          "text": "Take a proton pump inhibitor before niacin to reduce the gastric prostaglandin release"
+        },
+        {
+          "label": "D",
+          "text": "Administer the niacin intravenously to bypass first-pass hepatic metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Take aspirin 30 minutes before niacin and switch to the extended-release formulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Niacin-induced flushing is prostaglandin mediated. Patients can take aspirin (a prostaglandin inhibitor) 30 minutes before niacin to reduce flushing. Using the extended-release formulation rather than immediate release also decreases the severity of flushing.",
+        "whyCorrect": "The flushing caused by niacin is prostaglandin mediated. Aspirin, a prostaglandin inhibitor, taken 30 minutes before niacin can prevent or reduce flushing. Additionally, the extended-release formulation decreases flushing compared to immediate-release niacin.",
+        "whyWrongByChoice": {
+          "A": "Niacin-induced flushing is prostaglandin mediated, not histamine mediated. Antihistamines like diphenhydramine would not effectively prevent this reaction.",
+          "B": "While niacin could be discontinued, managing the flushing with aspirin and extended-release formulation is a more appropriate first step before abandoning this therapy, especially in a patient who has already failed two statins.",
+          "C": "Proton pump inhibitors do not prevent niacin-induced flushing. The flushing is a cutaneous prostaglandin-mediated reaction, not related to gastric acid or gastric prostaglandin release.",
+          "D": "Niacin is not administered intravenously. It is an oral medication, and the flushing is a systemic prostaglandin-mediated effect, not related to first-pass metabolism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "niacin",
+        "flushing",
+        "prostaglandin",
+        "aspirin",
+        "adverse effects"
+      ]
+    },
+    {
+      "id": "cv-068",
+      "topicId": "dyslipidemia-pharmacological",
+      "topicName": "Dyslipidemia: Pharmacological Options",
+      "stem": "A 56-year-old man with type 2 diabetes, hypertension, and an LDL cholesterol of 145 mg/dL is prescribed rosuvastatin for primary prevention. He is a daily consumer of large amounts of grapefruit juice and is concerned about potential interactions. His physician reassures him that rosuvastatin is an appropriate choice for his situation. Which of the following best explains why rosuvastatin is safer than simvastatin in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rosuvastatin is cleared primarily by non-CYP450 pathways"
+        },
+        {
+          "label": "B",
+          "text": "Rosuvastatin has higher protein binding than simvastatin, preventing grapefruit juice from displacing it"
+        },
+        {
+          "label": "C",
+          "text": "Rosuvastatin is a prodrug that requires intestinal activation unaffected by grapefruit juice"
+        },
+        {
+          "label": "D",
+          "text": "Rosuvastatin is absorbed in the colon rather than the small intestine, bypassing the site of grapefruit juice interaction"
+        },
+        {
+          "label": "E",
+          "text": "Rosuvastatin induces CYP3A4 activity, counteracting any inhibitory effect of grapefruit juice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Grapefruit juice inhibits intestinal CYP3A4, increasing levels of statins metabolized by this enzyme (simvastatin, lovastatin, atorvastatin). Rosuvastatin, pravastatin, and pitavastatin are cleared primarily by non-CYP450 transformations and are recommended for patients who consume large amounts of grapefruit juice.",
+        "whyCorrect": "Rosuvastatin is cleared primarily by non-CYP450 transformations, so its metabolism is not affected by grapefruit juice's inhibition of intestinal CYP3A4. Simvastatin is extensively metabolized by CYP3A4, and daily grapefruit juice consumption increases its levels, raising the risk of myopathy.",
+        "whyWrongByChoice": {
+          "B": "The safety difference between rosuvastatin and simvastatin regarding grapefruit juice is due to differences in CYP450 metabolism, not protein binding differences.",
+          "C": "Rosuvastatin is not a prodrug. It is an active drug that is cleared by non-CYP450 pathways, which is the reason it is unaffected by grapefruit juice.",
+          "D": "Rosuvastatin is not selectively absorbed in the colon. The relevant pharmacokinetic difference is its clearance pathway (non-CYP450), not its absorption site.",
+          "E": "Rosuvastatin does not induce CYP3A4. It simply does not depend on CYP3A4 for its metabolism, making it safe to use with grapefruit juice."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "rosuvastatin",
+        "simvastatin",
+        "grapefruit juice",
+        "CYP3A4",
+        "drug interaction"
+      ]
+    },
+    {
+      "id": "cv-079",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 46-year-old man presents to his primary care physician for cardiovascular risk assessment. He has no prior cardiovascular events. His physician plans to use the ASCVD-PREVENT risk score calculator. The patient asks how this tool differs from the older Pooled Cohort Equations (PCE) used previously. Which of the following best describes a key advancement of the ASCVD-PREVENT score over the older Pooled Cohort Equations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It eliminates the need for laboratory testing by relying solely on clinical parameters"
+        },
+        {
+          "label": "B",
+          "text": "It integrates both risk prediction and potential treatment benefit projections into one framework"
+        },
+        {
+          "label": "C",
+          "text": "It replaces traditional risk factors with genetic testing for cardiovascular susceptibility"
+        },
+        {
+          "label": "D",
+          "text": "It focuses exclusively on secondary prevention populations with established cardiovascular disease"
+        },
+        {
+          "label": "E",
+          "text": "It uses only non-modifiable risk factors to provide a fixed lifetime cardiovascular risk estimate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ASCVD-PREVENT score represents an advancement over the Pooled Cohort Equations by integrating both risk prediction and potential treatment benefit projections into a comprehensive clinical decision-making framework.",
+        "whyCorrect": "Unlike the earlier Pooled Cohort Equations that focused primarily on initial risk assessment, the ASCVD-PREVENT score integrates both risk prediction and potential treatment benefit into a comprehensive framework. It quantifies the potential benefit of preventive interventions, particularly lipid-lowering therapies, helping clinicians identify patients most likely to benefit from statin therapy.",
+        "whyWrongByChoice": {
+          "A": "The ASCVD-PREVENT score does not eliminate laboratory testing. It requires laboratory parameters including total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides, and hsCRP as key inputs for risk calculation.",
+          "C": "The ASCVD-PREVENT score does not replace traditional risk factors with genetic testing. It uses established clinical and laboratory parameters including demographics, lipid levels, blood pressure, and comorbidities alongside some genetic risk markers like lipoprotein(a).",
+          "D": "The ASCVD-PREVENT score was developed using both primary and secondary prevention populations. It is specifically designed to help guide preventive treatment decisions, not limited to secondary prevention alone.",
+          "E": "The ASCVD-PREVENT score incorporates both modifiable and non-modifiable risk factors, including lifestyle factors, comorbidities, laboratory parameters, and treatment variables. It provides a 10-year risk estimate, not a fixed lifetime estimate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "risk assessment",
+        "Pooled Cohort Equations",
+        "cardiovascular risk prediction",
+        "treatment benefit"
+      ]
+    },
+    {
+      "id": "cv-080",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 54-year-old Hispanic woman presents to her physician for a routine health evaluation. In preparing to calculate her ASCVD-PREVENT risk score, the physician gathers her clinical data. Which of the following variables is NOT a standard input in the ASCVD-PREVENT risk score calculation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-sensitivity C-reactive protein level"
+        },
+        {
+          "label": "B",
+          "text": "Estimated glomerular filtration rate"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery calcium score"
+        },
+        {
+          "label": "D",
+          "text": "HDL cholesterol level"
+        },
+        {
+          "label": "E",
+          "text": "Current use of antihypertensive medications"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The coronary artery calcium score is not a standard input variable in the ASCVD-PREVENT risk score algorithm, although it may be used for risk reclassification after the score is calculated.",
+        "whyCorrect": "Coronary artery calcium scoring provides valuable information about subclinical atherosclerosis but is not a standard input variable in the ASCVD-PREVENT risk score algorithm. It may be considered for potential risk reclassification with additional testing after the initial score is calculated, but it is not part of the core calculation.",
+        "whyWrongByChoice": {
+          "A": "High-sensitivity C-reactive protein (hsCRP) is included as a laboratory parameter in the ASCVD-PREVENT risk score. Higher values increase the calculated risk, reflecting systemic inflammation as a cardiovascular risk contributor.",
+          "B": "Estimated glomerular filtration rate (eGFR) is included in the ASCVD-PREVENT calculation. Lower eGFR values increase the risk score, reflecting the contribution of kidney dysfunction to cardiovascular risk.",
+          "D": "HDL cholesterol is a key laboratory parameter in the ASCVD-PREVENT risk score. Higher HDL levels have a protective effect in the algorithm, reducing the overall risk estimate.",
+          "E": "Current use of antihypertensive medications is a treatment variable included in the ASCVD-PREVENT score. The algorithm distinguishes between treated and untreated hypertension, recognizing residual risk even when blood pressure is controlled."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "risk score components",
+        "coronary calcium score",
+        "cardiovascular risk assessment",
+        "laboratory parameters"
+      ]
+    },
+    {
+      "id": "cv-081",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 60-year-old Black woman with treated hypertension (BP 142/88 mmHg on amlodipine) and no diabetes has the following labs: total cholesterol 235 mg/dL, LDL-C 152 mg/dL, HDL-C 48 mg/dL, triglycerides 175 mg/dL. Her ASCVD-PREVENT score calculates to 18.5%. She is not on any lipid-lowering therapy. The calculator also shows an estimated absolute risk reduction of 5.8% with high-intensity statin and 3.9% with moderate-intensity statin. Which of the following best describes the clinical utility of the treatment benefit projection provided by the ASCVD-PREVENT calculator?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It guarantees that the patient will not experience a cardiovascular event if treated with statins"
+        },
+        {
+          "label": "B",
+          "text": "It replaces the need for clinical judgment in selecting between moderate and high-intensity statin therapy"
+        },
+        {
+          "label": "C",
+          "text": "It facilitates informed shared decision-making by quantifying the potential absolute benefit of statin therapy"
+        },
+        {
+          "label": "D",
+          "text": "It determines the exact duration of statin therapy needed to eliminate cardiovascular risk entirely"
+        },
+        {
+          "label": "E",
+          "text": "It calculates the number of adverse drug reactions expected from each intensity of statin therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ASCVD-PREVENT calculator's treatment benefit projections facilitate informed shared decision-making by quantifying the potential absolute risk reduction with different statin intensities, helping both clinicians and patients understand the expected benefit.",
+        "whyCorrect": "The treatment benefit projection feature of the ASCVD-PREVENT calculator helps clinicians and patients engage in more informed shared decision-making by providing estimates of the absolute risk reduction achievable with moderate-intensity (typically 25-35% relative risk reduction) and high-intensity (35-45% relative risk reduction) statin therapy. This allows the patient to understand the concrete benefit of treatment.",
+        "whyWrongByChoice": {
+          "A": "No risk calculator or treatment can guarantee a patient will not experience a cardiovascular event. The ASCVD-PREVENT score provides probability estimates, not guarantees. Residual risk always remains even with optimal therapy.",
+          "B": "The ASCVD-PREVENT score provides data to inform decisions but does not replace clinical judgment. Patient preferences, tolerability, comorbidities, and other factors must still be considered when selecting therapy intensity.",
+          "D": "The ASCVD-PREVENT score estimates 10-year risk reduction, not the exact duration of therapy needed. Statin therapy for cardiovascular prevention is typically long-term, and the calculator does not provide duration-specific guidance.",
+          "E": "The ASCVD-PREVENT calculator does not estimate adverse drug reactions from statin therapy. It focuses on cardiovascular benefit estimation, not side effect prediction, which depends on individual patient factors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "shared decision-making",
+        "treatment benefit",
+        "statin therapy",
+        "absolute risk reduction"
+      ]
+    },
+    {
+      "id": "cv-082",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 58-year-old non-Hispanic white man with no history of cardiovascular disease, non-smoker, with treated hypertension (BP 138/82 mmHg), no diabetes, total cholesterol 220 mg/dL, LDL-C 145 mg/dL, HDL-C 42 mg/dL, and triglycerides 165 mg/dL undergoes ASCVD-PREVENT risk calculation. His calculated 10-year ASCVD risk is 12.8%. Into which risk category does this patient fall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Low risk, defined as less than 5% 10-year ASCVD risk"
+        },
+        {
+          "label": "B",
+          "text": "Borderline risk, defined as 5% to less than 7.5% 10-year ASCVD risk"
+        },
+        {
+          "label": "C",
+          "text": "High risk, defined as 20% or greater 10-year ASCVD risk"
+        },
+        {
+          "label": "D",
+          "text": "Intermediate risk, defined as 7.5% to less than 20% 10-year ASCVD risk"
+        },
+        {
+          "label": "E",
+          "text": "Very high risk due to his treated hypertension and elevated LDL cholesterol"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A 10-year ASCVD risk of 12.8% places the patient in the intermediate risk category, defined as 7.5% to <20%, where moderate to high-intensity statin therapy should be considered.",
+        "whyCorrect": "The ASCVD-PREVENT risk stratification categories place a 12.8% 10-year risk in the intermediate risk category (7.5% to <20%). This patient scenario directly mirrors the example calculation in the source material. For this risk level, moderate to high-intensity statin therapy is recommended.",
+        "whyWrongByChoice": {
+          "A": "Low risk is defined as <5% 10-year ASCVD risk. This patient's 12.8% risk is substantially higher than this threshold and does not fall into the low risk category.",
+          "B": "Borderline risk is defined as 5% to <7.5% 10-year ASCVD risk. This patient's 12.8% exceeds the upper bound of this category.",
+          "C": "High risk is defined as ≥20% 10-year ASCVD risk. This patient's 12.8% does not reach this threshold, placing him in the intermediate rather than high risk category.",
+          "E": "Very high risk is not a standard category in the ASCVD-PREVENT risk stratification system. The standard categories are low (<5%), borderline (5-<7.5%), intermediate (7.5-<20%), and high (≥20%). Treated hypertension and elevated LDL-C are accounted for in the calculated risk percentage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "risk stratification",
+        "intermediate risk",
+        "10-year risk",
+        "risk categories"
+      ]
+    },
+    {
+      "id": "cv-083",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 48-year-old Asian man with type 2 diabetes and an LDL-C of 198 mg/dL asks his physician to calculate his ASCVD-PREVENT risk score before initiating any therapy. His physician explains that while the risk score will be calculated, high-intensity statin therapy is recommended regardless of the result. Which of the following best explains why the calculated risk score does not change the treatment recommendation in this case?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ASCVD-PREVENT score is invalid for patients with diabetes and cannot generate a risk estimate"
+        },
+        {
+          "label": "B",
+          "text": "Asian patients are excluded from the ASCVD-PREVENT model due to insufficient population data"
+        },
+        {
+          "label": "C",
+          "text": "Patients with very high LDL-C levels over 190 mg/dL or diabetes over age 40 are considered high-risk equivalents"
+        },
+        {
+          "label": "D",
+          "text": "The ASCVD-PREVENT calculator automatically assigns a 100% risk to all diabetic patients"
+        },
+        {
+          "label": "E",
+          "text": "Risk scores are only applicable to secondary prevention patients with established cardiovascular disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with very high LDL-C (>190 mg/dL) or diabetes aged >40 years are considered high-risk equivalents for whom high-intensity statin therapy is recommended regardless of the calculated ASCVD-PREVENT risk score.",
+        "whyCorrect": "For patients with very high LDL cholesterol levels (>190 mg/dL) or those with diabetes and age >40 years, high-intensity statin therapy is typically recommended regardless of the calculated risk score, as these conditions are considered high-risk equivalents. This patient meets both criteria (LDL-C 198 mg/dL and diabetes at age 48), making the score informative but not determinative of treatment.",
+        "whyWrongByChoice": {
+          "A": "The ASCVD-PREVENT score is not invalid for diabetic patients. Diabetes status is actually an important comorbidity input that significantly impacts the risk calculation. The score can still be calculated and provides useful prognostic information.",
+          "B": "Asian patients are not excluded from the ASCVD-PREVENT model. The score includes separate risk calculations for White, Black, Hispanic, and Asian populations, specifically accounting for variations in cardiovascular disease patterns across these groups.",
+          "D": "The ASCVD-PREVENT calculator does not automatically assign 100% risk to diabetic patients. It calculates individualized risk based on all input variables. However, the clinical recommendation for high-intensity statin therapy in this patient is based on the high-risk equivalent status.",
+          "E": "Risk scores are applicable to both primary and secondary prevention populations. The ASCVD-PREVENT score was specifically developed using both types of populations and is designed to guide preventive treatment decisions in primary prevention patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "high-risk equivalents",
+        "diabetes",
+        "LDL-C >190",
+        "treatment recommendations"
+      ]
+    },
+    {
+      "id": "cv-084",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 52-year-old man with newly diagnosed dyslipidemia has an ASCVD-PREVENT risk score of 21%. His physician discusses initiating high-intensity statin therapy. The patient is concerned about taking medication and asks about the projected benefit. The calculator estimates an absolute risk reduction of 8.2% with high-intensity statin therapy over 10 years. Which of the following most accurately describes what this 8.2% absolute risk reduction means for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "His risk would decrease from 21% to approximately 12.8% over 10 years"
+        },
+        {
+          "label": "B",
+          "text": "He has an 8.2% chance of experiencing statin-related side effects over the next 10 years"
+        },
+        {
+          "label": "C",
+          "text": "His LDL cholesterol level will decrease by exactly 8.2% from baseline with statin therapy"
+        },
+        {
+          "label": "D",
+          "text": "Out of every 100 patients like him, exactly 8.2 will be cured of atherosclerosis with therapy"
+        },
+        {
+          "label": "E",
+          "text": "His 10-year risk will be completely eliminated after 8.2 years of continuous statin therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An absolute risk reduction of 8.2% means the patient's estimated 10-year probability of a major adverse cardiovascular event would decrease from 21% to approximately 12.8% with high-intensity statin therapy.",
+        "whyCorrect": "The absolute risk reduction represents the difference between the patient's baseline 10-year risk (21%) and the estimated risk with treatment. An 8.2% absolute reduction means his projected risk would decrease from 21% to approximately 12.8% (21% - 8.2% = 12.8%). This helps the patient understand the concrete probability benefit of therapy, facilitating shared decision-making.",
+        "whyWrongByChoice": {
+          "B": "The 8.2% figure refers to cardiovascular risk reduction, not the probability of statin side effects. Statin-associated muscle symptoms affect approximately 5-10% of patients, but this is a separate consideration from the treatment benefit calculation.",
+          "C": "The absolute risk reduction is not the same as LDL-C percentage reduction. High-intensity statins typically achieve 35-45% relative risk reduction, and the 8.2% refers to the absolute decrease in probability of cardiovascular events, not the percentage change in LDL-C levels.",
+          "D": "Absolute risk reduction does not mean patients are cured of atherosclerosis. It represents the estimated number per 100 patients who would be prevented from having a cardiovascular event, not the reversal of underlying disease.",
+          "E": "The absolute risk reduction does not imply complete risk elimination at any point. It represents the estimated difference in 10-year event rates between treated and untreated states. Residual risk persists even with optimal statin therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "absolute risk reduction",
+        "statin benefit",
+        "patient counseling",
+        "shared decision-making"
+      ]
+    },
+    {
+      "id": "cv-085",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A primary care physician is explaining the ASCVD-PREVENT risk score to a medical student. She emphasizes that the score accounts for treated versus untreated hypertension differently. A 62-year-old man has a blood pressure of 134/80 mmHg while taking lisinopril 20 mg daily. Which of the following best explains why the ASCVD-PREVENT algorithm distinguishes between treated and untreated hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patients with treated hypertension may carry residual cardiovascular risk even when blood pressure is controlled"
+        },
+        {
+          "label": "B",
+          "text": "Antihypertensive medications directly lower lipid levels, confounding the cardiovascular risk estimate"
+        },
+        {
+          "label": "C",
+          "text": "Patients on antihypertensive therapy always have lower cardiovascular risk than untreated patients with the same blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "The algorithm excludes blood pressure as a variable when patients are on antihypertensive therapy"
+        },
+        {
+          "label": "E",
+          "text": "Treated hypertension automatically places patients in the high-risk category regardless of other factors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ASCVD-PREVENT score distinguishes between treated and untreated hypertension because patients with treated hypertension may carry residual cardiovascular risk even when blood pressure is controlled, providing more accurate risk stratification.",
+        "whyCorrect": "The ASCVD-PREVENT algorithm distinguishes between treated and untreated hypertension, recognizing that patients with treated hypertension may carry residual risk even when blood pressure is controlled. This distinction helps provide more accurate risk stratification for patients already on antihypertensive therapy, as their underlying vascular risk may be higher than suggested by the controlled blood pressure alone.",
+        "whyWrongByChoice": {
+          "B": "Most antihypertensive medications do not directly lower lipid levels. The distinction between treated and untreated hypertension relates to cardiovascular risk stratification, not to lipid confounding.",
+          "C": "The opposite may be true—patients requiring antihypertensive therapy may actually carry higher underlying risk than untreated patients with equivalent blood pressure readings, because the need for treatment suggests a greater underlying disease burden.",
+          "D": "The algorithm does not exclude blood pressure when patients are treated. It uses systolic blood pressure as a primary input regardless of treatment status but applies different risk coefficients for treated versus untreated patients.",
+          "E": "Treated hypertension does not automatically place patients in the high-risk category. It is one of many variables weighed in the algorithm. The final risk category depends on the integration of all risk factors, not any single variable alone."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "hypertension",
+        "treated vs untreated",
+        "residual risk",
+        "risk stratification"
+      ]
+    },
+    {
+      "id": "cv-086",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 55-year-old woman with dyslipidemia has an ASCVD-PREVENT risk score of 14%, placing her in the intermediate risk category. Her physician recommends moderate-intensity statin therapy. During their discussion, the patient expresses concern about taking a daily medication. The physician uses visual aids from the ASCVD-PREVENT calculator showing icon arrays. Which of the following best describes the recommended approach to patient counseling using ASCVD-PREVENT results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Present only the numerical risk percentage and allow the patient to make an independent decision without further discussion"
+        },
+        {
+          "label": "B",
+          "text": "Emphasize that statin therapy is mandatory and there is no role for patient preference in the decision"
+        },
+        {
+          "label": "C",
+          "text": "Focus exclusively on lifestyle modifications and defer discussion of pharmacotherapy to a future visit"
+        },
+        {
+          "label": "D",
+          "text": "Recommend the patient seek a second opinion before any treatment decision can be made"
+        },
+        {
+          "label": "E",
+          "text": "Explain the 10-year risk concept, illustrate treatment benefits, address medication concerns, and emphasize lifestyle modifications"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Effective patient counseling using ASCVD-PREVENT results involves explaining the 10-year risk concept, contextualizing individual risk, illustrating potential risk reduction, addressing medication concerns, and emphasizing lifestyle modifications alongside pharmacotherapy.",
+        "whyCorrect": "The recommended approach to patient counseling involves multiple elements: explaining the concept of 10-year risk in understandable terms, contextualizing the patient's risk relative to others of similar age and sex, illustrating the potential risk reduction with various interventions, addressing common concerns about statin therapy, and emphasizing the importance of lifestyle modifications alongside pharmacotherapy. Visual aids like icon arrays help patients understand abstract risk percentages.",
+        "whyWrongByChoice": {
+          "A": "Simply presenting a number without context is inadequate counseling. Patients need help understanding what the percentage means, how it compares to peers, and what interventions can reduce their risk. Shared decision-making requires thorough communication.",
+          "B": "Treatment decisions should involve shared decision-making, incorporating patient preferences and concerns. While evidence supports statin therapy at this risk level, the patient's values and concerns should be respectfully addressed as part of the decision process.",
+          "C": "Deferring pharmacotherapy discussion is inappropriate when a patient has an intermediate risk warranting treatment. Both lifestyle modifications and pharmacotherapy should be discussed together, as they are complementary strategies for cardiovascular risk reduction.",
+          "D": "There is no clinical indication to require a second opinion for a standard risk assessment and treatment recommendation. The physician can and should counsel the patient directly using the evidence-based framework provided by the ASCVD-PREVENT score."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "patient counseling",
+        "shared decision-making",
+        "visual aids",
+        "risk communication"
+      ]
+    },
+    {
+      "id": "cv-087",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A physician is calculating the ASCVD-PREVENT risk score for a 50-year-old man already on atorvastatin 20 mg daily for 1 year. His current lipid panel shows LDL-C 98 mg/dL. The physician wants to determine what the patient's untreated risk would have been. Which of the following is the most important consideration when using the ASCVD-PREVENT calculator in patients already on statin therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The calculator cannot be used at all in patients currently taking statin medications"
+        },
+        {
+          "label": "B",
+          "text": "Current lipid values on statin therapy should be entered without any adjustment for treatment effect"
+        },
+        {
+          "label": "C",
+          "text": "Statin therapy must be discontinued for 6 months before the calculator can provide valid results"
+        },
+        {
+          "label": "D",
+          "text": "The calculator can estimate untreated lipid levels, though this introduces some uncertainty"
+        },
+        {
+          "label": "E",
+          "text": "The calculator automatically doubles the LDL-C value for any patient reporting statin use"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For patients already on statin therapy, the ASCVD-PREVENT calculator can estimate what their untreated lipid levels might have been, though this back-calculation introduces some uncertainty into the risk estimate.",
+        "whyCorrect": "The source material notes that for patients already on statin therapy, the calculator can estimate what their untreated lipid levels might have been, though this introduces some uncertainty. This is an important clinical consideration because many patients referred for risk assessment are already on lipid-lowering therapy, and the calculator has been designed to account for this scenario.",
+        "whyWrongByChoice": {
+          "A": "The calculator can be used in patients on statin therapy. It has provisions for estimating pre-treatment lipid levels, though the estimates carry some degree of uncertainty compared to using actual untreated values.",
+          "B": "Entering current on-treatment lipid values without adjustment would underestimate the patient's true underlying risk, as the statin is already lowering LDL-C. The calculator accounts for treatment effect to provide a more accurate baseline risk estimate.",
+          "C": "Discontinuing statin therapy for 6 months is not required or recommended. This would unnecessarily expose the patient to elevated cardiovascular risk. The calculator's estimation feature exists precisely to avoid this scenario.",
+          "E": "The calculator does not simply double the LDL-C value. The back-calculation of untreated lipid levels uses more sophisticated adjustments based on the expected effect of different statin intensities, not a simple multiplication factor."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "statin therapy",
+        "risk calculation",
+        "untreated lipid estimation",
+        "clinical application"
+      ]
+    },
+    {
+      "id": "cv-088",
+      "topicId": "ascvd-prevent-risk-score",
+      "topicName": "ASCVD-PREVENT Risk Score",
+      "stem": "A 63-year-old Black man with type 2 diabetes, treated hypertension (BP 145/90 mmHg), and an ASCVD-PREVENT score of 24% is evaluated for dyslipidemia management. His labs show LDL-C 165 mg/dL, HDL-C 36 mg/dL, and triglycerides 210 mg/dL. He is not on any lipid-lowering therapy. Based on the ASCVD-PREVENT risk score and current management guidelines, which of the following represents the most comprehensive application of this score to his clinical management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate moderate-intensity statin therapy and defer blood pressure optimization to a future visit"
+        },
+        {
+          "label": "B",
+          "text": "Focus exclusively on triglyceride reduction with fibrate therapy since triglycerides exceed 200 mg/dL"
+        },
+        {
+          "label": "C",
+          "text": "Recommend lifestyle counseling only, since pharmacologic therapy has limited benefit at his age"
+        },
+        {
+          "label": "D",
+          "text": "Use the score to guide lipid management with high-intensity statin, strengthen rationale for tighter BP control, and motivate lifestyle changes"
+        },
+        {
+          "label": "E",
+          "text": "Start aspirin therapy as the primary intervention since it is recommended for all patients with high ASCVD risk"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ASCVD-PREVENT score has broad clinical implications beyond lipid management alone, guiding decisions about statin intensity, blood pressure targets, diabetes medication selection, aspirin consideration, and lifestyle counseling.",
+        "whyCorrect": "For a high-risk patient (≥20%), the ASCVD-PREVENT score informs multiple management decisions: high-intensity statin therapy aiming for ≥50% LDL-C reduction, tighter BP control (<130/80 mmHg), prioritization of diabetic agents with proven cardiovascular benefit (GLP-1 receptor agonists or SGLT2 inhibitors), consideration of aspirin in select cases, and lifestyle counseling using quantitative data to motivate behavior change.",
+        "whyWrongByChoice": {
+          "A": "Moderate-intensity statin is inadequate for a patient with ≥20% 10-year ASCVD risk; high-intensity statin is recommended. Additionally, the ASCVD-PREVENT score strengthens the rationale for tighter BP control, which should not be deferred in a high-risk patient.",
+          "B": "While triglycerides are elevated, the primary focus should be on LDL-C reduction with high-intensity statin therapy. Fibrate monotherapy does not address the most important lipid target and neglects the comprehensive management approach guided by the high ASCVD risk score.",
+          "C": "Lifestyle counseling alone is grossly insufficient for a patient with 24% 10-year ASCVD risk, diabetes, and significantly elevated LDL-C. Pharmacologic therapy has well-established benefits in this population and should not be deferred.",
+          "E": "Aspirin is only considered in select adults at high ASCVD risk and low bleeding risk; it is not recommended for all high-risk patients universally. The ASCVD-PREVENT score helps clarify net benefit, but aspirin alone would not constitute a primary intervention when lipid and blood pressure management are urgently needed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "ASCVD-PREVENT",
+        "comprehensive management",
+        "high risk",
+        "clinical implications",
+        "multifactorial intervention"
+      ]
+    },
+    {
+      "id": "cv-069",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 62-year-old man with a history of myocardial infarction 2 years ago presents for a follow-up visit. He is currently on atorvastatin 80 mg daily. His repeat lipid panel shows total cholesterol 195 mg/dL, LDL-C 78 mg/dL, HDL-C 40 mg/dL, and triglycerides 160 mg/dL. His current LDL-C goal based on his risk category is <55 mg/dL. He reports no muscle pain or other side effects. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Add ezetimibe to his current statin regimen"
+        },
+        {
+          "label": "B",
+          "text": "Switch atorvastatin to rosuvastatin 40 mg daily"
+        },
+        {
+          "label": "C",
+          "text": "Add gemfibrozil to address residual triglyceride elevation"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue atorvastatin and start a PCSK9 inhibitor alone"
+        },
+        {
+          "label": "E",
+          "text": "Add niacin to reduce both LDL-C and triglyceride levels"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In very high-risk patients (secondary prevention) not at LDL-C goal despite maximally tolerated statin, the recommended next step is to add ezetimibe before considering PCSK9 inhibitors.",
+        "whyCorrect": "This patient has established ASCVD (prior MI) with an LDL-C target of <55 mg/dL. He is already on maximally dosed high-intensity statin. The guideline-recommended sequential approach is to first add ezetimibe, which lowers LDL-C by an additional 15-20% through inhibition of intestinal cholesterol absorption via the NPC1L1 protein, complementing statin therapy.",
+        "whyWrongByChoice": {
+          "B": "Switching between high-intensity statins when the patient is already on maximum-dose atorvastatin is unlikely to achieve meaningful additional LDL-C reduction. The guidelines recommend adding a complementary agent rather than switching within the same drug class.",
+          "C": "Gemfibrozil significantly increases statin exposure and myopathy risk; this combination should be avoided. Additionally, fibrates primarily target triglycerides rather than LDL-C, which is the main concern here.",
+          "D": "Discontinuing the statin to start a PCSK9 inhibitor alone is inappropriate. PCSK9 inhibitors are recommended as add-on therapy after maximally tolerated statin plus ezetimibe fails to achieve LDL-C goals, not as replacement monotherapy.",
+          "E": "Niacin has limited evidence for cardiovascular outcome benefit and carries significant side effects including hepatotoxicity. It is not recommended as a next-line agent for LDL-C lowering in current guidelines."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "LDL-C management",
+        "combination therapy",
+        "ezetimibe",
+        "secondary prevention"
+      ]
+    },
+    {
+      "id": "cv-070",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 48-year-old woman with type 2 diabetes diagnosed 3 years ago presents for routine follow-up. She has no history of cardiovascular events. Her labs show LDL-C 85 mg/dL, HDL-C 52 mg/dL, triglycerides 140 mg/dL, and HbA1c 7.2%. Her blood pressure is 128/78 mmHg on lisinopril. She is not on any lipid-lowering medication. Based on current guidelines for diabetic patients aged 40-75, which of the following is the most appropriate lipid-lowering therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No statin therapy is needed since her LDL-C is below 100 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "Initiate at least moderate-intensity statin therapy"
+        },
+        {
+          "label": "C",
+          "text": "Start a fibrate to address borderline triglyceride levels first"
+        },
+        {
+          "label": "D",
+          "text": "Initiate ezetimibe monotherapy as first-line treatment"
+        },
+        {
+          "label": "E",
+          "text": "Defer lipid-lowering therapy until LDL-C exceeds 190 mg/dL"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "For diabetic patients aged 40-75 with LDL-C ≥70 mg/dL, current guidelines recommend initiating at least moderate-intensity statin therapy regardless of other risk factors.",
+        "whyCorrect": "This patient is a diabetic aged 40-75 with LDL-C of 85 mg/dL (≥70 mg/dL threshold). According to treatment guidelines, at least moderate-intensity statin therapy is recommended for this patient category. The diabetes status alone, combined with her age and LDL-C above 70 mg/dL, meets the threshold for statin initiation.",
+        "whyWrongByChoice": {
+          "A": "An LDL-C below 100 mg/dL does not exempt diabetic patients aged 40-75 from statin therapy. The threshold for considering medication in this population is ≥70 mg/dL, not 100 mg/dL.",
+          "C": "Fibrates are not first-line therapy when triglycerides are below 150 mg/dL (her level is 140 mg/dL, which is normal). Statins remain the first-line lipid-lowering therapy for cardiovascular risk reduction in diabetic patients.",
+          "D": "Ezetimibe is not recommended as first-line monotherapy. Statins are the first-line agents due to their robust evidence base for both LDL-C reduction and cardiovascular outcome benefits. Ezetimibe is used as add-on therapy.",
+          "E": "The 190 mg/dL threshold applies to primary prevention in patients without diabetes and low ASCVD risk (<5%). Diabetic patients aged 40-75 have a much lower threshold of ≥70 mg/dL for initiating statin therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "diabetes",
+        "statin therapy",
+        "primary prevention",
+        "treatment thresholds"
+      ]
+    },
+    {
+      "id": "cv-071",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 55-year-old man is started on high-intensity rosuvastatin for primary prevention due to a 10-year ASCVD risk of 22%. Six weeks later, he reports bilateral thigh pain and weakness that began 3 weeks after starting the medication. His creatine kinase level is mildly elevated at 3 times the upper limit of normal. TSH and vitamin D levels are normal. Which of the following is the most appropriate initial management of his statin-associated muscle symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue rosuvastatin at the same dose and reassess symptoms in 4 weeks"
+        },
+        {
+          "label": "B",
+          "text": "Permanently discontinue all statin therapy and switch to ezetimibe monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Temporarily discontinue rosuvastatin to determine if symptoms resolve"
+        },
+        {
+          "label": "D",
+          "text": "Add coenzyme Q10 supplementation while maintaining the current statin dose"
+        },
+        {
+          "label": "E",
+          "text": "Immediately start a PCSK9 inhibitor as a replacement for statin therapy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For statin-associated muscle symptoms (SAMS), the structured approach begins with temporary discontinuation to determine if symptoms resolve, before considering rechallenge or alternative therapies.",
+        "whyCorrect": "The first step in managing SAMS is temporary discontinuation of the statin to determine if symptoms are truly statin-related. If symptoms resolve, the patient can be rechallenged with the same or different statin at a lower dose, or alternate dosing strategies can be tried. Other causes have already been ruled out (TSH and vitamin D are normal).",
+        "whyWrongByChoice": {
+          "A": "Continuing the statin at the same dose when the patient has symptomatic myalgia with elevated CK is inappropriate. Symptoms should be evaluated by temporarily stopping the medication to establish causality.",
+          "B": "Permanently discontinuing all statin therapy after a single trial is premature. The structured approach includes rechallenge with the same or different statin at lower doses, or alternate dosing strategies (every other day, twice weekly) before abandoning statins entirely.",
+          "D": "While coenzyme Q10 is sometimes used adjunctively, it is not the recommended initial step. The guidelines emphasize temporary discontinuation first to establish whether symptoms are statin-related before considering adjunctive measures.",
+          "E": "Immediately starting a PCSK9 inhibitor as replacement is premature. PCSK9 inhibitors are reserved for patients who are intolerant to multiple statins and have already failed rechallenge and alternative statin strategies. The patient has only tried one statin."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "statin-associated muscle symptoms",
+        "adverse effects",
+        "SAMS management",
+        "statin intolerance"
+      ]
+    },
+    {
+      "id": "cv-072",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 43-year-old woman with no significant past medical history is found to have a total cholesterol of 310 mg/dL, LDL-C of 215 mg/dL, HDL-C of 55 mg/dL, and triglycerides of 130 mg/dL on routine screening. Her 10-year ASCVD risk score is 4%. Her father had a myocardial infarction at age 50, and her paternal uncle required coronary bypass surgery at age 48. She takes no medications. Which of the following is the most appropriate initial therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lifestyle modifications alone given her low 10-year ASCVD risk score"
+        },
+        {
+          "label": "B",
+          "text": "Moderate-intensity statin therapy with reassessment in 3 months"
+        },
+        {
+          "label": "C",
+          "text": "Ezetimibe monotherapy to avoid potential statin side effects"
+        },
+        {
+          "label": "D",
+          "text": "High-intensity statin therapy regardless of her calculated risk score"
+        },
+        {
+          "label": "E",
+          "text": "Fibrate therapy given her strong family history of cardiovascular disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Patients with LDL-C ≥190 mg/dL are recommended high-intensity statin therapy regardless of their calculated 10-year ASCVD risk score, as this level of LDL-C represents primary hypercholesterolemia.",
+        "whyCorrect": "With an LDL-C of 215 mg/dL (≥190 mg/dL), this patient falls into the primary prevention category where high-intensity statin therapy is recommended irrespective of the calculated risk score. Primary hypercholesterolemia (LDL-C >160 mg/dL) is also a risk enhancer. Her family history of premature ASCVD (father with MI at 50, <55 years) further supports aggressive intervention.",
+        "whyWrongByChoice": {
+          "A": "Although her calculated 10-year ASCVD risk is <5%, patients with LDL-C ≥190 mg/dL are treated with high-intensity statins regardless of calculated risk. Lifestyle modifications alone are insufficient for this degree of hypercholesterolemia.",
+          "B": "Moderate-intensity statin therapy is inadequate for a patient with LDL-C ≥190 mg/dL. Guidelines specifically recommend high-intensity statin therapy for this level of LDL-C elevation to achieve the necessary ≥50% reduction.",
+          "C": "Ezetimibe is not recommended as first-line monotherapy. Statins are the evidence-based first-line treatment with demonstrated cardiovascular outcome benefits. Ezetimibe is used as add-on therapy when statin monotherapy is insufficient.",
+          "E": "Fibrates primarily target triglycerides, not LDL-C. This patient's triglycerides are normal (130 mg/dL). The primary concern is severely elevated LDL-C, which requires high-intensity statin therapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "primary hypercholesterolemia",
+        "high-intensity statin",
+        "familial hypercholesterolemia",
+        "risk enhancers"
+      ]
+    },
+    {
+      "id": "cv-073",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 58-year-old man with type 2 diabetes and chronic kidney disease (eGFR 45 mL/min/1.73m²) presents with persistent triglycerides of 620 mg/dL despite lifestyle modifications and optimized glycemic control with metformin and empagliflozin. His LDL-C is 95 mg/dL on moderate-intensity rosuvastatin. He has no history of cardiovascular events. Which of the following is the most important reason to initiate pharmacologic triglyceride-lowering therapy at this time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduction of LDL-C to target levels below 70 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "Prevention of recurrent cardiovascular events in this high-risk patient"
+        },
+        {
+          "label": "C",
+          "text": "Improvement of estimated glomerular filtration rate through lipid reduction"
+        },
+        {
+          "label": "D",
+          "text": "Reduction of insulin resistance associated with hypertriglyceridemia"
+        },
+        {
+          "label": "E",
+          "text": "Prevention of acute pancreatitis from severe hypertriglyceridemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Triglyceride levels ≥500 mg/dL require immediate pharmacologic intervention primarily to reduce the risk of acute pancreatitis, which takes precedence over cardiovascular risk reduction.",
+        "whyCorrect": "With triglycerides at 620 mg/dL (≥500 mg/dL, classified as severe hypertriglyceridemia), the most important indication for immediate pharmacologic intervention is prevention of pancreatitis. While cardiovascular risk reduction is also important, the immediate priority at this level is pancreatitis prevention. Fibrates, prescription omega-3 fatty acids, or both are first-line for this indication.",
+        "whyWrongByChoice": {
+          "A": "LDL-C reduction is not the primary reason to treat severe hypertriglyceridemia. His LDL-C is being addressed with rosuvastatin. Triglyceride-lowering agents are needed specifically for the dangerously elevated triglycerides.",
+          "B": "While cardiovascular risk reduction is a goal of triglyceride management at levels 150-499 mg/dL, the primary urgency at levels ≥500 mg/dL is preventing pancreatitis. This patient has no prior cardiovascular events.",
+          "C": "Triglyceride-lowering therapy is not initiated to improve eGFR. While CKD is a comorbidity, lipid-lowering therapy has not been shown to directly improve kidney function. The CKD is a risk enhancer but not the treatment target.",
+          "D": "Although hypertriglyceridemia is associated with insulin resistance, improving insulin resistance is not the primary indication for pharmacologic triglyceride-lowering therapy at these dangerously high levels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "severe hypertriglyceridemia",
+        "pancreatitis prevention",
+        "triglyceride management",
+        "diabetes"
+      ]
+    },
+    {
+      "id": "cv-074",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 67-year-old man with stable angina, type 2 diabetes, and hypertension has been on atorvastatin 40 mg daily for 8 months. His follow-up lipid panel shows LDL-C 82 mg/dL (baseline was 168 mg/dL), HDL-C 38 mg/dL, and triglycerides 195 mg/dL. He reports good medication adherence and has adopted dietary changes. His LDL-C target is <55 mg/dL with ≥50% reduction from baseline. Which of the following represents the most appropriate sequential approach to achieving his LDL-C goal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maximize statin dose first, then add ezetimibe, then consider a PCSK9 inhibitor if needed"
+        },
+        {
+          "label": "B",
+          "text": "Add a PCSK9 inhibitor immediately given the significant gap from LDL-C target"
+        },
+        {
+          "label": "C",
+          "text": "Switch to a fibrate to simultaneously address LDL-C and triglyceride levels"
+        },
+        {
+          "label": "D",
+          "text": "Discontinue statin therapy and initiate combination ezetimibe plus bile acid sequestrant"
+        },
+        {
+          "label": "E",
+          "text": "Maintain current therapy since his LDL-C has decreased by more than 50% from baseline"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The guideline-recommended sequential approach for LDL-C lowering is to first maximize statin dose, then add ezetimibe, and finally consider a PCSK9 inhibitor if targets are still not met.",
+        "whyCorrect": "This patient has established ASCVD (stable angina) and diabetes, placing him in the very high-risk category with a target LDL-C <55 mg/dL. His current LDL-C is 82 mg/dL on submaximal statin dosing. The correct sequential approach is: (1) maximize statin to highest tolerated intensity (e.g., atorvastatin 80 mg), (2) add ezetimibe if still above target, and (3) add a PCSK9 inhibitor if needed.",
+        "whyWrongByChoice": {
+          "B": "Adding a PCSK9 inhibitor before maximizing statin dose and trying ezetimibe is not following the recommended sequential approach. PCSK9 inhibitors are reserved for patients who remain above target despite maximally tolerated statin plus ezetimibe.",
+          "C": "Switching from a statin to a fibrate is inappropriate. Fibrates primarily lower triglycerides, not LDL-C. Statins remain the cornerstone of LDL-C reduction, and switching to a fibrate would remove the proven cardiovascular benefit of statin therapy.",
+          "D": "Discontinuing statin therapy removes the most evidence-based treatment for cardiovascular risk reduction. The goal is to build upon statin therapy with complementary agents, not replace it.",
+          "E": "While his LDL-C has decreased by approximately 51% from baseline, his absolute LDL-C of 82 mg/dL still exceeds the <55 mg/dL target. In very high-risk patients, both the percentage reduction and the absolute target should be achieved."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "combination therapy",
+        "sequential approach",
+        "PCSK9 inhibitors",
+        "very high risk"
+      ]
+    },
+    {
+      "id": "cv-075",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 50-year-old woman with rheumatoid arthritis presents for cardiovascular risk assessment. She takes methotrexate and low-dose prednisone. Her labs show total cholesterol 210 mg/dL, LDL-C 138 mg/dL, HDL-C 44 mg/dL, triglycerides 175 mg/dL, and hs-CRP 4.2 mg/L. Her 10-year ASCVD risk score calculates to 6.8%. She has no diabetes or family history of premature cardiovascular disease. Her eGFR is 82 mL/min/1.73m². Which of the following best explains why this patient may benefit from more intensive lipid-lowering therapy than her calculated risk score alone would suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Her total cholesterol exceeds the recommended population target of 200 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "She has multiple ASCVD risk enhancers"
+        },
+        {
+          "label": "C",
+          "text": "Her methotrexate therapy is a known secondary cause of dyslipidemia requiring statin treatment"
+        },
+        {
+          "label": "D",
+          "text": "Prednisone use automatically reclassifies her into the high-risk ASCVD category"
+        },
+        {
+          "label": "E",
+          "text": "An eGFR below 90 mL/min/1.73m² qualifies as chronic kidney disease requiring intensive therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Risk enhancers such as chronic inflammatory conditions, elevated hs-CRP >2.0 mg/L, and persistent triglyceride elevation ≥175 mg/dL may justify more intensive therapy in patients with borderline or intermediate ASCVD risk.",
+        "whyCorrect": "This patient has a borderline-to-intermediate 10-year risk (6.8%, falling in the 5-7.5% range). However, she has multiple recognized ASCVD risk enhancers: rheumatoid arthritis (a chronic inflammatory condition), hs-CRP >2.0 mg/L, and persistent triglycerides ≥175 mg/dL. These risk enhancers may justify earlier or more intensive intervention beyond what the calculated risk score alone would indicate.",
+        "whyWrongByChoice": {
+          "A": "Total cholesterol exceeding 200 mg/dL is not itself a recognized risk enhancer in current guidelines. Treatment decisions are based on LDL-C levels, overall ASCVD risk, and the presence of specific risk enhancers rather than total cholesterol thresholds.",
+          "C": "Methotrexate is not a recognized secondary cause of dyslipidemia listed in the guidelines. Secondary causes include uncontrolled diabetes, hypothyroidism, nephrotic syndrome, and certain medications like estrogens, glucocorticoids, and beta-blockers.",
+          "D": "Prednisone use does not automatically reclassify a patient into the high-risk category. While glucocorticoids can contribute to secondary hypertriglyceridemia, they do not by themselves change the ASCVD risk category classification.",
+          "E": "CKD as an ASCVD risk enhancer is defined as eGFR 15-59 mL/min/1.73m². This patient's eGFR of 82 does not meet this threshold, as mild reductions below 90 without other markers do not qualify."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "risk enhancers",
+        "chronic inflammatory conditions",
+        "ASCVD risk assessment",
+        "borderline risk"
+      ]
+    },
+    {
+      "id": "cv-076",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 45-year-old man with HIV on antiretroviral therapy presents with LDL-C of 155 mg/dL, HDL-C of 35 mg/dL, and triglycerides of 280 mg/dL. His 10-year ASCVD risk score is 9.5%. His physician decides to start moderate-intensity statin therapy. The patient is currently on a protease inhibitor-containing antiretroviral regimen. Which of the following is the most important drug interaction consideration when selecting the statin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Statins may reduce the efficacy of antiretroviral therapy by inducing hepatic enzymes"
+        },
+        {
+          "label": "B",
+          "text": "Protease inhibitors can increase statin levels, requiring dose adjustment to prevent toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Statins are absolutely contraindicated with all antiretroviral medications"
+        },
+        {
+          "label": "D",
+          "text": "Ezetimibe should be substituted for a statin since lipid-lowering drugs interact with all HIV medications"
+        },
+        {
+          "label": "E",
+          "text": "Fibrates should be used instead of statins because they have no interactions with protease inhibitors"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Protease inhibitors (used in HIV treatment and COVID treatment like Paxlovid) can increase statin levels through CYP450 inhibition, necessitating dose adjustment to avoid statin-associated toxicity including myopathy.",
+        "whyCorrect": "Protease inhibitors are potent CYP3A4 inhibitors that can significantly increase statin exposure. This is listed as an important drug interaction to consider in combination therapy: 'Cyclosporine, macrolide antibiotics, antifungals, and protease inhibitors (Paxlovid for COVID and combo treatments for HIV) can increase statin levels; dose adjustment may be needed.' The statin choice and dose must account for this interaction.",
+        "whyWrongByChoice": {
+          "A": "Statins do not induce hepatic enzymes that would reduce antiretroviral efficacy. The concern is the opposite direction: protease inhibitors inhibit the metabolism of statins, increasing statin levels and toxicity risk.",
+          "C": "Statins are not absolutely contraindicated with all antiretroviral medications. While dose adjustment is needed with protease inhibitors, statins can be safely used with appropriate selection and dosing. Some statins (pravastatin, pitavastatin) have fewer CYP3A4 interactions.",
+          "D": "Ezetimibe substitution for statin is not necessary in all HIV patients. Statins remain first-line therapy; they simply require dose adjustment or selection of statins with fewer CYP3A4 interactions when used with protease inhibitors.",
+          "E": "Fibrates are not appropriate substitutes for statins when the primary concern is elevated LDL-C. Furthermore, fibrates have their own interaction potential, and the claim that they have no interactions with protease inhibitors is incorrect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "drug interactions",
+        "protease inhibitors",
+        "statin therapy",
+        "HIV"
+      ]
+    },
+    {
+      "id": "cv-077",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 52-year-old woman with no prior cardiovascular disease has been on moderate-intensity simvastatin for 6 months. Her repeat lipid panel shows LDL-C of 125 mg/dL (baseline 165 mg/dL), representing a 24% reduction. She reports adherence to medication and dietary modifications. Her physician suspects the response is inadequate. Before intensifying pharmacologic therapy, which of the following is the most common cause of inadequate lipid response that should be systematically evaluated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genetic resistance to HMG-CoA reductase inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Interaction between simvastatin and her dietary supplement regimen"
+        },
+        {
+          "label": "C",
+          "text": "Development of hepatic steatosis from chronic statin use"
+        },
+        {
+          "label": "D",
+          "text": "Acquired LDL receptor deficiency from prolonged cholesterol elevation"
+        },
+        {
+          "label": "E",
+          "text": "Poor medication adherence despite the patient's reported compliance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Poor medication adherence is the most common cause of inadequate response to statin therapy and should be the first factor evaluated when lipid goals are not met.",
+        "whyCorrect": "Guidelines identify poor adherence as the most common cause of inadequate lipid response to statin therapy. Even when patients report compliance, actual adherence may be suboptimal. Patient-reported adherence often overestimates true medication-taking behavior. Systematic evaluation should begin with assessing and addressing medication adherence before considering other causes.",
+        "whyWrongByChoice": {
+          "A": "While genetic factors affecting drug metabolism can influence statin response, genetic resistance to HMG-CoA reductase inhibition is rare and would not be the most common cause to evaluate first. It is listed among possible factors but is far less frequent than adherence issues.",
+          "B": "While drug-supplement interactions are possible, they are not the most common cause of inadequate statin response. The systematic approach prioritizes evaluating adherence first before investigating interaction-related causes.",
+          "C": "Hepatic steatosis from chronic statin use is not a recognized cause of inadequate lipid response. Statins may actually have neutral or potentially beneficial effects on hepatic steatosis in some patients.",
+          "D": "Acquired LDL receptor deficiency from prolonged cholesterol elevation is not a recognized clinical entity. LDL receptor function is genetically determined, and prolonged hypercholesterolemia does not cause acquired receptor loss."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "medication adherence",
+        "inadequate response",
+        "statin therapy",
+        "treatment optimization"
+      ]
+    },
+    {
+      "id": "cv-078",
+      "topicId": "treatment-dyslipidemia",
+      "topicName": "Treatment of Dyslipidemia",
+      "stem": "A 60-year-old man with diabetes and peripheral arterial disease has been intolerant to three different statins due to persistent myalgias confirmed by dechallenge and rechallenge. His LDL-C remains at 145 mg/dL. Alternative dosing strategies with longer half-life statins given twice weekly were also not tolerated. His cardiologist is considering non-statin therapies. Which of the following combinations is most appropriate for this statin-intolerant patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gemfibrozil plus niacin to address both LDL-C and residual cardiovascular risk"
+        },
+        {
+          "label": "B",
+          "text": "Bile acid sequestrant plus omega-3 fatty acids for maximal LDL-C lowering"
+        },
+        {
+          "label": "C",
+          "text": "Fenofibrate monotherapy given his established peripheral arterial disease"
+        },
+        {
+          "label": "D",
+          "text": "Niacin plus ezetimibe as the preferred non-statin combination for LDL-C reduction"
+        },
+        {
+          "label": "E",
+          "text": "Ezetimibe plus a PCSK9 inhibitor for LDL-C reduction in this very high-risk patient"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "For patients truly intolerant to multiple statins, non-statin therapies including ezetimibe, PCSK9 inhibitors, and bempedoic acid are recommended. In very high-risk patients, ezetimibe plus a PCSK9 inhibitor provides the most effective LDL-C reduction.",
+        "whyCorrect": "This patient has established ASCVD (peripheral arterial disease) and diabetes, making him very high risk. After confirmed intolerance to multiple statins including alternative dosing strategies, guidelines recommend non-statin therapies: ezetimibe, PCSK9 inhibitors, and bempedoic acid. The combination of ezetimibe plus a PCSK9 inhibitor provides the greatest LDL-C reduction among non-statin options, which is critical for this very high-risk patient.",
+        "whyWrongByChoice": {
+          "A": "Gemfibrozil and niacin primarily target triglycerides, not LDL-C. Niacin has limited evidence for cardiovascular outcome benefit. Neither agent provides the degree of LDL-C lowering needed for this very high-risk patient.",
+          "B": "While bile acid sequestrants can lower LDL-C, omega-3 fatty acids primarily target triglycerides with minimal LDL-C effect. This combination is suboptimal compared to ezetimibe plus a PCSK9 inhibitor for LDL-C reduction in a very high-risk patient.",
+          "C": "Fenofibrate monotherapy primarily reduces triglycerides and has modest effects on LDL-C. It is not an appropriate primary LDL-C lowering strategy, especially in a patient with established ASCVD requiring substantial LDL-C reduction.",
+          "D": "While ezetimibe is appropriate, niacin has limited evidence for cardiovascular outcomes and significant side effects including hepatotoxicity. A PCSK9 inhibitor paired with ezetimibe is a far more effective and evidence-based combination for LDL-C lowering."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "dyslipidemia",
+        "statin intolerance",
+        "PCSK9 inhibitors",
+        "ezetimibe",
+        "non-statin therapy"
+      ]
+    },
+    {
+      "id": "cd-059",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 28-year-old man is brought to the emergency department after a high-speed head-on motor vehicle collision. On arrival, he is tachycardic with a heart rate of 118 bpm and blood pressure of 94/62 mmHg. A supine anteroposterior chest radiograph reveals a mediastinal width of 10 cm and rightward tracheal deviation. The emergency physician orders an urgent imaging study. Which of the following is the most appropriate next step in diagnostic imaging?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest CT angiogram timed for the arterial contrast phase"
+        },
+        {
+          "label": "B",
+          "text": "Transesophageal echocardiography at the bedside"
+        },
+        {
+          "label": "C",
+          "text": "Conventional coronary angiography via femoral access"
+        },
+        {
+          "label": "D",
+          "text": "Magnetic resonance angiography of the thoracic aorta"
+        },
+        {
+          "label": "E",
+          "text": "Posteroanterior and lateral chest radiograph series"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A widened mediastinum (>8 cm) with tracheal deviation after a rapid deceleration injury is highly concerning for traumatic aortic disruption, which requires emergent chest CT angiogram timed for the arterial phase.",
+        "whyCorrect": "Chest CT angiogram is the appropriate emergent study to evaluate a widened mediastinum after blunt thoracic trauma. The arterial contrast phase optimally visualizes aortic injuries at the ligamentum arteriosum, where shear forces concentrate during sudden deceleration.",
+        "whyWrongByChoice": {
+          "B": "While echocardiography is useful for cardiac evaluation, it is not the standard emergent test for evaluating a widened mediastinum suspicious for traumatic aortic disruption.",
+          "C": "Conventional coronary angiography evaluates coronary arteries for stenosis and is not indicated in the acute trauma setting for aortic injury evaluation.",
+          "D": "MR angiography is time-consuming and not suitable for emergent evaluation of a potentially unstable trauma patient with suspected aortic disruption.",
+          "E": "Additional plain radiographs would not provide sufficient detail to diagnose aortic disruption and would delay definitive imaging in this emergency."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "trauma",
+        "aortic-disruption",
+        "CT-angiography"
+      ]
+    },
+    {
+      "id": "cd-060",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 65-year-old woman with a history of chronic heart failure presents with worsening dyspnea over the past 3 days. Her chest radiograph shows cardiomegaly, prominent hilar vasculature, and short thin linear opacities approximately 1-2 cm long at the lung periphery extending to the pleural surface at right angles. These peripheral opacities most likely represent which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar consolidation from bacterial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Thickening of the interlobular septa from interstitial edema"
+        },
+        {
+          "label": "C",
+          "text": "Bronchial wall thickening from chronic obstructive lung disease"
+        },
+        {
+          "label": "D",
+          "text": "Fibrotic scarring from prior granulomatous infection"
+        },
+        {
+          "label": "E",
+          "text": "Lymphangitic carcinomatosis from metastatic breast cancer"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The described findings are Kerley B lines, which represent thickening of interlobular septa containing lymphatic and venous vessels due to interstitial edema in the setting of cardiogenic pulmonary edema.",
+        "whyCorrect": "Kerley B lines are short, thin, linear opacities (1-2 cm long) seen at the lung periphery extending to the pleural surface at right angles. They represent thickening of the interlobular septa, which contain lymphatic and venous vessels, due to interstitial edema from elevated pulmonary capillary pressures in heart failure.",
+        "whyWrongByChoice": {
+          "A": "Bacterial pneumonia causes alveolar consolidation that typically appears as focal or lobar opacification rather than short linear peripheral opacities at right angles to the pleural surface.",
+          "C": "Bronchial wall thickening from COPD presents as peribronchial cuffing or tramline shadows, not as short peripheral linear opacities perpendicular to the pleural surface.",
+          "D": "Fibrotic scarring from granulomatous disease typically appears as upper lobe reticular markings or calcified nodules, not as the described short peripheral linear opacities.",
+          "E": "While lymphangitic carcinomatosis can cause interlobular septal thickening, the clinical context of chronic heart failure with cardiomegaly and hilar prominence makes cardiogenic interstitial edema far more likely."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "pulmonary-edema",
+        "Kerley-B-lines",
+        "chest-radiograph"
+      ]
+    },
+    {
+      "id": "cd-061",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 58-year-old man undergoes an echocardiogram that reveals a left ventricular end-diastolic volume of 160 mL and an end-systolic volume of 96 mL. Which of the following best represents this patient's ejection fraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "30%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "60%"
+        },
+        {
+          "label": "E",
+          "text": "70%"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ejection fraction is calculated as (End Diastolic Volume - End Systolic Volume) / End Diastolic Volume. Here: (160 - 96) / 160 = 64/160 = 0.40 or 40%, indicating reduced systolic function.",
+        "whyCorrect": "EF = Stroke Volume / End Diastolic Volume = (EDV - ESV) / EDV = (160 - 96) / 160 = 64/160 = 40%. Normal EF is 55-70%, so this patient has a reduced ejection fraction consistent with systolic dysfunction.",
+        "whyWrongByChoice": {
+          "A": "An EF of 30% would require an ESV of 112 mL with an EDV of 160 mL, which does not match the given values.",
+          "C": "An EF of 50% would require an ESV of 80 mL with an EDV of 160 mL, which does not match the given values.",
+          "D": "An EF of 60% would require an ESV of 64 mL with an EDV of 160 mL, which does not match the given values.",
+          "E": "An EF of 70% would require an ESV of 48 mL with an EDV of 160 mL, which does not match the given values."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "echocardiography",
+        "ejection-fraction",
+        "cardiac-physiology"
+      ]
+    },
+    {
+      "id": "cd-062",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 50-year-old woman presents with progressive exertional dyspnea. Chest radiograph reveals an enlarged cardiac silhouette with a rounded, symmetrical shape described as resembling an antique water bottle. There is no pulmonary vascular congestion. Which of the following is the most likely cause of the radiographic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy with biventricular failure"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic obstructive cardiomyopathy with outflow obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial effusion with fluid accumulating within the pericardial sac"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular hypertrophy from chronic pulmonary hypertension"
+        },
+        {
+          "label": "E",
+          "text": "Left ventricular aneurysm following transmural myocardial infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A globular, symmetrical, 'water bottle' cardiac silhouette on chest X-ray is characteristic of a pericardial effusion, distinguished from cardiomegaly which produces an asymmetric silhouette.",
+        "whyCorrect": "A slowly enlarging pericardial effusion produces a rounded, symmetrical (globular) cardiac silhouette known as a 'water bottle' heart due to the attachment of the pericardial sac to the proximal ascending aorta. The absence of pulmonary congestion further supports effusion over cardiomyopathy.",
+        "whyWrongByChoice": {
+          "A": "Dilated cardiomyopathy causes cardiomegaly with an asymmetric silhouette and is typically accompanied by signs of pulmonary vascular congestion, unlike the symmetrical globular shape described here.",
+          "B": "Hypertrophic cardiomyopathy involves myocardial wall thickening that does not typically produce a significantly enlarged or globular cardiac silhouette on chest radiograph.",
+          "D": "Right ventricular hypertrophy causes an asymmetric cardiac enlargement with prominence of the right heart border, not a symmetrical water bottle configuration.",
+          "E": "A left ventricular aneurysm produces a focal bulge along the left heart border rather than the diffuse, symmetrical globular enlargement described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "pericardial-effusion",
+        "chest-radiograph",
+        "cardiac-silhouette"
+      ]
+    },
+    {
+      "id": "cd-063",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 72-year-old man with a history of coronary artery disease is evaluated for recurrent exertional chest pain. His cardiologist orders an imaging study in which a radioactive tracer is injected and images are obtained using a specialized radiation-detecting camera after both rest and exercise. Images reveal decreased perfusion of the cardiac apex during the stress phase that normalizes at rest. Which of the following imaging modalities was most likely performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary artery calcium scoring by non-contrast CT"
+        },
+        {
+          "label": "B",
+          "text": "Conventional coronary angiography with intraarterial dye"
+        },
+        {
+          "label": "C",
+          "text": "CT angiography with intravenous iodinated contrast"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear stress testing with SPECT or PET imaging"
+        },
+        {
+          "label": "E",
+          "text": "Stress echocardiography with dobutamine infusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nuclear stress testing uses injected radiopharmaceutical tracers and specialized radiation-detecting cameras (SPECT or PET) to evaluate myocardial perfusion at rest and during stress.",
+        "whyCorrect": "The description matches nuclear stress testing: a radioactive tracer is injected, and images are obtained using specialized radiation-detecting cameras (SPECT or PET) to compare myocardial perfusion during stress versus rest. Decreased apical perfusion during stress corresponds to the distal LAD territory.",
+        "whyWrongByChoice": {
+          "A": "Coronary artery calcium scoring uses a low-dose non-contrast CT to measure calcium deposits and provides a numerical score but does not use radioactive tracers or detect myocardial perfusion.",
+          "B": "Conventional coronary angiography uses an intraarterial catheter with radiopaque dye to directly visualize coronary arteries but does not use radioactive tracers or radiation-detecting cameras.",
+          "C": "CT angiography is a noninvasive test using intravenous contrast to visualize coronary anatomy but does not employ radioactive tracers or SPECT/PET cameras.",
+          "E": "Stress echocardiography uses ultrasound to assess wall motion abnormalities during stress but does not involve radioactive tracer injection or radiation-detecting cameras."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "nuclear-stress-test",
+        "myocardial-perfusion",
+        "SPECT"
+      ]
+    },
+    {
+      "id": "cd-064",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 69-year-old man with a 40-pack-year smoking history presents for a routine health maintenance visit. He has no abdominal symptoms. His physician recommends a screening imaging study for abdominal aortic aneurysm. Which of the following is the most appropriate screening modality for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT angiography of the abdomen and pelvis with contrast"
+        },
+        {
+          "label": "B",
+          "text": "Magnetic resonance angiography of the abdominal aorta"
+        },
+        {
+          "label": "C",
+          "text": "Conventional angiography with femoral artery catheterization"
+        },
+        {
+          "label": "D",
+          "text": "Non-contrast CT of the abdomen with 3D reconstruction"
+        },
+        {
+          "label": "E",
+          "text": "Abdominal ultrasound to measure aortic diameter"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ultrasound is the study of choice for screening for abdominal aortic aneurysms. Screening is recommended for men aged 65-75 with a history of smoking or family history of aneurysms.",
+        "whyCorrect": "Ultrasound is the recommended screening test for AAA because it is noninvasive, safe, and effective at measuring aortic diameter. This patient meets screening criteria as a male aged 65-75 with a significant smoking history.",
+        "whyWrongByChoice": {
+          "A": "CT angiography provides excellent aortic imaging but involves ionizing radiation and contrast, making it inappropriate as a first-line screening tool in an asymptomatic patient.",
+          "B": "MR angiography provides detailed vascular imaging but is more costly and time-consuming than ultrasound and is not used as the initial screening modality for AAA.",
+          "C": "Conventional angiography is an invasive procedure requiring arterial catheterization and is not appropriate for screening an asymptomatic patient for AAA.",
+          "D": "Non-contrast CT of the abdomen can detect aneurysms but involves ionizing radiation and is not the recommended first-line screening test when ultrasound is available."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "AAA-screening",
+        "ultrasound",
+        "preventive-medicine"
+      ]
+    },
+    {
+      "id": "cd-065",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 55-year-old woman with stable exertional angina undergoes a stress echocardiogram. During peak exercise, imaging reveals hypokinesis of the anterolateral and anterior septal walls with preserved contractility of other segments. Which of the following coronary arteries is most likely responsible for the perfusion deficit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "C",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "D",
+          "text": "Posterior descending artery"
+        },
+        {
+          "label": "E",
+          "text": "Left main coronary artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anterolateral and anterior septal regional wall motion abnormalities correspond to the left anterior descending artery territory.",
+        "whyCorrect": "Regional wall motion abnormality (RWMA) in the anterolateral and anterior septal walls corresponds to the Left Anterior Descending Artery (LAD) territory. RWMA is the earliest clinical sign in the cardiac ischemic cascade, occurring even before anginal symptoms or ECG changes.",
+        "whyWrongByChoice": {
+          "A": "The right coronary artery supplies the inferior wall and portions of the posterior wall; its occlusion would produce inferior wall motion abnormalities, not anterolateral and septal deficits.",
+          "B": "The left circumflex artery supplies the lateral and posterolateral walls; its occlusion would not produce the anterolateral and anterior septal pattern described here.",
+          "D": "The posterior descending artery supplies the inferior interventricular septum and inferior wall; its territory does not correspond to anterolateral and anterior septal segments.",
+          "E": "Left main coronary artery disease would produce widespread wall motion abnormalities affecting both LAD and circumflex territories, not the isolated anterolateral and anterior septal pattern described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "stress-echo",
+        "coronary-anatomy",
+        "RWMA"
+      ]
+    },
+    {
+      "id": "cd-066",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 48-year-old woman is brought to the emergency department with acute chest pain and hypotension. Bedside echocardiography reveals anechoic fluid surrounding the heart with collapse of the right ventricle during diastole. Her blood pressure is 78/50 mmHg and jugular venous pressure is elevated. Which of the following best explains the hemodynamic compromise in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased left ventricular contractility from acute myocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Intrapericardial pressure exceeding right-sided chamber pressures"
+        },
+        {
+          "label": "C",
+          "text": "Acute mitral valve rupture causing severe regurgitation and pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Massive pulmonary embolism causing acute right ventricular pressure overload"
+        },
+        {
+          "label": "E",
+          "text": "Acute aortic dissection extending into the coronary ostia with myocardial infarction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Anechoic pericardial fluid with right ventricular collapse indicates cardiac tamponade, where intrapericardial pressure exceeds right-sided chamber pressures, impairing venous return and reducing cardiac output.",
+        "whyCorrect": "A rapidly accumulating pericardial effusion causes cardiac tamponade by increasing intrapericardial pressure above right-sided chamber pressures. This impairs venous return, decreasing cardiac output and causing hypotension. Right ventricular or atrial collapse is seen on echo because right-sided pressures are lower than left-sided pressures.",
+        "whyWrongByChoice": {
+          "A": "Acute myocarditis would show ventricular dilation and diffuse hypokinesis on echocardiography rather than anechoic pericardial fluid with right ventricular collapse.",
+          "C": "Acute mitral valve rupture would present with a flail leaflet and severe regurgitation jet on echo, along with pulmonary edema, not anechoic pericardial fluid with chamber collapse.",
+          "D": "Massive pulmonary embolism causes right ventricular dilation and pressure overload but does not produce the anechoic pericardial fluid collection with right ventricular diastolic collapse seen here.",
+          "E": "While aortic dissection can cause tamponade via hemopericardium, the mechanism of hemodynamic compromise in this case is specifically the elevated intrapericardial pressure exceeding right-sided pressures and impairing venous return."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "cardiac-tamponade",
+        "echocardiography",
+        "pericardial-effusion"
+      ]
+    },
+    {
+      "id": "cd-067",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 74-year-old man with a history of hypertension presents to the emergency department with sudden onset of severe tearing chest pain radiating to his back. His blood pressure is 182/98 mmHg in the right arm and 140/82 mmHg in the left arm. ECG shows left ventricular hypertrophy without ST changes. A chest radiograph demonstrates mediastinal widening. Which of the following is the most likely underlying pathological process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Germ cell tumor arising from ectopic pluripotent stem cells in the anterior mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Rupture of atherosclerotic plaque within a coronary artery causing acute thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Tear in the intimal lining of the aorta with blood dissecting between intima and media"
+        },
+        {
+          "label": "D",
+          "text": "Shearing force at the aortic isthmus from sudden deceleration injury"
+        },
+        {
+          "label": "E",
+          "text": "Malignant lymphatic proliferation causing bulky mediastinal lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sudden severe tearing chest pain radiating to the back with unequal arm blood pressures and mediastinal widening in a hypertensive patient is the classic presentation of thoracic aortic dissection.",
+        "whyCorrect": "Thoracic aortic dissection involves a tear in the intimal lining of the aorta, allowing blood to dissect between the intima and media. It occurs as a complication of chronic hypertension, connective tissue disorders, or atherosclerosis. The unequal arm pressures indicate the dissection flap is occluding an aortic branch.",
+        "whyWrongByChoice": {
+          "A": "A mediastinal teratoma is typically a slow-growing mass that does not present with acute tearing chest pain, blood pressure discrepancy between arms, or sudden onset symptoms.",
+          "B": "Acute coronary syndrome from plaque rupture presents with chest pain but not tearing quality radiating to the back, blood pressure discrepancies between arms, or mediastinal widening.",
+          "D": "Traumatic aortic disruption occurs after major deceleration injuries such as motor vehicle collisions, not spontaneously in a patient presenting from home with hypertension.",
+          "E": "Lymphoma causing mediastinal widening is a gradual process that does not present with acute tearing chest pain or blood pressure discrepancies between arms."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "aortic-dissection",
+        "mediastinal-widening",
+        "hypertension"
+      ]
+    },
+    {
+      "id": "cd-068",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 62-year-old man with known coronary artery disease has a CT angiography of the coronary arteries that reveals a high-grade stenosis of the left anterior descending artery. His cardiologist recommends a procedure that can both directly visualize the stenosis and provide definitive treatment in the same session. Which of the following is the most appropriate procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nuclear medicine myocardial perfusion imaging with pharmacologic stress"
+        },
+        {
+          "label": "B",
+          "text": "Repeat CT angiography with 3D reconstruction for surgical planning"
+        },
+        {
+          "label": "C",
+          "text": "Conventional coronary angiography with percutaneous coronary intervention"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery calcium scoring to quantify overall disease burden"
+        },
+        {
+          "label": "E",
+          "text": "Stress echocardiography with exercise treadmill protocol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Conventional coronary angiography (CCA) allows both direct visualization of coronary stenosis and therapeutic intervention via percutaneous coronary intervention (PCI) with balloon dilation, stenting, or atherectomy.",
+        "whyCorrect": "Conventional coronary angiography uses an intraarterial catheter advanced through the femoral or radial artery to inject dye and directly visualize the coronary arteries. The major advantage of CCA over noninvasive techniques is the ability to perform percutaneous coronary intervention (PCI) during the same procedure, using balloons, stents, or rotational devices to treat stenosis.",
+        "whyWrongByChoice": {
+          "A": "Nuclear medicine stress testing assesses myocardial perfusion but does not directly visualize coronary anatomy or provide any therapeutic intervention for stenosis.",
+          "B": "CT angiography is a noninvasive diagnostic study that can identify stenosis but cannot provide treatment such as balloon dilation or stenting during the procedure.",
+          "D": "Coronary artery calcium scoring provides a numerical risk assessment score but does not use contrast, does not visualize coronary stenosis, and has no therapeutic capability.",
+          "E": "Stress echocardiography evaluates wall motion abnormalities and cardiac function under stress but cannot directly visualize coronary arteries or provide therapeutic intervention."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "coronary-angiography",
+        "PCI",
+        "coronary-artery-disease"
+      ]
+    },
+    {
+      "id": "cd-069",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 70-year-old man presents with acute decompensation of chronic heart failure. His chest radiograph shows cardiomegaly and bilateral airspace opacification that is most dense centrally around the hilar vessels and diminishes in intensity toward the peripheral lung fields. This pattern of opacification is best described by which of the following terms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cephalization of pulmonary blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Bronchial cuffing with peribronchial thickening"
+        },
+        {
+          "label": "C",
+          "text": "Batwinging pattern of pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Costophrenic angle blunting from pleural fluid"
+        },
+        {
+          "label": "E",
+          "text": "Kerley B lines from interlobular septal thickening"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The batwinging pattern describes pulmonary edema that radiates outward from the hilar vessels, with the most peripheral lung fields being less affected.",
+        "whyCorrect": "In cardiogenic pulmonary edema, airspace opacification due to alveolar fluid begins centrally surrounding the hilar vessels where pulmonary capillary pressure is highest, then propagates laterally with the most peripheral lung fields often less affected. This perihilar distribution radiating outward is called the batwinging pattern.",
+        "whyWrongByChoice": {
+          "A": "Cephalization of flow refers specifically to increased visibility and size of the apical pulmonary vessels due to elevated pulmonary artery pressures, not the described central-to-peripheral airspace opacification pattern.",
+          "B": "Bronchial cuffing refers to a silhouette of edema fluid around small radiolucent bronchi, which is a focal peribronchial finding rather than the described pattern of central-dominant bilateral airspace opacification.",
+          "D": "Costophrenic angle blunting indicates pleural effusion, which is fluid between the visceral and parietal pleura, not the described airspace opacification pattern radiating from the hila.",
+          "E": "Kerley B lines are short, thin, linear peripheral opacities representing interlobular septal thickening from interstitial edema, not the broad central airspace opacification described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "pulmonary-edema",
+        "batwinging",
+        "chest-radiograph"
+      ]
+    },
+    {
+      "id": "cd-070",
+      "topicId": "cardiovascular-imaging",
+      "topicName": "Diagnosis by Cardiovascular Imaging",
+      "stem": "A 45-year-old woman with Turner syndrome is referred for cardiovascular screening. Her physician is concerned about the risk of thoracic aortic aneurysm and orders an imaging study. Which of the following is the most appropriate initial screening modality for thoracic aortic aneurysm in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal ultrasound with aortic diameter measurement"
+        },
+        {
+          "label": "B",
+          "text": "CT angiography of the chest, abdomen, and pelvis"
+        },
+        {
+          "label": "C",
+          "text": "Conventional aortography via femoral catheterization"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery calcium scoring by low-dose CT"
+        },
+        {
+          "label": "E",
+          "text": "Echocardiography to visualize the thoracic aorta"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Screening for thoracic aortic aneurysms in patients with Turner syndrome or connective tissue disorders is performed using echocardiography.",
+        "whyCorrect": "Screening for thoracic aortic aneurysms is recommended for individuals with Turner syndrome or connective tissue disorders. This screening is performed using echocardiography, which can visualize the thoracic aorta and aortic root noninvasively.",
+        "whyWrongByChoice": {
+          "A": "Abdominal ultrasound is the screening study of choice for abdominal aortic aneurysms in men aged 65-75 with smoking history, not for thoracic aortic aneurysms in Turner syndrome patients.",
+          "B": "CT angiography provides excellent aortic imaging but involves radiation and contrast; it is used for detailed evaluation after screening rather than as the initial screening modality for thoracic aortic aneurysm.",
+          "C": "Conventional aortography is an invasive procedure requiring arterial catheterization and is not appropriate as a screening tool for asymptomatic patients.",
+          "D": "Coronary artery calcium scoring measures coronary plaque calcium deposits for cardiac risk assessment and does not evaluate the thoracic aorta for aneurysmal disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiovascular-imaging",
+        "thoracic-aortic-aneurysm",
+        "Turner-syndrome",
+        "echocardiography"
+      ]
+    }
+  ]
+}

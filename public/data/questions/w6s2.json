@@ -1,7 +1,487 @@
 {
-  "categoryId": "congenital-heart-disease",
-  "categoryName": "Congenital Heart Disease",
+  "categoryId": "w6s2",
+  "categoryName": "Session 2",
   "questions": [
+    {
+      "id": "ae-044",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 3-week-old male neonate is brought to the emergency department because of poor feeding and grayish skin color noted over the past 24 hours. He was born at 39 weeks via uncomplicated vaginal delivery with a birth weight of 3.4 kg. On examination, his heart rate is 170/min, respiratory rate is 62/min, and blood pressure in the right arm is 90/60 mm Hg, while femoral pulses are weak and blood pressure in the left leg is 50/30 mm Hg. A continuous murmur is heard at the left infraclavicular region. Echocardiography reveals a focal narrowing of the aorta just distal to the left subclavian artery origin with a closing patent ductus arteriosus. The narrowing in this patient most likely involves a region embryologically derived from which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Incorporation of ductal tissue from the left sixth aortic arch into the adjacent aortic wall"
+        },
+        {
+          "label": "B",
+          "text": "Abnormal persistence of the right fourth aortic arch with failure of left-sided development"
+        },
+        {
+          "label": "C",
+          "text": "Incomplete regression of the fifth aortic arch leading to luminal obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the third aortic arch to properly separate from the dorsal aorta"
+        },
+        {
+          "label": "E",
+          "text": "Defective fusion of the paired dorsal aortae at the level of the aortic isthmus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Coarctation of the aorta occurs just distal to the left subclavian artery near the ductus arteriosus (ligamentum arteriosum), reflecting incorporation of ductal tissue from the left sixth aortic arch and abnormal partial involution of the left dorsal aorta.",
+        "whyCorrect": "The characteristic location of coarctation reflects the embryologic association with the left sixth aortic arch. Ductal tissue from this arch is incorporated into the aortic wall at this site, and when the ductus closes postnatally, contraction of this ectopic ductal tissue causes narrowing. Combined with abnormal partial involution of the left dorsal aorta, this produces the classic juxtaductal coarctation.",
+        "whyWrongByChoice": {
+          "B": "The right fourth aortic arch forms the proximal right subclavian artery, not the aortic arch itself. The left fourth aortic arch forms the segment of the aortic arch between the left common carotid and left subclavian arteries, which is proximal to the typical coarctation site.",
+          "C": "The fifth aortic arch normally regresses early in development and contributes no adult structures. It does not persist to cause luminal obstruction.",
+          "D": "The third aortic arch forms the common carotid arteries and proximal internal carotid arteries. Abnormal separation from the dorsal aorta would affect head and neck vasculature, not the juxtaductal aortic region.",
+          "E": "The paired dorsal aortae fuse caudally to form the descending aorta, but this occurs well below the site of typical coarctation. The aortic isthmus narrowing is related to ductal tissue, not dorsal aorta fusion."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "aortic arch development",
+        "coarctation of the aorta",
+        "sixth aortic arch",
+        "ductus arteriosus"
+      ]
+    },
+    {
+      "id": "ae-045",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 4-year-old girl undergoes surgical repair of a coarctation of the aorta. Postoperatively, she develops persistent hoarseness lasting several weeks. Laryngoscopy reveals left vocal cord paralysis. The surgeon explains that the injured nerve was vulnerable during the procedure because of its anatomic relationship to a structure derived from a specific embryonic vessel. Which embryologic event best explains why this nerve was at risk during this particular surgery?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regression of the right sixth aortic arch causing the nerve to migrate superiorly on the right side"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of the left sixth aortic arch as the ductus arteriosus, anchoring the nerve beneath the aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "Fusion of the paired dorsal aortae pulling the nerve inferiorly into the thorax"
+        },
+        {
+          "label": "D",
+          "text": "Asymmetric division of the aortic sac creating the brachiocephalic trunk on the right side"
+        },
+        {
+          "label": "E",
+          "text": "Persistence of the left fourth aortic arch forming the segment of aorta between the carotid and subclavian origins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left recurrent laryngeal nerve loops under the aortic arch posterior to the ligamentum arteriosum because the left sixth aortic arch persists as the ductus arteriosus, keeping the nerve anchored in the thorax.",
+        "whyCorrect": "During early development, both recurrent laryngeal nerves loop around the sixth aortic arches. On the left side, the distal segment of the sixth arch persists as the ductus arteriosus (later ligamentum arteriosum), maintaining the nerve's position looped under the aortic arch. This makes the left recurrent laryngeal nerve vulnerable during aortic arch surgery, including coarctation repair.",
+        "whyWrongByChoice": {
+          "A": "Regression of the right sixth aortic arch explains the course of the right recurrent laryngeal nerve (which loops under the right subclavian artery), not the vulnerability of the left nerve during aortic surgery.",
+          "C": "Fusion of the paired dorsal aortae occurs caudally to form the descending aorta. This process does not determine the position of the recurrent laryngeal nerves relative to the aortic arch.",
+          "D": "The asymmetric division of the aortic sac into the brachiocephalic trunk (right) and ascending aorta (left) does not directly determine the course of the left recurrent laryngeal nerve.",
+          "E": "The left fourth aortic arch forms the aortic arch segment between the left common carotid and left subclavian arteries, but it is the persistence of the sixth arch (ductus arteriosus) that anchors the left recurrent laryngeal nerve in its thoracic position."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "recurrent laryngeal nerve",
+        "sixth aortic arch",
+        "ductus arteriosus",
+        "coarctation repair"
+      ]
+    },
+    {
+      "id": "ae-046",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 55-year-old woman with a history of lung cancer undergoes CT of the chest, which reveals a large mass encasing the aortic arch near the ligamentum arteriosum. She presents with progressive hoarseness over the past 3 months. Her temperature is 37.0 C, pulse is 78/min, and blood pressure is 128/82 mm Hg. Laryngoscopy confirms left vocal cord paralysis. The nerve affected in this patient follows its characteristic course because of the developmental fate of which embryonic structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left third aortic arch, which forms the left common carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "Right fourth aortic arch, which forms the proximal right subclavian artery"
+        },
+        {
+          "label": "C",
+          "text": "Left sixth aortic arch, whose distal segment persists as the ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Left fourth aortic arch, which forms the aortic arch between the left common carotid and left subclavian arteries"
+        },
+        {
+          "label": "E",
+          "text": "Right sixth aortic arch, whose distal segment regresses during development"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left recurrent laryngeal nerve loops under the aortic arch at the ligamentum arteriosum because the distal left sixth aortic arch persists as the ductus arteriosus, holding the nerve in place during embryonic elongation.",
+        "whyCorrect": "During embryonic development, both recurrent laryngeal nerves initially loop around the sixth aortic arches. On the left, the distal segment of the sixth arch persists as the ductus arteriosus (later the ligamentum arteriosum), so the left recurrent laryngeal nerve remains looped under the aortic arch at this location. A mass at the ligamentum arteriosum compresses this nerve, causing hoarseness.",
+        "whyWrongByChoice": {
+          "A": "The left third aortic arch forms the left common carotid artery and proximal internal carotid artery. It does not determine the course of the left recurrent laryngeal nerve.",
+          "B": "The right fourth aortic arch forms the proximal right subclavian artery. The right recurrent laryngeal nerve loops under this structure, but the question describes left-sided vocal cord paralysis.",
+          "D": "The left fourth aortic arch forms the segment of the adult aortic arch between the left common carotid and left subclavian arteries. While the nerve passes near this region, its specific anchoring point is determined by the sixth arch derivative (ductus arteriosus), not the fourth.",
+          "E": "The distal right sixth aortic arch regresses, which is why the right recurrent laryngeal nerve migrates superiorly to loop under the right subclavian artery. This explains the right nerve's course, not the left."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "recurrent laryngeal nerve",
+        "sixth aortic arch",
+        "ligamentum arteriosum",
+        "lung cancer"
+      ]
+    },
+    {
+      "id": "ae-047",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A medical student is studying the embryologic origins of the great vessels. She notes that in the adult, the left common carotid and left subclavian arteries arise as separate branches directly from the aortic arch, whereas on the right side, these vessels branch from a common brachiocephalic trunk. She traces the brachiocephalic trunk back to its embryonic origin. Which embryonic structure gives rise to the brachiocephalic trunk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right fourth aortic arch prior to its remodeling into the proximal right subclavian artery"
+        },
+        {
+          "label": "B",
+          "text": "Right dorsal aorta before its partial regression during vascular remodeling"
+        },
+        {
+          "label": "C",
+          "text": "Right third aortic arch during formation of the right common carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "Right portion of the aortic sac following its asymmetric division during outflow tract development"
+        },
+        {
+          "label": "E",
+          "text": "Truncus arteriosus prior to septation into the aortic and pulmonary outflow tracts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The brachiocephalic trunk arises from asymmetric division of the aortic sac, with the right portion forming the brachiocephalic trunk and the left portion contributing to the ascending aorta.",
+        "whyCorrect": "The aortic sac, which is the distal continuation of the truncus arteriosus at the embryonic heart's outflow, divides asymmetrically during development. The right side of the aortic sac becomes the brachiocephalic trunk, while the left side becomes the ascending aorta. This asymmetric division explains why the right common carotid and right subclavian arise from a shared trunk, while on the left they branch separately.",
+        "whyWrongByChoice": {
+          "A": "The right fourth aortic arch forms the proximal right subclavian artery, not the brachiocephalic trunk. The brachiocephalic trunk is the structure from which the right subclavian and right common carotid arteries branch.",
+          "B": "The right dorsal aorta partially regresses, with its distal segment persisting as part of the right subclavian artery. It does not form the brachiocephalic trunk.",
+          "C": "The right third aortic arch forms the right common carotid artery and proximal internal carotid artery. While the common carotid branches from the brachiocephalic trunk, the trunk itself is derived from the aortic sac.",
+          "E": "The truncus arteriosus septates into the aortic and pulmonary outflow tracts. The aortic sac is the distal continuation of the truncus arteriosus. While related, the brachiocephalic trunk specifically derives from the asymmetric division of the aortic sac, not the truncus arteriosus itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "aortic arch development",
+        "brachiocephalic trunk",
+        "aortic sac",
+        "great vessel asymmetry"
+      ]
+    },
+    {
+      "id": "ae-048",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 62-year-old man undergoes a right thyroidectomy for papillary thyroid carcinoma. Postoperatively, he has no voice changes or difficulty swallowing. The surgeon identifies and preserves the right recurrent laryngeal nerve during the procedure by locating it as it loops under a specific artery in the neck. Based on embryologic principles, this nerve loops under the right subclavian artery rather than the aortic arch because of which developmental process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistence of the left sixth aortic arch as the ductus arteriosus on the contralateral side"
+        },
+        {
+          "label": "B",
+          "text": "Formation of the brachiocephalic trunk from the right portion of the aortic sac"
+        },
+        {
+          "label": "C",
+          "text": "Fusion of the paired dorsal aortae into a single descending aorta below the fourth thoracic vertebra"
+        },
+        {
+          "label": "D",
+          "text": "Regression of the right third aortic arch leaving only the common carotid artery"
+        },
+        {
+          "label": "E",
+          "text": "Regression of the distal right sixth aortic arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The right recurrent laryngeal nerve loops under the right subclavian artery (fourth arch derivative) because the distal right sixth aortic arch regresses, allowing the nerve to shift superiorly.",
+        "whyCorrect": "During early development, both recurrent laryngeal nerves loop around the sixth aortic arches. On the right side, the distal portion of the sixth aortic arch regresses. As the embryo elongates, the right recurrent laryngeal nerve moves upward and ultimately loops around the right subclavian artery, which is a derivative of the right fourth aortic arch. This regression is the key event explaining the nerve's final position.",
+        "whyWrongByChoice": {
+          "A": "Persistence of the left sixth aortic arch as the ductus arteriosus explains the course of the left recurrent laryngeal nerve, not the right. While the two events are related aspects of sixth arch asymmetry, the specific event affecting the right nerve is regression of the right sixth arch.",
+          "B": "Formation of the brachiocephalic trunk from the aortic sac contributes to the vascular framework but does not directly determine why the right recurrent laryngeal nerve shifts from the sixth arch level to the fourth arch level.",
+          "C": "Fusion of the paired dorsal aortae into a single descending aorta occurs caudally and does not influence the position of the recurrent laryngeal nerves relative to the aortic arches.",
+          "D": "The right third aortic arch does not regress; it persists to form the right common carotid artery and proximal internal carotid artery. This is unrelated to the course of the right recurrent laryngeal nerve."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "recurrent laryngeal nerve",
+        "sixth aortic arch regression",
+        "right subclavian artery",
+        "thyroidectomy"
+      ]
+    },
+    {
+      "id": "ae-049",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 7-month-old infant with trisomy 21 presents for cardiac evaluation. Echocardiography reveals a patent ductus arteriosus connecting the pulmonary trunk to the descending aorta. The physician plans pharmacologic closure with indomethacin. An embryologist reviewing the case notes that the ductus arteriosus is derived from the distal segment of a specific embryonic vessel, while the proximal segment of this same vessel contributes to another structure. What additional structure shares this common embryonic origin with the ductus arteriosus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left common carotid artery arising from the aortic arch"
+        },
+        {
+          "label": "B",
+          "text": "Proximal left pulmonary artery branching from the pulmonary trunk"
+        },
+        {
+          "label": "C",
+          "text": "Aortic arch segment between the left common carotid and left subclavian arteries"
+        },
+        {
+          "label": "D",
+          "text": "Left subclavian artery arising directly from the aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "Proximal right pulmonary artery branching from the pulmonary trunk"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left sixth aortic arch gives rise to both the proximal left pulmonary artery (proximal segment) and the ductus arteriosus (distal segment).",
+        "whyCorrect": "The sixth aortic arches contribute to the pulmonary vasculature. On the left, the proximal segment forms the proximal left pulmonary artery while the distal segment persists as the ductus arteriosus. Both structures therefore share a common embryonic origin from the left sixth aortic arch.",
+        "whyWrongByChoice": {
+          "A": "The left common carotid artery is derived from the third aortic arch, not the sixth. It shares no common embryonic origin with the ductus arteriosus.",
+          "C": "The aortic arch segment between the left common carotid and left subclavian arteries is derived from the left fourth aortic arch, not the sixth.",
+          "D": "The left subclavian artery does not originate from any aortic arch; it is instead a branch of the aorta derived from the seventh intersegmental artery.",
+          "E": "The proximal right pulmonary artery is derived from the right sixth aortic arch. While this is the corresponding structure on the opposite side, it does not share the same specific embryonic vessel (left sixth arch) as the ductus arteriosus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "sixth aortic arch",
+        "ductus arteriosus",
+        "pulmonary artery",
+        "patent ductus arteriosus"
+      ]
+    },
+    {
+      "id": "ae-050",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "During a gross anatomy dissection, a medical student notices that the right common carotid artery branches from the brachiocephalic trunk, while the left common carotid artery arises independently from the aortic arch. The instructor asks the student to explain this asymmetry. The student correctly identifies that both common carotid arteries are derived from the same embryonic arch pair, but the difference in their adult branching pattern is best explained by which of the following developmental events?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regression of the right dorsal aorta cranial to the fourth arch, redirecting blood flow through the brachiocephalic trunk"
+        },
+        {
+          "label": "B",
+          "text": "Differential growth of the third aortic arches causing the left arch to elongate more than the right"
+        },
+        {
+          "label": "C",
+          "text": "Asymmetric division of the aortic sac, forming the brachiocephalic trunk on the right and ascending aorta on the left"
+        },
+        {
+          "label": "D",
+          "text": "Earlier regression of the right sixth aortic arch compared to the left sixth aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "Unequal contribution of neural crest cells to the right and left pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The asymmetric branching pattern of the common carotid arteries results from the asymmetric division of the aortic sac into the brachiocephalic trunk (right) and ascending aorta (left).",
+        "whyCorrect": "Both common carotid arteries derive from the third aortic arches. However, the aortic sac divides asymmetrically: the right portion becomes the brachiocephalic trunk (from which the right common carotid branches), while the left portion becomes the ascending aorta (leaving the left common carotid to arise separately from the aortic arch). This asymmetric division of the aortic sac is the key event explaining the different branching patterns.",
+        "whyWrongByChoice": {
+          "A": "While the right dorsal aorta does partially regress, this primarily affects the formation of the right subclavian artery rather than explaining why the right common carotid branches from the brachiocephalic trunk.",
+          "B": "Both third aortic arches develop symmetrically to form the common carotid arteries bilaterally. There is no differential growth of the third arches themselves.",
+          "D": "Regression of the right sixth aortic arch explains the asymmetric courses of the recurrent laryngeal nerves but does not account for the different branching patterns of the common carotid arteries.",
+          "E": "While neural crest cells contribute to the cartilage bars within pharyngeal arches, the asymmetric branching of the common carotid arteries is determined by vascular remodeling of the aortic sac, not differential neural crest cell migration."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "aortic sac",
+        "brachiocephalic trunk",
+        "common carotid artery",
+        "great vessel asymmetry"
+      ]
+    },
+    {
+      "id": "ae-051",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A newborn is diagnosed with an aberrant right subclavian artery (arteria lusoria) that arises as the last branch of the aortic arch and courses posterior to the esophagus. This anomaly occurs when the right fourth aortic arch and the right dorsal aorta cranial to the seventh intersegmental artery both regress abnormally. In normal development, the right dorsal aorta contributes to which of the following structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The brachiocephalic trunk, proximal to its bifurcation into the right common carotid and right subclavian arteries"
+        },
+        {
+          "label": "B",
+          "text": "The proximal right pulmonary artery, before it enters the right lung hilum"
+        },
+        {
+          "label": "C",
+          "text": "The distal portion of the right subclavian artery, together with the right fourth aortic arch forming the proximal portion"
+        },
+        {
+          "label": "D",
+          "text": "The ascending aorta, between the aortic valve and the origin of the brachiocephalic trunk"
+        },
+        {
+          "label": "E",
+          "text": "The descending thoracic aorta, below the level where the paired dorsal aortae normally fuse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In normal development, the cranial right dorsal aorta partially regresses, but its distal segment persists as part of the right subclavian artery, complementing the proximal portion formed by the right fourth aortic arch.",
+        "whyCorrect": "The right dorsal aorta undergoes partial regression cranially. The distal segment that persists becomes part of the right subclavian artery, while the right fourth aortic arch forms the proximal right subclavian artery. Together, these two embryonic structures compose the adult right subclavian artery. When both regress abnormally, the right subclavian must arise aberrantly from the descending aorta.",
+        "whyWrongByChoice": {
+          "A": "The brachiocephalic trunk is derived from the right portion of the aortic sac, not from the right dorsal aorta.",
+          "B": "The proximal right pulmonary artery is derived from the right sixth aortic arch, not from the right dorsal aorta.",
+          "D": "The ascending aorta is derived from the left portion of the aortic sac, not from the right dorsal aorta.",
+          "E": "The descending thoracic aorta is formed by caudal fusion of both paired dorsal aortae. The cranial right dorsal aorta contributes to the right subclavian artery, not the descending aorta."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "right dorsal aorta",
+        "right subclavian artery",
+        "aortic arch development",
+        "vascular anomaly"
+      ]
+    },
+    {
+      "id": "ae-052",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "A 35-year-old woman undergoes a parathyroidectomy for primary hyperparathyroidism. Postoperatively, she has no voice changes or difficulty swallowing. The surgeon identifies and preserves the right recurrent laryngeal nerve during the procedure by locating it as it loops under a specific artery before ascending to the larynx. The surgeon notes that this nerve supplies all intrinsic laryngeal muscles except one. Injury to this nerve during the procedure would most likely result in which clinical finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inability to tense the vocal cords during phonation due to loss of cricothyroid muscle function"
+        },
+        {
+          "label": "B",
+          "text": "Hoarseness and breathy voice quality due to paralysis of the ipsilateral vocal cord"
+        },
+        {
+          "label": "C",
+          "text": "Dysphagia from paralysis of the pharyngeal constrictor muscles innervated by this nerve"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral vocal cord paralysis with acute airway obstruction requiring emergent intubation"
+        },
+        {
+          "label": "E",
+          "text": "Loss of sensation to the supraglottic larynx with increased risk of silent aspiration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The recurrent laryngeal nerve supplies all intrinsic muscles of the larynx except the cricothyroid. Unilateral injury causes ipsilateral vocal cord paralysis resulting in hoarseness, a weak/breathy voice, and increased aspiration risk.",
+        "whyCorrect": "The recurrent laryngeal nerves are branches of the vagus nerve (CN X) that supply all intrinsic muscles of the larynx except the cricothyroid. Injury during parathyroidectomy causes ipsilateral vocal cord paralysis, manifesting as hoarseness and a breathy voice quality. The source material specifically states that injury causes hoarseness, a weak or breathy voice, and an increased risk of aspiration.",
+        "whyWrongByChoice": {
+          "A": "The cricothyroid muscle is the one intrinsic laryngeal muscle NOT innervated by the recurrent laryngeal nerve. It is innervated by the external branch of the superior laryngeal nerve. Recurrent laryngeal nerve injury would spare cricothyroid function.",
+          "C": "The pharyngeal constrictor muscles are primarily innervated by the pharyngeal plexus (vagus and glossopharyngeal nerves), not specifically by the recurrent laryngeal nerve. Dysphagia is not the primary manifestation of recurrent laryngeal nerve injury.",
+          "D": "Bilateral vocal cord paralysis could cause airway obstruction, but the question describes a unilateral procedure (right side). Unilateral recurrent laryngeal nerve injury causes hoarseness, not complete airway obstruction.",
+          "E": "Sensation to the supraglottic larynx is provided by the internal branch of the superior laryngeal nerve, not the recurrent laryngeal nerve. Loss of supraglottic sensation is not a consequence of recurrent laryngeal nerve injury."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "recurrent laryngeal nerve",
+        "parathyroidectomy",
+        "vocal cord paralysis",
+        "laryngeal innervation"
+      ]
+    },
+    {
+      "id": "ae-053",
+      "topicId": "development-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "An embryology professor presents a diagram showing the six pairs of aortic arches and asks students to identify which pair undergoes the earliest and most complete regression, contributing no adult vascular structures. A student correctly identifies this arch and then is asked a follow-up question: given the developmental timeline of the pharyngeal apparatus during weeks 4-5, which of the following correctly pairs this non-contributing arch with an arch that produces a transient structure that also fully regresses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Third arch (no adult derivative) paired with first arch (maxillary artery contribution)"
+        },
+        {
+          "label": "B",
+          "text": "Fourth arch (no adult derivative) paired with sixth arch (ductus arteriosus)"
+        },
+        {
+          "label": "C",
+          "text": "Sixth arch (no adult derivative) paired with third arch (common carotid artery)"
+        },
+        {
+          "label": "D",
+          "text": "Fifth arch (no adult derivative) paired with second arch (transient stapedial artery)"
+        },
+        {
+          "label": "E",
+          "text": "First arch (no adult derivative) paired with fourth arch (aortic arch segment)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The fifth aortic arch contributes no adult structures (regresses early), and the second aortic arch produces only the transient stapedial arteries, which also fully regress during development.",
+        "whyCorrect": "The fifth pair of aortic arches is the only pair that contributes no adult vascular structures, as it regresses early in development. The second pair forms the stapedial arteries, which are transient and also regress during development. Both arches therefore produce no persistent adult vascular derivatives, making this the correct pairing.",
+        "whyWrongByChoice": {
+          "A": "The third aortic arch does form adult structures (common carotid and proximal internal carotid arteries), so it cannot be the arch with no adult derivative. The first arch also contributes to the maxillary arteries.",
+          "B": "The fourth aortic arch forms significant adult structures: the proximal right subclavian artery on the right and the aortic arch segment on the left. It is not the arch with no adult derivatives.",
+          "C": "The sixth aortic arch forms the proximal pulmonary arteries and the ductus arteriosus. It has major adult derivatives and is not the non-contributing arch.",
+          "E": "The first aortic arch does have a partial adult derivative (contributes to the maxillary arteries), so it is not the arch with no adult derivatives. Furthermore, the fourth arch produces important adult structures."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "aortic arch development",
+        "fifth aortic arch",
+        "second aortic arch",
+        "stapedial artery"
+      ]
+    },
     {
       "id": "cn-001",
       "topicId": "chd-foundations",

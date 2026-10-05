@@ -1,0 +1,2779 @@
+{
+  "categoryId": "w5s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "ch-001",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 42-year-old man presents to the emergency department with progressive dyspnea and bilateral lower extremity edema over the past 3 weeks. He reports drinking 8 to 10 beers daily for the past 7 years. On examination, jugular venous distension is noted, and auscultation reveals bibasilar crackles and an S3 heart sound. Chest x-ray shows a cardiothoracic ratio of 0.72. Coronary angiography reveals no significant stenosis. Echocardiography shows an ejection fraction of 25% with biventricular dilation and thin ventricular walls. Which of the following best describes the underlying mechanism of cardiac remodeling in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcomeres added in parallel along the short axis of myocytes, producing concentric hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Myocyte disarray with haphazard arrangement of fibers, producing asymmetric hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Sarcomeres added in series along the long axis of myocytes, producing eccentric hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous inflammation with multinucleated giant cells, producing restrictive physiology"
+        },
+        {
+          "label": "E",
+          "text": "Fibrofatty replacement of right ventricular myocardium, producing arrhythmogenic remodeling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient with heavy alcohol use has dilated cardiomyopathy (DCM), which produces eccentric hypertrophy through addition of sarcomeres in series.",
+        "whyCorrect": "In DCM, increased circulating volume stretches cardiac muscle cells, prompting sarcomeres to be added end-to-end (in series) along the long axis. This produces dilation of cardiac chambers with thin ventricular walls (eccentric hypertrophy), resulting in poor contractile function and systolic dysfunction.",
+        "whyWrongByChoice": {
+          "A": "Sarcomeres added in parallel along the short axis produces concentric hypertrophy, which is the pattern seen in pressure-overload conditions such as hypertension or aortic stenosis, not in DCM.",
+          "B": "Myocyte disarray with haphazard arrangement of fibers is the histologic hallmark of hypertrophic cardiomyopathy (HCM), not DCM.",
+          "D": "Granulomatous inflammation with multinucleated giant cells describes giant cell myocarditis, a rare cause of myocarditis that is not the mechanism of alcohol-related DCM.",
+          "E": "Fibrofatty replacement of right ventricular myocardium is characteristic of arrhythmogenic right ventricular cardiomyopathy, a distinct entity from DCM."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "pathophysiology",
+        "eccentric-hypertrophy"
+      ]
+    },
+    {
+      "id": "ch-002",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 35-year-old woman from rural Bolivia presents with progressive fatigue, dyspnea on exertion, and palpitations over the past 6 months. She recalls having a painless swelling around her right eye during childhood that resolved spontaneously. Echocardiography shows biventricular dilation with an ejection fraction of 30%. Endomyocardial biopsy reveals chronic inflammatory infiltrates and fibrosis. Which of the following is the most likely etiology of her cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackie B virus infection causing acute lymphocytic myocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary hemochromatosis causing iron-overload cardiomyopathy"
+        },
+        {
+          "label": "C",
+          "text": "Borrelia burgdorferi infection causing Lyme-associated carditis"
+        },
+        {
+          "label": "D",
+          "text": "Trypanosoma cruzi infection causing chronic parasitic cardiomyopathy"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant TTN gene mutation causing familial cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The patient from rural Latin America with childhood periorbital swelling (Romana sign) and chronic dilated cardiomyopathy has Chagas disease caused by Trypanosoma cruzi.",
+        "whyCorrect": "Chagas disease, caused by Trypanosoma cruzi and transmitted by triatomine (kissing) bugs, is the leading cause of death from parasitic infection in the Western Hemisphere. Unilateral periorbital swelling (Romana sign) is characteristic of the acute stage. Chronic cardiac disease with DCM develops years later and is the most feared complication.",
+        "whyWrongByChoice": {
+          "A": "Coxsackie B is the most common viral cause of myocarditis but typically presents with acute illness rather than a decades-long course, and the geographic and clinical history strongly suggests Chagas disease.",
+          "B": "Hereditary hemochromatosis causes iron-overload cardiomyopathy but would not explain the childhood periorbital swelling or the geographic risk factors described.",
+          "C": "Borrelia burgdorferi (Lyme disease) can cause myocarditis and conduction abnormalities but is not associated with periorbital swelling in childhood or endemic to rural Bolivia.",
+          "E": "TTN gene mutations cause familial DCM but would not account for the periorbital swelling in childhood or inflammatory infiltrates on biopsy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "chagas-disease",
+        "infectious-disease"
+      ]
+    },
+    {
+      "id": "ch-003",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 28-year-old woman who is 2 months postpartum presents with worsening dyspnea and orthopnea over the past week. She had an uncomplicated vaginal delivery. Physical examination reveals tachycardia, bibasilar crackles, and bilateral pedal edema. Echocardiography shows a dilated left ventricle with an ejection fraction of 28%. Coronary arteries are normal. In addition to standard heart failure therapy with diuretics, ACE inhibitors, and beta-blockers, which of the following is most specifically indicated for this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate cardiac transplantation evaluation"
+        },
+        {
+          "label": "B",
+          "text": "Anticoagulation therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous immunoglobulin therapy"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol septal ablation of the interventricular septum"
+        },
+        {
+          "label": "E",
+          "text": "High-dose corticosteroid pulse therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient has peripartum cardiomyopathy, which in addition to standard heart failure therapy specifically requires anticoagulation.",
+        "whyCorrect": "Peripartum cardiomyopathy is a rare form of DCM seen in late pregnancy or up to 5 months postpartum. In patients presenting with peripartum cardiomyopathy, anticoagulants are specifically indicated in addition to standard heart failure therapy (diuretics, ACE inhibitors, and beta-blockers) due to the high thrombotic risk.",
+        "whyWrongByChoice": {
+          "A": "Cardiac transplantation is reserved for refractory patients who do not respond to medical therapy; it is not the immediate next step in a newly diagnosed peripartum cardiomyopathy case.",
+          "C": "Intravenous immunoglobulin is not part of the standard management of peripartum cardiomyopathy and lacks evidence for routine use in this condition.",
+          "D": "Alcohol septal ablation is a procedure used in hypertrophic cardiomyopathy with severe outflow tract obstruction, not in dilated cardiomyopathy.",
+          "E": "High-dose corticosteroids are not indicated in peripartum cardiomyopathy and are reserved for specific inflammatory conditions like giant cell myocarditis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "peripartum-cardiomyopathy",
+        "management"
+      ]
+    },
+    {
+      "id": "ch-004",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 55-year-old man with a history of heavy alcohol use for 12 years presents with progressive exertional dyspnea and lower extremity swelling. He also has a history of liver cirrhosis. Echocardiography demonstrates biventricular dilation with an ejection fraction of 22%. He is started on appropriate heart failure medications. At a follow-up visit 6 months later, after complete alcohol cessation, repeat echocardiography shows an ejection fraction of 42% with reduced chamber dimensions. Which of the following best explains the improvement observed in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversal of direct myocardial toxic injury following removal of the offending agent"
+        },
+        {
+          "label": "B",
+          "text": "Spontaneous regression of an underlying autoimmune inflammatory process"
+        },
+        {
+          "label": "C",
+          "text": "Resolution of iron overload from concurrent hereditary hemochromatosis"
+        },
+        {
+          "label": "D",
+          "text": "Compensatory concentric hypertrophy replacing the previously dilated chambers"
+        },
+        {
+          "label": "E",
+          "text": "Development of collateral coronary circulation restoring myocardial perfusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alcohol-induced DCM can be partially or fully reversible with complete alcohol cessation because alcohol is directly toxic to myocardial cells.",
+        "whyCorrect": "Alcohol is directly toxic to myocardial cells. Alcohol toxicity of the heart can sometimes reverse with alcohol cessation, as the removal of the ongoing toxic insult allows myocardial recovery and improvement in left ventricular function.",
+        "whyWrongByChoice": {
+          "B": "There is no autoimmune inflammatory process in alcoholic cardiomyopathy; the damage is directly toxic rather than immune-mediated.",
+          "C": "Although iron overload can cause DCM, this patient's presentation is consistent with alcoholic cardiomyopathy, and the improvement correlates with alcohol cessation rather than iron removal.",
+          "D": "Concentric hypertrophy is a response to pressure overload, not the mechanism of recovery in DCM; recovery involves normalization of chamber dimensions and improved contractility.",
+          "E": "Collateral coronary circulation develops in ischemic heart disease, not in toxic cardiomyopathy; this patient has no evidence of coronary artery disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "alcoholic-cardiomyopathy",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ch-005",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 32-year-old man presents with 5 days of fever, malaise, and progressive dyspnea. He recently recovered from an upper respiratory infection 2 weeks ago. Examination reveals tachycardia, an S3 gallop, and fine bibasilar crackles. Echocardiography shows global hypokinesis with an ejection fraction of 35% and biventricular dilation. An endomyocardial biopsy is performed. Which of the following histological findings would most likely be seen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neutrophilic infiltrates with abscess formation and myocyte necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Eosinophilic infiltrates with peripheral blood eosinophilia and rash"
+        },
+        {
+          "label": "C",
+          "text": "Myocyte disarray with whorled pattern of haphazardly arranged fibers"
+        },
+        {
+          "label": "D",
+          "text": "Noncaseating granulomas with multinucleated giant cells and fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Lymphocytic infiltrates with evidence of myocardial necrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Post-viral myocarditis causing DCM characteristically shows lymphocytic infiltrates with myocardial necrosis on biopsy.",
+        "whyCorrect": "Viral myocarditis is the most common cause of infectious myocarditis and characteristically presents with lymphocytic infiltrates and myocyte necrosis on histology. This patient's recent upper respiratory infection followed by heart failure symptoms is a classic presentation of viral myocarditis leading to DCM.",
+        "whyWrongByChoice": {
+          "A": "Neutrophilic infiltrates with abscess formation are characteristic of bacterial myocarditis, which is less common and typically occurs in the setting of bacteremia rather than following an upper respiratory infection.",
+          "B": "Eosinophilic infiltrates with eosinophilia and rash suggest hypersensitivity myocarditis, often caused by drug reactions (e.g., dopamine, diuretics), not viral infection.",
+          "C": "Myocyte disarray with a whorled pattern is pathognomonic for hypertrophic cardiomyopathy, not viral myocarditis.",
+          "D": "Noncaseating granulomas suggest sarcoidosis or giant cell myocarditis, not viral myocarditis following an upper respiratory infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "myocarditis",
+        "histology"
+      ]
+    },
+    {
+      "id": "ch-006",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 60-year-old woman with metastatic breast cancer is being treated with combination chemotherapy. She presents with new-onset exertional dyspnea and pedal edema. Echocardiography reveals a dilated left ventricle with an ejection fraction of 30%, diffusely thin ventricular walls, and no valvular abnormalities. Her oncologist is concerned about drug-induced cardiomyopathy. Which of the following chemotherapy agents is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclophosphamide"
+        },
+        {
+          "label": "B",
+          "text": "Doxorubicin"
+        },
+        {
+          "label": "C",
+          "text": "Methotrexate"
+        },
+        {
+          "label": "D",
+          "text": "Cisplatin"
+        },
+        {
+          "label": "E",
+          "text": "5-Fluorouracil"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Doxorubicin is the chemotherapy drug most classically associated with dose-dependent dilated cardiomyopathy.",
+        "whyCorrect": "Doxorubicin is a well-known cause of drug-induced DCM. It is directly toxic to myocardial cells, although the exact mechanism is not well understood. The source specifically lists doxorubicin as a key drug cause of DCM.",
+        "whyWrongByChoice": {
+          "A": "Cyclophosphamide can cause cardiotoxicity but it is not the chemotherapy drug most classically associated with dilated cardiomyopathy as described in the source material.",
+          "C": "Methotrexate is not typically associated with dilated cardiomyopathy; its major toxicities involve the liver, lungs, and bone marrow.",
+          "D": "Cisplatin is associated with nephrotoxicity and ototoxicity but is not a classic cause of dilated cardiomyopathy.",
+          "E": "5-Fluorouracil can cause coronary vasospasm and ischemia but is not a classic cause of dilated cardiomyopathy with chamber dilation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "drug-toxicity",
+        "oncology"
+      ]
+    },
+    {
+      "id": "ch-007",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 45-year-old man with recently diagnosed dilated cardiomyopathy of unknown cause is being evaluated. His father and paternal uncle both died of heart failure before age 50. Genetic testing reveals a mutation in the TTN gene. Which of the following best describes the inheritance pattern most commonly associated with familial dilated cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "X-linked recessive with variable penetrance in carrier females"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive requiring homozygosity for clinical expression"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial inheritance passed exclusively through the maternal line"
+        },
+        {
+          "label": "D",
+          "text": "Polygenic inheritance with no identifiable single-gene contribution"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant with mutations in sarcomere protein genes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Familial DCM most commonly follows an autosomal dominant inheritance pattern, often involving mutations in sarcomere genes such as TTN.",
+        "whyCorrect": "Most rare inherited forms of DCM are autosomal dominant. More than 30 mutations are associated with DCM, often in sarcomere proteins. The TTN gene, which encodes the titin protein in the sarcomere, is one such commonly mutated gene. The resultant sarcomere dysfunction causes the systolic dysfunction characteristic of DCM.",
+        "whyWrongByChoice": {
+          "A": "While X-linked inheritance has been observed in some forms of DCM, it is not the most common inheritance pattern; autosomal dominant is most common.",
+          "B": "Autosomal recessive inheritance has been observed in rare cases of DCM, but autosomal dominant is the predominant pattern.",
+          "C": "Mitochondrial inheritance can cause cardiomyopathies in rare cases, but it is not the most common inheritance pattern for familial DCM.",
+          "D": "Familial DCM has identifiable single-gene mutations (e.g., TTN), and the most common pattern is autosomal dominant, not polygenic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "genetics",
+        "autosomal-dominant"
+      ]
+    },
+    {
+      "id": "ch-008",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 50-year-old woman is evaluated for progressive heart failure. She has a history of chronic alcohol use but stopped drinking 3 years ago. Echocardiography confirms DCM with an ejection fraction of 20%. Despite optimal medical therapy, her symptoms continue to worsen over the next year. She develops recurrent hospitalizations for decompensated heart failure. She is referred for advanced therapies. Which of the following is the most common cause of death in patients with dilated cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progressive renal failure secondary to chronic low cardiac output"
+        },
+        {
+          "label": "B",
+          "text": "Acute aortic dissection due to dilated cardiac chambers"
+        },
+        {
+          "label": "C",
+          "text": "Sudden arrhythmia or embolic event"
+        },
+        {
+          "label": "D",
+          "text": "Rupture of the thinned ventricular free wall"
+        },
+        {
+          "label": "E",
+          "text": "Infectious endocarditis from turbulent intracardiac blood flow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Most patients with DCM die as the result of sudden onset arrhythmia or from an embolic event.",
+        "whyCorrect": "In DCM, after diagnosis about 80% of patients live through the first year, with about 10% dying each subsequent year. Most patients die as the result of a sudden onset arrhythmia or from an embolic event.",
+        "whyWrongByChoice": {
+          "A": "While cardiorenal syndrome can develop in advanced heart failure, progressive renal failure is not cited as the most common cause of death in DCM.",
+          "B": "Aortic dissection is not associated with DCM; it is related to conditions such as hypertension, Marfan syndrome, or connective tissue disorders.",
+          "D": "Ventricular free wall rupture is a complication of acute myocardial infarction, not a typical cause of death in dilated cardiomyopathy.",
+          "E": "Infectious endocarditis is not a recognized common cause of death in DCM patients; it is more associated with valvular abnormalities or intravenous drug use."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "prognosis",
+        "complications"
+      ]
+    },
+    {
+      "id": "ch-009",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 38-year-old man presents to his primary care physician with fatigue and exertional dyspnea that has been worsening over the past 2 months. He takes no medications and denies alcohol or drug use. Family history is unremarkable. Physical examination reveals an S3 gallop and bilateral pedal edema. Echocardiography shows biventricular dilation with an ejection fraction of 28%. Coronary angiography is normal. Endomyocardial biopsy shows myocyte hypertrophy, cytoplasmic vacuolizations, and interstitial fibrosis without inflammatory infiltrates. Serum BNP is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Viral myocarditis causing acute dilated cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic cardiomyopathy with outflow tract obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Eosinophilic myocarditis from hypersensitivity drug reaction"
+        },
+        {
+          "label": "D",
+          "text": "Idiopathic dilated cardiomyopathy"
+        },
+        {
+          "label": "E",
+          "text": "Restrictive cardiomyopathy from cardiac amyloidosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The absence of inflammatory infiltrates, toxic exposures, or identifiable causes combined with nonspecific histological findings (myocyte hypertrophy, vacuolizations, fibrosis) points to idiopathic DCM.",
+        "whyCorrect": "Idiopathic DCM refers to cases where the cause is unknown. Histological findings in noninflammatory causes of DCM are often nonspecific and include myocyte hypertrophy, cytoplasmic vacuolizations, and interstitial fibrosis. The elevated BNP reflects the dilated ventricles. With no identifiable cause (no alcohol, drugs, infection, or family history), this is classified as idiopathic DCM.",
+        "whyWrongByChoice": {
+          "A": "Viral myocarditis would show lymphocytic infiltrates with myocardial necrosis on biopsy, not the noninflammatory pattern described here.",
+          "B": "Hypertrophic cardiomyopathy presents with thickened ventricular walls and preserved or small cavity size, not biventricular dilation and thin walls with low ejection fraction.",
+          "C": "Eosinophilic myocarditis would show predominant eosinophilic infiltrates on biopsy, often with peripheral eosinophilia and rash, which are absent here.",
+          "E": "Restrictive cardiomyopathy from amyloidosis would show amyloid deposits on biopsy and present with diastolic dysfunction, not biventricular dilation with systolic failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "idiopathic",
+        "histology",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "ch-010",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 44-year-old man with a history of chronic alcohol use disorder is admitted with decompensated heart failure. He is malnourished and reports eating very little over the past several months. Physical examination reveals tachycardia, warm extremities, significant bilateral lower extremity edema, and hepatomegaly. Echocardiography shows a dilated left ventricle with global hypokinesis. Laboratory studies reveal low serum albumin. The physician suspects that nutritional deficiency may be contributing to his cardiac dysfunction. Supplementation of which of the following would most directly address this nutritional contributor to his cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thiamine supplementation to treat wet beriberi-associated cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Niacin supplementation to reverse pellagra-associated cardiac dysfunction"
+        },
+        {
+          "label": "C",
+          "text": "Folate supplementation to correct megaloblastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C supplementation to address scurvy-related myocardial weakness"
+        },
+        {
+          "label": "E",
+          "text": "Iron supplementation to correct microcytic anemia impairing oxygen delivery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Thiamine (vitamin B1) deficiency causes wet beriberi, which is associated with dilated cardiomyopathy, particularly in malnourished patients with chronic alcohol use.",
+        "whyCorrect": "Thiamine deficiency, also known as wet beriberi when associated with DCM, can cause cardiac damage and lead to DCM. It is uncommon in developed countries except in malnourished people, such as those with chronic alcohol use disorder who often have poor nutritional intake.",
+        "whyWrongByChoice": {
+          "B": "Niacin deficiency causes pellagra (diarrhea, dermatitis, dementia) but is not specifically associated with dilated cardiomyopathy.",
+          "C": "Folate deficiency causes megaloblastic anemia but does not directly cause dilated cardiomyopathy; it is not the nutritional cause of wet beriberi.",
+          "D": "Vitamin C deficiency causes scurvy with bleeding gums and poor wound healing, but it is not a recognized cause of dilated cardiomyopathy.",
+          "E": "Iron deficiency causes microcytic anemia and high-output cardiac states, but iron supplementation does not address thiamine-deficiency cardiomyopathy; notably, iron overload (not deficiency) is a separate cause of DCM."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "thiamine-deficiency",
+        "wet-beriberi",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "ch-011",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 25-year-old man presents to the clinic with a 3-day history of chest pain, fever, and fatigue. He was recently started on a new medication by his psychiatrist. Physical examination reveals a diffuse erythematous rash, tachycardia, and bibasilar crackles. Laboratory studies show peripheral blood eosinophilia. Echocardiography reveals a mildly dilated left ventricle with reduced systolic function. Which of the following medications is most likely responsible for this patient's presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lithium carbonate for bipolar disorder management"
+        },
+        {
+          "label": "B",
+          "text": "Sertraline for major depressive disorder management"
+        },
+        {
+          "label": "C",
+          "text": "Bupropion for smoking cessation therapy"
+        },
+        {
+          "label": "D",
+          "text": "Buspirone for generalized anxiety disorder management"
+        },
+        {
+          "label": "E",
+          "text": "Amitriptyline for major depressive disorder management"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tricyclic antidepressants such as amitriptyline can cause eosinophilic (hypersensitivity) myocarditis and dilated cardiomyopathy.",
+        "whyCorrect": "Tricyclic antidepressants are listed as drugs that can lead to DCM. Eosinophilic myocarditis is caused by hypersensitivity reactions to medications. The triad of rash, fever, and peripheral eosinophilia alongside heart failure symptoms in a patient recently started on a tricyclic antidepressant (amitriptyline) is consistent with drug-induced hypersensitivity myocarditis leading to DCM.",
+        "whyWrongByChoice": {
+          "A": "Lithium can have cardiac effects but is not specifically listed among the drugs that commonly cause DCM or hypersensitivity myocarditis.",
+          "B": "Sertraline is an SSRI and is not among the drug classes commonly associated with DCM or eosinophilic myocarditis.",
+          "C": "Bupropion is an atypical antidepressant and is not listed among the medications commonly causing DCM.",
+          "D": "Buspirone is an anxiolytic that is not associated with myocarditis or dilated cardiomyopathy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "drug-reaction",
+        "eosinophilic-myocarditis"
+      ]
+    },
+    {
+      "id": "ch-012",
+      "topicId": "dilated-cardiomyopathy",
+      "topicName": "Dilated Cardiomyopathy",
+      "stem": "A 48-year-old man with newly diagnosed dilated cardiomyopathy of unclear etiology undergoes extensive workup. His cardiologist is deciding whether to proceed with endomyocardial biopsy. The patient has no history of alcohol use, drug exposure, recent infection, or family history of cardiac disease. His echocardiogram shows biventricular dilation with an ejection fraction of 22%. Which of the following clinical scenarios would most strongly warrant proceeding with endomyocardial biopsy in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Well-established chronic alcoholic cardiomyopathy with known etiology"
+        },
+        {
+          "label": "B",
+          "text": "Clearly documented familial cardiomyopathy with known genetic mutation"
+        },
+        {
+          "label": "C",
+          "text": "Longstanding hypertensive heart disease with gradual systolic decline"
+        },
+        {
+          "label": "D",
+          "text": "Previously confirmed viral myocarditis with stable cardiac function"
+        },
+        {
+          "label": "E",
+          "text": "Unexplained cause of new-onset heart failure requiring tissue diagnosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Myocardial biopsy is most useful and commonly performed in cases of unexplained new-onset heart failure where tissue diagnosis may guide management.",
+        "whyCorrect": "While DCM can often be diagnosed without biopsy based on clinical exam and radiographic findings (especially when there is an obvious underlying cause), myocardial biopsy is more useful and commonly performed in cases with an unexplained cause of new-onset heart failure, exactly as in this patient with no identifiable etiology.",
+        "whyWrongByChoice": {
+          "A": "In patients with an obvious underlying cause like heavy alcohol use, the diagnosis of DCM can be established without biopsy based on clinical and imaging findings.",
+          "B": "When familial cardiomyopathy is already confirmed with a known genetic mutation, biopsy adds little diagnostic value.",
+          "C": "Hypertensive heart disease with systolic decline has a clear etiology and does not require tissue biopsy for diagnosis.",
+          "D": "Previously confirmed viral myocarditis with stable function does not require repeat biopsy, as the diagnosis has already been established."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "dilated-cardiomyopathy",
+        "endomyocardial-biopsy",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "ch-013",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 62-year-old man with a 20-year history of poorly controlled hypertension presents with exertional dyspnea that has progressively worsened over 6 months. His blood pressure is 172/98 mm Hg. Echocardiography reveals a left ventricular wall thickness of 16 mm with a normal-sized left ventricular cavity and an ejection fraction of 60%. Doppler studies show impaired diastolic filling. Which of the following best describes the mechanism by which the left ventricle has adapted to this patient's chronic condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcomeres added in series along the longitudinal axis, producing eccentric hypertrophy with chamber dilation"
+        },
+        {
+          "label": "B",
+          "text": "Sarcomeres added in parallel along the short axis, producing concentric hypertrophy with decreased compliance"
+        },
+        {
+          "label": "C",
+          "text": "Myocyte disarray with fibrocollagenous tissue deposition, producing asymmetric septal thickening"
+        },
+        {
+          "label": "D",
+          "text": "Fibrofatty infiltration of the ventricular wall, producing thinning and arrhythmogenic substrate"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition between myocytes, producing restrictive filling and biventricular wall thickening"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic hypertension causes pressure overload, leading to concentric hypertrophy through parallel addition of sarcomeres, resulting in a thick, stiff, noncompliant ventricular wall.",
+        "whyCorrect": "In concentric hypertrophy from chronic hypertension, the persistently elevated LV pressure causes sarcomeres to be added parallel to one another. This leads to increased wall thickness with normal or decreased cavity size, producing a thick, stiff, noncompliant ventricular wall that does not stretch well enough to fill during diastole (diastolic dysfunction).",
+        "whyWrongByChoice": {
+          "A": "Sarcomeres added in series produce eccentric hypertrophy with chamber dilation, as seen in dilated cardiomyopathy from volume overload, not the pressure overload of hypertension.",
+          "C": "Myocyte disarray with fibrocollagenous deposition is the histological hallmark of hypertrophic cardiomyopathy (HCM), a genetic disorder, not hypertensive heart disease.",
+          "D": "Fibrofatty infiltration of the ventricular wall is characteristic of arrhythmogenic right ventricular cardiomyopathy, not hypertensive LVH.",
+          "E": "Amyloid deposition describes cardiac amyloidosis, a form of restrictive cardiomyopathy, not hypertensive concentric LVH."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "lvh",
+        "hypertension",
+        "concentric-hypertrophy",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ch-014",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 19-year-old male college basketball player collapses during practice and is found to be in ventricular fibrillation. He is successfully resuscitated. His father died suddenly at age 35 during exercise. Echocardiography reveals asymmetric septal hypertrophy with a septal thickness of 22 mm and systolic anterior motion of the mitral valve. Genetic testing reveals a mutation in the gene encoding the beta-myosin heavy chain. Which of the following inheritance patterns is most consistent with this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant with variable genetic penetrance across family members"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal recessive with complete penetrance in homozygous individuals"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant affecting males and females equally in all generations"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial inheritance with maternal transmission and heteroplasmy"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal codominant requiring both alleles for phenotypic expression"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "HCM is caused by autosomal dominant mutations in sarcomere genes with variable genetic penetrance.",
+        "whyCorrect": "60-70% of HCM cases are caused by autosomal dominant mutations in sarcomere genes, with the beta-myosin heavy chain being one of the most commonly mutated genes. There is variable genetic penetrance, so the family hereditary pattern may not appear classic for autosomal dominant disorders.",
+        "whyWrongByChoice": {
+          "B": "HCM follows autosomal dominant, not autosomal recessive, inheritance and does not require homozygosity for expression.",
+          "C": "HCM is not X-linked; it is caused by autosomal dominant mutations in sarcomere protein genes located on autosomes.",
+          "D": "Mitochondrial inheritance is not the mechanism for HCM; the causative mutations are in nuclear genes encoding sarcomere proteins.",
+          "E": "Codominant inheritance is not the pattern for HCM; a single mutant allele is sufficient for disease expression, consistent with autosomal dominant inheritance."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "genetics",
+        "autosomal-dominant",
+        "sudden-cardiac-death"
+      ]
+    },
+    {
+      "id": "ch-015",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 24-year-old woman with known hypertrophic cardiomyopathy presents for routine follow-up. She reports mild exertional dyspnea but no syncope. On auscultation, a crescendo-decrescendo systolic murmur is heard at the left sternal border. To differentiate this murmur from aortic stenosis, you ask the patient to perform the Valsalva maneuver. Which of the following best describes the expected change in her murmur and the underlying mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Murmur decreases because increased venous return dilates the outflow tract and relieves obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Murmur remains unchanged because the Valsalva maneuver does not alter dynamic outflow obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Murmur increases because decreased venous return worsens anterior motion of the mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Murmur decreases because decreased venous return reduces turbulent flow across the stenotic valve"
+        },
+        {
+          "label": "E",
+          "text": "Murmur increases because increased intrathoracic pressure directly compresses the hypertrophied septum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Valsalva maneuver decreases venous return, which in HCM worsens the outflow obstruction by allowing greater systolic anterior motion of the mitral valve, increasing the murmur.",
+        "whyCorrect": "The Valsalva maneuver reduces venous return to the heart. In HCM, decreased venous return increases the intensity of the murmur because outflow obstruction is worsened by greater anterior motion of the mitral valve. This is opposite to aortic stenosis, where decreased blood flow through the stenotic area decreases the murmur.",
+        "whyWrongByChoice": {
+          "A": "The Valsalva maneuver decreases, not increases, venous return, so there is no dilation of the outflow tract; the murmur increases, not decreases.",
+          "B": "The Valsalva maneuver does alter dynamic outflow obstruction in HCM by reducing venous return and worsening systolic anterior motion of the mitral valve.",
+          "D": "This describes the response of an aortic stenosis murmur to Valsalva, not HCM. In aortic stenosis, less blood over the stenotic area decreases the murmur.",
+          "E": "The mechanism is not direct compression of the septum by intrathoracic pressure; rather, it is decreased venous return leading to worsened mitral valve anterior motion and outflow obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "physical-examination",
+        "valsalva",
+        "murmur"
+      ]
+    },
+    {
+      "id": "ch-016",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 58-year-old woman with a 15-year history of hypertension presents with new-onset atrial fibrillation and exertional dyspnea. Her blood pressure is 160/100 mm Hg on current medications. Echocardiography shows concentric left ventricular hypertrophy with impaired diastolic relaxation and preserved ejection fraction. Her physician wants to initiate antihypertensive therapy aimed at reducing her LVH. Which of the following medications should be avoided because it may worsen left ventricular outflow obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lisinopril, an angiotensin-converting-enzyme inhibitor"
+        },
+        {
+          "label": "B",
+          "text": "Losartan, an angiotensin receptor blocker"
+        },
+        {
+          "label": "C",
+          "text": "Amlodipine, a dihydropyridine calcium channel blocker"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin, a cardiac glycoside"
+        },
+        {
+          "label": "E",
+          "text": "Hydrochlorothiazide, a thiazide diuretic"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In patients with LVH, digoxin should be avoided as it can worsen outflow obstruction.",
+        "whyCorrect": "The source states that for LVH secondary to hypertension, the recommended antihypertensive drugs are ACE inhibitors, ARBs, CCBs, or thiazide diuretics. Nitrates, beta-blockers, and digoxin should be avoided as they worsen the outflow obstruction.",
+        "whyWrongByChoice": {
+          "A": "ACE inhibitors like lisinopril are among the recommended antihypertensive drugs for LVH secondary to hypertension and can cause regression of LVH.",
+          "B": "ARBs like losartan are among the recommended antihypertensive drugs for treating hypertension-related LVH.",
+          "C": "Calcium channel blockers like amlodipine are recommended antihypertensive agents for LVH management.",
+          "E": "Thiazide diuretics like hydrochlorothiazide are among the recommended drugs for LVH secondary to hypertension."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "lvh",
+        "hypertension",
+        "pharmacology",
+        "management"
+      ]
+    },
+    {
+      "id": "ch-017",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 30-year-old man with hypertrophic cardiomyopathy and documented left ventricular outflow tract obstruction presents with progressive exertional dyspnea despite maximal medical therapy with metoprolol and verapamil. Echocardiography shows a resting outflow tract gradient of 65 mm Hg with severe asymmetric septal hypertrophy. His cardiologist recommends an interventional procedure. Which of the following procedures involves intentionally inducing a controlled myocardial infarction to reduce the obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Percutaneous coronary intervention with drug-eluting stent placement"
+        },
+        {
+          "label": "B",
+          "text": "Alcohol septal ablation with ethanol injection into a septal perforator artery"
+        },
+        {
+          "label": "C",
+          "text": "Surgical septal myomectomy with excision of hypertrophied muscle"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve replacement to eliminate systolic anterior motion"
+        },
+        {
+          "label": "E",
+          "text": "Implantable cardioverter-defibrillator placement for arrhythmia prevention"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alcohol septal ablation involves injecting ethanol into a septal perforator artery to cause a controlled myocardial infarction of the hypertrophied septum, reducing outflow obstruction.",
+        "whyCorrect": "For HCM patients with extreme septal hypertrophy and outflow tract obstruction refractory to medical therapy, alcohol septal ablation (causing a myocardial infarction of the septal muscle) can drastically improve symptoms by reducing the septal mass that obstructs the outflow tract.",
+        "whyWrongByChoice": {
+          "A": "Percutaneous coronary intervention with stenting treats coronary artery disease, not hypertrophic cardiomyopathy; it does not reduce septal hypertrophy.",
+          "C": "Surgical septal myomectomy involves cutting out the extra muscle, not inducing a myocardial infarction; while it is an alternative procedure for HCM, it does not match the description of intentionally inducing infarction.",
+          "D": "Mitral valve replacement is not the standard approach for HCM with outflow obstruction; the primary interventions target the hypertrophied septum.",
+          "E": "An implantable cardioverter-defibrillator prevents sudden cardiac death from arrhythmias but does not reduce outflow tract obstruction or address the hemodynamic problem."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "alcohol-septal-ablation",
+        "interventional-procedures"
+      ]
+    },
+    {
+      "id": "ch-018",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 22-year-old competitive swimmer is found to have left ventricular hypertrophy on a routine pre-participation ECG. He is asymptomatic and has no family history of cardiac disease. His blood pressure is 118/72 mm Hg. An echocardiogram is ordered to further evaluate. Which of the following echocardiographic findings would most strongly suggest hypertrophic cardiomyopathy rather than physiologic athlete's heart?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Symmetric mild increase in LV wall thickness with proportionally enlarged chamber"
+        },
+        {
+          "label": "B",
+          "text": "Normal diastolic function with increased stroke volume and cardiac output"
+        },
+        {
+          "label": "C",
+          "text": "Mildly dilated left ventricle with preserved ejection fraction and no valve abnormalities"
+        },
+        {
+          "label": "D",
+          "text": "Asymmetric interventricular septal thickening with systolic anterior motion of the mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Normal LV wall thickness with mildly increased right ventricular dimensions"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Asymmetric septal hypertrophy with systolic anterior motion of the mitral valve is characteristic of HCM and distinguishes it from the symmetric, proportional hypertrophy of athlete's heart.",
+        "whyCorrect": "The hypertrophy in HCM is typically asymmetric, with dominant thickening of the interventricular septum. Systolic anterior motion (SAM) of the mitral valve is a characteristic finding in HCM that causes outflow obstruction. These findings clearly distinguish HCM from athlete's heart, which shows symmetric and proportional hypertrophy.",
+        "whyWrongByChoice": {
+          "A": "Symmetric mild wall thickening with proportionally enlarged chamber is more consistent with physiologic athlete's heart than HCM.",
+          "B": "Normal diastolic function with increased stroke volume is characteristic of well-conditioned athlete's heart, not pathologic HCM.",
+          "C": "Mildly dilated LV with preserved ejection fraction and no valve abnormalities is more consistent with athlete's heart or early dilated cardiomyopathy, not HCM.",
+          "E": "Normal LV wall thickness with increased RV dimensions does not suggest HCM, which is characterized by increased LV (especially septal) wall thickness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "athletes-heart",
+        "echocardiography",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "ch-019",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 55-year-old woman with a history of chronic hypertension and LVH presents with chest pain during physical exertion. Coronary angiography reveals no significant coronary artery stenosis. Her troponin is mildly elevated. Which of the following best explains the mechanism of her ischemia in the absence of coronary artery disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary vasospasm triggered by endothelial dysfunction from chronic hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Thrombotic occlusion of a small coronary branch from a mural thrombus in the left atrium"
+        },
+        {
+          "label": "C",
+          "text": "Increased myocardial oxygen demand from hypertrophied tissue"
+        },
+        {
+          "label": "D",
+          "text": "Aortic root dilation causing ostial compression of the left main coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Pericardial effusion causing external compression of the epicardial coronary arteries"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In LVH, chest pain from ischemia results from increased oxygen demand due to greater tissue mass and compression/distortion of the microvasculature reducing oxygen delivery.",
+        "whyCorrect": "The extra tissue volume associated with LVH increases oxygen demand and causes tissue ischemia. Additionally, the increased tissue volume compresses and distorts the microvasculature, further diminishing oxygen delivery. Together these factors exacerbate the unmet oxygen demand, producing chest pain even without epicardial coronary artery disease.",
+        "whyWrongByChoice": {
+          "A": "While coronary vasospasm can cause chest pain, the source specifically attributes ischemia in LVH to increased oxygen demand and microvasculature compression, not vasospasm.",
+          "B": "Mural thrombi can occur in LVH patients, but this mechanism would typically cause a focal infarct from embolic occlusion, not the demand-supply mismatch ischemia described.",
+          "D": "Aortic root dilation with ostial compression is not a recognized mechanism of ischemia in LVH; it is more relevant to conditions like aortitis or aortic aneurysm.",
+          "E": "Pericardial effusion compressing epicardial arteries is not the mechanism of ischemia in LVH; pericardial effusion causes tamponade physiology, not supply-demand mismatch."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "lvh",
+        "myocardial-ischemia",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ch-020",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 26-year-old man with known hypertrophic cardiomyopathy is seen in clinic for exertional dyspnea and occasional presyncope during exercise. He has a crescendo-decrescendo systolic murmur that increases when he stands up from a supine position. His echocardiogram shows asymmetric septal hypertrophy and a resting LVOT gradient of 40 mm Hg. Which of the following medications is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Furosemide to reduce intravascular volume and decrease cardiac preload"
+        },
+        {
+          "label": "B",
+          "text": "Lisinopril to reduce afterload and promote regression of hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Isosorbide mononitrate to cause venodilation and reduce preload"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin to improve contractility and increase cardiac output"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol to reduce heart rate and decrease myocardial oxygen demand"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Beta-blockers like metoprolol are first-line treatment for symptomatic HCM, as they reduce heart rate, decrease oxygen demand, and allow more time for diastolic filling.",
+        "whyCorrect": "For symptomatic HCM patients with dyspnea or chest pain, the best drugs are beta-blockers or verapamil. Metoprolol (a beta-blocker) is appropriate first-line therapy as it reduces heart rate and myocardial oxygen demand while allowing more diastolic filling time.",
+        "whyWrongByChoice": {
+          "A": "Diuretics like furosemide should be used cautiously in HCM and only if there is severe volume overload, because dehydrating the patient will potentially worsen the outflow obstruction.",
+          "B": "ACE inhibitors like lisinopril are recommended for LVH secondary to hypertension, but they are not first-line for HCM, where the goal is to reduce obstruction rather than afterload.",
+          "C": "Nitrates like isosorbide mononitrate should be avoided in patients with LVH as they worsen outflow obstruction by reducing preload and ventricular volume.",
+          "D": "Digoxin should be avoided in patients with LVH/HCM as it can worsen outflow tract obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "pharmacology",
+        "beta-blocker",
+        "management"
+      ]
+    },
+    {
+      "id": "ch-021",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A pathologist examines a myocardial biopsy specimen from a 28-year-old man who died suddenly during a marathon. The specimen shows markedly hypertrophied myocytes arranged in a whorled, disorganized pattern with myocytes oriented perpendicular and oblique to each other. There is extensive intervening fibrocollagenous tissue between the myocytes. Which of the following conditions is most consistent with these histological findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic cardiomyopathy with myocyte disarray and interstitial fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Dilated cardiomyopathy with eccentric hypertrophy and vacuolated myocytes"
+        },
+        {
+          "label": "C",
+          "text": "Viral myocarditis with lymphocytic infiltrates and myocyte necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Restrictive cardiomyopathy with amyloid deposition between myocytes"
+        },
+        {
+          "label": "E",
+          "text": "Arrhythmogenic right ventricular cardiomyopathy with fibrofatty replacement"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Myocyte disarray with a whorled pattern of haphazardly arranged myocytes and interstitial fibrocollagenous tissue is the histological hallmark of HCM.",
+        "whyCorrect": "The morphologic changes in HCM characteristically comprise myocyte hypertrophy, fibrosis, and myocyte disarray. Myocyte disarray refers to a whorled pattern of haphazardly arranged myocytes, arranged not parallel but perpendicular and oblique to each other, with excessive and abnormal fibrocollagenous tissue deposits between the myocytes.",
+        "whyWrongByChoice": {
+          "B": "DCM shows myocyte hypertrophy with cytoplasmic vacuolizations and interstitial fibrosis, but myocytes are lengthened rather than disarrayed in a whorled pattern.",
+          "C": "Viral myocarditis shows lymphocytic infiltrates with myocyte necrosis, not the whorled disarray pattern described.",
+          "D": "Restrictive cardiomyopathy from amyloidosis shows amorphous eosinophilic deposits (amyloid) between myocytes, not the characteristic myocyte disarray of HCM.",
+          "E": "Arrhythmogenic right ventricular cardiomyopathy shows replacement of RV myocardium with fibrofatty tissue, not the whorled myocyte disarray described."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "histology",
+        "myocyte-disarray",
+        "pathology"
+      ]
+    },
+    {
+      "id": "ch-022",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 67-year-old man with a 25-year history of hypertension has an ECG performed during a routine visit. The ECG shows tall R waves in leads V5-V6 and deep S waves in lead V1. The sum of the S wave amplitude in V1 and the R wave amplitude in V5 is 48 mm. Inverted T waves are noted in the lateral leads. Which of the following is the most likely interpretation of these ECG findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right ventricular hypertrophy with right axis deviation"
+        },
+        {
+          "label": "B",
+          "text": "Anterior wall myocardial infarction with ST elevation"
+        },
+        {
+          "label": "C",
+          "text": "Left bundle branch block with secondary repolarization changes"
+        },
+        {
+          "label": "D",
+          "text": "Wolff-Parkinson-White syndrome with delta wave formation"
+        },
+        {
+          "label": "E",
+          "text": "Left ventricular hypertrophy with repolarization abnormalities"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "High voltage in lateral leads (V5-V6) with a sum of S in V1 plus R in V5/V6 exceeding 35 mm, along with T-wave inversions, is the classic ECG pattern of LVH.",
+        "whyCorrect": "Most patients with LVH show ECG changes of high voltage in the lateral leads (I, V5-V6). A common criterion for LVH is adding the S amplitude in V1 to the R amplitude in V5 or V6; if more than 35 mm, LVH is present. At 48 mm, this clearly meets criteria. The inverted T waves in lateral leads are typical repolarization abnormalities seen with LVH.",
+        "whyWrongByChoice": {
+          "A": "Right ventricular hypertrophy shows tall R waves in right precordial leads (V1-V2) and right axis deviation, not the left-sided voltage pattern described.",
+          "B": "Anterior wall MI shows ST elevation or pathologic Q waves in anterior leads, not the high-voltage pattern with T-wave inversions in lateral leads.",
+          "C": "Left bundle branch block shows wide QRS complexes with characteristic morphology, not simply high-voltage R and S waves meeting LVH voltage criteria.",
+          "D": "Wolff-Parkinson-White syndrome shows a short PR interval and delta waves, which are not described in this ECG."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "lvh",
+        "ecg",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "ch-023",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 21-year-old woman with known hypertrophic cardiomyopathy presents to her cardiologist with worsening exertional dyspnea. On auscultation, a crescendo-decrescendo systolic murmur is heard. When the patient squats, the murmur intensity decreases. Which of the following best explains why squatting diminishes the murmur in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squatting decreases systemic vascular resistance, reducing the pressure gradient across the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Squatting increases venous return, which better fills the ventricle and relieves outflow tract obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Squatting compresses the abdominal aorta, reducing afterload and decreasing turbulent flow"
+        },
+        {
+          "label": "D",
+          "text": "Squatting increases intrathoracic pressure, reducing left ventricular preload and contractility"
+        },
+        {
+          "label": "E",
+          "text": "Squatting activates the parasympathetic nervous system, slowing heart rate and reducing obstruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Squatting increases venous return to the heart, which better fills the ventricle and approximates the mitral valve, relieving some of the dynamic outflow obstruction in HCM.",
+        "whyCorrect": "Contraction of the leg muscles during squatting returns more blood to the heart. In HCM, the extra blood better approximates the mitral valve, actually relieving some of the obstruction. This in effect decreases the murmur intensity.",
+        "whyWrongByChoice": {
+          "A": "Squatting actually increases systemic vascular resistance by compressing the femoral arteries; it does not decrease SVR, and the murmur in HCM is from dynamic outflow obstruction, not a fixed aortic valve stenosis.",
+          "C": "While squatting may increase afterload, the decrease in HCM murmur is due to increased venous return filling the ventricle and relieving obstruction, not aortic compression.",
+          "D": "Squatting does not significantly increase intrathoracic pressure like the Valsalva maneuver; it increases venous return, which is the opposite effect.",
+          "E": "The primary mechanism is hemodynamic (increased venous return), not a parasympathetic reflex reducing heart rate."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "physical-examination",
+        "squatting",
+        "murmur"
+      ]
+    },
+    {
+      "id": "ch-024",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 45-year-old woman with severe aortic stenosis presents with progressive dyspnea and chest pain on exertion. Echocardiography shows a heavily calcified aortic valve with a peak gradient of 70 mm Hg and an aortic valve area of 0.7 cm squared. The left ventricular wall thickness is 15 mm with a normal cavity size and preserved ejection fraction. Which of the following types of heart failure is this patient most likely to develop as her condition progresses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systolic heart failure with reduced ejection fraction from sarcomere loss"
+        },
+        {
+          "label": "B",
+          "text": "High-output heart failure from increased metabolic demand of hypertrophied muscle"
+        },
+        {
+          "label": "C",
+          "text": "Diastolic heart failure with reduced end-diastolic volume from impaired ventricular filling"
+        },
+        {
+          "label": "D",
+          "text": "Right-sided heart failure from pulmonary hypertension caused by mitral valve prolapse"
+        },
+        {
+          "label": "E",
+          "text": "Obstructive heart failure from complete occlusion of the aortic valve orifice"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Aortic stenosis causes LVH through concentric hypertrophy, leading to a stiff, noncompliant ventricle with impaired diastolic filling and diastolic heart failure.",
+        "whyCorrect": "As the ventricular chamber size decreases due to wall thickening from concentric hypertrophy, the smaller LV cavity leads to reduced end-diastolic volume and resultant stroke volume, leading to decreased cardiac output. This is diastolic dysfunction, where the reduction in output stems from ineffective filling during diastole, not from ineffective contraction during systole.",
+        "whyWrongByChoice": {
+          "A": "Systolic heart failure with reduced EF is characteristic of dilated cardiomyopathy, not the concentric hypertrophy pattern from aortic stenosis, where the primary dysfunction is diastolic.",
+          "B": "High-output heart failure occurs in conditions like anemia, thyrotoxicosis, or arteriovenous fistulas, not in the setting of pressure-overload LVH from aortic stenosis.",
+          "D": "While pulmonary hypertension can eventually develop from longstanding left heart failure, mitral valve prolapse is not the mechanism in aortic stenosis-induced LVH.",
+          "E": "Complete occlusion of the aortic valve orifice is not how aortic stenosis progresses; the valve remains patent but severely stenotic, and heart failure results from the myocardial consequences of chronic pressure overload."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "lvh",
+        "aortic-stenosis",
+        "diastolic-dysfunction",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ch-025",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 34-year-old man with hypertrophic cardiomyopathy and documented left ventricular outflow tract obstruction is evaluated for worsening symptoms despite beta-blocker therapy. Echocardiography shows systolic anterior motion of the mitral valve with a posteriorly directed regurgitant jet. Which of the following best explains why mitral regurgitation develops in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic inflammation causing fibrosis and retraction of the mitral valve leaflets"
+        },
+        {
+          "label": "B",
+          "text": "Myxomatous degeneration of the mitral valve leaflets with prolapse into the left atrium"
+        },
+        {
+          "label": "C",
+          "text": "Papillary muscle rupture from acute ischemia causing flail mitral valve leaflet"
+        },
+        {
+          "label": "D",
+          "text": "Abnormal anterior motion of the mitral valve preventing appropriate valve closure during systole"
+        },
+        {
+          "label": "E",
+          "text": "Dilation of the mitral valve annulus from progressive left ventricular chamber enlargement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In HCM, systolic anterior motion of the mitral valve impairs valve closure, causing blood to pass backward through the incompletely closed valve during systole, resulting in mitral regurgitation.",
+        "whyCorrect": "The hypertrophy in HCM can distort the mitral valve. During systole, the mitral valve moves anteriorly (SAM), impinging on the outflow tract. Because the valve is not appropriately closed during systole, blood also passes backward through the valve, leading to mitral regurgitation, which can lead to left atrial dilation.",
+        "whyWrongByChoice": {
+          "A": "Rheumatic valve disease causes fibrosis and commissural fusion, typically leading to mitral stenosis; it is not the mechanism in HCM.",
+          "B": "Myxomatous degeneration causes mitral valve prolapse, a distinct condition unrelated to the SAM mechanism in HCM.",
+          "C": "Papillary muscle rupture occurs as a complication of acute myocardial infarction, not as a feature of HCM.",
+          "E": "Annular dilation from chamber enlargement causes functional mitral regurgitation in dilated cardiomyopathy, not in HCM where the mechanism is SAM-related."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "mitral-regurgitation",
+        "systolic-anterior-motion",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ch-026",
+      "topicId": "lvh-hcm",
+      "topicName": "LV Hypertrophy and Hypertrophic Cardiomyopathy",
+      "stem": "A 40-year-old man with recently diagnosed hypertrophic cardiomyopathy asks about his prognosis. He has mild symptoms controlled with verapamil and has been advised to avoid competitive sports. His family history is notable for a brother who had an implantable cardioverter-defibrillator placed at age 38. The patient asks about the overall annual mortality rate for patients with HCM. Which of the following is the most accurate response regarding HCM-related mortality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overall mortality is similar to the general population at approximately 1%"
+        },
+        {
+          "label": "B",
+          "text": "Annual mortality is approximately 10%, with most deaths due to progressive systolic heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Annual mortality is approximately 5%, primarily from thromboembolic stroke"
+        },
+        {
+          "label": "D",
+          "text": "Annual mortality exceeds 15% in all patients regardless of risk stratification"
+        },
+        {
+          "label": "E",
+          "text": "Mortality is negligible with current therapies, and life expectancy is normal for all patients"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The overall mortality in HCM is similar to that of the general population (approximately 1%), although prognosis varies substantially and requires individualized risk stratification.",
+        "whyCorrect": "The overall mortality in HCM is similar to that of the general population (1%), although the prognosis varies substantially and each patient requires individualized risk stratification for sudden cardiac death as well as monitoring for heart failure and stroke risk factors.",
+        "whyWrongByChoice": {
+          "B": "An annual mortality of 10% with death from progressive systolic failure describes the prognosis of dilated cardiomyopathy, not HCM.",
+          "C": "While stroke is a recognized complication of HCM, the overall annual mortality is approximately 1%, not 5%, and thromboembolic stroke is not the primary cause of death.",
+          "D": "An annual mortality exceeding 15% greatly overestimates the mortality rate of HCM; the overall mortality is similar to the general population.",
+          "E": "While overall mortality is low, it is not negligible for all patients; some high-risk patients may experience sudden cardiac death, and individual risk stratification is essential."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "hcm",
+        "prognosis",
+        "mortality",
+        "risk-stratification"
+      ]
+    },
+    {
+      "id": "ch-027",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 58-year-old woman presents to the emergency department with progressive dyspnea on exertion and bilateral lower extremity swelling over the past 6 weeks. She has a history of breast cancer treated with lumpectomy and adjuvant radiation therapy 3 years ago. Vital signs are within normal limits. Physical examination reveals bilateral crackles at the lung bases, jugular venous distension, and 2+ pitting edema of the lower extremities. Chest X-ray shows mild pulmonary edema without cardiomegaly. Echocardiography reveals a left ventricular ejection fraction of 62%, bi-atrial enlargement, and elevated left ventricular filling pressures. Which of the following best describes the primary pathologic mechanism responsible for this patient's cardiac dysfunction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial fibrosis leading to decreased ventricular compliance and impaired diastolic filling"
+        },
+        {
+          "label": "B",
+          "text": "Eccentric hypertrophy of the ventricular wall resulting in reduced systolic contractile function"
+        },
+        {
+          "label": "C",
+          "text": "Granulomatous infiltration of the myocardium causing conduction system abnormalities"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic injury to the papillary muscles resulting in acute mitral valve regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Concentric hypertrophy of the ventricular septum causing left ventricular outflow obstruction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient's history of thoracic radiation therapy for breast cancer, combined with heart failure symptoms, normal ejection fraction, bi-atrial enlargement, and no cardiomegaly, is consistent with restrictive cardiomyopathy due to postradiation fibrosis.",
+        "whyCorrect": "Radiation therapy to the chest causes scarring and fibrosis of the ventricular myocardium, reducing compliance. The stiff ventricles cannot relax properly during diastole, leading to impaired filling, reduced end-diastolic volume, and ultimately diastolic heart failure with preserved ejection fraction.",
+        "whyWrongByChoice": {
+          "B": "Eccentric hypertrophy with reduced systolic function describes dilated cardiomyopathy. This patient has a normal ejection fraction (62%), indicating preserved systolic function, which is characteristic of RCM, not DCM.",
+          "C": "Granulomatous infiltration is seen in sarcoidosis-related RCM. While sarcoidosis is the most common infiltrative cause, this patient's history of breast cancer and radiation therapy points to postradiation fibrosis rather than granulomatous disease.",
+          "D": "Ischemic papillary muscle injury causing mitral regurgitation would present with a murmur and typically follows acute myocardial infarction. The echocardiographic findings here show diastolic dysfunction with preserved ejection fraction, not valvular pathology.",
+          "E": "Concentric hypertrophy with outflow obstruction describes hypertrophic cardiomyopathy (HCM). RCM has normal or slightly enlarged ventricular walls that are rigid, rather than asymmetric septal hypertrophy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "radiation-fibrosis",
+        "diastolic-dysfunction"
+      ]
+    },
+    {
+      "id": "ch-028",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 70-year-old man with a history of multiple myeloma presents with worsening fatigue and exertional dyspnea over 4 months. Physical examination reveals elevated jugular venous pressure, hepatomegaly, and peripheral edema. Laboratory studies show proteinuria and elevated serum creatinine. Echocardiography demonstrates bi-atrial enlargement, normal ventricular wall thickness, diastolic dysfunction, and a preserved ejection fraction. An endomyocardial biopsy is performed. Which of the following histologic findings is most likely to be identified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemosiderin-laden macrophages staining positive with Prussian blue"
+        },
+        {
+          "label": "B",
+          "text": "Congo red positive deposits demonstrating apple-green birefringence under polarized light"
+        },
+        {
+          "label": "C",
+          "text": "Noncaseating granulomas with multinucleated giant cells throughout the interstitium"
+        },
+        {
+          "label": "D",
+          "text": "Dense collagen deposition with fibroblast proliferation replacing myocytes"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic infiltration of the endocardium with overlying mural thrombi"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient with multiple myeloma, proteinuria, renal dysfunction, and features of diastolic heart failure most likely has amyloidosis causing restrictive cardiomyopathy from immunoglobulin light chain deposition.",
+        "whyCorrect": "Systemic amyloidosis causes deposition of abnormal amyloid protein in the myocardium, which is identified histologically by Congo red staining that demonstrates characteristic apple-green birefringence under polarized light. Multiple myeloma is strongly associated with AL amyloidosis from immunoglobulin light chain deposition.",
+        "whyWrongByChoice": {
+          "A": "Prussian blue-positive hemosiderin deposits are seen in hemochromatosis, which causes RCM through iron overload. Hemochromatosis typically presents with cirrhosis, diabetes mellitus, and skin hyperpigmentation, not the proteinuria and myeloma history seen here.",
+          "C": "Noncaseating granulomas with giant cells are characteristic of sarcoidosis, the most common infiltrative cause of RCM. Sarcoidosis typically presents with pulmonary symptoms, skin findings, or eye involvement, not with multiple myeloma.",
+          "D": "Dense collagen deposition with fibroblast proliferation describes fibrotic RCM, seen in conditions like postradiation fibrosis or progressive systemic sclerosis. The clinical context of multiple myeloma with proteinuria strongly favors amyloidosis.",
+          "E": "Eosinophilic infiltration with mural thrombi is characteristic of Loffler endocarditis, which occurs in tropical countries due to parasitic infections causing hypereosinophilia, not in the setting of multiple myeloma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "amyloidosis",
+        "histology",
+        "multiple-myeloma"
+      ]
+    },
+    {
+      "id": "ch-029",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 45-year-old man from sub-Saharan Africa presents with progressive abdominal distension, fatigue, and exertional dyspnea. Laboratory studies reveal marked peripheral eosinophilia. Echocardiography shows bi-ventricular diastolic dysfunction with preserved ejection fraction and large intracardiac thrombi. A peripheral blood smear confirms eosinophilia. Which of the following is the most likely underlying etiology of this patient's cardiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune-mediated fibrosis from progressive systemic sclerosis"
+        },
+        {
+          "label": "B",
+          "text": "Transthyretin deposition from hereditary systemic amyloidosis"
+        },
+        {
+          "label": "C",
+          "text": "Parasitic infection causing eosinophilic myocardial infiltration and fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Idiopathic collagen deposition within the ventricular endocardium"
+        },
+        {
+          "label": "E",
+          "text": "Iron overload from hereditary hemochromatosis causing myocyte stiffness"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This patient from a tropical region with marked eosinophilia, diastolic dysfunction, and large mural thrombi has Loffler endocarditis, a form of RCM caused by parasitic infections leading to eosinophilic myocardial infiltration.",
+        "whyCorrect": "In tropical countries, parasitic infections (e.g., Ascaris) cause a high eosinophil count. The eosinophils infiltrate the myocardium, causing fibrosis and characteristically large mural thrombi with associated stroke risk. This condition, known as Loffler endocarditis, is a common cause of RCM in tropical zones.",
+        "whyWrongByChoice": {
+          "A": "Progressive systemic sclerosis is an autoimmune disease causing extensive fibrosis in skin and multiple organs. It would not explain the marked peripheral eosinophilia or large mural thrombi characteristic of this presentation.",
+          "B": "Transthyretin amyloidosis causes protein deposition in the myocardium but does not produce eosinophilia or the large mural thrombi seen in this case. It is more common in elderly patients.",
+          "D": "Idiopathic causes are the most common cause of RCM in the United States, but this patient's tropical origin, eosinophilia, and mural thrombi strongly suggest Loffler endocarditis rather than idiopathic disease.",
+          "E": "Hemochromatosis causes iron overload with hemosiderin deposition in cardiac myocytes. It classically presents with cirrhosis, diabetes, and skin hyperpigmentation, and does not cause eosinophilia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "loffler-endocarditis",
+        "eosinophilia",
+        "tropical-medicine"
+      ]
+    },
+    {
+      "id": "ch-030",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 60-year-old man with a 10-year history of sarcoidosis presents with worsening dyspnea and chest pain. On physical examination, jugular venous pressure increases during inspiration. The physician explains to a medical student that this finding is called Kussmaul sign. Which of the following best explains the pathophysiology of this sign in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased right atrial pressure during inspiration causing increased venous return to the heart"
+        },
+        {
+          "label": "B",
+          "text": "Increased intrathoracic pressure during inspiration impeding flow from the pulmonary veins"
+        },
+        {
+          "label": "C",
+          "text": "A noncompliant right atrium fails to accommodate increased venous return during inspiration, causing venous backup"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial calcification restricts right ventricular expansion and reduces cardiac output during inspiration"
+        },
+        {
+          "label": "E",
+          "text": "Reduced left ventricular contractility during inspiration shifts the interventricular septum rightward"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Kussmaul sign is a paradoxical rise in JVP with inspiration, occurring in RCM because the stiff right atrium cannot accommodate the increased venous return that normally occurs during inspiration.",
+        "whyCorrect": "In RCM, the stiff right atrium does not allow the normal increase in venous return during inspiration. Inspiration normally causes a drop in intrathoracic pressure, drawing blood into the heart from the vena cava. However, in RCM, the noncompliant right atrium resists this return, and blood backs up, paradoxically increasing JVP.",
+        "whyWrongByChoice": {
+          "A": "This describes normal physiology. Under normal conditions, decreased right atrial pressure during inspiration does increase venous return, which actually causes a decrease in JVP, not the paradoxical increase seen in Kussmaul sign.",
+          "B": "Inspiration decreases (not increases) intrathoracic pressure. This description is physiologically inaccurate and does not explain the mechanism of Kussmaul sign in restrictive cardiomyopathy.",
+          "D": "Pericardial calcification restricting ventricular expansion describes constrictive pericarditis, not restrictive cardiomyopathy. While Kussmaul sign can be seen in both conditions, this patient has sarcoidosis-related RCM, not pericardial disease.",
+          "E": "Septal shift due to reduced left ventricular contractility does not explain Kussmaul sign. In RCM, contractility is preserved (normal ejection fraction); the problem is impaired relaxation and filling due to myocardial stiffness."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "kussmaul-sign",
+        "physical-examination",
+        "sarcoidosis"
+      ]
+    },
+    {
+      "id": "ch-031",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 55-year-old man presents with progressive fatigue and exertional dyspnea. He has a history of hereditary hemochromatosis diagnosed 5 years ago but has been nonadherent with treatment. Physical examination reveals hepatomegaly, bronze skin discoloration, and bilateral lower extremity edema. Echocardiography shows normal ventricular wall thickness, preserved ejection fraction, and diastolic dysfunction. Which of the following is the most appropriate treatment to address the underlying cause of this patient's cardiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High-dose corticosteroid therapy to reduce myocardial inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Surgical pericardiectomy to relieve external cardiac compression"
+        },
+        {
+          "label": "C",
+          "text": "Angiotensin-converting enzyme inhibitor to prevent ventricular remodeling"
+        },
+        {
+          "label": "D",
+          "text": "Phlebotomy and chelation therapy to reduce systemic iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Implantable cardioverter-defibrillator placement to prevent fatal arrhythmias"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has RCM secondary to hemochromatosis, presenting with the classic triad of cirrhosis (hepatomegaly), diabetes-related findings, and bronze skin pigmentation. Phlebotomy and chelation therapy target the underlying cause.",
+        "whyCorrect": "In hemochromatosis-related RCM, iron overload causes hemosiderin deposition in cardiac myocytes, leading to stiffness and diastolic dysfunction. Phlebotomy and chelation therapy remove excess iron, directly addressing the underlying cause. This is a specific targeted therapy for this secondary cause of RCM.",
+        "whyWrongByChoice": {
+          "A": "Corticosteroids are used for inflammatory conditions like sarcoidosis but do not address iron overload in hemochromatosis. The bronze skin, hepatomegaly, and known hemochromatosis history clearly point to iron-mediated rather than inflammatory cardiac disease.",
+          "B": "Pericardiectomy is a treatment for constrictive pericarditis, not restrictive cardiomyopathy. Although both conditions can present similarly, this patient has myocardial disease from iron deposition, not pericardial pathology.",
+          "C": "ACE inhibitors are used in systolic heart failure management but do not address the underlying iron overload causing RCM. The primary treatment must target the specific etiology of the cardiomyopathy.",
+          "E": "ICD placement is used for patients at risk of sudden cardiac death from arrhythmias, as seen in conditions like ARVC. The priority in this hemochromatosis patient is to reduce iron overload with phlebotomy and chelation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "hemochromatosis",
+        "management",
+        "chelation-therapy"
+      ]
+    },
+    {
+      "id": "ch-032",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 6-year-old girl is brought to the pediatric cardiologist after being found to have a murmur during a routine well-child visit. Echocardiography demonstrates a thickened, fibrotic endocardium with impaired diastolic function and an associated ventricular septal defect. The ventricles are small with preserved systolic function. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic cardiomyopathy with dynamic left ventricular outflow tract obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Dilated cardiomyopathy with biventricular systolic dysfunction and chamber dilation"
+        },
+        {
+          "label": "C",
+          "text": "Endocardial fibroelastosis with collagen deposition causing restrictive cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Endomyocardial fibrosis from parasitic infection-induced inflammation and fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Arrhythmogenic right ventricular cardiomyopathy with fibroadipose tissue replacement"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endocardial fibroelastosis is a primary cause of RCM involving overactivation of collagen deposition in the endocardium. It is uncommon and often seen in infants and young children in conjunction with congenital heart defects.",
+        "whyCorrect": "Endocardial fibroelastosis causes fibrotic stiffening of the endocardium through overactivation of collagen deposition. It is an uncommon condition often seen in infants and young children, frequently associated with congenital heart defects such as ventricular septal defect, matching this patient's presentation.",
+        "whyWrongByChoice": {
+          "A": "Hypertrophic cardiomyopathy features asymmetric septal hypertrophy and potential outflow tract obstruction. This patient has a thickened fibrotic endocardium with a congenital heart defect, which is characteristic of endocardial fibroelastosis, not HCM.",
+          "B": "Dilated cardiomyopathy presents with enlarged ventricles and reduced systolic function. This patient has small ventricles with preserved systolic function and endocardial fibrosis, pointing to a restrictive rather than dilated process.",
+          "D": "Endomyocardial fibrosis is a primary RCM caused by parasitic infections and nutritional deficiencies, predominantly in tropical regions. This pediatric presentation with a congenital heart defect is more consistent with endocardial fibroelastosis.",
+          "E": "ARVC involves replacement of right ventricular myocardium with fibroadipose tissue and classically presents with arrhythmias in adolescents. The endocardial fibrosis with a congenital defect in a young child does not fit ARVC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "endocardial-fibroelastosis",
+        "pediatric",
+        "congenital-heart-disease"
+      ]
+    },
+    {
+      "id": "ch-033",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 62-year-old woman with a history of progressive systemic sclerosis presents with worsening dyspnea and fatigue. She reports orthopnea and paroxysmal nocturnal dyspnea. Physical examination shows an S3 gallop, pulmonary crackles, and lower extremity edema. Echocardiography reveals normal ventricular wall thickness, bi-atrial enlargement, normal ejection fraction, and elevated filling pressures. Which of the following hemodynamic changes is most directly responsible for her heart failure symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased systemic vascular resistance causing elevated afterload on the left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Reduced end-diastolic volume due to impaired ventricular relaxation and decreased compliance"
+        },
+        {
+          "label": "C",
+          "text": "Decreased myocardial contractility resulting in systolic dysfunction and reduced ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve stenosis causing obstruction to left ventricular inflow during ventricular diastole"
+        },
+        {
+          "label": "E",
+          "text": "Increased heart rate due to autonomic dysfunction leading to shortened diastolic filling time"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Progressive systemic sclerosis causes extensive fibrosis in multiple organs including the heart, leading to RCM. The stiff ventricles have reduced compliance, leading to reduced end-diastolic volume, decreased stroke volume, and ultimately reduced cardiac output.",
+        "whyCorrect": "In RCM, the stiff ventricular myocardium cannot expand to fill normally during diastole. This leads to reduced end-diastolic volume (EDV), which reduces stroke volume (SV) and cardiac output (CO = SV x HR). The reduced cardiac output fails to meet the body's oxygen demands, producing heart failure symptoms.",
+        "whyWrongByChoice": {
+          "A": "While systemic sclerosis can affect blood vessels, the cardiac dysfunction in RCM is due to myocardial stiffness causing impaired diastolic filling, not elevated afterload from increased systemic vascular resistance.",
+          "C": "Contractility is preserved in restrictive cardiomyopathy, as evidenced by the normal ejection fraction on echocardiography. The problem is diastolic dysfunction (impaired filling), not systolic dysfunction (impaired contraction).",
+          "D": "Mitral valve stenosis is a valvular disease that can cause similar symptoms but would show characteristic echocardiographic findings of a thickened, stenotic mitral valve, which is not described here. The pathology is in the myocardium.",
+          "E": "While tachycardia can worsen diastolic filling, the primary pathology in RCM is reduced ventricular compliance, not autonomic dysfunction. The impaired relaxation is structural, not rate-related."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "hemodynamics",
+        "systemic-sclerosis",
+        "diastolic-heart-failure"
+      ]
+    },
+    {
+      "id": "ch-034",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 48-year-old woman with a history of chronic cough, bilateral hilar lymphadenopathy, and erythema nodosum now presents with new-onset exertional dyspnea and chest pain. ECG reveals conduction abnormalities. Echocardiography shows diastolic dysfunction with preserved ejection fraction and bi-atrial enlargement. An endomyocardial biopsy is performed. Which of the following histologic findings would most strongly support the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial fibrosis with dark pink myocytes separated by bands of lighter pink fibrous tissue"
+        },
+        {
+          "label": "B",
+          "text": "Acellular proteinaceous deposits between myofibers with apple-green birefringence on Congo red stain"
+        },
+        {
+          "label": "C",
+          "text": "Innumerable blue granules within myocytes on Prussian blue iron staining of the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Fibroadipose tissue replacement of the myocardium with residual islands of cardiomyocytes"
+        },
+        {
+          "label": "E",
+          "text": "Noncaseating granulomas containing multinucleated giant cells within the myocardial interstitium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This patient's chronic cough, bilateral hilar lymphadenopathy, erythema nodosum, and now cardiac involvement with diastolic dysfunction and ECG abnormalities are consistent with cardiac sarcoidosis, the most common infiltrative cause of RCM.",
+        "whyCorrect": "Sarcoidosis causes granulomatous inflammation, with collections of granulation tissue deposited by overactive macrophages. Cardiac sarcoidosis is the most common infiltrative cause of RCM, and biopsy shows noncaseating granulomas with multinucleated giant cells. Patients present with either cardiac symptoms or ECG abnormalities.",
+        "whyWrongByChoice": {
+          "A": "Interstitial fibrosis is a nonspecific finding in fibrotic RCM and can be seen in multiple types of cardiomyopathy including hypertrophic and dilated cardiomyopathy, limiting its diagnostic utility. It would not confirm the specific infiltrative cause.",
+          "B": "Congo red positive deposits with apple-green birefringence are diagnostic of amyloidosis. While amyloidosis can cause RCM, this patient's pulmonary and skin manifestations (hilar lymphadenopathy, erythema nodosum) are classic for sarcoidosis.",
+          "C": "Prussian blue-positive iron deposits indicate hemochromatosis. This patient lacks the classic triad of cirrhosis, diabetes, and bronze skin discoloration, and her systemic features are consistent with sarcoidosis.",
+          "D": "Fibroadipose tissue replacement is the hallmark of arrhythmogenic right ventricular cardiomyopathy (ARVC), not an infiltrative cause of RCM. ARVC typically presents with ventricular arrhythmias in young patients."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "sarcoidosis",
+        "histology",
+        "granuloma"
+      ]
+    },
+    {
+      "id": "ch-035",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 50-year-old man with known restrictive cardiomyopathy presents with sudden onset of right-sided weakness and slurred speech. CT angiography of the head confirms an acute ischemic stroke. Which of the following pathophysiologic mechanisms best explains this complication in the context of his underlying cardiac disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque rupture in the internal carotid artery from chronic hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Paradoxical embolism through a patent foramen ovale from deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Thrombus formation in a poorly contracting left ventricle with subsequent systemic embolization"
+        },
+        {
+          "label": "D",
+          "text": "Vasospasm of the middle cerebral artery caused by endothelial dysfunction from amyloid deposition"
+        },
+        {
+          "label": "E",
+          "text": "Hyperviscosity syndrome from elevated immunoglobulin levels causing cerebral microvascular occlusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Up to a third of patients with RCM may present with thromboembolic phenomena like strokes, as blood clots form in the poorly moving left ventricle and travel into the systemic circulation.",
+        "whyCorrect": "In RCM, the stiff, poorly moving left ventricle promotes stasis of blood, leading to thrombus formation. These clots can embolize through the systemic circulation to the brain, causing ischemic stroke. Up to one-third of RCM patients experience thromboembolic complications.",
+        "whyWrongByChoice": {
+          "A": "While atherosclerotic disease is a common cause of stroke in the general population, this patient's stroke is best explained by his underlying RCM, which predisposes to intracardiac thrombus formation and systemic embolization.",
+          "B": "Paradoxical embolism through a patent foramen ovale requires a venous thrombus crossing into the arterial circulation. In RCM, thrombi form directly in the poorly moving left ventricle, making direct embolization the more likely mechanism.",
+          "D": "Cerebral vasospasm is not a recognized complication of RCM. The thromboembolic risk in RCM is due to blood stasis in the ventricles, not vasospasm from amyloid-related endothelial dysfunction.",
+          "E": "Hyperviscosity syndrome is associated with Waldenstrom macroglobulinemia and multiple myeloma. This is not a mechanism of stroke in RCM; the embolic risk comes from intracardiac thrombus formation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "thromboembolism",
+        "stroke",
+        "complications"
+      ]
+    },
+    {
+      "id": "ch-036",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 64-year-old man presents with progressive dyspnea and lower extremity edema. Physical examination reveals an S4 heart sound, jugular venous distension with a paradoxical increase in JVP during inspiration, and hepatomegaly. Chest X-ray shows no cardiomegaly. Echocardiography reveals normal ventricular wall thickness, bi-atrial enlargement, normal ejection fraction, and elevated filling pressures. A cardiac MRI is performed and shows a V-shaped subendocardial enhancement pattern at the ventricular apex. Which of the following is the most likely underlying pathologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Granulomatous infiltration of the myocardium from systemic sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Hemosiderin deposition within cardiac myocytes from systemic iron overload"
+        },
+        {
+          "label": "C",
+          "text": "Transthyretin amyloid protein deposition throughout the ventricular myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Endocardial fibrosis causing a characteristic apical fibrotic pattern on imaging"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic infiltration from hypereosinophilic syndrome with mural thrombosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cardiac MRI showing a V-shaped subendocardial enhancement at the ventricular apex is characteristic of endocardial fibrosis, a primary cause of RCM where fibrotic tissue forms at the ventricular apex.",
+        "whyCorrect": "MRI is helpful in patients with endocardial fibrosis, which can show apical fibrosis in a letter 'V'-like shape pointing to the ventricular apex. This subendocardial enhancement pattern represents fibrosis and is a distinguishing imaging finding for endomyocardial fibrosis.",
+        "whyWrongByChoice": {
+          "A": "Sarcoidosis causes granulomatous inflammation of the myocardium but does not produce the characteristic V-shaped apical enhancement pattern seen on MRI. Sarcoidosis MRI typically shows patchy enhancement in a non-coronary distribution.",
+          "B": "Hemochromatosis causes diffuse iron deposition in cardiac myocytes, which on MRI typically shows a globally darkened myocardium on T2*-weighted sequences, not a V-shaped apical enhancement pattern.",
+          "C": "Amyloidosis causes diffuse myocardial thickening with a characteristic late gadolinium enhancement pattern that is typically global and subendocardial, not the focal V-shaped apical pattern described here.",
+          "E": "Loffler endocarditis from hypereosinophilic syndrome can involve the apex but is characterized by eosinophilic infiltration with mural thrombi, and this patient lacks the eosinophilia that would support this diagnosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "cardiac-MRI",
+        "endomyocardial-fibrosis",
+        "imaging"
+      ]
+    },
+    {
+      "id": "ch-037",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A cardiologist is teaching medical students about the gross pathologic findings in restrictive cardiomyopathy compared to other types of cardiomyopathy. She shows them a heart specimen with rigid ventricular walls of normal thickness and markedly dilated atria. Which of the following additional findings would be most consistent with this type of cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marked thinning of the left ventricular wall with four-chamber dilation and mural thrombi"
+        },
+        {
+          "label": "B",
+          "text": "Preserved systolic function on echocardiography with elevated left ventricular filling pressures"
+        },
+        {
+          "label": "C",
+          "text": "Asymmetric interventricular septal hypertrophy with systolic anterior motion of the mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Yellow fibroadipose tissue replacing the right ventricular free wall with thinning of the myocardium"
+        },
+        {
+          "label": "E",
+          "text": "Severely reduced ejection fraction with global hypokinesis on echocardiographic assessment"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In RCM, the ventricular walls are of normal thickness but rigid, with dilated atria due to chronic overfilling. Echocardiography typically shows preserved systolic function (normal ejection fraction) with diastolic dysfunction (elevated filling pressures).",
+        "whyCorrect": "RCM is characterized by normal or slightly enlarged ventricular walls that are rigid, with atrial dilation from chronic overfilling. The hallmark echocardiographic findings include normal systolic function (preserved ejection fraction), significant atrial enlargement, and diastolic dysfunction with elevated left ventricular filling pressures.",
+        "whyWrongByChoice": {
+          "A": "Thin ventricular walls with four-chamber dilation and mural thrombi describe dilated cardiomyopathy (DCM), the most common type. In RCM, ventricular walls are of normal thickness, not thinned, and the ventricles are not dilated.",
+          "C": "Asymmetric septal hypertrophy with systolic anterior motion of the mitral valve is the hallmark of hypertrophic cardiomyopathy (HCM), not RCM. RCM has normal wall thickness without the obstructive features seen in HCM.",
+          "D": "Yellow fibroadipose tissue replacing the right ventricular wall describes arrhythmogenic right ventricular cardiomyopathy (ARVC), which involves fatty and fibrous replacement of the myocardium, not the rigid but normal-thickness walls of RCM.",
+          "E": "Severely reduced ejection fraction with global hypokinesis is characteristic of dilated cardiomyopathy. In RCM, ejection fraction is preserved because contractility is not affected; the dysfunction is diastolic, not systolic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "gross-pathology",
+        "echocardiography",
+        "differential-diagnosis"
+      ]
+    },
+    {
+      "id": "ch-038",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "A 57-year-old man with recently diagnosed restrictive cardiomyopathy asks his cardiologist about prognosis and treatment options. He has moderate diastolic dysfunction on echocardiography with preserved ejection fraction and bi-atrial enlargement. He is currently experiencing dyspnea with moderate exertion and mild peripheral edema. Which of the following statements is most accurate regarding the management and prognosis of this patient's condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surgical myectomy is the definitive treatment and should be offered to all symptomatic patients"
+        },
+        {
+          "label": "B",
+          "text": "The condition is generally reversible with early initiation of angiotensin receptor blocker therapy"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac catheterization is the best initial diagnostic test and should precede echocardiography"
+        },
+        {
+          "label": "D",
+          "text": "Calcium channel blockers restore ventricular compliance and prevent disease progression long-term"
+        },
+        {
+          "label": "E",
+          "text": "The disease is generally irreversible, and diuretics can be used to manage heart failure symptoms"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Restrictive cardiomyopathy is generally irreversible, with prognosis depending on disease advancement and whether progression is preventable. Heart failure symptoms are managed with diuretics, and advanced cases may require transplantation.",
+        "whyCorrect": "RCM is generally irreversible. Management is targeted toward underlying causes and symptomatic relief. Heart failure symptoms can be managed with diuretics and other heart failure medications. Patients should be referred early for heart transplantation evaluation in advanced cases.",
+        "whyWrongByChoice": {
+          "A": "Surgical myectomy is a treatment for hypertrophic obstructive cardiomyopathy (HOCM) to relieve outflow tract obstruction, not for RCM. There is no obstructive component in RCM that would benefit from myectomy.",
+          "B": "RCM is generally irreversible regardless of medical therapy. While treatment of underlying causes may slow progression in some cases, ARBs do not reverse the structural changes of fibrosis or infiltration in the myocardium.",
+          "C": "Echocardiography, not cardiac catheterization, is the best initial diagnostic test for RCM. While endomyocardial biopsy is the gold standard, it is rarely needed to confirm the diagnosis. Catheterization may measure pressures but is not the first-line test.",
+          "D": "Calcium channel blockers do not restore ventricular compliance or prevent disease progression in RCM. The structural changes causing reduced compliance (fibrosis or infiltration) are not amenable to pharmacologic reversal with these agents."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "restrictive-cardiomyopathy",
+        "management",
+        "prognosis",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "ch-039",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 16-year-old boy collapses during a soccer game and is successfully resuscitated after being found to be in ventricular tachycardia. He reports having had two prior episodes of feeling like he was going to pass out during intense physical activity. His family history is notable for a paternal uncle who died suddenly at age 22 during a marathon. ECG shows T wave inversions in leads V1-V3 and a small positive deflection at the end of the QRS complex. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic cardiomyopathy with dynamic left ventricular outflow tract obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Arrhythmogenic right ventricular cardiomyopathy with fibroadipose myocardial replacement"
+        },
+        {
+          "label": "C",
+          "text": "Long QT syndrome with prolonged ventricular repolarization causing polymorphic ventricular tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Restrictive cardiomyopathy with impaired diastolic filling due to myocardial infiltration"
+        },
+        {
+          "label": "E",
+          "text": "Myocarditis with acute inflammatory infiltration of the myocardium and ventricular irritability"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This adolescent with exercise-induced ventricular tachycardia, syncope, family history of sudden cardiac death in a young person, T wave inversions in V1-V3, and an epsilon wave has classic features of ARVC.",
+        "whyCorrect": "ARVC classically presents in an adolescent with palpitations or syncope during exercise due to ventricular arrhythmias. The ECG shows T wave inversions in V1-V3 (present in 85% of patients) and an epsilon wave (small positive deflection at end of QRS, the most specific finding). Family history of sudden cardiac death in young people further supports the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "HCM can cause sudden cardiac death in young athletes but presents with left ventricular hypertrophy on ECG and echocardiography. The epsilon wave and T wave inversions in V1-V3 (right precordial leads) are specific for ARVC, not HCM.",
+          "C": "Long QT syndrome causes polymorphic ventricular tachycardia (torsades de pointes) but is characterized by prolonged QT interval on ECG, not epsilon waves or T wave inversions in V1-V3.",
+          "D": "Restrictive cardiomyopathy presents with diastolic heart failure symptoms (dyspnea, edema) rather than exercise-induced ventricular arrhythmias. RCM does not produce epsilon waves on ECG.",
+          "E": "Myocarditis can cause ventricular arrhythmias but typically follows a viral illness, presents acutely, and does not produce the specific ECG findings of epsilon waves. The family history of sudden death suggests an inherited condition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "sudden-cardiac-death",
+        "epsilon-wave",
+        "ventricular-tachycardia"
+      ]
+    },
+    {
+      "id": "ch-040",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 19-year-old woman is diagnosed with arrhythmogenic right ventricular cardiomyopathy after evaluation for recurrent palpitations during track practice. Genetic testing confirms a desmosomal protein mutation. Her parents are concerned about her siblings' risk. The cardiologist explains the inheritance pattern. Which of the following most accurately describes the genetic characteristics of this disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive with complete penetrance and uniform disease expressivity across carriers"
+        },
+        {
+          "label": "B",
+          "text": "X-linked dominant with variable penetrance affecting predominantly female carriers in adulthood"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant with incomplete penetrance and variable expressivity among affected individuals"
+        },
+        {
+          "label": "D",
+          "text": "Mitochondrial inheritance with maternal transmission and progressive phenotypic worsening over generations"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant with complete penetrance and consistent clinical severity across all genotype carriers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "ARVC is almost always inherited in an autosomal dominant fashion but displays both incomplete penetrance (20-35%) and variable expressivity, meaning many carriers may be asymptomatic and disease severity varies widely.",
+        "whyCorrect": "Almost all cases of ARVC are autosomal dominant. The disease has incomplete penetrance (20-35% in most populations), meaning many people with the mutation show no symptoms. It also has variable expressivity, meaning disease presentation can range from mild (little fat replacement in one ventricle) to severe (extensive replacement in both ventricles).",
+        "whyWrongByChoice": {
+          "A": "ARVC is autosomal dominant, not recessive, in almost all cases. The autosomal recessive form exists only in Naxos syndrome, a specific variant with palmoplantar keratoderma. Additionally, ARVC has incomplete (not complete) penetrance.",
+          "B": "ARVC is not X-linked. It is autosomal dominant with desmosomal protein mutations affecting genes on autosomes, not sex chromosomes. Both males and females can be affected.",
+          "D": "ARVC is not a mitochondrial disease. It results from mutations in desmosomal proteins of intercalated discs, which are encoded by nuclear DNA and inherited in an autosomal dominant pattern.",
+          "E": "While ARVC is autosomal dominant, it does not have complete penetrance. Only 20-35% of people carrying the genetic mutation phenotypically display signs or symptoms, and clinical severity varies considerably (variable expressivity)."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "genetics",
+        "autosomal-dominant",
+        "penetrance"
+      ]
+    },
+    {
+      "id": "ch-041",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 22-year-old man with known arrhythmogenic right ventricular cardiomyopathy returns for a 6-month follow-up. He has been adherent to his beta-blocker therapy and reports no syncopal episodes. However, he has noted progressive ankle swelling and abdominal distension. Physical examination reveals hepatomegaly, jugular venous distension, and 2+ pitting edema bilaterally. Which of the following best explains the progression of his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Worsening left ventricular systolic dysfunction from progressive fibroadipose replacement of the left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Progressive replacement of right ventricular muscle by fibroadipose tissue leading to right ventricular systolic failure"
+        },
+        {
+          "label": "C",
+          "text": "Development of constrictive pericarditis from chronic pericardial inflammation adjacent to the affected ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Valvular incompetence of the tricuspid valve from papillary muscle involvement causing severe regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Renal hypoperfusion from beta-blocker therapy causing fluid retention and secondary volume overload"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARVC is a slowly progressive disease in which increasing amounts of right ventricular muscle are replaced by fibroadipose tissue, eventually leading to right-sided heart failure with venous congestion.",
+        "whyCorrect": "ARVC is an irreversible, slowly progressive disease. As more fibroadipose tissue replaces right ventricular muscle, the right ventricle becomes unable to effectively pump blood from the systemic circulation to the lungs, leading to right-sided heart failure. This causes backup of blood in the venous system, manifesting as jugular venous distension, hepatomegaly, and peripheral edema.",
+        "whyWrongByChoice": {
+          "A": "While ARVC can eventually affect the left ventricle in severe cases, the right ventricle is always involved first. The symptoms described (hepatomegaly, JVD, peripheral edema) are signs of right-sided heart failure, consistent with right ventricular dysfunction.",
+          "C": "Constrictive pericarditis is a separate condition and is not a recognized complication of ARVC. The disease process in ARVC involves the myocardium, not the pericardium.",
+          "D": "Tricuspid valve papillary muscle involvement is not a typical feature of ARVC. The right-sided heart failure results from progressive loss of right ventricular contractile function due to fibroadipose replacement, not valvular disease.",
+          "E": "While beta-blockers can cause some fluid retention, the progressive nature of this patient's symptoms over months and the constellation of right heart failure findings are best explained by disease progression rather than medication side effects."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "right-heart-failure",
+        "disease-progression",
+        "heart-failure"
+      ]
+    },
+    {
+      "id": "ch-042",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A pathologist examines a heart specimen from a 25-year-old man who died suddenly during a basketball game. Gross examination reveals a thin right ventricular free wall with yellow tissue replacing the normal pink-tan myocardium. Which of the following subcellular structures is most likely affected by the genetic mutation responsible for this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sarcomeric myosin heavy chains responsible for generating contractile force within cardiomyocytes"
+        },
+        {
+          "label": "B",
+          "text": "Voltage-gated sodium channels within the cardiomyocyte membranes responsible for action potential propagation"
+        },
+        {
+          "label": "C",
+          "text": "Gap junctions at the lateral borders of cardiomyocytes responsible for electrical signal transmission"
+        },
+        {
+          "label": "D",
+          "text": "Desmosomes within the intercalated discs that hold cardiac myocytes together longitudinally"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoplasmic reticulum calcium release channels responsible for excitation-contraction coupling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ARVC is caused by mutations in desmosomal proteins within the intercalated discs that hold cardiac myocytes together longitudinally, leading to myocyte detachment and replacement by fibroadipose tissue.",
+        "whyCorrect": "The mutations in ARVC affect desmosomes that compose the intercalated discs. Intercalated discs hold heart muscle fibers (myocytes) together longitudinally. Without normal intercalated discs, myocytes split apart as each contracts away from adjacent myocytes, leading to cell death and replacement by fibroadipose tissue.",
+        "whyWrongByChoice": {
+          "A": "Sarcomeric myosin heavy chain mutations are associated with hypertrophic cardiomyopathy, not ARVC. HCM involves abnormal sarcomeric proteins leading to myocyte hypertrophy and disarray.",
+          "B": "Voltage-gated sodium channel mutations cause ion channelopathies such as Brugada syndrome and long QT syndrome type 3, not ARVC. These conditions cause arrhythmias without structural myocardial replacement.",
+          "C": "While gap junctions are part of the intercalated disc complex, the specific mutations in ARVC affect desmosomes, not gap junctions. Desmosomes provide mechanical coupling, and their disruption leads to the characteristic fibroadipose replacement.",
+          "E": "Sarcoplasmic reticulum calcium channel mutations (such as RyR2) are associated with catecholaminergic polymorphic ventricular tachycardia (CPVT), not ARVC. These do not cause structural replacement of myocardium with fat."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "desmosomes",
+        "intercalated-discs",
+        "pathology"
+      ]
+    },
+    {
+      "id": "ch-043",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 17-year-old boy is diagnosed with ARVC after an episode of syncope during a cross-country race. Genetic testing reveals a desmosomal mutation. His cardiologist discusses management with the family. In addition to a beta-blocker, which of the following lifestyle modifications is most critical for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adoption of a strict low-sodium diet to prevent fluid retention and right ventricular volume overload"
+        },
+        {
+          "label": "B",
+          "text": "Avoidance of all caffeine-containing beverages to prevent stimulation of ventricular ectopic foci"
+        },
+        {
+          "label": "C",
+          "text": "Restriction from strenuous physical activity and competitive athletics to reduce arrhythmia risk"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of a supervised cardiac rehabilitation exercise program to strengthen the right ventricle"
+        },
+        {
+          "label": "E",
+          "text": "Daily monitoring of blood pressure to detect early signs of systemic hypertension and afterload stress"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Patients with ARVC must avoid strenuous exercise because arrhythmias occur most often during vigorous physical activity and can cause sudden cardiac death.",
+        "whyCorrect": "Management of ARVC includes lifestyle changes, most critically avoidance of strenuous exercise. Since arrhythmias occur most often during strenuous exercise, patients with ARVC should not participate in competitive athletics or demanding sports. This is strongly recommended to reduce the risk of fatal arrhythmias.",
+        "whyWrongByChoice": {
+          "A": "While sodium restriction is important in heart failure management, the most critical lifestyle modification in ARVC is exercise restriction. The primary risk is sudden cardiac death from exercise-induced arrhythmias, not fluid overload.",
+          "B": "Caffeine avoidance is not a specific or critical recommendation for ARVC management. The evidence-based lifestyle modification is avoidance of strenuous exercise, which is the primary trigger for life-threatening arrhythmias in ARVC.",
+          "D": "Supervised cardiac rehabilitation with exercise is contraindicated in ARVC. Unlike post-myocardial infarction patients, ARVC patients must avoid strenuous exercise because it triggers potentially fatal ventricular arrhythmias.",
+          "E": "Daily blood pressure monitoring is not a critical component of ARVC management. ARVC is not primarily associated with hypertension; the main concern is arrhythmia prevention through exercise restriction and pharmacotherapy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "management",
+        "exercise-restriction",
+        "lifestyle-modification"
+      ]
+    },
+    {
+      "id": "ch-044",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 20-year-old woman presents with recurrent episodes of palpitations during volleyball practice. She has no family history of cardiac disease. ECG shows T wave inversions in V1-V3 and a prolonged S-wave upstroke. Echocardiography reveals a dilated, hypokinetic right ventricle with preserved left ventricular function. Cardiac MRI is ordered. Which of the following MRI findings would most strongly support the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse concentric thickening of the left ventricular wall with a speckled late gadolinium enhancement pattern"
+        },
+        {
+          "label": "B",
+          "text": "V-shaped subendocardial enhancement at the ventricular apex with left ventricular apical fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Thinning of the right ventricular wall with bright signal indicating fibrofatty infiltration of the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial thickening with calcification and a constricting effect on biventricular diastolic filling"
+        },
+        {
+          "label": "E",
+          "text": "Globally darkened myocardium on T2-weighted imaging with diffuse iron deposition throughout both ventricles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac MRI in ARVC characteristically shows thinning of the right ventricular wall with a bright signal indicating fibrofatty infiltration, confirming replacement of the myocardium with fibroadipose tissue.",
+        "whyCorrect": "Cardiac MRI in ARVC may show thinning of the RV wall and a bright signal in the RV wall due to fibrofatty infiltration. This finding, combined with the clinical presentation of exercise-induced palpitations, right precordial ECG changes, and a dilated hypokinetic right ventricle, confirms the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Diffuse concentric LV thickening with a speckled pattern suggests cardiac amyloidosis causing restrictive cardiomyopathy. ARVC predominantly affects the right ventricle, not the left, and shows fibrofatty replacement rather than amyloid infiltration.",
+          "B": "V-shaped subendocardial apical enhancement is characteristic of endomyocardial fibrosis causing restrictive cardiomyopathy, not ARVC. ARVC involves the right ventricular free wall, not the ventricular apex.",
+          "D": "Pericardial thickening with calcification is seen in constrictive pericarditis, a disease of the pericardium. ARVC is a myocardial disease affecting the right ventricle with fibroadipose replacement.",
+          "E": "A globally darkened myocardium on T2-weighted imaging suggests iron overload (hemochromatosis), which causes restrictive cardiomyopathy. ARVC shows bright signal in the RV wall from fat, not dark signal from iron."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "cardiac-MRI",
+        "imaging",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "ch-045",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 14-year-old boy is brought to the emergency department after experiencing a near-syncopal episode during a basketball game. ECG shows paroxysmal ventricular tachycardia with a left bundle branch block morphology. He has no significant past medical history, but his older brother died suddenly at age 18 during a swimming competition. Which of the following is the most likely explanation for the left bundle branch block morphology of this patient's ventricular tachycardia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The arrhythmia originates in the left ventricle and propagates across the septum to activate the right ventricle"
+        },
+        {
+          "label": "B",
+          "text": "The arrhythmia originates in the right ventricle, and the impulse must travel leftward"
+        },
+        {
+          "label": "C",
+          "text": "A congenital accessory pathway between the atria and ventricles produces pre-excitation with LBBB pattern"
+        },
+        {
+          "label": "D",
+          "text": "Fibrosis of the left bundle branch itself causes delayed left ventricular activation during sinus rhythm"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse biventricular fibrosis leads to slow conduction through both bundle branches simultaneously"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In ARVC, ventricular tachycardia characteristically has LBBB morphology because the arrhythmia originates in the diseased right ventricle. The impulse depolarizes the RV first, then travels leftward to the LV, mimicking the pattern seen in LBBB.",
+        "whyCorrect": "ARVC often presents with paroxysmal ventricular tachycardia with LBBB morphology. This is because the ectopic focus is in the right ventricle (the site of fibroadipose replacement). When an impulse originates in the RV, it must travel leftward to activate the LV, producing a pattern that resembles left bundle branch block on ECG.",
+        "whyWrongByChoice": {
+          "A": "If the arrhythmia originated in the left ventricle, it would produce a right bundle branch block (RBBB) morphology, not LBBB. In ARVC, the diseased tissue is in the right ventricle, which is where the arrhythmogenic focus lies.",
+          "C": "Accessory pathway-mediated pre-excitation (as in Wolff-Parkinson-White syndrome) causes delta waves and typically produces supraventricular tachycardia, not the ventricular tachycardia with LBBB morphology seen in ARVC.",
+          "D": "Fibrosis of the left bundle branch itself would cause LBBB during sinus rhythm, not paroxysmal ventricular tachycardia. In ARVC, the pathology is fibroadipose replacement of the right ventricular myocardium, not conduction system fibrosis.",
+          "E": "ARVC predominantly affects the right ventricle. Diffuse biventricular conduction system fibrosis is not the mechanism. The LBBB morphology specifically indicates an RV origin of the tachycardia."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "ventricular-tachycardia",
+        "LBBB-morphology",
+        "ECG"
+      ]
+    },
+    {
+      "id": "ch-046",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 23-year-old man of Greek descent is referred to cardiology after an incidental finding of T wave inversions in V1-V3 on a pre-employment ECG. Physical examination reveals thickened, scaly skin on the palms and soles bilaterally. Family history reveals that his parents are second cousins and that a sibling has similar skin findings. Echocardiography shows a mildly dilated right ventricle with reduced systolic function. Which of the following best explains the constellation of findings in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal dominant ARVC with coincidental palmoplantar psoriasis unrelated to the cardiac findings"
+        },
+        {
+          "label": "B",
+          "text": "Naxos syndrome, an autosomal recessive form of ARVC associated with palmoplantar keratoderma"
+        },
+        {
+          "label": "C",
+          "text": "Fabry disease causing hypertrophic cardiomyopathy with characteristic angiokeratomas of the extremities"
+        },
+        {
+          "label": "D",
+          "text": "Ehlers-Danlos syndrome with connective tissue fragility affecting both the skin and cardiac structures"
+        },
+        {
+          "label": "E",
+          "text": "Systemic sarcoidosis with cutaneous granulomas and secondary restrictive cardiomyopathy involvement"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This patient of Greek descent with consanguineous parents, palmoplantar keratoderma, and right ventricular dysfunction has Naxos syndrome, an autosomal recessive form of ARVC first described on the Greek isle of Naxos.",
+        "whyCorrect": "ARVC can be inherited as part of the autosomal recessive Naxos syndrome (first described on the Greek isle of Naxos), in which the cardiac disease is accompanied by palmoplantar keratoderma. The consanguineous parents and autosomal recessive inheritance pattern, combined with the right ventricular pathology and skin findings, are classic for this syndrome.",
+        "whyWrongByChoice": {
+          "A": "While most ARVC is autosomal dominant, the combination of palmoplantar skin disease, consanguinity, and Greek heritage strongly suggests Naxos syndrome rather than coincidental findings. The skin and cardiac findings are linked by the same desmosomal protein mutation.",
+          "C": "Fabry disease is an X-linked lysosomal storage disorder causing hypertrophic cardiomyopathy, not right ventricular dilation. The skin findings in Fabry disease are angiokeratomas, not palmoplantar keratoderma.",
+          "D": "Ehlers-Danlos syndrome affects collagen, not desmosomal proteins. While it can cause skin and cardiac problems, the specific pattern of RV dysfunction with palmoplantar keratoderma and autosomal recessive inheritance is characteristic of Naxos syndrome.",
+          "E": "Sarcoidosis causes noncaseating granulomas, not keratoderma. Cardiac sarcoidosis produces restrictive cardiomyopathy, not the right ventricular fibroadipose replacement seen in ARVC."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "naxos-syndrome",
+        "genetics",
+        "palmoplantar-keratoderma"
+      ]
+    },
+    {
+      "id": "ch-047",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 30-year-old man with known ARVC has been on metoprolol for 2 years and has had no syncopal episodes. However, Holter monitoring reveals several runs of nonsustained ventricular tachycardia. His cardiologist is considering additional interventions. The patient asks about the risk of sudden cardiac death. Which of the following is the most appropriate next step in management to reduce the risk of sudden cardiac death?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increase the dose of metoprolol to maximum tolerated dose and repeat Holter monitoring in 3 months"
+        },
+        {
+          "label": "B",
+          "text": "Add an angiotensin-converting enzyme inhibitor to prevent further ventricular remodeling and arrhythmias"
+        },
+        {
+          "label": "C",
+          "text": "Initiate a supervised graded exercise program to improve cardiovascular fitness and reduce arrhythmia burden"
+        },
+        {
+          "label": "D",
+          "text": "Implantation of a cardioverter-defibrillator to terminate potentially fatal ventricular arrhythmias"
+        },
+        {
+          "label": "E",
+          "text": "Referral for urgent cardiac transplantation given the progressive nature of the underlying disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In ARVC patients with ongoing ventricular arrhythmias despite beta-blocker therapy, an implantable cardioverter-defibrillator (ICD) is indicated to prevent sudden cardiac death from fatal ventricular arrhythmias.",
+        "whyCorrect": "Some ARVC patients need a defibrillator to prevent sudden cardiac death, particularly those with recurrent ventricular arrhythmias despite beta-blocker therapy. An ICD can detect and terminate life-threatening ventricular tachycardia or fibrillation, directly reducing sudden death risk.",
+        "whyWrongByChoice": {
+          "A": "While maximizing beta-blocker dosing is reasonable, this patient has breakthrough ventricular arrhythmias on therapy. Observation alone with repeat Holter monitoring does not adequately address the ongoing risk of sudden cardiac death from ventricular tachycardia.",
+          "B": "ACE inhibitors have not been shown to prevent arrhythmias in ARVC. Beta-blockers and antiarrhythmic medications are the pharmacologic agents used. ACE inhibitors target neurohormonal activation in systolic heart failure, not the arrhythmogenic substrate of ARVC.",
+          "C": "Exercise programs are contraindicated in ARVC. Patients should avoid strenuous exercise because arrhythmias occur most often during vigorous physical activity. A graded exercise program would increase, not decrease, arrhythmia risk.",
+          "E": "Heart transplantation is reserved for severe, end-stage cases of ARVC. This patient has preserved functional status with no evidence of refractory heart failure. ICD implantation is the appropriate intermediate step before considering transplantation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "ICD",
+        "management",
+        "sudden-cardiac-death"
+      ]
+    },
+    {
+      "id": "ch-048",
+      "topicId": "arvc",
+      "topicName": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "stem": "A 28-year-old woman with ARVC has developed progressive exertional dyspnea, orthopnea, and paroxysmal nocturnal dyspnea over the past year. Echocardiography reveals a severely dilated right ventricle with markedly reduced systolic function and new left ventricular wall motion abnormalities with a reduced ejection fraction of 35%. Which of the following best explains the development of left-sided heart failure symptoms in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A separate concurrent dilated cardiomyopathy process affecting the left ventricle independently of ARVC"
+        },
+        {
+          "label": "B",
+          "text": "Extension of the ARVC pathologic process to involve the left ventricle with subepicardial fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic pulmonary hypertension from right heart failure causing secondary left atrial compression"
+        },
+        {
+          "label": "D",
+          "text": "Beta-blocker induced negative inotropic effects causing acute decompensation of left ventricular function"
+        },
+        {
+          "label": "E",
+          "text": "Coronary artery spasm resulting from fibroadipose tissue compression of the left anterior descending artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In severe cases, ARVC can extend to affect the left ventricle. When the left ventricle becomes involved, there is subepicardial fibrosis (rather than the fibroadipose changes of the right ventricle), leading to left-sided heart failure.",
+        "whyCorrect": "In severe cases, ARVC can also affect the left ventricle as an extension of the right ventricular pathology. The right ventricle is always involved first. When the left ventricle becomes involved, the pathology manifests as subepicardial fibrosis, rather than the fatty or fibroadipose changes seen in the right ventricle, leading to left ventricular systolic dysfunction.",
+        "whyWrongByChoice": {
+          "A": "Left ventricular involvement in ARVC is not a separate disease process but rather an extension of the underlying ARVC pathology. The left ventricle is only affected as progression of the disease that always starts in the right ventricle.",
+          "C": "While right heart failure can cause pulmonary hypertension, the left ventricular wall motion abnormalities and reduced ejection fraction indicate direct myocardial involvement rather than hemodynamic compression. Left atrial compression would not cause reduced LV ejection fraction.",
+          "D": "Beta-blocker negative inotropic effects are mild and dose-dependent, typically causing gradual reduction in heart rate rather than acute left ventricular failure. The progressive nature over one year and wall motion abnormalities indicate structural disease extension.",
+          "E": "Coronary artery spasm from external compression by fibroadipose tissue is not a recognized mechanism in ARVC. The left ventricular involvement is due to direct extension of the pathologic process with subepicardial fibrosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "arvc",
+        "left-ventricular-involvement",
+        "disease-progression",
+        "subepicardial-fibrosis"
+      ]
+    },
+    {
+      "id": "vs-099",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 51-year-old woman presents with a 3-month history of progressive fatigue, low-grade fevers, and an unintentional 4-kg weight loss. On cardiac auscultation, a sound is heard in early diastole that changes with body position. Echocardiography reveals a pedunculated mass in the left atrium attached to the interatrial septum near the fossa ovalis. Which of the following cytokines is most likely responsible for this patient's constitutional symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interferon-gamma secreted by tumor-infiltrating cytotoxic T lymphocytes responding to tumor neoantigens"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-1 beta released from activated macrophages within the myocardial tissue adjacent to the tumor"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-6 released by the tumor cells causing systemic inflammatory and constitutional manifestations"
+        },
+        {
+          "label": "D",
+          "text": "Tumor necrosis factor-alpha produced by necrotic tumor cells undergoing ischemic degeneration centrally"
+        },
+        {
+          "label": "E",
+          "text": "Vascular endothelial growth factor secreted by the tumor promoting angiogenesis and vascular permeability"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac myxomas can cause constitutional symptoms including fatigue, fever, weight loss, malaise, arthralgias, clubbing, and Raynaud phenomenon. These are thought to result from the release of interleukin-6 (IL-6) by the tumor cells.",
+        "whyCorrect": "The constitutional symptoms of cardiac myxoma (fatigue, fever, weight loss, malaise, arthralgias, clubbing, Raynaud phenomenon) are thought to result from the release of interleukin-6 by the tumor cells. IL-6 is a pro-inflammatory cytokine that mediates the systemic inflammatory response.",
+        "whyWrongByChoice": {
+          "A": "Interferon-gamma from cytotoxic T lymphocytes is involved in cell-mediated immunity against infections and some cancers, but is not the cytokine specifically implicated in the constitutional symptoms of cardiac myxoma.",
+          "B": "IL-1 beta from activated macrophages is a pro-inflammatory cytokine, but the source described in the context of myxoma constitutional symptoms is IL-6 released specifically by the tumor cells themselves.",
+          "D": "TNF-alpha can cause constitutional symptoms in various malignancies, but the specific cytokine implicated in cardiac myxoma constitutional symptoms is IL-6 released by the myxoma cells.",
+          "E": "VEGF is indeed secreted by myxomas and promotes angiogenesis within the tumor, but it is responsible for tumor vascularization rather than the constitutional symptoms of fever, fatigue, and weight loss."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "oncology",
+        "cardiac myxoma",
+        "interleukin-6",
+        "constitutional symptoms"
+      ]
+    },
+    {
+      "id": "vs-100",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 2-week-old neonate is evaluated for poor feeding and tachypnea. Prenatal ultrasound at 22 weeks showed multiple intracardiac masses. Postnatal echocardiography confirms multiple well-circumscribed, homogeneous, hyperechogenic masses within both ventricles causing partial outflow tract obstruction. Physical examination also reveals hypopigmented macules on the trunk. Genetic testing reveals a mutation in the TSC2 gene. Which of the following proteins is encoded by this gene?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrillin-1, a structural glycoprotein essential for the formation of elastic fibers in connective tissue"
+        },
+        {
+          "label": "B",
+          "text": "Hamartin, a tumor suppressor protein that forms a complex to inhibit the mTOR signaling pathway"
+        },
+        {
+          "label": "C",
+          "text": "Merlin, a tumor suppressor protein that regulates contact inhibition and cell proliferation signaling"
+        },
+        {
+          "label": "D",
+          "text": "Neurofibromin, a GTPase-activating protein that negatively regulates the RAS-MAPK signaling cascade"
+        },
+        {
+          "label": "E",
+          "text": "Tuberin, a tumor suppressor protein that functions in a complex to regulate the mTOR pathway"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TSC2 encodes the protein tuberin, a tumor suppressor. Together with hamartin (encoded by TSC1), tuberin forms a complex that regulates the mTOR pathway. Loss of function of either protein predisposes to tumor formation in tuberous sclerosis.",
+        "whyCorrect": "TSC2 on chromosome 16 codes for the protein tuberin. Tuberin is a tumor suppressor that, along with hamartin (encoded by TSC1), functions to regulate cell growth. Loss of tuberin function predisposes to the hamartomatous tumors seen in tuberous sclerosis, including cardiac rhabdomyomas.",
+        "whyWrongByChoice": {
+          "A": "Fibrillin-1 is encoded by FBN1 and is associated with Marfan syndrome, not tuberous sclerosis; it is a structural connective tissue protein, not a tumor suppressor.",
+          "B": "Hamartin is the tumor suppressor encoded by TSC1 on chromosome 9, not TSC2; although both are involved in tuberous sclerosis, the question specifically asks about the TSC2 gene product.",
+          "C": "Merlin is encoded by the NF2 gene and is associated with neurofibromatosis type 2, not tuberous sclerosis; it regulates contact inhibition rather than the mTOR pathway.",
+          "D": "Neurofibromin is encoded by the NF1 gene and is associated with neurofibromatosis type 1, not tuberous sclerosis; it functions as a RAS-GAP rather than an mTOR pathway regulator."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "cardiology",
+        "cardiac rhabdomyoma",
+        "tuberous sclerosis",
+        "TSC2",
+        "tuberin"
+      ]
+    },
+    {
+      "id": "vs-101",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 48-year-old woman presents with episodic dizziness and near-syncope that worsen when she is lying on her left side and improve when she sits up. She also reports several weeks of low-grade fever and arthralgias. Echocardiography reveals a 4-cm pedunculated mass in the left atrium prolapsing through the mitral valve during diastole. The mass is surgically excised. Histologic examination shows sparse spindle-shaped and stellate cells with eosinophilic cytoplasm arranged in cords within an abundant lightly stained stroma. Which of the following best describes the stromal composition of this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dense type I collagen fibers with scattered fibroblasts and minimal ground substance resembling tendon tissue"
+        },
+        {
+          "label": "B",
+          "text": "Hyaline cartilage matrix with chondrocytes in lacunae surrounded by a territorial matrix of proteoglycans"
+        },
+        {
+          "label": "C",
+          "text": "Loose connective tissue rich in mucopolysaccharides such as chondroitin sulfate and hyaluronan with collagen and elastin"
+        },
+        {
+          "label": "D",
+          "text": "Mature adipose tissue interspersed with thin-walled blood vessels and scattered mast cells within fibrous septa"
+        },
+        {
+          "label": "E",
+          "text": "Sheets of uniform round cells with clear cytoplasm surrounded by a fine capillary network in a chicken-wire pattern"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is a cardiac myxoma. The myxoid stroma is composed mainly of mucopolysaccharides such as chondroitin sulfate and hyaluronan, along with connective tissue proteins such as collagen and elastin.",
+        "whyCorrect": "The 'myxoid' stroma of cardiac myxoma is composed mainly of mucopolysaccharides such as chondroitin sulfate and hyaluronan, along with connective tissue proteins such as collagen and elastin. This gelatinous connective tissue gives the tumor its characteristic appearance and name.",
+        "whyWrongByChoice": {
+          "A": "Dense type I collagen fibers with fibroblasts resembling tendon tissue describes dense regular connective tissue or fibrous tumors, not the myxoid stroma characteristic of cardiac myxoma.",
+          "B": "Hyaline cartilage matrix with chondrocytes in lacunae describes cartilaginous tissue or chondroma, not the myxoid stroma of a cardiac myxoma.",
+          "D": "Mature adipose tissue with thin-walled vessels describes a lipoma, not a myxoma; myxomas are characterized by mucopolysaccharide-rich stroma, not adipose tissue.",
+          "E": "Sheets of uniform round cells with clear cytoplasm in a chicken-wire capillary pattern describes oligodendroglioma, a central nervous system tumor, not cardiac myxoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "cardiology",
+        "cardiac myxoma",
+        "histology",
+        "myxoid stroma"
+      ]
+    },
+    {
+      "id": "vs-102",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 30-year-old man presents with recurrent episodes of transient ischemic attacks. Echocardiography shows a left atrial mass. He also has diffuse lentigines on his face and trunk, and laboratory studies show elevated cortisol levels with loss of normal diurnal variation. His mother had a similar cardiac tumor resected at age 28. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carney complex with familial cardiac myxoma, cutaneous lentigines, and adrenal cortisol-secreting tumor"
+        },
+        {
+          "label": "B",
+          "text": "Li-Fraumeni syndrome with cardiac sarcoma secondary to inherited TP53 tumor suppressor gene mutation"
+        },
+        {
+          "label": "C",
+          "text": "Multiple endocrine neoplasia type 1 with cardiac involvement and concurrent pituitary and parathyroid tumors"
+        },
+        {
+          "label": "D",
+          "text": "Sporadic cardiac myxoma with incidental hypercortisolism from an independent adrenal adenoma and lentigines"
+        },
+        {
+          "label": "E",
+          "text": "Tuberous sclerosis complex with cardiac rhabdomyoma, cortical tubers, and cutaneous hyperpigmented lesions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient has Carney complex, a familial disorder involving cardiac myxomas, cutaneous symptoms (lentigines, nevi, cutaneous myxomas), and endocrine tumors. The elevated cortisol suggests an adrenal tumor secreting cortisol leading to Cushing syndrome.",
+        "whyCorrect": "Carney complex is the best-known familial disorder associated with cardiac myxomas. It involves a constellation of cutaneous symptoms (lentigines, nevi, cutaneous myxomas) and endocrine tumors that may cause excess hormone secretion. Adrenal tumors may secrete cortisol leading to Cushing syndrome. Familial myxomas often occur in younger patients and may be multiple.",
+        "whyWrongByChoice": {
+          "B": "Li-Fraumeni syndrome involves inherited TP53 mutations and predisposes to sarcomas, breast cancer, brain tumors, and leukemia; it is not associated with cardiac myxomas, lentigines, or cortisol-secreting tumors.",
+          "C": "MEN1 involves pituitary, parathyroid, and pancreatic tumors but is not associated with cardiac myxomas or cutaneous lentigines.",
+          "D": "Sporadic cardiac myxomas account for about 95% of cases but typically occur in older patients, are solitary, and are not associated with lentigines or endocrine tumors; the familial history and young age point to Carney complex.",
+          "E": "Tuberous sclerosis is associated with cardiac rhabdomyomas (not myxomas), and its cutaneous findings include hypopigmented ash-leaf spots and facial angiofibromas, not lentigines; it does not cause cortisol-secreting tumors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "cardiology",
+        "Carney complex",
+        "cardiac myxoma",
+        "familial tumor syndrome"
+      ]
+    },
+    {
+      "id": "vs-103",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 3-month-old infant presents with poor feeding, tachypnea, and hepatomegaly. Echocardiography reveals a large intracardiac mass in the right ventricle causing significant outflow tract obstruction. The tumor appears homogeneous and hyperechogenic. Biopsy shows enlarged myocytes with clear cytoplasm. Some cells demonstrate thin cytoplasmic strands extending from central nuclei to cell membranes, giving a spider-like appearance. Which of the following best explains the clear cytoplasmic appearance of these tumor cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of intracellular lipid droplets displacing the nucleus and organelles to the cell periphery"
+        },
+        {
+          "label": "B",
+          "text": "Deposition of amyloid fibrils within the cytoplasm of the myocytes causing cellular expansion and clearing"
+        },
+        {
+          "label": "C",
+          "text": "Mucopolysaccharide accumulation within lysosomes due to a deficiency of lysosomal degradative enzymes"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular glycogen stores that wash away during routine tissue processing leaving clear cytoplasmic spaces"
+        },
+        {
+          "label": "E",
+          "text": "Swelling of mitochondria and endoplasmic reticulum due to irreversible ischemic injury to the cardiac myocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The clear cytoplasm of rhabdomyoma cells is due to large intracellular glycogen stores. During routine tissue processing, the glycogen washes away, leaving clear cytoplasmic spaces and thin cytoplasmic strands (spider cells).",
+        "whyCorrect": "On routine staining, the abnormal myocytes of rhabdomyomas are enlarged and have clear cytoplasm secondary to the presence of stored intracellular glycogen. The glycogen stores wash away on routine tissue processing and leave thin cytoplasmic strands behind, which stretch from central nuclei to cell membranes, giving the cells a spider-like appearance.",
+        "whyWrongByChoice": {
+          "A": "Intracellular lipid accumulation with peripheral nuclear displacement describes lipid-laden cells such as those in lipomas or fatty change, not the glycogen-rich myocytes of cardiac rhabdomyoma.",
+          "B": "Amyloid deposition causes cardiac amyloidosis with restrictive cardiomyopathy, not the well-circumscribed hyperechogenic ventricular masses characteristic of rhabdomyoma.",
+          "C": "Lysosomal mucopolysaccharide accumulation describes mucopolysaccharidoses (storage diseases), not the glycogen accumulation seen in rhabdomyomas that washes away during processing.",
+          "E": "Mitochondrial and ER swelling from ischemic injury represents hydropic degeneration, not the organized glycogen storage with characteristic spider cell morphology seen in rhabdomyomas."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "cardiology",
+        "cardiac rhabdomyoma",
+        "histology",
+        "spider cells",
+        "glycogen"
+      ]
+    },
+    {
+      "id": "vs-104",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 55-year-old woman with breast cancer metastatic to the lungs, liver, and bones undergoes a routine echocardiogram that reveals a mass in the right ventricle. Her oncologist suspects cardiac involvement by her known malignancy. Which of the following facts about cardiac tumors best supports the likelihood that this mass is metastatic rather than a primary cardiac tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac metastases are far more common than primary cardiac tumors"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac myxomas are the most common primary cardiac tumors and predominantly arise in the right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Primary cardiac tumors have an incidence of approximately 2% and are predominantly malignant in nature"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular masses are exclusively secondary tumors because primary cardiac tumors only occur in the atria"
+        },
+        {
+          "label": "E",
+          "text": "The majority of cardiac tumors in adults are rhabdomyomas that typically present as right-sided ventricular masses"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metastatic (secondary) cardiac tumors are far more common than primary cardiac tumors. Cardiac metastases can affect up to 10% of all patients with metastatic cancer, while primary cardiac tumors have an incidence of only approximately 0.02%.",
+        "whyCorrect": "Secondary cardiac tumors from metastases are far more common than primary cardiac tumors. Primary cardiac tumors are rare with an incidence of approximately 0.02%, while cardiac metastases can affect up to 10% of patients with metastatic cancer. Given this patient's widely metastatic breast cancer, a metastatic deposit is far more likely.",
+        "whyWrongByChoice": {
+          "B": "Cardiac myxomas predominantly arise in the left atrium (75-80%), not the right ventricle; their predilection for the left atrium near the fossa ovalis is a distinguishing feature.",
+          "C": "Primary cardiac tumors have an incidence of approximately 0.02% (not 2%), and the majority are benign, not malignant.",
+          "D": "Primary cardiac tumors can occur in any chamber, not exclusively in the atria; familial myxomas may arise in ventricles, and rhabdomyomas most frequently appear in ventricular myocardium.",
+          "E": "Rhabdomyomas are the most common cardiac tumors in infants and children, not in adults; in adults, the most common primary cardiac tumor is the myxoma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "oncology",
+        "cardiac tumors",
+        "metastatic disease",
+        "epidemiology"
+      ]
+    },
+    {
+      "id": "vs-105",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 50-year-old woman presents with progressive dyspnea, orthopnea, and an episode of syncope that occurred when she was bending forward. Echocardiography reveals a 5-cm pedunculated mass in the left atrium attached near the fossa ovalis, prolapsing intermittently through the mitral valve. She is referred for surgical management. Following successful tumor resection, which of the following statements best describes the expected clinical outcome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lifelong mTOR inhibitor therapy will be required to prevent recurrence of the tumor after surgical resection"
+        },
+        {
+          "label": "B",
+          "text": "Prognosis is generally very good with rare tumor recurrence after complete surgical resection of sporadic tumors"
+        },
+        {
+          "label": "C",
+          "text": "Radiation therapy to the mediastinum should follow surgery to eliminate any residual microscopic tumor cells"
+        },
+        {
+          "label": "D",
+          "text": "Recurrence rate exceeds 50% within the first year, necessitating scheduled surveillance with annual cardiac MRI"
+        },
+        {
+          "label": "E",
+          "text": "Systemic chemotherapy is recommended postoperatively because of the high rate of distant metastatic spread"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "For sporadic cardiac myxomas, surgical resection is the definitive treatment. The prognosis is very good, and recurrence of the tumor is rare after complete resection.",
+        "whyCorrect": "Once the diagnosis of sporadic cardiac myxoma is made and surgical resection is performed, the prognosis is generally very good and recurrence of the tumor is rare. Damaged valves or other tissues may require reconstruction, but the overall outcome is favorable.",
+        "whyWrongByChoice": {
+          "A": "mTOR inhibitors are used for symptomatic cardiac rhabdomyomas, not myxomas; myxomas are definitively treated with surgical resection without the need for adjuvant medical therapy.",
+          "C": "Radiation therapy is not part of the standard management for cardiac myxoma; these are benign tumors that are effectively treated with complete surgical resection alone.",
+          "D": "Recurrence of sporadic cardiac myxomas after complete resection is rare, not exceeding 50%; higher recurrence rates are associated with familial myxoma syndromes, not sporadic tumors.",
+          "E": "Cardiac myxomas are benign tumors that do not metastasize distally; systemic chemotherapy has no role in their management."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "oncology",
+        "cardiac myxoma",
+        "surgical management",
+        "prognosis"
+      ]
+    },
+    {
+      "id": "vs-106",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A pregnant woman undergoes a routine fetal ultrasound at 28 weeks' gestation that reveals multiple homogeneous hyperechogenic masses within the fetal cardiac ventricles. Fetal heart rate is 180/min. Amniotic fluid volume is decreased. Genetic testing of the fetus reveals a mutation in TSC1 on chromosome 9. Which of the following clinical findings would you most expect in this child if the associated genetic syndrome manifests fully after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilateral acoustic neuromas with progressive sensorineural hearing loss and cafe-au-lait spots on the trunk"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse cutaneous lentigines with pituitary adenoma causing acromegaly and multiple cardiac myxomas"
+        },
+        {
+          "label": "C",
+          "text": "Marfanoid habitus with lens subluxation, arachnodactyly, and aortic root dilation requiring prophylactic surgery"
+        },
+        {
+          "label": "D",
+          "text": "Multiple subcutaneous neurofibromas with axillary freckling and optic pathway gliomas causing visual impairment"
+        },
+        {
+          "label": "E",
+          "text": "Seizures, intellectual disabilities, and facial angiofibromas as part of the classic triad of the associated disorder"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "TSC1 mutations cause tuberous sclerosis, which is strongly associated with cardiac rhabdomyomas. The classic triad of tuberous sclerosis is seizures, intellectual disabilities, and facial angiofibromas, although this full triad is found in only a third of cases.",
+        "whyCorrect": "Approximately 80-90% of patients with rhabdomyomas have tuberous sclerosis. TSC1 on chromosome 9 codes for hamartin. The classic triad of tuberous sclerosis is seizures, intellectual disabilities, and facial angiofibromas. The fetal tachycardia and oligohydramnios are explained by reduced cardiac output from ventricular obstruction.",
+        "whyWrongByChoice": {
+          "A": "Bilateral acoustic neuromas and cafe-au-lait spots describe neurofibromatosis type 2 (NF2), caused by mutations in the NF2 gene encoding merlin, not TSC1.",
+          "B": "Cutaneous lentigines, pituitary adenomas, and multiple cardiac myxomas describe Carney complex, which is a different familial syndrome not associated with TSC1 mutations.",
+          "C": "Marfanoid habitus, lens subluxation, and aortic root dilation describe Marfan syndrome, caused by FBN1 mutations affecting fibrillin-1, not TSC1.",
+          "D": "Subcutaneous neurofibromas, axillary freckling, and optic gliomas describe neurofibromatosis type 1 (NF1), caused by mutations in the NF1 gene encoding neurofibromin, not TSC1."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "genetics",
+        "cardiology",
+        "tuberous sclerosis",
+        "cardiac rhabdomyoma",
+        "TSC1",
+        "hamartin"
+      ]
+    },
+    {
+      "id": "vs-107",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 6-month-old infant with known tuberous sclerosis is found to have multiple cardiac rhabdomyomas on echocardiography. The largest mass is 3 cm in diameter and is causing intermittent right ventricular outflow tract obstruction with episodes of cyanosis. The parents ask about treatment options. Which of the following is the most appropriate first-line therapy for this symptomatic tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac transplantation given the multiple tumor burden and high risk of malignant transformation in infancy"
+        },
+        {
+          "label": "B",
+          "text": "Combination chemotherapy with doxorubicin and cyclophosphamide to shrink the rhabdomyoma before surgical resection"
+        },
+        {
+          "label": "C",
+          "text": "Immediate open-heart surgery for complete surgical resection of all rhabdomyomas to prevent cardiac arrest"
+        },
+        {
+          "label": "D",
+          "text": "Medical therapy with an mTOR inhibitor to reduce tumor size and alleviate the obstructive symptoms first"
+        },
+        {
+          "label": "E",
+          "text": "Watchful waiting with serial echocardiographic surveillance since all rhabdomyomas spontaneously regress by age one"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For symptomatic cardiac rhabdomyomas causing arrhythmias or blood flow obstruction, first-line treatment is an mTOR inhibitor to shrink the tumor. Surgical resection is reserved for cases refractory to medical therapy.",
+        "whyCorrect": "If rhabdomyomas are large and cause arrhythmias or obstruct blood flow, first-line treatment is an mTOR inhibitor to shrink the tumor. mTOR inhibitors block the mTOR protein activity, regulating cell growth and proliferation. Surgical resection is the next step only if medical therapy is ineffective.",
+        "whyWrongByChoice": {
+          "A": "Cardiac transplantation is not first-line for rhabdomyomas; these are benign tumors that often respond to mTOR inhibitors and may spontaneously regress. Rhabdomyomas do not undergo malignant transformation.",
+          "B": "Combination chemotherapy is not used for cardiac rhabdomyomas; these are benign hamartomas, not malignant tumors requiring cytotoxic chemotherapy.",
+          "C": "Immediate surgical resection is not first-line; medical therapy with mTOR inhibitors should be tried first. Surgery is reserved for tumors refractory to medical treatment.",
+          "E": "Watchful waiting alone is inappropriate for a symptomatic tumor causing outflow tract obstruction and cyanosis; while many asymptomatic rhabdomyomas spontaneously regress, symptomatic tumors require active treatment."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "pharmacology",
+        "cardiac rhabdomyoma",
+        "mTOR inhibitor",
+        "tuberous sclerosis"
+      ]
+    },
+    {
+      "id": "vs-108",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "A 45-year-old woman undergoes echocardiography for evaluation of exertional dyspnea and is found to have a left atrial mass. Surgical excision is performed, and gross examination reveals a smooth, pedunculated mass with a layer of adherent thrombus on its surface. The tumor arises from the endocardial lining adjacent to the fossa ovalis. Microscopic examination reveals an angiogenic factor commonly secreted by this type of tumor has contributed to its highly vascularized appearance. Which of the following factors is most likely responsible for this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basic fibroblast growth factor promoting fibroblast proliferation and extracellular matrix deposition within the tumor"
+        },
+        {
+          "label": "B",
+          "text": "Epidermal growth factor stimulating epithelial cell proliferation and differentiation throughout the tumor stroma"
+        },
+        {
+          "label": "C",
+          "text": "Vascular endothelial growth factor promoting new blood vessel formation and contributing to the tumor's vascularity"
+        },
+        {
+          "label": "D",
+          "text": "Transforming growth factor-beta inducing epithelial-mesenchymal transition and promoting tumor invasiveness locally"
+        },
+        {
+          "label": "E",
+          "text": "Platelet-derived growth factor recruiting pericytes and smooth muscle cells to stabilize newly formed vessel walls"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac myxomas commonly secrete VEGF (vascular endothelial growth factor), which promotes angiogenesis and makes these tumors highly vascularized.",
+        "whyCorrect": "Myxomas commonly secrete the angiogenic factor vascular endothelial growth factor (VEGF), so these tumors tend to be highly vascularized. VEGF promotes the formation of new blood vessels within the tumor, contributing to its vascular nature.",
+        "whyWrongByChoice": {
+          "A": "Basic fibroblast growth factor promotes fibroblast proliferation but is not the specific angiogenic factor identified as commonly secreted by cardiac myxomas in the source material.",
+          "B": "Epidermal growth factor stimulates epithelial cell growth and is not the angiogenic factor specifically associated with the high vascularity of cardiac myxomas.",
+          "D": "TGF-beta is involved in multiple cellular processes including fibrosis and immune regulation, but it is not the angiogenic factor specifically implicated in the vascularity of cardiac myxomas.",
+          "E": "Platelet-derived growth factor helps stabilize blood vessels by recruiting pericytes but is not the primary angiogenic factor identified as secreted by cardiac myxomas."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathology",
+        "cardiology",
+        "cardiac myxoma",
+        "VEGF",
+        "angiogenesis"
+      ]
+    }
+  ]
+}

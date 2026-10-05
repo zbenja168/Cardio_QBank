@@ -1,0 +1,1919 @@
+{
+  "categoryId": "w4s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "cv-013",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 59-year-old man with newly diagnosed atrial fibrillation and a history of well-controlled asthma on inhaled corticosteroids is started on an antiarrhythmic drug for rate control. Two days later, he presents to the emergency department with acute-onset dyspnea and diffuse expiratory wheezing. His oxygen saturation is 88% on room air. Which of the following medications most likely precipitated this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verapamil"
+        },
+        {
+          "label": "B",
+          "text": "Propranolol"
+        },
+        {
+          "label": "C",
+          "text": "Diltiazem"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin"
+        },
+        {
+          "label": "E",
+          "text": "Adenosine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Propranolol is a nonselective beta-blocker that antagonizes beta-2 receptors in bronchial smooth muscle, causing bronchoconstriction. This can exacerbate asthma or COPD, making it a poor choice for patients with bronchospastic lung disease.",
+        "whyCorrect": "Propranolol is a nonselective beta-blocker (class II antiarrhythmic). Its beta-2 antagonism causes bronchial smooth muscle contraction, which can precipitate severe bronchospasm in patients with underlying asthma, explaining the acute dyspnea and wheezing.",
+        "whyWrongByChoice": {
+          "A": "Verapamil is a class IV calcium channel blocker that acts on L-type Ca2+ channels. Its primary adverse effects are constipation, peripheral edema, and bradycardia, not bronchoconstriction.",
+          "C": "Diltiazem is a class IV calcium channel blocker with adverse effects similar to verapamil including constipation, bradycardia, and peripheral edema. It does not cause bronchospasm.",
+          "D": "Digoxin acts by increasing vagal tone and slowing AV nodal conduction. Its toxicities include arrhythmias, confusion, nausea, and yellow halos, not bronchospasm.",
+          "E": "While adenosine can cause transient bronchospasm as an adverse effect, it is used for acute conversion of AVNRT, not for rate control of atrial fibrillation, and its effects last only 5-15 seconds."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-II",
+        "beta-blockers",
+        "propranolol",
+        "bronchospasm",
+        "asthma"
+      ]
+    },
+    {
+      "id": "cv-014",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 68-year-old man with atrial fibrillation has been on amiodarone for 10 months. He presents with progressive dyspnea on exertion, a dry nonproductive cough, and low-grade fever over the past 3 weeks. Chest X-ray demonstrates bilateral interstitial infiltrates. Pulmonary function tests show a restrictive pattern with decreased diffusion capacity. Which of the following properties of amiodarone most contributes to this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Selective blockade of the rapid component of the delayed rectifier potassium current (IKr)"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of multiple CYP enzymes including CYP3A4 and CYP2D6"
+        },
+        {
+          "label": "C",
+          "text": "High lipid solubility and long half-life leading to extensive tissue accumulation"
+        },
+        {
+          "label": "D",
+          "text": "High iodine content causing direct cytotoxic effects on type II pneumocytes"
+        },
+        {
+          "label": "E",
+          "text": "Beta-adrenergic receptor blockade causing reduced bronchial smooth muscle relaxation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Amiodarone's long half-life (25-100 days) and high lipid solubility lead to extensive tissue distribution and accumulation, which contributes to its pulmonary toxicity manifesting as interstitial pneumonitis or organizing pneumonia.",
+        "whyCorrect": "Amiodarone's half-life of 25-100 days and high lipid solubility cause it to accumulate extensively in tissues. This accumulation in pulmonary tissue leads to interstitial pneumonitis (5-10% of patients), presenting with progressive dyspnea, cough, fever, bilateral infiltrates, and restrictive physiology on PFTs.",
+        "whyWrongByChoice": {
+          "A": "While amiodarone does block IKr, this property is responsible for its QT-prolonging antiarrhythmic effect, not its pulmonary toxicity. More selective IKr blockers like dofetilide do not cause pulmonary toxicity.",
+          "B": "Amiodarone's CYP enzyme inhibition is responsible for its drug interaction profile (increasing levels of warfarin, digoxin, and other drugs), not for its direct pulmonary tissue toxicity.",
+          "D": "While amiodarone does contain high iodine content (37% by weight), this property is primarily responsible for thyroid dysfunction (hypothyroidism and hyperthyroidism), not the pulmonary toxicity described.",
+          "E": "Beta-adrenergic receptor blockade causes bronchospasm primarily in susceptible patients (asthma/COPD). The presentation described here is interstitial pneumonitis with restrictive pattern, not obstructive airway disease."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-III",
+        "amiodarone",
+        "pulmonary-toxicity",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cv-015",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 72-year-old woman with chronic atrial fibrillation on warfarin therapy is started on amiodarone. One week later, her INR increases from a baseline of 2.5 to 6.8, and she develops easy bruising and gingival bleeding. Which of the following best explains the mechanism of this drug interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amiodarone inhibits multiple CYP enzymes, markedly reducing warfarin metabolism and increasing its plasma levels"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone induces hepatic CYP2C9, accelerating warfarin metabolism and causing rebound hypercoagulability"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone displaces warfarin from plasma protein binding sites, increasing free warfarin levels"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone inhibits P-glycoprotein-mediated intestinal efflux of warfarin, increasing its oral bioavailability"
+        },
+        {
+          "label": "E",
+          "text": "Amiodarone depletes vitamin K stores through its iodine-mediated hepatotoxicity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Amiodarone inhibits multiple CYP enzymes (CYP1A2, CYP2C9, CYP2D6, CYP3A4), which markedly increases warfarin plasma levels by 50-200%, requiring a 30-50% dose reduction and close INR monitoring.",
+        "whyCorrect": "Amiodarone is a potent inhibitor of CYP2C9 (the primary enzyme metabolizing the more active S-warfarin enantiomer) along with other CYP enzymes. This significantly reduces warfarin clearance, increasing plasma levels by 50-200% and elevating the INR to dangerous levels.",
+        "whyWrongByChoice": {
+          "B": "Amiodarone inhibits (not induces) CYP enzymes including CYP2C9. Enzyme induction would decrease warfarin levels and lower INR, which is the opposite of what occurred.",
+          "C": "While protein binding displacement can transiently increase free drug levels, this is not the primary mechanism of the amiodarone-warfarin interaction. The major mechanism is CYP enzyme inhibition reducing warfarin metabolism.",
+          "D": "While amiodarone does inhibit P-glycoprotein (relevant to its interaction with digoxin), the warfarin interaction is primarily mediated through CYP enzyme inhibition affecting hepatic metabolism.",
+          "E": "Amiodarone does not deplete vitamin K stores. Its hepatotoxicity is a separate adverse effect that is not the mechanism of the warfarin interaction. The interaction is pharmacokinetic via CYP inhibition."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-III",
+        "amiodarone",
+        "warfarin",
+        "drug-interactions",
+        "CYP-enzymes"
+      ]
+    },
+    {
+      "id": "cv-016",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 55-year-old woman presents to the emergency department with palpitations and a heart rate of 180 bpm. An ECG reveals a narrow complex tachycardia consistent with atrioventricular nodal reentrant tachycardia (AVNRT). Vagal maneuvers fail to terminate the arrhythmia. The physician administers an intravenous drug, and within 10 seconds the rhythm converts to normal sinus rhythm. Which of the following best describes the mechanism of action of the drug administered?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of L-type calcium channels in the AV node, prolonging the effective refractory period"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of beta-1 adrenergic receptors, decreasing the slope of phase 4 depolarization in nodal cells"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of potassium channels during phase 3, prolonging the action potential duration in myocytes"
+        },
+        {
+          "label": "D",
+          "text": "Allowing potassium efflux from pacemaker cells, causing brief hyperpolarization that interrupts reentry pathways"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of Na+/K+-ATPase, increasing vagal tone and slowing AV nodal conduction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Adenosine is the drug of choice for acute conversion of AVNRT. It works by allowing K+ to leak out of pacemaker cells, causing brief hyperpolarization that stops the heartbeat and interrupts reentry pathways, restoring normal sinus rhythm within 5-15 seconds.",
+        "whyCorrect": "Adenosine causes K+ efflux from pacemaker cells, resulting in a brief hyperpolarization that interrupts AV nodal conduction and breaks the reentry circuit. Its ultra-short duration of action (5-15 seconds) and rapid onset make it ideal for acute AVNRT conversion.",
+        "whyWrongByChoice": {
+          "A": "Blockade of L-type calcium channels describes the mechanism of class IV antiarrhythmics (verapamil, diltiazem). While these can also treat AVNRT, their onset is slower and they would not produce the near-instantaneous conversion described.",
+          "B": "Inhibition of beta-1 receptors describes class II antiarrhythmics (beta-blockers). These slow AV conduction but have a much slower onset of action and would not terminate AVNRT within 10 seconds.",
+          "C": "Potassium channel blockade during phase 3 describes class III antiarrhythmics (amiodarone, sotalol, dofetilide). These prolong action potential duration and are not used for acute AVNRT conversion.",
+          "E": "Inhibition of Na+/K+-ATPase describes the inotropic mechanism of digoxin. Digoxin's antiarrhythmic effect comes from increasing vagal tone, but it has a slow onset and is not appropriate for acute AVNRT termination."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "adenosine",
+        "AVNRT",
+        "mechanism-of-action"
+      ]
+    },
+    {
+      "id": "cv-017",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 65-year-old man with type 2 diabetes mellitus on metformin and glipizide is started on metoprolol for newly diagnosed atrial fibrillation. Two weeks later, he is found unconscious by his wife. Paramedics measure his blood glucose at 38 mg/dL. He is treated with IV dextrose and recovers. Which of the following best explains why his hypoglycemia went unrecognized before he lost consciousness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metoprolol increased hepatic gluconeogenesis, causing rebound hypoglycemia after a prolonged fast"
+        },
+        {
+          "label": "B",
+          "text": "Metoprolol inhibited insulin secretion, causing erratic blood glucose fluctuations"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol caused peripheral vasoconstriction that impaired glucose delivery to the brain"
+        },
+        {
+          "label": "D",
+          "text": "Metoprolol enhanced the hypoglycemic effect of glipizide through CYP enzyme inhibition"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol blocked sympathetic-mediated warning signs of hypoglycemia such as tachycardia and sweating"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Beta-blockers like metoprolol can mask the sympathetic warning signs of hypoglycemia, including tachycardia and sweating, in diabetic patients on antihyperglycemic medications. This can cause patients to miss early signs and progress to severe hypoglycemia.",
+        "whyCorrect": "Beta-blockers decrease sympathetic activity and can mask the adrenergic warning signs of hypoglycemia (tachycardia, sweating, tremor). In diabetic patients on insulin or sulfonylureas like glipizide, this masking prevents early recognition of low blood glucose, allowing progression to neuroglycopenia and loss of consciousness.",
+        "whyWrongByChoice": {
+          "A": "Beta-blockers do not increase hepatic gluconeogenesis. They may actually impair the counter-regulatory glycogenolytic response to hypoglycemia, but the primary concern is masking warning symptoms.",
+          "B": "Beta-blockers do not inhibit insulin secretion. The mechanism of concern in diabetic patients is the masking of sympathetically mediated hypoglycemic warning signs, not altered insulin dynamics.",
+          "C": "Metoprolol does not cause clinically significant peripheral vasoconstriction that would impair glucose delivery to the brain. The mechanism of concern is specifically the masking of autonomic hypoglycemia warning symptoms.",
+          "D": "While metoprolol is metabolized by CYP2D6, it does not significantly inhibit CYP enzymes in a way that would enhance glipizide's hypoglycemic effect. The issue is masking of warning signs, not a pharmacokinetic interaction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-II",
+        "beta-blockers",
+        "metoprolol",
+        "hypoglycemia",
+        "diabetes"
+      ]
+    },
+    {
+      "id": "cv-018",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 63-year-old man with atrial fibrillation has been on amiodarone for 14 months. He presents with fatigue, weight gain, cold intolerance, and constipation. His TSH is elevated at 12.4 mU/L (normal 0.4-4.0), and free T4 is low at 0.5 ng/dL (normal 0.8-1.8). Which of the following properties of amiodarone is most directly responsible for this thyroid dysfunction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of the hERG potassium channel causing altered thyroid cell membrane potential"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of CYP3A4 reducing peripheral conversion of T4 to T3"
+        },
+        {
+          "label": "C",
+          "text": "P-glycoprotein inhibition reducing thyroid hormone efflux from follicular cells"
+        },
+        {
+          "label": "D",
+          "text": "Extensive tissue accumulation from high lipid solubility causing mechanical compression of the thyroid gland"
+        },
+        {
+          "label": "E",
+          "text": "High iodine content and direct toxic effects on thyroid follicular cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amiodarone contains 37% iodine by weight and has direct toxic effects on thyroid follicular cells. These properties can cause both hypothyroidism (5-10% of patients) and hyperthyroidism (2-3% of patients).",
+        "whyCorrect": "Amiodarone's high iodine content (37% by weight) causes iodine excess that can inhibit thyroid hormone synthesis (Wolff-Chaikoff effect), leading to hypothyroidism. Additionally, amiodarone has direct toxic effects on thyroid follicular cells, which also contributes to thyroid dysfunction.",
+        "whyWrongByChoice": {
+          "A": "While amiodarone blocks the hERG (IKr) potassium channel as part of its antiarrhythmic mechanism, this cardiac ion channel effect does not affect thyroid cell function or hormone synthesis.",
+          "B": "Although amiodarone does inhibit CYP3A4 and peripheral deiodination of T4 to T3, the primary mechanism of overt hypothyroidism is the high iodine content and direct thyroid follicular cell toxicity, not merely altered peripheral conversion.",
+          "C": "P-glycoprotein inhibition by amiodarone is relevant to drug interactions (e.g., increasing digoxin levels), not to thyroid hormone dynamics or follicular cell function.",
+          "D": "Amiodarone's lipid solubility causes tissue accumulation but not physical compression of the thyroid gland. The thyroid dysfunction is chemical, resulting from iodine excess and direct cytotoxicity to follicular cells."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-III",
+        "amiodarone",
+        "thyroid-dysfunction",
+        "hypothyroidism"
+      ]
+    },
+    {
+      "id": "cv-019",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 70-year-old woman with chronic atrial fibrillation has failed rate control with metoprolol and diltiazem. Her cardiologist starts digoxin as a third-line agent. Which of the following best describes the antiarrhythmic mechanism of action of digoxin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct blockade of L-type calcium channels in nodal cells, decreasing conduction velocity"
+        },
+        {
+          "label": "B",
+          "text": "Blockade of delayed rectifier potassium channels in myocytes, prolonging the effective refractory period"
+        },
+        {
+          "label": "C",
+          "text": "Enhancement of parasympathetic vagal activity, slowing AV nodal conduction and prolonging AV nodal refractory period"
+        },
+        {
+          "label": "D",
+          "text": "Antagonism of beta-1 adrenergic receptors, reducing sympathetic input to the SA and AV nodes"
+        },
+        {
+          "label": "E",
+          "text": "Allowing potassium efflux from pacemaker cells, causing transient hyperpolarization and interruption of reentry circuits"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digoxin's antiarrhythmic mechanism involves enhancing parasympathetic (vagal) activity, which decreases AV nodal conduction velocity and prolongs the AV nodal refractory period, thereby controlling the ventricular rate in atrial fibrillation.",
+        "whyCorrect": "Digoxin primarily acts as an antiarrhythmic by increasing vagal tone (parasympathetic activity), which slows conduction through the AV node and prolongs the AV nodal refractory period. This reduces the number of atrial impulses conducted to the ventricles in atrial fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Direct blockade of L-type calcium channels describes the mechanism of class IV antiarrhythmics (verapamil and diltiazem), not digoxin. Digoxin acts through vagal tone enhancement, not direct calcium channel blockade.",
+          "B": "Blockade of delayed rectifier potassium channels describes class III antiarrhythmics (amiodarone, sotalol, dofetilide, ibutilide). Digoxin does not significantly affect K+ channels to prolong the refractory period.",
+          "D": "Antagonism of beta-1 adrenergic receptors describes class II antiarrhythmics (beta-blockers like metoprolol). Digoxin's mechanism is parasympathomimetic (vagal enhancement), not sympatholytic.",
+          "E": "Allowing potassium efflux from pacemaker cells causing brief hyperpolarization describes the mechanism of adenosine, which is used for acute AVNRT conversion, not for chronic rate control."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "digoxin",
+        "mechanism-of-action",
+        "vagal-tone"
+      ]
+    },
+    {
+      "id": "cv-020",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 74-year-old man on chronic digoxin therapy for atrial fibrillation presents with nausea, vomiting, confusion, and a complaint that everything appears to have a yellow tint. His ECG shows frequent premature ventricular contractions. His serum digoxin level is 3.8 ng/mL (therapeutic range 0.8-2.0 ng/mL). Which of the following ECG findings would you also expect to see on his baseline (pre-toxic) ECG tracing from chronic digoxin use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Widened QRS complex with unchanged QT interval"
+        },
+        {
+          "label": "B",
+          "text": "Scooped ST-segment depression with QT interval shortening"
+        },
+        {
+          "label": "C",
+          "text": "Prolonged QT interval with tall, peaked T waves"
+        },
+        {
+          "label": "D",
+          "text": "Prolonged PR interval with delta waves"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse ST elevation with PR depression"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic digoxin use characteristically produces scooped ST segments with ST depression in lateral leads, T-wave changes (flattening or inversion), and QT interval shortening. These findings reflect the drug's therapeutic effect and are not associated with toxicity.",
+        "whyCorrect": "The digoxin effect on ECG includes scooped ST-segment depression (classically described as a reverse checkmark or Salvador Dali mustache), T-wave flattening or inversion, and QT interval shortening. These are expected chronic findings not indicating toxicity, distinct from the toxic arrhythmias (PVCs) seen at supratherapeutic levels.",
+        "whyWrongByChoice": {
+          "A": "Widened QRS with unchanged QT interval is characteristic of class IC antiarrhythmics (flecainide, propafenone), not digoxin's chronic ECG effect.",
+          "C": "Prolonged QT with tall peaked T waves is not characteristic of digoxin. Digoxin shortens (not prolongs) the QT interval. Tall peaked T waves suggest hyperkalemia.",
+          "D": "While digoxin can slow AV conduction and prolong the PR interval at toxic levels, delta waves are characteristic of Wolff-Parkinson-White syndrome (pre-excitation via accessory pathway), not digoxin effect.",
+          "E": "Diffuse ST elevation with PR depression is the classic ECG pattern of acute pericarditis, not chronic digoxin use. Digoxin causes ST depression, not elevation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "digoxin",
+        "ECG-changes",
+        "digoxin-toxicity"
+      ]
+    },
+    {
+      "id": "cv-021",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 60-year-old woman with a history of sustained ventricular tachycardia is started on sotalol. Three days later, she presents to the emergency department after a syncopal episode. An ECG reveals a polymorphic ventricular tachycardia with QTc of 540 ms. Which of the following best describes why sotalol can cause both bradycardia and this type of proarrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks sodium channels with strong use dependence and inhibits calcium channels in the AV node"
+        },
+        {
+          "label": "B",
+          "text": "It selectively blocks the slow component of the delayed rectifier potassium current and inhibits the funny current"
+        },
+        {
+          "label": "C",
+          "text": "It exhibits both potassium channel blockade (class III effect) and beta-adrenergic receptor blockade (class II effect)"
+        },
+        {
+          "label": "D",
+          "text": "It inhibits N-acetyltransferase and blocks L-type calcium channels simultaneously"
+        },
+        {
+          "label": "E",
+          "text": "It enhances vagal tone through muscarinic receptor agonism and blocks rapid sodium channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sotalol uniquely exhibits both class III (potassium channel blockade) and class II (beta-adrenergic receptor blockade) properties. The K+ channel blockade prolongs QT and can cause torsades de pointes, while the beta-blockade causes bradycardia.",
+        "whyCorrect": "Sotalol has dual pharmacological properties: it blocks potassium channels (class III), prolonging repolarization and QT interval, which creates the substrate for torsades de pointes. It also blocks beta-adrenergic receptors (class II), which causes bradycardia. The bradycardia can further exacerbate QT prolongation through reverse use dependence.",
+        "whyWrongByChoice": {
+          "A": "Sodium channel blockade with use dependence describes class I agents (especially IC). Sotalol does not have significant sodium channel or calcium channel blocking activity.",
+          "B": "Sotalol primarily blocks the rapid component (IKr) of the delayed rectifier potassium current, not the slow component (IKs). It also does not inhibit the funny current (If); that mechanism is specific to ivabradine.",
+          "D": "Sotalol does not inhibit N-acetyltransferase (relevant to procainamide metabolism) or block L-type calcium channels (a class IV mechanism).",
+          "E": "Sotalol does not act through muscarinic receptor agonism (that mechanism relates to digoxin's vagal enhancement) nor does it block rapid sodium channels."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-III",
+        "sotalol",
+        "torsades-de-pointes",
+        "beta-blocker"
+      ]
+    },
+    {
+      "id": "cv-022",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 56-year-old woman with recurrent torsades de pointes refractory to electrical cardioversion is brought to the emergency department. Her serum potassium is 3.2 mEq/L. The emergency physician orders an intravenous infusion as first-line pharmacotherapy to terminate the arrhythmia. Which of the following agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine"
+        },
+        {
+          "label": "B",
+          "text": "Verapamil"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin"
+        },
+        {
+          "label": "E",
+          "text": "Magnesium"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intravenous magnesium is the first-line pharmacological treatment for torsades de pointes. It works by competing with calcium to decrease Ca2+ influx and decreasing afterdepolarizations, while also increasing K+ efflux to shorten QT duration.",
+        "whyCorrect": "Magnesium is the first-line drug to suppress or terminate torsades de pointes. It decreases afterdepolarizations by competing with Ca2+ to reduce calcium influx, and it increases K+ efflux to aid repolarization and shorten QT duration, directly addressing the underlying mechanism of TdP.",
+        "whyWrongByChoice": {
+          "A": "Adenosine is used for acute conversion of AVNRT, not for torsades de pointes. Its mechanism (K+ efflux causing brief hyperpolarization) targets AV nodal reentry circuits, not the prolonged repolarization underlying TdP.",
+          "B": "Verapamil is a calcium channel blocker used for supraventricular tachycardias. It does not address the QT prolongation and afterdepolarizations that cause torsades de pointes.",
+          "C": "Amiodarone itself prolongs the QT interval through potassium channel blockade and could potentially worsen torsades de pointes. It is not first-line for TdP treatment.",
+          "D": "Digoxin shortens the QT interval but is not first-line for torsades de pointes. Its narrow therapeutic window and risk of arrhythmias make it inappropriate in this acute setting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "magnesium",
+        "torsades-de-pointes",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "cv-023",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 61-year-old man with atrial fibrillation is started on verapamil for rate control. At his follow-up visit 2 weeks later, he reports severe constipation that began shortly after starting the medication. His ECG shows a heart rate of 54 bpm with a PR interval of 240 ms (normal <200 ms). Which of the following best explains why verapamil causes both the gastrointestinal and cardiac effects observed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Verapamil inhibits beta-2 receptors in intestinal smooth muscle and beta-1 receptors in the SA node"
+        },
+        {
+          "label": "B",
+          "text": "Verapamil blocks L-type calcium channels that are required for both bowel peristalsis and cardiac pacemaker cell depolarization"
+        },
+        {
+          "label": "C",
+          "text": "Verapamil blocks potassium channels in both intestinal myocytes and cardiac myocytes, prolonging repolarization"
+        },
+        {
+          "label": "D",
+          "text": "Verapamil enhances vagal tone that simultaneously inhibits gut motility and AV nodal conduction"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil blocks sodium channels in enteric neurons and cardiac Purkinje fibers, slowing conduction in both tissues"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Verapamil blocks L-type calcium channels, which are essential for both gastrointestinal smooth muscle contraction (bowel peristalsis) and cardiac pacemaker cell depolarization (phase 0 in nodal cells). This explains both the constipation and the bradycardia with PR prolongation.",
+        "whyCorrect": "L-type calcium channels are present in both intestinal smooth muscle and cardiac pacemaker cells. Verapamil blocks these channels in both tissues: in the gut, this reduces peristalsis causing constipation; in the heart, it slows phase 0 depolarization of nodal cells, causing bradycardia and prolonged AV conduction (increased PR interval).",
+        "whyWrongByChoice": {
+          "A": "Verapamil is a calcium channel blocker, not a beta-receptor blocker. Beta-receptor blockade describes class II antiarrhythmics. Verapamil does not act on beta receptors.",
+          "C": "Potassium channel blockade describes class III antiarrhythmics. Verapamil acts on calcium channels, not potassium channels, and its GI effects are due to calcium channel blockade in smooth muscle.",
+          "D": "Vagal tone enhancement describes the mechanism of digoxin, not verapamil. Verapamil's effects on both gut and heart are due to direct L-type calcium channel blockade, not parasympathetic modulation.",
+          "E": "Sodium channel blockade describes class I antiarrhythmics. Verapamil is a class IV agent that targets calcium channels. It does not have significant sodium channel blocking activity."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-IV",
+        "verapamil",
+        "calcium-channel-blocker",
+        "adverse-effects"
+      ]
+    },
+    {
+      "id": "cv-024",
+      "topicId": "antiarrhythmic-class-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "A 67-year-old man with persistent atrial fibrillation is on dronedarone for rhythm control. He develops a respiratory infection and is prescribed clarithromycin. Three days later, he presents with symptomatic bradycardia and a prolonged QTc interval of 520 ms. Which of the following best explains the mechanism of this drug interaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clarithromycin induces CYP3A4, accelerating dronedarone metabolism and causing a compensatory increase in dosing frequency"
+        },
+        {
+          "label": "B",
+          "text": "Clarithromycin competes with dronedarone for renal tubular secretion, causing accumulation of both drugs"
+        },
+        {
+          "label": "C",
+          "text": "Clarithromycin displaces dronedarone from albumin binding sites, transiently increasing its free fraction"
+        },
+        {
+          "label": "D",
+          "text": "Clarithromycin inhibits CYP3A4, causing a 2-3 fold increase in dronedarone levels and potentiating its electrophysiological effects"
+        },
+        {
+          "label": "E",
+          "text": "Clarithromycin directly blocks hERG potassium channels, additively prolonging the QT interval independent of dronedarone levels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dronedarone is metabolized by CYP3A4. Clarithromycin is a strong CYP3A4 inhibitor that can cause 2-3 fold increases in dronedarone levels, potentiating both its therapeutic and toxic effects including bradycardia and excessive QT prolongation.",
+        "whyCorrect": "Dronedarone is primarily metabolized by CYP3A4. Clarithromycin is a potent inhibitor of CYP3A4, reducing dronedarone's hepatic metabolism and causing plasma levels to increase 2-3 fold. This increased exposure potentiates dronedarone's K+ channel blocking effect (prolonging QT) and its overall electrophysiological activity (causing bradycardia).",
+        "whyWrongByChoice": {
+          "A": "Clarithromycin inhibits (not induces) CYP3A4. CYP3A4 induction would decrease dronedarone levels and reduce its effects, which is the opposite of what occurred.",
+          "B": "Dronedarone is hepatically metabolized by CYP3A4, not primarily renally eliminated. Sotalol, by contrast, is renally excreted unchanged and would be affected by changes in renal clearance.",
+          "C": "While protein binding displacement can occur, this is not the primary mechanism of the clarithromycin-dronedarone interaction. The major mechanism is CYP3A4 inhibition reducing hepatic metabolism of dronedarone.",
+          "E": "While macrolide antibiotics like clarithromycin can independently prolong the QT interval, the primary mechanism of this interaction involves CYP3A4 inhibition increasing dronedarone levels, which explains both the bradycardia and the QT prolongation simultaneously."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pharmacology",
+        "antiarrhythmics",
+        "class-III",
+        "dronedarone",
+        "drug-interactions",
+        "CYP3A4",
+        "clarithromycin"
+      ]
+    },
+    {
+      "id": "ea-115",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 72-year-old man presents to the emergency department with palpitations and fatigue that began 8 hours ago. His medical history includes hypertension and type 2 diabetes. Physical examination reveals an irregularly irregular pulse at 142 beats/min. ECG shows absence of P waves with irregular QRS complexes and a fibrillatory baseline in lead V1. Which of the following best explains the electrophysiologic mechanism producing the irregular ventricular rhythm in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single organized reentrant circuit within the right atrium conducting to the ventricles at a variable ratio through the AV node"
+        },
+        {
+          "label": "B",
+          "text": "Multiple chaotic reentrant wavelets originating at the pulmonary vein-left atrial junction propagating simultaneously in different directions"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced automaticity of the sinoatrial node generating irregular impulses that propagate normally through the conduction system"
+        },
+        {
+          "label": "D",
+          "text": "Complete failure of AV nodal conduction with emergence of multiple ventricular escape foci firing at irregular intervals"
+        },
+        {
+          "label": "E",
+          "text": "A macro-reentrant circuit involving an accessory pathway between the atria and ventricles conducting in both anterograde and retrograde directions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Atrial fibrillation is characterized by chaotic, disorganized electrical activity beginning at the pulmonary vein-left atrial junction. Multiple small reentrant circuits (wavelets) propagate simultaneously in different directions, creating the irregularly irregular ventricular rhythm.",
+        "whyCorrect": "AF is characterized by chaotic, disorganized electrical activity that begins at the histologic junction between the pulmonary veins and the left atrial myocardium. Multiple small reentrant circuits called wavelets propagate simultaneously in different directions, creating an irregularly irregular ventricular rhythm with an atrial rate greater than 350 bpm.",
+        "whyWrongByChoice": {
+          "A": "A single organized reentrant circuit describes atrial flutter, not atrial fibrillation. AF involves multiple chaotic reentrant circuits, which distinguishes it electrically from flutter.",
+          "C": "Enhanced SA node automaticity would produce sinus tachycardia with preserved P waves and a regular rhythm, not the irregularly irregular rhythm with absent P waves characteristic of AF.",
+          "D": "Complete AV block produces a regular ventricular escape rhythm, not an irregularly irregular pattern. Additionally, P waves would still be present (though dissociated from QRS complexes).",
+          "E": "A macro-reentrant circuit involving an accessory pathway describes AVRT (as in WPW syndrome), which produces a regular tachycardia, not the irregularly irregular rhythm of AF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "pathophysiology",
+        "reentrant-wavelets",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-116",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 75-year-old woman with longstanding persistent atrial fibrillation is evaluated in the cardiology clinic. Her cardiologist explains that her arrhythmia has become increasingly difficult to convert to normal sinus rhythm over the past 3 years. Echocardiography shows progressive left atrial enlargement and biopsy reveals significant atrial fibrosis. Which of the following concepts best explains why her arrhythmia has become more refractory to treatment over time?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progressive degeneration of the sinoatrial node with age renders it incapable of generating impulses strong enough to override the fibrillatory activity"
+        },
+        {
+          "label": "B",
+          "text": "Chronic anticoagulation therapy causes structural changes in the atrial myocardium that promote sustained arrhythmia through direct drug toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Progressive pulmonary vein stenosis from chronic hemodynamic stress creates new foci of triggered activity that perpetuate the arrhythmia"
+        },
+        {
+          "label": "D",
+          "text": "Age-related calcification of the AV node prevents effective rate control, causing compensatory acceleration of atrial fibrillatory activity"
+        },
+        {
+          "label": "E",
+          "text": "The arrhythmia itself causes further electrical and structural remodeling of atrial tissue, making it more likely to recur and become persistent"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The concept of 'AF begets AF' reflects how the arrhythmia itself causes further electrical and structural remodeling (fibrosis, inflammation, ion channel changes) that makes it more likely to recur and become persistent.",
+        "whyCorrect": "AF arrhythmias are facilitated by structural and electrical remodeling of atrial tissue. Fibrosis, inflammation, and changes in ion channel function create the substrate necessary for sustained arrhythmias. The concept of 'AF begets AF' reflects how the arrhythmia itself causes further electrical and structural changes that make it more likely to recur and become persistent.",
+        "whyWrongByChoice": {
+          "A": "While SA node function may decline with age, the progressive refractoriness to rhythm control is primarily due to atrial remodeling caused by the arrhythmia itself, not SA node degeneration.",
+          "B": "Anticoagulation therapy does not cause structural atrial remodeling. The fibrosis and structural changes are caused by the AF itself and the underlying cardiac conditions, not by anticoagulant medications.",
+          "C": "Pulmonary vein stenosis is a procedural complication of catheter ablation (<1%), not a natural consequence of chronic AF. The perpetuation of AF is due to atrial remodeling from the arrhythmia itself.",
+          "D": "AV node calcification affects rate control but does not explain why the atrial arrhythmia becomes more persistent. The progressive nature is due to atrial remodeling, not AV nodal changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "atrial-remodeling",
+        "AF-begets-AF",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "ea-117",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 68-year-old man with newly diagnosed atrial fibrillation has a history of hypertension, diabetes mellitus, and a prior ischemic stroke 2 years ago. His CHA2DS2-VASc score is calculated. Which of the following anticoagulation strategies is most appropriate for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No anticoagulation therapy is needed given that his stroke occurred more than one year ago and the risk of recurrence has significantly decreased"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin monotherapy provides adequate stroke prevention in patients with atrial fibrillation and a history of prior cerebrovascular events"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin is the preferred anticoagulant because DOACs are contraindicated in patients with prior stroke and concurrent diabetes mellitus"
+        },
+        {
+          "label": "D",
+          "text": "A direct oral anticoagulant is recommended as first-line therapy given his high CHA2DS2-VASc score indicating significant stroke risk"
+        },
+        {
+          "label": "E",
+          "text": "Anticoagulation should be deferred until rhythm control is achieved because restoring sinus rhythm eliminates the thromboembolic risk"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This patient has a high CHA2DS2-VASc score (hypertension 1, diabetes 1, prior stroke 2, age 65-74 1 = at least 5 points). For scores >= 2 in males, oral anticoagulation is recommended, with DOACs recommended over warfarin.",
+        "whyCorrect": "For CHA2DS2-VASc score >= 2 in males, oral anticoagulation is recommended, and DOACs are recommended over warfarin. This patient's score includes prior stroke (2 points), hypertension (1), diabetes (1), and age 65-74 (1), placing him in the high-risk category where anticoagulation is strongly indicated.",
+        "whyWrongByChoice": {
+          "A": "Prior stroke is the strongest risk factor in the CHA2DS2-VASc scoring system (2 points). The risk of recurrent stroke persists indefinitely in patients with AF, regardless of when the prior stroke occurred.",
+          "B": "Aspirin monotherapy is insufficient for stroke prevention in high-risk AF patients. Current guidelines recommend oral anticoagulation (preferably DOACs) for patients with elevated CHA2DS2-VASc scores.",
+          "C": "DOACs are not contraindicated in patients with prior stroke or diabetes. They are contraindicated in patients with mechanical heart valves or severe mitral stenosis. DOACs are recommended over warfarin as first-line therapy.",
+          "E": "Rhythm control does not eliminate thromboembolic risk. Paradoxically, rhythm control does not eliminate thromboembolic risk, and anticoagulation decisions should be based on stroke risk assessment regardless of rhythm strategy."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "CHA2DS2-VASc",
+        "anticoagulation",
+        "DOAC"
+      ]
+    },
+    {
+      "id": "ea-118",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 70-year-old woman with persistent atrial fibrillation and a rapid ventricular rate of 130 beats/min presents with exertional dyspnea and fatigue. She has a history of hypertension and mild diastolic dysfunction. She is hemodynamically stable. Her cardiologist decides to pursue a rate control strategy. Which of the following physiologic mechanisms explains why rate control improves this patient's symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AV nodal blocking agents restore coordinated atrial contraction, recovering the atrial kick contribution to ventricular filling"
+        },
+        {
+          "label": "B",
+          "text": "Slowing the ventricular response allows more time for diastolic ventricular filling, improving stroke volume and reducing pulmonary congestion"
+        },
+        {
+          "label": "C",
+          "text": "Rate control medications directly convert the atrial rhythm from fibrillation back to organized sinus rhythm, restoring normal P waves"
+        },
+        {
+          "label": "D",
+          "text": "Beta-blockers and calcium channel blockers eliminate the chaotic reentrant wavelets in the atria, reducing the atrial rate below 350 beats per minute"
+        },
+        {
+          "label": "E",
+          "text": "Digoxin and beta-blockers prevent thrombus formation in the left atrial appendage by restoring normal laminar blood flow in the atria"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rate control slows the ventricular response using AV nodal blocking agents to achieve target heart rates of 60-100 bpm. This improves diastolic filling time, which increases stroke volume and reduces symptoms of heart failure and pulmonary congestion.",
+        "whyCorrect": "Rate control focuses on slowing the ventricular response without attempting to restore normal sinus rhythm. Extremes of heart rate during AF (both too fast and too slow) cause inadequate cardiac output. Heart rates that are too fast can cause pulmonary fluid congestion (congestive heart failure). Slowing the rate allows more diastolic filling time, improving cardiac output.",
+        "whyWrongByChoice": {
+          "A": "Rate control does not restore coordinated atrial contraction or the atrial kick. It only slows the ventricular response through AV nodal blockade. The atria remain in fibrillation, and atrial kick is lost.",
+          "C": "Rate control does not convert AF to sinus rhythm. That is the goal of rhythm control. Rate control uses AV nodal blocking agents to slow the ventricular response while the atria remain in fibrillation.",
+          "D": "Rate control medications act at the AV node to slow ventricular response, not on the atrial myocardium to eliminate reentrant wavelets. The chaotic atrial activity persists during rate control.",
+          "E": "Rate control medications do not prevent thrombus formation. Anticoagulation is required separately for stroke prevention in AF, as the stasis of blood in the atrial appendages persists even with rate control."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "rate-control",
+        "hemodynamics",
+        "AV-nodal-blocking-agents"
+      ]
+    },
+    {
+      "id": "ea-119",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 55-year-old man with newly diagnosed paroxysmal atrial fibrillation and no structural heart disease is being considered for rhythm control therapy. He has a normal ejection fraction and no history of coronary artery disease. His cardiologist recommends an antiarrhythmic medication for long-term maintenance of sinus rhythm. Which of the following is the most appropriate pharmacologic choice for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flecainide, a Class IC agent indicated for rhythm control in patients with atrial fibrillation who do not have structural heart disease"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin, which restores sinus rhythm by enhancing vagal tone and suppressing the ectopic atrial foci that trigger fibrillatory activity"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone, a Class III agent preferred as first-line therapy in patients without structural heart disease due to its superior efficacy"
+        },
+        {
+          "label": "D",
+          "text": "Diltiazem, a calcium channel blocker that converts atrial fibrillation to sinus rhythm through direct suppression of atrial reentrant wavelets"
+        },
+        {
+          "label": "E",
+          "text": "Metoprolol, a beta-blocker that maintains sinus rhythm by directly suppressing the pulmonary vein foci that initiate atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "For rhythm control in AF patients without structural heart disease, Class IC agents (flecainide, propafenone) are appropriate. Class III agents (amiodarone, sotalol) are reserved for those with underlying cardiac conditions.",
+        "whyCorrect": "Antiarrhythmic medications for rhythm control include Class I agents (flecainide, propafenone) for patients without structural heart disease, and Class III agents (amiodarone, sotalol) for those with underlying cardiac conditions. This patient has no structural heart disease, making flecainide the appropriate choice.",
+        "whyWrongByChoice": {
+          "B": "Digoxin is used for rate control, not rhythm control. It slows the ventricular response by enhancing vagal tone at the AV node but does not convert AF to sinus rhythm or maintain sinus rhythm.",
+          "C": "While amiodarone is effective, it is reserved for patients with structural heart disease due to its significant long-term toxicity risks (pulmonary, thyroid, hepatic). It is not first-line in patients without structural heart disease.",
+          "D": "Diltiazem is a calcium channel blocker used for rate control, not rhythm control. It slows AV nodal conduction to control the ventricular rate but does not restore or maintain sinus rhythm.",
+          "E": "Metoprolol is a beta-blocker used for rate control. While beta-blockers can help prevent some arrhythmias, they are not classified as antiarrhythmic drugs for maintaining sinus rhythm in AF."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "rhythm-control",
+        "antiarrhythmic-drugs",
+        "Class-IC"
+      ]
+    },
+    {
+      "id": "ea-120",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 78-year-old man with persistent atrial fibrillation, hypertension, diabetes, and chronic kidney disease is being evaluated for anticoagulation. His physician calculates a CHA2DS2-VASc score and determines he requires oral anticoagulation. However, the patient also has a mechanical mitral valve prosthesis implanted 5 years ago. Which of the following anticoagulation strategies is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apixaban, a direct oral anticoagulant preferred over warfarin due to its lower risk of intracranial hemorrhage and no need for routine monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Dabigatran, a direct thrombin inhibitor that provides superior protection against both stroke and valve thrombosis compared to warfarin"
+        },
+        {
+          "label": "C",
+          "text": "Warfarin with target INR monitoring, as DOACs are contraindicated in patients with mechanical heart valves"
+        },
+        {
+          "label": "D",
+          "text": "Rivaroxaban combined with aspirin for dual pathway inhibition to address both atrial fibrillation-related and prosthetic valve-related thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "No anticoagulation is needed because the mechanical valve prosthesis itself provides sufficient turbulent flow to prevent atrial thrombus formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Warfarin remains appropriate for patients with mechanical heart valves, a condition where DOACs are contraindicated. Despite the advantages of DOACs in most AF patients, mechanical valves require warfarin-based anticoagulation.",
+        "whyCorrect": "Warfarin remains appropriate for patients with mechanical heart valves or severe mitral stenosis, conditions where DOACs are contraindicated. This patient has a mechanical mitral valve prosthesis, making warfarin the only appropriate oral anticoagulant.",
+        "whyWrongByChoice": {
+          "A": "While apixaban offers advantages in most AF patients, DOACs are contraindicated in patients with mechanical heart valves. Clinical trials have shown increased thromboembolic events with DOACs in this population.",
+          "B": "Dabigatran, like other DOACs, is contraindicated in patients with mechanical heart valves. Studies have demonstrated inferior outcomes and increased bleeding when dabigatran is used in patients with mechanical valves.",
+          "D": "Dual pathway inhibition with rivaroxaban and aspirin is not appropriate for this patient. Rivaroxaban (a DOAC) is contraindicated with mechanical heart valves, and this combination would increase bleeding risk without proven benefit.",
+          "E": "Patients with mechanical heart valves require lifelong anticoagulation to prevent valve thrombosis, regardless of atrial rhythm. The presence of AF further increases the thromboembolic risk, making anticoagulation even more critical."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "anticoagulation",
+        "mechanical-valve",
+        "warfarin"
+      ]
+    },
+    {
+      "id": "ea-121",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 65-year-old woman with symptomatic paroxysmal atrial fibrillation has failed trials of flecainide and sotalol over the past year. She has no structural heart disease and a CHA2DS2-VASc score of 4. Her cardiologist recommends catheter ablation. Which of the following best describes the procedural target and expected efficacy of this intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ablation of the AV node to create complete heart block followed by permanent pacemaker implantation, with success rates exceeding 95%"
+        },
+        {
+          "label": "B",
+          "text": "Ablation of the sinoatrial node to eliminate the source of triggered activity, with single-procedure success rates of 80-90% for all AF types"
+        },
+        {
+          "label": "C",
+          "text": "Targeted ablation of the left atrial appendage to prevent thrombus formation, eliminating the need for anticoagulation therapy after the procedure"
+        },
+        {
+          "label": "D",
+          "text": "Linear ablation of the entire left atrial posterior wall to eliminate all potential reentrant circuits, with success rates approaching 100% after a single procedure"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vein isolation to eliminate the triggers originating at the pulmonary vein-left atrial junction, with single-procedure success rates of 55-70% for paroxysmal AF"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pulmonary vein isolation is the cornerstone of AF ablation. AF originates at the pulmonary vein-left atrial junction, and isolating these triggers achieves single-procedure success rates of 55-70% for paroxysmal AF, with cumulative success of 80-90% with multiple procedures.",
+        "whyCorrect": "Pulmonary vein isolation remains the cornerstone of AF ablation. AF originates at the histologic junction between the pulmonary veins and the left atrial myocardium. Catheter ablation demonstrates superior efficacy compared to antiarrhythmic drugs, with single-procedure success rates of 55-70% for paroxysmal AF and cumulative success rates reaching 80-90% in experienced centers.",
+        "whyWrongByChoice": {
+          "A": "AV node ablation with pacemaker implantation is a last-resort strategy for rate control in refractory AF, not a rhythm control approach. It does not restore sinus rhythm and is reserved for patients who cannot tolerate other treatments.",
+          "B": "The SA node is not the target of AF ablation. AF originates from the pulmonary veins, not the SA node. Ablating the SA node would eliminate the heart's natural pacemaker without addressing the source of AF.",
+          "C": "Left atrial appendage ablation does not treat AF or eliminate the need for anticoagulation. Anticoagulation decisions are based on CHA2DS2-VASc score regardless of procedure, as rhythm control does not eliminate thromboembolic risk.",
+          "D": "Complete posterior wall ablation is not standard practice, and no ablation approach achieves 100% success after a single procedure. The cornerstone is pulmonary vein isolation, with realistic success rates of 55-70% per procedure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "catheter-ablation",
+        "pulmonary-vein-isolation",
+        "rhythm-control"
+      ]
+    },
+    {
+      "id": "ea-122",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 60-year-old man with a history of hypertension and heart failure with reduced ejection fraction (EF 35%) presents with new-onset atrial fibrillation. He reports significant exercise intolerance and dyspnea on exertion. His cardiologist considers rhythm control therapy. Which of the following antiarrhythmic agents is most appropriate for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flecainide, a Class IC agent with proven efficacy for maintaining sinus rhythm and favorable safety profile in all AF patients"
+        },
+        {
+          "label": "B",
+          "text": "Propafenone, a Class IC agent preferred for patients with heart failure because it has minimal negative inotropic effects"
+        },
+        {
+          "label": "C",
+          "text": "Verapamil, a calcium channel blocker that restores sinus rhythm by suppressing atrial ectopic foci and slowing conduction"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone, a Class III agent appropriate for patients with underlying cardiac conditions including heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Adenosine, an AV nodal blocking agent that can terminate atrial fibrillation by interrupting the reentrant circuits"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "For rhythm control in AF patients with structural heart disease (including heart failure), Class III agents like amiodarone are appropriate. Class IC agents are contraindicated in structural heart disease due to the risk of proarrhythmia.",
+        "whyCorrect": "Antiarrhythmic medications for rhythm control include Class III agents (amiodarone, sotalol) for those with underlying cardiac conditions like heart failure. Amiodarone is appropriate for this patient with HFrEF because Class IC agents are contraindicated in structural heart disease.",
+        "whyWrongByChoice": {
+          "A": "Flecainide (Class IC) is indicated only for patients without structural heart disease. Class IC agents can cause life-threatening ventricular arrhythmias in patients with structural heart disease, making flecainide contraindicated in this patient with HFrEF.",
+          "B": "Propafenone (Class IC) is also contraindicated in patients with structural heart disease including heart failure. Like flecainide, it carries the risk of proarrhythmia in patients with underlying cardiac conditions.",
+          "C": "Verapamil is a rate control agent, not a rhythm control agent. It does not restore sinus rhythm. Additionally, non-dihydropyridine calcium channel blockers have negative inotropic effects and are generally avoided in HFrEF.",
+          "E": "Adenosine is used for supraventricular tachycardia (SVT) that depends on AV nodal conduction. It does not terminate AF, which involves multiple reentrant circuits in the atrial myocardium independent of the AV node."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "rhythm-control",
+        "heart-failure",
+        "amiodarone"
+      ]
+    },
+    {
+      "id": "ea-123",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 74-year-old man with persistent atrial fibrillation is scheduled for elective electrical cardioversion. He has been in AF for approximately 4 weeks. His CHA2DS2-VASc score is 3. Which of the following precautions is necessary before proceeding with elective cardioversion in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A stress test to evaluate for underlying coronary artery disease that could worsen with restoration of sinus rhythm"
+        },
+        {
+          "label": "B",
+          "text": "Discontinuation of all AV nodal blocking agents at least 72 hours before the procedure to avoid post-cardioversion bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Therapeutic anticoagulation for at least three weeks or transesophageal echocardiography to exclude left atrial thrombus"
+        },
+        {
+          "label": "D",
+          "text": "Placement of a temporary transvenous pacemaker before the procedure in case cardioversion induces complete heart block"
+        },
+        {
+          "label": "E",
+          "text": "Loading with intravenous amiodarone for 48 hours before cardioversion to ensure the atrial myocardium is electrically stable"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "For elective cardioversion of AF lasting more than 48 hours, patients require either therapeutic anticoagulation for at least three weeks or transesophageal echocardiography (TEE) to exclude left atrial thrombus before the procedure.",
+        "whyCorrect": "For elective cardioversion, patients require either therapeutic anticoagulation for at least three weeks or transesophageal echocardiography to exclude left atrial thrombus. This precaution prevents thromboembolic events (stroke) that can occur when organized atrial contraction resumes and dislodges thrombi formed during fibrillation.",
+        "whyWrongByChoice": {
+          "A": "A stress test is not a standard pre-cardioversion requirement. The primary concern before cardioversion is the risk of thromboembolism, not undiagnosed coronary artery disease.",
+          "B": "AV nodal blocking agents are not routinely discontinued before cardioversion. They may help control the ventricular rate if cardioversion is unsuccessful and are not a contraindication to the procedure.",
+          "D": "Temporary pacemaker placement is not routinely required before cardioversion. While brief bradycardia can occur immediately after cardioversion, clinically significant complete heart block is extremely rare.",
+          "E": "Pre-loading with amiodarone is not a mandatory requirement before elective cardioversion. While amiodarone may be used adjunctively to improve cardioversion success or maintain sinus rhythm afterward, the critical precaution is anticoagulation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "cardioversion",
+        "anticoagulation",
+        "thromboembolism-prevention"
+      ]
+    },
+    {
+      "id": "ea-124",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 66-year-old woman with recently diagnosed atrial fibrillation and a history of hypertension, obesity, and obstructive sleep apnea is evaluated in the cardiology clinic. Her cardiologist explains that her multiple risk factors work together to increase her AF risk. Which of the following best explains the anatomical basis for thrombus formation in atrial fibrillation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The right atrial appendage has a narrow ostium that decreases flow and promotes stasis, making it the most common site of thrombus formation in AF"
+        },
+        {
+          "label": "B",
+          "text": "The left atrial appendage has a narrow ostium that decreases flow, promoting blood stasis and thrombus formation during atrial fibrillation"
+        },
+        {
+          "label": "C",
+          "text": "The fossa ovalis in the interatrial septum creates a region of turbulent flow that promotes platelet activation and thrombus formation"
+        },
+        {
+          "label": "D",
+          "text": "The pulmonary veins develop endothelial dysfunction during AF that activates the coagulation cascade at the pulmonary vein-atrial junction"
+        },
+        {
+          "label": "E",
+          "text": "The sinoatrial node region becomes fibrotic during AF, creating a nidus for thrombus formation near the junction of the superior vena cava"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left atrial appendage has a more narrow ostium compared to the right atrial appendage. This decreases flow and is a reason for thrombus formation during atrial fibrillation, combined with the blood stasis caused by loss of coordinated atrial contraction.",
+        "whyCorrect": "The left atrial appendage ostium is more narrow compared to the right atrial appendage, which has a wide ostium. This decreased flow through the narrow left atrial appendage, combined with the irregular rhythm promoting stasis of blood in the atrial appendages, significantly increases the risk of thrombus formation and subsequent embolic events (strokes).",
+        "whyWrongByChoice": {
+          "A": "The right atrial appendage has a wide ostium, not a narrow one. It is the left atrial appendage that has the narrow ostium predisposing to stasis and thrombus formation in AF.",
+          "C": "The fossa ovalis is a remnant of the foramen ovale in the interatrial septum. It does not create significant turbulent flow or serve as a primary site of thrombus formation in AF.",
+          "D": "While AF originates at the pulmonary vein-left atrial junction, the primary site of thrombus formation is the left atrial appendage, not the pulmonary veins themselves.",
+          "E": "The SA node region near the SVC junction is the heart's pacemaker, not a typical site of thrombus formation. Thrombi in AF form predominantly in the left atrial appendage due to its narrow ostium and blood stasis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "left-atrial-appendage",
+        "thrombus-formation",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "ea-125",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 80-year-old man with atrial fibrillation, hypertension, diabetes, and a prior stroke is being evaluated for anticoagulation. He also has a history of gastrointestinal bleeding 6 months ago and chronic liver disease. His physician uses the HAS-BLED score to assess bleeding risk. Which of the following best describes the role of the HAS-BLED score in this patient's management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A high HAS-BLED score indicates that anticoagulation should be withheld entirely because the bleeding risk outweighs the stroke prevention benefit"
+        },
+        {
+          "label": "B",
+          "text": "The HAS-BLED score replaces the CHA2DS2-VASc score for determining whether anticoagulation therapy is indicated in AF patients"
+        },
+        {
+          "label": "C",
+          "text": "A high HAS-BLED score mandates the use of aspirin instead of oral anticoagulants to minimize bleeding complications"
+        },
+        {
+          "label": "D",
+          "text": "The HAS-BLED score identifies modifiable bleeding risk factors and guides closer monitoring rather than serving as a reason to withhold anticoagulation"
+        },
+        {
+          "label": "E",
+          "text": "The HAS-BLED score is only applicable to patients receiving warfarin and cannot be used for those on direct oral anticoagulants"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The HAS-BLED score identifies modifiable bleeding risk factors and guides closer monitoring. It helps clinicians identify high-risk patients who require more careful monitoring and bleeding prevention strategies, rather than serving as a reason to withhold anticoagulant therapy.",
+        "whyCorrect": "The HAS-BLED score helps identify modifiable bleeding risk factors and guides closer monitoring rather than serving as a reason to withhold anticoagulant therapy. Risk stratification tools like HAS-BLED help identify high-risk patients who require more careful monitoring and bleeding prevention strategies.",
+        "whyWrongByChoice": {
+          "A": "A high HAS-BLED score does not indicate that anticoagulation should be withheld. It guides closer monitoring and identification of modifiable risk factors, not withholding therapy that provides significant stroke prevention benefit.",
+          "B": "The HAS-BLED score does not replace the CHA2DS2-VASc score. CHA2DS2-VASc determines stroke risk and the need for anticoagulation, while HAS-BLED assesses bleeding risk to guide monitoring intensity.",
+          "C": "Aspirin is not recommended as a substitute for oral anticoagulants in high-bleeding-risk AF patients. The HAS-BLED score identifies areas where risk can be modified, not a threshold for switching to inferior therapy.",
+          "E": "The HAS-BLED score is applicable to all AF patients being considered for anticoagulation, regardless of whether they are on warfarin or DOACs. It is a general bleeding risk assessment tool."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "HAS-BLED",
+        "bleeding-risk",
+        "anticoagulation"
+      ]
+    },
+    {
+      "id": "ea-126",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 58-year-old man with no prior cardiac history presents with acute onset palpitations and lightheadedness. ECG shows atrial fibrillation with a rapid ventricular response at 155 beats/min. His blood pressure is 78/48 mm Hg and he appears diaphoretic and confused. The onset of symptoms was approximately 3 hours ago. Which of the following is the most appropriate immediate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Electrical cardioversion to rapidly restore sinus rhythm given the hemodynamic compromise and recent onset of the arrhythmia"
+        },
+        {
+          "label": "B",
+          "text": "Transesophageal echocardiography to exclude left atrial thrombus before any attempt at restoring sinus rhythm"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous metoprolol 5 mg to achieve rate control and allow hemodynamic stabilization before considering further intervention"
+        },
+        {
+          "label": "D",
+          "text": "Intravenous heparin infusion for 3 weeks followed by elective cardioversion once adequate anticoagulation has been established"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous diltiazem infusion at 5-15 mg/hour for gradual rate control with continuous hemodynamic monitoring in the ICU"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This patient has hemodynamically unstable AF with hypotension, diaphoresis, and confusion. Electrical cardioversion can rapidly restore sinus rhythm when hemodynamic compromise is present. The recent onset (<48 hours) reduces the thromboembolic risk.",
+        "whyCorrect": "Electrical cardioversion can rapidly restore sinus rhythm in patients with recent-onset AF, particularly when hemodynamic compromise is present. This patient is hemodynamically unstable (BP 78/48, diaphoretic, confused) requiring emergent intervention. The 3-hour symptom duration reduces thromboembolic risk.",
+        "whyWrongByChoice": {
+          "B": "TEE to exclude thrombus is appropriate for elective cardioversion but should not delay emergent cardioversion in a hemodynamically unstable patient. The immediate priority is hemodynamic stabilization.",
+          "C": "In hemodynamically unstable AF, rate control medications may further lower blood pressure and worsen the patient's condition. Emergent cardioversion is indicated when hemodynamic compromise is present.",
+          "D": "Waiting 3 weeks for anticoagulation is appropriate for elective cardioversion of AF lasting >48 hours in stable patients. This hemodynamically unstable patient requires immediate intervention.",
+          "E": "Like metoprolol, diltiazem could further reduce blood pressure in this hypotensive patient. Rate control is not the appropriate strategy when the patient is hemodynamically compromised."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "electrical-cardioversion",
+        "hemodynamic-instability",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "ea-127",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 62-year-old man with persistent atrial fibrillation is being managed with rate control and anticoagulation. He asks his cardiologist why he still needs to take an anticoagulant even though his heart rate is well controlled at 72 beats/min with metoprolol. The cardiologist explains the hemodynamic basis for continued stroke risk. Which of the following best explains why this patient remains at risk for stroke despite adequate rate control?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metoprolol causes platelet activation and increased coagulability as a side effect, independently increasing the risk of thromboembolism"
+        },
+        {
+          "label": "B",
+          "text": "Rate control medications paradoxically increase atrial pressure by reducing ventricular compliance, promoting thrombus formation"
+        },
+        {
+          "label": "C",
+          "text": "The loss of coordinated atrial contraction and irregular rhythm promote blood stasis in the atrial appendages regardless of ventricular rate"
+        },
+        {
+          "label": "D",
+          "text": "Controlled ventricular rates below 80 beats per minute cause chronotropic incompetence that increases thrombus formation risk"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blockers impair endothelial nitric oxide production in the left atrium, creating a prothrombotic endothelial surface"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Even with adequate rate control, the loss of coordinated atrial contraction and the irregular rhythm promote stasis of blood in the atrial appendages, significantly increasing the risk of thrombus formation and subsequent stroke.",
+        "whyCorrect": "Without effective atrial kick, ventricular filling is reduced. The irregular rhythm also promotes stasis of blood in the atrial appendages, significantly increasing the risk of thrombus formation and subsequent embolic events (strokes). This occurs regardless of whether the ventricular rate is controlled, because the atria remain in fibrillation.",
+        "whyWrongByChoice": {
+          "A": "Metoprolol does not cause platelet activation or increased coagulability. The stroke risk in AF is related to atrial stasis from loss of coordinated contraction, not to medication side effects.",
+          "B": "Rate control medications do not paradoxically increase atrial pressure. They reduce the ventricular rate to improve diastolic filling, but the underlying atrial fibrillation and loss of atrial kick persist.",
+          "D": "A rate of 72 bpm is within the target range (60-100 bpm) for rate control in AF and does not represent chronotropic incompetence. The stroke risk persists regardless of the controlled rate.",
+          "E": "Beta-blockers do not impair endothelial nitric oxide production in a clinically meaningful way that contributes to atrial thrombosis. The prothrombotic state in AF is due to blood stasis from loss of atrial contraction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "stroke-risk",
+        "atrial-stasis",
+        "anticoagulation-rationale"
+      ]
+    },
+    {
+      "id": "ea-128",
+      "topicId": "atrial-fibrillation",
+      "topicName": "Atrial Fibrillation",
+      "stem": "A 45-year-old man with no significant past medical history presents to the emergency department after an episode of binge drinking over the weekend. He reports rapid palpitations that began approximately 10 hours ago. ECG confirms atrial fibrillation with a ventricular rate of 118 beats/min. His CHA2DS2-VASc score is 0. After successful rate control, he is counseled on modifiable risk factors. Which of the following mechanisms best explains how his alcohol consumption contributed to the development of atrial fibrillation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol causes acute coronary vasospasm leading to transient myocardial ischemia that triggers atrial fibrillation through ischemic remodeling of atrial tissue"
+        },
+        {
+          "label": "B",
+          "text": "Alcohol directly damages the sinoatrial node, causing permanent loss of pacemaker function and allowing ectopic atrial foci to dominate cardiac rhythm"
+        },
+        {
+          "label": "C",
+          "text": "Excessive alcohol consumption, particularly binge drinking, can trigger acute episodes of AF and increase long-term risk through multiple mechanisms including inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol causes severe dehydration that reduces atrial preload, leading to atrial appendage collapse and triggering a compensatory tachyarrhythmia"
+        },
+        {
+          "label": "E",
+          "text": "Alcohol inhibits hepatic synthesis of coagulation factors, paradoxically creating a hypercoagulable state that triggers atrial fibrillation through microthrombi formation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Excessive alcohol consumption, particularly binge drinking, is a well-recognized trigger for acute AF episodes (historically termed 'holiday heart syndrome') and increases long-term AF risk through multiple mechanisms including inflammation.",
+        "whyCorrect": "Lifestyle factors significantly influence arrhythmia risk. Excessive alcohol consumption, particularly binge drinking, can trigger acute episodes and increase long-term risk. Obesity contributes through multiple mechanisms including increased atrial pressure, inflammation, and sleep-disordered breathing. Alcohol is specifically listed as a modifiable risk factor for AF.",
+        "whyWrongByChoice": {
+          "A": "While alcohol can have cardiovascular effects, the mechanism of alcohol-triggered AF is not primarily through coronary vasospasm and ischemic remodeling. The direct effects on atrial tissue and inflammation are more relevant.",
+          "B": "Alcohol does not cause permanent SA node damage leading to AF. The SA node continues to function, but its activity is overpowered by the chaotic atrial electrical activity during fibrillation (atrial rate >350 bpm).",
+          "D": "While alcohol can cause dehydration, AF is not triggered by atrial appendage collapse. The mechanism involves direct effects on atrial electrophysiology and inflammation, not simply volume depletion.",
+          "E": "Alcohol does not trigger AF through coagulation factor inhibition or microthrombi formation. The mechanism involves direct effects on atrial electrical activity and inflammatory processes, not a hypercoagulable state."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "atrial-fibrillation",
+        "alcohol",
+        "risk-factors",
+        "holiday-heart-syndrome"
+      ]
+    },
+    {
+      "id": "ea-087",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 52-year-old woman presents to the emergency department with acute onset palpitations and dizziness lasting 20 minutes. She has no cardiac history. Her heart rate is 178 bpm and blood pressure is 118/72 mmHg. ECG reveals a regular narrow QRS complex tachycardia with no clearly discernible P waves. Carotid sinus massage is performed, and the tachycardia abruptly terminates, restoring sinus rhythm at 78 bpm. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrioventricular nodal reentrant tachycardia sustained by dual AV nodal pathway micro-reentry"
+        },
+        {
+          "label": "B",
+          "text": "Multifocal atrial tachycardia arising from multiple ectopic atrial foci with variable morphology"
+        },
+        {
+          "label": "C",
+          "text": "Atrial flutter with 2:1 conduction causing a regular tachycardia with hidden flutter waves"
+        },
+        {
+          "label": "D",
+          "text": "Sinus tachycardia with gradual onset in response to physiologic stress or underlying illness"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation with a rapid ventricular response and irregularly irregular rhythm pattern"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "AVNRT is characterized by abrupt onset and termination, regular narrow QRS tachycardia, absent or retrograde P waves, and responsiveness to vagal maneuvers. It is the most common SVT in young people and often occurs without structural heart disease.",
+        "whyCorrect": "The regular narrow complex tachycardia with abrupt onset and termination by carotid sinus massage (a vagal maneuver) is classic for AVNRT. Vagal maneuvers slow AV nodal conduction and can terminate AVNRT in approximately 25% of cases by disrupting the reentry circuit within the AV node.",
+        "whyWrongByChoice": {
+          "C": "Atrial flutter with 2:1 conduction would typically present at a ventricular rate of approximately 150 bpm and would show a sawtooth pattern of flutter waves. Vagal maneuvers may slow the ventricular rate in atrial flutter but typically do not terminate the arrhythmia, as the sustaining mechanism lies in the atria.",
+          "B": "MAT produces an irregular tachycardia with at least 3 different P-wave morphologies and is most commonly associated with pulmonary disease. It would not present as a regular rhythm and would not be terminated by vagal maneuvers.",
+          "D": "Sinus tachycardia has gradual onset and resolution, not the abrupt onset and termination seen here. It also shows normal P waves preceding each QRS complex and is a physiologic response, not an arrhythmia.",
+          "E": "Atrial fibrillation produces an irregularly irregular rhythm, not the regular tachycardia described. Additionally, vagal maneuvers would slow the ventricular rate in AF but would not terminate the atrial fibrillation itself."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "AVNRT",
+        "supraventricular-tachycardia",
+        "vagal-maneuvers"
+      ]
+    },
+    {
+      "id": "ea-088",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 64-year-old man with COPD presents with worsening dyspnea during an acute exacerbation. His heart rate is 118 bpm and irregular. ECG shows a narrow QRS complex tachycardia with at least four distinctly different P-wave morphologies and varying P-P intervals. Serum potassium is 3.1 mEq/L and magnesium is 1.4 mg/dL. Which of the following is the most important initial management strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate synchronized cardioversion to restore normal sinus rhythm before further evaluation"
+        },
+        {
+          "label": "B",
+          "text": "Administration of adenosine 6 mg IV push to terminate the underlying reentrant tachyarrhythmia"
+        },
+        {
+          "label": "C",
+          "text": "Treatment of the underlying pulmonary disease and correction of electrolyte disturbances"
+        },
+        {
+          "label": "D",
+          "text": "Initiation of amiodarone infusion to achieve rhythm control and prevent recurrent arrhythmia episodes"
+        },
+        {
+          "label": "E",
+          "text": "Catheter ablation of the multiple ectopic atrial foci to permanently eliminate the arrhythmia substrate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ECG findings of irregular tachycardia with at least 3 different P-wave morphologies in a patient with COPD are diagnostic of multifocal atrial tachycardia (MAT). The primary management is treating the underlying pulmonary disease and correcting electrolyte abnormalities.",
+        "whyCorrect": "MAT occurs most commonly during pulmonary disease exacerbations and is associated with hypokalemia and hypomagnesemia. In most cases, treating the underlying COPD exacerbation and correcting electrolyte disturbances (potassium and magnesium) will restore normal sinus rhythm without specific antiarrhythmic therapy.",
+        "whyWrongByChoice": {
+          "A": "Synchronized cardioversion is not the appropriate initial management for MAT. Because MAT arises from multiple ectopic foci rather than a single reentry circuit, cardioversion is unlikely to be effective and does not address the underlying cause.",
+          "B": "Adenosine is effective for terminating reentrant tachycardias like AVNRT but is not appropriate for MAT, which originates from multiple atrial foci rather than a reentry circuit. Adenosine would not eliminate the multiple ectopic sources.",
+          "D": "Amiodarone is not the first-line treatment for MAT. The priority is addressing the reversible underlying causes (pulmonary disease, electrolyte abnormalities). Rate control with beta-blockers or non-dihydropyridine calcium channel blockers may be used if needed.",
+          "E": "Catheter ablation is not feasible or indicated for MAT because there are multiple ectopic foci throughout the atria. The arrhythmia is typically self-limiting once the underlying pulmonary disease and electrolyte abnormalities are corrected."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "multifocal-atrial-tachycardia",
+        "COPD",
+        "electrolyte-disturbance"
+      ]
+    },
+    {
+      "id": "ea-089",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 28-year-old man undergoes a routine pre-employment ECG. He is completely asymptomatic with no cardiac history. The ECG during normal sinus rhythm reveals a PR interval of 110 msec, a slurred upstroke on the initial portion of the QRS complex, and mild QTc prolongation. Which of the following is the most likely explanation for these ECG findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "First-degree AV block with delayed conduction through a diseased AV node causing PR prolongation"
+        },
+        {
+          "label": "B",
+          "text": "Wolff-Parkinson-White syndrome with ventricular pre-excitation via an accessory pathway (Kent bundle)"
+        },
+        {
+          "label": "C",
+          "text": "Left bundle branch block causing delayed depolarization of the left ventricle and widened QRS complex"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophic cardiomyopathy with septal hypertrophy causing Q waves in lateral leads on the ECG"
+        },
+        {
+          "label": "E",
+          "text": "Brugada syndrome with characteristic ST-segment elevation in the right precordial leads of the ECG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The clinical triad of shortened PR interval (<120 msec), delta wave (slurred upstroke of the QRS), and QTc prolongation is characteristic of Wolff-Parkinson-White syndrome, caused by an accessory pathway (Kent bundle) that bypasses the AV node.",
+        "whyCorrect": "WPW syndrome produces a characteristic triad on baseline ECG: shortened PR interval (<120 msec) because the impulse bypasses the normal AV nodal delay through the accessory pathway, a delta wave (slurred upstroke of the R wave) from pre-excitation of ventricular muscle by the accessory pathway, and QTc prolongation.",
+        "whyWrongByChoice": {
+          "A": "First-degree AV block is characterized by a prolonged PR interval (>200 msec), which is the opposite of the shortened PR interval (<120 msec) seen in WPW. It does not produce delta waves.",
+          "C": "Left bundle branch block produces a wide QRS complex with specific morphologic changes but does not cause a shortened PR interval or delta wave. The slurred upstroke in LBBB occurs later in the QRS, unlike the initial delta wave of WPW.",
+          "D": "Hypertrophic cardiomyopathy may produce abnormal Q waves and increased QRS voltage but does not cause a shortened PR interval or the characteristic delta wave pattern seen in WPW.",
+          "E": "Brugada syndrome shows characteristic ST elevation in leads V1-V3 with a specific morphology but does not produce a shortened PR interval or delta wave. The ECG findings described are specific to WPW."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "WPW-syndrome",
+        "delta-wave",
+        "pre-excitation",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-090",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 48-year-old woman is admitted to the hospital with new-onset heart failure. Her heart rate is 150 bpm and regular. ECG shows a narrow QRS tachycardia with a sawtooth pattern of atrial activity best seen in leads II, III, and aVF. The calculated atrial rate is approximately 300 bpm. Which of the following conduction ratios best explains the relationship between the atrial and ventricular rates in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1:1 conduction with the AV node transmitting every atrial impulse to the ventricles without delay"
+        },
+        {
+          "label": "B",
+          "text": "2:1 conduction with the AV node blocking every other atrial impulse due to its refractory period"
+        },
+        {
+          "label": "C",
+          "text": "3:1 conduction with the AV node transmitting only one of every three flutter waves to the ventricles"
+        },
+        {
+          "label": "D",
+          "text": "4:1 conduction resulting in a ventricular rate of approximately 75 beats per minute at rest"
+        },
+        {
+          "label": "E",
+          "text": "Variable conduction with irregular transmission of flutter waves producing an irregularly irregular rhythm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In typical atrial flutter with an atrial rate of ~300 bpm, the AV node cannot conduct every impulse due to its inherent refractory period. The most common conduction ratio is 2:1, resulting in a ventricular rate of ~150 bpm.",
+        "whyCorrect": "The AV node has inherently slow conduction and a filtering function that prevents all 300 atrial impulses per minute from reaching the ventricles. The typical conduction ratio is 2:1 (300/2 = 150 bpm), which matches this patient's ventricular rate of 150 bpm.",
+        "whyWrongByChoice": {
+          "A": "1:1 conduction would produce a ventricular rate of 300 bpm, which is not possible under normal AV nodal physiology. The AV node's refractory period prevents conduction of every impulse at this rapid atrial rate.",
+          "C": "3:1 conduction would produce a ventricular rate of 100 bpm (300/3), which does not match the patient's ventricular rate of 150 bpm. While 3:1 conduction can occur, it is less common than 2:1.",
+          "D": "4:1 conduction would yield a ventricular rate of 75 bpm (300/4), which is significantly lower than this patient's rate of 150 bpm. This ratio occurs but is not consistent with the clinical findings.",
+          "E": "Variable conduction would produce an irregular ventricular rhythm with varying R-R intervals. This patient has a regular ventricular rate of 150 bpm, indicating a fixed 2:1 conduction ratio."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "atrial-flutter",
+        "AV-conduction",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-091",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 35-year-old man with known Wolff-Parkinson-White syndrome presents with recurrent episodes of palpitations occurring 2-3 times per month. He has been managed with acute adenosine for symptomatic episodes. He now requests a more definitive treatment option to prevent future episodes. Which of the following is the most appropriate long-term management strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lifelong oral adenosine therapy taken daily to prevent tachyarrhythmia recurrence and maintain sinus rhythm"
+        },
+        {
+          "label": "B",
+          "text": "Permanent pacemaker implantation to override the accessory pathway and prevent reentrant circuits"
+        },
+        {
+          "label": "C",
+          "text": "Surgical maze procedure to create scar tissue barriers preventing atrial macro-reentrant circuits"
+        },
+        {
+          "label": "D",
+          "text": "Catheter radioablation of the accessory pathway performed in the electrophysiology laboratory"
+        },
+        {
+          "label": "E",
+          "text": "Chronic anticoagulation with warfarin to prevent thromboembolic complications from the arrhythmia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Catheter radioablation of the abnormal accessory pathway (Kent bundle) in the electrophysiology lab is the first-line definitive treatment for WPW syndrome with recurrent symptomatic tachycardia.",
+        "whyCorrect": "Once the patient is not acutely tachycardic, the first-line curative treatment for WPW is catheter radioablation of the abnormal pathway (Kent bundle) performed in the electrophysiology laboratory. This eliminates the substrate for the reentrant tachycardia and can be potentially curative.",
+        "whyWrongByChoice": {
+          "A": "Adenosine is an IV medication used for acute termination of SVT episodes and is not available or appropriate as a chronic oral therapy. It has an extremely short half-life and is only used in acute settings.",
+          "B": "Pacemaker implantation is used for bradyarrhythmias such as sick sinus syndrome, not for WPW. The problem in WPW is an accessory conduction pathway, not a failure of impulse generation that would require pacing.",
+          "C": "The surgical maze procedure is used for atrial fibrillation, not WPW. It creates barriers to interrupt macro-reentrant circuits in the atria, whereas WPW requires targeted ablation of the specific accessory pathway.",
+          "E": "Chronic anticoagulation is not standard therapy for WPW syndrome. Anticoagulation is indicated for atrial fibrillation and atrial flutter to prevent stroke, but WPW with AVRT does not carry the same thromboembolic risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "WPW-syndrome",
+        "catheter-ablation",
+        "AVRT",
+        "electrophysiology"
+      ]
+    },
+    {
+      "id": "ea-092",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 42-year-old woman with recurrent AVNRT is brought to the emergency department during an acute episode. Her heart rate is 188 bpm and she is hemodynamically stable with blood pressure of 110/68 mmHg. Valsalva maneuver is attempted but fails to terminate the arrhythmia. Which of the following medications is the most appropriate next step, with an efficacy rate exceeding 90% for termination of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenosine administered as a rapid intravenous push to transiently block AV nodal conduction"
+        },
+        {
+          "label": "B",
+          "text": "Amlodipine administered orally to reduce calcium-dependent conduction through the AV node"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone administered as a slow intravenous infusion to suppress abnormal atrial automaticity"
+        },
+        {
+          "label": "D",
+          "text": "Digoxin administered intravenously to increase vagal tone and slow AV nodal conduction velocity"
+        },
+        {
+          "label": "E",
+          "text": "Atropine administered intravenously to block parasympathetic input and accelerate AV nodal conduction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adenosine is effective in more than 90% of AVNRT cases and is the first-line medication after vagal maneuvers fail in stable patients with AVNRT.",
+        "whyCorrect": "Adenosine is administered as a rapid IV push and transiently blocks AV nodal conduction, interrupting the reentrant circuit that sustains AVNRT. It is effective in more than 90% of cases and has a very short half-life, limiting the duration of any adverse effects.",
+        "whyWrongByChoice": {
+          "B": "Amlodipine is a dihydropyridine calcium channel blocker that has little or no effect on the AV node at standard doses. Non-dihydropyridine calcium channel blockers (verapamil, diltiazem) are effective for AVNRT, but amlodipine is not.",
+          "C": "Amiodarone is a broad-spectrum antiarrhythmic but is not first-line for acute AVNRT termination. It has a slow onset of action and significant side effects. Adenosine is preferred for its rapid efficacy and short duration of action.",
+          "D": "Digoxin increases vagal tone and can slow AV nodal conduction, but its onset of action is too slow for acute termination of AVNRT. It is not appropriate as acute therapy when rapid termination is needed.",
+          "E": "Atropine blocks parasympathetic input and would accelerate AV nodal conduction, potentially worsening the tachycardia. It is used for bradycardia, not tachyarrhythmias. It would facilitate rather than interrupt the reentrant circuit."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "AVNRT",
+        "adenosine",
+        "pharmacology",
+        "acute-management"
+      ]
+    },
+    {
+      "id": "ea-093",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 70-year-old man with chronic heart failure presents with palpitations and dyspnea. ECG shows a regular atrial rhythm at 160 bpm with discrete abnormal P waves and 1:1 AV conduction producing a ventricular rate of 160 bpm. He takes digoxin 0.25 mg daily. Serum digoxin level returns elevated at 3.2 ng/mL. Which of the following ECG findings would most strongly suggest digitalis toxicity as the cause of this arrhythmia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of sawtooth flutter waves at 300 bpm with regular 2:1 conduction to the ventricles"
+        },
+        {
+          "label": "B",
+          "text": "Irregularly irregular rhythm with absence of organized atrial activity and fibrillatory baseline"
+        },
+        {
+          "label": "C",
+          "text": "Atrial tachycardia with 2:1 or higher conduction ratios rather than the typical 1:1 conduction"
+        },
+        {
+          "label": "D",
+          "text": "Regular narrow complex tachycardia at 190 bpm with retrograde P waves buried in the QRS"
+        },
+        {
+          "label": "E",
+          "text": "Multiple different P-wave morphologies with irregular P-P intervals and rate above 100 bpm"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Digitalis intoxication characteristically causes atrial tachycardia with conduction ratios other than 1:1 (e.g., 2:1 or higher). Digoxin enhances vagal tone, so when atrial tachycardia is caused by digitalis, higher conduction ratios are seen, which are unusual with other causes.",
+        "whyCorrect": "When atrial tachycardia is caused by digitalis preparations, 2:1 or higher conduction ratios are seen due to digoxin's enhancement of vagal effects on the AV node. This combination (atrial tachycardia with block) is unusual with other causes and should immediately raise suspicion for digitalis toxicity.",
+        "whyWrongByChoice": {
+          "A": "Sawtooth flutter waves at 300 bpm with 2:1 conduction describe typical atrial flutter, which is caused by a macro-reentrant circuit in the right atrium. While digitalis can contribute to atrial flutter, the sawtooth pattern itself is not specific for digitalis toxicity.",
+          "B": "An irregularly irregular rhythm with no organized atrial activity describes atrial fibrillation, which has many causes and is not specifically diagnostic of digitalis toxicity. The ECG pattern is distinct from atrial tachycardia with block.",
+          "D": "Regular narrow complex tachycardia with retrograde P waves describes AVNRT, which is caused by dual AV nodal pathway micro-reentry. This is not characteristically associated with digitalis toxicity.",
+          "E": "Multiple P-wave morphologies with irregular intervals describe multifocal atrial tachycardia, which is most commonly associated with pulmonary disease. While digitalis toxicity is listed as a possible cause of MAT, the more characteristic finding is atrial tachycardia with conduction block."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "digitalis-toxicity",
+        "atrial-tachycardia",
+        "digoxin",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-094",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 56-year-old woman presents to the emergency department with palpitations and mild dizziness. ECG shows atrial flutter with a ventricular rate of 142 bpm. She is hemodynamically stable. Rate control is achieved with IV diltiazem, reducing the ventricular rate to 78 bpm. However, the flutter waves persist on ECG. Her CHA2DS2-VASc score is 3. Which of the following additional management considerations is most important for this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No anticoagulation is needed because atrial flutter carries negligible stroke risk compared to atrial fibrillation"
+        },
+        {
+          "label": "B",
+          "text": "Aspirin alone is sufficient for stroke prevention in atrial flutter regardless of CHA2DS2-VASc score"
+        },
+        {
+          "label": "C",
+          "text": "Anticoagulation should be initiated because atrial flutter carries a stroke risk similar to atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Anticoagulation is only indicated if the atrial flutter converts to atrial fibrillation on subsequent monitoring"
+        },
+        {
+          "label": "E",
+          "text": "Anticoagulation can be safely deferred until catheter ablation of the flutter circuit is performed electively"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Current guidelines indicate that atrial flutter and atrial fibrillation should be treated the same when it comes to stroke prevention with anticoagulation. Atrial flutter carries a stroke risk similar to atrial fibrillation.",
+        "whyCorrect": "Atrial flutter carries a stroke risk that is similar, though slightly lower in some reports, to atrial fibrillation. Current guidelines mandate that atrial flutter and fibrillation should be treated the same regarding stroke prevention with anticoagulation, especially in patients with elevated CHA2DS2-VASc scores.",
+        "whyWrongByChoice": {
+          "A": "This is incorrect. Atrial flutter does carry significant stroke risk, and current guidelines recommend treating it the same as atrial fibrillation for anticoagulation purposes. Failure to anticoagulate exposes the patient to preventable thromboembolic complications.",
+          "B": "Aspirin alone is insufficient for stroke prevention in atrial flutter with elevated CHA2DS2-VASc scores. Full anticoagulation (with direct oral anticoagulants or warfarin) is recommended, similar to the approach used for atrial fibrillation.",
+          "D": "Anticoagulation should not be withheld pending conversion to atrial fibrillation. Atrial flutter independently carries significant stroke risk, and guidelines recommend anticoagulation based on the CHA2DS2-VASc score regardless of whether atrial fibrillation coexists.",
+          "E": "Anticoagulation should not be deferred while waiting for ablation. The stroke risk exists as long as the arrhythmia is present, and anticoagulation should be initiated promptly based on the patient's risk factors."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "atrial-flutter",
+        "anticoagulation",
+        "stroke-prevention"
+      ]
+    },
+    {
+      "id": "ea-095",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 24-year-old man with Wolff-Parkinson-White syndrome presents with a regular narrow complex tachycardia at 184 bpm. He is hemodynamically stable. Adenosine 6 mg IV push is administered and successfully terminates the tachycardia. Post-conversion ECG shows sinus rhythm with a short PR interval and delta waves. Which of the following best explains why the QRS complex during the tachycardia was narrow despite the presence of an accessory pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The accessory pathway was used for retrograde conduction only while antegrade conduction proceeded through the AV node"
+        },
+        {
+          "label": "B",
+          "text": "The accessory pathway was completely blocked during the tachycardia, preventing any pre-excitation from occurring"
+        },
+        {
+          "label": "C",
+          "text": "The tachycardia rate was too fast for the accessory pathway to conduct, rendering it functionally inactive"
+        },
+        {
+          "label": "D",
+          "text": "The delta wave and pre-excitation only appear during bradycardic states and are suppressed by tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Adenosine eliminated the accessory pathway before conversion, so the narrow QRS reflected pathway ablation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In orthodromic AVRT, the reentrant impulse travels antegradely down the AV junction and bundle branches (producing a narrow QRS) and retrogradely through the accessory pathway back to the atria, completing the macro-reentrant circuit.",
+        "whyCorrect": "During orthodromic AVRT in WPW, the circuit involves antegrade conduction through the normal AV node/His-Purkinje pathway (producing a narrow, normal-appearing QRS) and retrograde conduction through the accessory pathway (Kent bundle) back to the atria. Since ventricular activation occurs via the normal conduction system, the QRS remains narrow.",
+        "whyWrongByChoice": {
+          "B": "The accessory pathway is actively participating in the tachycardia circuit; it is not blocked. It conducts retrogradely, carrying the impulse from the ventricles back to the atria to complete the reentrant loop.",
+          "C": "The accessory pathway is functional during the tachycardia and is essential to maintaining the reentrant circuit. The rate does not prevent accessory pathway conduction; rather, the pathway conducts in the retrograde direction.",
+          "D": "Delta waves and pre-excitation on baseline ECG reflect antegrade conduction through the accessory pathway during sinus rhythm. During the tachycardia, the pathway conducts retrogradely only, so pre-excitation is not seen. This is not related to heart rate suppression.",
+          "E": "Adenosine has a transient effect lasting only seconds and does not ablate or permanently alter the accessory pathway. The pathway remains intact, as evidenced by the delta waves seen on the post-conversion sinus rhythm ECG."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "AVRT",
+        "WPW-syndrome",
+        "orthodromic-tachycardia",
+        "electrophysiology"
+      ]
+    },
+    {
+      "id": "ea-096",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 38-year-old woman presents to the emergency department with a heart rate of 196 bpm and blood pressure of 72/44 mmHg. She is diaphoretic and confused. ECG shows a regular narrow complex tachycardia. Vagal maneuvers and adenosine administration fail to terminate the arrhythmia. Which of the following is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Administer oral verapamil and monitor for conversion to sinus rhythm over the next several hours"
+        },
+        {
+          "label": "B",
+          "text": "Initiate intravenous amiodarone loading dose for chemical cardioversion of the reentrant tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Perform synchronized cardioversion with the shock timed to the R wave to avoid the vulnerable period"
+        },
+        {
+          "label": "D",
+          "text": "Attempt repeat carotid sinus massage with ice water immersion to maximize parasympathetic vagal tone"
+        },
+        {
+          "label": "E",
+          "text": "Place a temporary transvenous pacemaker to overdrive pace and terminate the tachyarrhythmia circuit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In an unstable patient with SVT who does not respond to vagal maneuvers or adenosine, synchronized cardioversion is the appropriate next step. The shock is synchronized to the R wave to avoid the vulnerable repolarization period.",
+        "whyCorrect": "Synchronized cardioversion delivers a timed electrical shock synchronized with the R wave of the ECG to terminate unstable tachyarrhythmias. This timing avoids delivery during the vulnerable repolarization phase, reducing the risk of inducing ventricular fibrillation. It is indicated when the patient is hemodynamically unstable and pharmacologic measures have failed.",
+        "whyWrongByChoice": {
+          "A": "Oral verapamil has a slow onset and is inappropriate for an acutely unstable patient with hypotension and altered mental status. Hemodynamic instability requires immediate intervention, not expectant management with oral medications.",
+          "B": "While amiodarone can be used for certain arrhythmias, it has a slow onset of action and is not the preferred approach for an unstable patient who has already failed first-line pharmacotherapy. Synchronized cardioversion provides rapid and definitive termination.",
+          "D": "Vagal maneuvers have already been attempted and failed. Repeating them in a hemodynamically unstable patient delays definitive treatment. The priority is immediate cardioversion to restore hemodynamic stability.",
+          "E": "Overdrive pacing is not the standard approach for acute SVT in an unstable patient. Synchronized cardioversion is more immediately available and effective for terminating the tachyarrhythmia in this emergency setting."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "synchronized-cardioversion",
+        "SVT",
+        "hemodynamic-instability",
+        "emergency-management"
+      ]
+    },
+    {
+      "id": "ea-097",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 55-year-old man presents with palpitations. ECG shows a tachycardia at 162 bpm with a regular, narrow QRS complex. His physician is trying to distinguish between sinus tachycardia and a paroxysmal supraventricular tachycardia. Which of the following clinical features most reliably differentiates sinus tachycardia from PSVT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sinus tachycardia always presents with a heart rate above 150 bpm while PSVT is typically below 150 bpm"
+        },
+        {
+          "label": "B",
+          "text": "Sinus tachycardia has gradual onset and resolution while PSVT has abrupt onset and termination"
+        },
+        {
+          "label": "C",
+          "text": "Sinus tachycardia produces wide QRS complexes while PSVT uniformly produces narrow QRS complexes"
+        },
+        {
+          "label": "D",
+          "text": "Sinus tachycardia is always irregular while PSVT is always perfectly regular without rate variation"
+        },
+        {
+          "label": "E",
+          "text": "Sinus tachycardia responds to adenosine with permanent termination while PSVT is resistant to adenosine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The key distinguishing feature between sinus tachycardia and PSVT is the pattern of onset and termination. Sinus tachycardia has gradual onset and resolution, while PSVT (including AVNRT, AVRT) has abrupt onset and termination.",
+        "whyCorrect": "Sinus tachycardia is a physiologic increase in sinus rate in response to activity, stress, or illness and thus demonstrates gradual onset and resolution. In contrast, PSVT is defined as a regular narrow complex tachycardia of abrupt onset and termination, which is one of its most reliable distinguishing features.",
+        "whyWrongByChoice": {
+          "A": "Both sinus tachycardia and PSVT can present at rates above or below 150 bpm. PSVT typically has a rate range of 110-200 bpm, and sinus tachycardia can also exceed 150 bpm. Heart rate alone does not reliably distinguish them.",
+          "C": "Both sinus tachycardia and PSVT typically produce narrow QRS complexes because impulses are conducted through the normal His-Purkinje system. Wide QRS can occur in either if bundle branch block is present.",
+          "D": "Sinus tachycardia is regular (with mild sinus arrhythmia), and PSVT is also regular. Irregularity is not a distinguishing feature between these two rhythms.",
+          "E": "This is the opposite of the true relationship. Adenosine terminates PSVT (especially AVNRT) in more than 90% of cases but does not terminate sinus tachycardia, which will transiently slow and then resume."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "sinus-tachycardia",
+        "PSVT",
+        "differential-diagnosis",
+        "ECG-interpretation"
+      ]
+    },
+    {
+      "id": "ea-098",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 31-year-old woman with no known cardiac history presents with intermittent palpitations described as a sensation of her heart 'skipping a beat.' She reports the episodes are brief and self-resolving. She drinks 4 cups of coffee daily and has been under significant work stress. ECG shows normal sinus rhythm with an occasional early beat preceded by an abnormal P wave followed by a normal QRS complex. Echocardiography is normal. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Initiate daily beta-blocker therapy to suppress the ectopic atrial focus and prevent recurrence"
+        },
+        {
+          "label": "B",
+          "text": "Refer for catheter ablation of the ectopic focus to definitively eliminate the source of the arrhythmia"
+        },
+        {
+          "label": "C",
+          "text": "Start oral flecainide to prevent progression from premature atrial contractions to atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Begin anticoagulation therapy due to the risk of atrial thrombus formation from irregular contractions"
+        },
+        {
+          "label": "E",
+          "text": "Reassure the patient that no specific treatment is required as PACs are generally benign"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Premature atrial contractions are the least dangerous supraventricular arrhythmia. In a patient with a structurally normal heart, PACs generally require no treatment, and reassurance is appropriate.",
+        "whyCorrect": "PACs are common, minimally symptomatic arrhythmias that generally require no treatment. They arise from an ectopic focus in the atria and produce an abnormal P wave followed by a normal QRS. In patients with normal echocardiography and no structural heart disease, they are benign and reassurance is the appropriate management.",
+        "whyWrongByChoice": {
+          "A": "Beta-blocker therapy is not indicated for occasional, benign PACs in a patient with no structural heart disease. The potential side effects of daily medication outweigh any benefit for this benign condition.",
+          "B": "Catheter ablation is reserved for symptomatic, refractory arrhythmias and is not appropriate for occasional PACs. The invasive nature of the procedure is not justified for this benign finding.",
+          "C": "Flecainide is an antiarrhythmic agent used for more serious arrhythmias and carries proarrhythmic risks. It is not indicated for benign PACs, and there is no established progression from PACs to atrial fibrillation requiring prophylaxis.",
+          "D": "Anticoagulation is not indicated for PACs. The thromboembolic risk associated with atrial fibrillation and atrial flutter does not apply to isolated premature atrial contractions, which do not cause sustained atrial stasis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "premature-atrial-contractions",
+        "benign-arrhythmia",
+        "reassurance"
+      ]
+    },
+    {
+      "id": "ea-099",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 26-year-old medical student with no prior cardiac history experiences sudden onset of rapid palpitations during an exam. Her heart rate is 172 bpm with a regular narrow QRS complex tachycardia on ECG. She is hemodynamically stable. Her physician suspects AVNRT based on the clinical presentation. Which of the following best describes the underlying anatomic substrate that predisposes this patient to AVNRT?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A congenital accessory pathway (Kent bundle) connecting the atria to the ventricles and bypassing the AV node"
+        },
+        {
+          "label": "B",
+          "text": "Structural remodeling of the atrial myocardium with fibrosis creating a macro-reentrant circuit in the right atrium"
+        },
+        {
+          "label": "C",
+          "text": "Dual AV nodal pathways with fast and slow conduction properties, an anatomic variant present in 7-10% of the population"
+        },
+        {
+          "label": "D",
+          "text": "Multiple ectopic atrial foci with enhanced automaticity triggered by elevated catecholamine levels during stress"
+        },
+        {
+          "label": "E",
+          "text": "Acquired AV nodal disease from prior myocarditis causing areas of slow conduction and unidirectional block"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "AVNRT is caused by micro-reentry within the AV node involving dual AV nodal pathways (fast and slow pathways). This anatomic variation is present in 7-10% of the population, with a prevalence roughly equal to being left-handed.",
+        "whyCorrect": "The substrate for AVNRT is the presence of dual AV nodal pathways with different conduction velocities and refractory periods. This is not considered pathological but rather an anatomic variation, existing in 7-10% of the population. It is the most common SVT in young people and often occurs without structural heart disease.",
+        "whyWrongByChoice": {
+          "A": "An accessory pathway (Kent bundle) bypassing the AV node is the substrate for AVRT/WPW syndrome, not AVNRT. AVNRT involves dual pathways within the AV node itself, not an extra-nodal bypass tract.",
+          "B": "Structural remodeling with atrial fibrosis creating a macro-reentrant circuit describes atrial flutter, not AVNRT. AVNRT is a micro-reentrant tachycardia centered on the AV node, not a macro-reentrant atrial circuit.",
+          "D": "Multiple ectopic atrial foci with enhanced automaticity describes the mechanism of multifocal atrial tachycardia, not AVNRT. AVNRT is a reentrant arrhythmia, not a disorder of automaticity.",
+          "E": "AVNRT is based on a congenital anatomic variation (dual AV nodal pathways), not on acquired AV nodal disease. The dual pathways are present from birth and are not the result of prior inflammation or structural damage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "AVNRT",
+        "dual-AV-nodal-pathways",
+        "electrophysiology",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "ea-100",
+      "topicId": "supraventricular-arrhythmias",
+      "topicName": "Supraventricular Arrhythmias",
+      "stem": "A 60-year-old man with atrial flutter has been on metoprolol for rate control. His ventricular rate has been well-controlled at 75 bpm (4:1 conduction ratio). He presents today reporting that his heart rate suddenly jumped to about 150 bpm while climbing stairs. ECG confirms atrial flutter at an atrial rate of 300 bpm with 2:1 conduction. Which of the following best explains this abrupt change in ventricular rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The atrial flutter circuit accelerated from 300 bpm to 600 bpm due to increased sympathetic drive during exercise"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular rate variations in atrial flutter occur as multiples of the constant atrial rate due to changes in AV conduction ratios"
+        },
+        {
+          "label": "C",
+          "text": "Atrial flutter converted to atrial fibrillation during exercise, producing a faster but irregularly irregular ventricular response"
+        },
+        {
+          "label": "D",
+          "text": "A new accessory pathway developed during exercise allowing bypass of the AV node and direct ventricular stimulation"
+        },
+        {
+          "label": "E",
+          "text": "The metoprolol dose became subtherapeutic during exercise due to increased hepatic metabolism from elevated cardiac output"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In atrial flutter, the atrial rate remains constant (typically ~300 bpm) because it is generated by a fixed-velocity reentrant circuit. Ventricular rate changes occur solely through changes in AV conduction ratios, producing abrupt rather than gradual rate shifts.",
+        "whyCorrect": "The flutter waves have a constant rate because they are formed by a constant velocity reentry circuit. Variation in the ventricular rate occurs solely due to changes in conduction ratios (e.g., 4:1 to 2:1). This creates the potential for abrupt, rather than gradual, changes in the ventricular rate, making atrial flutter a potentially more unstable rhythm than atrial fibrillation.",
+        "whyWrongByChoice": {
+          "A": "The atrial flutter circuit rate remains essentially constant at approximately 300 bpm because the macro-reentrant circuit has a fixed conduction velocity determined by the size of the atrium. Sympathetic tone does not significantly alter the flutter rate.",
+          "C": "The ECG confirms atrial flutter with 2:1 conduction, not conversion to atrial fibrillation. Atrial fibrillation would show an irregularly irregular rhythm without organized flutter waves, which is not described here.",
+          "D": "Accessory pathways are congenital and do not develop de novo during exercise. The rate change is explained by a shift in AV conduction ratio from 4:1 to 2:1, which is a well-known characteristic of atrial flutter.",
+          "E": "The abrupt doubling of ventricular rate from 75 to 150 bpm is not consistent with gradual drug metabolism changes. The rate change occurred as a discrete jump (4:1 to 2:1), which is characteristic of atrial flutter's conduction ratio changes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "cardiology",
+        "atrial-flutter",
+        "AV-conduction-ratios",
+        "rate-control",
+        "hemodynamic-instability"
+      ]
+    }
+  ]
+}
