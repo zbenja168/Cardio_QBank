@@ -3,6 +3,10 @@ export interface Topic {
   name: string;
   sourceFile: string;
   questionCount: number;
+  /** High-yield questions in the topic. This bank has no core/extra split,
+   *  so hyCoreCount equals hyCount. */
+  hyCount?: number;
+  hyCoreCount?: number;
 }
 
 export interface Category {

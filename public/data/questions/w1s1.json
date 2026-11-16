@@ -48,7 +48,8 @@
         "recurrent-laryngeal-nerve",
         "SVC-syndrome",
         "clinical-correlation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-002",
@@ -336,7 +337,8 @@
         "SVC-syndrome",
         "brachiocephalic-veins",
         "venous-anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-008",
@@ -480,7 +482,8 @@
         "thoracic-duct",
         "lymphatic-system",
         "venous-angle"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-011",
@@ -528,7 +531,8 @@
         "thoracic-duct",
         "chylothorax",
         "lymphatic-system"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-012",
@@ -624,7 +628,8 @@
         "esophagus",
         "left-atrium",
         "transesophageal-echocardiography"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-014",
@@ -768,7 +773,8 @@
         "splanchnic-nerves",
         "sympathetic-nervous-system",
         "posterior-mediastinum"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-017",
@@ -1009,7 +1015,8 @@
         "esophageal-compression",
         "mitral-stenosis",
         "mediastinal-anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-022",
@@ -1057,7 +1064,8 @@
         "chordae-tendineae",
         "mitral-regurgitation",
         "myocardial-infarction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-023",
@@ -1393,7 +1401,8 @@
         "cardiac-silhouette",
         "left-ventricle",
         "right-atrium"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-030",
@@ -1441,7 +1450,8 @@
         "endocarditis",
         "pulmonary-embolism",
         "blood-flow"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-031",
@@ -1633,7 +1643,8 @@
         "interventricular-septum",
         "coronary-occlusion",
         "myocardial-infarction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-035",
@@ -1729,7 +1740,8 @@
         "anastomosis",
         "myocardial-infarction",
         "coronary-anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-037",
@@ -1777,7 +1789,8 @@
         "posterior-descending-artery",
         "AV-node",
         "inferior-MI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-038",
@@ -2161,7 +2174,8 @@
         "gap junctions",
         "connexin",
         "cardiac electrophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-003",
@@ -2257,7 +2271,8 @@
         "cardiomyocytes",
         "ventricular hypertrophy",
         "cardiac muscle"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-005",
@@ -2449,7 +2464,8 @@
         "mesothelium",
         "coronary arteries",
         "simple squamous epithelium"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-009",
@@ -2593,7 +2609,8 @@
         "macula adherens",
         "ARVC",
         "intercalated discs"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-012",
@@ -2689,7 +2706,8 @@
         "tachycardia",
         "ventricular-filling",
         "atrial-kick"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-002",
@@ -2737,7 +2755,8 @@
         "heart-sounds",
         "aortic-stenosis",
         "S1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-003",
@@ -2832,7 +2851,8 @@
         "v-wave",
         "right-atrial-pressure",
         "heart-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-005",
@@ -3021,7 +3041,8 @@
         "isovolumetric-contraction",
         "valve-status",
         "hypertension"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-009",
@@ -3261,7 +3282,8 @@
         "S4",
         "ventricular-hypertrophy",
         "auscultation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-014",
@@ -3453,7 +3475,8 @@
         "paradoxical-splitting",
         "aortic-stenosis",
         "S2"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-018",
@@ -3501,7 +3524,8 @@
         "fixed-splitting",
         "atrial-septal-defect",
         "congenital"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-019",
@@ -3549,7 +3573,8 @@
         "S3",
         "dilated-cardiomyopathy",
         "heart-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-020",

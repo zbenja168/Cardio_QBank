@@ -50,7 +50,8 @@
         "propranolol",
         "bronchospasm",
         "asthma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-014",
@@ -99,7 +100,8 @@
         "amiodarone",
         "pulmonary-toxicity",
         "adverse-effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-015",
@@ -197,7 +199,8 @@
         "adenosine",
         "AVNRT",
         "mechanism-of-action"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-017",
@@ -538,7 +541,8 @@
         "verapamil",
         "calcium-channel-blocker",
         "adverse-effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-024",
@@ -635,7 +639,8 @@
         "pathophysiology",
         "reentrant-wavelets",
         "ECG-interpretation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-116",
@@ -729,7 +734,8 @@
         "CHA2DS2-VASc",
         "anticoagulation",
         "DOAC"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-118",
@@ -776,7 +782,8 @@
         "rate-control",
         "hemodynamics",
         "AV-nodal-blocking-agents"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-119",
@@ -917,7 +924,8 @@
         "catheter-ablation",
         "pulmonary-vein-isolation",
         "rhythm-control"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-122",
@@ -1246,7 +1254,8 @@
         "alcohol",
         "risk-factors",
         "holiday-heart-syndrome"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-087",
@@ -1293,7 +1302,8 @@
         "AVNRT",
         "supraventricular-tachycardia",
         "vagal-maneuvers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-088",
@@ -1340,7 +1350,8 @@
         "multifocal-atrial-tachycardia",
         "COPD",
         "electrolyte-disturbance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-089",
@@ -1388,7 +1399,8 @@
         "delta-wave",
         "pre-excitation",
         "ECG-interpretation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-090",
@@ -1435,7 +1447,8 @@
         "atrial-flutter",
         "AV-conduction",
         "ECG-interpretation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-091",
@@ -1531,7 +1544,8 @@
         "adenosine",
         "pharmacology",
         "acute-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-093",

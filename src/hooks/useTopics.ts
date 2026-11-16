@@ -11,6 +11,15 @@ export function useTopics() {
   const [topics, setTopics] = useState<TopicsIndex | null>(null);
   const [selectedTopicIds, setSelectedTopicIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
+  /** High Yield mode condenses every topic to its high-yield picks.
+   *  Remembered per browser; storage can throw (private mode), so guard it. */
+  const [hyMode, setHyModeState] = useState<boolean>(() => {
+    try { return localStorage.getItem('cardio-qbank_hy') === '1'; } catch { return false; }
+  });
+  const setHyMode = useCallback((on: boolean) => {
+    setHyModeState(on);
+    try { localStorage.setItem('cardio-qbank_hy', on ? '1' : '0'); } catch { /* ignore */ }
+  }, []);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/topics.json`)
@@ -85,5 +94,7 @@ export function useTopics() {
     selectAll,
     clearAll,
     setSelectedTopicIds,
+    hyMode,
+    setHyMode,
   };
 }

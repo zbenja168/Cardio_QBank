@@ -3,6 +3,12 @@ import { Question } from '../types/question';
 import { loadMultipleCategories } from '../utils/questionLoader';
 import { shuffle } from '../utils/shuffle';
 
+/** High Yield mode: a quiz serves only the questions the high-yield pass
+ *  picked. Module-level so loadQuestions keeps the signature every QBank
+ *  shares (see _verify_extras_port.py). */
+let highYieldOnly = false;
+export function setHighYieldOnly(on: boolean) { highYieldOnly = on; }
+
 export function useQuestions() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [loading, setLoading] = useState(false);
@@ -17,7 +23,9 @@ export function useQuestions() {
     try {
       const categories = await loadMultipleCategories(categoryIds);
       const all = categories.flatMap(c => c.questions);
-      const inTopics = all.filter(q => selectedTopicIds.has(q.topicId));
+      const inTopics = all
+        .filter(q => selectedTopicIds.has(q.topicId))
+        .filter(q => !highYieldOnly || q.hy === true);
       // A quiz serves what is LEFT in the chosen topics, so picking a topic you
       // are 6 of 12 through gives you those 6. If everything in the selection is
       // done, serve it all rather than an empty quiz - the picker greys finished

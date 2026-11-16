@@ -48,7 +48,8 @@
         "athlete",
         "physiologic",
         "PR-interval"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-064",
@@ -144,7 +145,8 @@
         "pacemaker",
         "second-degree-AV-block",
         "complete-heart-block"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-066",
@@ -192,7 +194,8 @@
         "complete-heart-block",
         "escape-rhythm",
         "infra-Hisian"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-067",
@@ -240,7 +243,8 @@
         "bundle-branch-block",
         "QRS-morphology",
         "V1-pattern"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-068",
@@ -625,7 +629,8 @@
         "ventricular-tachycardia",
         "pathophysiology",
         "myocardial-infarction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-102",
@@ -672,7 +677,8 @@
         "ventricular-fibrillation",
         "defibrillation",
         "emergency-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-103",
@@ -719,7 +725,8 @@
         "torsades-de-pointes",
         "long-QT-syndrome",
         "drug-induced-arrhythmia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-104",
@@ -860,7 +867,8 @@
         "ventricular-tachycardia",
         "synchronized-cardioversion",
         "hemodynamic-instability"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-107",
@@ -1189,7 +1197,8 @@
         "ventricular-tachycardia",
         "pulmonary-edema",
         "post-CABG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-114",

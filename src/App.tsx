@@ -2,7 +2,7 @@ import { useState, useCallback, useEffect } from 'react';
 import { useTopicProgress } from './hooks/useTopicProgress';
 import { setCompletedTopicIds, useTopics } from './hooks/useTopics';
 import { useProgress } from './hooks/useProgress';
-import { useQuestions } from './hooks/useQuestions';
+import { useQuestions, setHighYieldOnly } from './hooks/useQuestions';
 import { MembraneLoader } from './components/Membrane';
 import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
@@ -27,8 +27,22 @@ function AppShell() {
   // total and a finished topic can grey itself out.
   const { stats: topicStats, answeredIds } = useTopicProgress(topicsHook.topics, progress);
   // Keep bulk selection in step with what is finished.
+  // In High Yield mode a topic is "done" once its HY picks are answered.
+  // A saved HY preference is ignored while the data carries no HY picks, so a
+  // bank without them behaves exactly as before.
+  const anyHy = !!topicsHook.topics?.categories.some(c => c.topics.some(t => (t.hyCount ?? 0) > 0));
+  const hyMode = topicsHook.hyMode && anyHy;
+  setHighYieldOnly(hyMode);
   setCompletedTopicIds(new Set(
-    topicStats ? Array.from(topicStats).filter(([, v]) => v.complete).map(([k]) => k) : []));
+    topicStats ? Array.from(topicStats)
+      .filter(([, v]) => (hyMode ? v.hyComplete : v.complete)).map(([k]) => k) : []));
+  // High Yield mode counts each selected topic's HY picks: the loaded figure
+  // or, before the question files land, the topics.json count.
+  const selectedCount = !hyMode || !topicsHook.topics
+    ? topicsHook.selectedCount
+    : topicsHook.topics.categories.flatMap(c => c.topics)
+        .filter(t => topicsHook.selectedTopicIds.has(t.id))
+        .reduce((n, t) => n + (topicStats?.get(t.id)?.hyTotal ?? t.hyCoreCount ?? 0), 0);
 
   // Load all questions for dashboard/review
   const allCategoryIds = topicsHook.topics?.categories.map(c => c.id) ?? [];
@@ -135,7 +149,9 @@ function AppShell() {
         <HomePage
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
-          selectedCount={topicsHook.selectedCount}
+          selectedCount={selectedCount}
+          hyMode={hyMode}
+          onSetHyMode={topicsHook.setHyMode}
           topicStats={topicStats}
           progress={progress}
           onToggleTopic={topicsHook.toggleTopic}

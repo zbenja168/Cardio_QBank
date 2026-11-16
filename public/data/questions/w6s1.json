@@ -48,7 +48,8 @@
         "septic-emboli",
         "tricuspid-valve",
         "S-aureus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-076",
@@ -95,7 +96,8 @@
         "viridans-streptococci",
         "subacute",
         "pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-077",
@@ -190,7 +192,8 @@
         "S-gallolyticus",
         "colon-cancer",
         "bacteremia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-079",
@@ -237,7 +240,8 @@
         "Duke-criteria",
         "Osler-nodes",
         "immunologic-phenomena"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-080",
@@ -379,7 +383,8 @@
         "prophylaxis",
         "dental-procedures",
         "amoxicillin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-083",
@@ -711,7 +716,8 @@
         "nonbacterial thrombotic endocarditis",
         "malignancy",
         "hypercoagulable state"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-090",
@@ -807,7 +813,8 @@
         "nonbacterial thrombotic endocarditis",
         "anticoagulation",
         "malignancy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-092",
@@ -1047,7 +1054,8 @@
         "nonbacterial thrombotic endocarditis",
         "diagnosis",
         "blood cultures"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-097",
@@ -1237,7 +1245,8 @@
         "uremia",
         "pathology",
         "dialysis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-003",
@@ -1284,7 +1293,8 @@
         "fibrinous-pericarditis",
         "post-MI",
         "autoimmune"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-004",
@@ -1613,7 +1623,8 @@
         "ST-elevation",
         "differential-diagnosis",
         "STEMI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-011",
@@ -1707,7 +1718,8 @@
         "viral-pericarditis",
         "first-line-treatment",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-013",
@@ -1754,7 +1766,8 @@
         "cardiac-catheterization",
         "hemodynamics",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-014",
@@ -1801,7 +1814,8 @@
         "tuberculosis",
         "etiology",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-015",
@@ -1848,7 +1862,8 @@
         "kussmaul-sign",
         "pathophysiology",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-016",
@@ -1942,7 +1957,8 @@
         "pericardiectomy",
         "management",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-018",
@@ -2366,7 +2382,8 @@
         "neurogenic-shock",
         "hemodynamics",
         "spinal-cord-injury"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-089",
@@ -2747,7 +2764,8 @@
         "distributive-shock",
         "hemodynamics",
         "postoperative"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-097",
@@ -2794,7 +2812,8 @@
         "hypovolemic-shock",
         "compensatory-mechanisms",
         "hemorrhage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-098",
@@ -2841,7 +2860,8 @@
         "cardiogenic-shock",
         "hemodynamic-monitoring",
         "pulmonary-artery-catheter"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-099",
@@ -2888,7 +2908,8 @@
         "inotropes",
         "dobutamine",
         "hemodynamics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-100",
@@ -2935,7 +2956,8 @@
         "norepinephrine",
         "vasopressors",
         "receptor-pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-101",
@@ -2982,7 +3004,8 @@
         "hemodynamics",
         "spinal-cord-injury",
         "differential-diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-102",
@@ -3217,7 +3240,8 @@
         "fluid-resuscitation",
         "hemorrhage",
         "preload"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-107",
@@ -3452,7 +3476,8 @@
         "trauma",
         "pathophysiology",
         "emergency-medicine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-026",
@@ -3499,7 +3524,8 @@
         "electrical-alternans",
         "ECG",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-027",
@@ -3546,7 +3572,8 @@
         "pericardiocentesis",
         "uremia",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-028",
@@ -3734,7 +3761,8 @@
         "pulsus-paradoxus",
         "pathophysiology",
         "cardiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pd-032",

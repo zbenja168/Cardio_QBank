@@ -48,7 +48,8 @@
         "lipohyalinosis",
         "cerebrovascular disease",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-002",
@@ -143,7 +144,8 @@
         "diastolic dysfunction",
         "heart failure",
         "afterload"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-004",
@@ -190,7 +192,8 @@
         "primary hypertension",
         "diagnosis",
         "risk factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-005",
@@ -478,7 +481,8 @@
         "pulmonary edema",
         "myocardial infarction",
         "end-organ damage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-011",
@@ -621,7 +625,8 @@
         "dry cough",
         "adverse effects",
         "lisinopril"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-014",
@@ -717,7 +722,8 @@
         "angiotensin II",
         "aldosterone",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-016",
@@ -765,7 +771,8 @@
         "peripheral edema",
         "adverse effects",
         "capillary hydrostatic pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-017",
@@ -955,7 +962,8 @@
         "combination therapy",
         "fixed-dose combination",
         "treatment guidelines"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-021",
@@ -1193,7 +1201,8 @@
         "fibromuscular-dysplasia",
         "renal-artery-stenosis",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-026",
@@ -1334,7 +1343,8 @@
         "pheochromocytoma",
         "diagnosis",
         "endocrine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-029",
@@ -1380,7 +1390,8 @@
         "secondary-hypertension",
         "obstructive-sleep-apnea",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-030",
@@ -1521,7 +1532,8 @@
         "hyperaldosteronism",
         "conn-syndrome",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-033",
@@ -1756,7 +1768,8 @@
         "hypertensive-encephalopathy",
         "pathophysiology",
         "neurology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-038",
@@ -1850,7 +1863,8 @@
         "histopathology",
         "hyperplastic-arteriolosclerosis",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-040",
@@ -1944,7 +1958,8 @@
         "severe-asymptomatic-hypertension",
         "management",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-042",
@@ -2226,7 +2241,8 @@
         "rate-of-control",
         "ischemia",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ht-048",

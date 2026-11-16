@@ -47,7 +47,8 @@
         "dilated-cardiomyopathy",
         "pathophysiology",
         "eccentric-hypertrophy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-002",
@@ -188,7 +189,8 @@
         "dilated-cardiomyopathy",
         "alcoholic-cardiomyopathy",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-005",
@@ -235,7 +237,8 @@
         "dilated-cardiomyopathy",
         "myocarditis",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-006",
@@ -282,7 +285,8 @@
         "dilated-cardiomyopathy",
         "drug-toxicity",
         "oncology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-007",
@@ -614,7 +618,8 @@
         "hypertension",
         "concentric-hypertrophy",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-014",
@@ -662,7 +667,8 @@
         "genetics",
         "autosomal-dominant",
         "sudden-cardiac-death"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-015",
@@ -710,7 +716,8 @@
         "physical-examination",
         "valsalva",
         "murmur"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-016",
@@ -948,7 +955,8 @@
         "pharmacology",
         "beta-blocker",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-021",
@@ -996,7 +1004,8 @@
         "histology",
         "myocyte-disarray",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-022",
@@ -1282,7 +1291,8 @@
         "restrictive-cardiomyopathy",
         "radiation-fibrosis",
         "diastolic-dysfunction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-028",
@@ -1330,7 +1340,8 @@
         "amyloidosis",
         "histology",
         "multiple-myeloma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-029",
@@ -1426,7 +1437,8 @@
         "kussmaul-sign",
         "physical-examination",
         "sarcoidosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-031",
@@ -1474,7 +1486,8 @@
         "hemochromatosis",
         "management",
         "chelation-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-032",
@@ -1858,7 +1871,8 @@
         "sudden-cardiac-death",
         "epsilon-wave",
         "ventricular-tachycardia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-040",
@@ -2002,7 +2016,8 @@
         "desmosomes",
         "intercalated-discs",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-043",
@@ -2050,7 +2065,8 @@
         "management",
         "exercise-restriction",
         "lifestyle-modification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-044",
@@ -2435,7 +2451,8 @@
         "cardiac myxoma",
         "histology",
         "myxoid stroma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-102",
@@ -2532,7 +2549,8 @@
         "histology",
         "spider cells",
         "glycogen"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-104",
@@ -2580,7 +2598,8 @@
         "cardiac tumors",
         "metastatic disease",
         "epidemiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-105",

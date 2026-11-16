@@ -47,7 +47,8 @@
         "bicuspid-aortic-valve",
         "congenital-heart-disease",
         "echocardiography"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-002",
@@ -94,7 +95,8 @@
         "nitroglycerin",
         "preload-dependence",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-003",
@@ -282,7 +284,8 @@
         "physical-examination",
         "pulsus-parvus-et-tardus",
         "carotid-pulse"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-007",
@@ -470,7 +473,8 @@
         "valve-replacement",
         "management",
         "symptomatic-AS"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-011",
@@ -658,7 +662,8 @@
         "angina",
         "coronary-perfusion",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-015",
@@ -754,7 +759,8 @@
         "pulse pressure",
         "Frank-Starling mechanism",
         "endocarditis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-017",
@@ -802,7 +808,8 @@
         "Marfan syndrome",
         "management",
         "observation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-018",
@@ -850,7 +857,8 @@
         "eccentric hypertrophy",
         "dilated cardiomyopathy",
         "Law of Laplace"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-019",
@@ -1090,7 +1098,8 @@
         "congenital heart disease",
         "right heart failure",
         "pulmonary valve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-024",
@@ -1282,7 +1291,8 @@
         "Aschoff-bodies",
         "Anitschkow-cells",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-062",
@@ -1377,7 +1387,8 @@
         "Jones-criteria",
         "diagnosis",
         "classification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-064",
@@ -1424,7 +1435,8 @@
         "mitral-stenosis",
         "pathophysiology",
         "valvular-disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-065",
@@ -1471,7 +1483,8 @@
         "prophylaxis",
         "management",
         "secondary-prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-066",
@@ -1662,7 +1675,8 @@
         "molecular-mimicry",
         "M-protein",
         "immunology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-070",
@@ -1946,7 +1960,8 @@
         "acute MI",
         "papillary muscle rupture",
         "valvular heart disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-040",
@@ -1994,7 +2009,8 @@
         "physical examination",
         "auscultation",
         "hemodynamics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-041",
@@ -2042,7 +2058,8 @@
         "atrial fibrillation",
         "pathophysiology",
         "cardiac remodeling"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-042",
@@ -2234,7 +2251,8 @@
         "acute management",
         "pharmacology",
         "cardiogenic shock"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-046",
@@ -2522,7 +2540,8 @@
         "infective endocarditis",
         "IV drug use",
         "valvular heart disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-052",
@@ -2666,7 +2685,8 @@
         "jugular venous pressure",
         "JVP waveform",
         "physical examination"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-055",
@@ -2714,7 +2734,8 @@
         "rheumatic heart disease",
         "diastolic murmur",
         "right heart failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-056",
@@ -3002,7 +3023,8 @@
         "pregnancy",
         "pulmonary edema",
         "hemodynamics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-028",
@@ -3146,7 +3168,8 @@
         "balloon commissurotomy",
         "interventional cardiology",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-031",
@@ -3290,7 +3313,8 @@
         "rheumatic heart disease",
         "pathology",
         "fish-mouth valve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-034",
@@ -3434,7 +3458,8 @@
         "hemoptysis",
         "pulmonary hypertension",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vs-037",

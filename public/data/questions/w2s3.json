@@ -48,7 +48,8 @@
         "aorta",
         "tunica-media",
         "aortic-dissection"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-014",
@@ -96,7 +97,8 @@
         "fenestrated",
         "glomerulus",
         "permeability"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-015",
@@ -286,7 +288,8 @@
         "tunica-intima",
         "thrombosis",
         "coronary-artery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-019",
@@ -428,7 +431,8 @@
         "lymphatic-collecting-vessels",
         "lymphedema",
         "veins-comparison"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hi-022",
@@ -619,7 +623,8 @@
         "diagnosis",
         "ultrasound",
         "emergency"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-002",
@@ -667,7 +672,8 @@
         "management",
         "screening",
         "conservative"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-003",
@@ -859,7 +865,8 @@
         "infected-aneurysm",
         "management",
         "surgery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-007",
@@ -1003,7 +1010,8 @@
         "cystic-medial-degeneration",
         "pathology",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-010",
@@ -1196,7 +1204,8 @@
         "hypertension",
         "unequal-pulses",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-014",
@@ -1244,7 +1253,8 @@
         "cardiac-tamponade",
         "hemopericardium",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-015",
@@ -1292,7 +1302,8 @@
         "Marfan-syndrome",
         "beta-blocker",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-016",
@@ -1484,7 +1495,8 @@
         "diagnosis",
         "imaging",
         "unstable-patient"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-020",
@@ -1532,7 +1544,8 @@
         "surgical-repair",
         "management",
         "emergency"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-021",
@@ -1866,7 +1879,8 @@
         "GPA",
         "pathology",
         "pulmonology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-107",
@@ -1960,7 +1974,8 @@
         "IgA vasculitis",
         "pathophysiology",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-109",
@@ -2148,7 +2163,8 @@
         "EGPA",
         "cardiology",
         "prognosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-113",
@@ -2195,7 +2211,8 @@
         "IgA vasculitis",
         "prognosis",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-114",
@@ -2431,7 +2448,8 @@
         "temporal arteritis",
         "treatment",
         "vision loss"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-083",
@@ -2479,7 +2497,8 @@
         "CT angiography",
         "diagnosis",
         "pulseless disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-084",
@@ -2621,7 +2640,8 @@
         "giant cell arteritis",
         "association",
         "risk"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-087",
@@ -2955,7 +2975,8 @@
         "blindness",
         "ophthalmic artery",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-094",
@@ -3002,7 +3023,8 @@
         "Kawasaki disease",
         "cardiology",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-095",
@@ -3095,7 +3117,8 @@
         "medium-vessel-vasculitis",
         "polyarteritis nodosa",
         "rheumatology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-097",
@@ -3142,7 +3165,8 @@
         "polyarteritis nodosa",
         "pathology",
         "hepatitis B"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-098",
@@ -3189,7 +3213,8 @@
         "thromboangiitis obliterans",
         "management",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-099",

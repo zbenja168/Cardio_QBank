@@ -47,7 +47,8 @@
         "nitroglycerin",
         "drug-interaction",
         "sildenafil"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-046",
@@ -140,7 +141,8 @@
         "treatment-acs",
         "thrombolytics",
         "NSTEMI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-048",
@@ -234,7 +236,8 @@
         "heparin",
         "HIT",
         "thrombocytopenia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-050",
@@ -562,7 +565,8 @@
         "aspirin",
         "MONA",
         "mortality-benefit"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-057",
@@ -656,7 +660,8 @@
         "thrombolytics",
         "contraindications",
         "intracranial-hemorrhage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-061",
@@ -752,7 +757,8 @@
         "wells-score",
         "diagnostic-algorithm",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-063",
@@ -1088,7 +1094,8 @@
         "mechanism-of-action",
         "rivaroxaban",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-070",
@@ -1136,7 +1143,8 @@
         "thromboembolism-pathway",
         "postoperative-complications",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-071",
@@ -1184,7 +1192,8 @@
         "risk-factors",
         "smoking",
         "oral-contraceptives"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-072",
@@ -1280,7 +1289,8 @@
         "factor-Xa-inhibitor",
         "mechanism-of-action",
         "DVT"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-038",
@@ -1520,7 +1530,8 @@
         "contraindications",
         "warfarin-comparison",
         "indications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-043",
@@ -1568,7 +1579,8 @@
         "aPCC",
         "reversal",
         "bleeding-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-044",
@@ -1759,7 +1771,8 @@
         "stasis dermatitis",
         "hemosiderin",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-074",
@@ -1805,7 +1818,8 @@
         "superficial thrombophlebitis",
         "catheter-associated",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-075",
@@ -2043,7 +2057,8 @@
         "management",
         "compression stockings",
         "conservative treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-080",

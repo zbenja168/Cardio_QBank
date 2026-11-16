@@ -47,7 +47,8 @@
         "stable angina",
         "pathophysiology",
         "atherosclerosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-016",
@@ -94,7 +95,8 @@
         "unstable angina",
         "acute coronary syndrome",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-017",
@@ -141,7 +143,8 @@
         "vasospastic angina",
         "Prinzmetal angina",
         "ECG"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-018",
@@ -423,7 +426,8 @@
         "vasospastic angina",
         "Prinzmetal angina",
         "calcium channel blockers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-024",
@@ -470,7 +474,8 @@
         "statins",
         "pharmacology",
         "primary prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-025",
@@ -752,7 +757,8 @@
         "myocardial-infarction",
         "atypical-presentation",
         "diabetes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-031",
@@ -799,7 +805,8 @@
         "complications",
         "ventricular-rupture",
         "cardiac-tamponade"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-032",
@@ -940,7 +947,8 @@
         "NSTEMI",
         "pathology",
         "subendocardial"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-035",
@@ -1081,7 +1089,8 @@
         "histology",
         "granulation-tissue",
         "pathology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-038",
@@ -1269,7 +1278,8 @@
         "pathophysiology",
         "plaque-rupture",
         "atherosclerosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-042",
@@ -1459,7 +1469,8 @@
         "anterior-MI",
         "LAD",
         "coronary-anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-036",
@@ -1555,7 +1566,8 @@
         "ST-depression",
         "subendocardial-ischemia",
         "NSTEMI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-038",
@@ -1603,7 +1615,8 @@
         "STEMI",
         "proximal-LAD",
         "extensive-anterior-MI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-039",
@@ -1651,7 +1664,8 @@
         "reciprocal-changes",
         "inferior-STEMI",
         "ST-depression"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-040",
@@ -1939,7 +1953,8 @@
         "ST-segment",
         "action-potential",
         "plateau-phase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-046",

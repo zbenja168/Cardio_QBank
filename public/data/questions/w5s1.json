@@ -48,7 +48,8 @@
         "concentric-hypertrophy",
         "sarcomeres",
         "HFpEF"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-050",
@@ -144,7 +145,8 @@
         "pressure-volume-loop",
         "ESPVR",
         "HFrEF"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-052",
@@ -240,7 +242,8 @@
         "RAAS",
         "ACE-inhibitors",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-054",
@@ -577,7 +580,8 @@
         "diastolic-dysfunction",
         "ischemia",
         "calcium-handling"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-053",
@@ -625,7 +629,8 @@
         "Starling forces",
         "oncotic pressure",
         "diabetic kidney disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-054",
@@ -770,7 +775,8 @@
         "RAAS",
         "capillary hydrostatic pressure",
         "venous congestion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-057",
@@ -914,7 +920,8 @@
         "end-stage kidney disease",
         "gas exchange",
         "lung compliance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-060",
@@ -1106,7 +1113,8 @@
         "DVT",
         "diuretics",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-064",
@@ -1202,7 +1210,8 @@
         "diagnosis",
         "PND",
         "specificity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-062",
@@ -1250,7 +1259,8 @@
         "right-sided-HF",
         "hepatojugular-reflux",
         "etiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-063",
@@ -1298,7 +1308,8 @@
         "diagnosis",
         "BNP",
         "negative-predictive-value"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-064",
@@ -1441,7 +1452,8 @@
         "heart-failure",
         "NYHA-classification",
         "functional-status"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-067",
@@ -1778,7 +1790,8 @@
         "pharmacology",
         "GDMT",
         "SGLT2-inhibitors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-074",
@@ -1874,7 +1887,8 @@
         "pharmacology",
         "ACE-inhibitors",
         "adverse-effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-076",
@@ -2019,7 +2033,8 @@
         "diastolic-HF",
         "HFpEF",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-079",
@@ -2115,7 +2130,8 @@
         "pharmacology",
         "ARNI",
         "sacubitril"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-081",
@@ -2259,7 +2275,8 @@
         "pharmacology",
         "digoxin",
         "mechanism-of-action"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ch-084",

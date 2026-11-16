@@ -95,7 +95,8 @@
         "coronary-steal",
         "pharmacology",
         "stress-testing"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-073",
@@ -142,7 +143,8 @@
         "coronary-blood-flow",
         "oxygen-extraction",
         "arteriovenous-oxygen-difference"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-074",
@@ -190,7 +192,8 @@
         "beta-blockers",
         "myocardial-oxygen-demand",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-075",
@@ -380,7 +383,8 @@
         "functional-sympatholysis",
         "metabolic-regulation",
         "exercise"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-079",
@@ -619,7 +623,8 @@
         "pathology",
         "foam cells",
         "macrophages"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-002",
@@ -712,7 +717,8 @@
         "thrombosis",
         "pathophysiology",
         "plaque rupture"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-004",
@@ -758,7 +764,8 @@
         "atherosclerosis",
         "peripheral artery disease",
         "intermittent claudication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-005",
@@ -805,7 +812,8 @@
         "statins",
         "pharmacology",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-006",
@@ -1087,7 +1095,8 @@
         "risk factors",
         "genetics",
         "family history"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-012",
@@ -1277,7 +1286,8 @@
         "thromboembolism",
         "acute-limb-ischemia",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-050",
@@ -1325,7 +1335,8 @@
         "arteriography",
         "livedo-reticularis",
         "cholesterol-crystals"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-051",
@@ -1373,7 +1384,8 @@
         "atrial-fibrillation",
         "abdominal-pain",
         "clinical-presentation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-052",
@@ -1709,7 +1721,8 @@
         "thrombolysis",
         "atrial-fibrillation",
         "acute-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-059",
@@ -1852,7 +1865,8 @@
         "amaurosis-fugax",
         "retinal-artery-occlusion",
         "embolism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-040",
@@ -1899,7 +1913,8 @@
         "medical-management",
         "antihypertensives",
         "asymptomatic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-041",
@@ -1946,7 +1961,8 @@
         "TIA",
         "carotid-endarterectomy",
         "surgical-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-042",
@@ -2419,7 +2435,8 @@
         "prodrug",
         "CYP2C19",
         "liver-disease"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-028",
@@ -2563,7 +2580,8 @@
         "Reye-syndrome",
         "pediatrics",
         "contraindications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-031",
@@ -2611,7 +2629,8 @@
         "abciximab",
         "PCI",
         "bleeding"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-032",
@@ -2851,7 +2870,8 @@
         "adhesion-activation-aggregation",
         "GpIIb-IIIa",
         "dual-antiplatelet-therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-027",
@@ -2898,7 +2918,8 @@
         "intermittent-claudication",
         "management",
         "vascular-surgery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-028",
@@ -2945,7 +2966,8 @@
         "acute-limb-ischemia",
         "6-Ps",
         "atrial-fibrillation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-029",
@@ -2992,7 +3014,8 @@
         "ankle-brachial-index",
         "diabetes",
         "Leriche-syndrome"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-030",
@@ -3322,7 +3345,8 @@
         "Leriche-syndrome",
         "aortoiliac-disease",
         "anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "vd-037",

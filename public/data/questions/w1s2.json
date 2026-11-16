@@ -48,7 +48,8 @@
         "ventricular-hypertrophy",
         "diastolic-dysfunction",
         "heart-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-026",
@@ -96,7 +97,8 @@
         "beta-1-receptors",
         "catecholamines",
         "exercise-physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-027",
@@ -144,7 +146,8 @@
         "Frank-Starling",
         "hemorrhage",
         "stroke-volume"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-028",
@@ -336,7 +339,8 @@
         "heart-failure",
         "stroke-volume",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-032",
@@ -623,7 +627,8 @@
         "cardiac output",
         "oxygen consumption",
         "hemodynamic monitoring"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-038",
@@ -670,7 +675,8 @@
         "HFrEF",
         "stroke volume",
         "end-diastolic volume"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-039",
@@ -763,7 +769,8 @@
         "diastolic dysfunction",
         "ejection fraction",
         "stroke volume"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-041",
@@ -1139,7 +1146,8 @@
         "hemorrhage",
         "mean circulatory filling pressure",
         "hypovolemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-049",
@@ -1233,7 +1241,8 @@
         "calcium channel blocker",
         "cardiac function curve",
         "vascular function curve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-051",
@@ -1421,7 +1430,8 @@
         "steady-state operating point",
         "right atrial pressure",
         "myocardial infarction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-055",
@@ -1609,7 +1619,8 @@
         "contractility",
         "steady-state operating point",
         "cardiac function curve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-059",
@@ -1656,7 +1667,8 @@
         "pressure-volume-loops",
         "afterload",
         "hypertension"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-060",
@@ -1703,7 +1715,8 @@
         "pressure-volume-loops",
         "contractility",
         "myocardial-infarction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-061",
@@ -1987,7 +2000,8 @@
         "pressure-volume-loops",
         "cardiac-cycle",
         "isovolumetric-contraction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-067",
@@ -2128,7 +2142,8 @@
         "pressure-volume-loops",
         "stroke-work",
         "heart-failure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-070",
@@ -2224,7 +2239,8 @@
         "Einthoven triangle",
         "electrical ground",
         "right leg electrode"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-002",
@@ -2272,7 +2288,8 @@
         "V1 placement",
         "electrode placement",
         "lead misplacement"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-003",
@@ -2513,7 +2530,8 @@
         "horizontal plane",
         "transverse plane",
         "myocardial ischemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-008",
@@ -2752,7 +2770,8 @@
         "depolarization",
         "electrical vector",
         "Ohm law"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-013",
@@ -2800,7 +2819,8 @@
         "septal depolarization",
         "lead II",
         "QRS complex"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-014",
@@ -2847,7 +2867,8 @@
         "heart rate calculation",
         "large box method",
         "R-R interval"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-015",
@@ -2991,7 +3012,8 @@
         "QT prolongation",
         "ventricular arrhythmia",
         "QTc"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-018",
@@ -3326,7 +3348,8 @@
         "AV node",
         "conduction delay",
         "autonomic nervous system"
-      ]
+      ],
+      "hy": true
     }
   ]
 }

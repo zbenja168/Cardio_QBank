@@ -96,7 +96,8 @@
         "sixth aortic arch",
         "ductus arteriosus",
         "coarctation repair"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-046",
@@ -240,7 +241,8 @@
         "sixth aortic arch regression",
         "right subclavian artery",
         "thyroidectomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-049",
@@ -288,7 +290,8 @@
         "ductus arteriosus",
         "pulmonary artery",
         "patent ductus arteriosus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ae-050",
@@ -527,7 +530,8 @@
         "congenital-heart-disease",
         "eisenmenger-syndrome",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-002",
@@ -715,7 +719,8 @@
         "congenital-heart-disease",
         "embryology",
         "transposition-great-arteries"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-006",
@@ -903,7 +908,8 @@
         "congenital-heart-disease",
         "teratology",
         "ebstein-anomaly"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-010",
@@ -997,7 +1003,8 @@
         "obstructive-chd",
         "coarctation-aorta",
         "turner-syndrome"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-012",
@@ -1044,7 +1051,8 @@
         "obstructive-chd",
         "coarctation-aorta",
         "neonatal-management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-013",
@@ -1091,7 +1099,8 @@
         "obstructive-chd",
         "coarctation-aorta",
         "radiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-014",
@@ -1279,7 +1288,8 @@
         "obstructive-chd",
         "aortic-valve-stenosis",
         "bicuspid-aortic-valve"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-018",
@@ -1562,7 +1572,8 @@
         "PDA",
         "pharmacology",
         "neonatology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-024",
@@ -1610,7 +1621,8 @@
         "PDA",
         "Eisenmenger syndrome",
         "differential cyanosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-025",
@@ -1657,7 +1669,8 @@
         "embryology",
         "ASD",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-026",
@@ -1705,7 +1718,8 @@
         "VSD",
         "cardiac catheterization",
         "hemodynamics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-027",
@@ -1896,7 +1910,8 @@
         "PDA",
         "management",
         "surgery"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-031",
@@ -2231,7 +2246,8 @@
         "tetralogy of Fallot",
         "tet spell",
         "pathophysiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-038",
@@ -2278,7 +2294,8 @@
         "embryology",
         "tetralogy of Fallot",
         "pediatrics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-039",
@@ -2326,7 +2343,8 @@
         "TGA",
         "emergency management",
         "neonatology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-040",
@@ -2374,7 +2392,8 @@
         "tricuspid atresia",
         "pharmacology",
         "PGE1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-041",
@@ -2470,7 +2489,8 @@
         "truncus arteriosus",
         "genetics",
         "DiGeorge syndrome"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cn-043",

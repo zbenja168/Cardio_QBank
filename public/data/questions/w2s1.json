@@ -94,7 +94,8 @@
         "systemic vascular resistance",
         "vasodilation",
         "hemodynamics"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-015",
@@ -141,7 +142,8 @@
         "hemorrhage",
         "compensatory mechanisms",
         "sympathetic activation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-016",
@@ -423,7 +425,8 @@
         "arterial compliance",
         "calcium buildup",
         "hypertension"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-022",
@@ -612,7 +615,8 @@
         "sympathetic activation",
         "CN IX",
         "CN X"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-026",
@@ -800,7 +804,8 @@
         "tonic activity",
         "baseline firing",
         "blood pressure regulation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-030",
@@ -847,7 +852,8 @@
         "baroreceptor reflex",
         "standing",
         "venous pooling"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-031",
@@ -990,7 +996,8 @@
         "BNP",
         "heart-failure",
         "natriuresis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-034",
@@ -1037,7 +1044,8 @@
         "bradykinin",
         "ACE-inhibitor",
         "angioedema"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-035",
@@ -1085,7 +1093,8 @@
         "ADH",
         "hemorrhagic-shock",
         "V1a-receptor"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-036",
@@ -1467,7 +1476,8 @@
         "arterial-stiffness",
         "pulse-pressure",
         "aging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-002",
@@ -1515,7 +1525,8 @@
         "mean-arterial-pressure",
         "calculation",
         "physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-003",
@@ -1563,7 +1574,8 @@
         "ankle-brachial-index",
         "peripheral-arterial-disease",
         "atherosclerosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-004",
@@ -1611,7 +1623,8 @@
         "laplace-law",
         "wall-tension",
         "aneurysm"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-005",
@@ -2091,7 +2104,8 @@
         "pulmonary-edema",
         "hydrostatic-pressure",
         "physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-085",
@@ -2139,7 +2153,8 @@
         "net-filtration-pressure",
         "calculation",
         "physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-086",
@@ -2283,7 +2298,8 @@
         "intravascular",
         "interstitial",
         "physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cp-089",
@@ -2571,7 +2587,8 @@
         "nephrotic-syndrome",
         "anasarca",
         "edema"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-043",
@@ -2618,7 +2635,8 @@
         "myogenic-response",
         "autoregulation",
         "cerebral-blood-flow"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-044",
@@ -2712,7 +2730,8 @@
         "functional-sympatholysis",
         "exercise",
         "metabolic-control"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-046",
@@ -3046,7 +3065,8 @@
         "baroreceptor-reflex",
         "bradycardia",
         "alpha-1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-065",
@@ -3190,7 +3210,8 @@
         "vasodilation",
         "systemic vascular resistance",
         "inflammatory mediators"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-068",
@@ -3238,7 +3259,8 @@
         "mineralocorticoid",
         "orthostatic hypotension",
         "pharmacology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hb-069",
@@ -3526,7 +3548,8 @@
         "autoregulation",
         "mean arterial pressure",
         "brain vulnerability"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-025",
@@ -3717,7 +3740,8 @@
         "P-wave-axis",
         "sinus-bradycardia",
         "SA-node"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-029",
@@ -3909,7 +3933,8 @@
         "sinus-tachycardia",
         "P-P-interval",
         "interval-changes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "ea-033",
@@ -4005,7 +4030,8 @@
         "sinus-bradycardia",
         "vagal-tone",
         "athletic-heart"
-      ]
+      ],
+      "hy": true
     }
   ]
 }

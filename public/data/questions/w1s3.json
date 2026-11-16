@@ -48,7 +48,8 @@
         "Fredrickson type IV",
         "VLDL",
         "pancreatitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-048",
@@ -144,7 +145,8 @@
         "Fredrickson type IIa",
         "LDLR mutation",
         "autosomal dominant"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-050",
@@ -192,7 +194,8 @@
         "Fredrickson type III",
         "APOE",
         "palmar xanthomas"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-051",
@@ -383,7 +386,8 @@
         "medication-induced",
         "hydrochlorothiazide",
         "beta-blockers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-055",
@@ -670,7 +674,8 @@
         "CYP3A4",
         "drug interaction",
         "rhabdomyolysis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-061",
@@ -814,7 +819,8 @@
         "gallstones",
         "adverse effects",
         "hypertriglyceridemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-064",
@@ -1006,7 +1012,8 @@
         "prostaglandin",
         "aspirin",
         "adverse effects"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-068",
@@ -1150,7 +1157,8 @@
         "coronary calcium score",
         "cardiovascular risk assessment",
         "laboratory parameters"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-081",
@@ -1246,7 +1254,8 @@
         "intermediate risk",
         "10-year risk",
         "risk categories"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-083",
@@ -1294,7 +1303,8 @@
         "diabetes",
         "LDL-C >190",
         "treatment recommendations"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-084",
@@ -1582,7 +1592,8 @@
         "combination therapy",
         "ezetimibe",
         "secondary prevention"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-070",
@@ -1630,7 +1641,8 @@
         "statin therapy",
         "primary prevention",
         "treatment thresholds"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-071",
@@ -1726,7 +1738,8 @@
         "high-intensity statin",
         "familial hypercholesterolemia",
         "risk enhancers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cv-073",
@@ -2061,7 +2074,8 @@
         "trauma",
         "aortic-disruption",
         "CT-angiography"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-060",
@@ -2108,7 +2122,8 @@
         "pulmonary-edema",
         "Kerley-B-lines",
         "chest-radiograph"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-061",
@@ -2296,7 +2311,8 @@
         "AAA-screening",
         "ultrasound",
         "preventive-medicine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-065",
@@ -2343,7 +2359,8 @@
         "stress-echo",
         "coronary-anatomy",
         "RWMA"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cd-066",
