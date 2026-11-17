@@ -76,12 +76,12 @@
           "text": "Juxtacapillary C-fiber receptors"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "A",
       "explanation": {
-        "summary": "Central chemoreceptors in the ventral medulla respond to decreased CSF pH. In metabolic acidosis, the primary stimulus driving ventilation is the decreased pH sensed centrally. CO2 crosses the blood-brain barrier and lowers CSF pH, stimulating these receptors.",
-        "whyCorrect": "Central chemoreceptors detect decreased CSF pH resulting from CO2 diffusion across the blood-brain barrier and conversion to H+ via carbonic anhydrase. Although blood H+ cannot cross the BBB directly, sustained metabolic acidosis eventually lowers CSF pH through compensatory mechanisms, driving the hyperventilation seen here.",
+        "summary": "In acute metabolic acidosis, the peripheral chemoreceptors of the carotid bodies sense the rise in arterial H+ and drive the compensatory hyperventilation (Kussmaul breathing).",
+        "whyCorrect": "The carotid bodies respond directly to arterial H+, which rises in metabolic acidosis (here from chronic kidney disease, HCO3- 9 mEq/L). They are the primary sensor driving the increased ventilation that lowers PaCO2 to 22 mmHg. H+ crosses the blood-brain barrier poorly, so the central chemoreceptors do not sense the acidemia directly.",
         "whyWrongByChoice": {
-          "A": "Peripheral chemoreceptors in the carotid body primarily detect low PaO2 (below 75 mmHg). This patient's PaO2 is 96 mmHg, so hypoxemia is not the stimulus driving his ventilation.",
+          "B": "Central medullary chemoreceptors respond to CSF pH, which is set mainly by PaCO2 because CO2 crosses the blood-brain barrier and H+ does not. In metabolic acidosis the hyperventilation lowers PaCO2, which raises CSF pH and actually reduces central drive; the stimulus is sensed peripherally.",
           "C": "Pulmonary stretch receptors detect lung distension and mediate the Hering-Breuer reflex. They limit overinflation but do not drive compensatory hyperventilation in metabolic acidosis.",
           "D": "Aortic body baroreceptors sense blood pressure changes, not pH or blood gas alterations. They are part of cardiovascular, not respiratory, reflex pathways.",
           "E": "Juxtacapillary receptors respond to pulmonary congestion and interstitial edema, causing rapid shallow breathing. They are not involved in the response to metabolic acidosis."
@@ -91,8 +91,8 @@
       "imageRef": null,
       "tags": [
         "physiology",
-        "central-chemoreceptors",
-        "CSF-pH",
+        "peripheral-chemoreceptors",
+        "metabolic-acidosis",
         "ventilation-control"
       ]
     },

@@ -488,7 +488,7 @@
       "id": "ht-011",
       "topicId": "hypertension-foundations",
       "topicName": "Hypertension: Foundations and Frameworks",
-      "stem": "A 55-year-old woman has blood pressure readings of 124/82 mm Hg and 126/78 mm Hg on two separate office visits 3 weeks apart. She has no comorbidities. According to current classification guidelines, which of the following best categorizes this patient's blood pressure?",
+      "stem": "A 55-year-old woman has blood pressure readings of 124/76 mm Hg and 126/74 mm Hg on two separate office visits 3 weeks apart. She has no comorbidities. According to current classification guidelines, which of the following best categorizes this patient's blood pressure?",
       "choices": [
         {
           "label": "A",
@@ -513,11 +513,11 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Systolic blood pressure of 120-129 mm Hg and/or diastolic 80-89 mm Hg is classified as elevated blood pressure, which warrants lifestyle modifications.",
-        "whyCorrect": "According to the blood pressure classification table, elevated blood pressure is defined as systolic 120-129 mm Hg and/or diastolic 80-89 mm Hg. This patient's average readings of approximately 125/80 mm Hg fall into this category. Lifestyle modifications are the appropriate intervention at this stage.",
+        "summary": "Systolic blood pressure of 120-129 mm Hg with diastolic below 80 mm Hg is classified as elevated blood pressure, which warrants lifestyle modifications.",
+        "whyCorrect": "According to the blood pressure classification table, elevated blood pressure is defined as systolic 120-129 mm Hg and diastolic <80 mm Hg. This patient's average reading of about 125/75 mm Hg falls into this category. Lifestyle modifications are the appropriate intervention at this stage.",
         "whyWrongByChoice": {
           "A": "Normal blood pressure is defined as systolic <120 mm Hg and diastolic <80 mm Hg. This patient's systolic readings of 124-126 mm Hg exceed the normal threshold, placing her in the elevated category.",
-          "C": "Stage 1 hypertension is defined as systolic 130-139 mm Hg and/or diastolic 80-89 mm Hg. This patient's systolic readings are consistently below 130 mm Hg, so she does not meet criteria for stage 1 hypertension.",
+          "C": "Stage 1 hypertension is defined as systolic 130-139 mm Hg or diastolic 80-89 mm Hg. This patient's systolic readings are below 130 mm Hg and her diastolic readings are below 80 mm Hg, so she does not meet criteria for stage 1 hypertension.",
           "D": "Stage 2 hypertension requires systolic BP ≥140 mm Hg and/or diastolic ≥90 mm Hg. This patient's readings are well below these thresholds.",
           "E": "Severe asymptomatic hypertension requires systolic BP ≥180 mm Hg and/or diastolic ≥120 mm Hg. This patient's blood pressure is significantly below these values."
         }
